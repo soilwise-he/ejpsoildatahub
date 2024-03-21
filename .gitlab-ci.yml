@@ -9,12 +9,12 @@ metadata:
   image: harbor.containers.wurnet.nl/isric/pygeodatacrawler:1.1.4
   stage: metadata
   script:
+    - export PYCSW_DB=postgresql://$POSTGRES_ROLE:$POSTGRES_PW@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST
+    - echo "deploy postgresql://$POSTGRES_ROLE:*****@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST"
     # init database if it does not exist
     - pip install sqlalchemy
     - pycsw-admin.py setup-db -c ./pycsw.cfg
     # covert yml to iso (only changed?)
-    - export PYCSW_DB=postgresql://$POSTGRES_ROLE:$POSTGRES_PW@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST
-    - echo "deploy $PYCSW_DB"
     - export pgdc_webdav_url=https://soilwise-he.containers.wurnet.nl/cat/collections/metadata:main/items
     - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
     - export pgdc_canonical_url=https://github.com/soilwise-he/soilinfohub/tree/main/datasets/
