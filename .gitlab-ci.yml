@@ -12,8 +12,8 @@ metadata:
     - export PYCSW_DB=postgresql://$POSTGRES_ROLE:$POSTGRES_PW@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST
     - echo "deploy postgresql://$POSTGRES_ROLE:*****@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST"
     # init database if it does not exist
-    - pip install sqlalchemy
-    - pycsw-admin.py setup-db -c ./pycsw.cfg
+    #- pip install sqlalchemy
+    #- pycsw-admin.py setup-db -c ./pycsw.cfg
     # covert yml to iso (only changed?)
     - export pgdc_webdav_url=https://soilwise-he.containers.wurnet.nl/cat/collections/metadata:main/items
     - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
