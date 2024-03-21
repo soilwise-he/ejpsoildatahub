@@ -12,6 +12,9 @@ The initial format for data submission is CSV, according to a predefined templat
 
 This repository is maintained in the scope of the [Soilwise HE](https://soilwise-he.eu/) project.
 
+A CI-CD pipeline synchronises this content with a dedicated gitlab instance @Wageningen university, from which the records are exported to a PostGreSQL database. 
+The configuration of the gitlab repository and database are stored as secrets on the git project.
+
 <hr>
 
 ## EJP Soil
