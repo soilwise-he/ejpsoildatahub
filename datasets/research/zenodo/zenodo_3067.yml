@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2630115
+  dataseturi: https://doi.org/10.5281/zenodo.2630115
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Zinc and copper availability in herbage and soil of a Pinus radiata silvopastoral
+    system in Northwest Spain after sewage-sludge and lime application
+  abstract: 'Silvopastoral systems are ancient farming systems in the world, consisting
+    of the combination of
+
+    a woody component (trees or shrubs) and crops and/or animals within the same land-management
+    unit. In various European Union (EU) countries, the possibility of using sewage
+    sludge as a fertilizer is under consideration as a viable method of disposal,
+    considering the increase in sewage-sludge production in recent years and the restrictions
+    imposed by European policy on the usual methods of disposal. The concern is the
+    concentration of heavy metals, which can reach humans through the food chain.
+    In Spain, R.D. 1310/1990, as well as European Directive 86/278, limit the total
+    in-soil heavy-metal concentration, but not the solubility changes, which directly
+    affect plant absorption and leaching of heavy metals throughout the soil profile.
+    The objective of this experiment was to compare, in a silvopastoral system over
+    a period of 3 years, the effect of applying three doses of sewage sludge combined
+    with and without liming, on total and available soil Zn and Cu and their concentration
+    in plants. Liming did not affectct Zn and Cu availability; however, sewage sludge
+    increased Zn and Cu availability, though total in-soil Zn was increased only in
+    November 2000. In-plant Zn concentration was increased by sewage sludge in the
+    last 2 years of the study. In all cases, the quality of forage obtained and measured
+    with regard to the concentrations of Zn and Cu was adequate for animal consumption.
+    With respect to sewage-sludge application as a fertilizer, the management of heavy-metal
+    availability must be included in the policy, because environmental risk could
+    then be adequately evaluated.'
+  keywords:
+    default:
+      keywords:
+        subject: organic fertilization
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-08-10'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2630115
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2630114
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Rosa-Mosquera-Losada:
+    individualname: M. Rosa Mosquera-Losada
+    role: creator
+    organization: ''
+    url: ''
+  M.-Lourdes-Lopez-Diaz:
+    individualname: "M. Lourdes L\xF3pez-D\xEDaz"
+    role: creator
+    organization: ''
+    url: ''
+  and-Antonio-Rigueiro-Rodriguez:
+    individualname: "and Antonio Rigueiro-Rodr\xEDguez"
+    role: creator
+  And-Antonio-Rigueiro-Rodriguez:
+    individualname: "And Antonio Rigueiro-Rodr\xEDguez"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

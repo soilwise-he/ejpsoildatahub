@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2542129
+  dataseturi: https://doi.org/10.5281/zenodo.2542129
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The biological process activization in soil under Clematis as the basis of
+    its fertility increasing
+  abstract: The results of the effect of non-humificated organic matter on biological
+    activity of soil under clematis are presented. It has been shown that application
+    as green-manure marigold, calendula, beans after 6 and 24 months, increases the
+    number of microorga nisms belonging to the main ecological-trophic and taxonomic
+    groups. Noticeable increasing of humus contents, decreasing of soil acidity, iron
+    and manganese has been established. This testifies that soil structure has improved
+    and soil-sickness has eliminated.
+  keywords:
+    default:
+      keywords:
+        subject: cellulolyitic activity
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2012-06-01'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2542129
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2542128
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.E.-Ellanska:
+    individualname: N.E. Ellanska
+    role: creator
+    organization: M. M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  N.G.-Vakhnovska:
+    individualname: N.G. Vakhnovska
+    role: creator
+    organization: M. M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  I.P.-Kharytonova:
+    individualname: I.P. Kharytonova
+    role: creator
+    organization: M. M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  O.P.-Yunosheva:
+    individualname: O.P. Yunosheva
+    role: creator
+    organization: M. M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

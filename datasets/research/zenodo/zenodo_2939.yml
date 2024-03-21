@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Eggleton_2002
+  dataseturi: https://doi.org/10.1080/00222930110048918
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The termites of the Mayombe Forest Reserve, Congo (Brazzaville): transect
+    sampling reveals an extremely high diversity of ground-nesting soil feeders'
+  abstract: 'Eggleton, P., Davies, R. G., Connetable, S., Bignell, D. E., Rouland,
+    C. (2002): The termites of the Mayombe Forest Reserve, Congo (Brazzaville): transect
+    sampling reveals an extremely high diversity of ground-nesting soil feeders. Journal
+    of Natural History 36 (10): 1239-1246, DOI: 10.1080/00222930110048918, URL: http://www.tandfonline.com/doi/abs/10.1080/00222930110048918'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The termites of the Mayombe Forest Reserve, Congo (Brazzaville): transect
+      sampling reveals an extremely high diversity of ground-nesting soil feeders'
+    url: http://dx.doi.org/10.1080/00222930110048918
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Eggleton-P.:
+    individualname: Eggleton, P.
+    role: creator
+  Davies-R.-G.:
+    individualname: Davies, R. G.
+    role: creator
+  Connetable-S.:
+    individualname: Connetable, S.
+    role: creator
+  Bignell-D.-E.:
+    individualname: Bignell, D. E.
+    role: creator
+  Rouland-C.:
+    individualname: Rouland, C.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

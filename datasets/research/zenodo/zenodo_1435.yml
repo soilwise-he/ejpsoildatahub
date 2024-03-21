@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Karyotis_2021
+  dataseturi: https://doi.org/10.3390/land10010063
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Evaluation of a Micro-Electro Mechanical Systems Spectral Sensor for Soil
+    Properties Estimation
+  abstract: '&lt;p&gt;Soil properties estimation with the use of reflectance spectroscopy
+    has met major advances&nbsp;over the last decades. Their non-destructive nature
+    and their high accuracy capacity enabled a&nbsp;breakthrough in the efficiency
+    of performing soil analysis against conventional laboratory techniques.&nbsp;As
+    the need for rapid, low cost, and accurate soil properties&rsquo; estimations
+    increases, micro electro mechanical&nbsp;systems (MEMS) have been introduced and
+    are becoming applicable for informed decision&nbsp;making in various domains.
+    This work presents the assessment of a MEMS sensor (1750&ndash;2150 nm) in&nbsp;estimating
+    clay and soil organic carbon (SOC) contents. The sensor was first tested under
+    various&nbsp;experimental setups (different working distances and light intensities)
+    through its similarity assessment&nbsp;(Spectral Angle Mapper) to the measurements
+    of a spectroradiometer of the full 350&ndash;2500 nm&nbsp;range that was used
+    as reference. MEMS performance was evaluated over spectra measured from&nbsp;102
+    samples in laboratory conditions. Models&rsquo;&nbsp; calibrations were performed
+    using random forest (RF)&nbsp;and partial least squares regression (PLSR). The
+    results provide insights that MEMS could be employed&nbsp;for soil properties
+    estimation, since the RF model demonstrated solid performance over both&nbsp;clay
+    (R2 = 0.85) and SOC (R2 = 0.80). These findings pave the way for supporting daily
+    agriculture&nbsp;applications and land related policies through the exploration
+    of a wider set of soil properties.&nbsp;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - clay
+      - soil organic carbon
+      - MEMS
+      - soil spectroscopy
+      - NIR
+      - random forest
+      - machine learning
+      - SWIR
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Evaluation of a Micro-Electro Mechanical Systems Spectral Sensor for Soil
+      Properties Estimation
+    url: http://dx.doi.org/10.3390/land10010063
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Konstantinos-Karyotis:
+    individualname: Konstantinos Karyotis
+    role: creator
+  Theodora-Angelopoulou:
+    individualname: Theodora Angelopoulou
+    role: creator
+  Nikolaos-Tziolas:
+    individualname: Nikolaos Tziolas
+    role: creator
+  Evgenia-Palaiologou:
+    individualname: Evgenia Palaiologou
+    role: creator
+  Nikiforos-Samarinas:
+    individualname: Nikiforos Samarinas
+    role: creator
+  George-Zalidis:
+    individualname: George Zalidis
+    role: creator
+  Karyotis-Konstantinos:
+    individualname: Karyotis, Konstantinos
+    role: creator
+  Angelopoulou-Theodora:
+    individualname: Angelopoulou, Theodora
+    role: creator
+  Tziolas-Nikolaos:
+    individualname: Tziolas, Nikolaos
+    role: creator
+  Palaiologou-Evgenia:
+    individualname: Palaiologou, Evgenia
+    role: creator
+  Samarinas-Nikiforos:
+    individualname: Samarinas, Nikiforos
+    role: creator
+  Zalidis-George:
+    individualname: Zalidis, George
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

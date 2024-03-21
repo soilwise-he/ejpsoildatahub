@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1089004
+  dataseturi: https://doi.org/10.5281/zenodo.1089004
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Open Burning On Soil Carbon Stock In Sugarcane Plantation In Thailand
+  abstract: Open burning of sugarcane fields is recognized to have a negative impact
+    on soil by degrading its properties, especially soil organic carbon (SOC) content.
+    Better understating the effect of open burning on soil carbon dynamics is crucial
+    for documenting the carbon sequestration capacity of agricultural soils. In this
+    study, experiments to investigate soil carbon stocks under burned and unburned
+    sugarcane plantation systems in Thailand were conducted. The results showed that
+    cultivation fields without open burning during 5 consecutive years enabled to
+    increase the SOC content at a rate of 1.37 Mg ha<sup>-1</sup>y<sup>-1</sup>. Also
+    it was found that sugarcane fields burning led to about 15% reduction of the total
+    carbon stock in the 0-30 cm soil layer. The overall increase in SOC under unburned
+    practice is mainly due to the large input of organic material through the use
+    of sugarcane residues.
+  keywords:
+    default:
+      keywords:
+        subject: Sugarcane.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-06'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1089004
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1089003
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wilaiwan-Sornpoon:
+    individualname: Wilaiwan Sornpoon
+    role: creator
+    organization: ''
+    url: ''
+  Sebastien-Bonnet:
+    individualname: "S\xE9bastien Bonnet"
+    role: creator
+  Savitri-Garivait:
+    individualname: Savitri Garivait
+    role: creator
+  Bonnet-Sebastien:
+    individualname: "Bonnet, S\xE9bastien"
+    role: ''
+    organization: ''
+    url: ''
+  Garivait-Savitri:
+    individualname: Garivait, Savitri
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

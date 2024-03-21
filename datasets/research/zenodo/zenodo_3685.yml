@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3593118
+  dataseturi: https://doi.org/10.5281/zenodo.3593118
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Dynamic Study on the Evaluation of the Settlement of Soil under Sea Dam
+  abstract: In order to study the variation in settlement of soil under a dyke dam,
+    the modelisation in our study consists of applying an imposed displacement at
+    the base of the mass of soil (consisting of a saturated sand). The imposed displacement
+    follows the evolution of acceleration of the earthquake of Boumerdes 2003 in Algeria.
+    Moreover, the gravity load is taken into consideration by taking account the specific
+    weight of the materials constituting the dyke. The results obtained show that
+    the gravity loads have a direct influence on the evolution of settlement, especially
+    at the center of the dyke where these loads are higher.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-10-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3593118
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3593117
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Faroudja-Meziani:
+    individualname: Faroudja Meziani
+    role: creator
+    organization: ''
+    url: ''
+  Amar-Kahil:
+    individualname: Amar Kahil
+    role: creator
+  Kahil-Amar:
+    individualname: Kahil, Amar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

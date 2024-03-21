@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6452115
+  dataseturi: https://doi.org/10.5281/zenodo.6452115
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Dilute Salt Solutions on Chernozem Soil Estimated Through the Hydration
+    Properties of the Colloids
+  abstract: Research Institute of Soil Science and Agricultural Chemistry of Hungarian
+    Academy of Sciences, Budapest <em>Received</em> 28 <em>July</em> 1972 Alkali soils
+    containing illite with high exchangeable K are reported to be less susceptible
+    than those containing montmorillonite to the adverse effect of sodium on their
+    physical properties, Besides, that the adsorption complex of the former attains
+    comparatively lower Na saturation than the latter, the other probable reason for
+    this discrepancy seems to be the inherent difference in the degree of hydration
+    of Na ions owing to differences in the bonding force available on the mineral
+    surfaces. This aspect which is of practical value in understanding salt affected
+    soils where these two minerals are dominant, was studied, Samples of chernozem
+    soil (containing initially illite and montmorillonite) enriched with three levels
+    of pure illite and bentonite were leached for a number of times in columns with
+    single sale solutions of Na<sub>2</sub>CO<sub>3</sub>, NaCl and MgCl<sub>2</sub>,
+    and their clay fractions were studied by differential thermal and X-ray methods.
+    Illite treated samples adsorbed less moisture at maximum hygroscopicity than montmorillonite
+    treated ones, and the energy needed to drive off the :moisture from the illite
+    treated samples, as indicated by differential thermal analysis, was also relatively
+    higher than for montmorillonite samples. Basing on the location and force of sodium
+    bonding on the surfaces of illite and montmorillonite, it was concluded that sodium
+    ions had a tendency towards less hydration on illite than on montmorillonite.
+  keywords:
+    default:
+      keywords:
+        subject: Colloids
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1972-11-30'
+    publication: '1972'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6452115
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6452114
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-DATTA:
+    individualname: B. DATTA
+    role: creator
+    organization: ''
+    url: ''
+  I.-SZABOLCS:
+    individualname: I. SZABOLCS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7561997
+  dataseturi: https://doi.org/10.5281/zenodo.7561997
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Modelling of electrokinetic techniques for soil remediation and ground improvement.
+    State of the art and assessment of research opportunities.
+  abstract: "This paper presents a review of the state of the art concerning the simulation\
+    \ of\_electrokinetic techniques used in soil stabilisation and remediation processes.\
+    \ The main\_THMC models as well as those specifically designed for the simulation\
+    \ of electrokinetic\_phenomena have been presented. After evaluating the main\
+    \ characteristics of each of\_them, the need for a THMC model that also considers\
+    \ electrokinetic phenomena and their\_coupling with other physic-chemical processes\
+    \ has been identified."
+  keywords:
+    default:
+      keywords:
+        subject: Soils
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-01-24'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7561997
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7561996
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lopez-Vizcaino-Ruben:
+    individualname: "L\xF3pez-Vizcaino, Rub\xE9n"
+    role: creator
+    organization: Geoenvironmental Group, Department of Civil Engineering and Construction,
+      Civil Engineering School, University of Castilla-La Mancha (Spain)
+    url: 0000-0001-5145-7228
+  Navarro-Vicente:
+    individualname: Navarro, Vicente
+    role: creator
+    organization: Geoenvironmental Group, Department of Civil Engineering and Construction,
+      Civil Engineering School, University of Castilla-La Mancha (Spain)
+    url: 0000-0001-6629-9293
+  Yustres-Angel:
+    individualname: "Yustres, \xC1ngel"
+    role: creator
+    organization: Geoenvironmental Group, Department of Civil Engineering and Construction,
+      Civil Engineering School, University of Castilla-La Mancha (Spain)
+    url: 0000-0003-3129-4008
+content_info: {}

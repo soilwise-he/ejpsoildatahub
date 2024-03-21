@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1042404
+  dataseturi: https://doi.org/10.5281/zenodo.1042404
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metals And Some Physicochemical Parameters In Soil Of Major Domestic
+    Dumpsites In Akure Township, Ondo State, South-Western Nigeria
+  abstract: "<strong><em>Heavy metals and soil physicochemical parameters were identified\
+    \ as environmental pollutants in some major domestic dumpsites in Akure city of\
+    \ Ondo state. The pH of the domestic dumpsites ranged from 7.07 to 7.69 with a\
+    \ mean value of 7.33. the organic carbon for the domestic dumpsites ranged from\
+    \ 0.46% to 1.18%, while the organic matter was between 0.80% and 2.05%. the concentration\
+    \ of Zn, Fe, Cu, Pb, Cd, Ni and Cr in \xB5g/g in the domestic dumpsites A and\
+    \ B ranged between 360.00-441, 169.60-547.20, 37.20-102.00, 18.80-80.00, 2.36-2.95,\
+    \ 11.00-19.20 and 18.00- 42.20 all in \xB5g/g respectively. Also, the contamination\
+    \ pollution index of Zn, Fe, Cu, Pb, Cd, Ni and Cr all in the domestic dumpsites\
+    \ A and B ranged between 2.57-3.15, not detected, 1.03-2.83, 0.32-0.94, 2.95-3.68,\
+    \ 0.31-0.55 and 0.18-0.46 respectively. Pearson correlation indicated that Zn,\
+    \ Fe, Ni and Pb were highly significant (p&lt;0.01)</em>.</strong>"
+  keywords:
+    default:
+      keywords:
+        subject: Heavy Metal; Physicochemical Parameters; Domestic Dumpsites.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1042404
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1042403
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ojo-OlabimpeIyabo:
+    individualname: Ojo OlabimpeIyabo
+    role: creator
+    organization: ''
+    url: ''
+  Jegede-Rufus-Oluwafemi:
+    individualname: Jegede Rufus Oluwafemi
+    role: creator
+    organization: ''
+    url: ''
+  Ajayi-Morenike-Grace:
+    individualname: Ajayi Morenike Grace
+    role: creator
+    organization: ''
+    url: ''
+  Osibanjo-Oladele:
+    individualname: Osibanjo Oladele
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

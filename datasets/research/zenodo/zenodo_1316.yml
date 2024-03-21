@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10034447
+  dataseturi: https://doi.org/10.5281/zenodo.10034447
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: PROVISION OF REMOTE SENSING METHODS FOR SOIL SALINITY ASSESSMENT ON RECLAIMED
+    LAND
+  abstract: "The main goal of the study is to develop methods for assessing soil salinity\
+    \ in reclamation lands,\_based\_on\_the\_amountof\_salt\_ions\_in\_the\_leaves\_\
+    of\_cotton\_in\_the\_Amu\_Darya\_basin.\_In\_this\_research\_work,an\_analysis\_\
+    based\_on\_the\_hypothesis\_of\_a\_long-term\_continuation\_of\_the\_development\_\
+    of\_climate\_impactshas\_been\_made\_to\_date."
+  keywords:
+    default:
+      keywords:
+        subject: cotton leaf; irrigated fields; saline soils; mathematical model;
+          nutrients; salts; water; plant; root; soil moisture; soil-reclamation conditions
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-23'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10034447
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10034446
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mardiev-Shakhbozjon-Khusan-ugli:
+    individualname: Mardiev Shakhbozjon Khusan ugli
+    role: creator
+    organization: National Research University "TIIAME", Tashkent, Uzbekistan
+    url: ''
+content_info: {}

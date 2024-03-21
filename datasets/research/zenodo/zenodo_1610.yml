@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Phillips_2019
+  dataseturi: https://doi.org/10.3897/rio.5.e36427
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The effects of global change on soil faunal communities:\_a meta-analytic\
+    \ approach"
+  abstract: "&lt;p&gt;Human impacts are causing an unprecedented change of biodiversity\
+    \ across scales. To quantify\_the nature and degree of the biodiversity change,\
+    \ there have been a number of meta-analysis studies investigating the effects\
+    \ of global change drivers (land use, climate, etc.). However, these studies include\
+    \ few primary literature studies of soil biodiversity. Soil biodiversity is important\
+    \ for a variety of ecosystem services that are critical for human wellbeing. Yet,\
+    \ we know little about how soil organisms may respond to changing environmental\
+    \ conditions. Although studies have investigated the impact of global change drivers\
+    \ on soil biodiversity, they lack sufficient depth in the number of drivers and/or\
+    \ taxa included. Additionally, the previous focus on aboveground organisms has\
+    \ also resulted in a bias towards certain global change drivers in the primary\
+    \ literature. For example, climate change and land use change are more often studied,\
+    \ whilst pollution is typically understudied as a global change driver. Building\
+    \ on previous studies, we will conduct a meta-analysis to compare the effects\
+    \ of global change drivers (land use, habitat fragmentation/loss, fire, climate\
+    \ change, invasive species, pollution,\_and nutrient enrichment) on soil fauna\
+    \ (micro- to macro-invertebrates). This project aims to fill the current gaps\
+    \ in the literature, and actively participate\_in incorporating soil biodiversity\
+    \ into future global biodiversity assessments, by creating the first global open-acess\
+    \ dataset on the impacts of multiple global change drivers on soil fauna.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Soil biodiversity
+      - Global change drivers
+      - Land use intensification
+      - Climate change
+      - Pollution
+      - Nutrient enrichment
+      - Invasive species
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The effects of global change on soil faunal communities:\_a meta-analytic\
+      \ approach"
+    url: http://dx.doi.org/10.3897/rio.5.e36427
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Phillips-Helen:
+    individualname: Phillips, Helen
+    role: creator
+  Beaumelle-Lea:
+    individualname: "Beaumelle, L\xE9a"
+    role: creator
+  Tyndall-Katharine:
+    individualname: Tyndall, Katharine
+    role: creator
+  Burton-Victoria:
+    individualname: Burton, Victoria
+    role: creator
+  Cameron-Erin:
+    individualname: Cameron, Erin
+    role: creator
+  Eisenhauer-Nico:
+    individualname: Eisenhauer, Nico
+    role: creator
+  Ferlian-Olga:
+    individualname: Ferlian, Olga
+    role: creator
+content_info: {}

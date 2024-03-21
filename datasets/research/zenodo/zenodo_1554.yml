@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3334631
+  dataseturi: https://doi.org/10.5281/zenodo.3334631
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Research of the effect of lupin root exometabolites on formation of soil
+    microbiota
+  abstract: "Optical density of root exudate of yellow lupin of Promin\u2019, Motuv\
+    \ 369, Borsel'fa, Obriy varieties and line 448/8 and lupin white of Olezhka, Suniy\
+    \ parys, Pizhovuy varieties and alcaloides form in laboratory conditions were\
+    \ studied. Variety peculiarities of secretory activity of root plants systems\
+    \ and influence of their exometabolites on formation of microbiota in soil-climatic\
+    \ conditions Western Podillya have been shown. Essential changes in quantity mushrooms,\
+    \ bacteria and streptomices in rhizosphere and space between rows of diverse lupin\
+    \ sort have been found. It has been established, that the amount of amino acids\
+    \ in soil after harvest of lupin depends on species and variety peculiarities\
+    \ of plants."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2001-06-01'
+    publication: '2001'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3334631
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3334630
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.V.-Pyda:
+    individualname: S.V. Pyda
+    role: creator
+    organization: Volodymyr Gnatyuk Ternopil state Pedagogical University Ukraine,
+      Ternopil
+    url: ''
+  E.A.-Golovko:
+    individualname: E.A. Golovko
+    role: creator
+    organization: M.M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

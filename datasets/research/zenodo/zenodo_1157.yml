@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8224344
+  dataseturi: https://doi.org/10.5281/zenodo.8224344
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Different Acidifying Agents on Amendment in Buffering Capacity
+    of Soil
+  abstract: "Rising population has globally challenged the food security for all livings,\
+    \ which ultimately need the agricultural land expansion to meet the demands. For\
+    \ cultivations, along with other parameters, optimal availability of most of the\
+    \ nutrients is found at pH less than 6. And alkaline soils covering more than\
+    \ one fourth of the earth's surface constrain the wide range of available land\
+    \ for cultivations. Amendments in pH are usually brought out by the addition of\
+    \ either synthetic chemicals or natural biomass but, effectiveness of any amendment\
+    \ is directly resisted by soil\u2019s buffering capacity. Buffering capacity retains\
+    \ the pH of the soil. This study is designed to lower the soil pH as well as to\
+    \ maintain it efficiently, over a long period of time by using various chemicals.\
+    \ Chemicals tried to reduce the soil pH in this study were: aluminum sulphate\
+    \ (Al2(SO4) 3), hydrogen peroxide (H2O2), hydrochloric acid (HCl) and sulphuric\
+    \ acid (H2SO4). The chemicals were employed on three different textured soils\
+    \ in batch, both individually and in combinations. The buffering capacity of different\
+    \ soils was related with soil textures to compare the effects of chemical amendments\
+    \ on individual soils. The soil-water (1:1) paste was kept at room temperature\
+    \ for five months after the application of treatment. Most of the chemical treatments\
+    \ not only lowered the pH significantly but retained it as well for longer period\
+    \ of time, indicating suitability of cultivation at desired acidic pH, ranging\
+    \ from 3-6."
+  keywords:
+    default:
+      keywords:
+        subject: Soil pH, Chemical amendment, Soil texture, pH conditioning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-08'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8224344
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8224343
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tanzeela-Fazal:
+    individualname: Tanzeela Fazal
+    role: creator
+    organization: Department of Chemistry, Abbottabad University of Science and Technology,
+      Pakistan
+    url: ''
+  Bushra-Ismail:
+    individualname: Bushra Ismail
+    role: creator
+  Nusrat-Shaheen:
+    individualname: Nusrat Shaheen
+    role: creator
+  Ahmad-Numan:
+    individualname: Ahmad Numan
+    role: creator
+  Adnan:
+    individualname: Adnan
+    role: creator
+  Abdur-Rahman-Khan:
+    individualname: Abdur Rahman Khan
+    role: creator
+    organization: Department of Chemistry, COMSATS University Islamabad (CUI), Pakistan
+    url: ''
+  Ismail-Bushra:
+    individualname: Ismail, Bushra
+    role: ''
+    organization: Department of Chemistry, COMSATS University Islamabad (CUI), Pakistan
+    url: ''
+  Shaheen-Nusrat:
+    individualname: Shaheen, Nusrat
+    role: ''
+    organization: Department of Chemistry, Abbottabad University of Science and Technology,
+      Pakistan
+    url: ''
+  Numan-Ahmad:
+    individualname: Numan, Ahmad
+    role: ''
+    organization: Department of Chemistry, University of Education, Pakistan
+    url: ''
+  -Adnan:
+    individualname: ', Adnan'
+    role: ''
+    organization: Department of Chemistry, University of Swat (UoS), Pakistan
+    url: ''
+content_info: {}

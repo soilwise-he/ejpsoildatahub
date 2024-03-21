@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6357180
+  dataseturi: https://doi.org/10.5281/zenodo.6357180
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Study of Iron Concretions in Lateritic Soil of West Bengal
+  abstract: "University College of Agriculture, Calcutta University, Calcutta\xB7\
+    \ 700 019 Iron concretions of various sizes are present in lateritic soils of\
+    \ West Bengal. The soils are acidic and free iron oxides are present abundantly.\
+    \ From analysis of the outer iron coating and the inner core of the concretions\
+    \ it appears that these have formed by leaching down of iron and manganese in\
+    \ the reduced state and their deposition in concentric lamination over a nucleus\
+    \ which is either a particle of quartz or parent material. Alternate wet and dry\
+    \ seasons that prevail is an essential condition for formation of these iron concretions."
+  keywords:
+    default:
+      keywords:
+        subject: village
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-04-30'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6357180
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6357179
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-B.-ROY:
+    individualname: B. B. ROY
+    role: creator
+    organization: ''
+    url: ''
+  SAMIR-KUMAR-MUKHERJEE:
+    individualname: SAMIR KUMAR MUKHERJEE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

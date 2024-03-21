@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bueso_2020
+  dataseturi: https://doi.org/10.1002/essoar.10501866.1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Revisiting impacts of MJO on soil moisture: a causality perspective'
+  abstract: '&lt;p&gt;Recent studies have documented that the Madden-Julian Oscillation
+    (MJO) has impacts in extreme dry/wet conditions over tropical regions and in atmospheric
+    state. They are based, however, in correlation analysis, and therefore do not
+    consider non-linear interactions nor they establish cause-effect relationships.In
+    this study we introduce a generalization of the non-linear Granger causality (GC)
+    test to identify causal relations between MJO and hydrological extremes. The method
+    is able to identify causal relations under noisy, nonlinear and non-stationary
+    scenarios. A probabilistic extension is also introduced where the causal test
+    operates directly on the marginal likelihood (also called evidence) of the observations,
+    which is analytic. We apply our proposed method to MJO and satellite-based soil
+    moisture (SM) data, and revisit the global teleconnection patterns induced by
+    MJO events. Since El Ni&ntilde;o Southern Oscillation (ENSO) is a modulating factor
+    that can result in abnormal SM global distributions, we also include it in the
+    analysis as a potential driver of SM variability. Including ENSO allows us to
+    differentiate the effect of the MJO and ENSO on the global SM anomalies and to
+    learn the causal graph of their cause-effect relationships, and also the mutual
+    relation between MJO and ENSO extreme events.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Revisiting impacts of MJO on soil moisture: a causality perspective'
+    url: http://dx.doi.org/10.1002/essoar.10501866.1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gustau-Camps-Valls:
+    individualname: Gustau Camps-Valls
+    role: creator
+  Bueso-Diego:
+    individualname: Bueso, Diego
+    role: creator
+  Piles-Maria:
+    individualname: Piles, Maria
+    role: creator
+  Sz(c)kely-Eniko:
+    individualname: "Sz\u221A\xA9kely, Eniko"
+    role: creator
+  Camps-Valls-Gustau:
+    individualname: Camps-Valls, Gustau
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

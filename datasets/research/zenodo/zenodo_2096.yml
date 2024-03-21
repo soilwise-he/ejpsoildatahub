@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nandy_2023
+  dataseturi: https://doi.org/10.1016/j.ese.2023.100276
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Influence of carbon-based cathodes on biofilm composition and electrochemical
+    performance in soil microbial fuel cells
+  abstract: '&lt;p&gt;Increasing energy demands and environmental pollution concerns
+    press for sustainable and environmentally friendly technologies. Soil microbial
+    fuel cell (SMFC) technology has great potential for carbonneutral bioenergy generation
+    and self-powered electrochemical bioremediation. In this study, an indepth assessment
+    on the effect of several carbon-based cathode materials on the electrochemical
+    performance of SMFCs is provided for the first time. An innovative carbon nanofibers
+    electrode doped with Fe (CNFFe) is used as cathode material in membrane-less SMFCs,
+    and the performance of the resulting device is compared with SMFCs implementing
+    either Pt-doped carbon cloth (PtC), carbon cloth, or graphite felt (GF) as the
+    cathode. Electrochemical analyses are integrated with microbial analyses to assess
+    the impact on both electrogenesis and microbial composition of the anodic and
+    cathodic biofilm. The results show that CNFFe and PtC generate very stable performances,
+    with a peak power density (with respect to the cathode geometric area) of 25.5
+    and 30.4 mW m2, respectively. The best electrochemical performance was obtained
+    with GF, with a peak power density of 87.3 mW m2. Taxonomic profiling of the microbial
+    communities revealed differences between anodic and cathodic communities. The
+    anodes were predominantly enriched with Geobacter and Pseudomonas species, while
+    cathodic communities were dominated by hydrogen-producing and hydrogenotrophic
+    bacteria, indicating H2 cycling as a possible electron transfer mechanism. The
+    presence of nitrate-reducing bacteria, combined with the results of cyclic voltammograms,
+    suggests microbial nitrate reduction occurred on GF cathodes. The results of this
+    study can contribute to the development of effective SMFC design strategies for
+    field implementation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil microbial fuel cells
+      - ORR catalyst
+      - Carbon nanofibre
+      - Microbial profiling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Influence of carbon-based cathodes on biofilm composition and electrochemical
+      performance in soil microbial fuel cells
+    url: http://dx.doi.org/10.1016/j.ese.2023.100276
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arpita-Nandy:
+    individualname: Arpita Nandy
+    role: creator
+  Daniel-Farkas:
+    individualname: Daniel Farkas
+    role: creator
+  Belen-Pepio-Tarrega:
+    individualname: Belen Pepio-Tarrega
+    role: creator
+  Sandra-Martinez-Crespiera:
+    individualname: Sandra Martinez-Crespiera
+    role: creator
+  Eduard-Borras:
+    individualname: Eduard Borras
+    role: creator
+  Claudio-Avignone-Rossa:
+    individualname: Claudio Avignone-Rossa
+    role: creator
+  Mirella-Di-Lorenzo:
+    individualname: Mirella Di Lorenzo
+    role: creator
+  Nandy-Arpita:
+    individualname: Nandy, Arpita
+    role: creator
+  Farkas-Daniel:
+    individualname: Farkas, Daniel
+    role: creator
+  Pepio-Tarrega-Belen:
+    individualname: "Pepi\xF3-T\xE1rrega, Bel\xE9n"
+    role: creator
+  Martinez-Crespiera-Sandra:
+    individualname: Martinez-Crespiera, Sandra
+    role: creator
+  Borras-Eduard:
+    individualname: "Borr\xE0s, Eduard"
+    role: creator
+  Avignone-Rossa-Claudio:
+    individualname: Avignone-Rossa, Claudio
+    role: creator
+  Di-Lorenzo-Mirella:
+    individualname: Di Lorenzo, Mirella
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

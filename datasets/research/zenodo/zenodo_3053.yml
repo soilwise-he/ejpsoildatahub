@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6256493
+  dataseturi: https://doi.org/10.5281/zenodo.6256493
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Study on the Effect of Phosphate, Molybdate and Humic acid Application
+    on the Availability of Iron Manganese and Molybdenum in Laterite Soil
+  abstract: "Department of Agricultural Chemistry &amp; Soil Science, Bidhan Chandra\
+    \ Krishi Viswavidyalaya, Kalyani-741 235<br> <em>Manuscript received 17 January\
+    \ 1982, revised 10 February 1986, accepted 8 May 1986</em> A typical laterite\
+    \ soil of West Bengal was treated with phosphate, molybdate and humic acid singly\
+    \ as well as in combination and incubated at moisture saturation. Both phosphate\
+    \ and humic acid application showed considerable increase in Mo availability.\
+    \ Mo application decreased the DTPA-extractable Fe but increased the available\
+    \ Mn content of the soil. Phosphate application decreased both available Fe and\
+    \ Ma. Humic acid did not change the available Fe content but available Mn content\
+    \ was increased. Combined application of HA \u2014Mo, P\u2014Mo and HA \u2014\
+    \ P as well as P \u2014HA \u2014Mo enhanced availability of Mo and Mn in the soil\
+    \ but available Fe content was found to be depressed. With the increase in incubation\
+    \ period, amount of available Mo and Fe gradually increased but Mn content showed\
+    \ a decreasing trend after initial increase."
+  keywords:
+    default:
+      keywords:
+        subject: Humic acid Application
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1986-06-30'
+    publication: '1986'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6256493
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6256492
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DIPTENDRA-NARAYAN-THAKUR:
+    individualname: DIPTENDRA NARAYAN THAKUR
+    role: creator
+    organization: ''
+    url: ''
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

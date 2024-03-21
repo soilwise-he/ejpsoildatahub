@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1492031
+  dataseturi: https://doi.org/10.5281/zenodo.1492031
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil And Groundwater Remediation Proposal In An Aquifer Of Venezuela By Hydrocarbon
+    Transport Geostatistical Modeling
+  abstract: <em>In this paper, it is presented a remediation proposal for soil and
+    groundwater remediation proposal in an aquifer of Venezuela by hydrocarbon transport
+    geostatistical modeling. The contamination with hydrocarbons is occurring in the
+    northern region of an aquifer of the Carabobo State implying that the contaminants
+    might be transported toward downstream of the aquifer causing an impact on the
+    water for human consumption and industrial uses. The condition of the confined
+    aquifer due to the alternating layers of low plasticity clay with well graded
+    sand has avoided that the hydrocarbons in the soil reach a concentration that
+    exceeds to the environmental regulation. For groundwater, the concentration of
+    the hydrocarbons such as TPH, TPH-GRO, Lead, Benzene, Toluene, Ethylbenzene, m.Xylene,
+    o.Xylene and MTBE is greater than to the environmental regulation.  In most of
+    cases, the spatial prediction of hydrocarbons is explained by local polynomial
+    interpolation of orders between 2 and 3, and in minor proportion by global polynomial
+    interpolation of orders between 2 and 3.  The gradient of the linear regression
+    function varies between 0.34 and 0.94. The proposal of remediation for hydrocarbons
+    in soil and groundwater consists of applying of air injection and vapor extraction,
+    requiring an estimated air injection of 13153 m<sup>3</sup>/d (323 cfm) and the
+    vapor extraction of 5075 m<sup>3</sup>/d (125 cfm). The proposed wells for air
+    injection (42) and vapor extraction (19) in a Carabobo State aquifer separated
+    each 100 meters and 150 meters, respectively.</em>
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-11-20'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1492031
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1492030
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Adriana-Marquez-Romance:
+    individualname: "Dr. Adriana M\xE1rquez Romance"
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-Edilberto-Guevara-Perez:
+    individualname: "Dr. Edilberto Guevara P\xE9rez"
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-Demetrio-Rey-Lago:
+    individualname: Dr. Demetrio Rey Lago
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

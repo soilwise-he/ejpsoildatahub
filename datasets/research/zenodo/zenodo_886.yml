@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Church_1921
+  dataseturi: https://doi.org/10.1126/science.54.1402.470
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Mold Hyph\xE6 in Sugar and Soil Compared with Root Hairs"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Mold Hyph\xE6 in Sugar and Soil Compared with Root Hairs"
+    url: http://dx.doi.org/10.1126/science.54.1402.470
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Church-M.-B.:
+    individualname: Church, M. B.
+    role: creator
+  Thom-C.:
+    individualname: Thom, C.
+    role: creator
+  Church-Margaret-B.:
+    individualname: Church, Margaret B.
+    role: creator
+  Thom-Charles:
+    individualname: Thom, Charles
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

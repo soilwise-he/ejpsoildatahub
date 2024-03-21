@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wang_2018
+  dataseturi: https://doi.org/10.1155/2018/9264259
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effects of Aged Oil Sludge on Soil Physicochemical Properties and Fungal
+    Diversity Revealed by High-Throughput Sequencing Analysis
+  abstract:
+  - '&lt;p&gt;The oilfield soil was contaminated for years by large quantities of
+    aged oil sludge generated in the petroleum industry. In this study, physicochemical
+    properties, contents of main pollutants, and fungal diversity of the aged oil
+    sludge-contaminated soil were analyzed. Results revealed that aged oil sludge
+    significantly changed physical and chemical properties of the receiving soil and
+    increased the contents of main pollutants (petroleum hydrocarbons and heavy metals)
+    in soil. Meanwhile, the internal transcribed spacer (ITS) sequencing by Illumina
+    Miseq platform at each taxonomic level demonstrated that the toxicological effect
+    of oil pollutants obviously influenced the fungal diversity and community structure
+    in soil. Moreover, it was found that the presence of three genera (Cephalotheca,
+    Lecanicillium, and Septoriella) appeared in aged oil sludge-contaminated soil.
+    And oil pollutants promoted the growth of certain genera in Ascomycota (70.83%)
+    and Basidiomycota (10.78%), such as Venturia, Alternaria, and Piloderma. Nevertheless,
+    the growth of Mortierella (9.16%), Emericella (6.02%), and Bjerkandera (0.00%)
+    was intensively limited. This study would aid thorough understanding of microbial
+    diversity in oil-contaminated soil and thus provide new point of view to soil
+    bioremediation.&lt;/p&gt;'
+  - GreenerProjectH2020
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effects of Aged Oil Sludge on Soil Physicochemical Properties and Fungal
+      Diversity Revealed by High-Throughput Sequencing Analysis
+    url: http://dx.doi.org/10.1155/2018/9264259
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Huihui-Wang:
+    individualname: Huihui Wang
+    role: creator
+  Shaoping-Kuang:
+    individualname: Shaoping Kuang
+    role: creator
+  Qiaolin-Lang:
+    individualname: Qiaolin Lang
+    role: creator
+  Wenjuan-Yu:
+    individualname: Wenjuan Yu
+    role: creator
+  Wang-Huihui:
+    individualname: Wang, Huihui
+    role: creator
+  Kuang-Shaoping:
+    individualname: Kuang, Shaoping
+    role: creator
+  Lang-Qiaolin:
+    individualname: Lang, Qiaolin
+    role: creator
+  Yu-Wenjuan:
+    individualname: Yu, Wenjuan
+    role: creator
+  Hindawi-Limited:
+    individualname: Hindawi Limited
+    role: creator
+content_info: {}

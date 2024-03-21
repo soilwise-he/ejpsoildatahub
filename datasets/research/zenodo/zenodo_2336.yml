@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6598088
+  dataseturi: https://doi.org/10.5281/zenodo.6598088
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: KINETICS OF OXIDATION OF SOIL ORGANIC MATTER, PART I. RELATIVE ORDERS OF
+    OXIDATION WITH SOME CHEMICAL REAGENTS
+  abstract: The relative order of the rates of oxidation of soil organic matter of
+    save al soil samples and of Merck's humic acid have been carried out with (a)
+    alkaline and add porassaium permanganate solutions and (b) acid potassium dichromate
+    solution. The relative order with all the samples by these oxidants are similar.
+  keywords:
+    default:
+      keywords:
+        subject: SOIL ORGANIC MATTER
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1943-12-31'
+    publication: '1943'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6598088
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6598087
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-P.-ROYCHOUDHURI:
+    individualname: S. P. ROYCHOUDHURI
+    role: creator
+    organization: ''
+    url: ''
+  A.-B.-BHUIYAN:
+    individualname: A. B. BHUIYAN
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

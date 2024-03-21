@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ashby_1905
+  dataseturi: https://doi.org/10.1017/s002185960000037x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Note on the Fate of Calcium Cyanamide in the Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Note on the Fate of Calcium Cyanamide in the Soil.
+    url: http://dx.doi.org/10.1017/s002185960000037x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ashby-S.-F.:
+    individualname: Ashby, S. F.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

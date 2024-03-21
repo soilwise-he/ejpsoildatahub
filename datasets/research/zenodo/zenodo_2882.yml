@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10609682
+  dataseturi: https://doi.org/10.5281/zenodo.10609682
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Sodium dodecyl sulphate polyacrylamide gel electrophoresis of toxin proteins
+    of Bacillus thuringiensis isolated from soil at the Liwa Botanical Garden
+  abstract: "Bacillus thuringiensis\_is a spore-forming bacterium known to have the\
+    \ ability to synthesize proteins that are toxic against insect pests. Currently,\
+    \ the bacterial protein toxins are widely used as pesticides because they are\
+    \ environmentally friendly and safe for health. As a cosmopolitan microbe\_B.\
+    \ thuringiensis\_is widely distributed in nature with soil as its main habitat.\
+    \ Liwa Botanical Gardens is one among the conservation areas in Lampung Province\
+    \ of Indonesia where the soil type and conditions expected to good for the bacterial\
+    \ life of\_B. thuringiensis.\_This study aims to determine toxin proteins extracted\
+    \ from\_B. thuringiensis isolated from the soil of the Liwa Botanical Garden by\
+    \ their molecular weights. The proteins were quantified using Lowry method and\
+    \ the protein profiling performed using SDS PAGE electrophoresis. The results\
+    \ showed that there were two isolates, Bt 3 and Bt 5 which showed close protein\
+    \ concentrations, namely 0.679 mg/ml and Bt 5 with 1.313 mg/ml respectively. Both\
+    \ isolates also exhibit different molecular weights. Bt 3 isolate has a molecular\
+    \ weight of 110.59 kDa, while Bt 5 has a molecular weight of 76.97 kDa."
+  keywords:
+    default:
+      keywords:
+        subject: SDS PAGE
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10609682
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10609681
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kusuma-Handayani:
+    individualname: Kusuma Handayani
+    role: creator
+    organization: Department of Biology, Faculty of Mathematics and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Muhammad-Rian-Hidayat:
+    individualname: Muhammad Rian Hidayat
+    role: creator
+    organization: Department of Biology, Faculty of Mathematics and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Wawan-Abdullah-Setiawan:
+    individualname: Wawan Abdullah Setiawan
+    role: creator
+    organization: Department of Biology, Faculty of Mathematics and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Mohamad-Kanedi:
+    individualname: Mohamad Kanedi
+    role: creator
+    organization: Department of Biology, Faculty of Mathematics and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+content_info: {}

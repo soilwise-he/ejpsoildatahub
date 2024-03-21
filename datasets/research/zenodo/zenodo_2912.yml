@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sokolov_2004
+  dataseturi: https://doi.org/10.1649/611
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Review of Anillinus, with Descriptions of 17 New Species and a Key to Soil
+    and Litter Species (Coleoptera: Carabidae: Trechinae: Bembidiini)'
+  abstract: 'Sokolov, Igor M., Carlton, Christopher, Cornell, James F. (2004): Review
+    of Anillinus, with Descriptions of 17 New Species and a Key to Soil and Litter
+    Species (Coleoptera: Carabidae: Trechinae: Bembidiini). The Coleopterists Bulletin
+    58 (2): 185-233, DOI: 10.1649/611, URL: http://dx.doi.org/10.1649/611'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Insecta
+      - Coleoptera
+      - Carabidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Review of Anillinus, with Descriptions of 17 New Species and a Key to Soil
+      and Litter Species (Coleoptera: Carabidae: Trechinae: Bembidiini)'
+    url: http://dx.doi.org/10.1649/611
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sokolov-Igor-M.:
+    individualname: Sokolov, Igor M.
+    role: creator
+  Carlton-Christopher:
+    individualname: Carlton, Christopher
+    role: creator
+  Cornell-James-F.:
+    individualname: Cornell, James F.
+    role: creator
+  Coleopterists-Society:
+    individualname: Coleopterists Society
+    role: creator
+content_info: {}

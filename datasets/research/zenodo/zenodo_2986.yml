@@ -1,0 +1,135 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6137154
+  dataseturi: https://doi.org/10.5281/zenodo.6137154
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Temperature-Vegetation-soil Moisture-Precipitation Drought Index (TVMPDI);
+    21-year drought monitoring in Iran using satellite imagery within Google Earth
+    Engine
+  abstract: Remote Sensing (RS) offers efficient tools for drought monitoring, especially
+    in countries with a lack of reliable and consistent <em>in-situ</em> multi-temporal
+    datasets. In this study, a novel RS-based Drought Index (RSDI) named Temperature-Vegetation-soil
+    Moisture-Precipitation Drought Index (TVMPDI) was proposed. To the best of our
+    knowledge, TVMPDI is the first RSDI using four different drought indicators in
+    its formulation. TVMPDI was then validated and compared with six conventional
+    RSDIs including VCI, TCI, VHI, TVDI, MPDI and TVMDI. To this end, precipitation
+    and soil temperature <em>in-situ</em> data have been used. Different time scales
+    of meteorological Standardized Precipitation Index (SPI) index have also been
+    used for the validation of the RSDIs. TVMPDI was highly correlated with the monthly
+    precipitation and soil temperature in-situ data at 0.76 and 0.81 values respectively.
+    The correlation coefficients between the RSDIs and 3-month SPI ranged from 0.07
+    to 0.28, identifying the TVMPDI as the most suitable index for subsequent analyses.
+    Since the proposed TVMPDI could considerably outperform the other selected RSDIs,
+    all spatiotemporal drought monitoring analyses in Iran were conducted by TVMPDI
+    over the past 21 years. In this study, different products of the Moderate Resolution
+    Imaging Spectrometer (MODIS), Tropical Rainfall Measuring Mission (TRMM), and
+    Global Precipitation Measurement (GPM) datasets containing 15,206 images were
+    used on the Google Earth Engine (GEE) cloud computing platform. According to the
+    results, Iran experienced the most severe drought in 2000 with a 0.715 TVMPDI
+    value lasting for almost two years. Conversely, the TVMPDI showed a minimum value
+    equal to 0.6781 in 2019 as the lowest annual drought level. The drought severity
+    and trend in the 31 provinces of Iran have also been mapped. Consequently, various
+    levels of decrease over the 21 years were found for different provinces, while
+    Isfahan and Gilan were the only provinces showing an ascending drought trend (with
+    a 0.004% and 0.002% trendline slope respectively). Khuzestan also faced a worrying
+    drought prevalence that occurred in several years. In summary, this study provides
+    updated information about drought trends in Iran using an advanced and efficient
+    RSDI implemented in the cloud computing GEE platform. These results are beneficial
+    for decision-makers and officials responsible for environmental sustainability,
+    agriculture and the effects of climate change.
+  keywords:
+    default:
+      keywords:
+        subject: TVPMDI
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6137154
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6137153
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Soroosh-Mehravar:
+    individualname: Soroosh Mehravar
+    role: creator
+    organization: University College of Engineerin
+    url: ''
+  Meisam-Amani:
+    individualname: Meisam Amani
+    role: creator
+    organization: Wood Environment & Infrastructure Solution
+    url: ''
+  Armin-Moghimi:
+    individualname: Armin Moghimi
+    role: creator
+  Farzaneh-Dadrass-Javan:
+    individualname: Farzaneh Dadrass Javan
+    role: creator
+  Farhad-Samadzadegan:
+    individualname: Farhad Samadzadegan
+    role: creator
+  Arsalan-Ghorbanian:
+    individualname: Arsalan Ghorbanian
+    role: creator
+    organization: aculty of Geodesy and Geomatics Engineerin
+    url: ''
+  Alfred-Stein:
+    individualname: Alfred Stein
+    role: creator
+  Ali-Mohammadzadeh:
+    individualname: Ali Mohammadzadeh
+    role: creator
+  S.-Mohammad-Mirmazloumi:
+    individualname: S. Mohammad Mirmazloumi
+    role: creator
+    organization: "Centre Tecnol\xF2gic de Telecomunicacions de Catalunya (CTTC/CERCA)"
+    url: ''
+  Moghimi-Armin:
+    individualname: Moghimi, Armin
+    role: ''
+    organization: Department of Remote Sensing and Photogrammetry
+    url: ''
+  Javan-Farzaneh-Dadrass:
+    individualname: Javan, Farzaneh Dadrass
+    role: ''
+    organization: University College of Engineering
+    url: ''
+  Samadzadegan-Farhad:
+    individualname: Samadzadegan, Farhad
+    role: ''
+    organization: University College of Engineering
+    url: ''
+  Stein-Alfred:
+    individualname: Stein, Alfred
+    role: ''
+    organization: Faculty of Geo-Information Science and Earth Observation (ITC),
+    url: ''
+  Mohammadzadeh-Ali:
+    individualname: Mohammadzadeh, Ali
+    role: ''
+    organization: Research Assistant at LiDAR
+    url: ''
+content_info: {}

@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Koliushko_2021
+  dataseturi: https://doi.org/10.20998/2074-272X.2021.5.09
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Method of integro-differential equations for interpreting the results of
+    vertical electrical sounding of the soil
+  abstract: '&lt;p&gt;&lt;em&gt;The paper is devoted to&nbsp;&lt;strong&gt;the problem&lt;/strong&gt;&nbsp;of
+    determining the geoelectric structure of the soil within the procedure of testing
+    the grounding arrangements of existing power plants and substations to the required
+    depth in conditions of dense development. To solve the problem, it was proposed
+    to use the Schlumbergers method , which has a greater sounding depth compared
+    to the Wenner electrode array.&nbsp;&lt;strong&gt;The purpose&lt;/strong&gt;&nbsp;of
+    the work is to develop a mathematical model for interpreting the results of soil
+    sounding by the Schlumberger method in the form of a four-layer geoelectric structure.&nbsp;&lt;strong&gt;Methodology&lt;/strong&gt;.
+    To construct a mathematical model, it is proposed to use the solution of a particular
+    problem about the field of a point current source, which, like the observation
+    point, is located in the first layer of a four-layer soil. Based on this expressions,
+    a system of linear algebraic equations of the 7-th order with respect to the unknown
+    coefficients a&lt;sub&gt;i&lt;/sub&gt;&nbsp;and b&lt;sub&gt;i&lt;/sub&gt;&nbsp;was
+    compiled. On the basis of its analytical solution, an expression for the potential
+    of the electric field was obtained for conducting VES (the point current source
+    and the observation point are located only on the soil surface).&nbsp;&lt;strong&gt;Results&lt;/strong&gt;.
+    Comparison of the results of soil sounding by the Schlumberger installation and
+    the interpretation of its results for the same points shows a sufficient degree
+    of approximation: the maximum relative error does not exceed 9.7 % (for the second
+    point), and the average relative error is 3.6 %.&nbsp;&lt;strong&gt;Originality&lt;/strong&gt;.
+    Based on the obtained expression, a test version of the program was implemented
+    in Visual Basic for Applications to interpret the results of VES by the Schlumberger
+    method. To check the obtained expressions, the interpretation of the VES results
+    was carried out on the territory of a 150 kV substation of one of the mining and
+    processing plants in the city of Kriviy Rih.&nbsp;&lt;strong&gt;Practical significance.&nbsp;&lt;/strong&gt;The
+    developed mathematical model will make it possible to increase the sounding depth,
+    and, consequently, the accuracy of determining the standardized parameters of
+    the grounding arrangements of power stations and substations.&lt;/em&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - electrical substation
+      - grounding arrangements
+      - vertical electrical sounding
+      - Schlumberger method
+      - method of integro-differential equations
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Method of integro-differential equations for interpreting the results of
+      vertical electrical sounding of the soil
+    url: http://dx.doi.org/10.20998/2074-272X.2021.5.09
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-G.-Koliushko:
+    individualname: D. G. Koliushko
+    role: creator
+  S.-S.-Rudenko:
+    individualname: S. S. Rudenko
+    role: creator
+  A.-N.-Saliba:
+    individualname: A. N. Saliba
+    role: creator
+  Koliushko-D.-G.:
+    individualname: Koliushko, D. G.
+    role: creator
+  Rudenko-S.-S.:
+    individualname: Rudenko, S. S.
+    role: creator
+  Saliba-A.-N.:
+    individualname: Saliba, A. N.
+    role: creator
+  National-Technical-University-Kharkiv-Polytechnic-Institute:
+    individualname: National Technical University Kharkiv Polytechnic Institute
+    role: creator
+content_info: {}

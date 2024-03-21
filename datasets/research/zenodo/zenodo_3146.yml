@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10433782
+  dataseturi: https://doi.org/10.5281/zenodo.10433782
+  datestamp: ''
+  hierarchylevel: journal
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: data of precipitation, Stream discharge, Water Level,air temperatur, soil
+    temeprature, DOC and DIC in an alpine headwater catchment of the Qinghai-Tibetan
+    Plateau
+  abstract: "Here\_we\_provide\_the\_original \_data of precipitation, Stream discharge,\
+    \ Water Level,air temperatur, soil temeprature, DOC and DIC in an alpine headwater\
+    \ catchment of the Qinghai-Tibetan Plateau."
+  keywords:
+    default:
+      keywords:
+        subject: Qinghai-Tibet Plateau
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-31'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10433782
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8031112
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yangyang-Zhang:
+    individualname: Yangyang Zhang
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Xiaoyan-Li:
+    individualname: Xiaoyan Li
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Fangzhong-Shi:
+    individualname: Fangzhong Shi
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Guangrong-Hu:
+    individualname: Guangrong Hu
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Fenglin-Zuo:
+    individualname: Fenglin Zuo
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Xia-Zhang:
+    individualname: Xia Zhang
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Xin-Liu:
+    individualname: Xin Liu
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+  Zhigang-Wang:
+    individualname: Zhigang Wang
+    role: creator
+    organization: Beijing Normal University
+    url: ''
+content_info: {}

@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8204984
+  dataseturi: https://doi.org/10.5281/zenodo.8204984
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil fertility analysis for rice production in the lowland areas of Diplahan,
+    Zamboanga Sibugay, Mindanao, Philippines | IJAAR
+  abstract: "The most important practice that contributes to rice production is nutrient\
+    \ management. However, if the nutrient plant required is insufficient, low production\
+    \ is unavoidable. Thus, this study was carried out to determine the soil fertility\
+    \ status of lowland areas in the municipality of Diplahan. Soil samples from each\
+    \ sampling site were collected in rice farms using a composite random soil sampling\
+    \ moving in a zigzag pattern. A depth of 0- 15cm soil samples were collected from\
+    \ 15 \u2013 30 different places in 1-5 hectares. An air-drying procedure was done\
+    \ before it was carried to the laboratory for final testing. Soil samples were\
+    \ analyzed for pH, organic carbon, organic matter, nitrogen, phosphorous, and\
+    \ potassium following the BSWM (Bureau of Soils and Water Management) procedures.\
+    \ Furthermore, a soil fertility map was outlined through ArcGIS software by plotting\
+    \ local coordinates in Google Map. Results showed that the areas in 10 selected\
+    \ barangays in the municipality have moderate soil acidity, with a pH level that\
+    \ falls below the desirable range of 5.5 \u2013 7.0 but no lower than 4.5. According\
+    \ to the results of the soil organic carbon analysis, all barangays have insufficient\
+    \ SOC. Only four barangays have the optimal soil organic matter content for lowland\
+    \ rice production. The study also revealed that only two (2) barangays receive\
+    \ an adequate amount of nitrogen, while the rest are considered deficient. Phosphorous-rich\
+    \ soils were found in two (2) barangays; the five (5) barangays have a medium\
+    \ content; and the remaining three (3) barangays have a low content. Lastly, no\
+    \ barangay in the municipality obtains an adequate amount of exchangeable potassium\
+    \ ranging from 82-246 ppm. Problem of insufficient nutrient requirements for rice\
+    \ crop production is widespread in the municipality. Published by the <strong>International\
+    \ Journal of Agronomy and Agricultural Research | IJAAR </strong>"
+  keywords:
+    default:
+      keywords:
+        subject: Soil samples
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-10'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8204984
+    type: WWW:LINK
+    title: Link
+  r3:
+    url: https://doi.org/10.5281/zenodo.8204983
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Eduardo-D.-Magdayo-Jr.:
+    individualname: Eduardo D. Magdayo Jr.
+    role: creator
+  Jaime-Q.-Guihawan:
+    individualname: Jaime Q. Guihawan
+    role: creator
+  Hernando-P.-Bacosa:
+    individualname: Hernando P. Bacosa
+    role: creator
+  Lilybeth-Olowa:
+    individualname: Lilybeth Olowa
+    role: creator
+    organization: "Department of Biological Sciences, College of Science and Mathematics,\
+      \ MSU\u2010Iligan Institute of Technology, Iligan City, Philippines"
+    url: ''
+  Magdayo-Eduardo-D.:
+    individualname: Magdayo, Eduardo D.
+    role: ''
+    organization: "Department of Biological Sciences, College of Science and Mathematics,\
+      \ MSU\u2010Iligan Institute of Technology, Iligan City, Philippines"
+    url: ''
+  Guihawan-Jaime-Q.:
+    individualname: Guihawan, Jaime Q.
+    role: ''
+    organization: "Department of Biological Sciences, College of Science and Mathematics,\
+      \ MSU\u2010Iligan Institute of Technology, Iligan City, Philippines"
+    url: ''
+  Bacosa-Hernando-P.:
+    individualname: Bacosa, Hernando P.
+    role: ''
+    organization: "Department of Biological Sciences, College of Science and Mathematics,\
+      \ MSU\u2010Iligan Institute of Technology, Iligan City, Philippines"
+    url: ''
+content_info: {}

@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6372843
+  dataseturi: https://doi.org/10.5281/zenodo.6372843
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Independent Additions of Inorganic Salts of Nitrogen, Phosphorus
+    and Sulphur on Sulphur Mineralisation of the Native Organic Matter in Soil
+  abstract: 'Department of Agricultural Chemistry &amp; Soil Science, Bidhan Chandra
+    Krishi Viswa Vidyalaya, Kalyani, West Bengal, India <em>Manuscript received 2
+    July 1980, accepted 25 August 1980</em> Laboratory incubation studies were conducted
+    on the effect of independent additions of Ca(NO<sub>3</sub>)<sub>2 </sub>KH<sub>2</sub>PO<sub>4</sub>
+    and K<sub>2</sub>SO<sub>4</sub> on the mineralisation of sulphur in two soils.
+    Sulphur mineralisation was found to be related to the initial sulphate sulphur
+    and organic sulphur content of the soils. Addition of Ca(NO<sub>3</sub>)<sub>2</sub>
+    widens the N: S ratio and resulted immobilisation of sulphur in soil. Depending
+    upon the initial sulphate sulphur content of the soil, addition of KH<sub>2</sub>PO<sub>4</sub>
+    or K<sub>2</sub>SO<sub>4</sub> either stimulates or inhibits the net mineralisation
+    of sulphur contained in the native organic matter in soil.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1980-11-30'
+    publication: '1980'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6372843
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6372842
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  PARTHA-MUKHOPADHYAY:
+    individualname: PARTHA MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  ASIT-K.-MUKHOPADHYAY:
+    individualname: ASIT K. MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

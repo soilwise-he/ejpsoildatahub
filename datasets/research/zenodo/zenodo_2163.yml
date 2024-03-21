@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3614874
+  dataseturi: https://doi.org/10.5281/zenodo.3614874
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Terrestrial Radio Nuclides in the Soil of Udupi District and Gamma Dose Rate
+    for the People
+  abstract: "The paper discusses the results of detailed studies on gamma radiation\
+    \ levels,<sup> 226</sup>Ra, <sup>232</sup>Th and <sup>40</sup>K concentrations\
+    \ in soils of Udupi, Kundapur and Karkala Taluks of Coastal Karnataka region of\
+    \ India. The gamma absorbed dose rates were measured using portable GM survey\
+    \ meter and soil radioactivity was by gamma spectrometry method using an HPGe\
+    \ detector. The results show that the <sup>226</sup>Ra concentration varies in\
+    \ the range 1.2 \u201378.0 Bq kg<sup>-1</sup> with a mean of 30Bq kg<sup>-1</sup>,\
+    \ <sup>232</sup>Th in the range of 1.6 - 166Bq kg<sup>-1</sup> with a mean of\
+    \ 56Bq kg<sup>-1</sup> and <sup>40</sup>K in the range 12 \u2013 477Bq kg<sup>-1</sup>\
+    \ with a mean of 189Bq kg<sup>-1</sup> in the 0-5 cm soil profile. The gamma absorbed\
+    \ dose rates, measured using the GM survey meter, show that the dose varies in\
+    \ the range of 70.0 - 123.0 nGy h<sup>-1</sup>. These values are comparable to\
+    \ those reported for other normal background regions of India."
+  keywords:
+    default:
+      keywords:
+        subject: Gama Radiation Dose Rates, Radio Nuclides, HPGe Detector
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-02-15'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3614874
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3614873
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gerald-Pinto:
+    individualname: Gerald Pinto
+    role: creator
+  Pinto-Gerald:
+    individualname: Pinto, Gerald
+    role: ''
+    organization: Milagres College Kallianpur, Udupi
+    url: ''
+content_info: {}

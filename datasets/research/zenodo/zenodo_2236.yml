@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Elveden_1921
+  dataseturi: https://doi.org/10.1017/s0021859600003786
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A contribution to the investigation into the results of partial sterilisation
+    of the soil by heat
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A contribution to the investigation into the results of partial sterilisation
+      of the soil by heat
+    url: http://dx.doi.org/10.1017/s0021859600003786
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Elveden-Viscount:
+    individualname: Elveden, Viscount
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Flakus_2014
+  dataseturi: https://doi.org/10.11646/phytotaxa.175.5.7
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The first squamulose Thelocarpon species (Thelocarpaceae, Ascomycota) discovered
+    in the biological soil crusts in the Bolivian Andes
+  abstract: 'Flakus, Adam, Kukwa, Martin (2014): The first squamulose Thelocarpon
+    species (Thelocarpaceae, Ascomycota) discovered in the biological soil crusts
+    in the Bolivian Andes. Phytotaxa 175 (5): 281-286, DOI: 10.11646/phytotaxa.175.5.7,
+    URL: http://dx.doi.org/10.11646/phytotaxa.175.5.7'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Fungi
+      - Ascomycota
+      - Thelocarpales
+      - Thelocarpaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The first squamulose Thelocarpon species (Thelocarpaceae, Ascomycota) discovered
+      in the biological soil crusts in the Bolivian Andes
+    url: http://dx.doi.org/10.11646/phytotaxa.175.5.7
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Flakus-Adam:
+    individualname: Flakus, Adam
+    role: creator
+  Kukwa-Martin:
+    individualname: Kukwa, Martin
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

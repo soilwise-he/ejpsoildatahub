@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3785107
+  dataseturi: https://doi.org/10.5281/zenodo.3785107
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Report
+identification:
+  title: 'ETC/ULS Report 02/2018: Land cover changes and soil functions, an approach
+    for integrated accounting'
+  abstract: "his report is the outcome of a study that was executed during the past\
+    \ five years by the EEA and ETC/ULS with support from EIONET (NRCs land use and\
+    \ spatial planning) and the European Soil Data Centre of DG JRC. The analysis\
+    \ represents the first attempt to assess land use efficiency at a European scale.\
+    \ Several new data sets relating specifically to soil functions, were published\
+    \ only recently, and this made assessment possible. A key aim of this work was\
+    \ to study land cover changes and their positive or negative impacts on soil functions,\
+    \ and to obtain a disaggregated hotspot analysis and an overall balance of those\
+    \ impacts on soil functions. The report follows a logical flow. Chapter 1 provides\
+    \ an introduction to the context of the study. It lays out a framework by giving\
+    \ information on the status of land and soil in the context of land resource efficiency,\
+    \ listing the most relevant current global and European policies, and introducing\
+    \ the concepts of soil function and land multi-functionality. Chapter 2 provides\
+    \ details of the study\u2019s input data, in particular the land cover flows as\
+    \ well as the pan-European soil function data, further explains the concept of\
+    \ multi-functionality and introduces the impact evaluation matrix. The combined\
+    \ presentation of land processes and soil functions is the major topic in Chapter\
+    \ 3, whereas Chapter 4 then focuses on the impacts of a number of selected, sector-related\
+    \ land processes on several of the soil functions. The latter also identifies\
+    \ a number of hotspot regions at the NUTS 3 level in which the potential of soils\
+    \ to provide certain functions might be substantially affected. At the end of\
+    \ the report, Chapter 5 provides information on the balance of impacts, by looking\
+    \ at the predominantly positive and predominantly negative impacts to assess the\
+    \ overall situation in Europe, but also at national and regional level. Finally,\
+    \ Chapter 6 identifies the implications of the analysis for land governance and\
+    \ attempts to shed light on the status of land resource efficiency in Europe."
+  keywords:
+    default:
+      keywords:
+        subject: Land cover, soil functions, agricultural intensification, biomass
+          loss, soil organic carbon, soil biodiversity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-02-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3785107
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3785106
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ETC-ULS:
+    individualname: ETC/ULS
+    role: creator
+    organization: Environment Agency Austria
+    url: ''
+  Mirko-Gregor:
+    individualname: Mirko Gregor
+    role: creator
+  Manuel-Lohnertz:
+    individualname: "Manuel L\xF6hnertz"
+    role: creator
+  Christoph-Schroder:
+    individualname: "Christoph Schr\xF6der"
+    role: creator
+  Ece-Aksoy:
+    individualname: Ece Aksoy
+    role: creator
+  Gundula-Prokop:
+    individualname: Gundula Prokop
+    role: creator
+  Geertrui-Louwagie:
+    individualname: Geertrui Louwagie
+    role: creator
+    organization: European Environment Agency (EEA)
+    url: ''
+  Gregor-Mirko:
+    individualname: Gregor, Mirko
+    role: ''
+    organization: space4environment
+    url: ''
+  Lohnertz-Manuel:
+    individualname: "L\xF6hnertz, Manuel"
+    role: ''
+    organization: space4environment
+    url: ''
+  Schroder-Christoph:
+    individualname: "Schr\xF6der, Christoph"
+    role: ''
+    organization: "Universidad de M\xE1laga (UMA)"
+    url: ''
+  Aksoy-Ece:
+    individualname: Aksoy, Ece
+    role: ''
+    organization: "Universidad de M\xE1laga (UMA)"
+    url: ''
+  Prokop-Gundula:
+    individualname: Prokop, Gundula
+    role: ''
+    organization: Environment Agency Austria
+    url: ''
+content_info: {}

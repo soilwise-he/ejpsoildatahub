@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.893704
+  dataseturi: https://doi.org/10.5281/zenodo.893704
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Comparison Of Crop Stress And Soil Maps To Enhance Variable Rate Irrigation
+    Prescriptions
+  abstract: Soil textural variability within many irrigated fields diminishes the
+    effectiveness of conventional irrigation management, and scheduling methods that
+    assume uniform soil conditions may produce less than satisfactory results. Furthermore,
+    benefits of variable-rate application of agrochemicals, seeds, and nutrients can
+    be partially masked by applying inappropriate amounts of water. Center pivot irrigation
+    systems can be equipped with variable rate irrigation (VRI) capability and commercial
+    VRI systems have been shown to perform dependably. Soil properties will impact
+    the optimal application rate for a given location, but that information will need
+    to be supplemented with measures of crop stress for in-season adjustment. A field
+    study was conducted at the University of Missouri Fisher Delta Research Center
+    Marsh Farm at Portageville in 2016 with the objective to compare soil and in-season
+    stress maps to help determine their relationship. Apparent soil electrical conductivity
+    (ECa) data were used to estimate the clay content and infrared thermometers (IRT)
+    were suspended from the center pivot system to measure canopy temperature. While
+    much of the growing season had adequate rainfall that prevented high water deficit
+    stress levels, measurements on 5 July demonstrated spatial variability in canopy
+    temperature and an integrated crop water stress index (iCWSI) that appeared to
+    be correlated with soil texture. While seed cotton yield incorporated more than
+    just the factors discussed in this report, areas of lowest clay content corresponded
+    with the lowest yields. Additional data will be collected under a range of conditions
+    and used for statistical comparisons of the observed effects.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.893704
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.893703
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vories-E:
+    individualname: Vories, E
+    role: creator
+    organization: "United States Department of Agriculture \u2013 Agricultural Research\
+      \ Service, Portageville, MO, USA"
+    url: ''
+  Sudduth-K:
+    individualname: Sudduth, K
+    role: creator
+    organization: "United States Department of Agriculture \u2013 Agricultural Research\
+      \ Service, Columbia, MO, USA"
+    url: ''
+  Evett-S:
+    individualname: Evett, S
+    role: creator
+    organization: "United States Department of Agriculture \u2013 Agricultural Research\
+      \ Service, Bushland, TX, USA"
+    url: ''
+  O'Shoughnessy-S:
+    individualname: O'Shoughnessy, S
+    role: creator
+    organization: "United States Department of Agriculture \u2013 Agricultural Research\
+      \ Service, Bushland, TX, USA"
+    url: ''
+  Andrade-A:
+    individualname: Andrade, A
+    role: creator
+    organization: "United States Department of Agriculture \u2013 Agricultural Research\
+      \ Service, Bushland, TX, USA"
+    url: ''
+content_info: {}

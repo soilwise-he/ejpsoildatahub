@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Clasen_2020
+  dataseturi: https://doi.org/10.3897/mbmg.4.58365
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil stabilisation for DNA metabarcoding of plants and fungi. Implications
+    for sampling at remote locations or via third-parties
+  abstract: "&lt;p&gt;Storage of soil samples prior to metagenomic analysis presents\
+    \ a problem. If field sites are remote or if samples are collected by third parties,\
+    \ transport to analytical laboratories may take several days or even weeks. The\
+    \ bulk of such samples and requirement for later homogenisation precludes the\
+    \ convenient use of a stabilisation buffer, so samples are usually cooled or frozen\
+    \ during transit. There has been limited testing of the most appropriate storage\
+    \ methods for later study of soil organisms by eDNA approaches. Here we tested\
+    \ a range of storage methods on two contrasting soils, comparing these methods\
+    \ to the control of freezing at -80 \xB0C, followed by freeze-drying. To our knowledge,\
+    \ this is the first study to examine the effect of storage conditions on eukaryote\
+    \ DNA in soil, including both viable organisms (fungi) and DNA contained within\
+    \ dying/dead tissues (plants). For fungi, the best storage regimes (closest to\
+    \ the control) were storage at 4 \xB0C (for up to 14 d) or active air-drying at\
+    \ room temperature. The worst treatments involved initial freezing, followed by\
+    \ thawing which led to significant later spoilage. The key spoilage organisms\
+    \ were identified as Metarhizium carneum and Mortierella spp., with a general\
+    \ increase in saprotrophic fungi and reduced abundances of mycorrhizal/biotrophic\
+    \ fungi. Plant data showed a similar pattern, but with greater variability in\
+    \ community structure, especially in the freeze-thaw treatments, probably due\
+    \ to stochastic variation in substrates for fungal decomposition, algal proliferation\
+    \ and some seed germination. In the absence of freeze drying facilities, samples\
+    \ should be shipped refrigerated, but not frozen if there is any risk of thawing.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - chitinolytic fungi freeze-drying freeze-thaw sample preservation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil stabilisation for DNA metabarcoding of plants and fungi. Implications
+      for sampling at remote locations or via third-parties
+    url: http://dx.doi.org/10.3897/mbmg.4.58365
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Clasen-Lina-A.:
+    individualname: Clasen, Lina A.
+    role: creator
+  Detheridge-Andrew-P.:
+    individualname: Detheridge, Andrew P.
+    role: creator
+  Scullion-John:
+    individualname: Scullion, John
+    role: creator
+  Griffith-Gareth-W.:
+    individualname: Griffith, Gareth W.
+    role: creator
+content_info: {}

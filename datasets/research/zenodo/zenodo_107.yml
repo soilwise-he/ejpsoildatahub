@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schneider_1905
+  dataseturi: https://doi.org/10.1126/science.22.559.337
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Bacteria and Nitrogen Assimilation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Bacteria and Nitrogen Assimilation
+    url: http://dx.doi.org/10.1126/science.22.559.337
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schneider-A.:
+    individualname: Schneider, A.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

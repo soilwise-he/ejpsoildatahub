@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kovalchuk_2018
+  dataseturi: https://doi.org/10.15587/1729-4061.2018.123002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Estimation of carrying capacity of metallic corrugated structures of the
+    type Multiplate MP 150 during interaction with backfill soil
+  abstract: '&lt;p&gt;We estimated the stressed state of a railroad structure with
+    a large cross section spanning more than 6 m, which is made from metallic corrugated
+    sheets of the type Multiplate&nbsp;MP&nbsp;150. The stressed-strained state of
+    the corrugated structure was estimated depending on the residual deformation of
+    vertical diameter of the pipe, the modulus of elasticity of backfill soil, and
+    the degree of compaction. The study conducted has demonstrated that maximum stresses
+    occur on the horizontal sides of a metallic pipe, and maximum deformations &ndash;
+    in the pipe vault.&lt;/p&gt;
+
+
+    &lt;p&gt;It was established that an increase in the degree of compaction of backfill
+    soil leads to a decrease in the stresses in a metallic pipe by almost half. The
+    stresses grow much faster with an increase in irregularity on the railroad track.
+    Numerical calculations have shown that the equivalent stresses exceed the permissible
+    magnitude of 235&nbsp;MPa when the degree of compaction of backfill soil is below
+    90&nbsp;% and an operational irregularity on the track develops beyond the permissible
+    magnitude.&lt;/p&gt;
+
+
+    &lt;p&gt;Operational observations have shown that the pipe is most vulnerable,
+    in terms of resistance against the formation of a plastic hinge, in the initial
+    period of operation when the backfill soil has not yet reached the standard compaction.
+    At the initial stage of operation of a metallic corrugated pipe it is necessary
+    to improve the level of technological control in order to timely detect railroad
+    track&rsquo;s irregularities that exceed the standards, and to eliminate them.&lt;/p&gt;
+
+
+    &lt;p&gt;Under normal operational conditions, a metallic corrugated structure
+    has a rather large reserve of carrying capacity, which amounts to 80&nbsp;%. However,
+    these structures, despite their high initial strength margin, are very sensitive
+    to an increase in external dynamic loads due to the occurrence of irregularity
+    on the railroad track&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - residual deformation
+      - carrying capacity
+      - corrugated structure
+      - modulus of elasticity
+      - irregularity on the railroad track
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Estimation of carrying capacity of metallic corrugated structures of the
+      type Multiplate MP 150 during interaction with backfill soil
+    url: http://dx.doi.org/10.15587/1729-4061.2018.123002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vitalii-Kovalchuk:
+    individualname: Vitalii Kovalchuk
+    role: creator
+  Yuri-Kovalchuk:
+    individualname: Yuri Kovalchuk
+    role: creator
+  Mykola-Sysyn:
+    individualname: Mykola Sysyn
+    role: creator
+  Volodymyr-Stankevych:
+    individualname: Volodymyr Stankevych
+    role: creator
+  Oleksiy-Petrenko:
+    individualname: Oleksiy Petrenko
+    role: creator
+  Kovalchuk-Vitalii:
+    individualname: Kovalchuk, Vitalii
+    role: creator
+  Kovalchuk-Yuri:
+    individualname: Kovalchuk, Yuri
+    role: creator
+  Sysyn-Mykola:
+    individualname: Sysyn, Mykola
+    role: creator
+  Stankevych-Volodymyr:
+    individualname: Stankevych, Volodymyr
+    role: creator
+  Petrenko-Oleksiy:
+    individualname: Petrenko, Oleksiy
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

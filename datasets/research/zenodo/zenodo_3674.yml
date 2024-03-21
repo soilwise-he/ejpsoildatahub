@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1111636
+  dataseturi: https://doi.org/10.5281/zenodo.1111636
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analytical Slope Stability Analysis Based On The Statistical Characterization
+    Of Soil Shear Strength
+  abstract: Increasing our ability to solve complex engineering problems is directly
+    related to the processing capacity of computers. By means of such equipments,
+    one is able to fast and accurately run numerical algorithms. Besides the increasing
+    interest in numerical simulations, probabilistic approaches are also of great
+    importance. This way, statistical tools have shown their relevance to the modelling
+    of practical engineering problems. In general, statistical approaches to such
+    problems consider that the random variables involved follow a normal distribution.
+    This assumption tends to provide incorrect results when skew data is present since
+    normal distributions are symmetric about their means. Thus, in order to visualize
+    and quantify this aspect, 9 statistical distributions (symmetric and skew) have
+    been considered to model a hypothetical slope stability problem. The data modeled
+    is the friction angle of a superficial soil in Brasilia, Brazil. Despite the apparent
+    universality, the normal distribution did not qualify as the best fit. In the
+    present effort, data obtained in consolidated-drained triaxial tests and saturated
+    direct shear tests have been modeled and used to analytically derive the probability
+    density function (PDF) of the safety factor of a hypothetical slope based on Mohr-Coulomb
+    rupture criterion. Therefore, based on this analysis, it is possible to explicitly
+    derive the failure probability considering the friction angle as a random variable.
+    Furthermore, it is possible to compare the stability analysis when the friction
+    angle is modelled as a Dagum distribution (distribution that presented the best
+    fit to the histogram) and as a Normal distribution. This comparison leads to relevant
+    differences when analyzed in light of the risk management.
+  keywords:
+    default:
+      keywords:
+        subject: Functions of random variables.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-04'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1111636
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1111635
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bernardo-C.-P.-Albuquerque:
+    individualname: Bernardo C. P. Albuquerque
+    role: creator
+  Darym-J.-F.-Campos:
+    individualname: Darym J. F. Campos
+    role: creator
+    organization: ''
+    url: ''
+  Albuquerque-Bernardo-C.-P.:
+    individualname: Albuquerque, Bernardo C. P.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

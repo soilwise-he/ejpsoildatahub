@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7141784
+  dataseturi: https://doi.org/10.5281/zenodo.7141784
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: N Fertilizer (Urea) Topdressed on Unsaturated Soil and Deep-Placed Using
+    Reflooding Water
+  abstract: This article 'N Fertilizer (Urea) Topdressed on Unsaturated Soil and Deep-Placed
+    Using Reflooding Water' appeared in the International Rice Research Newsletter
+    series, created by the International Rice Research Institute (IRRI). The primary
+    objective of this publication was to expedite communication among scientists concerned
+    with the development of improved technology for rice and for rice based cropping
+    systems. This publication will report what scientists are doing to increase the
+    production of rice in as much as this crop feeds the most densely populated and
+    land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Nitrogen Fertilizer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1987-10-01'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7141784
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7141783
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chen-R.-Y.:
+    individualname: Chen, R. Y.
+    role: creator
+    organization: ''
+    url: ''
+  Zhang-J.-C.:
+    individualname: Zhang, J. C.
+    role: creator
+    organization: ''
+    url: ''
+  Guo-W.-M.:
+    individualname: Guo, W. M.
+    role: creator
+    organization: ''
+    url: ''
+  Chen-W.:
+    individualname: Chen, W.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

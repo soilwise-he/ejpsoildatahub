@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2659411
+  dataseturi: https://doi.org/10.5281/zenodo.2659411
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Bioremediation of PAHs-Contaminated Soil Using Land Treatment Processes
+  abstract: Polycyclic aromatic hydrocarbons (PAHs) are present in crude oil and its
+    derivatives contaminate soil and also increase carcinogen and mutagen contamination,
+    which is a concern for researchers. Land farming is one of the methods that remove
+    pollutants from the soil by native microorganisms. It seems that this technology
+    is cost-effective, environmentally friendly and causes less debris problem to
+    be disposed. This study aimed to refine the polycyclic aromatic hydrocarbons from
+    oil-contaminated soil using the land farming method. In addition to examine the
+    concentration of polycyclic aromatic hydrocarbons by GC-FID, some characteristics
+    such as soil microbial respiration and dehydrogenase, peroxidase, urease, acid
+    and alkaline phosphatase enzyme concentration were also measured. The results
+    showed that after land farming process the concentrations of some polycyclic aromatic
+    hydrocarbons dropped to 50 percent. The results showed that the enzyme concentration
+    is reduced by reducing the concentration of hydrocarbons and microbial respiration.
+    These results emphasize the process of land farming for removal of polycyclic
+    aromatic hydrocarbons from soil by indigenous microorganisms.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-05-26'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2659411
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2659410
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Somaye-Eskandary:
+    individualname: Somaye Eskandary
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

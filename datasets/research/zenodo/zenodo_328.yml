@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hutton_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010001x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Report of Committee on Soil Color Standards
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Report of Committee on Soil Color Standards
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010001x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hutton-J.-Gladden:
+    individualname: Hutton, J. Gladden
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

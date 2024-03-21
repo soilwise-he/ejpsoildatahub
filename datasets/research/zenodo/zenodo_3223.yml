@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Naseri_Bagherzadeh-Khalkhali_2018
+  dataseturi: https://doi.org/10.22034/JCEMA.2018.91999
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Evaluation of Seismic Performance of Concrete Gravity Dams Under Soil-structure-reservoir
+    Interaction Exposed to Vertical Component of Near-field Earthquakes During Impounding
+    Case study: Pine Flat Dam'
+  abstract:
+  - '&lt;p&gt;Given the current water crisis in the world and the fact that dams are
+    superstructures for water conservation in agricultural and domestic uses, the
+    seismic performance of Pine Flat Dam is evaluated under the soil-structure-reservoir
+    interaction ex-posed to vertical component of near-field earthquakes in this study.
+    Hence the dam is modeled in the plane strain space un-der the foundation-structure-fluid
+    interaction using Abaqus finite element software in order to consider the effects
+    of founda-tion flexibility and hydrodynamic forces. The reservoir is modeled in
+    3 full, half-full and empty conditions and the results are assessed and presented
+    for each condition. The results of analysis show that when the dam is in use and
+    the entire volume of reservoir is filled with water and the conditions of near-field
+    earthquakes are predominated, more displacement is applied to the dam, which may
+    make it enter the nonlinear region.&lt;/p&gt;'
+  - Journal of Civil Engineering and Materials Application
+  keywords:
+    default:
+      keywords:
+      - Water crisis
+      - Concrete dam
+      - Effect of vertical component
+      - Soil-structure-reservoir interaction
+      - Near-field fault
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Evaluation of Seismic Performance of Concrete Gravity Dams Under Soil-structure-reservoir
+      Interaction Exposed to Vertical Component of Near-field Earthquakes During Impounding
+      Case study: Pine Flat Dam'
+    url: https://doi.org/10.22034/jcema.2018.91999
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Farzad-Naseri:
+    individualname: Farzad Naseri
+    role: creator
+  Ahad-Bagherzadeh-Khalkhali:
+    individualname: Ahad Bagherzadeh Khalkhali
+    role: creator
+  Naseri-Farzad:
+    individualname: Naseri, Farzad
+    role: creator
+  Bagherzadeh-Khalkhali-Ahad:
+    individualname: Bagherzadeh Khalkhali, Ahad
+    role: creator
+  PenPub:
+    individualname: PenPub
+    role: creator
+content_info: {}

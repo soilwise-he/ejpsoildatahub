@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.282649
+  dataseturi: https://doi.org/10.5281/zenodo.282649
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Heterodispus cordidiscus n. sp., a new soil mite from Egypt, and remarks\
+    \ on the nominal species H. elongatus Tr\xE4g\xE5rdh, 1905 (Acari: Heterostigmatina:\
+    \ Scutacaridae)"
+  abstract: "Jagersbacher-Baumann, Julia, Ebermann, Ernst (2012): Heterodispus cordidiscus\
+    \ n. sp., a new soil mite from Egypt, and remarks on the nominal species H. elongatus\
+    \ Tr\xE4g\xE5rdh, 1905 (Acari: Heterostigmatina: Scutacaridae). Zootaxa 3520:\
+    \ 56-70, DOI: 10.5281/zenodo.282649"
+  keywords:
+    default:
+      keywords:
+        subject: Scutacaridae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-12-31'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.282649
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6173570
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.6173572
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.5281/zenodo.282650
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.5281/zenodo.282651
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.5281/zenodo.282652
+    type: WWW:LINK
+    title: HasPart
+  r8:
+    url: https://doi.org/10.5281/zenodo.282653
+    type: WWW:LINK
+    title: HasPart
+  r9:
+    url: https://doi.org/10.5281/zenodo.282654
+    type: WWW:LINK
+    title: HasPart
+  r10:
+    url: https://doi.org/10.5281/zenodo.282655
+    type: WWW:LINK
+    title: HasPart
+  r11:
+    url: https://doi.org/10.5281/zenodo.282656
+    type: WWW:LINK
+    title: HasPart
+  r12:
+    url: https://doi.org/10.5281/zenodo.282657
+    type: WWW:LINK
+    title: HasPart
+  r13:
+    url: https://doi.org/10.5281/zenodo.282658
+    type: WWW:LINK
+    title: HasPart
+  r14:
+    url: https://doi.org/10.5281/zenodo.282659
+    type: WWW:LINK
+    title: HasPart
+  r15:
+    url: https://doi.org/10.5281/zenodo.282660
+    type: WWW:LINK
+    title: HasPart
+  r16:
+    url: https://doi.org/10.5281/zenodo.282661
+    type: WWW:LINK
+    title: HasPart
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jagersbacher-Baumann-Julia:
+    individualname: Jagersbacher-Baumann, Julia
+    role: creator
+    organization: ''
+    url: ''
+  Ebermann-Ernst:
+    individualname: Ebermann, Ernst
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1060635
+  dataseturi: https://doi.org/10.5281/zenodo.1060635
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Comparison Of Some Soil Quality Indexes In Different Land Uses Of Ghareh
+    Aghaj Watershed Of Semirom, Isfahan, Iran
+  abstract: 'Land use change, if not based on proper scientific
+
+    investigation affects other physical, chemical, and biological
+
+    properties of soil and leading to increased destruction and erosion. It
+
+    was imperative to study the effects of changing rangelands to
+
+    farmlands on some Soil quality indexes. Undisturbed soil samples
+
+    were collected from the depths of 0-10 and 10-30 centimeter in
+
+    pasture with good vegetation cover(GP), pasture with medium
+
+    vegetation cover(MP), abandoned dry land farming(ADF) and
+
+    degraded dry land farming(DDF) land uses in Ghareh Aghaj
+
+    watershed of Isfahan province. The results revealed that organic
+
+    matter(OM), cation exchange capacity(CEC) and available
+
+    potassium(AK) decreasing in the depth of 0-10 centimeter were 66.6,
+
+    38.8 and 70 percent and in the depth of 10-30 centimeter were 58,
+
+    61.4 and 83.5 percent respectively in DDF comparison with GP.
+
+    Concerning to the results, it seems that land use change can decrease
+
+    soil quality and increase soil degradation and lead in undesirable
+
+    consequences.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil quality
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-11-20'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1060635
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1060634
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bahareh-Aghasi:
+    individualname: Bahareh Aghasi
+    role: creator
+  Ahmad-Jalalian:
+    individualname: Ahmad Jalalian
+    role: creator
+  Naser-Honarjoo:
+    individualname: Naser Honarjoo
+    role: creator
+  Aghasi-Bahareh:
+    individualname: Aghasi, Bahareh
+    role: ''
+    organization: ''
+    url: ''
+  Jalalian-Ahmad:
+    individualname: Jalalian, Ahmad
+    role: ''
+    organization: ''
+    url: ''
+  Honarjoo-Naser:
+    individualname: Honarjoo, Naser
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bolten_2008
+  dataseturi: https://doi.org/10.1109/igarss.2008.4779053
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Integration of Satellite-Retrieved Soil Moisture Observations with a Global
+    Two-Layer Soil Moisture Model
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Integration of Satellite-Retrieved Soil Moisture Observations with a Global
+      Two-Layer Soil Moisture Model
+    url: http://dx.doi.org/10.1109/igarss.2008.4779053
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bolten-J.:
+    individualname: Bolten, J.
+    role: creator
+  Crow-W.:
+    individualname: Crow, W.
+    role: creator
+  Zhan-X.:
+    individualname: Zhan, X.
+    role: creator
+  Jackson-T.:
+    individualname: Jackson, T.
+    role: creator
+  Reynolds-C.:
+    individualname: Reynolds, C.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

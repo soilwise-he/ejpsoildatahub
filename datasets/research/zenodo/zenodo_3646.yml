@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3292780
+  dataseturi: https://doi.org/10.5281/zenodo.3292780
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Balancing Out of Black Cotton Soil Using Polypropylene Fiber and Stone Powder
+  abstract: Black cotton soil is spread all over the entire area in Maharashtra and
+    some parts of Gujarat, Madhya Pradesh, Karnataka and Andhra Pradesh. Black cotton
+    soil have the characteristic to swelling or shrinking with the change in moisture
+    content which affect the pavement base course and structural elements. For stabilizing
+    expansive soil the UCS, SPT, CBR tests are carried out with the addition of Stone
+    Powder (8% and 16%) and Polypropylene fibers (0.8%, 1.6% and 2.4%). Tests are
+    carried out for determining the compressive strength of soil is increasing with
+    the increasing in admixtures.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-10'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3292780
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3292779
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Priyanka-Gharsole:
+    individualname: Priyanka Gharsole
+    role: creator
+  Krishnamohan-Chauhan:
+    individualname: Krishnamohan Chauhan
+    role: creator
+    organization: ''
+    url: ''
+  Pankaj-Kumar:
+    individualname: Pankaj Kumar
+    role: creator
+  Avinash-Sanap:
+    individualname: Avinash Sanap
+    role: creator
+  Baburao-Sangale:
+    individualname: Baburao Sangale
+    role: creator
+    organization: ''
+    url: ''
+  Gharsole-Priyanka:
+    individualname: Gharsole, Priyanka
+    role: ''
+    organization: Assistant Professor, Department of Civil Engineering, G. S. Moze
+      College of Engineering, Pune, Maharashtra, India
+    url: ''
+  Kumar-Pankaj:
+    individualname: Kumar, Pankaj
+    role: ''
+    organization: BE Student, Department of Civil Engineering, G. S. Moze College
+      of Engineering, Pune, Maharashtra, India
+    url: ''
+  Sanap-Avinash:
+    individualname: Sanap, Avinash
+    role: ''
+    organization: BE Student, Department of Civil Engineering, G. S. Moze College
+      of Engineering, Pune, Maharashtra, India
+    url: ''
+content_info: {}

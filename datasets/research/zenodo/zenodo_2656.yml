@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kandpal_2022
+  dataseturi: https://doi.org/10.3390/s22093459
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Spectra Fusion of Mid-Infrared (MIR) and X-ray Fluorescence (XRF) Spectroscopy
+    for Estimation of Selected Soil Fertility Attributes
+  abstract: '&lt;p&gt;Previous works indicate that data fusion, compared to single
+    data modelling can improve the assessment of soil attributes using spectroscopy.
+    In this work, two different kinds of proximal soil sensing techniques i.e., mid-infrared
+    (MIR) and X-ray fluorescence (XRF) spectroscopy were evaluated, for assessment
+    of seven fertility attributes. These soil attributes include pH, organic carbon
+    (OC), phosphorous (P), potassium (K), magnesium (Mg), calcium (Ca) and moisture
+    contents (MC). Three kinds of spectra fusion (SF) (spectra concatenation) approaches
+    of MIR and XRF spectra were compared, namely, spectra fusion-Partial least square
+    (SF-PLS), spectra fusion-Sequential Orthogonalized Partial least square (SF-SOPLS)
+    and spectra fusion-Variable Importance Projection-Sequential Orthogonalized Partial
+    least square (SF-VIP-SOPLS). Furthermore, the performance of SF models was compared
+    with the developed single sensor model (based on individual spectra of MIR and
+    XRF). Compared with the results obtained from single sensor model, SF models showed
+    improvement in the prediction performance for all studied attributes, except for
+    OC, Mg, and K prediction. More specifically, the highest improvement was observed
+    with SF-SOPLS model for pH [R 2p = 0.90, root mean square error prediction (RMSEP)
+    = 0.15, residual prediction deviation (RPD) = 3.30, and ratio of performance inter-quantile
+    (RPIQ) = 3.59], successively followed by P (R 2p = 0.91, RMSEP = 4.45 mg/100 g,
+    RPD = 3.53, and RPIQ = 4.90), Ca (R 2p = 0.92, RMSEP = 177.11 mg/100 g, RPD =
+    3.66, and RPIQ = 3.22) and MC (R 2p = 0.80, RMSEP = 1.91%, RPD = 2.31, RPIQ =
+    2.62). Overall the study concluded that SF approach with SOPLS attained better
+    performance over the traditional model developed with the single sensor spectra,
+    hence, SF is recommended as the best SF method for improving the prediction accuracy
+    of studied soil attributes. Moreover, the multi-sensor spectra fusion approach
+    is not limited for only MIR and XRF data but in general can be extended for complementary
+    information fusion in order to improve the model performance in precision agriculture
+    (PA) applications.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - precision agriculture (PA);
+      - multi-sensor;
+      - spectra fusion (SF);
+      - sequential orthogonalized partial least square (SOPLS);
+      - soil fertility
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Spectra Fusion of Mid-Infrared (MIR) and X-ray Fluorescence (XRF) Spectroscopy
+      for Estimation of Selected Soil Fertility Attributes
+    url: http://dx.doi.org/10.3390/s22093459
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kandpal-Lalit-M.:
+    individualname: Kandpal, Lalit M.
+    role: creator
+  Muhammad-A.-Munnaf:
+    individualname: Muhammad A., Munnaf
+    role: creator
+  Cruz-Cristina:
+    individualname: Cruz, Cristina
+    role: creator
+  Mouazen-Abdul-M.:
+    individualname: Mouazen, Abdul M.
+    role: creator
+  Munnaf-Muhammad-A.:
+    individualname: Munnaf, Muhammad A.
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

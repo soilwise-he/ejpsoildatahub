@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10518375
+  dataseturi: https://doi.org/10.5281/zenodo.10518375
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: CONCENTRATION LEVELS OF LUBRICATING OILS ON CONCRETE FLOORS IN AN INDUSTRIAL
+    LEARNING ENVIRONMENT AND SUBSEQUENT SOIL CONTAMINATION
+  abstract: The aim of this study was to investigate the behaviour of hydrocarbon
+    pollutants on industrial floors lacking waterproofing protection and to understand
+    the implications of these pollutants on soil contamination. Industrial floors
+    are frequently exposed to various contaminants, such as oils and greases from
+    diverse sources. In this investigation, a metalworking laboratory that had been
+    operational for 42 years underwent the application of polyurethane-based paint
+    on its concrete floor, resulting in the appearance of oil bubbles on the painted
+    surface. Consequently, the primary objective of this research was to assess the
+    degree of hydrocarbon contamination on the floor to comprehend the encountered
+    issue. The conducted test, following the SM 5520E standard for hydrocarbon detection,
+    revealed that in areas prone to pathological manifestations, the concentration
+    of hydrocarbons increased by 74%, 45%, and 14% with each layer of protected concrete,
+    compared to the equivalent layer in the control region. Furthermore, there was
+    a notable concentration of hydrocarbons in the soil beneath the floor, registering
+    a 51% increase compared to the control region and a substantial 91% increase compared
+    to the adjacent concrete region.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-01'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10518375
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10518374
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  IJAET:
+    individualname: IJAET
+    role: creator
+  Vitor-Lorival-Kudlanvec-Junior:
+    individualname: Vitor Lorival Kudlanvec Junior
+    role: creator
+    organization: Department of Civil Construction,  Federal University of Parana
+      (UFPR), Curitiba, Brazil
+    url: ''
+content_info: {}

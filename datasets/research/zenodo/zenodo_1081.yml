@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5068394
+  dataseturi: https://doi.org/10.5281/zenodo.5068394
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: DOES THE PERMANENT PERMANENCE OF SOIL DEPEND ON THE TREATMENT METHODS?
+  abstract: The importance of soil water permeability in obtaining high yields from
+    agricultural crops is that the better it is, the more favorable the environment
+    will be for the growth and development of plants. This ensures high yields from
+    crops. In particular, summer tillage methods have different effects on its agrophysical
+    and water permeability properties. As a result, each variant is formed under specific
+    soil conditions, and the planted repeat crops grow and develop differently. This
+    also affects their productivity.
+  keywords:
+    default:
+      keywords:
+        subject: soil, water, environment, plant, crop, yield, product, water permeability,
+          agrophysics, irrigated land, volume weight.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-07-04'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5068394
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5068393
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Komilova-Dilfuza-Qutbidinovna:
+    individualname: Komilova Dilfuza Qutbidinovna
+    role: creator
+    organization: ''
+    url: ''
+  Ashurov-Qodirjon-Komiljonovich:
+    individualname: Ashurov Qodirjon Komiljonovich
+    role: creator
+    organization: ''
+    url: ''
+  Solijonov-Shahboz-Zafarjanovich:
+    individualname: Solijonov Shahboz Zafarjanovich
+    role: creator
+    organization: ''
+    url: ''
+  Abdurahimov-Diyorbek-Dilshodjanovich:
+    individualname: Abdurahimov Diyorbek Dilshodjanovich
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

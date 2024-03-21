@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6396335
+  dataseturi: https://doi.org/10.5281/zenodo.6396335
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Soil Organic Carbon, B.E.C. and Certain other Soil Constituents
+    by Soil-conductometric Method.
+  abstract: "Department of Chemistry, University of Allahabad, Allahabad-211 002.\
+    \ <em>Manuscript received 15 May 1976 ; accepted 28 June 1976</em> Fifty Indian\
+    \ soils belonging to semi-desert, arid, semi-arid, sub-humid, humid-temperate\
+    \ and per-humid soil climatic regions have been taken to determine the specific\
+    \ conductance of these soils In aqueous media at 25\xB0. These values were then\
+    \ correlated with the values of different soil analyzates. It has been observed\
+    \ that out of twenty-one soil properties only 12 soil properties viz. SiO<sub>2</sub>\
+    \ (negative), Fe<sub>2</sub>O<sub>3</sub>, R<sub>2</sub>O<sub>3</sub>, C, C/N,\
+    \ pH (negative), B.E.C., Exch., Ca+ Mg (negative), Silt-I-Clay, Silt/Clay, total\
+    \ sand (negative) and total sand/silt+clay (negative) were found to be significantly\
+    \ correlated at 5% level with the specific conductance values of soils. The regression\
+    \ equations especially for those 'r' values (coefficients of correlation) which\
+    \ are significant, have only, been proposed. It is suggested that the proposed\
+    \ reaction equations may help in the determination of a particular soil analyzate\
+    \ provided the corresponding specific conductivity values of soil samples are\
+    \ known."
+  keywords:
+    default:
+      keywords:
+        subject: Soil-conductometric Method
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1976-10-31'
+    publication: '1976'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6396335
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6396334
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SHARAFAT-ALI:
+    individualname: SHARAFAT ALI
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

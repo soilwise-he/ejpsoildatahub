@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kinahan_1869
+  dataseturi: https://doi.org/10.1017/s0016756800162715
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "IV.\u2014Additional Notes on the Growth of Soil"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "IV.\u2014Additional Notes on the Growth of Soil"
+    url: http://dx.doi.org/10.1017/s0016756800162715
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kinahan-G.-H.:
+    individualname: Kinahan, G. H.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

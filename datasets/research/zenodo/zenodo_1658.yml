@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3460264
+  dataseturi: https://doi.org/10.5281/zenodo.3460264
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Observation of the Behavior of Organic Soil by Adding Lime, Fly Ash and Cement
+  abstract: Organic soil is a kind of soil that contains organic matter. Soil organic
+    matter (SOM) is that kind of organic matter of soil, which consists of different
+    ingredients such as plants, animal residues, cells and tissues of soil etc. at
+    various stages of decomposition. Normally organic soils are rich in water content
+    with high porosity and therefore successful stabilization has to depend on the
+    type and amount of binder added. The commonly used binders are lime, fly ash and
+    cement. This study reveals the variation of behavior of organic soil-lime, organic
+    soil- fly ash and organic soil-cement mixtures at an amount of 5%, 10%, 15% and
+    20 %. The maximum shear stress and maximum angle of friction were found for 10%
+    cement mixed with soil.
+  keywords:
+    default:
+      keywords:
+        subject: http://hbrppublication.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-25'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3460264
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3460263
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.S.M.-Fahad-Hossain:
+    individualname: A.S.M. Fahad Hossain
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science & Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Ayesha-Binta-Ali:
+    individualname: Ayesha Binta Ali
+    role: creator
+  Saffat-Rabby-Munayem:
+    individualname: Saffat Rabby Munayem
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science & Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Saptershi-Chakma:
+    individualname: Saptershi Chakma
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science & Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Fatema-Rahman:
+    individualname: Fatema Rahman
+    role: creator
+  Ali-Ayesha-Binta:
+    individualname: Ali, Ayesha Binta
+    role: ''
+    organization: Lecturer, Department of Civil Engineering, Ahsanullah University
+      of Science & Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Rahman-Fatema:
+    individualname: Rahman, Fatema
+    role: ''
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science & Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+content_info: {}

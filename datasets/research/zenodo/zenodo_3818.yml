@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1312703
+  dataseturi: https://doi.org/10.5281/zenodo.1312703
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact Of Organic And Conventional (Chemical) Fertilization On Soil Quality
+    And Its Seasonal Variation
+  abstract: "This study was carried out to explore the seasonal variations in physico-chemical\
+    \ and microbiological characteristics of soil samples collected from different\
+    \ types of agricultural fields in confluence point of Vellar and Manimuthar river\
+    \ basin in Peruvarappur village, Cuddalore district, Tamilnadu. The fields were\
+    \ selected based on the fertilization type (Organic Fertilization [OF], Chemical\
+    \ Fertilization [CF]) over the past three years. Results showed that seasonally\
+    \ the pH is not varied in both fields, however; the seasonal average is slightly\
+    \ higher in CF field. The total nitrogen concentration showed a higher average\
+    \ in OF field (3.83\xB1.73 g kg-1) than CF field (2.70\xB10.51 g kg-1). However,\
+    \ available K and P showed the average concentration is higher in CF field (64.35\xB1\
+    4.04 and 77.15\xB12.07) than OF field (44.06\xB11.40 g kg-1 and 64.0\xB19.7 g\
+    \ kg-1). The higher seasonal average of Total Nitrogen (TC) and ammonium was found\
+    \ in OF field (29.95\xB12.48 and 3.63\xB10.29) than CF field (28.8\xB13.06 and\
+    \ 1.56\xB1.38) Moreover, the seasonal average of Nitrate concentration was higher\
+    \ in CF field (24.61\xB12.28) than OF field (13.96\xB11.04). All the physico-chemical\
+    \ properties of both fields soil are increased every first monsoon season. Zinc\
+    \ and Manganese are the major metal components found in OF field (189.52\xB18.31\
+    \ \u03BCg g-1) and CF field (197.17\xB111.67 \u03BCg g-1) respectively. Chemical\
+    \ fertilization increases the fungal population, however; it reduced the bacterial\
+    \ and actinomycetes population in CF field. The Non-linear incasement of analyzed\
+    \ soil parameters and the microbial population were observed in this study. The\
+    \ factors that control soil fertility are good in OF field than the CF field."
+  keywords:
+    default:
+      keywords:
+        subject: 10.5281/zenodo.1312703
+        subjectScheme: doi
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-07-16'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1312703
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1312702
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kamaraj-Yoganathan:
+    individualname: Kamaraj Yoganathan
+    role: creator
+  Yoganathan-Kamaraj:
+    individualname: Yoganathan, Kamaraj
+    role: ''
+    organization: Department of Microbiology, Annamalai University, Annamalainagar,
+      Tamilnadu, India
+    url: https://orcid.org/0000-0003-0729-6572
+content_info: {}

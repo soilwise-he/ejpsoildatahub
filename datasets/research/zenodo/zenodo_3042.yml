@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2630429
+  dataseturi: https://doi.org/10.5281/zenodo.2630429
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Mineral concentrations in herbage and soil in a Pinus radiata silvopastoral
+    system in north-west Spain after sewage sludge and lime application
+  abstract: "Silvopastoral systems in north-west Spain can reduce the risk of fires\
+    \ and promote multi-purpose forest land use. Fertilizer application is important\
+    \ for optimal pasture and tree production. The application rate of sewage sludge\
+    \ as a fertilizer is regulated and is based on\nits nutrient concentration, especially\
+    \ nitrogen. The aim of this study was to assess the effect of three consecutive\
+    \ years of application of different application rates of sewage sludge and inorganic\
+    \ fertilizer, with or without lime (2\xC65 t CaCO3 ha)1) on the ammonium, nitrate\
+    \ and\nexchangeable K, Ca and Mg contents in soil, and on the crude protein (CP),\
+    \ K, Ca and Mg concentrations in herbage in a silvopastoral system established\
+    \ under a 5-year-old Pinus radiata D. Don plantation with a density of 1667 trees\
+    \ ha)1. The experiment was started\nin autumn 1997, when a pasture mixture was\
+    \ sown (25 kg ha)1 Lolium perenne, 10 kg ha)1 Dactylis glomerata and 4 kg ha)1\
+    \ Trifolium repens). Changes in ammonium and nitrate content in the soil in response\
+    \ to liming and sewage sludge application reflected the initial pH of the\nsoil.\
+    \ In general, liming increased the available Ca and Mg content in soil, and CP\
+    \ and Ca concentrations in herbage, but reduced exchangeable K content in the\
+    \ soil in the first year. Application of sewage sludge increased all of the measured\
+    \ nutrients in both soil and\nherbage."
+  keywords:
+    default:
+      keywords:
+        subject: soil nutrient concentrations
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2006-05-23'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2630429
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2630428
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Rigueiro-Rodriguez:
+    individualname: "A. Rigueiro-Rodr\xEDguez"
+    role: creator
+    organization: ''
+    url: ''
+  M.-R.-Mosquera-Losada-and-M.-L.-Lopez-Diaz:
+    individualname: "M. R. Mosquera-Losada and M. L. L\xF3pez-D\xEDaz"
+    role: creator
+  M.-R.-Mosquera-Losada-And-M.-L.-Lopez-Diaz:
+    individualname: "M. R. Mosquera-Losada And M. L. L\xF3pez-D\xEDaz"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

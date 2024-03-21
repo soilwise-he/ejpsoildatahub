@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2604071
+  dataseturi: https://doi.org/10.5281/zenodo.2604071
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Health Security in India: Insights from Soil Health Card Data'
+  abstract: This study has made an attempt to assess the soil nutritional status of
+    various states in India using secondary data collected from the Soil Health Card
+    portal. The study finds that due to the unbalanced use of micro and macro fertilizers,
+    the health of the soil is continuously deteriorating across the states and ecological
+    regions. Farmers are deliberately using chemical fertilizers in the states, where
+    insured irrigation is available. This not only deteriorating soil health but also
+    increasing input cost and causing long chronical diseases. Lack of awareness also
+    a vital reason behind the unbalanced use of fertilizers. The farmer is injecting
+    the same amount of fertilizers in the soil as they injected 20 years ago. However,
+    soil chemical property has been changed, when land is either converted from irrigated
+    to rainfed or rainfed to irrigate. Therefore, this study recommends that there
+    is a need of adopting a holistic approach to match the soil fertilizer demand
+    with supply.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Health, Nutritional Security, Agriculture, India
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-03-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2604071
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2603064
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Surendra-Singh:
+    individualname: Surendra Singh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7611879
+  dataseturi: https://doi.org/10.5281/zenodo.7611879
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of Catchment Afforestation Potentials of Seedlings of Three Native
+    Tree Species under Different Soil Moisture Conditions
+  abstract: "<em>In many parts of the world, key water catchments and watershed ecosystems\
+    \ have been degraded by successive waves of anthropogenic activities, thus requiring\
+    \ rehabilitation. One of the drawbacks of rehabilitation of degraded catchments\
+    \ is the lack of information about species suitable to local conditions. This\
+    \ study was designed to evaluate the catchment afforestation/reforestation potentials\
+    \ of three native tree seedlings under different moisture levels. In a complete\
+    \ randomised design (3 species x 4 treatments x 12 replicates) in a shade house,\
+    \ 144 pots with fairly uniform actively growing seedlings of Markhmia tomentosa,\
+    \ Funtumia Africana and Prunus Africana were treated to 4 soil moisture levels,\
+    \ corresponding to12.5, 25, 50 and 100% field capacity determined gravimetrically.\
+    \ Growth parameters (collar diameter, height and number of leaves) were measured\
+    \ fortnightly, while leaf area, biomass components and their derivatives were\
+    \ measured destructively after six months of growth. The seedlings\u2019 rate\
+    \ of transpiration and evapotranspiration (gH2O/s/m2) were determined gravimetrically\
+    \ and water-use efficiency derived (g/L). The general effects of the soil moisture\
+    \ capacity on the growth performances were significantly different at P &lt; 0.001.\
+    \ Markhmia tomentosa showed maximum leaf number (42) and leaf area (10712.8 cm2,\
+    \ 25% treatment), collar diameter (17.8 cm) and root shoot ratio (2.8, 50% treatment).\
+    \ Funtumia africana at 50% soil moisture capacity showed maximum height (88.6\
+    \ cm) and total biomass (60.3g). Prunus africana had the least growth performances.\
+    \ Markhmia had the maximum rate of transpiration (12.69 gH2O/s/m2), evapotranspiration\
+    \ (14.20 gH2O/s/m2). Funtumia gave the best water-use efficiency (176.5 ml/g).\
+    \ Their least values were observed in P. Africana. Funtumia africana had the best\
+    \ water use efficiency while Markhmia tomentosa had the best root development.\
+    \ These two species would be suitable for the afforestation/reforestation of water\
+    \ catchment areas in Cameroon at low altitude while P. africana, naturally adapted\
+    \ to high altitudes require further investigations.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Water catchment, reforestation/afforestation, tree seedlings, growth
+          parameters, transpiration, evapotranspiration and water-use efficiency
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7611879
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7611878
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Egbe-Enow-Andrew:
+    individualname: Egbe Enow Andrew
+    role: creator
+    organization: ''
+    url: ''
+  Forkwa-Etienne-Yong:
+    individualname: Forkwa Etienne Yong
+    role: creator
+    organization: ''
+    url: ''
+  Neba-Godlove-Ambe:
+    individualname: Neba Godlove Ambe
+    role: creator
+    organization: ''
+    url: ''
+  Enow-Elsie-Ayamoh:
+    individualname: Enow Elsie Ayamoh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

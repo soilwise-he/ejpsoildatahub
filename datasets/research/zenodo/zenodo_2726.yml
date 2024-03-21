@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2532140
+  dataseturi: https://doi.org/10.5281/zenodo.2532140
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: survival, growth and some physiological characteristics of Thuja orientalis
+    seedlings under different soil moisture content and Nitrogen fertilizer treatments
+  abstract: In this study, in order to investigate the effect of drought and N fertilizer
+    on <em>Thuja orientalis</em> seedlings quality, 270 pots filled with 2 kg of Soorkesh
+    forest reserve area soil, and a newly established <em>Thuja orientalis</em> seedling
+    were transplanted in each of the pots.  After 2 month, using RCBD based factorial
+    experiment, 6 levels of drought (contains 100%, 75%, 50%, 25%, 15% and 10% F.C.)
+    and 3 levels of N fertilizer (control, Low N, and High N) conducted till the end
+    of the first growing season in 3 replications, under greenhouse conditions.Hereafter,
+    we analyzed survival and some of  morphological and physiological properties,
+    water use efficiency and quality index of seedlings after 5 month.
+  keywords:
+    default:
+      keywords:
+        subject: Thuja orientalis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-01-05'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2532140
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2532139
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Elham-Okati:
+    individualname: Elham Okati
+    role: creator
+  Alireza-Aliarab:
+    individualname: Alireza Aliarab
+    role: creator
+    organization: ''
+    url: ''
+  Sayed-Ehsan-Sadati:
+    individualname: Sayed Ehsan Sadati
+    role: creator
+  Okati-Elham:
+    individualname: Okati, Elham
+    role: ''
+    organization: MSc. Graduated student in Silviculture and Forest ecology, Faculty
+      of Forest Sciences, Gorgan University of Agricultural Sciences and natural resources,
+      Gorgan, Iran
+    url: ''
+  Sadati-Sayed-Ehsan:
+    individualname: Sadati, Sayed Ehsan
+    role: ''
+    organization: Assistant Professor, Center of Agricultural and Natural Resources
+      Research of Mazandaran, Sari, Iran.
+    url: ''
+content_info: {}

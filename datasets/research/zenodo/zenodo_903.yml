@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: S_nchez_Garc_a_2014
+  dataseturi: https://doi.org/10.3389/fenvs.2014.00025
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Biochar increases soil N2O emissions produced by nitrification-mediated pathways
+  abstract: '&lt;p&gt;In spite of the numerous studies reporting a decrease in soil
+    nitrous oxide (N&lt;sub&gt;2&lt;/sub&gt;O) emissions after biochar amendment,
+    there is still a lack of understanding of the processes involved. Hence the subject
+    remains controversial, with a number of studies showing no changes or even an
+    increase in N&lt;sub&gt;2&lt;/sub&gt;O emissions after biochar soil application.
+    Unraveling the exact causes of these changes, and in which circumstances biochar
+    decreases or increases emissions, is vital to developing and applying successful
+    mitigation strategies. With this objective, we studied two soils (Haplic Phaeozem
+    (HP) and Haplic Calcisol (HC)), which showed opposed responses to biochar amendment.
+    Under the same experimental conditions, the addition of biochar to soil HP decreased
+    N&lt;sub&gt;2&lt;/sub&gt;O emissions by 76%; whereas it increased emissions by
+    54% in soil HC. We combined microcosm experiments adding different nitrogen fertilizers,
+    stable isotope techniques and the use of a nitrification inhibitor (dicyciandiamide)
+    with the aim of improving our understanding of the mechanisms involved in the
+    formation of N&lt;sub&gt;2&lt;/sub&gt;O in these two soils. Evidence suggests
+    that denitrification is the main pathway leading to N&lt;sub&gt;2&lt;/sub&gt;O
+    emissions in soil HP, and ammonia oxidation and nitrifier-denitrification being
+    the major processes generating N&lt;sub&gt;2&lt;/sub&gt;O in soil HC. Biochar
+    systematically stimulated nitrification in soil HC, which was probably the cause
+    of the increased N&lt;sub&gt;2&lt;/sub&gt;O emissions. Here we demonstrate that
+    the effectiveness of using biochar for reducing N&lt;sub&gt;2&lt;/sub&gt;O emissions
+    from a particular soil is linked to its dominant N&lt;sub&gt;2&lt;/sub&gt;O formation
+    pathway.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - nitrous oxide
+      - charcoal
+      - nitrification
+      - DCD
+      - codenitrification
+      - nitrogen fertilizers
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Biochar increases soil N2O emissions produced by nitrification-mediated
+      pathways
+    url: http://dx.doi.org/10.3389/fenvs.2014.00025
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Maria-Sanchez-Garcia-Asuncion-Roig-Miguel-A.Sanchez-Monederoand-MariaL.Cayuela*:
+    individualname: "Mar\xEDa S\xE1nchez-Garc\xEDa, Asunci\xF3n Roig, Miguel A.S\xE1\
+      nchez-Monederoand Mar\xEDaL.Cayuela*"
+    role: creator
+  SA!nchez-GarcAa-MarAa:
+    individualname: "S\xC3\xA1nchez-Garc\xC3\xADa, Mar\xC3\xADa"
+    role: creator
+  Roig-AsunciA3n:
+    individualname: "Roig, Asunci\xC3\xB3n"
+    role: creator
+  SA!nchez-Monedero-Miguel-A.:
+    individualname: "S\xC3\xA1nchez-Monedero, Miguel A."
+    role: creator
+  Cayuela-MarAa-L.:
+    individualname: "Cayuela, Mar\xC3\xADa L."
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

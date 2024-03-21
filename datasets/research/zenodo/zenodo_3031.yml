@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3404124
+  dataseturi: https://doi.org/10.5281/zenodo.3404124
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The dynamics of soil agrochemical indicators from the "Lilac garden" exposition
+    of M.M. Gryshko National Botanical Garden of the NAS of Ukraine
+  abstract: "<strong>Objective</strong> \u2013 to analyse the dynamics of agrochemical\
+    \ indicators of the soil under collection of <em>Syringa vulgaris</em> L. cultivars.\
+    \ These indicators used for solving the problem of anisotropy of biogenic elements\
+    \ distribution in the soil. <strong>Material and methods</strong>. The study has\
+    \ been carried out on the \u201CLilac Garden\u201D exposition. The soil samples\
+    \ were collected in the spring and in the autumn (2016\u20132018) under the <em>Syringa\
+    \ vulgaris</em> plants: 1 \u2013 under lawn grasses, 2 \u2013 on the site with\
+    \ permanent soil cultivation, 3 \u2013 on the site with permanent anthropogenic\
+    \ pressure (under the <em>S. vulgaris</em> cultivar trees). The plants are 55\u2013\
+    60 years old. The humus reserves and nutrients content were calculated for the\
+    \ horizon 0\u201320 cm. The agrochemical analysis of soil samples has been done\
+    \ after G. Rinkis method (1982) by inductively coupled plasma optical emission\
+    \ spectrometry iCAP 6300 DUO. Soil samples were extracted by 1 N HCL. Soil samples\
+    \ pH were measured by Hi 2211 pH/ORP Meter (Hanna Instruments). <strong>Results</strong>.\
+    \ It were investigated agrochemical indicators study (pH, humus, N, P, K, Ca,\
+    \ Mg, Fe, Mn) of <em>S. vulgaris</em> collection gray podzolized soil. The soil\
+    \ solution pH indicators \u2013 6.53\u20137.50. Humus content changes were registered\
+    \ during the seasons: 3.6\u20137.8 % in spring, 5.2\u20139.3 % in autumn. Maximum\
+    \ concentrations of the biogenic elements were observed in different terms of\
+    \ the plant vegetation cycle due to the precipitation and air temperature fluctuations.\
+    \ <strong>Conclusion</strong>. The results demonstrate diverse distribution of\
+    \ biogenic elements in the <em>Syringa vulgaris</em> collection soil cover. It\
+    \ is to be considered for developing of plant cultivation rules for decorative\
+    \ and long living<em> S. vulgaris </em>cultivars."
+  keywords:
+    default:
+      keywords:
+        subject: climate
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2019-09-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3404124
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3404123
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.I.-Dovhaliuk:
+    individualname: N.I. Dovhaliuk
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

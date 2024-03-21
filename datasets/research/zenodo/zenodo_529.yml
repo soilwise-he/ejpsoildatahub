@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yunjin_Kim
+  dataseturi: https://doi.org/10.1109/igarss.2003.1294123
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A soil moisture algorithm using tilted Bragg approximation
+  abstract: A successful soil moisture algorithm using radar data must identify the
+    soil moisture effect and the surface roughness dependence explicitly since rough
+    surface scattering depends on both the roughness and the dielectric constant of
+    an imaged surface. For bare surfaces, several algorithms have been developed to
+    estimate soil moisture using polarimetric radar data. These algorithms were empirically
+    derived from either experimental data or numerical data instead of starting from
+    rough surface scattering theories. In this paper, we present a soil moisture algorithm
+    theoretically derived using the tilted Bragg approximation. With appropriate approximations
+    using the tilted Bragg theory, we have derived both co- and cross-polarization
+    ratios. Then, a soil moisture algorithm is developed based on these two ratios.
+    This new algorithm is compared with the existing empirical methods using input
+    data from the IEM (Integral Equation Method) an experimental radar data. We also
+    briefly discuss the effect of vegetation on this soil moisture algorithm.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A soil moisture algorithm using tilted Bragg approximation
+    url: http://dx.doi.org/10.1109/igarss.2003.1294123
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kim-Yunjin:
+    individualname: Kim, Yunjin
+    role: creator
+  van-Zyl-J.:
+    individualname: van Zyl, J.
+    role: creator
+  Jiancheng-Shi:
+    individualname: Jiancheng Shi
+    role: creator
+  Shi-Jiancheng:
+    individualname: Shi, Jiancheng
+    role: creator
+  Yunjin-Kim:
+    individualname: Yunjin Kim
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

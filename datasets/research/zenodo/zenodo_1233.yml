@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bozhkov_2022
+  dataseturi: https://doi.org/10.3897/jbgs.e94913
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil catenas and plant sites on the northern macroslope of Rila Mountain
+  abstract: "The following paper represents results from a research focused on the\
+    \ soil associations and their corresponding vegetation communities (soil-plant\
+    \ catenas), located on the northern slopes (N, NW, NE) of the Rila Mountains.\
+    \ Data from eight key sites located between 815 and 2041 m above sea level is\
+    \ discussed. The slope in each site varies from 2\xB0 to 25\xB0, and most often\
+    \ the tests and descriptions were carried out on sites with a slope of 10-15\xB0\
+    . Vegetation cover is analyzed with plant community plots which provides data\
+    \ on species composition, abundance and coverage. The size of each plot varies\
+    \ from 16 up to 225 m2 depending on the vegetation type. Topsoil horizons were\
+    \ tested in each site in order to diagnose the subspecies diversity of brown forest\
+    \ soils (Cambisols) using ratio of humic acids to fulvic acids. That ratio varies\
+    \ from 0,69 up to 1,61 in all studied sites. Both acids are associated with the\
+    \ dominance of different vegetation types \u2013 deciduous, mixed or coniferous\
+    \ forest or herbaceous canopy. The results are interrupted in terms of the diagnosis\
+    \ and classification of Cambisols and Umbrosols in the area of interest. Differences\
+    \ in soil and vegetation cover of Northwest and Eastern Rila Mountain are highlighted\
+    \ and analyzed."
+  keywords:
+    default:
+      keywords:
+      - vegetation
+      - slopes
+      - Cambisols
+      - Umbrosols
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil catenas and plant sites on the northern macroslope of Rila Mountain
+    url: http://dx.doi.org/10.3897/jbgs.e94913
+    type: www
+contact:
+  Bulgarian-Geographical-Society:
+    individualname: Bulgarian Geographical Society
+    role: creator
+  Bozhkov-Petko:
+    individualname: Bozhkov, Petko
+    role: creator
+  Grigorov-Borislav:
+    individualname: Grigorov, Borislav
+    role: creator
+  Sarafov-Alexandar:
+    individualname: Sarafov, Alexandar
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

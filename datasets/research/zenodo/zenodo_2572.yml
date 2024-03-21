@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.810456
+  dataseturi: https://doi.org/10.5281/zenodo.810456
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Integration Of Cocoa Pod Ash, Poultry Manure And Npk 20:10:10 For Soil Fertility\
+    \ Management \u2013 Incubation Study"
+  abstract: 'A laboratory incubation study to determine the rate of nutrient supply
+    by poultry manure (0, 5 and 10 t ha<sup>-1</sup>), cocoa pod ash (0, 5 and 10
+    t ha<sup>-1</sup>), NPK 20:10:10 fertilizer (0 and 150 kg ha<sup>-1</sup>) and
+    their combinations on soil properties was conducted at Igunshin in the rainforest
+    zone of Southwest Nigeria. The 10 treatments were arranged in completely randomized
+    design with nine replications. The soil was slightly acidic, low in OM, N, P and
+    K. The incubation study showed that the soils treated with poultry manure (P)
+    rates, cocoa pod ash(C) rates and their combinations significantly (p&lt;0.05)
+    increased soil pH over the control and NPK 20:10:10 fertilizer (F). When poultry
+    manure was combined with NPK 20: 10:10 fertilizer, the pH of the soil decreased
+    as the incubation period progressed while the pH increased with combined cocoa
+    pod ash and the mineral fertilizer at 90 days of incubation. The rate of decrease
+    in soil pH was more pronounced in the soils treated with NPK fertilizer alone.
+    Total OC, total N, exchangeable K and Mg significantly (p&lt;0.05) increased as
+    the period of incubation increased in all the treatments compared with control.
+    Cocoa pod ash rates and cocoa pod ash combined with NPK fertilizer increased exchangeable
+    Ca as the period of incubation increased while poultry manure rates and its combinations
+    with NPK fertilizer decreased at 90 days of incubation. Combined poultry manure
+    and NPK fertilizer had the highest N and P while combined cocoa pod ash recorded
+    the highest Ca, K and Mg. Combination of poultry manure with reduced level of
+    mineral fertilizer or cocoa pod ash had positive effect on the acid soil and increased
+    the rate of nutrient mineralization than the sole application of poultry manure
+    or cocoa pod ash.'
+  keywords:
+    default:
+      keywords:
+        subject: Cocoa pod ash, poultry manure, integration, mineral fertilizer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2008-06-18'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.810456
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.810455
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ayeni-L.S.:
+    individualname: Ayeni, L.S.
+    role: creator
+    organization: University of Agriculture, Department of Soil Science and Land Management,
+      Abeokuta, Nigeria.
+    url: ''
+content_info: {}

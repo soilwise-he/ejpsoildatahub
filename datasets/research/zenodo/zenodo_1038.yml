@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10389365
+  dataseturi: https://doi.org/10.5281/zenodo.10389365
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Geotechnical Study for Diverse Soil Profiles at Fluctuated Bore Hole Locations
+  abstract: "The geotechnical investigation is to ascertain the nature and characteristics\
+    \ of sub-soil below the ground level at the Existing site. The study would include\
+    \ identification of suitable foundation systems for the subject work and assessment\
+    \ of safe bearing capacity.\n\n\_\n\nThis study presents an account of field and\
+    \ laboratory activities. An analysis of the field and laboratory tests results\
+    \ have been carried out to determine the barring capacity of soil for the optimum\
+    \ design of foundation. This report incorporates recommendation for the allowable\
+    \ soil pressure to be adopted for the Existing structure.\n\n\_\n\nThe soil investigation\
+    \ was carried out in accordance with the Indian Standard Code of Practice IS 2131-\
+    \ 1981 (Reaffirmed 1997) and other IS code of practice.\n\n\_"
+  keywords:
+    default:
+      keywords:
+        subject: Soil investigation, Bore holes, Soil profile, Bore log report.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-15'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10389365
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10389364
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G-R-Seenivasan:
+    individualname: G R Seenivasan
+    role: creator
+    organization: ''
+    url: ''
+  R-Sibi:
+    individualname: R Sibi
+    role: creator
+    organization: ''
+    url: ''
+  V-Nandakumar:
+    individualname: V Nandakumar
+    role: creator
+    organization: ''
+    url: ''
+  K-Sivakumar:
+    individualname: K Sivakumar
+    role: creator
+    organization: ''
+    url: ''
+  K-Revathi:
+    individualname: K Revathi
+    role: creator
+    organization: ''
+    url: ''
+  P-Kalaivani:
+    individualname: P Kalaivani
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8363012
+  dataseturi: https://doi.org/10.5281/zenodo.8363012
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: DYNAMIC SOIL STRUCTURE INTERACTION ANALYSIS OF HIGH-RISE BUILDING SUPPORTED
+    ON FINNED PILE-MAT FOUNDATION
+  abstract: <strong>Abstract</strong> In a process known as Soil-Structure Interaction
+    (SSI), the motion of the structure is impacted by the soil reaction and vice versa.
+    It has been believed that SSI enhances a building's capacity to respond to earthquakes.
+    In order to transfer building loads from shallow soil strata with poor bearing
+    capacity to deeper soil strata with high bearing capacity and stiffness, pile
+    foundations are often employed. Compared to vertical loads, lateral loads are
+    often only partially resisted by piles. Thus, it is also necessary to enhance
+    the lateral load bearing capability of piles. In general, fins make the pile more
+    rigid, which helps piles to resist greater lateral stresses than the typical approach.
+    It is exceedingly challenging to fully understand the behavior of fin piles using
+    conventional soil pile theories since they have various fin configurations. The
+    purpose of the current study is to understand how regular pile mats (RP-Mat) and
+    finned pile mat foundations with different fin lengths of 6m &amp; 18m behave
+    under saturated and unsaturated soil conditions when they are subjected to 1940
+    El-Centro earthquake ground motion. The three-dimensional Finite element analysis
+    ABAQUS 6.17 software was used to model these foundations. At various floor levels,
+    the peak acceleration, storey lateral displacement and Inter-storey drift values
+    are compared for both fin lengths under different soil conditions. Results of
+    the study showed that when compared to RP mat, using a finned pile mat proved
+    more effective in decreasing the structural response. A better performance with
+    respect to reducing the seismic effects on the building and improving its stiffness
+    was observed when the fin length was increased Further, the 0.6Lp is proved to
+    be the effective fin length which were shown satisfactory performance when compared
+    to other fin lengths.
+  keywords:
+    default:
+      keywords:
+        subject: Earthquake, Acceleration, lateral displacement, Inter-storey drift,
+          Soil Structure interaction, Finned Pile-Mat.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-20'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8363012
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8363011
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-BASAVANAGOWDA.G.M:
+    individualname: Dr. BASAVANAGOWDA.G.M
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, MSRIT, Bangalore,
+      India.
+    url: ''
+  M-ROSHANA:
+    individualname: M ROSHANA
+    role: creator
+    organization: P.G Research scholar, Department of Civil engineering, MSRIT, Bangalore,
+      India.
+    url: ''
+  PRADEEP-C-R:
+    individualname: PRADEEP C R
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Bangalore
+      Institute of Technology, Bangalore, India.
+    url: ''
+content_info: {}

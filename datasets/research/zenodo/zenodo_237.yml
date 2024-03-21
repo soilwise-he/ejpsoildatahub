@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5861152
+  dataseturi: https://doi.org/10.5281/zenodo.5861152
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on adsorption of carbaryl as influenced by soil organic matter (SOM)
+    and other soil characteristics
+  abstract: Department of Applied Chemistry, Z. H. College of Engineering &amp; Technology,
+    Aligarh Muslim University, Aligarh-202 002, India <em>Manuscript received 3 April
+    1996, revised 17 July 1999, accepted 22 July 1999</em> Adsorption of carbaryl
+    (insecticide) has been studied on soils (untreated) and soils free of organic
+    matter (O.M.). Freundlich and Langmuir equations are used to characterise the
+    isotherms. Simple correlation analysis shows the significant influence of organic
+    matter on the adsorption of carbaryl by untreated soils. In case of O.M.-free
+    soils, adsorption is found to be correlated with the clay content and specific
+    surface area. The clay content of the soil (O.M.-free) accounts for a very large
+    proportion of the variation in adsorption <em>(k </em>value). Exothermic nature
+    of adsorption illustrates its temperature-dependence. Evaluation of thermodynamic
+    parameters indicates the physical nature of adsorption.
+  keywords:
+    default:
+      keywords:
+        subject: Spectrophotometric determination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2000-01-31'
+    publication: '2000'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5861152
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5861151
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.-Ali:
+    individualname: I. Ali
+    role: creator
+    organization: ''
+    url: ''
+  H.-S.-Rathore:
+    individualname: H. S. Rathore
+    role: creator
+    organization: ''
+    url: ''
+  K.-K.-Singh:
+    individualname: K. K. Singh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

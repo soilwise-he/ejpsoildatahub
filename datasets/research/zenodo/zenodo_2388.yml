@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Moret_Fern_ndez_2011
+  dataseturi: https://doi.org/10.1002/hyp.8198
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: TDR pressure cell for monitoring water content retention and bulk electrical
+    conductivity curves in undisturbed soil samples
+  abstract: '&lt;p&gt;The water retention curve (&theta;(&psi;)), which defines the
+    relationship between soil volumetric water content (&theta;) and matric potential
+    (&psi;), is of paramount importance in characterizing the hydraulic behaviour
+    of soils. However, few methods are so far available for estimating &theta;(&psi;)
+    in undisturbed soil samples. We present a new design of TDR-pressure cell (TDR-Cell)
+    for estimating &theta;(&psi;) in undisturbed soil samples. The TDR-Cell consists
+    of a 50-mm-long and 50-mm internal diameter stainless steel cylinder (which constitutes
+    the outer frame of a coaxial line) attached to a porous ceramic disc and closed
+    at the ends with two aluminium lids. A 49-mm-long and 3-mm-diameter stainless
+    steel rod, which runs longitudinally through the centre of the cylinder, constitutes
+    the inner rod of a coaxial TDR probe. The TDR-Cell was used to determine the &theta;(&psi;)
+    curves of a packed sand and seven undisturbed soil samples from three profiles
+    of agricultural soils. These &theta;(&psi;) curves were subsequently compared
+    to those obtained from the corresponding 2-mm sieved soils using the pressure
+    plate method. Measurements of bulk electrical conductivity, &sigma;&lt;sub&gt;a&lt;/sub&gt;,
+    as a function of the water content, &sigma;&lt;sub&gt;a&lt;/sub&gt;(&theta;),
+    of the undisturbed soil samples were also performed. An excellent correlation
+    (&lt;em&gt;R&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt; = 0&middot;988) was found between
+    the &theta; values measured by TDR on the different undisturbed soils and the
+    corresponding &theta; obtained from the soil gravimetric water content. A typical
+    bimodal &theta;(&psi;) function was found for most of the undisturbed soil samples.
+    Comparison between the &theta;(&psi;) curves measured with the TDR-Cell and those
+    obtained from the 2-mm sieved soils showed that the pressure plate method overestimates
+    &theta; at low &psi; values. The &sigma;&lt;sub&gt;a&lt;/sub&gt;(&theta;) relationship
+    was well described by a simple power expression (&lt;em&gt;R&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;
+    &gt; 0&middot;95), in which the power factor, defined as tortuosity, ranged between
+    1&middot;18 and 3&middot;75.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: TDR pressure cell for monitoring water content retention and bulk electrical
+      conductivity curves in undisturbed soil samples
+    url: http://dx.doi.org/10.1002/hyp.8198
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Moret-Fernandez-D.:
+    individualname: "Moret\u2010Fern\xE1ndez, D."
+    role: creator
+  Vicente-J.:
+    individualname: Vicente, J.
+    role: creator
+  Latorre-B.:
+    individualname: Latorre, B.
+    role: creator
+  Lera-F.:
+    individualname: Lera, F.
+    role: creator
+  Lopez-M.V.:
+    individualname: "L\xF3pez, M.V."
+    role: creator
+  Castaneda-C.:
+    individualname: "Casta\xF1eda, C."
+    role: creator
+  Herrero-J.:
+    individualname: Herrero, J.
+    role: creator
+  Lopez-M.-V.:
+    individualname: "L\xF3pez, M. V."
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6217007
+  dataseturi: https://doi.org/10.5281/zenodo.6217007
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Emission Spectrographic Estimation of Silver, Bismuth, Molybdenum and Vanadium
+    in Soil and Rocks
+  abstract: Directorate of Geology and Mining, Madhya Pradesh, Raipur-492 001. <em>Manuscript
+    received 6 January 1986, revised 10 June 1986, accepted 25 Jnne 1986.</em> Emission
+    Spectrographic Estimation of Silver, Bismuth, Molybdenum and Vanadium in Soil
+    and Rocks
+  keywords:
+    default:
+      keywords:
+        subject: paper
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1987-02-28'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6217007
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6217006
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-C.-JOSEPH:
+    individualname: K. C. JOSEPH
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

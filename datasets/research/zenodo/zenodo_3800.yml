@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1085291
+  dataseturi: https://doi.org/10.5281/zenodo.1085291
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metals Transport In The Soil Profiles Under The Application Of Sludge
+    And Wastewater
+  abstract: 'Heavy metal transfer in soil profiles is a major
+
+    environmental concern because even slow transport through the soil
+
+    may eventually lead to deterioration of groundwater quality. The use
+
+    of sewage sludge and effluents from wastewater treatment plants for
+
+    irrigation of agricultural lands is on the rise particularly in peri-urban
+
+    area of developing countries. In this study soil samples under sludge
+
+    application and wastewater irrigation were studied and soil samples
+
+    were collected in the soil profiles from the surface to 100 cm in
+
+    depth. For this purpose, three plots were made in a treatment plant in
+
+    south of Tehran-Iran. First plot was irrigated just with effluent from
+
+    wastewater treatment plant, second plot with simulated heavy metals
+
+    concentration equal 50 years irrigation and in third plot sewage
+
+    sludge and effluent was used. Trace metals concentration (Cd, Cu)
+
+    were determined for soil samples. The results indicate movement of
+
+    metals was observed, but the most concentration of metals was found
+
+    in topsoil samples. The most of Cadmium concentration was
+
+    measured in the topsoil of plot 3, 4.5mg/kg and Maximum cadmium
+
+    movement was observed in 0-20 cm. The most concentration of
+
+    copper was 27.76mg/kg, and maximum percolation in 0-20 cm.
+
+    Metals (Cd, Cu) were measured in leached water. Preferential flow
+
+    and metal complexation with soluble organic apparently allow
+
+    leaching of heavy metals.'
+  keywords:
+    default:
+      keywords:
+        subject: transport.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2008-07-21'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1085291
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1085290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Behbahaninia:
+    individualname: A. Behbahaninia
+    role: creator
+    organization: ''
+    url: ''
+  S.-A.-Mirbagheri:
+    individualname: S. A. Mirbagheri
+    role: creator
+    organization: ''
+    url: ''
+  A.-H.-Javid:
+    individualname: A. H. Javid
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

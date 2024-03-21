@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6573005
+  dataseturi: https://doi.org/10.5281/zenodo.6573005
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: 'Strip tillage: a method to limit the time needed for soil tillage in diversified
+    crop systems: An example in sugar beet'
+  abstract: Problem Diversified cropping systems can be time consuming for the farmer,
+    finding techniques that can save farmers time is therefore a key goal. For the
+    Syppre experiment in the Champagne region, France, crop diversification involves
+    the use of diverse cover crops, to protect the soil, improve soil fertility, and
+    store carbon. The planting of crops and cover crops must be always done under
+    favourable conditions, and some crops such as sugar beet need deep soil loosening.
+    This means more time spent for soil tillage and drilling, with possible conflicts
+    between primary interventions and risks of emergence failure. Solution Strip tilling
+    to loosens soils layers in 25cm wide rows that are to be drilled, and keeps the
+    45cm wide inter-rows untouched. It simplifies soil tillage, reduces work time
+    and energy consumption, and protects the soil by keeping a living cover crop or
+    residues on the surface. It is applied in the Syppre innovative system on light
+    chalky soils, for both sugar beet and rapeseed.
+  keywords:
+    default:
+      keywords:
+        subject: Field
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-05-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6573005
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6572970
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Duval-Remy:
+    individualname: "Duval, R\xE9my"
+    role: creator
+    organization: ITB
+    url: ''
+content_info: {}

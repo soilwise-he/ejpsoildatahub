@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4311693
+  dataseturi: https://doi.org/10.5281/zenodo.4311693
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Growth and yield response of streak virus resistant maize (TZESR-W) to different
+    nitrogen rates on a sandy loam soil of semi-arid region of Nigeria
+  abstract: "Field experiments were conducted at Abubakar Tafawa Balewa University\
+    \ Research Farm, Bauchi during the 1992 and 1993 cropping seasons to investigate\
+    \ the \u201CGrowth and yield response of streak virus resistant maize (TZESR-W)\
+    \ to different N rates on a sandy loam soil of semi-arid region of Nigeria\u201D\
+    . Experimental treatments consisted of seven rates of N (0, 50,100, 150, 200,\
+    \ 250 and 300 KgN/ha) and optimum levels of P (17.5 Kg/ha) and K (50 Kg/ha) applied\
+    \ as base rates. These were tested in a randomized complete block design with\
+    \ 3 replications. N was split applied by side dressing in two equal does: half\
+    \ at two weeks after sowing and the other half at 5 weeks after sowing. Experimental\
+    \ results revealed that the application of N fertilizer up to 100 KgN/ha significantly\
+    \ increased the maize plant height, number of cobs, cob length, cob girth, cob\
+    \ weight, grain yield, stover yield and percent N in grain and stover over the\
+    \ absolute control in both 1992 and 1993 cropping seasons. In other words, the\
+    \ application of N fertilizer beyond 100 KgN/ha was not significant when compared\
+    \ with the absolute control. On the other hand, shelling percentage, 1000-grain\
+    \ weight and N uptake by stover were not significantly affected by N fertilizer\
+    \ application. This study therefore suggested that maize (TZESR-W) could be grown\
+    \ on a sandy loam soil of semi-arid region of Nigeria with the application of\
+    \ 100 KgN/ha, 17.5 KgP/ha and 50 KgK/ha. Application of N fertilizer beyond 100\
+    \ KgN/ha on TZESR-W is a waste of resources."
+  keywords:
+    default:
+      keywords:
+        subject: Maize; Nitrogen; Soil; Arid
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-02-28'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4311693
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4311692
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kaltungo-Joseph-Hussaini:
+    individualname: Kaltungo Joseph Hussaini
+    role: creator
+    organization: Department of Technical Services, Gombe State Agricultural Development
+      Programme, Gombe Nigeria.
+    url: ''
+  Voncir-Nanmwa:
+    individualname: Voncir Nanmwa
+    role: creator
+    organization: Soil Science Department, Faculty of Agriculture and Agricultural
+      Technology, Abubakar Tafawa Balewa University Bauchi, Nigeria.
+    url: ''
+  Singh-Lallan:
+    individualname: Singh Lallan
+    role: creator
+    organization: Soil Science Department, Moddibo Adama University of Technology,
+      Yola, Nigeria.
+    url: ''
+content_info: {}

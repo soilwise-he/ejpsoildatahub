@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Parrish_1916
+  dataseturi: https://doi.org/10.1097/00007611-191603000-00013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE SOIL AS A POSSIBLE MEDIUM FOR THE ETIOLOGICAL FACTOR OF PELLAGRA
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE SOIL AS A POSSIBLE MEDIUM FOR THE ETIOLOGICAL FACTOR OF PELLAGRA
+    url: http://dx.doi.org/10.1097/00007611-191603000-00013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Parrish-C.-C.:
+    individualname: Parrish, C. C.
+    role: creator
+  Southern-Medical-Association:
+    individualname: Southern Medical Association
+    role: creator
+content_info: {}

@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1058231
+  dataseturi: https://doi.org/10.5281/zenodo.1058231
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Principal Component Analysis For The Characterization In The Application
+    Of Some Soil Properties
+  abstract: 'The objective of this research is to study principal
+
+    component analysis for classification of 67 soil samples collected from
+
+    different agricultural areas in the western part of Thailand. Six soil
+
+    properties were measured on the soil samples and are used as original
+
+    variables. Principal component analysis is applied to reduce the
+
+    number of original variables. A model based on the first two
+
+    principal components accounts for 72.24% of total variance. Score
+
+    plots of first two principal components were used to map with
+
+    agricultural areas divided into horticulture, field crops and wetland.
+
+    The results showed some relationships between soil properties and
+
+    agricultural areas. PCA was shown to be a useful tool for agricultural
+
+    areas classification based on soil properties.'
+  keywords:
+    default:
+      keywords:
+        subject: principal components
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-05-27'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1058231
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1058230
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kamolchanok-Panishkan:
+    individualname: Kamolchanok Panishkan
+    role: creator
+    organization: ''
+    url: ''
+  Kanokporn-Swangjang:
+    individualname: Kanokporn Swangjang
+    role: creator
+    organization: ''
+    url: ''
+  Natdhera-Sanmanee:
+    individualname: Natdhera Sanmanee
+    role: creator
+    organization: ''
+    url: ''
+  Daoroong-Sungthong:
+    individualname: Daoroong Sungthong
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

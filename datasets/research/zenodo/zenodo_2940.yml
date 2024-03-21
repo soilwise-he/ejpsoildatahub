@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Belnap_2003
+  dataseturi: https://doi.org/10.1007/s00442-003-1438-6
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Response of desert biological soil crusts to alterations in precipitation
+    frequency
+  abstract: 'Biological soil crusts, a community of cyanobacteria, lichens, and mosses
+    that live on the soil surface, occur in deserts throughout the world. They are
+    a critical component of desert ecosystems, as they are important contributors
+    to soil fertility and stability. Future climate scenarios predict alteration of
+    the timing and amount of precipitation in desert environments. Because biological
+    soil crust organisms are only metabolically active when wet, and as soil surfaces
+    dry quickly in deserts during late spring, summer, and early fall, the amount
+    and timing of precipitation is likely to have significant impacts on the physiological
+    functioning of these communities. Using the three dominant soil crust types found
+    in the western United States, we applied three levels of precipitation frequency
+    (50% below-average, average, and 50% above-average) while maintaining average
+    precipitation amount (therefore changing both timing and size of applied events).
+    We measured the impact of these treatments on photosynthetic performance (as indicated
+    by dark-adapted quantum yield and chlorophyll a concentrations), nitrogenase activity,
+    and the ability of these organisms to maintain concentrations of radiation-protective
+    pigments (scytonemin, beta-carotene, echinenone, xanthophylls, and canthaxanthin).
+    Increased precipitation frequency produced little response after 2.5 months exposure
+    during spring (1 April-15 June) or summer (15 June-31 August). In contrast, most
+    of the above variables had a large, negative response after exposure to increased
+    precipitation frequency for 6 months spring-fall (1 April-31 October) treatment.
+    The crusts dominated by the soil lichen Collema, being dark and protruding above
+    the surface, dried the most rapidly, followed by the dark surface cyanobacterial
+    crusts (Nostoc- Scytonema- Microcoleus), and then by the light cyanobacterial
+    crusts (Microcoleus). This order reflected the magnitude of the observed response:
+    crusts dominated by the lichen Collema showed the largest decline in quantum yield,
+    chlorophyll a, and protective pigments; crusts dominated by Nostoc-Scytonema-Microcoleus
+    showed an intermediate decline in these variables; and the crusts dominated by
+    Microcoleus showed the least negative response. Most previous studies of crust
+    response to radiation stress have been short-term laboratory studies, where organisms
+    were watered and kept under moderate temperatures. Such conditions would give
+    crust organisms access to ample carbon to respond to imposed stresses (e.g., production
+    of UV-protective pigments, replacement of degraded chlorophyll). In contrast,
+    our longer-term study showed that under field conditions of high air temperatures
+    and frequent, small precipitation events, crust organisms appear unable to produce
+    protective pigments in response to radiation stress, as they likely dried more
+    quickly than when they received larger, less frequent events. Reduced activity
+    time likely resulted in less carbon available to produce or repair chlorophyll
+    a and/or protective pigments. Our findings may partially explain the global observation
+    that soil lichen cover and richness declines as the frequency of summer rainfall
+    increases.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Response of desert biological soil crusts to alterations in precipitation
+      frequency
+    url: http://dx.doi.org/10.1007/s00442-003-1438-6
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Belnap-Jayne:
+    individualname: Belnap, Jayne
+    role: creator
+  Phillips-Susan-L.:
+    individualname: Phillips, Susan L.
+    role: creator
+  Miller-Mark-E.:
+    individualname: Miller, Mark E.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

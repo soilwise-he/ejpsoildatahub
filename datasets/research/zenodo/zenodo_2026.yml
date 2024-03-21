@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5172279
+  dataseturi: https://doi.org/10.5281/zenodo.5172279
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Study on Spatial Variability of Soil Properties in an Agrarian Reform Settlement
+    in Chapadinha, Brazil
+  abstract: "The study of soil chemical and physical properties variability is important\
+    \ for suitable management practices. Land use without adequate planning leads\
+    \ to soil impoverishment and low crop yield, which results in a decline in the\
+    \ socioeconomic and technological level of the rural population. The aim of this\
+    \ study was to evaluate the spatial variability of soil properties in the Malhada\
+    \ do Meio settlement to subsidize soil use planning. The settlement is located\
+    \ in Chapadinha, MA, Brazil, and has an area of 630.86 ha. The vegetation is seasonal\
+    \ submontane deciduous forest and steppe savanna. The geology is formed of sandstones\
+    \ and siltstones of the <em>Itapecuru</em> Formation and by colluvial and alluvial\
+    \ deposits. The relief consists of hills with rounded and flat tops with an average\
+    \ altitude of 67 m, and frequently covered over by ferruginous duricrusts. A total\
+    \ of 183 georeferenced soil samples were collected at the depth of 0.00-0.20 m\
+    \ in <em>Plintossolos</em> , <em>Neossolo</em> and <em>Gleissolo</em>. The following\
+    \ chemical variables were analyzed: pH(CaCl<sub>2</sub>), H+Al, Al, SB, V, CEC,\
+    \ P, K, OM, Ca, Mg, SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, and Fe<sub>2</sub>O<sub>3</sub>;\
+    \ along with particle size variables: clay, silt, and sand. Descriptive statistical\
+    \ and geostatistical analyses were carried out. The coefficient of variation (CV)\
+    \ was high for most of the variables, with the exception of pH with a low CV,\
+    \ and of sand with a medium CV. The models fitted to the experimental semivariograms\
+    \ of these variables were the exponential and the spherical. The range values\
+    \ were from 999 m to 3,690 m. For the variables pH(CaCl<sub>2</sub>), SB, and\
+    \ clay, there are three specific areas for land use planning. The central part\
+    \ of the area (zone III), where the <em>Plintossolos P\xE9tricos</em> and <em>Neossolos\
+    \ Fl\xFAvicos</em> occur, is the most suitable for crops due to higher macronutrient\
+    \ content, organic matter and pH. Zones I and II are indicated for environmental\
+    \ preservation. This study defined homogeneous areas of the management of high\
+    \ and low levels of soil fertility."
+  keywords:
+    default:
+      keywords:
+        subject: soil management
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-28'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5172279
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5172278
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  James-Ribeiro-de-Azevedo:
+    individualname: James Ribeiro de Azevedo
+    role: creator
+  Celia-Regina-Paes-Bueno:
+    individualname: "C\xE9lia Regina Paes Bueno"
+    role: creator
+  Gener-Tadeu-Pereira:
+    individualname: Gener Tadeu Pereira
+    role: creator
+    organization: "Universidade Estadual Paulista, Faculdade de Ci\xEAncias Agr\xE1\
+      rias e Veterin\xE1ria, Departamento de Ci\xEAncias Exatas, Jaboticabal, S\xE3\
+      o Paulo, Brasil."
+    url: ''
+  De-Azevedo-James-Ribeiro:
+    individualname: De Azevedo, James Ribeiro
+    role: ''
+    organization: "Universidade Federal do Maranh\xE3o, Centro de Ci\xEAncias Agr\xE1\
+      rias e Ambientais, Chapadinha, Maranh\xE3o, Brasil."
+    url: ''
+  Bueno-Celia-Regina-Paes:
+    individualname: "Bueno, C\xE9lia Regina Paes"
+    role: ''
+    organization: "Universidade Estadual Paulista, Faculdade de Ci\xEAncias Agr\xE1\
+      rias e Veterin\xE1ria, Departamento de Solos, Jaboticabal, S\xE3o Paulo, Brasil."
+    url: ''
+content_info: {}

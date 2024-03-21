@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7981071
+  dataseturi: https://doi.org/10.5281/zenodo.7981071
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: DETERMINATION OF THERMAL PROPERTIES OF SOIL IN SOLAR GREENHOUSES
+  abstract: <em>In all countries of the world, in particular Uzbekistan, special attention
+    has recently been given to the issues of energy and resource conservation, environmental
+    protection, and the search for alternative energy sources to replace traditional
+    energy resources in the future. At the moment, there is intensive growth in the
+    use of renewable energy sources, with solar energy and power plants based on solar
+    energy being considered the main developing area. Solar systems can be used primarily
+    in the country's southern regions, characterized by favorable climatic conditions,
+    abundant sunny days, and high solar radiation intensity.</em> <em>The article
+    discusses the study of heavy loamy soils, under the same conditions, the thermal
+    conductivity is always lower than that of light and medium loamy soils. Thus,
+    it is confirmed by the conducted experiments that the substrate layer 0-30 cm
+    accumulates about the same amount of heat, and with increasing humidity, the thermal
+    conductivity slowly grows.</em>
+  keywords:
+    default:
+      keywords:
+        subject: heat-retaining properties, thermal conductivity of soil, soil surface,
+          density, thermophysical characteristics, solar energy, thermal diffusivity.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-29'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7981071
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7981070
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-A.-Vardiyashvili-J.-R.-Farmonov:
+    individualname: "\u0410. \u0410. Vardiyashvili, J. R. Farmonov"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

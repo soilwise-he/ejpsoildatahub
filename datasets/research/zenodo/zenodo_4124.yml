@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3778188
+  dataseturi: https://doi.org/10.5281/zenodo.3778188
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: ISOLATION OF LIPASE PRODUCING BACTERIA FROM OIL AND FAT CONTAMINATED SOIL
+    SAMPLES AND ASSESSMENT OF THEIR LIPOLYTIC EFFICIENCY TOWARDS DIFFERENT SUBSTRATES
+  abstract: Lipases find immense applications in food, dairy, detergent and pharmaceutical
+    industries as Biotechnologically significant enzymes. In this regard, an effort
+    was made to isolate bacteria from oil and fat contaminated soil samples. Further,
+    three pure bacterial cultures were characterized and their lipolytic efficiency
+    towards different substrates was assessed. Bacillus spp. degraded olive oil effectively
+    and sunflower oil was significantly degraded by Pseudomonas spp. Of the three
+    bacteria, Staphylococcus spp. showed maximum lipolytic activity towards diesel
+    followed by kerosene as substrates. Hence, we can infer that isolated Staphylococcus
+    spp. can be used effectively in the bioremediation of fuel oil spills.
+  keywords:
+    default:
+      keywords:
+        subject: Bacillus Bioremediation Lipases Lipolytic Activity Pseudomonas Staphylococcus
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-03-17'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3778188
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3778187
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rama-T.--Farissa-D.:
+    individualname: Rama T. , Farissa D.
+    role: creator
+  Anil-Kumar-K.V.-and-Kiran-Kumar-D.J:
+    individualname: Anil Kumar K.V. and Kiran Kumar D.J
+    role: creator
+  Rama-T.-Farissa-D.:
+    individualname: Rama T., Farissa D.
+    role: ''
+    organization: Department of Biotechnology, Government Science College, Bengaluru,
+      India.
+    url: ''
+  K.V.-Anil-Kumar:
+    individualname: K.V., Anil Kumar
+    role: ''
+    organization: Visveswarapura Institute of Pharmaceutical Sciences, Bengaluru,
+      India.
+    url: ''
+content_info: {}

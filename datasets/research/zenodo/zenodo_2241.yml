@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROST_1921
+  dataseturi: https://doi.org/10.1097/00010694-192103000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'MINNESOTA GLACIAL SOIL STUDIES: I. A COMPARISON OF SOILS ON THE LATE WISCONSIN
+    AND IOWAN DRIFTS'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'MINNESOTA GLACIAL SOIL STUDIES: I. A COMPARISON OF SOILS ON THE LATE WISCONSIN
+      AND IOWAN DRIFTS'
+    url: http://dx.doi.org/10.1097/00010694-192103000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rost-Clayton-O.:
+    individualname: Rost, Clayton O.
+    role: creator
+  Alway-Frederick-J.:
+    individualname: Alway, Frederick J.
+    role: creator
+  ROST-CLAYTON-O.:
+    individualname: ROST, CLAYTON O.
+    role: creator
+  ALWAY-FREDERICK-J.:
+    individualname: ALWAY, FREDERICK J.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Salter_1923
+  dataseturi: https://doi.org/10.1021/j150227a002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Factors affecting Soil Reaction. I
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Factors affecting Soil Reaction. I
+    url: http://dx.doi.org/10.1021/j150227a002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salter-R.-M.:
+    individualname: Salter, R. M.
+    role: creator
+  Morgan-M.-F.:
+    individualname: Morgan, M. F.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

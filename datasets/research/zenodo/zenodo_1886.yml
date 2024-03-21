@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Horel_2022
+  dataseturi: https://doi.org/10.2478/johh-2022-0015
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Long-term soil water content dynamics under different land uses in a small
+    agricultural catchment
+  abstract: "&lt;p&gt;Longer term monitoring of soil water content at a catchment\
+    \ scale is a key to understanding its dynamics,&lt;/p&gt;&lt;p&gt;which can assist\
+    \ stakeholders in decision making processes, such as land use change or irrigation\
+    \ programs. Soil water&lt;/p&gt;&lt;p&gt;monitoring in agriculturally dominated\
+    \ catchments can help in developing soil water retention measurements, for&lt;/p&gt;&lt;p&gt;assessment\
+    \ of land use change, or adaptation of specific land management systems to climate\
+    \ change. The present study&lt;/p&gt;&lt;p&gt;was carried out in the Pannonian\
+    \ region (Upper-Balaton, Hungary) on Cambisols and Calcisols between 2015 and\
+    \ 2021.&lt;/p&gt;&lt;p&gt;Soil water content (SWC) dynamics were investigated\
+    \ under different land use types (vineyard, grassland, and forest) at&lt;/p&gt;&lt;p&gt;three\
+    \ depths (15, 40, and 70 cm). The meteorological data show a continuous decrease\
+    \ in cumulative precipitation over&lt;/p&gt;&lt;p&gt;time during the study with\
+    \ an average of 26% decrease observed between 2016 and 2020, while average air\
+    \ temperatures&lt;/p&gt;&lt;p&gt;were similar for all the studied years. Corresponding\
+    \ to the lower precipitation amounts, a clear decrease in the average&lt;/p&gt;&lt;p&gt;SWC\
+    \ was observed at all the land use sites, with 13.4%, 37.7%, and 29.3% lower average\
+    \ SWC for the grassland, forest,&lt;/p&gt;&lt;p&gt;and vineyard sites, respectively,\
+    \ from 2016 to 2020 (measured at the 15 cm depth of the soil). Significant differences\
+    \ in&lt;/p&gt;&lt;p&gt;SWC were observed between the annual and seasonal numbers\
+    \ within a given land use (p &lt; 0.05). The lowest average&lt;/p&gt;&lt;p&gt;SWC\
+    \ was observed at the grassland (11.7%) and the highest at the vineyard (28.3%).\
+    \ The data showed an increasing&lt;/p&gt;&lt;p&gt;average soil temperature, with\
+    \ an average 6.3% higher value in 2020 compared to 2016. The grassland showed\
+    \ the&lt;/p&gt;&lt;p&gt;highest (11.3 \xB0C) and the forest soil the lowest (9.7\
+    \ \xB0C) average soil temperatures during the monitoring period. The&lt;/p&gt;&lt;p&gt;grassland\
+    \ had the highest number of days with the SWC below the wilting point, while the\
+    \ forest had the highest number&lt;/p&gt;&lt;p&gt;of days with the SWC optimal\
+    \ for the plants.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Long-term soil water content dynamics under different land uses in a small
+      agricultural catchment
+    url: http://dx.doi.org/10.2478/johh-2022-0015
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Horel-Agota:
+    individualname: "Horel, \xC1gota"
+    role: creator
+  Zsigmond-Tibor:
+    individualname: Zsigmond, Tibor
+    role: creator
+  Molnar-Sandor:
+    individualname: "Moln\xE1r, S\xE1ndor"
+    role: creator
+  Zagyva-Imre:
+    individualname: Zagyva, Imre
+    role: creator
+  Bakacsi-Zsofia:
+    individualname: "Bakacsi, Zs\xF3fia"
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

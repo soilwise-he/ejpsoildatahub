@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4307049
+  dataseturi: https://doi.org/10.5281/zenodo.4307049
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Optimization of bio-surfactant production by Azo-rhizobium strain isolated
+    from oil-contaminated soil
+  abstract: "Bio-surfactants are amphiphilic molecules possessing both hydrophilic\
+    \ and hydrophobic moieties. They are surface active agents that are produced extracellularly\
+    \ or as a part of the cell membrane by bacteria, yeast, and fungi. In the present\
+    \ study, the screening and optimization of bio-surfactant production were carried\
+    \ out using oil-contaminated soil sample. The cultural, morphological and biochemical\
+    \ tests as well as 16s rRNA analysis identified the most efficient bio-surfactant\
+    \ producer as <em>Azorhizobium</em> strain. The preliminary screening of bio-surfactant\
+    \ production was done with the help of oil displacement test, drop collapse test\
+    \ and observed hemolysis on superimposed blood agar plates. Optimization studies\
+    \ revealed that 2% inoculum size of test strain (1.0 O.D 530 nm) can be exploited\
+    \ for bio-surfactant production using 2% coconut oil and ammonium nitrate with\
+    \ a C: N ratio of 20:1 in MSM medium (pH 8.5) and incubation conditions of 30\
+    \ \u02DAC for 96 h. The crude yield of bio-surfactant produced was estimated as\
+    \ 2.5 g/L. Further purification of crude bio-surfactant was carried out using\
+    \ acid hydrolysis and rotary vacuum evaporator. The bio-surfactant thus obtained\
+    \ successfully reduced the surface tension of the medium from 59 mN/m to 38 mN/m\
+    \ with E<sub>24 </sub>60%. The characterization studies of the purified bio-surfactant\
+    \ carried out by FTIR analysis confirmed it to be lipopolysaccharide type of bio-surfactant.\
+    \ Thus our current study suggests useful application of bio-surfactant producing\
+    \ bacterial strain that may be helpful in the petroleum industry for the purpose\
+    \ of recovery of petroleum and other oils from oily sludge, cleaning of oil storage\
+    \ tanks and bioremediation of oil-contaminated sites."
+  keywords:
+    default:
+      keywords:
+        subject: Bio-surfactant; Optimization; FTIR; Azorhizobium
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4307049
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4307048
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pendse-Anuradha:
+    individualname: Pendse Anuradha
+    role: creator
+    organization: Department of Microbiology, Wilson College, Mumbai 400007, Maharashtra,
+      India.
+    url: ''
+  Mhatre-Rasika:
+    individualname: Mhatre Rasika
+    role: creator
+    organization: Department of Microbiology, Wilson College, Mumbai 400007, Maharashtra,
+      India.
+    url: ''
+  Aruna-K.:
+    individualname: Aruna, K.
+    role: creator
+    organization: Department of Microbiology, Wilson College, Mumbai 400007, Maharashtra,
+      India.
+    url: ''
+content_info: {}

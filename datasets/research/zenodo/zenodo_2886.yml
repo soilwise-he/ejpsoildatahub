@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3868681
+  dataseturi: https://doi.org/10.5281/zenodo.3868681
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Yield of Tomato (Lycopersicon esculentum Mill.) and Soil CO2
+    Emissions as Influenced by Compost Doses and Irrigation Regimes
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>T</em><em>omato\
+    \ (Lycopersicon esculentum Mill.) is one of the most important vegetables cultivated\
+    \ in Togo. Water stress constitutes one of limiting factors of production in dry\
+    \ season. </em><em>Compost use improves soil properties and crop production but\
+    \ may lead to soil CO<sub>2</sub> emission into atmosphere. This study assessed\
+    \ the influence of compost doses and irrigation regimes on tomato yield and soil\
+    \ CO<sub>2</sub> emission. Trial agronomics were conducted in dry season in year\
+    \ 2018 and 2019 in a randomized complete block design with three repetitions.\
+    \ Treatments included control plots, compost plots and chemical fertilizer plots.\
+    \ Water was supplied according to three irrigation regimes of 1, 2 and 4 days\
+    \ interval. </em><em>Tomato fruits were harvested when color was yellowish red.\
+    \ Soil CO<sub>2</sub> emission measurement was conducted in four months (120 days)\
+    \ during field experiment from January to April in 2019</em><em>. Soil samples\
+    \ were collected from plots and incubated in laboratory. Soil CO<sub>2</sub> emission\
+    \ was measured every day during 28 day\u2019s incubation using 0.1 N HCl after\
+    \ precipitating the carbonate with a BaCl2 solution by alkali back-titrating.\
+    \ The results shown that highest tomato yield and highest soil CO<sub>2</sub>\
+    \ emission were recorded on plots treated with compost and submitted to two days\
+    \ interval irrigation while the lowest values of these parameters were obtained\
+    \ from control plots and treated plots submitted to daily and four days interval\
+    \ irrigation.</em><em>This was noted that CO<sub>2</sub> emission from soil samples\
+    \ collected in </em><em>third and fourth months of field experiment were more\
+    \ than those of first and second months.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: soil CO2 emission
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3868681
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3868680
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Koffi-Kouma-A.-ALATE:
+    individualname: Koffi-Kouma A. ALATE
+    role: creator
+    organization: ''
+    url: ''
+  Gbenonchi-MAWUSSI:
+    individualname: Gbenonchi MAWUSSI
+    role: creator
+    organization: ''
+    url: ''
+  Komla-SANDA:
+    individualname: Komla SANDA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

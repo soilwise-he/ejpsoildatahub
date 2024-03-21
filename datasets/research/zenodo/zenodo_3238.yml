@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10442805
+  dataseturi: https://doi.org/10.5281/zenodo.10442805
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Evaluation of Heavy Metal Contamination of Soil from Petroleum Crude Oil
+    at an Illegal Refinery Site: A Case Study of Oshika Community in the Niger Delta
+    Region of Nigeria'
+  abstract: "The study was carried out at Oshika community of Rivers State in the\
+    \ Niger Delta region of Nigeria where petroleum crude oil illegal refining activity\
+    \ was terminated. Soil samples were collected at two different points at depths\
+    \ of 15 cm, 45 cm and 90 cm with a control for analysis of heavy metal pollutants\
+    \ (Pb, Cd, Cr, As, Zn, Cu, Ni, Co). The results from the analysis show that all\
+    \ the heavy metals investigated were present with their mean concentration values\
+    \ for top soil as 56.48\xB10.01 mg/kg, 53.49\xB10.00 mg/kg. 53.49\xB10.00 mg/kg,\
+    \ 84.75\xB10.01 mg/kg, 39.44\xB19.01 mg/kg, 35.46\xB10.00 mg/kg, 66.61\xB10.03\
+    \ mg/kg and 40.66\xB10.00 mg/kg respectively which are all higher than the control\
+    \ values. Contamination factor, pollution index and geo-accumulation index were\
+    \ applied as index models for the evaluation of the extent and intensity of heavy\
+    \ metal contamination and pollution of the illegal refining at the site. All the\
+    \ index models used showed that the soil at the site was heavily contaminated\
+    \ and polluted by Cd and As, while also the result of the soil from the analysis\
+    \ indicated uncontaminated and unpolluted by Pb, Co, Ni, Cu, Cr and Zn. The toxicity\
+    \ of these heavy metals and the adverse impact on the health of the community\
+    \ cannot be over emphasized and the paper therefore advocated for discouraging\
+    \ illegal refining and implementation of integration policy into the modular refinery\
+    \ system."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-29'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10442805
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10442804
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Achadu-M.A.:
+    individualname: Achadu, M.A.
+    role: creator
+    organization: Department of Chemical Engineering, University of Port Harcourt,
+      Rivers State, Nigeria.
+    url: ''
+  Dimkpa-I.H.:
+    individualname: Dimkpa, I.H.
+    role: creator
+    organization: Nigerian Upstream Petroleum Regulatory Commission, Warri, Nigeria.
+    url: ''
+  Dimkpa-C.A.:
+    individualname: Dimkpa, C.A.
+    role: creator
+    organization: Centre for Engineering and Technology Management (CETM), Institute
+      of Engineering and Innovation Management (METI), University of Port Harcourt,
+      Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6822222
+  dataseturi: https://doi.org/10.5281/zenodo.6822222
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influences of Soybean N Fixation on Soil N Balance in Rice-Soybean Rotation
+  abstract: This article 'Influences of Soybean N Fixation on Soil N Balance in Rice-Soybean
+    Rotation' appeared in the International Rice Research Notes series, created by
+    the International Rice Research Institute (IRRI) to expedite communication among
+    scientists concerned with the development of improved technology for rice and
+    rice-based systems. The series is a mechanism to help scientists keep each other
+    informed of current rice research findings. The concise scientific notes are meant
+    to encourage rice scientists to communicate with one another to obtain details
+    on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Nitrogen Fixation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1993-03-01'
+    publication: '1993'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6822222
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6822221
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ying-J.-F.:
+    individualname: Ying, J. F.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

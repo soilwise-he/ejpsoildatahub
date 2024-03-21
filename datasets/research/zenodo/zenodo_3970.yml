@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1322956
+  dataseturi: https://doi.org/10.5281/zenodo.1322956
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Secondary Structure Prediction And Restriction Site Analysis Of Streptomyces
+    Sp Isolated From Valparai Hill Station Soil Sites
+  abstract: '<strong><em>ABSTRACT</em></strong>
+
+
+    <strong><em>I</em></strong><em>n the current paper soil samples were collected
+    </em><em>from Valparai hil station</em><em> sites to screen the diversity of actinomycetes.
+    The potential actinomycetes were isolated by serial dilution and plating method
+    on starch peptone agar media in the incubation of 7 days. After incubation morphological
+    characterization was carried on the basis of shape and elevation characteristics
+    on starch peptone agar and most dominative Streptomyces isolate were picked and
+    carried for further inoculation. Streptomyces RRMVCBNR</em><em> isolate was Phenotypic
+    characterized on the basis of microscopic, colony morphology, biochemical and
+    phenotypic studies. Which was further confirmed by genotypic studies based on
+    16S rRNA gene sequences followed by phylogenetic tree construction. 16S rRNA gene
+    sequences of strain used in this study exhibited sequence similarity in the range
+    of 99-100% with those of selected isolate and it was identified as Streptomyces
+    RRMVCBNR. The sequences of 16S rRNA genes were deposited in genbank and received
+    the accession number MG287121.The FASTA product was used to Secondary Structure
+    prediction and Restriction site analysis of Streptomyces RRMVCBNR. Further activity
+    of Streptomyces RRMVCBNR strain showed highest antibacterial activity against
+    Staphylococcus aureus has been studied.</em>
+
+
+    <strong><em>KEYWORDS: </em></strong><em>Streptomyces RRMVCBNR, </em><em>Starch
+    peptone agar, FASTA.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Streptomyces RRMVCBNR, Starch peptone agar, FASTA.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-07-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1322956
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1322955
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vineeth.-M-1-*:
+    individualname: Vineeth. M 1 *
+    role: creator
+  R.-Ragunathan-2:
+    individualname: R. Ragunathan 2
+    role: creator
+  Vineeth.-M-1-*-And-R.-Ragunathan-2:
+    individualname: Vineeth. M 1 * And R. Ragunathan 2
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

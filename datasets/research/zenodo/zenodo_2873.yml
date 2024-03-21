@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lanz_n_2016
+  dataseturi: https://doi.org/10.1038/srep28257
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Multi-targeted metagenetic analysis of the influence of climate and environmental
+    parameters on soil microbial communities along an elevational gradient
+  abstract:
+  - '&lt;p&gt;Mountain elevation gradients are invaluable sites for understanding
+    the effects of climate change on ecosystem function, community structure and distribution.
+    However, relatively little is known about the impact on soil microbial communities,
+    in spite of their importance for the functioning of the soil ecosystem. Previous
+    studies of microbial diversity along elevational gradients were often limited
+    by confounding variables such as vegetation, pH, and nutrients. Here, we utilised
+    a transect in the Pyrenees established to minimise variation in such parameters,
+    to examine prokaryotic, fungal, protist and metazoan communities throughout three
+    consecutive years. We aimed to determine the influences of climate and environmental
+    parameters on soil microbial community structure; as well as on the relationships
+    between those microbial communities. Further, functional diversity of heterotrophic
+    bacteria was determined using Biolog. Prokaryotic and fungal community structure,
+    but not alpha-diversity, correlated significantly with elevation. However, carbon-to-nitrogen
+    ratio and pH appeared to affect prokaryotic and protist communities more strongly.
+    Both community structure and physicochemical parameters varied considerably between
+    years, illustrating the value of long-term monitoring of the dynamic processes
+    controlling the soil ecosystem. Our study also illustrates both the challenges
+    and strengths of using microbial communities as indicators of potential impacts
+    of climate change.&lt;/p&gt;'
+  - Basque Government (project Behatoki)
+  keywords:
+    default:
+      keywords:
+      - 16S RIBOSOMAL-RNA
+      - BACTERIAL COMMUNITIES
+      - DIVERSITY PATTERNS
+      - FUNGI
+      - VEGETATION
+      - MOUNTAIN
+      - TUNDRA
+      - IMPACTS
+      - CHINA
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Multi-targeted metagenetic analysis of the influence of climate and environmental
+      parameters on soil microbial communities along an elevational gradient
+    url: http://dx.doi.org/10.1038/srep28257
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lanzen-Anders:
+    individualname: "Lanz\xE9n, Anders"
+    role: creator
+  Epelde-Lur:
+    individualname: Epelde, Lur
+    role: creator
+  Blanco-Fernando:
+    individualname: Blanco, Fernando
+    role: creator
+  Martin-Iker:
+    individualname: "Mart\xEDn, Iker"
+    role: creator
+  Artetxe-Unai:
+    individualname: Artetxe, Unai
+    role: creator
+  Garbisu-Carlos:
+    individualname: Garbisu, Carlos
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

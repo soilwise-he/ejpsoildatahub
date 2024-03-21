@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4020553
+  dataseturi: https://doi.org/10.5281/zenodo.4020553
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Polychlorinated biphenyls remediation in soil using moringa seeds and coconut
+    shell based adsorbents
+  abstract: 'The occurrence and remediation of polychlorinated biphenyls (PCB) in
+    soil from Jos, Plateau State Nigeria was carried out. The polychlorinated biphenyls
+    in the soil was extracted with hexane-acetone mixture (1:1) in ultrasonic bath
+    and cleaned with column chromatography packed with silica gel. The polychlorinated
+    biphenyls were quantified using Agilent 6975 Gas chromatography Mass Spectrophotometer
+    and the concentrations were found as: PCB18 (0.71), PCB20 (0.37), PCB28 (0.38),
+    PCB29 (0.38), PCB44 (0.42), PCB52 (0.66), PCB101 (0.61), PCB105 (0.17), PCB137
+    (0.64), PCB142 (0.33), PCB153 (0.42), PCB170 (0.13) and PCB180 (0.21) mg/kg. After
+    remediation of PCB with moringa seeds, the concentration were as; PCB20 (0.28),
+    PCB28 (0.28), PCB29 (0.28), PCB52 (0.30), PCB101 (0.18) and PCB143 (0.91), while
+    the others removed completely. The moringa seeds powder removed the PCBs completely
+    except PCB105. The activated carbon (AC) prepared moringa seeds reduced the concentrations
+    of BCBs as; PCB 18 (0.04), PCB 20 (0.011), PCB 28 (0.019), PCB 29 (0.019), PCB
+    44 (0.021), PCB 52 (0.33), PCB 101 (0.031), PCB137 (0.032), PCB 142 (0.017), PCB
+    153 (0.021), PCB 170 (0.007) and PCB 180 (0.011) mg/kg. The result suggests that
+    moringa seed powder could possibly be served as an excellent means of remediation
+    for polychlorinated biphenyls in contaminated soil.'
+  keywords:
+    default:
+      keywords:
+        subject: Contaminated soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-10-01'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4020553
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4020552
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ezekiel-Gube-Ibrahim:
+    individualname: Ezekiel Gube Ibrahim
+    role: creator
+  Samuel-John-Salami:
+    individualname: Samuel John Salami
+    role: creator
+  John-Stephen-Gushit:
+    individualname: John Stephen Gushit
+    role: creator
+  Moorey-Bimbut-Dalen:
+    individualname: Moorey Bimbut Dalen
+    role: creator
+    organization: Department of Chemistry, University of Jos, P.M.B 2084 Jos, Nigeria
+    url: ''
+  Mercy-Ayinya-Gube-Ibrahim:
+    individualname: Mercy Ayinya Gube-Ibrahim
+    role: creator
+    organization: College of Education, P.M.B 05 Akwanga, Nasarawa State, Nigeria
+    url: ''
+  Ibrahim-Ezekiel-Gube:
+    individualname: Ibrahim, Ezekiel Gube
+    role: ''
+    organization: Department of Chemistry, University of Jos, P.M.B 2084 Jos, Nigeria
+    url: ''
+  Salami-Samuel-John:
+    individualname: Salami, Samuel John
+    role: ''
+    organization: Department of Chemistry, University of Jos, P.M.B 2084 Jos, Nigeria
+    url: ''
+  Gushit-John-Stephen:
+    individualname: Gushit, John Stephen
+    role: ''
+    organization: University of Jos, P.M.B 2084 Jos, Nigeria
+    url: ''
+content_info: {}

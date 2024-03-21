@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1328047
+  dataseturi: https://doi.org/10.5281/zenodo.1328047
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Water And Soil Environment Pollution Reduction By Filter Strips
+  abstract: 'Contour filter strips planted with perennial vegetation
+
+    can be used to improve surface and ground water quality by reducing
+
+    pollutant, such as NO3-N, and sediment outflow from cropland to a
+
+    river or lake. Meanwhile, the filter strips of perennial grass with biofuel
+
+    potentials also have economic benefits of producing ethanol. In
+
+    this study, The Soil and Water Assessment Tool (SWAT) model was
+
+    applied to the Walnut Creek Watershed to examine the effectiveness
+
+    of contour strips in reducing NO3-N outflows from crop fields to the
+
+    river or lake. Required input data include watershed topography,
+
+    slope, soil type, land-use, management practices in the watershed and
+
+    climate parameters (precipitation, maximum/minimum air
+
+    temperature, solar radiation, wind speed and relative humidity).
+
+    Numerical experiments were conducted to identify potential
+
+    subbasins in the watershed that have high water quality impact, and
+
+    to examine the effects of strip size and location on NO3-N reduction
+
+    in the subbasins under various meteorological conditions (dry,
+
+    average and wet). Variable sizes of contour strips (10%, 20%, 30%
+
+    and 50%, respectively, of a subbasin area) planted with perennial
+
+    switchgrass were selected for simulating the effects of strip size and
+
+    location on stream water quality. Simulation results showed that a
+
+    filter strip having 10%-50% of the subbasin area could lead to 55%-
+
+    90% NO3-N reduction in the subbasin during an average rainfall
+
+    year. Strips occupying 10-20% of the subbasin area were found to be
+
+    more efficient in reducing NO3-N when placed along the contour
+
+    than that when placed along the river. The results of this study can
+
+    assist in cost-benefit analysis and decision-making in best water
+
+    resources management practices for environmental protection.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-05-24'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1328047
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1328046
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Roy-R.-Gu:
+    individualname: Roy R. Gu
+    role: creator
+  Mahesh-Sahu:
+    individualname: Mahesh Sahu
+    role: creator
+  Xianggui-Zhao:
+    individualname: Xianggui Zhao
+    role: creator
+    organization: ''
+    url: ''
+  Gu-Roy-R.:
+    individualname: Gu, Roy R.
+    role: ''
+    organization: ''
+    url: ''
+  Sahu-Mahesh:
+    individualname: Sahu, Mahesh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Potter_1915
+  dataseturi: https://doi.org/10.1021/ie50084a015
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Amino Acid Nitrogen of Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Amino Acid Nitrogen of Soil.
+    url: http://dx.doi.org/10.1021/ie50084a015
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Potter-R.-S.:
+    individualname: Potter, R. S.
+    role: creator
+  Snyder-R.-S.:
+    individualname: Snyder, R. S.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

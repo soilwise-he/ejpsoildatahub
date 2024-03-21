@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pellerano
+  dataseturi: https://doi.org/10.1109/igarss.2001.976873
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An architecture trade study for passive 10-km soil moisture measurements
+    from low-Earth orbit
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An architecture trade study for passive 10-km soil moisture measurements
+      from low-Earth orbit
+    url: http://dx.doi.org/10.1109/igarss.2001.976873
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pellerano-F.-A.:
+    individualname: Pellerano, F. A.
+    role: creator
+  O'Neill-P.:
+    individualname: O'Neill, P.
+    role: creator
+  Dod-L.:
+    individualname: Dod, L.
+    role: creator
+  Pellerano-F.A.:
+    individualname: Pellerano, F.A.
+    role: creator
+  OaEUR(tm)Neill-P.:
+    individualname: "O\xE2\u20AC\u2122Neill, P."
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

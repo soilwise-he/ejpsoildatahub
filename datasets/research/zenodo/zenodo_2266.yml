@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10446676
+  dataseturi: https://doi.org/10.5281/zenodo.10446676
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Assessing Agricultural Soil Variability in Mandal Taluka, Ahmedabad, Gujarat:
+    Implications for Crop Suitability and Ecosystem Dynamics'
+  abstract: Land degradation poses a significant threat to food security and socioeconomic
+    well-being, exacerbated by various human activities such as construction, dumping,
+    deep plowing, continuous agricultural land use, deforestation, changes in land
+    use, alterations in land topography, deep soil modifications, regulation of soil
+    water, excessive use of nutrition and fertilizers, and heavy reliance on pesticides
+    and insecticides, resulting in nutrient depletion and loss of topsoil. There is
+    an urgent need for a thorough reevaluation of soil conditions to enhance soil
+    quality. This paper presents a study focused on the physicochemical parameters
+    of soil in Mandal Taluka, Gujarat.
+  keywords:
+    default:
+      keywords:
+        subject: Gossypium herbaceum
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10446676
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10446675
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  International-Journal-of-Contemporary-Research-in-Multidisciplinary:
+    individualname: International Journal of Contemporary Research in Multidisciplinary
+    role: creator
+  Saif-Bakr-Hamoodi:
+    individualname: Saif Bakr Hamoodi
+    role: creator
+    organization: Research Student, Study Abroad Programme (Iraq), Botany Department,
+      Gujarat University, Ahmedabad, Indi
+    url: ''
+  Dr.-Hiteshkumar-Arvind-Solanki:
+    individualname: Dr. Hiteshkumar Arvind Solanki
+    role: creator
+    organization: Professor and Head, Department of Botany, Bioinformatics and Climate
+      Change Impact Management & Environmental Science, Gujarat University, Ahmedabad,
+      India
+    url: ''
+content_info: {}

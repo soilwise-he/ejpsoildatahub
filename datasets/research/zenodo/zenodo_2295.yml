@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8191351
+  dataseturi: https://doi.org/10.5281/zenodo.8191351
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Steel Slag and Calcium Carbide Waste on the Plasticity and Compaction
+    Characteristics of Clay Soil
+  abstract: <em>The need to enhance the strength of clay soil which is known as a
+    problematic soil to geotechnical engineers necessitates the use of stabilizing
+    materials like industrial waste materials which are easily available at low/or
+    no cost. </em><em>The clay soil samples, Steel Slag (SS) and Calcium Carbide Waste
+    (CCW) were subjected to X-Ray Fluorescence (XRF) test to determine their chemical
+    compositions while the stabilized soil samples </em><em>at varying percentages</em>
+    <em>of SS (25%, 30%, 35%, and 40%) and CCW (75%, 70%, 65%, and 60%) for soil sample
+    A and (45%, 50%, 55% and 60%) SS and (55%, 50%, 45% and 40%) CCW for soil sample
+    B </em><em>were subjected to Atterberg Limits and compaction tests.</em><em> The
+    soil samples A and B were classified as A-7-6(5) and A-6(5) according to American
+    Association of State Highway Transportation Official (AASHTO), inorganic clay
+    of high plasticity (CH) and inorganic clay of low to medium plasticity (CL) according
+    to Unified Soil Classification System. The plasticity of the soil samples A and
+    B decreases by 28% and 41% which reduces its swell potential and moisture-holding
+    capacity. Also, the strength property revealed that the stabilized soil samples
+    A and B increases the maximum dry density from 17.0kN/m<sup>3</sup> and 13.0kN/m<sup>3</sup>
+    to 26.5kN/m<sup>3</sup> and 23.5kN/m<sup>3</sup> and decreases the optimum moisture
+    content from 26.0% and 20.5% to 15.0% and 11.5% respectively which could be attributed
+    to the lower affinity of SS to water thus, improving the compaction properties
+    of the soil samples.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Geotechnical engineers, Industrial waste materials, Strength, X-Ray
+          Fluorescence
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8191351
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8191350
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Damilola-A.-Ogundare:
+    individualname: Damilola A. Ogundare
+    role: creator
+    organization: Ph.D Student ,Department of Civil Engineering, University of Ilorin,
+      Ilorin, Nigeria
+    url: ''
+  Oyetunde-O.-Adeleke:
+    individualname: Oyetunde O. Adeleke
+    role: creator
+    organization: Professor, Department of Civil Engineering, University of Ilorin,
+      Ilorin, Nigeria,
+    url: ''
+  Ayodeji-T.-Akinbuluma:
+    individualname: Ayodeji T. Akinbuluma
+    role: creator
+    organization: Lecturer,Department of Civil Engineering, Olusegun Agagu University
+      of Science and Technology, Okitipupa, Ondo State,Nigeria.
+    url: ''
+content_info: {}

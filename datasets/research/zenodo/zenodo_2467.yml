@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dingaan_2017
+  dataseturi: https://doi.org/10.5091/plecevo.2017.1260
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil chemical properties and plant species diversity along a rainfall gradient
+    in semi-arid grassland of South Africa
+  abstract: "&lt;b&gt;Background and aims&lt;/b&gt; \u2013 Plant diversity is affected\
+    \ by several biotic and abiotic influences that include the availability of soil\
+    \ nutrients and precipitation regimes. Our study investigated the relationship\
+    \ between soil chemical properties and plant diversity in semi-arid grasslands\
+    \ of South Africa.&lt;br&gt;&lt;b&gt;Methods&lt;/b&gt; \u2013 We collected plant\
+    \ species data and determined soil chemical compositions in Kimberley, Bloemfontein\
+    \ and Bethlehem. The three locations lie along an increasing rainfall gradient\
+    \ from around 450 to 750 mm per annum. We conducted ANOVA to examine differences\
+    \ in diversity indicators [species richness ( &lt;i&gt;N&lt;/i&gt; &lt;sub&gt;0&lt;/sub&gt;\
+    \ ), the inverse Simpson diversity index ( &lt;i&gt;N&lt;/i&gt; &lt;i&gt;2&lt;/i&gt;\
+    \ &lt;i&gt;&lt;/i&gt; ) and species evenness ( &lt;i&gt;N&lt;/i&gt; &lt;i&gt;20&lt;/i&gt;\
+    \ &lt;i&gt;&lt;/i&gt; = &lt;i&gt;N&lt;/i&gt; &lt;i&gt;2&lt;/i&gt; &lt;i&gt;&lt;/i&gt;\
+    \ / &lt;i&gt; N&lt;/i&gt; &lt;i&gt;0&lt;/i&gt; &lt;i&gt;&lt;/i&gt; )] among the\
+    \ locations, and differences in soil chemical properties (Ca, K, Mg, Na, P, N,\
+    \ C and pH). We further performed correlation analysis between soil variables\
+    \ and diversity indicators.&lt;br&gt;&lt;b&gt;Key results&lt;/b&gt; \u2013 The\
+    \ geographical gradients of &lt;i&gt;N&lt;/i&gt; &lt;i&gt;0&lt;/i&gt; &lt;i&gt;&lt;/i&gt;\
+    \ and &lt;i&gt;N&lt;/i&gt; &lt;i&gt;2&lt;/i&gt; &lt;i&gt;&lt;/i&gt; were positively\
+    \ associated with the rainfall gradient and correspondingly with N and C. However,\
+    \ &lt;i&gt;N&lt;/i&gt; &lt;i&gt;0&lt;/i&gt; and &lt;i&gt;N&lt;/i&gt; &lt;i&gt;2&lt;/i&gt;\
+    \ &lt;i&gt;&lt;/i&gt; were negatively correlated with soil pH. &lt;i&gt; N&lt;/i&gt;\
+    \ &lt;i&gt;20&lt;/i&gt; &lt;i&gt;&lt;/i&gt; did not show any relationships with\
+    \ the geographical gradient and soil properties. Our results further revealed\
+    \ a hump-shaped model of &lt;i&gt;N&lt;/i&gt; &lt;i&gt;0&lt;/i&gt; &lt;i&gt;&lt;/i&gt;\
+    \ with soil pH, characterised by an increase in &lt;i&gt;N&lt;/i&gt; &lt;i&gt;0&lt;/i&gt;\
+    \ &lt;i&gt;&lt;/i&gt; with increasing soil pH in acidic grassland (Bethlehem)\
+    \ but a decrease and levelling-off in the lower rainfall, alkaline grasslands\
+    \ of Bloemfontein and Kimberley. The negative effect of soil pH on &lt;i&gt;N&lt;/i&gt;\
+    \ &lt;i&gt;0&lt;/i&gt; &lt;i&gt;&lt;/i&gt; is presumably a result of less intense\
+    \ leaching of the base cations in the lower rainfall areas of Bloemfontein and\
+    \ Kimberley.&lt;br&gt;&lt;b&gt;Conclusions&lt;/b&gt; \u2013 Our results indicate\
+    \ soil pH as the main variable determining plant species diversity in semi-arid\
+    \ grasslands."
+  keywords:
+    default:
+      keywords:
+      - BIODIVERSITY
+      - INVERSE SIMPSON INDEX
+      - SOIL CARBON
+      - SOIL NITROGEN
+      - SOIL PH
+      - SPECIES RICHNESS
+      - THEMEDA TRIANDRA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil chemical properties and plant species diversity along a rainfall gradient
+      in semi-arid grassland of South Africa
+    url: http://dx.doi.org/10.5091/plecevo.2017.1260
+    type: www
+contact:
+  Meise-Botanic-Garden:
+    individualname: Meise Botanic Garden
+    role: creator
+  Royal-Botanical-Society-of-Belgium:
+    individualname: Royal Botanical Society of Belgium
+    role: creator
+  Dingaan-M:
+    individualname: Dingaan, M
+    role: creator
+  Tsubo-Mitsuru:
+    individualname: Tsubo, Mitsuru
+    role: creator
+  Walker-Sue:
+    individualname: Walker, Sue
+    role: creator
+  Newby-Terry:
+    individualname: Newby, Terry
+    role: creator
+  Dingaan-Mamokete-N.V.:
+    individualname: Dingaan, Mamokete N.V.
+    role: creator
+  Agentschap-Plantentuin-Meise:
+    individualname: Agentschap Plantentuin Meise
+    role: creator
+content_info: {}

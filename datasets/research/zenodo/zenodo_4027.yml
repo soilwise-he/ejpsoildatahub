@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1308937
+  dataseturi: https://doi.org/10.5281/zenodo.1308937
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Identification And Mapping Of Hot Spot Areas Susceptible To Soil Erosion
+    In Erak Al Karak Area Using Geoinformatics
+  abstract: Jordan is a country dominated by arid climate and fragile ecological system,
+    where 91% is classified as arid land with annual average rainfall rarely exceeds
+    200 mm/y. Therefore, land degradation, soil erosion and desertification are important
+    areas of interest, where soil erosion is considered one of the major causes for
+    land degradation in Jordan. The main objective of this study is to create an erosion
+    hazard map and identify the areas susceptible to soil erosion in Erak Al karak
+    watershed in southern part of Jordan. Soil erosion model RUSLE with the integration
+    of GIS tools has been developed to estimate the annual soil loss. The estimated
+    mean annual soil loss is (38.7 ton/ ha/year). The erosion map produced highlighted
+    the hot spot areas susceptible to soil erosion. A relationship was obvious between
+    terraces land use and soil loss, where 22% of the soil loss was reduced by applying
+    soil conservation technique (terraces). According to this model, most of the hot
+    spot areas are located in the rangeland 63% while the agricultural areas are responsible
+    for 14% of the hot spot areas. The results emphasis the importance of urgent land
+    use planning and conservation practices to reduce the impact of soil erosion.
+  keywords:
+    default:
+      keywords:
+        subject: Erosion; RUSLE; GIS; Land Degradation; Hot Spot.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-07-13'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1308937
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1308936
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Safa-Mazahreh:
+    individualname: Safa Mazahreh
+    role: creator
+  Mohammad-Alkharabsheh:
+    individualname: Mohammad Alkharabsheh
+    role: creator
+  Majed-Bsoul:
+    individualname: Majed Bsoul
+    role: creator
+  Doaa-Abu-Hammor:
+    individualname: Doaa Abu Hammor
+    role: creator
+    organization: ''
+    url: ''
+  Lubna-Al-Mahasneh:
+    individualname: Lubna Al Mahasneh
+    role: creator
+  Mazahreh-Safa:
+    individualname: Mazahreh, Safa
+    role: ''
+    organization: Environment and Climate Change Research Directorate, NARC, Jordan
+    url: ''
+  Alkharabsheh-Mohammad:
+    individualname: Alkharabsheh, Mohammad
+    role: ''
+    organization: Water and Soil Research Directorate, NARC, Jordan
+    url: ''
+  Bsoul-Majed:
+    individualname: Bsoul, Majed
+    role: ''
+    organization: Water and Soil Research Directorate, NARC, Jordan
+    url: ''
+  Mahasneh-Lubna-Al:
+    individualname: Mahasneh, Lubna Al
+    role: ''
+    organization: Environment and Climate Change Research Directorate, NARC, Jordan
+    url: ''
+content_info: {}

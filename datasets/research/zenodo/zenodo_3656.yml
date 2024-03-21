@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3455565
+  dataseturi: https://doi.org/10.5281/zenodo.3455565
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Leachate Presence on Shear Strength Parameters of Bentonite-Amended
+    Zeolite Soil
+  abstract: Over recent years, due to increased population and increased waste production,
+    groundwater protection has become more important, therefore, designing engineered
+    barrier systems such as landfill liners to prevent the entry of leachate into
+    groundwater should be done with greater accuracy. These measures generally involve
+    the application of low permeability soils such as clays. Bentonite is a natural
+    clay with low permeability which makes it a suitable soil for using in liners.
+    Also zeolite with high cation exchange capacity can help to reduce of hazardous
+    materials risk. Bentonite expands when wet, absorbing as much as several times
+    its dry mass in water. This property may effect on some structural properties
+    of soil such as shear strength. In present study, shear strength parameters are
+    determined by both leachates polluted and not polluted bentonite-amended zeolite
+    soil with mixing rates (B/Z) of 5%-10% and 20% with unconfined compression test
+    to obtain the differences. It is shown that leachate presence causes reduction
+    in resistance in general.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3455565
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3455564
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  H.-Keshavarz-Hedayati:
+    individualname: H. Keshavarz Hedayati
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

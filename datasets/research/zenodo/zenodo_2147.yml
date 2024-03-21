@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7006025
+  dataseturi: https://doi.org/10.5281/zenodo.7006025
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of time of split application of K on soil N forms and lowland rice
+    yield
+  abstract: This article 'Effects of time of split application of K on soil N forms
+    and lowland rice yield' appeared in the International Rice Research Notes series,
+    created by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Yields
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1996-08-01'
+    publication: '1996'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7006025
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7006024
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Muthumanickam-D.:
+    individualname: Muthumanickam, D.
+    role: creator
+    organization: ''
+    url: ''
+  Ravichandran-M.:
+    individualname: Ravichandran, M.
+    role: creator
+    organization: ''
+    url: ''
+  Sriramachandrasekaran-M.-V.:
+    individualname: Sriramachandrasekaran, M. V.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

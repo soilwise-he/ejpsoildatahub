@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1174629
+  dataseturi: https://doi.org/10.5281/zenodo.1174629
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Relationship Between Cadmium Accumulation And Soil Ec (A Case Study Of Five
+    Automobile Workshops).
+  abstract: This study was conducted with soils samples from five mechanic workshops
+    within Bauchi metropolis with a view to examine the relationship between Cd and
+    the electrical conductivity in these soils. Resulting coefficient of correlation
+    established a linear relationship between the both variables, with R2 of between
+    0.869 ? 0.955 in all the study sites. Three different models (Linear, Logarithmic
+    and quadratic models) were developed were found to suit the data obtained from
+    the correlation between Cd and soil EC. Regression models obtained can be used
+    to predict the impact of Cd in the various workshops.
+  keywords:
+    default:
+      keywords:
+        subject: Cadmium Soil conductivity Coefficient of correlation Regression models.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1174629
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1174628
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Okeke-C.-U:
+    individualname: Okeke C. U
+    role: creator
+    organization: ''
+    url: ''
+  Ekanem.-E.-O.:
+    individualname: Ekanem. E., O.
+    role: creator
+    organization: Department of Chemistry, Facaulty of Science, Abubakar Tafawa Balewa
+      University, Bauchi state, Nigeria.
+    url: ''
+  Adamu.-H.-M.:
+    individualname: Adamu. H., M.
+    role: creator
+    organization: Department of Chemistry, Facaulty of Science, Abubakar Tafawa Balewa
+      University, Bauchi state, Nigeria.
+    url: ''
+  Kolo.-A.-M.:
+    individualname: Kolo. A., M.
+    role: creator
+    organization: Department of Chemistry, Facaulty of Science, Abubakar Tafawa Balewa
+      University, Bauchi state, Nigeria.
+    url: ''
+content_info: {}

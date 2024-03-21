@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2575947
+  dataseturi: https://doi.org/10.5281/zenodo.2575947
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluations of Soil Fertility Status of Bulala and Harawa Farms of Bale Zone,
+    Ethiopia.
+  abstract: 'Abstract A study with the objective of identifying the fertility status
+    of soils under crop production farming system was conducted. For this study, two
+    farms were selected purposively from South Eastern Ethiopia: Bulala farm from
+    Gololcha district and Harawa farm from Ginir district of Bale Zone of Oromia.
+    The two farms were found under the same management conditions and were categorized
+    in blocks prior to the start of the study. Based on this soil samples were collected
+    randomly from blocks of the two farms. Then the collected samples were submitted
+    to Ziway Soil laboratory and were analyzed based on the standard procedure and
+    they fertility status were categorized. The result revealed that the texture of
+    the farms ranged from clay to sandy loam. Soil pH ranged from moderately acidic
+    to moderately alkaline while EC in the very low rate in both farms. Total N was
+    categorized under low to medium range. Organic carbon ranged from low to high
+    while available P ranged from very low to high range. Available K ranged is in
+    the high category. The CEC was grouped under the moderate to the very high category.
+    Regarding the Exchangeable bases, exchangeable Na is categorized as a very low
+    rate while the rates for the K, Ca and Mg were under the high category. Hence,
+    the addition of organic and inorganic fertilizers based on the soil test based
+    results, improving cultural practice to improve CEC and the activity of soil organisms
+    to have the optimum and sustainable productivity of farmlands is advisable'
+  keywords:
+    default:
+      keywords:
+        subject: http://www.ijoabs.com/publications-of-ijoabs/article/17/
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2575947
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2575946
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tilahun-Firomsa-Erenso:
+    individualname: Tilahun Firomsa Erenso
+    role: creator
+    organization: ''
+    url: ''
+  Kefyalew-Assefa-Gejea:
+    individualname: Kefyalew Assefa Gejea
+    role: creator
+    organization: ''
+    url: ''
+  Daniel-Hagos-Berhe:
+    individualname: Daniel Hagos Berhe
+    role: creator
+  Berhe-Daniel-Hagos:
+    individualname: Berhe, Daniel Hagos
+    role: ''
+    organization: Department of Natural Resources Management, Adigrat University,
+      P. O. Box 50, Ethiopia
+    url: ''
+content_info: {}

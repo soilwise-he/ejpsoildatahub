@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10551714
+  dataseturi: https://doi.org/10.5281/zenodo.10551714
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Tillage Implement Type and Depth of Ploughing on Field Performance
+    Parameters in Vertisol Clay Soil of Gezira Scheme (Sudan)
+  abstract: Abstract This study was conducted during 2017 in Gezira scheme which is
+    characterized by heavy vertisol clay soil. The objective of the study was to evaluate
+    the field performance (effective field capacity "EFC", field efficiency "FE",
+    draft, fuel consumption and drawbar power) of three tillage implements (Chisel
+    Plough "CP", Moldboard Plough "MP" and Disc Plough "DP"), at three soil depths
+    (10, 20 and 30 cm). A split plot design with three replications was used in the
+    experiment. The results showed that CP recorded the highest EFC and FE at all
+    depths. The highest EFC (1.11 ha/h) for the CP was recorded at 10 cm depth while
+    the lowest one (0.42 ha/h) was recorded by the DP at 30 cm depth. The CP also
+    recorded the highest FE at all depths (70%, 67% and 65% at 10, 20 and 30 cm; respectively)
+    as compared to the other tillage implements. The highest draft values (15.0, 17.5
+    and 20.0 kN) were recorded by the MP at 10, 20 and 30 cm depth respectively; as
+    compared to that of CP, 9.0, 11.0 and 13.3 and for the DP as7.0, 10.6, and 12.4
+    kN, for the same depth in sequence. Due to its high draft, the MP required the
+    highest drawbar power, 28.6 kW at 30 cm depth. Low values of fuel consumption
+    rate were recorded for the CP as 2.4, 3.4.0 and 4.5 l/ha as compared to 3.8, 4.9
+    and 5.9 l/ha; and 4.6, 5.8 and 6.8 l/ha for the DP and MP respectively at the
+    three depth in sequence.
+  keywords:
+    default:
+      keywords:
+        subject: Tractor Performance, Field capacity, Efficiency, Draft, Fuel Consumption
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-01-31'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10551714
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10551713
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Omer-A.-Abdalla:
+    individualname: Omer A. Abdalla
+    role: creator
+    organization: Faculty of Agriculture, University of Khartoum, Shambat, Sudan
+    url: ''
+  Mhamed-H.-Dahab:
+    individualname: Mhamed H. Dahab
+    role: creator
+    organization: Faculty of Agriculture, University of Khartoum, Shambat, Sudan
+    url: ''
+  Abbas-M.-Mudawi:
+    individualname: Abbas M. Mudawi
+    role: creator
+    organization: Fedral Ministry of Agriculture and Forestry, Sudan
+    url: ''
+  Eltayeb-S.-N.-Babikir:
+    individualname: Eltayeb S. N. Babikir
+    role: creator
+    organization: Faculty of Agriculture, University of Khartoum, Shambat, Sudan
+    url: ''
+content_info: {}

@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126157
+  dataseturi: https://doi.org/10.5281/zenodo.1126157
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil-Cement Floor Produced With Alum Water Treatment Residues
+  abstract: From a concern regarding the environmental impacts caused by the disposal
+    of residues generated in Water Treatment Plants (WTP's), alternatives ways have
+    been studied to use these residues as raw material for manufacture of building
+    materials, avoiding their discharge on water streams, disposal on sanitary landfills
+    or incineration. This paper aims to present the results of a research work, which
+    is using WTR for replacing the soil content in the manufacturing of soil-cement
+    floor with proportions of 0, 5, 10 and 15%. The samples tests showed a reduction
+    mechanical strength in so far as has increased the amount of waste. The water
+    absorption was below the maximum of 6% required by the standard. The application
+    of WTR contributes to the reduction of the environmental damage in the water treatment
+    industry.
+  keywords:
+    default:
+      keywords:
+        subject: WTP.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126157
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126156
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Flavio-Araujo:
+    individualname: Flavio Araujo
+    role: creator
+  Paulo-Scalize:
+    individualname: Paulo Scalize
+    role: creator
+  Julio-Lima:
+    individualname: Julio Lima
+    role: creator
+  Natalia-Vieira:
+    individualname: Natalia Vieira
+    role: creator
+  Antonio-Albuquerque:
+    individualname: Antonio Albuquerque
+    role: creator
+  Isabela-Santos:
+    individualname: Isabela Santos
+    role: creator
+  Araujo-Flavio:
+    individualname: Araujo, Flavio
+    role: ''
+    organization: ''
+    url: ''
+  Scalize-Paulo:
+    individualname: Scalize, Paulo
+    role: ''
+    organization: ''
+    url: ''
+  Lima-Julio:
+    individualname: Lima, Julio
+    role: ''
+    organization: ''
+    url: ''
+  Vieira-Natalia:
+    individualname: Vieira, Natalia
+    role: ''
+    organization: ''
+    url: ''
+  Albuquerque-Antonio:
+    individualname: Albuquerque, Antonio
+    role: ''
+    organization: ''
+    url: ''
+  Santos-Isabela:
+    individualname: Santos, Isabela
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

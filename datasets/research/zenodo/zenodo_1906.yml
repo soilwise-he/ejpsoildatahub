@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Babcs_nyi_2016
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2016.03.037
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Copper in soil fractions and runoff in a vineyard catchment: Insights from
+    copper stable isotopes'
+  abstract: "Understanding the fate of copper (Cu) fungicides in vineyard soils and\
+    \ catchments is a prerequisite to limit the off-site impact of Cu. Using Cu stable\
+    \ isotopes, Cu retention in soils and runoff transport was investigated in relation\
+    \ to the use of Cu fungicides and the hydrological conditions in a vineyard catchment\
+    \ (Rouffach, Haut-Rhin, France; mean slope: 15%). The \u03B465Cu values of the\
+    \ bulk vineyard soil varied moderately through the depth of the soil profiles\
+    \ (\u2212 0.12 to 0.24\u2030 \xB1 0.08\u2030). The values were in the range of\
+    \ those of the fungicides (\u2212 0.21 to 0.11\u2030) and included the geogenic\
+    \ \u03B465Cu value of the untreated soil (0.08\u2030). However, \u03B465Cu values\
+    \ significantly differed between particle-size soil fractions (\u2212 0.37 \xB1\
+    \ 0.10\u2030 in fine clays and 0.23 \xB1 0.07\u2030 in silt). Together with the\
+    \ soil mineralogy, the results suggested Cu isotope fractionation primarily associated\
+    \ with the clay and fine clay fractions that include both SOM and mineral phases.\
+    \ The vegetation did not affect the Cu isotope patterns in the vineyard soils.\
+    \ Cu export by runoff from the catchment accounted for 1% of the applied Cu mass\
+    \ from 11th May to 20th July 2011, covering most of the Cu use period. 84% of\
+    \ the exported Cu mass was Cu bound to suspended particulate matter (SPM). The\
+    \ runoff displayed \u03B465Cu values from 0.52 to 1.35\u2030 in the dissolved\
+    \ phase ("
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Copper in soil fractions and runoff in a vineyard catchment: Insights from
+      copper stable isotopes'
+    url: http://dx.doi.org/10.1016/j.scitotenv.2016.03.037
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Babcsanyi-Izabella:
+    individualname: "Babcs\xE1nyi, Izabella"
+    role: creator
+  Chabaux-Francois:
+    individualname: "Chabaux, Fran\xE7ois"
+    role: creator
+  Granet-Mathieu:
+    individualname: Granet, Mathieu
+    role: creator
+  Meite-Fatima:
+    individualname: Meite, Fatima
+    role: creator
+  Payraudeau-Sylvain:
+    individualname: Payraudeau, Sylvain
+    role: creator
+  Duplay-Joelle:
+    individualname: "Duplay, Jo\xEBlle"
+    role: creator
+  Imfeld-Gwenael:
+    individualname: "Imfeld, Gwena\xEBl"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

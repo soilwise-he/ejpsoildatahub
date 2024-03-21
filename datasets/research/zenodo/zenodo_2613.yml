@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7298410
+  dataseturi: https://doi.org/10.5281/zenodo.7298410
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Dynamics of Strength Gain in Sandy Soil Stabilised with Mixed Binders Evaluated
+    by Elastic P-Waves during Compressive Loading
+  abstract: This paper addresses the problem of stabilisation of poor subgrade soil
+    for improving its engineering properties and stiffness. The study aim is to evaluate
+    the effects from single and mixed binders on the gain of strength in sandy soil
+    over the period of curing. We propose an effective non-destructive approach of
+    using P-waves for identifying soil strength upon stabilisation. The growth of
+    strength and stiffness is strongly dependent on time of curing and type of the
+    stabilising agents which can include both single binders and their blended mixtures.
+    The diverse effects from mixed binders on the properties of soil were evaluated,
+    compared and analysed. We performed the experimental trials of five different
+    binders for stabilisation of sandy soil using cement, lime, Ground Granulated
+    Blast Furnace Slag (GGBFS), energy fly ash and bio fly ash. The methodology included
+    soil stabilisation by binders during a total period of 90 days, strength test
+    for the Unconfined Compressive Strength (UCS) and seismic tests on the stabilised
+    samples. The dynamics of soil behaviour stabilised by different binders for days
+    7, 14, 28 and 90 was statistically analysed and compared. The optimisation of
+    binder blending has been performed using mixture simplex lattice design with three
+    binders in each case as independent variables. Using P-waves naturally exploited
+    strength characteristics of soil samples and allowed us to compare the effects
+    from the individual and blended binders over the complete period of curing with
+    dominating mixes. The results indicate that strength growth in stabilised soil
+    samples is nonlinear in both time and content of binders with dominating effects
+    from slag which contributed the most to the compressive strength development,
+    followed by cement.
+  keywords:
+    default:
+      keywords:
+        subject: seismic waves
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-04'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7298410
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3390/ma15217798
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7291288
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: Lund University
+    url: https://orcid.org/0000-0002-0577-9936
+  Polina-Lemenkova:
+    individualname: Polina Lemenkova
+    role: creator
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: ''
+    organization: "Universit\xE9 Libre de Bruxelles, \xC9cole polytechnique de Bruxelles\
+      \ (Brussels Faculty of Engineering), Laboratory of Image Synthesis and Analysis"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

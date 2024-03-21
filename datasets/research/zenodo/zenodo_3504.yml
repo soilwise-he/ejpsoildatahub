@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1070455
+  dataseturi: https://doi.org/10.5281/zenodo.1070455
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Frequency Response Analysis Of Reinforced- Soil Retaining Walls With Polymeric
+    Strips
+  abstract: 'Few studies have been conducted on polymeric strip
+
+    and the behavior of soil retaining walls. This paper will present the
+
+    effect of frequency on the dynamic behavior of reinforced soil
+
+    retaining walls with polymeric strips. The frequency content
+
+    describes how the amplitude of a ground motion is distributed among
+
+    different frequencies. Since the frequency content of an earthquake
+
+    motion will strongly influence the effects of that motion, the
+
+    characterization of the motion cannot be completed without the
+
+    consideration of its frequency content. The maximum axial force of
+
+    reinforcements and horizontal displacement of the reinforced walls
+
+    are focused in this research. To clarify the dynamic behavior of
+
+    reinforced soil retaining walls with polymeric strips, a numerical
+
+    modeling using Finite Difference Method is benefited. As the results
+
+    indicate, the frequency of input base acceleration has an important
+
+    effect on the behavior of these structures. Because of resonant in the
+
+    system, where the frequency of the input dynamic load is equal to the
+
+    natural frequency of the system, the maximum horizontal
+
+    displacement and the maximum axial forces in polymeric strips is
+
+    occurred. Moreover, they were to increase the structure flexibility
+
+    because of the main advantages of polymeric strips; i.e. being simple
+
+    method of construction, having a homogeneous behavior with soils,
+
+    and possessing long durability, which are of great importance in
+
+    dynamic analysis.'
+  keywords:
+    default:
+      keywords:
+        subject: reinforced soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-03-20'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1070455
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1070454
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-Komakpanah:
+    individualname: Ali Komakpanah
+    role: creator
+  Maryam-Yazdi:
+    individualname: Maryam Yazdi
+    role: creator
+  Komakpanah-Ali:
+    individualname: Komakpanah, Ali
+    role: ''
+    organization: ''
+    url: ''
+  Yazdi-Maryam:
+    individualname: Yazdi, Maryam
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

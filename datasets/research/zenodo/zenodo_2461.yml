@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: NELLER_1918
+  dataseturi: https://doi.org/10.1097/00010694-191803000-00005
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: STUDIES ON THE CORRELATION BETWEEN THE PRODUCTION OF CARBON DIOXIDE AND THE
+    ACCUMULATION OF AMMONIA BY SOIL ORGANISMS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: STUDIES ON THE CORRELATION BETWEEN THE PRODUCTION OF CARBON DIOXIDE AND
+      THE ACCUMULATION OF AMMONIA BY SOIL ORGANISMS
+    url: http://dx.doi.org/10.1097/00010694-191803000-00005
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Neller-J.-R.:
+    individualname: Neller, J. R.
+    role: creator
+  NELLER-J.-R.:
+    individualname: NELLER, J. R.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

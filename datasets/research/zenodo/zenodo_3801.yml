@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1073269
+  dataseturi: https://doi.org/10.5281/zenodo.1073269
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Simulating Climate Change (Temperature And Soil Moisture) In A Mixed-Deciduous
+    Forest, Ontario, Canada
+  abstract: "To simulate expected climate change, we implemented a two-factor (temperature\
+    \ and soil moisture) field design in a forest in Ontario, Canada. To manipulate\
+    \ moisture input, we erected rain-exclusion structures. Under each structure,\
+    \ plots were watered with one of three treatments and thermally controlled with\
+    \ three heat treatments to simulate changes in air temperature and rainfall based\
+    \ on the climate model (GCM) predictions for the study area. Environmental conditions\
+    \ (including untreated controls) were monitored tracking air temperature, soil\
+    \ temperature, soil moisture, and photosynthetically active radiation. We measured\
+    \ rainfall and relative humidity at the site outside the rain-exclusion structures.\
+    \ Analyses of environmental conditions demonstrates that the temperature manipulation\
+    \ was most effective at maintaining target temperature during the early part of\
+    \ the growing season, but it was more difficult to keep the warmest treatment\
+    \ at 5\xBA C above ambient by late summer. Target moisture regimes were generally\
+    \ achieved however incoming solar radiation was slightly attenuated by the structures."
+  keywords:
+    default:
+      keywords:
+        subject: environmental manipulation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-09-26'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1073269
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1073268
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  David-Goldblum:
+    individualname: David Goldblum
+    role: creator
+  Lesley-S.-Rigg:
+    individualname: Lesley S. Rigg
+    role: creator
+  Goldblum-David:
+    individualname: Goldblum, David
+    role: ''
+    organization: ''
+    url: ''
+  Rigg-Lesley-S.:
+    individualname: Rigg, Lesley S.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

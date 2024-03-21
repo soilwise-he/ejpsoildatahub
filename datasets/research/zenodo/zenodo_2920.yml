@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4317248
+  dataseturi: https://doi.org/10.5281/zenodo.4317248
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of drought stress on early seedling growth and ecophysiology of beans,
+    pepper, tomato and watermelon grown in screenhouse-potted soil
+  abstract: "With changing rainfall patterns, deforestation and degradation of arable\
+    \ land, freshwater resources for irrigation are reducing, increasing the potential\
+    \ for drought stress on crops. The aim of this research was to study the growth\
+    \ and ecophysiological responses of beans, pepper, tomato and watermelon potted\
+    \ and grown in screenhouse under varied irrigation, for 14 days. There were three\
+    \ treatments: zero irrigation after seedling establishment, 0.1 L/pot/week, 0.2\
+    \ L/pot/week and 0.3 L/pot/week respectively, each pot with three plants, in a\
+    \ completely randomized design with 3 replicates. Growth and ecophysiological\
+    \ measurements were recorded for the first three weeks of growth. ANOVA and Pearson\
+    \ Correlation were conducted, with significance at \u03B1 0.05. Plants with zero\
+    \ irrigation had the least growth in all parameters measured; growth was stimulated\
+    \ by irrigation, with a threshold at 0.2 L/week (corresponding to 2200 mm, the\
+    \ mean annual rainfall for the region) for pepper, tomato and watermelon seedlings.\
+    \ Biomass accumulation in all species increased with irrigation but WUE decreased.\
+    \ The quantum efficiency of photosystem II photochemistry of beans and watermelon\
+    \ increased to 0.8 as irrigation increased, while pepper and tomato remained low\
+    \ in all treatments, indicating stress. These results show that early seedling\
+    \ stages are sensitive to drought; however, beans and watermelon seedlings were\
+    \ more resistant to soil moisture deficit than tomato and pepper seedlings. Early\
+    \ farm management should consider appropriate irrigation volumes for better and\
+    \ more vigorous crops in the field. This is essential in a future where irrigation\
+    \ water deficits are predicted to increase during the cropping seasons."
+  keywords:
+    default:
+      keywords:
+        subject: Crop ecophysiology; Deficit irrigation; Drought stress; Photosystem
+          II photochemistry; Water use efficiency; Potted soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4317248
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4317247
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tabot-Pascal-Tabi:
+    individualname: Tabot Pascal Tabi
+    role: creator
+    organization: Department of Agriculture, Higher Technical Teachers' Training College
+      Kumba, University of Buea. P.O. Box 249 Kumba, Cameroon.
+    url: ''
+  Mfombep-Priscilla-Mebong:
+    individualname: Mfombep Priscilla Mebong
+    role: creator
+    organization: Department of Agriculture, Higher Technical Teachers' Training College
+      Kumba, University of Buea. P.O. Box 249 Kumba, Cameroon.
+    url: ''
+  Odine-Stephinia-Wase:
+    individualname: Odine Stephinia Wase
+    role: creator
+  Wase-Odine-Stephinia:
+    individualname: Wase, Odine Stephinia
+    role: ''
+    organization: Department of Agriculture, Higher Technical Teachers' Training College
+      Kumba, University of Buea. P.O. Box 249 Kumba, Cameroon.
+    url: ''
+content_info: {}

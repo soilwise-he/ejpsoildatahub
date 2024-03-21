@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Traphagen_1899
+  dataseturi: https://doi.org/10.1021/ja02059a007
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: NOTES ON ALKALI SOIL IN MONTANA.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: NOTES ON ALKALI SOIL IN MONTANA.
+    url: http://dx.doi.org/10.1021/ja02059a007
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Traphagen-F.-W.:
+    individualname: Traphagen, F. W.
+    role: creator
+  Cobleigh-W.-M.:
+    individualname: Cobleigh, W. M.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

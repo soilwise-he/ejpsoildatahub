@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399585
+  dataseturi: https://doi.org/10.5281/zenodo.10399585
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of the chemical composition of applied organic materials on bacterial
+    and archaeal community compositions in paddy soil
+  abstract: In paddy fields where rice is grown under waterlogged conditions, soil
+    microorganisms play an important role in soil biochemical processes. Their activities
+    are sensitive indicators that reflect the quality and productivity of paddy soil.
+    Microcosm experiments were performed to investigate the effect of organic material
+    composition on soil bacterial and archaeal communities under paddy soil conditions.
+    Rice straw and farmyard manure were used as the original organic materials, and
+    three types of residues were prepared by sequential extraction from the original
+    materials. The organic material application did not affect soil pH and redox potential
+    (Eh). The alpha diversities of bacterial and archaeal communities were significantly
+    affected by organic material type, chemical component differences, and the incubation
+    period. The relative abundance of Clostridiaceae and Bacillaceae increased in
+    the microcosms treated with rice straw and farmyard manure, respectively, suggesting
+    that they are important bacterial groups that may facilitate degradation of easily
+    degradable organic fractions under waterlogged and anaerobic soil conditions.
+    In the archaeal communities, the relative abundance of acetoclastic methanogens
+    (Methanosarcinaceae) was increased by rice straw application. Principal coordinate
+    analysis based on the weighted UniFrac distances showed that the application of
+    rice straw caused greater changes in the soil bacterial and archaeal communities
+    than farmyard manure. The bacterial and archaeal communities in the microcosms
+    treated with organic materials differed even after lipid and water-soluble sugar
+    extraction depending on the type of the original organic materials used; however,
+    when hemicellulose-free materials were applied, the bacterial and archaeal community
+    composition changed similarly during incubation. These results suggest that the
+    difference in the proportions of hemicelluloses in rice straw and farmyard manure
+    was the most significant factor in changing the bacterial and archaeal community
+    compositions differently. Our findings provide novel insights into the relationship
+    between the differences in the constituents of organic materials applied to paddy
+    soil and changes in the community compositions of bacteria and archaea involved
+    in the decomposition process.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399585
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10399584
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ibne-Md-Zakaria:
+    individualname: Ibne, Md Zakaria
+    role: creator
+    organization: Bangladesh Rice Research Institute, Gazipur, Bangladesh
+    url: ''
+content_info: {}

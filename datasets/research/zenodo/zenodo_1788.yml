@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4312529
+  dataseturi: https://doi.org/10.5281/zenodo.4312529
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Investigation of the toxic effects of herbicides on some selected microbial
+    populations from soil
+  abstract: The toxic effect of herbicide on some selected microbial populations from
+    soil was investigated. Soil samples were collected from two unpolluted designated
+    fields of Chukwuemeka Odumegwu Ojukwu University and later polluted with herbicides
+    at different application rates (0.1 %, 0.2 %, 0.5 %, 1 % and 5 %) and periods
+    using spraying method. Standard chemical processes were used for determining physico-chemical
+    parameters of the soil while isolation, enumerating the population of the microorganisms
+    and identification of the isolates were determined using standard microbiological
+    methods. The result revealed that the soil samples are slightly acidic, sandy
+    clay loam type, lower organic carbon content, higher total nitrogen and phosphorus
+    contents and moderate water holding capacity. The isolates <em>Pseudomonas aeruginosa,
+    Bacillus vallismottis, Aeromonas hydrophila </em>and<em> Enterobacter clocea </em>were
+    selected using selective media and identified. <em>Pseudomonas aeruginosa </em>and
+    <em>Bacillus vallismottis </em>had the least (zero CFU/g) and maximum population
+    counts (10 x 10<sup>7</sup> CFU/g) during glyphosate exposure while <em>Pseudomonas
+    aeruginosa </em>and <em>Enterobacter clocea </em>had the least (zero CFU/g) and
+    maximum population counts (2.50 x 10<sup>7</sup> CFU/g) during 2, 4 - D amine
+    exposure for 15 days, respectively. Thus, the application of glyphosate and 2,
+    4 - D amine herbicides on the soil have resulted into lower counts of the selected
+    microbial groups. The inhibitions of their growths are dependent on concentration
+    and exposure period, although 2, 4 - D amine had more inhibition than the glyphosate
+    herbicide.
+  keywords:
+    default:
+      keywords:
+        subject: Herbicide; Microbial Population; Toxicity; Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-04-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4312529
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4312528
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nkamigbo-Promise-Ngozi:
+    individualname: Nkamigbo Promise Ngozi
+    role: creator
+    organization: Department of Microbiology, Chukwuemeka Odumegwu Ojukwu University,
+      P.M.B.02 Uli, Anambra State, Nigeria.
+    url: ''
+  Mbachu-Ifeoma-Adaora-Chima:
+    individualname: Mbachu Ifeoma Adaora Chima
+    role: creator
+    organization: Department of Microbiology, Chukwuemeka Odumegwu Ojukwu University,
+      P.M.B.02 Uli, Anambra State, Nigeria.
+    url: ''
+  Uba-Bright-Obidinma:
+    individualname: Uba Bright Obidinma
+    role: creator
+    organization: Department of Microbiology, Chukwuemeka Odumegwu Ojukwu University,
+      P.M.B.02 Uli, Anambra State, Nigeria.
+    url: ''
+content_info: {}

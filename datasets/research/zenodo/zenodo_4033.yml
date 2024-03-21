@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1054941
+  dataseturi: https://doi.org/10.5281/zenodo.1054941
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Variability Of Soil Strength Parameters And Its\nEffect On The Slope Stability\
+    \ Of The \u017Delazny\nMost Tailing Dam"
+  abstract: "The \u017Delazny Most tailing pond is one of the largest\nfacilities\
+    \ worldwide for waste disposal from the copper mines located\nin South-West Poland.\
+    \ A potential failure of the dam would allow\nmore than 10 million cubic meters\
+    \ of contaminated slurry to flow to\nthe valley, causing immense environmental\
+    \ problems to the\nsurrounding area. Thus, the determination of the strength properties\n\
+    of the dam's soils and their variability is of utmost importance.\nAn extensive\
+    \ site investigation consisting of more than 480 cone\npenetration tests (CPTs)\
+    \ with or without pore water pressure\nmeasurements were conducted within a period\
+    \ of 13 years to study\nthe mechanical properties of the tailings body. The present\
+    \ work\ninvestigates the point variability of the soil strength parameters\n(effective\
+    \ friction angle"
+  keywords:
+    default:
+      keywords:
+        subject: "\u017Delazny Most tailing dam."
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-07-26'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1054941
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1054940
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stella-A.-Arnaouti:
+    individualname: Stella A. Arnaouti
+    role: creator
+  Demos-C.-Angelides:
+    individualname: Demos C. Angelides
+    role: creator
+    organization: ''
+    url: ''
+  Theodoros-N.-Chatzigogos:
+    individualname: Theodoros N. Chatzigogos
+    role: creator
+  Witold-M.-Pytel:
+    individualname: Witold M. Pytel
+    role: creator
+  Arnaouti-Stella-A.:
+    individualname: Arnaouti, Stella A.
+    role: ''
+    organization: ''
+    url: ''
+  Chatzigogos-Theodoros-N.:
+    individualname: Chatzigogos, Theodoros N.
+    role: ''
+    organization: ''
+    url: ''
+  Pytel-Witold-M.:
+    individualname: Pytel, Witold M.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

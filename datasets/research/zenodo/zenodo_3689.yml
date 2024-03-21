@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1078643
+  dataseturi: https://doi.org/10.5281/zenodo.1078643
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impregnation Of Cupper Into Kanuma Volcanic Ash Soil To Improve Mercury Sorption
+    Capacity
+  abstract: 'The present study attempted to improve the Mercury
+
+    (Hg) sorption capacity of kanuma volcanic ash soil (KVAS) by
+
+    impregnating the cupper (Cu). Impregnation was executed by 1 and
+
+    5% Cu powder and sorption characterization of optimum Hg
+
+    removing Cu impregnated KVAS was performed under different
+
+    operational conditions, contact time, solution pH, sorbent dosage and
+
+    Hg concentration using the batch operation studies. The 1% Cu
+
+    impregnated KVAS pronounced optimum improvement (79%) in
+
+    removing Hg from water compare to control. The present
+
+    investigation determined the equilibrium state of maximum Hg
+
+    adsorption at 6 h contact period. The adsorption revealed a pH
+
+    dependent response and pH 3.5 showed maximum sorption capacity
+
+    of Hg. Freundlich isotherm model is well fitted with the experimental
+
+    data than that of Langmuir isotherm. It can be concluded that the Cu
+
+    impregnation improves the Hg sorption capacity of KVAS and 1%
+
+    Cu impregnated KVAS could be employed as cost-effective
+
+    adsorbent media for treating Hg contaminated water.'
+  keywords:
+    default:
+      keywords:
+        subject: sorption
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-01-29'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1078643
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1078642
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jatindra-N.-Bhakta:
+    individualname: Jatindra N. Bhakta
+    role: creator
+    organization: ''
+    url: ''
+  Yukihiro-Munekage:
+    individualname: Yukihiro Munekage
+    role: creator
+  Munekage-Yukihiro:
+    individualname: Munekage, Yukihiro
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

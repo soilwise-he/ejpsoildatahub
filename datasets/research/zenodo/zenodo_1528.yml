@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Frank_1995
+  dataseturi: https://doi.org/10.1016/0304-3894(94)00069-s
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Remediation of low permeability subsurface formations by fracturing enhancement
+    of soil vapor extraction
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Remediation of low permeability subsurface formations by fracturing enhancement
+      of soil vapor extraction
+    url: http://dx.doi.org/10.1016/0304-3894(94)00069-s
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Frank-U.:
+    individualname: Frank, U.
+    role: creator
+  Barkley-N.:
+    individualname: Barkley, N.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

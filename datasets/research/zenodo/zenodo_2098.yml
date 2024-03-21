@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.839638
+  dataseturi: https://doi.org/10.5281/zenodo.839638
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Some Soil Nutrient Composition Favouring The Growth Of Typha Grass In Kebbi
+    And Katsina States, Nigeria.
+  abstract: "This study was carried out by surveying all the water bodies of  two\
+    \ states where Typha grass exists. Soil auger was used  to take soil samples randomly\
+    \ from five different locations in both Kebbi and Katsina state. at the depths\
+    \ of 0-5cm, 5\u2013 10cm, 10\u2013 15cm.Soil nutrient  was analyzed for the mineral\
+    \ composition of the two States at different season and soil depths. The result\
+    \ showed that, soil depth between 5-10cm has the highest percentage of nitrogen,\
+    \ phosphorus, calcium and magnesium  during dry season.  The nutrient composition\
+    \ of soil from the two states followed the same pattern during wet season."
+  keywords:
+    default:
+      keywords:
+        subject: Soil nutrients, favors growth of Typha grass in the Field.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2009-08-07'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.839638
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.839637
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Y.-A.-Birnin--Yauri:
+    individualname: Y. A. Birnin- Yauri
+    role: creator
+    organization: ''
+    url: ''
+  F.Daddy:
+    individualname: F.Daddy
+    role: creator
+    organization: ''
+    url: ''
+  S.-O.-Owontunse:
+    individualname: S. O. Owontunse
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2643970
+  dataseturi: https://doi.org/10.5281/zenodo.2643970
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metal Reduction in Plant Using Soil Amendment
+  abstract: This study investigated the influence of limestone and sepiolite on heavy
+    metals accumulation in the soil and soybean. The soil was synthesized to contaminate
+    with zinc 150 mg/kg, copper 100 mg/kg, and cadmium 1 mg/kg. The contaminated soil
+    was mixed with limestone and sepiolite at the ratio of 1:0, 0:1, 1:1, and 2:1.
+    The amount of soil modifier added to soil was 0.2%, 0.4%, and 0.8%. The metals
+    determination was performed on soil both before and after soybean planting and
+    in the root, shoot, and seed of soybean after harvesting. The study was also on
+    metal translocate from root to seed and on bioaccumulation factor. Using of limestone
+    and sepiolite resulted in a reduction of metals accumulated in soybean. For soil
+    containing a high concentration of copper, cadmium, and zinc, a mixture of limestone
+    and sepiolite (1:1) was recommended to mix with soil with the amount of 0.2%.
+    Zinc could translocate from root to seed more than copper, and cadmium. From studying
+    the movement of metals from soil to accumulate in soybean, the result was that
+    soybean could absorb the highest amount of cadmium, followed by zinc, and copper,
+    respectively.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-03-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2643970
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2643969
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.-Chaiyaraksa:
+    individualname: C. Chaiyaraksa
+    role: creator
+    organization: ''
+    url: ''
+  T.-Khamko:
+    individualname: T. Khamko
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

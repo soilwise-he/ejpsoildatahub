@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mat_as_2021
+  dataseturi: https://doi.org/10.1016/j.agrformet.2021.108425
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: How will forecasted warming and drought affect soil respiration in savannah
+    ecosystems? The role of tree canopy and grazing legacy
+  abstract: '&lt;p&gt;Soil respiration (R&lt;sub&gt;S&lt;/sub&gt;) is one of the most
+    important carbon fluxes in terrestrial ecosystems, and it is considered as a keystone
+    in predicting ecosystem functioning. Changes in climate and land use may alter
+    R&lt;sub&gt;S&lt;/sub&gt;, triggering feedbacks between R&lt;sub&gt;S&lt;/sub&gt;&nbsp;and
+    other ecosystem components. Different factors might simultaneously alter R&lt;sub&gt;S&lt;/sub&gt;,
+    but the consequences of the interactive effects for ecosystems functioning remain
+    poorly understood. Here, the impact of the expected changes in climate were analysed
+    in a factorial field study over two consecutive years in a Mediterranean savannah
+    ecosystem. We assessed how the interaction of changes in climate with grazing
+    legacy and habitat structure influences R&lt;sub&gt;S&lt;/sub&gt;. We simulated
+    different climate scenarios (ambient, drier, warmer, and drier and warmer conditions)
+    forecasted for the study area at three adjacent sites with different grazing legacies
+    (high, medium, and low) and for the two most important habitat types (open grasslands
+    and under tree canopy). We also considered other factors that could affect R&lt;sub&gt;S&lt;/sub&gt;,
+    such as soil organic C, microbial biomass or net primary productivity, unravelling
+    the direct and indirect effects of the factors controlling R&lt;sub&gt;S&lt;/sub&gt;&nbsp;over
+    time by using structural-equation models (SEMs). Overall, R&lt;sub&gt;S&lt;/sub&gt;&nbsp;was
+    higher under tree canopy than in open grasslands, and high grazing intensity tended
+    to alter R&lt;sub&gt;S&lt;/sub&gt;&nbsp;differently through seasons. Warming scenario
+    consistently increased R&lt;sub&gt;S&lt;/sub&gt;, while drought reduced it (especially
+    in moist seasons), with a moderate increase of R&lt;sub&gt;S&lt;/sub&gt;&nbsp;resulting
+    from the combination of warming and drought. Tree canopy modulated the impact
+    of climate on R&lt;sub&gt;S&lt;/sub&gt;. The SEM analyses identified soil moisture,
+    temperature, grazing legacy and canopy as the main factors controlling R&lt;sub&gt;S&lt;/sub&gt;,
+    although they presented seasonal variations in the size and direction of their
+    effects. Thus, the projected changes in climate can deeply alter ecosystem functioning
+    of carbon sequestration, although their impact can be modulated by canopy cover
+    and management activities.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: How will forecasted warming and drought affect soil respiration in savannah
+      ecosystems? The role of tree canopy and grazing legacy
+    url: http://dx.doi.org/10.1016/j.agrformet.2021.108425
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Matias-Luis:
+    individualname: "Mat\xEDas, Luis"
+    role: creator
+  Hidalgo-Galvez-M.-Dolores:
+    individualname: Hidalgo-Galvez, M. Dolores
+    role: creator
+  Cambrolle-Jesus:
+    individualname: "Cambroll\xE9, Jes\xFAs"
+    role: creator
+  Dominguez-Maria-T.:
+    individualname: "Dom\xEDnguez, Maria T."
+    role: creator
+  Perez-Ramos-Ignacio-M.:
+    individualname: "P\xE9rez-Ramos, Ignacio M."
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

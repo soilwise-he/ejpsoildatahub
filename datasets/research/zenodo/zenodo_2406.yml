@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10212150
+  dataseturi: https://doi.org/10.5281/zenodo.10212150
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of paper mill sludge (furfural) on soil respiration, urease activity
+    and ammonia volatilization of calcareous soils
+  abstract: "Final paper mill sludge (furfural) is a good material for C Source and\
+    \ other nutrients for soil. Incubation tests were done to see how different amounts\
+    \ of furfural affected the release of CO2, urease activity and NH3 volatilization\
+    \ of two soils (Alzubair and Abul-khasib) collected from Basrah province, south\
+    \ of Iraq. Furfural was applied at 0, 0.5, 1.0, 1.5, 2.0, 4.0, 6.0, 8.0 and 10\
+    \ % (w/w) of dried soil. The mentioned parameters were measured at 10, 20 and\
+    \ 30 days of incubation time. The furfural rate linearly increased CO2 evolution\
+    \ till the concentration of 4 %.\_Increasing furfural concentration beyond 4 %\
+    \ did not affect CO2 evolution. In contrast, the urease activity was enhanced\
+    \ in the 0-10 % treatments and no clear differences were observed beyond 1.0 %.\
+    \ However, the addition of furfural by causes linearly decreased NH3 volatilization\
+    \ at all incubation times and in both soils. Control and furfural treatments in\
+    \ Abul - khasib soil gave higher CO2 evolution and urease activity and lower NH3\
+    \ loss than AL - Zubair loamy sand soil."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-28'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10212150
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10212149
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Meiad-M.-Al--Jaberi:
+    individualname: Meiad M. Al- Jaberi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

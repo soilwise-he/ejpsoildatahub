@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ihnatenko_2017
+  dataseturi: https://doi.org/10.15802/stp2017/113619
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: INTERACTION OF SOIL-CEMENT PILE SUPPORTING STRUCTURES WITH THE BODY OF A
+    LANDSLIDE
+  abstract: '&lt;p&gt;&lt;strong&gt;Purpose.&lt;/strong&gt;&nbsp;Analysis and comparison
+    of the landslide slope finite element model calculation results of the appliance
+    of soil-cement piles, depending on the variation of the retaining structure rigidity,
+    makes it possible to evaluate the effectiveness of their application and the cooperative
+    work of piles with the displacement body. It also makes it possible to make a
+    conclusion about the advantages of using this anti-landslide protection method
+    of the slope.&nbsp;&lt;strong&gt;Methodology.&lt;/strong&gt;&nbsp;Analysis of
+    geomorphological data obtained from the results of laboratory studies of soils
+    on the slope section is considered. Creation of a three-dimensional finite-element
+    slope model according to the constructed sections and depths of the soil layers.
+    Calculation of the nonlinear problem of finite element modeling of the slope with
+    applying of soil-cement piles of various rigidity.&nbsp;&lt;strong&gt;Findings.&lt;/strong&gt;&nbsp;The
+    obtained results of calculating the finite element model of the landslide slope,
+    and the analysis of the stress-strain state of the construction with soil-cement
+    piles has been carried out.&nbsp;&lt;strong&gt;Originality.&lt;/strong&gt;&nbsp;Despite
+    the widespread of using soil-cement piles as enclosing structures for the construction
+    of foundation pits and reinforcement of foundations of emergency structures, special
+    attention should be paid to the study of the expediency of using soil-cement retaining
+    pile structures on landslide areas.&nbsp;&lt;strong&gt;Practical value.&lt;/strong&gt;&nbsp;It
+    is known that soil-cement retaining piles are expediently in use as a protective
+    element, which interacts quite well with the ground environment due to its structure
+    of the initial material. Using of modern computer programs of finite element modeling
+    makes it possible to calculate the efficiency of the use of soil-cement piles
+    and to determine the parameters of the necessary retaining structure according
+    to the given geological structure of the slope, and also, depending on its shape
+    and the physical characteristics of the soils, to compare the performance of different
+    protective landslide structures types.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil-cement retaining pile
+      - shear
+      - anti-landslide retaining structure
+      - landslide slopes
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: INTERACTION OF SOIL-CEMENT PILE SUPPORTING STRUCTURES WITH THE BODY OF A
+      LANDSLIDE
+    url: http://dx.doi.org/10.15802/stp2017/113619
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-Y.-IHNATENKO:
+    individualname: D. Y. IHNATENKO
+    role: creator
+  V.-D.-PETRENKO:
+    individualname: V. D. PETRENKO
+    role: creator
+  O.-L.-TIUTKIN:
+    individualname: "O. L. TIUTK\u0406N"
+    role: creator
+  Ihnatenko-D.-Y.:
+    individualname: Ihnatenko, D. Y.
+    role: creator
+  Petrenko-V.-D.:
+    individualname: Petrenko, V. D.
+    role: creator
+  Tiutkin-O.-L.:
+    individualname: "Tiutk\u0456n, O. L."
+    role: creator
+  Dnipropetrovsk-National-University-of-Railway-Transport:
+    individualname: Dnipropetrovsk National University of Railway Transport
+    role: creator
+content_info: {}

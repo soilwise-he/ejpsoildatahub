@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8270541
+  dataseturi: https://doi.org/10.5281/zenodo.8270541
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Simulating climate change effect on soil carbon dynamic in a soybean\u2013\
+    maize ecosystem: Using improved CO2 emission and transport models"
+  abstract: "This data file (.xlsx) contains all data used to create table 1, figures\
+    \ 2, figure 3, figure 4, figure 5 and figure S1 of the study \"Simulating climate\
+    \ change effect on soil carbon dynamic in a soybean\u2013maize ecosystem: Using\
+    \ improved CO2 emission and transport models\""
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-04-30'
+    publication: '2024'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8270541
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8270540
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wenguang-Sun:
+    individualname: Wenguang Sun
+    role: creator
+    organization: Adaptive Cropping System Laboratory, USDA-ARS, Beltsville, MD, USA,
+      20705
+    url: ''
+content_info: {}

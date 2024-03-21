@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GORTNER_1916
+  dataseturi: https://doi.org/10.1097/00010694-191611000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'THE ORGANIC MATTER OF THE SOIL: 1. SOME DATA ON HUMUS, HUMUS CARBON AND
+    HUMUS NITROGEN'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'THE ORGANIC MATTER OF THE SOIL: 1. SOME DATA ON HUMUS, HUMUS CARBON AND
+      HUMUS NITROGEN'
+    url: http://dx.doi.org/10.1097/00010694-191611000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gortner-Ross-Aiken:
+    individualname: Gortner, Ross Aiken
+    role: creator
+  GORTNER-ROSS-AIKEN:
+    individualname: GORTNER, ROSS AIKEN
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

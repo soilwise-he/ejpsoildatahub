@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: PRADO_VERA_2018
+  dataseturi: https://doi.org/10.11646/zootaxa.4471.1.3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Six new and one known species of Geomonhystera (Nematoda, Monhysteridae)\
+    \ from moss, an epiphytic plant and soil in M\xC3\xA9xico and Ecuador"
+  abstract: "Prado-Vera, Ignacio Cid Del, Ferris, Howard, Subbotin, Sergei A. (2018):\
+    \ Six new and one known species of Geomonhystera (Nematoda, Monhysteridae) from\
+    \ moss, an epiphytic plant and soil in M\xE9xico and Ecuador. Zootaxa 4471 (1):\
+    \ 76-110, DOI: 10.11646/zootaxa.4471.1.3"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Nematoda
+      - Chromadorea
+      - Monhysterida
+      - Monhysteridae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Six new and one known species of Geomonhystera (Nematoda, Monhysteridae)\
+      \ from moss, an epiphytic plant and soil in M\xC3\xA9xico and Ecuador"
+    url: http://dx.doi.org/10.11646/zootaxa.4471.1.3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prado-Vera-Ignacio-Cid-Del:
+    individualname: Prado-Vera, Ignacio Cid Del
+    role: creator
+  Ferris-Howard:
+    individualname: Ferris, Howard
+    role: creator
+  Subbotin-Sergei-A.:
+    individualname: Subbotin, Sergei A.
+    role: creator
+  PRADO-VERA-IGNACIO-CID-DEL:
+    individualname: PRADO-VERA, IGNACIO CID DEL
+    role: creator
+  FERRIS-HOWARD:
+    individualname: FERRIS, HOWARD
+    role: creator
+  SUBBOTIN-SERGEI-A.:
+    individualname: SUBBOTIN, SERGEI A.
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

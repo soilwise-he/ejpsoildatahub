@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lim_2018
+  dataseturi: https://doi.org/10.11591/ijeecs.v11.i2.pp755-760
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Study of Stresses on Soil From Roadways Using Plaxis To Generate Potential
+    Energy With Piezoelectric
+  abstract: '&lt;p&gt;Environmental resources exploitation is one of the critical
+    problems in environmental engineering. The overuse of environmental resources
+    can lead to a huge impact for the environment and human itself. The problems of
+    extracting and processing of raw materials from earth such as mining, steam power
+    and machinery has increased year by year and this is the main reason that the
+    resources has become very limited for the future generations to use them. This
+    study is focused in designing a roadway through software analysis which will use
+    the concept of piezoelectricity that will convert the stress energy from the roadways
+    into electrical energy. A software which is called PLAXIS 2D will be used to simulate
+    the stresses from the roadway which are caused by moving vehicle loading. The
+    parameters of laterite and clay soil such as Specific Gravity, Liquid Limit, Friction
+    Angle and Cohesion are obtained from the past research is needed for the input
+    of the software. The loading application in the PLAXIS 2D uses the Mohr-Coulomb
+    failure criterion in which fully drained and axisymmetric conditions were assumed.
+    A non-uniform grid with 1726 elements was performed for the calculations on a
+    2-dimensional cross-sections of 11m x 3m roadway. The stresses resulted from the
+    software are used to determine the value of stresses required for the piezoelectric
+    to convert the stress energy into electrical energy.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Effective stress
+      - Piezoelectric
+      - Plaxis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Study of Stresses on Soil From Roadways Using Plaxis To Generate Potential
+      Energy With Piezoelectric
+    url: http://dx.doi.org/10.11591/ijeecs.v11.i2.pp755-760
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-J.-M.-S.-Lim:
+    individualname: A. J. M. S. Lim
+    role: creator
+  S.-Y.-Sim:
+    individualname: S. Y. Sim
+    role: creator
+  N.-Anting:
+    individualname: N., Anting
+    role: creator
+  J.-Prasetijo:
+    individualname: J. Prasetijo
+    role: creator
+  T.-I.-T-Noor-Hasanah:
+    individualname: T. I. T Noor Hasanah
+    role: creator
+  H.-H.-Goh:
+    individualname: H. H. Goh
+    role: creator
+  Y.-M.-Y.-Buswig:
+    individualname: Y. M. Y. Buswig
+    role: creator
+  C.-C.-Kang:
+    individualname: C. C. Kang
+    role: creator
+  Lim-A.J.M.S.:
+    individualname: Lim, A.J.M.S.
+    role: creator
+  Sim-S.Y.:
+    individualname: Sim, S.Y.
+    role: creator
+  Prasetijo-J.:
+    individualname: Prasetijo, J.
+    role: creator
+  Hasanah-T.-I.-T-Noor:
+    individualname: Hasanah, T. I. T Noor
+    role: creator
+  Goh-H.H.:
+    individualname: Goh, H.H.
+    role: creator
+  Buswig-Y.M.Y.:
+    individualname: Buswig, Y.M.Y.
+    role: creator
+  Kang-C.C.:
+    individualname: Kang, C.C.
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

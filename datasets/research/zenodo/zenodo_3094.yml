@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7391193
+  dataseturi: https://doi.org/10.5281/zenodo.7391193
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Creation of a bacterial library based on strains isolated from soil of Azerbaijan
+    and their screening for the presence of new antibacterial biomolecules
+  abstract: The major goal of the research project carried out during the years 2014
+    - 2018 was to establish a library of microorganisms, including novel, previously
+    uncultured bacterial species, isolated from soil of Azerbaijan, and their antibacterial
+    screening. For this, 30 soil samples were collected from different zones of Azerbaijan
+    and sent to the Fraunhofer USA Center for Molecular Biotechnology for bacterial
+    isolation and screening. 578 bacterial strains were isolated from 30 soil samples
+    and a new bacterial library was created. All 578 isolated strains were analyzed
+    for antibacterial activity against two gram-positive (Staphylococcus aureus, Enterococcus
+    faecalis) and two gram-negative (Escherichia coli) pathogenic strains by growth
+    inhibition assay. 62 isolates showed an antibacterial activity against at least
+    one pathogenic indicator organism. After supernatant screening, 14 isolates showed
+    an inhibitory activity in cell-free culture supernatant.
+  keywords:
+    default:
+      keywords:
+        subject: Antibacterial agent, antimicrobial activity, bacterial isolation,
+          pathogenic bacteria, gramnegative bacteria, gram-positive bacteria
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-12-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7391193
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7391192
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.G.-Aghayeva:
+    individualname: A.G. Aghayeva
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

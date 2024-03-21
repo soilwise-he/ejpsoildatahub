@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Skinner_1918
+  dataseturi: https://doi.org/10.1016/s0016-0032(18)90111-0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil aldehydes
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil aldehydes
+    url: http://dx.doi.org/10.1016/s0016-0032(18)90111-0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Skinner-Joshua-J.:
+    individualname: Skinner, Joshua J.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

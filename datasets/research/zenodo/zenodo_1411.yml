@@ -1,0 +1,116 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Karyotis_2020
+  dataseturi: https://doi.org/10.1117/12.2570821
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Digital soil mapping using Sentinel-2 imagery supported by ASTER thermal
+    infrared bands
+  abstract: '&lt;p&gt;The importance of monitoring soil properties is constantly increasing
+    among researchers and policy-makers. In this context,&nbsp;it is imperative to
+    identify cost-effective and reliable strategies for soil mapping compared to the
+    costlier traditional&nbsp;solutions. A wide range of tools are becoming available
+    that enable better utilization of Earth Observation capabilities to monitor the
+    soil ecosystem. This work is an effort of assessing the potential of Sentinel-2
+    imagery data for mapping Soil&nbsp;Organic Matter (SOM) contents and investigating
+    the possibilities of its enhancement through ASTER derived information.&nbsp;&lt;/p&gt;
+
+
+    &lt;p&gt;The rural area around the lake Zazari, located in the Western Macedonia
+    district of Greece, was chosen as study area.&nbsp;Initially, pixel-wise vegetation
+    indices (NDVI and NBR2) were calculated, utilizing a local version of the CEOS
+    Open&nbsp;Data Cube for masking Sentinel-2 bare soil pixels extending a three-year
+    period (2017&ndash;2019). The generated mask was&nbsp;used to extract soil spectral
+    signatures at the image level over selected 100 field samples. The resulting time
+    series was expanded through the conjunction of ASTER Thermal InfraRed bands by
+    matching the exact data acquisition dates of two&nbsp;platforms.&lt;/p&gt;
+
+
+    &lt;p&gt;The conclusive part of the work contains the application of regression
+    modelling to effectively assess soil variables. The local Partial Least Square
+    regression algorithm was chosen, due to its characteristics of performing inherently
+    local predictions. Five-fold cross-validation technique was used for reporting
+    the models&rsquo; accuracy, which was assessed through R2 coefficient, RPIQ ratio
+    and RMSE. The model estimated SOM values among a synthetic bare soil composite
+    image that was acquired over study area&rsquo;s agricultural fields. Two models
+    were trained and compared; one over Sentinel-2 imagery bands that were used as
+    the predictor variables&rsquo; set and a second over an expanded predictor variables&rsquo;
+    set, including ASTER thermal bands. The results signified evidence of accuracy
+    increase of SOM content assessment, through spaceborne imagery analysis.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil spectroscopy
+      - Sentinel-2
+      - ASTER
+      - Local Partial Least Squares
+      - Machine Learning
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Digital soil mapping using Sentinel-2 imagery supported by ASTER thermal
+      infrared bands
+    url: http://dx.doi.org/10.1117/12.2570821
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Konstantinos-Karyotis:
+    individualname: Konstantinos Karyotis
+    role: creator
+  Nikolaos-Tziolas:
+    individualname: Nikolaos Tziolas
+    role: creator
+  Nikolaos-Tsakiridis:
+    individualname: Nikolaos Tsakiridis
+    role: creator
+  Nikiforos-Samarinas:
+    individualname: Nikiforos Samarinas
+    role: creator
+  Periklis-Chatzimisios:
+    individualname: Periklis Chatzimisios
+    role: creator
+  Jose-A.-M.-Dematte:
+    individualname: "Jos\xE9 A. M. Dematt\xEA"
+    role: creator
+  George-Zalidis:
+    individualname: George Zalidis
+    role: creator
+  Karyotis-Konstantinos:
+    individualname: Karyotis, Konstantinos
+    role: creator
+  Tziolas-Nikolaos:
+    individualname: Tziolas, Nikolaos
+    role: creator
+  Tsakiridis-Nikolaos:
+    individualname: Tsakiridis, Nikolaos
+    role: creator
+  Samarinas-Nikiforos:
+    individualname: Samarinas, Nikiforos
+    role: creator
+  Chatzimisios-Periklis:
+    individualname: Chatzimisios, Periklis
+    role: creator
+  Dematte-Jose-Alexandre-M.:
+    individualname: "Dematt\xEA, Jos\xE9 Alexandre M."
+    role: creator
+  Zalidis-George:
+    individualname: Zalidis, George
+    role: creator
+  SPIE:
+    individualname: SPIE
+    role: creator
+content_info: {}

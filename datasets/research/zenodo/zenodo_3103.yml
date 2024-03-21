@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7790976
+  dataseturi: https://doi.org/10.5281/zenodo.7790976
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "EVALUATION OF THE INFLUENCE OF SOIL PARAMETERS OF TECHNOGENIC TERRITORIES\
+    \ ON THE VARIABILITY OF THE LEAF BLADE OF POLYGONUM MONSPELIENSE THI\xC9BAUT EX\
+    \ PERS."
+  abstract: "Geometric morphometry methods were used to evaluate the influence of\
+    \ a number of soil parameters in technogenic territories on the variability of\
+    \ the leaf blade of Polygonum monspeliense Thi\xE9baut ex Pers. under laboratory\
+    \ growing conditions. According to the results of the correlation analysis, out\
+    \ of the seven analyzed soil parameters, the manifestation of variability in the\
+    \ shape of the leaf blade is most affected by the content of humus and nitrate\
+    \ nitrogen, and the manifestation of fluctuating asymmetry is the hydrolytic acidity\
+    \ of the soil. The content of mobile phosphates and exchangeable ammonium in the\
+    \ soil does not have a significant effect on the considered morphological parameters\
+    \ of the leaf blade."
+  keywords:
+    default:
+      keywords:
+        subject: soil, technogenic territory, leaf blade, geometric morphometry, fluctuating
+          asymmetry, directional asymmetry, Polygonum monspeliense, biotesting, bioindication
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2023-04-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7790976
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7790975
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shtirts-Yu.A.:
+    individualname: Shtirts Yu.A.
+    role: creator
+  Syshchykov-D.V.:
+    individualname: Syshchykov, D.V.
+    role: creator
+    organization: Donetsk Botanical Garden
+    url: https://orcid.org/0000-0003-4044-1129
+  Agurova-I.V.:
+    individualname: Agurova, I.V.
+    role: creator
+    organization: Donetsk Botanical Garden
+    url: https://orcid.org/0000-0002-4583-6480
+  Yu.A.-Shtirts:
+    individualname: Yu.A., Shtirts
+    role: ''
+    organization: Donetsk Botanical Garden
+    url: https://orcid.org/0009-0006-5102-2033
+content_info: {}

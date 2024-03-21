@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10618596
+  dataseturi: https://doi.org/10.5281/zenodo.10618596
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spatial distribution of Soil Permeability across Port Harcourt Area, Southeastern
+    Nigeria
+  abstract: "Abstract Data from 73 soil investigation reports, mainly soil Permeability\
+    \ were used to prepare maps of the variation in the Permeability of the soils\
+    \ in Port Harcourt and its environs on a scale of 1:5000 metres at depths of 3-10m,\
+    \ 11-15m and 16-20m. Data processing and interpretation were made with the help\
+    \ of different professional computer software some of which were; Microsoft office\
+    \ tools for preparation, synthesis and analysis of data, Arc GIS 10.7, Strater\
+    \ 5, Google Earth Pro, surfer 16, for preparation and manipulation of different\
+    \ maps. The aim was to prepare these maps as a quick guide to land use planning,\
+    \ design and construction of civil engineering structures. The permeability of\
+    \ soil samples obtained at depths of 3-10m, 11-15m and 16-20m were 5 \xD7 10-5\
+    \ to 1.2 \xD7 10-3, 4 \xD7 10-5 to 2 \xD7 10-4 and 8.0 \xD7 10-3 to 2.0 \xD7 10-3\
+    \ m/secwith average values of 4\xD7 10-4, 3.72\xD7 10-4 and 9.30 \xD7 10-4m/sec\
+    \ respectively indicating that the soils in Port Harcourt area mostly have rapid\
+    \ flow rate of water. The soils are also rated as having medium to high permeability.\
+    \ High permeability soils give rise to high seepage flows which lead to leakage,\
+    \ tunnelling or breaking failure in earth dams. The linear regression analysis\
+    \ shows that the relationship between depth and permeability is a significant\
+    \ weak positive relationship indicating that as depth increases, permeability\
+    \ increases. The prevalent engineering problems in the study area will most likely\
+    \ be excessive settlement due to Flow of large volume of water from highly compressible\
+    \ clays. These engineering geological maps were produced to guide decision makers\
+    \ and planners in the land use allocation of the areas for sustainability."
+  keywords:
+    default:
+      keywords:
+        subject: Permeability, Variation, Spatial Distribution, Land Use, Sustainability
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-10-31'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10618596
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10618595
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ekaette-Uzoma-Nnurum:
+    individualname: Ekaette Uzoma Nnurum
+    role: creator
+    organization: Department of Geology, University of Port Harcourt
+    url: ''
+  Charles-Ugwu-Ugwueze:
+    individualname: Charles Ugwu Ugwueze
+    role: creator
+    organization: Department of Geology, University of Port Harcourt
+    url: ''
+  Akaha-Celestine-Tse:
+    individualname: Akaha Celestine Tse
+    role: creator
+    organization: Department of Geology, University of Port Harcourt
+    url: ''
+  Godwin-J.-Udom:
+    individualname: Godwin J. Udom
+    role: creator
+    organization: Department of Geology, University of Port Harcourt
+    url: ''
+content_info: {}

@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1131886
+  dataseturi: https://doi.org/10.5281/zenodo.1131886
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Landcover Mapping Using Lidar Data And Aerial Image And Soil Fertility Degradation
+    Assessment For Rice Production Area In Quezon, Nueva Ecija, Philippines
+  abstract: Land-cover maps were important for many scientific, ecological and land
+    management purposes and during the last decades, rapid decrease of soil fertility
+    was observed to be due to land use practices such as rice cultivation. High-precision
+    land-cover maps are not yet available in the area which is important in an economy
+    management. To assure   accurate mapping of land cover to provide information,
+    remote sensing is a very suitable tool to carry out this task and automatic land
+    use and cover detection. The study did not only provide high precision land cover
+    maps but it also provides estimates of rice production area that had undergone
+    chemical degradation due to fertility decline. Land-cover were delineated and
+    classified into pre-defined classes to achieve proper detection features. After
+    generation of Land-cover map, of high intensity of rice cultivation, soil fertility
+    degradation assessment in rice production area due to fertility decline was created
+    to assess the impact of soils used in agricultural production. Using Simple spatial
+    analysis functions and ArcGIS, the Land-cover map of Municipality of Quezon in
+    Nueva Ecija, Philippines was overlaid to the fertility decline maps from Land
+    Degradation Assessment Philippines- Bureau of Soils and Water Management (LADA-Philippines-BSWM)
+    to determine the area of rice crops that were most likely where nitrogen, phosphorus,
+    zinc and sulfur deficiencies were induced by high dosage of urea and imbalance
+    N:P fertilization. The result found out that 80.00 % of fallow and 99.81% of rice
+    production area has high soil fertility decline.
+  keywords:
+    default:
+      keywords:
+        subject: soil fertility degradation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-07-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1131886
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1131885
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Eliza.-E.-Camaso:
+    individualname: Eliza. E. Camaso
+    role: creator
+    organization: ''
+    url: ''
+  Guiller.-B.-Damian:
+    individualname: Guiller. B. Damian
+    role: creator
+    organization: ''
+    url: ''
+  Miguelito.-F.-Isip:
+    individualname: Miguelito. F. Isip
+    role: creator
+    organization: ''
+    url: ''
+  Ronaldo-T.-Alberto:
+    individualname: Ronaldo T. Alberto
+    role: creator
+  Alberto-Ronaldo-T.:
+    individualname: Alberto, Ronaldo T.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

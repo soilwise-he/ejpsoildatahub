@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5809335
+  dataseturi: https://doi.org/10.5281/zenodo.5809335
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Cascading effects of soil organic and inorganic materials on tri-trophic
+    interactions: plant-aphid-parasitoid wasp as a study system'
+  abstract: Data obtained from experiments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-29'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5809335
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5809334
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohsen-Mehrparvar:
+    individualname: Mohsen Mehrparvar
+    role: creator
+  Zahra-Gorji:
+    individualname: Zahra Gorji
+    role: creator
+  Seyed-Mozaffar-Mansouri:
+    individualname: Seyed Mozaffar Mansouri
+    role: creator
+  Mehrparvar-Mohsen:
+    individualname: Mehrparvar, Mohsen
+    role: ''
+    organization: Department of Biodiversity, Institute for Science and High technology
+      and Environmental Science, Graduate University of Advanced Technology
+    url: ''
+  Gorji-Zahra:
+    individualname: Gorji, Zahra
+    role: ''
+    organization: Department of Biodiversity, Institute for Science and High technology
+      and Environmental Science, Graduate University of Advanced Technology
+    url: ''
+  Mansouri-Seyed-Mozaffar:
+    individualname: Mansouri, Seyed Mozaffar
+    role: ''
+    organization: Department of Biodiversity, Institute for Science and High technology
+      and Environmental Science, Graduate University of Advanced Technology
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Deighton_1922
+  dataseturi: https://doi.org/10.1017/s0021859600005281
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Some investigations on the electrical method of soil moisture determination
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Some investigations on the electrical method of soil moisture determination
+    url: http://dx.doi.org/10.1017/s0021859600005281
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Deighton-Thomas:
+    individualname: Deighton, Thomas
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

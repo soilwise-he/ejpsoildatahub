@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mengistu_2018
+  dataseturi: https://doi.org/10.11591/ijece.v8i2.pp989-995
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil Characterization and Classification: A Hybrid Approach of Computer
+    Vision and Sensor Network'
+  abstract: '&lt;p&gt;This paper presents soil characterization and classification
+    using computer vision &amp; sensor network approach. Gravity Analog Soil Moisture
+    Sensor with arduino-uno and image processing is considered for classification
+    and characterization of soils. For the data sets, Amhara regions and Addis Ababa
+    city of Ethiopia are considered for this study. In this research paper the total
+    of 6 group of soil and each having 90 images are used. That is, form these 540
+    images were captured. Once the dataset is collected, pre-processing and noise
+    filtering steps are performed to achieve the goal of the study through MATLAB,
+    2013. Classification and characterization is performed through BPNN (Back-propagation
+    neural network), the neural network consists of 7 inputs feature vectors and 6
+    neurons in its output layer to classify soils. 89.7% accuracy is achieved when
+    back-propagation neural network (BPNN) is used.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Arduino uno
+      - BPNN
+      - Computer vision
+      - Sensors
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil Characterization and Classification: A Hybrid Approach of Computer
+      Vision and Sensor Network'
+    url: http://dx.doi.org/10.11591/ijece.v8i2.pp989-995
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abrham-Debasu-Mengistu:
+    individualname: Abrham Debasu Mengistu
+    role: creator
+  Dagnachew-Melesew-Alemayehu:
+    individualname: Dagnachew Melesew Alemayehu
+    role: creator
+  Mengistu-Abrham-Debasu:
+    individualname: Mengistu, Abrham Debasu
+    role: creator
+  Alemayehu-Dagnachew-Melesew:
+    individualname: Alemayehu, Dagnachew Melesew
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

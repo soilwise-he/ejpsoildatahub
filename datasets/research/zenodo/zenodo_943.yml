@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Stewart_1919
+  dataseturi: https://doi.org/10.2307/2255713
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effect of Season and Crop Growth in Modifying the Soil Extract.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effect of Season and Crop Growth in Modifying the Soil Extract.
+    url: http://dx.doi.org/10.2307/2255713
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stewart-Guy-R.:
+    individualname: Stewart, Guy R.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

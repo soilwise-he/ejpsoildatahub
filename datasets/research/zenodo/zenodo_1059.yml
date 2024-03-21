@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garc_a_Su_rez_2006
+  dataseturi: https://doi.org/10.1002/joc.1294
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil temperatures at Armagh Observatory, Northern Ireland, from 1904 to 2002
+  abstract: "Soil temperatures at 30 and 100-cm depth from Armagh Observatory covering\
+    \ the period 1904\u20132002 are presented. The series has been corrected for changes\
+    \ in depth and location of the thermometers and has been compared with data from\
+    \ two other sites in Ireland: Birr and Valentia. Linear regressions of the soil\
+    \ temperatures over the past century for the three sites have positive slopes\
+    \ in all seasons which vary from 0.04 to 0.25\xB0C/decade, depending on the season,\
+    \ depth and location. There appear to be some geographical differences, with relatively\
+    \ shallow trends in winter in Armagh and Birr and steeper trends in Valentia.\
+    \ Soil temperature variations at the Armagh Observatory are intimately related\
+    \ to changes in the mean air temperature but are also influenced by changes in\
+    \ precipitation. We show that winter soil temperatures at Armagh can be successfully\
+    \ reconstructed from air temperature records."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil temperatures at Armagh Observatory, Northern Ireland, from 1904 to
+      2002
+    url: http://dx.doi.org/10.1002/joc.1294
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Garcia-Suarez-A.-M.:
+    individualname: "Garc\xEDa-Su\xE1rez, A. M."
+    role: creator
+  Butler-C.-J.:
+    individualname: Butler, C. J.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

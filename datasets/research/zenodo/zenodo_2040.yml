@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3534449
+  dataseturi: https://doi.org/10.5281/zenodo.3534449
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil mites (Acari) of natural areas of a former military training field in
+    Olsztyn (Poland)
+  abstract: 'Due to restricted public access to military training fields such areas
+    are quite interesting places for conducting faunistic research that would be simply
+    impossible in other terrains. The area examined in the present study was the former
+    military training field in Olsztyn, with the adjacent Lasek Pieczewski and the
+    valley of Skanda Lake. The major aim of the study was to evaluate the current
+    state of the environment in the terrain of the former military training field
+    and the adjacent areas. In this study mites from the suborder Uropodina and cohort
+    Labidostommatina (Acari: Mesostigmata et Prostigmata) were used as a bioindicators.
+    These mites are useful for this purpose because of their specific habitat preferences.
+    The community of mites in the area under scrutiny contained 23 taxa, comparing
+    to 34 species found in whole voivoideship, which is 68% of local species biodiversity.
+    <em>Oodinychus ovalis</em> turned out to be the most numerous species (the specimens
+    of this species constituted almost 38% of the whole community and the frequency
+    per sample was 55%). The other quite numerous species found in the examined area
+    were <em>Janetiella pulchella</em> and <em>Oodinychus karawaiewi</em>, which constituted
+    over 30% of the whole community. Taking into account the number of species and
+    their habitat preferences two most valuable areas were found: southern part of
+    Lasek Pieczewski and Skanda Lake valley.'
+  keywords:
+    default:
+      keywords:
+        subject: Monitoring
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-11-10'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3534449
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3534448
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zduniak-M.:
+    individualname: Zduniak, M.
+    role: creator
+    organization: "Department of Systematic Zoology, Faculty of Biology AMU, Uniwersytetu\
+      \ Pozna\u0144skiego 6, 61-614 Pozna\u0144, Poland"
+    url: ''
+  Bloszyk-J.:
+    individualname: "B\u0142oszyk, J."
+    role: creator
+    organization: "Department of General Zoology, Faculty of Biology AMU, Uniwersytetu\
+      \ Pozna\u0144skiego 6, 61-614 Pozna\u0144, Poland; The Natural History Collections,\
+      \ Faculty of Biology AMU, Uniwersytetu Pozna\u0144skiego 6, 61-614 Pozna\u0144\
+      , Poland"
+    url: ''
+  Nowak-M.:
+    individualname: Nowak, M.
+    role: creator
+    organization: "Laboratory of Biological Spatial Information, Faculty of Biology,\
+      \ AMU, Uniwersytetu Pozna\u0144skiego 6, 61-614 Pozna\u0144, Poland"
+    url: ''
+  Napierala-A.:
+    individualname: "Napiera\u0142a, A."
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2573642
+  dataseturi: https://doi.org/10.5281/zenodo.2573642
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Less Farming With Industry 4.0
+  abstract: "An Internet of Things (IoT) architecture for soil-less farming systems\
+    \ using Industry 4.0 is introduced. The architecture emphasizes the control of\
+    \ water quality in distributed soil-less food production systems by adhering to\
+    \ Industry 4.0 standards. Soil less agriculture can be defined as growing plants\
+    \ in the greenhouse system in solid environments other than soil which is enriched\
+    \ in nutritional solutions. There are two types of soil less agriculture 1) Hydroponics\
+    \ \u2013 which grows plants in water 2) Aerologics - which grows plants in air.\
+    \ Soilless cultivation is highly used in protected agriculture to improve control\
+    \ over the growing environment and to avoid uncertainties in the water and nutrient\
+    \ status of the soil. Industry 4.0 is the current trend of data exchange and automation\
+    \ in manufacturing industrial technologies. Industry 4.0 is a combination of cyber-physical\
+    \ systems, the Internet of things, cloud computing and cognitive computing. Industry\
+    \ 4.0 is also referred as the fourth industrial revolution. Although, it has been\
+    \ applied for monitoring soil-less farming, where cyber physical system is used\
+    \ to control the water nutrients which highly supports to grow plants. Cognitive\
+    \ computing can help soil less farming to identify risks and frauds. It analyses\
+    \ information to predict water, nutrients using Naive Bayes Algorithm. The acquired\
+    \ data can be stored in cloud for future reference."
+  keywords:
+    default:
+      keywords:
+        subject: Hydroponics, Industry 4.0, Soil less Farming, Cyber Physical Systems,
+          Cognitive Computing
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-02-20'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2573642
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2573641
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-Akhila:
+    individualname: P. Akhila
+    role: creator
+    organization: ''
+    url: ''
+  R.-Senthil-Prabha:
+    individualname: R. Senthil Prabha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

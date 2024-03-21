@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1099494
+  dataseturi: https://doi.org/10.5281/zenodo.1099494
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Gradations In Concentration Of Heavy And Mineral Elements With Distance And
+    Depth Of Soil In The Vicinity Of Auto Mechanic Workshops In Sabon Gari, Kaduna
+    State, Nigeria
+  abstract: 'The concentration levels of six heavy metals (Cd, Cr,<br>
+
+    Fe, Ni, Pb and Zn) and two mineral elements (Ca and Mg) were<br>
+
+    determined in soil samples collected from the vicinity of two auto<br>
+
+    mechanic workshops in Sabon-Gari, Kaduna state, Nigeria, using<br>
+
+    Atomic Absorption Spectrometry (AAS), in order to compare the<br>
+
+    gradation of their concentrations with distance and depth of soil from<br>
+
+    the workshop sites. At site 1, concentrations of Lead, Chromium, Iron<br>
+
+    and Zinc were generally found to be above the World Health<br>
+
+    Organization limits, while those of Nickel and Cadmium fell within<br>
+
+    the limits. Iron had the highest concentration with a range of 176.274<br>
+
+    ppm to 489.127 ppm at depths of 5 cm to 15 cm and a distance range<br>
+
+    of 5 m to 15 m, while the concentration of cadmium was least with a<br>
+
+    range of 0.001 ppm to 0.008 ppm at similar depth and distance<br>
+
+    ranges. In addition, there was more of calcium (11.521 ppm to<br>
+
+    121.709 ppm), in all the samples, than magnesium (11.293 ppm to<br>
+
+    21.635 ppm). Similar results were obtained for site II. The<br>
+
+    concentrations of all the metals analyzed showed a downward<br>
+
+    gradient with increase in depth and distance from both workshop sites<br>
+
+    except for iron and zinc at site 2. The immediate and remote<br>
+
+    implications of these findings on the biota are discussed.'
+  keywords:
+    default:
+      keywords:
+        subject: Soils.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-02-02'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1099494
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1099493
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-D.-Paul:
+    individualname: E. D. Paul
+    role: creator
+    organization: ''
+    url: ''
+  H.-Otanwa:
+    individualname: H. Otanwa
+    role: creator
+    organization: ''
+    url: ''
+  O.-F.-Paul:
+    individualname: O. F. Paul
+    role: creator
+    organization: ''
+    url: ''
+  A.-J.-Salifu:
+    individualname: A. J. Salifu
+    role: creator
+    organization: ''
+    url: ''
+  J.-E.-Toryila:
+    individualname: J. E. Toryila
+    role: creator
+    organization: ''
+    url: ''
+  C.-E.-Gimba:
+    individualname: C. E. Gimba
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

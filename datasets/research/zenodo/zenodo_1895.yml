@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7178525
+  dataseturi: https://doi.org/10.5281/zenodo.7178525
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ANALYSIS OF THE ENVIRONMENTAL IMPACT OF GRASS SENSITIVE SOIL ON THE SUITABILITY
+    OF CORN VARIETIES
+  abstract: <em>This article aims to study the environmental impact of new and promising
+    varieties of corn on the salinity of alluvial soils, and compares the examples
+    of scientists' work. In addition, due to saline soil conditions, it is important
+    to identify methods that help not only to maintain soil fertility, but also to
+    increase the yield and quality of the main crops.</em>
+  keywords:
+    default:
+      keywords:
+        subject: alluvial soils, salinity, corn, fertility, soil fertility, fodder,
+          food, medicine, microbiology, chemical industry, national economy, local
+          and foreign scientists, ecological, in the conditions of Khorezm region.
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2022-10-09'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7178525
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7178524
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.Badalova:
+    individualname: M.Badalova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

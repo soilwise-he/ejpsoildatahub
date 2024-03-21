@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5827728
+  dataseturi: https://doi.org/10.5281/zenodo.5827728
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A study on quantity/intensity parameters of soil potassium following a year
+    of cropping in an alluvial and a lateritic soil of West Bengal
+  abstract: "Department of Agricultural Chemistry and Soil Science, Bidhan Chandra\
+    \ Krishi Viswavidyalaya. Mohanpur-741 252, Nadia, India E-mail : sarojsanyal@hotmail.com;\
+    \ sarojsanyal@yahoo.co.in <em>Manuscript received 7 June 2004. revised 24 December\
+    \ 2004, accepted 19 January 2005</em> In the background of the imbalance in the\
+    \ use of N, P, K fertilizers, largely practised by the farmers in the alluvial\
+    \ and the lateritic soils of West Bengal, especially with regard to potassic fertilizers\
+    \ with the prevalent assumption that these soils are fairly rich in potash, an\
+    \ experiment was conducted between April, 2001 and May, 2002, in a lateritic soil\
+    \ (Midnapur) and an alluvial soil (Kalyani) of West Bengal, covering selected\
+    \ cropping sequences. Relationships between the quantity (<em>Q</em>) and intensity\
+    \ (<em>I</em>) parameters of labile K in the soils, initially and after one cropping\
+    \ year, were examined at both these sites by following the standard methodologies.\
+    \ The quantity parameters such as K<sub>L</sub>, K<sub>X</sub>, \u0394K<sub>0</sub>\
+    \ and PBC<sup>K</sup> showed characteristic variations over such periods of time\
+    \ in soils at both the locations. The intensity parameters, namely AR<sup>K</sup><sub>e</sub>,\
+    \ also showed a similar trend. The soil with relatively higher clay content recorded\
+    \ higher K<sub>x</sub> and<strong> </strong>PBC<sup>K</sup> values. Thus it can\
+    \ be concluded that the present alluvial soil (Kalyani) could support better the\
+    \ high intensive cropping sequences in absence of extraneous K application on\
+    \ a long-term basis."
+  keywords:
+    default:
+      keywords:
+        subject: soil potassium
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2005-04-30'
+    publication: '2005'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5827728
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5827727
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Supratik-Ghosh:
+    individualname: Supratik Ghosh
+    role: creator
+    organization: ''
+    url: ''
+  N.-C.-Maji:
+    individualname: N. C. Maji
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-Sanyal:
+    individualname: S. K. Sanyal
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

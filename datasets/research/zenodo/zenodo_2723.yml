@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5903572
+  dataseturi: https://doi.org/10.5281/zenodo.5903572
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Can reduced tillage buffer the future climate warming effects on maize yield
+    in different soil types of West Africa?
+  abstract: "\xA9 This manuscript version is made available under the CC-BY-NC-ND\
+    \ 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/. <br><br>Deposited\
+    \ by shareyourpaper.org and openaccessbutton.org. We've taken reasonable steps\
+    \ to ensure this content doesn't violate copyright. However, if you think it does\
+    \ you can request a takedown by emailing help@openaccessbutton.org."
+  keywords:
+    default:
+      keywords:
+        subject: Soil Science
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-09-10'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5903572
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.still.2020.104767
+    type: WWW:LINK
+    title: IsIdenticalTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.5903571
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nafi-Eeusha:
+    individualname: Nafi, Eeusha
+    role: creator
+    organization: ''
+    url: ''
+  Webber-Heidi:
+    individualname: Webber, Heidi
+    role: creator
+    organization: ''
+    url: ''
+  Danso-Isaac:
+    individualname: Danso, Isaac
+    role: creator
+    organization: ''
+    url: ''
+  Naab-Jesse-B.:
+    individualname: Naab, Jesse B.
+    role: creator
+    organization: ''
+    url: ''
+  Frei-Michael:
+    individualname: Frei, Michael
+    role: creator
+    organization: ''
+    url: ''
+  Gaiser-Thomas:
+    individualname: Gaiser, Thomas
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

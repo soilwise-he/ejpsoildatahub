@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8301658
+  dataseturi: https://doi.org/10.5281/zenodo.8301658
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Comparative Analysis of Some Geotechnical Properties of Decomposed Solid
+    Waste and Natural Soil Site for Foundation Engineering
+  abstract: Optimization of landfills as a result of increasing population and demand
+    for infrastructural development has necessitated intensified investigation among
+    engineers. Examining the engineering properties of soils from these landfills
+    is of great concern. This paper presented the bearing capacity of soils from dump
+    sites of municipal solid wastes and natural soil using their shear strength parameters
+    obtained from direct shear tests, after preliminary tests had been carried out
+    to determine index properties of the soil samples. Samples were obtained at 1m,
+    1.5m, 2m, 2.5m and 3m depth from Jettu site in Edo State, Nigeria. The maximum
+    and least cohesion values were observed to be 24kN/m2 and 17kN/m2, 15kN/m2 and
+    5kN/m2; and the maximum angles of internal-friction were 22oC and 24oC, while
+    the least internal friction angles were 6oC and 9oC for NS and SWSS samples respectively,
+    which denotes that the samples are fine soils with good shear strength and can
+    serve as reliable structural foundation materials
+  keywords:
+    default:
+      keywords:
+        subject: Solid-waste-site soil (SWSS), natural soil (NS), shear strength,
+          bearing capacity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-08-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8301658
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8301657
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.-C.-Onyeka-B.-O.-Mama-C.-D.-Nwa-David:
+    individualname: F. C. Onyeka, B. O. Mama, C. D. Nwa-David
+    role: creator
+  F.-C.-Onyeka-B.-O.-Mama:
+    individualname: F. C. Onyeka, B. O. Mama
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

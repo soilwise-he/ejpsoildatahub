@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3555492
+  dataseturi: https://doi.org/10.5281/zenodo.3555492
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Pedotransfer Function for Predicting Orchard Organic Carbon Soil in Haugiang
+    Province, Vietnam
+  abstract: <strong>The soil organic carbon content played an important role in soil
+    fertility, then fruit yield and quality. The prediction of soil organic carbon
+    in the fields at wider regions requires a large number of samples that are costly
+    to analyze. The objective of this study was to apply pedotransfer function to
+    quantify soil colour concerning soil organic carbon from 82 soil samples. A case
+    study in Haugiang province, Vietnam. The results showed that there has a complicated
+    relation to soil properties. Soil colour has the same Munsell Hue, but there is
+    different between Munsell Value and Chroma when the soil has at the same humidity.
+    Organic Carbon content ranged from 1,32 to 5,6%. There was negative significant
+    correlation between organic C content and Munsell soil color, such as with Munsell
+    Value (r = -0,75<sup>**</sup> air-dry, r = -0,74<sup>**</sup> moist); Munsell
+    Chroma (r= -0,55<sup>** </sup>air-dry, r = -0,66<sup>**</sup> moist). Since, Visual
+    soil colour assessment is useful predictors of organic C content, especially for
+    topsoil. This study indicates that soil organic content can be predicted by using
+    Munsell soil colours for visual field measurements on the old raised bed soils
+    at the moist condition, which can be used for field soil fertility degradation
+    recommendation. However, more study of pedotransfer function on other soils condition
+    must be </strong><strong>correlated for further recommendation.</strong>
+  keywords:
+    default:
+      keywords:
+        subject: Pedotransfer function, Munsell, Soil colour, Organic carbon, Correlation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-11-27'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3555492
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3555491
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vo-Quang-Minh:
+    individualname: Vo Quang Minh
+    role: creator
+    organization: Department of Land Resources, Cantho University, Vietnam
+    url: ''
+  Le-Van-Khoa:
+    individualname: Le Van Khoa
+    role: creator
+  Thai-Thanh-Du:
+    individualname: Thai Thanh Du
+    role: creator
+  Pham-Thanh-Vu:
+    individualname: Pham Thanh Vu
+    role: creator
+    organization: Department of Land Resources, Cantho University, Vietnam
+    url: ''
+  Le-Quang-Tri:
+    individualname: Le Quang Tri
+    role: creator
+  Khoa-Le-Van:
+    individualname: Khoa, Le Van
+    role: ''
+    organization: Department of Scientific Researchers Affair, Cantho University,
+      Vietnam
+    url: ''
+  Du-Thai-Thanh:
+    individualname: Du, Thai Thanh
+    role: ''
+    organization: Department of Land Resources, Cantho University, Vietnam
+    url: ''
+  Tri-Le-Quang:
+    individualname: Tri, Le Quang
+    role: ''
+    organization: Department of Land Resources, Cantho University, Vietnam
+    url: ''
+content_info: {}

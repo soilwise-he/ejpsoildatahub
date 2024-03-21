@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7766315
+  dataseturi: https://doi.org/10.5281/zenodo.7766315
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: CHANGE SOIL CHARACTERISTICS AFFECTED BY RECLAIM AND IRRIGATION ACTIVITIES
+  abstract: The article is devoted to the changes in soil properties as a result of
+    the impact of irrigation and reclamation measures on irrigated lands of the Republic
+    and the optimal indicators of the main agro-climatic features.
+  keywords:
+    default:
+      keywords:
+        subject: Irrigation, reclamation regime, soil solution, drainage, groundwater,
+          automorph, hydromorph, bicarbonate.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-24'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7766315
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7766314
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shakhmaliyeva-S.:
+    individualname: Shakhmaliyeva, S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

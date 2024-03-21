@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3725015
+  dataseturi: https://doi.org/10.5281/zenodo.3725015
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: MECHANICAL CHARACTERISTIC OF FERRO LATERITE SOIL WITH CEMENT STABILIZATION
+    AS BASE MATERIAL
+  abstract: 'This study aimed to determine and evaluated the mechanical characteristic
+    of the potential ferro laterite soil with cement stabilization to be used as base
+    material. Ferro laterite soil obtained from three different sites at the East
+    Halmahera Regency. The sampling was process by conventional excavation on the
+    surface, soil sampling was inserted into the sample bag and labeling as LH1 for
+    first location, LH2 for the second location, and LH3 for a third location. Furthermore,
+    soil is prepared for physical properties test. The sampling results were tested
+    for physical properties of the soil according to ASTM and SNI standardization,
+    the testing includes: moisture content, particle size distribution, specific gravity,
+    and the Atterberg limits, as well as compaction test. Making of the soil test
+    specimen is done by mixing the ferro laterite soil with the addition of cement
+    in a composition of 3%, 5%, 7%, and 10% on the initial condition of maximum density
+    and optimum moisture content gained from standard Proctor test. Cylindrical test
+    specimen with dimensions H = 2D, then cured for 3, 7, 14, and 28 days before being
+    tested for soil compressive strength with UCS testing. The test results showed
+    that the ferro laterite soil stabilization with cement increases the compressive
+    strength for the three types of ferro laterite soil that is significantly until
+    the curing time of 28 days (73-357 kPa, 79-588 kPa, 62-450 kPa, respectively for
+    LH1, LH2 and LH3). Based on these test results, the ferro laterite soil has the
+    potential to be used as road base material and construction material, but it is
+    necessary to test in detail the physical model (prototype) prior to implementation
+    in the field.'
+  keywords:
+    default:
+      keywords:
+        subject: Mechanical characteristic, ferro laterite soil, cement stabilization,
+          base material
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-09-22'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3725015
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3725014
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saing-Zubair:
+    individualname: Saing, Zubair
+    role: creator
+    organization: Universitas Muhammadiyah Maluku Utara
+    url: https://orcid.org/0000-0002-6083-7457
+  Samang-Lawalenna:
+    individualname: Samang, Lawalenna
+    role: creator
+    organization: Universitas Hasanuddin
+    url: ''
+  Harianto-Tri:
+    individualname: Harianto, Tri
+    role: creator
+    organization: Universitas Hasanuddin
+    url: ''
+  Patanduk-Johannes:
+    individualname: Patanduk, Johannes
+    role: creator
+    organization: Universitas Hasanuddin
+    url: ''
+content_info: {}

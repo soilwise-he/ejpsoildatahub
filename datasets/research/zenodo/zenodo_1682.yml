@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3891711
+  dataseturi: https://doi.org/10.5281/zenodo.3891711
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Preprint
+identification:
+  title: COMPOSITION AND TURNOVER TIME OF ORGANIC MATTER IN SOIL FRACTIONS WITH DIFFERENT
+    MAGNETIC SUSCEPTIBILITY
+  abstract: "This is the pre-print version of the article \"COMPOSITION AND TURNOVER\
+    \ TIME OF ORGANIC MATTER IN SOIL FRACTIONS WITH DIFFERENT MAGNETIC SUSCEPTIBILITY\"\
+    \ published as final paper in Geoderma Volume 349, 1 September 2019, Pages 88-96\
+    \ https://doi.org/10.1016/j.geoderma.2019.04.042 <strong>Abstract</strong> The\
+    \ composition and turnover time (TT) of organic matter in soil fractions with\
+    \ different magnetic susceptibility were studied in a tropical primary forest\
+    \ in Ghana. The starting hypothesis was that soil organic matter (SOM) composition\
+    \ and properties depend on the magnetic susceptibility of the minerals SOM is\
+    \ associated with. Soil samples from 0-5, 5-15, 15-30, and 30-50 cm depth intervals\
+    \ were sieved to remove rock fragments (&gt; 2.0 mm) and then separated into two\
+    \ size fractions (0.5- 2.0 mm and &lt;0.5 mm) that were processed by a High Gradient\
+    \ Magnetic Separator (HGMS) to finally obtain four fractions with different size\
+    \ and/or magnetic susceptibility. All fractions were analysed for their mineral\
+    \ composition, 14C concentration, and spectroscopic properties of SOM (13C CPMAS\
+    \ NMR). From a mineralogical point of view, the magnetic (MA) fractions essentially\
+    \ differed from the nonmagnetic (NM) ones for a higher presence of oxides and\
+    \ kaolinite, which per se is non-magnetic. In terms of chemical composition of\
+    \ SOM, the MA fractions showed higher contribution of labile compounds than the\
+    \ NM ones. At all depths, the 14C concentration revealed shortest TT of SOM in\
+    \ the &lt;0.5 mm MA fraction and longest TT in the &lt;0.5 mm NM fraction, while\
+    \ the 0.5-2.0 mm fractions showed intermediate and similar TT\u2019s. At depths\
+    \ &lt;5 cm, the fine NM fraction was not significantly influenced by the carbon\
+    \ fixed after the 1950\u2019s (\u201Cbomb carbon\u201D), having TT of almost 1000\
+    \ years and suggesting that in this tropical soil some SOM can be stabilized also\
+    \ in relatively superficial horizons. Our findings support the hypothesis that\
+    \ minerals are driving factors of the fate of SOM. As a consequence, soil fractionation\
+    \ based on magnetic susceptibility might be a meaningful procedure for having\
+    \ insight into SOM dynamics."
+  keywords:
+    default:
+      keywords:
+        subject: Biogeochemistry
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3891711
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3891710
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Valentini-Riccardo:
+    individualname: Valentini Riccardo
+    role: creator
+  Chiti-Tommaso:
+    individualname: Chiti Tommaso
+    role: creator
+    organization: ''
+    url: ''
+  Certini-Giacomo:
+    individualname: Certini Giacomo
+    role: creator
+    organization: ''
+    url: ''
+  Marzaioli-Fabio:
+    individualname: Marzaioli Fabio
+    role: creator
+    organization: ''
+    url: ''
+  D'Acqui-Luigi-Paolo:
+    individualname: D'Acqui Luigi Paolo
+    role: creator
+    organization: ''
+    url: ''
+  Forte-Claudia:
+    individualname: Forte Claudia
+    role: creator
+    organization: ''
+    url: ''
+  Castaldi-Simona:
+    individualname: Castaldi Simona
+    role: creator
+    organization: ''
+    url: ''
+  Riccardo-Valentini:
+    individualname: Riccardo, Valentini
+    role: ''
+    organization: "Universit\xE0 degli studi della Tuscia"
+    url: https://orcid.org/0000-0002-6756-5634
+content_info: {}

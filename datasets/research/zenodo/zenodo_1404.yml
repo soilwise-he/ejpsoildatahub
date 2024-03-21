@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8054317
+  dataseturi: https://doi.org/10.5281/zenodo.8054317
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Optimized Workflow Framework in Construction Projects to Control the Environmental
+    Properties of Soil
+  abstract: "To optimize the workflow of civil engineering construction in a harbour,\
+    \ this paper developed a framework of the contaminant leaching assessment carried\
+    \ out on the stabilized/solidified dredged soil material. The specimens included\
+    \ the sampled sediments collected from the in situ fieldwork in Arendal and Kongshavn.\
+    \ The background levels of the concentration of pollutants were evaluated to assess\
+    \ the cumulative surface leaching of substances from samples over two months.\
+    \ The contamination of soil was assessed using a structured workflow scheme on\
+    \ the following toxic substances, heavy metals\u2014As, Pb, Cd, Cr, Hg, Ni, and\
+    \ Zn; organic compounds\u2014PAH-16 and PCB; and organotin compounds\u2014TBT.\
+    \ The numerical computation and data analysis were applied to the results of geochemical\
+    \ testing creating computerised solutions to soil quality evaluation in civil\
+    \ engineering. Data modelling enabled the estimation of leaching of the contaminants\
+    \ in one year. The estimated leaching of As is 0.9153 mg/m<sup>2</sup>, for Ni\u2014\
+    2.8178 mg/m<sup>2</sup>, for total PAH-16 as 0.0507 mg/m<sup>2</sup>, and for\
+    \ TBT\u20140.00061 mg/m<sup>2</sup> per year. The performance of the sediments\
+    \ was examined with regard to permeability through a series of the controlled\
+    \ experiments. The environmental engineering tests were implemented in the Swedish\
+    \ Geotechnical Institute (SGI) in a triplicate mode over 64 days. The results\
+    \ were compared for several sites and showed that the amount of As is slightly\
+    \ higher in Kongshavn than for Arendal, while the content of Cd, Cr, and Ni is\
+    \ lower. For TBT, the levels are significantly lower than for those at Arendal.\
+    \ The algorithm of permeability tests evaluated the safety of foundation soil\
+    \ for construction of embankments and structures. The optimized assessment methods\
+    \ were applied for monitoring coastal areas through the evaluated permeability\
+    \ of soil and estimated leaching rates of heavy metals, PHB, PACs, and TBT in\
+    \ selected test sites in harbours of southern Norway."
+  keywords:
+    default:
+      keywords:
+        subject: decontamination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-17'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8054317
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8050586
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: Lund University
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

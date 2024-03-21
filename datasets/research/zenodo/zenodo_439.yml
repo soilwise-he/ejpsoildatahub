@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6902834
+  dataseturi: https://doi.org/10.5281/zenodo.6902834
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analysis of actual loads in soil cultivation machines
+  abstract: In solving the problems of further development of the agricultural sector
+    of our country an important place is occupied by issues of increasing agricultural
+    production. Therefore, recently attention is paid to the problems of agricultural
+    engineering. New samples are made and machines for tillage are reconstructed,
+    measures are taken to increase the capacity and expand the technological capabilities
+    of factories - manufacturers of agricultural equipment. As a result, domestic
+    farmers are equipped with modern machines, designed and manufactured new models
+    of high-performance equipment. High productivity of tillage machines is achieved
+    mainly due to the increase in tillage speeds, width of the soil, etc. This leads
+    to a significant increase in the power parameters of the drives and, as a consequence,
+    to the high voltage of all elements of transmissions and working bodies. Recently,
+    the stresses in the transmissions when calculating the contact endurance using
+    a range of constant technological loads have increased by 30%, and the resistance
+    to fatigue wear of the teeth - by more than 50%. And although machine builders
+    have managed to increase the level of allowable stresses by about the same amount
+    during this period and thus seem to compensate for the growth of such design stresses,
+    spare parts costs have more than doubled in recent years, the number of failures
+    has doubled. The growth of agricultural production and supply of spare parts for
+    new equipment is outpacing the growth of production of the equipment itself. One
+    of the main reasons for this unfavorable situation is that the quantitative growth
+    of energy parameters of new equipment has led to qualitatively new problems in
+    the creation of agricultural equipment, to solve which the design practice was
+    unprepared. Agricultural machine builders have encountered a significant increase
+    in tillage machines for non-technological loads that exceed the established technological
+    ones. The creation of workable machines for tillage under conditions of intensive
+    loads has become an acute problem, the solution of which largely depends on the
+    technical and economic indicators of new and reconstructed machines.
+  keywords:
+    default:
+      keywords:
+        subject: tillage machines, operating loads, non-technological loads, working
+          bodies of the machine, spare parts, power parameters
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2021-03-22'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6902834
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6902833
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ryndyaev-V.I.:
+    individualname: Ryndyaev, V.I.
+    role: creator
+    organization: Luhansk National Agrarian University
+    url: https://orcid.org/0000-0002-0473-8059
+content_info: {}

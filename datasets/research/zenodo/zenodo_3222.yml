@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.160702
+  dataseturi: https://doi.org/10.5281/zenodo.160702
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: EFFECT OF PARTICLE SIZE DISTRIBUTION OF COHESION LESS SOILS AND PILE DIAMETERS
+    ON THE BEHAVIOR OF SOIL COLUMN INSIDE THE OPEN ENDED PIPE PILES UNDER DIFFERENT
+    SATURATION CONDITIONS
+  abstract: "&lt;p&gt;This research is conducted to study the effect different grain\
+    \ size distribution of cohesionless soils (i.e. fine, medium and coarse sand)\
+    \ \_and pipe pile diameters on the degree of soil plugging and plug length ratio\
+    \ under different saturation conditions (i.e. fully and partially saturated).&lt;/p&gt;\n\
+    \n&lt;p&gt;\_&lt;/p&gt;\n\n&lt;p&gt;Karbala sand, were used as a natural soil\
+    \ in the present study, it is poorly graded clean sand of rounded particles. The\
+    \ sandy soil is sieved to obtain a fine, medium and coarse graded according to\
+    \ (ASTM D 422-02)[3].&lt;/p&gt;\n\n&lt;p&gt;\_&lt;/p&gt;\n\n&lt;p&gt;The experimental\
+    \ model tests conducted on four open-ended steel pipe pile models with diameters\
+    \ of (25, 30, 35 and 41mm). embedded within different grain size distribution\
+    \ of sand prepared under fully and partially saturated conditions with predermined\
+    \ relative density of 65%. The unsaturated states were achieved by lowering of\
+    \ water table according to predetermined matric suction values of soils. The relationship\
+    \ between matric suction and depth of ground water table was measured in suction\
+    \ profile set by using three Tensiometers (IRROMETER). The soil, water characteristic\
+    \ curve (SWCC) was estimated by applying fitting methods through the program (Soil\
+    \ Vision).&lt;/p&gt;\n\n&lt;p&gt;The results shows that, the plug length ratio\
+    \ (PLR) (The proportion of a soil plug length to the pile penetration depth) which\
+    \ was measured for different pile diameters, and different grain size distribution\
+    \ in unsaturated conditions, for the same pipe pile diameter increase with increasing\
+    \ the matric suction values and the length of soil column inside the pipe pile\
+    \ increase gradually with the increasing of a piles diameter.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - pipe pile
+      - soil plug
+      - particle size distribution
+      - pile diameter
+      - partially saturated.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.160702
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahmood-R.-Mahmood*-Samer-J.-Abdullah-Qadir:
+    individualname: Mahmood R. Mahmood*, Samer J. Abdullah Qadir
+    role: creator
+content_info: {}

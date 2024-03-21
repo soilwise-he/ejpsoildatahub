@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10667090
+  dataseturi: https://doi.org/10.5281/zenodo.10667090
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Comparative Analysis of TPH Degradation Rate Kinetics in Amended Polluted
+    Soil
+  abstract: "ABSTRACT\n\nThe rate of Total Petroleum Hydrocarbon (TPH) degradation\
+    \ in soil amended with mash food wastes (MFW) and fish wastes (FW) was investigated\
+    \ in this study. Experimental analysis was performed for a period of 56 days,\
+    \ while samples were collected weekly for analysis. The first and second order\
+    \ kinetic models were applied to study the TPH degradation rate. The result revealed\
+    \ that the rate of TPH removed from the control sample was low compared to samples\
+    \ amended by MFW and FW. Over 90% of TPH was removed from the amended samples,\
+    \ while only about 48% was removed from sample under natural attenuation. Analysis\
+    \ of the 1st and 2nd order kinetic models showed high correlation coefficient,\
+    \ but the rate of TPH degradation was better interpreted by the second order kinetics.\
+    \ The 1st order degradation rate constant\_ were recorded as 0.0422day-1 and 0.0430day-1\
+    \ for soil amended by MFW and FW respectively, while in the 2nd order, the degradation\
+    \ rate constant were as 1.0 x 10-5 kg.mg-1.day-1. The rate of TPH degradation\
+    \ increased rapidly within the first 14 days to 237.961mg.kg-1.day-1 and 292.486mg.kg-1.day-1\
+    \ in soil amended by MFW, while in soil amended by FW, it increased to 225.386mg.kg-1.day-1\
+    \ and 262.390mg.kg-1.day-1 for the 1st and 2nd order models respectively. However,\
+    \ the rate of TPH also decreased sharply after attaining maximum rate. Conclusively,\
+    \ food and fish wastes are recommended for treatment of hydrocarbon polluted soil\
+    \ as they increase TPH degradation rate. Also, the models could be useful, especially\
+    \ during the design stage of a bioremediation process to predict the rate of TPH\
+    \ degradation and time to achieve the bioremediation."
+  keywords:
+    default:
+      keywords:
+        subject: Crude Oil, Food and Fish wastes, Bio-kinetics, TPH Degradation Rate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-06-30'
+    publication: '2020'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10667090
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10667089
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lloyd-Godpower-Amagbo:
+    individualname: Lloyd Godpower Amagbo
+    role: creator
+    organization: Department of Chemical and Petrochemical Engineering, Rivers State
+      University, P.M.B. 5080, Port Harcourt, Rivers State, Nigeria
+    url: ''
+  Grace-Orlunma-Chie-Amadi:
+    individualname: Grace Orlunma Chie-Amadi
+    role: creator
+    organization: Department of Chemical and Petrochemical Engineering, Rivers State
+      University, P.M.B. 5080, Port Harcourt, Rivers State, Nigeria
+    url: ''
+  Tornubari-Sunday-Piaro:
+    individualname: Tornubari Sunday-Piaro
+    role: creator
+    organization: Captain Elechi Amadi Polytechnics, Rumuola, Port Harcourt, Rivers
+      State, Nigeria
+    url: ''
+content_info: {}

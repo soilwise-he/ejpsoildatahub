@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8015031
+  dataseturi: https://doi.org/10.5281/zenodo.8015031
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Estimation of Soil Moisture Content in Oredo Local Government Area of Edo-State
+    Using Remote Sensing Technique: 2017 Study'
+  abstract: <em>Soil moisture estimation is essential for optimal water and soil resource
+    management. Surface soil moisture is an important variable in the natural water
+    cycle, which plays an important role in the global equilibrium of water and energy
+    due to its impact on hydrological, ecological and meteorological processes. Soil
+    moisture changes due to the variability of soil characteristics, topography, and
+    vegetation in time and place and affects vegetation distribution. Too little moisture
+    can result in yield loss and plant death and too much causes root disease and
+    wasted water. Soil moisture measurements are performed directly using in situ
+    methods and indirectly, using transfer functions or remote sensing. Since in-situ
+    measurements are usually costly and time-consuming in large areas, we can use
+    methods such as remote sensing to estimate soil moisture at very large scales.
+    The purpose of this study is to estimate soil moisture using land surface temperature.
+    In this work, ground temperature was calculated using Landsat-8 thermal infrared
+    band for Oredo Local Government Area and was used to estimate the soil moisture
+    of the study area using ArcGIS (Arc-map 10.2.2). The study revealed places with
+    low, moderate and high moisture contents with the moderate moisture index being
+    dominant in both seasons. This study will thus serve as a database that will enable
+    farmers to embark on precision farming with the local government area under investigation.
+    </em>
+  keywords:
+    default:
+      keywords:
+        subject: Soil moisture, LST, Landsat-8, NDVI, GIS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8015031
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8015030
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cosmas-C.-Oyibo--Mike-O.-Ikponmwen:
+    individualname: Cosmas C. Oyibo & Mike O. Ikponmwen
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

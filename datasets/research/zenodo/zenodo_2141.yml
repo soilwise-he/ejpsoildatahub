@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1461873
+  dataseturi: https://doi.org/10.5281/zenodo.1461873
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative Characteristics Of The Structures Of Soil Cover On The Western
+    And Eastern Parts Of Absheron
+  abstract: "A comparative description of the Absheron area with the use of previously\
+    \ collected material and data obtained from field studies was carried out. Field\
+    \ soil and laboratory and laboratory studies were conducted on Absheron. The relief\
+    \ plastics method has identified several types of soil cover structures and determined\
+    \ their soil composition. Based on the research, 11 types of soil cover structures\
+    \ were identified. In conclusion, the authors conclude that it is possible to\
+    \ prevent the waterlogging of Absheron\u2019s soils only if the groundwater level\
+    \ drops below the critical level. The solution for these purposes could be the\
+    \ construction of drainage. But given the complexity of the soil-meliorative state\
+    \ of Absheron, the physical\u2013geographical conditions, the diversity of the\
+    \ relief, it is not possible to recommend a single collector\u2013drainage system\
+    \ for the entire array. In some places, temporary open drainage can be built to\
+    \ lower the level of groundwater. It can be very local."
+  keywords:
+    default:
+      keywords:
+        subject: soil plasticity
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-10-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1461873
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1461872
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manafova-F.:
+    individualname: Manafova, F.
+    role: creator
+    organization: Institute Soilscience and Agrochemistry of Azerbaijan NAS
+    url: ''
+  Gasanova-K.:
+    individualname: Gasanova, K.
+    role: creator
+    organization: Institute Soilscience and Agrochemistry of Azerbaijan NAS
+    url: ''
+  Aslanova-G.:
+    individualname: Aslanova, G.
+    role: creator
+    organization: Institute Soilscience and Agrochemistry of Azerbaijan NAS
+    url: ''
+content_info: {}

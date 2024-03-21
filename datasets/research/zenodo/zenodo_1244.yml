@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7698312
+  dataseturi: https://doi.org/10.5281/zenodo.7698312
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Laboratory Experiments on Soil Stabilization to Enhance Strength Parameters
+    for Road Pavement
+  abstract: 'Clay soils can cause significant distress in road construction due to
+    their low strength. Stabilizing such soil improve with binder agents prior to
+    the geotechnical works can significantly its performance and ensure safety and
+    stability of roads while exploitation. This research envisaged the use of five
+    different binders (lime, energy fly ash, bio fly ash, slag, cement) as an additive
+    stabilizing agents to improve the strength parameters of soil as required in engineering
+    industry standards. The variations of strength was assessed using measurements
+    of P-wave velocity of the elastic waves propagating through soil specimens stabilized
+    by different combination of binders. Measurements were performed on 28 th day
+    of soil treatment. The best effects of added binders were noted in the following
+    combinations: cement / energy fly ash / bio fly ash (P-waves &gt;3100 m/s), followed
+    by combination lime / energy fly ash / GGBFS (P-waves &gt;2800 m/s) and cement
+    / lime / energy fly ash (P-waves &gt;2700 m/s). Adding lime is effective due to
+    its fixation and chemical bond with particles. The study contributes to the industrial
+    tests on soil strength for constructing roadbed.'
+  keywords:
+    default:
+      keywords:
+        subject: statistics
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7698312
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.2478/ttj-2023-0008
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7698311
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: "Lund University, Lunds Tekniska H\xF6gskola, Division of Building\
+      \ Materials"
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles, \xC9cole polytechnique de Bruxelles,\
+      \ Laboratory of Image Synthesis and Analysis (LISA)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

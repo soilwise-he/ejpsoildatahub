@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2544358
+  dataseturi: https://doi.org/10.5281/zenodo.2544358
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Allelopatic activity of soil in the Echinacea purpurea (L.) Moench and Silybum
+    marianum (L.) Gaertn. rizosphere
+  abstract: "Allelopatic activity of soil in the <em>Echinacea purpurea</em> (L.)\
+    \ Moench and <em>Silybum marianum</em> (L.) Gaertn is investigated. It is determined\
+    \ that the both species rhizospheric soil has high allelopathic activity. <em>Silybum\
+    \ marianum</em>\u2019s soil inhibits the development of the seedlings <em>Agropyron\
+    \ pectinatum</em> (M. Bieb.) Beauv. and is neutral for <em>Festuca regeliana</em>\
+    \ Pavl. It is shown growth stimulation of the seedlings <em>Agropyron pectinatum</em>\
+    \ and <em>Festuca regeliana</em> on the rizospheric soil of <em>Echinacea purpurea\
+    \ </em>that is shown expediency of that species joint sowing."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2011-12-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2544358
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2544357
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O.M.-Shevchuk:
+    individualname: O.M. Shevchuk
+    role: creator
+    organization: Donetsk Botanical Gardens, National Academy of Sciences of Ukraine,
+      Ukraine, Donetsk
+    url: ''
+  I.V.-Ahurova:
+    individualname: I.V. Ahurova
+    role: creator
+    organization: Donetsk Botanical Gardens, National Academy of Sciences of Ukraine,
+      Ukraine, Donetsk
+    url: ''
+  T.P.-Kokhan:
+    individualname: T.P. Kokhan
+    role: creator
+    organization: Donetsk Botanical Gardens, National Academy of Sciences of Ukraine,
+      Ukraine, Donetsk
+    url: ''
+content_info: {}

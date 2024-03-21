@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yaneva_2018
+  dataseturi: https://doi.org/10.3897/oneeco.3.e23156
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Assessment and mapping the dynamics of soil properties in selected forest
+    stands from the region of Central Balkan National Park in the context of ecosystem
+    services
+  abstract: "&lt;p&gt;Forests set natural conditions and embody a repository of biological\
+    \ diversity that represents a myriad of ecosystem services for human well-being.\
+    \ The spatial patterns and the forest ecosystems' dynamics over time make the\
+    \ forests of particular environmental significance for the provision of ecosystem\
+    \ services. The terrestrial biodiversity and the sustainable management strategies'\
+    \ demand for mapping and assessment of the dynamics for the condition of forest\
+    \ ecosystems by drawing attention to the soil properties. In order to take on\
+    \ that task, the data series obtained by the &lt;i&gt;International Co-operative\
+    \ Programme on Assessment and Monitoring of Air Pollution Effects on Forests&lt;/i&gt;\
+    \ (ICP Forests) for the period 1986\u20132016 were found as appropriate quantitative\
+    \ indicators that convey information about the ecosystem's capacity to provide\
+    \ certain regulating ecosystem services. The ICP Forests Level I sites, located\
+    \ in the Central Balkan region, provide consistent information, which is collected\
+    \ on a regular basis about observed forest stands.&lt;/p&gt;\n  &lt;p&gt;The primary\
+    \ focus of the present research is to conduct a biophysical assessment of the\
+    \ forest ecosystems and to define their overall condition regarding two time series\
+    \ \u2013 the periods 1992/1993 and 2015. This study attempts to introduce an innovative\
+    \ approach and aims at linking the existing ICP Forests network dataset with the\
+    \ ecosystem services concept and the identified spatial units from the CORINE\
+    \ Land Cover (CLC) polygons for the territory of Central Balkan National Park.\
+    \ On this basis and through the implementation of GIS techniques, the dynamics\
+    \ of soil properties in selected forest ecosystems was analysed with regard to\
+    \ their capacity to supply relevant ecosystems services, which were assessed and\
+    \ mapped. The biophysical data provides robust information on the ecosystem services\
+    \ and the results show the variations in the capacity of different forest sub-types\
+    \ to provide ecosystem services within a well-defined land cover unit. Additionally,\
+    \ the research work intended to review the generated outcomes with reference to\
+    \ the DPSIR (driver-pressure-state-impact-response) method by giving feedback\
+    \ on the changes in the terrestrial ecosystems in the last 25 years. Further application\
+    \ of the mapping approach in assisting the communication in the decision- making\
+    \ process is also discussed.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - ICP Forests Level I
+      - soil
+      - dynamics
+      - ecosystem services
+      - mapping
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Assessment and mapping the dynamics of soil properties in selected forest
+      stands from the region of Central Balkan National Park in the context of ecosystem
+      services
+    url: http://dx.doi.org/10.3897/oneeco.3.e23156
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Yaneva-Rositsa:
+    individualname: Yaneva, Rositsa
+    role: creator
+  Zhiyanski-Miglena:
+    individualname: Zhiyanski, Miglena
+    role: creator
+  Markoff-Ivailo:
+    individualname: Markoff, Ivailo
+    role: creator
+  Sokolovska-Maria:
+    individualname: Sokolovska, Maria
+    role: creator
+  Nedkov-Stoyan:
+    individualname: Nedkov, Stoyan
+    role: creator
+content_info: {}

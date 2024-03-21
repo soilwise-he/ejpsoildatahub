@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6348764
+  dataseturi: https://doi.org/10.5281/zenodo.6348764
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Thermal Diffusion of Aqueous Magnesium Chloride in an Acid Soil
+  abstract: Department of Agricultural Chemistry and Soil Science, Bidhan Chandra
+    Krishi Viswavidyalaya, Kalyani-741 235 <em>Manuscript received 5 November 1986,
+    revised 23 March 1988, accepted 1 June 1988</em> Thermal Diffusion of Aqueous
+    Magnesium Chloride in an Acid Soil.
+  keywords:
+    default:
+      keywords:
+        subject: temperature
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1988-08-31'
+    publication: '1988'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6348764
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6348763
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ANJAN-KARMAKAR:
+    individualname: ANJAN KARMAKAR
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5607090
+  dataseturi: https://doi.org/10.5281/zenodo.5607090
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Rate of changes of potassium and cationic micronutrients in submerged soil
+    affected by potassium and zinc interactions
+  abstract: "Department of Agricultural Chemistry &amp; Soil Science, Institute of\
+    \ Agricultural Science, University of Calcutta,<br> 51/2, Hazra Road, Kolkata-700\
+    \ 019, India<br> <em>E-mail</em> : priyamaroy@gmail.com<br> College of Agriculture,\
+    \ Orissa University of Agriculture and Technology, Bhubaneshwar-751 003,<br> Odisha,\
+    \ India Water Management Research Centre, Department of Agriculture, Ranaghat,<br>\
+    \ Government of West Bengal, India <em>Manuscript received 08 April 2015, revised\
+    \ 24 June 2015</em>, accepted 01 July 2015 The interaction study between potassium\
+    \ and zinc was conducted with an inceptisol under submerged soil condition at\
+    \ ambient laboratory conditions with their nine different treatment combinations.\
+    \ It was found that exchangeable K increased gradually till 42 days of incubation\
+    \ before decreasing and was maintained highest (189.20 mg kg<sup>\u20131</sup>)\
+    \ in the treatment T<sub>6</sub> where both K and Zn were applied combinedly at\
+    \ 60 and 5 mg kg<sup>\u20131</sup> respectively. But regarding changes with respect\
+    \ to the cationic micronutrients it was observed that the amount of Fe, Mn, Cu\
+    \ and Zn was highest with the values 152.94, 64.94, 2.64 and 10.18 mg kg<sup>\u2013\
+    1</sup> respectively in the treatment T9 where K and Zn were applied combinedly\
+    \ at their highest level (K @ 60 mg kg<sup>\u20131</sup> soil and Zn @ 10 mg kg<sup>\u2013\
+    1</sup> soil) at 42 days of incubation for Fe and Mn, 35 days of incubation for\
+    \ Cu and 14 days of incubation for Zn. From the present investigation it is concluded\
+    \ that both Zn and K has a positive synergistic effect on one another under submerged\
+    \ soil conditions."
+  keywords:
+    default:
+      keywords:
+        subject: zinc
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5607090
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5607089
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Priyama-Roy:
+    individualname: Priyama Roy
+    role: creator
+    organization: ''
+    url: ''
+  Ajit-Kumar-Dolui:
+    individualname: Ajit Kumar Dolui
+    role: creator
+  Mitali-Mandal:
+    individualname: Mitali Mandal
+    role: creator
+    organization: ''
+    url: ''
+  Satyajit-Sarkar:
+    individualname: Satyajit Sarkar
+    role: creator
+  Dilip-Kumar-Das:
+    individualname: Dilip Kumar Das
+    role: creator
+  Dolui-Ajit-Kumar:
+    individualname: Dolui, Ajit Kumar
+    role: ''
+    organization: ''
+    url: ''
+  Sarkar-Satyajit:
+    individualname: Sarkar, Satyajit
+    role: ''
+    organization: ''
+    url: ''
+  Das-Dilip-Kumar:
+    individualname: Das, Dilip Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

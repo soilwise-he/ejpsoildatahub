@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1071334
+  dataseturi: https://doi.org/10.5281/zenodo.1071334
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Tolerance Of Heavy Metals By Gram Positive Soil Bacteria
+  abstract: 'With the intention of screening for heavy metal
+
+    tolerance, a number of bacteria were isolated and characterized from
+
+    a pristine soil. Two Gram positive isolates were identified as
+
+    Paenibacillus sp. and Bacillus thuringeinsis. Tolerance of Cd2+, Cu2+
+
+    and Zn2+ by these bacteria was studied and found that both bacteria
+
+    were highly sensitive to Cu2+ compared to other two metals. Both
+
+    bacteria showed the same pattern of metal tolerance in the order Zn+
+
+    &gt; Cd2+ &gt; Cu2+. When the metal tolerance in both bacteria was
+
+    compared, Paenibacillus sp. showed the highest sensitivity to Cu2+
+
+    where as B. thuringiensis showed highest sensitivity to Cd2+ and Zn2+
+
+    .These findings revealed the potential of Paenibacillus sp. in
+
+    developing a biosensor to detect Cu2+ in environmental samples.'
+  keywords:
+    default:
+      keywords:
+        subject: tolerance.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-05-21'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1071334
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1071333
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.-V.-N.-Rathnayake:
+    individualname: I. V. N. Rathnayake
+    role: creator
+    organization: ''
+    url: ''
+  Mallavarapu-Megharaj:
+    individualname: Mallavarapu Megharaj
+    role: creator
+    organization: ''
+    url: ''
+  Nanthi-Bolan:
+    individualname: Nanthi Bolan
+    role: creator
+    organization: ''
+    url: ''
+  Ravi-Naidu:
+    individualname: Ravi Naidu
+    role: creator
+  Naidu-Ravi:
+    individualname: Naidu, Ravi
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

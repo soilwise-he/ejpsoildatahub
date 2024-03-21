@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3459073
+  dataseturi: https://doi.org/10.5281/zenodo.3459073
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Mapping Study of the soil occupation by vegetation in Filfila region (North-east-Algeria)
+  abstract: The aim of our work is to map land cover by vegetation in the Filfila
+    region (Skikda, north-east Algeria); in our study, we used aerial photos by ETM
+    + satellite LAND SAT7. The results were used to develop a physiognomic vegetation
+    map of the region (cork oak and zeen oak training, olive tree, dense scrub, clear
+    scrub, culture and urban). The digital terrain model obtained after processing
+    SETM data has established the slope map, 3D presentation, the map displays and
+    map elevations of the study area
+  keywords:
+    default:
+      keywords:
+        subject: Vegetation, GIS, Satellite Imagery, Landsat ETM + Land use, Aerial
+          photos
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-04-30'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3459073
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3459072
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Merniz-N:
+    individualname: Merniz N
+    role: creator
+    organization: Laboratory of development and valorization of plant genetic resources
+    url: ''
+  Hadef-A:
+    individualname: Hadef A
+    role: creator
+    organization: ''
+    url: ''
+  Rached-Kanouni-M:
+    individualname: Rached-Kanouni M
+    role: creator
+    organization: Department of Biology and Vegetal Ecology, Faculty of Natural sciences
+      and Life, Mentouri brother
+    url: ''
+  Alatou-D:
+    individualname: Alatou D
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

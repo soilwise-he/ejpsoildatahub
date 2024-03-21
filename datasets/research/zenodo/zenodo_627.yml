@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1488088
+  dataseturi: https://doi.org/10.5281/zenodo.1488088
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment Of Biological Availability Of Radionuclides In The Soil
+  abstract: "This article presents the results of the assessment of the biological\
+    \ availability of radionuclides in the soil. The object of this work is to identify\
+    \ the forms of cesium-137 in the soil and to establishing their quantitative ratio\
+    \ 30 years after the disaster at the Chernobyl nuclear power plant. We were determined\
+    \ the mobility of radiocaesium in the soil, a sequential extraction method was\
+    \ used. Research methods: Research revealed significant differences in the concentration\
+    \ of radiocaesium in the solvents used. The content of radiocaesium in the aqueous\
+    \ extract varied from 0.4 Bq to 5.5 Bq, ammonium acetate varied from 0.3 Bq to\
+    \ 2.8 Bq. The most significant radiocaesium transitions were observed using hydrochloric\
+    \ acid. When we were using 1M hydrochloric acid, radiocaesium content was (0.4\u2013\
+    4.2) Bq, at a concentration of 6M (2\u201388) Bq. Analysis of the dynamics of\
+    \ the content of radiocaesium in the aqueous extract indicates a decrease in the\
+    \ size of the radionuclide transition overall soils. \u0410verage rates for sandy\
+    \ loam were 2,3% and 1.8%, sandy soil 4.3% and 2.2%, and peat bog 0.8% and 0.3%\
+    \ for 2017\u20132018 years. For the ammonium acetate extract on sandy loops, there\
+    \ was an increase in the transition from 1.3% to 2.5%. On sand and peat, there\
+    \ was a decrease in availability, respectively (7.6\u20134.5)% and (1.8\u2013\
+    0.7)%. The radionuclide transition decreased from 2.9% to 2.2%, when extracting\
+    \ with hydrochloric acid (1M concentration) on sandy loam. On the sand revealed\
+    \ an increase in availability from 4.4% to 5.2%. Accessibility changes have occurred\
+    \ minimal, on the moor. Soil treatment with 6M hydrochloric acid increased the\
+    \ radionuclide transfer to sandy loam and peatlands. An increase in the amount\
+    \ of radiocaesium in 6=M acid means the further fixation of the radionuclide by\
+    \ the soil absorbing complex."
+  keywords:
+    default:
+      keywords:
+        subject: extract
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-11-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1488088
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1488087
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daineka-M.:
+    individualname: Daineka, M.
+    role: creator
+    organization: . Skorina Gomel State University
+    url: ''
+  Timofeev-S.:
+    individualname: Timofeev, S.
+    role: creator
+    organization: . Skorina Gomel State University
+    url: ''
+  Zhadko-S.:
+    individualname: Zhadko, S.
+    role: creator
+    organization: . Skorina Gomel State University
+    url: ''
+content_info: {}

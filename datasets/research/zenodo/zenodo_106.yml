@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1311039
+  dataseturi: https://doi.org/10.5281/zenodo.1311039
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Working paper
+identification:
+  title: Information Sheet 1.06 Soil Treatment
+  abstract: "Information sheet 1.06: Soil treatment\n\nThe document deals with the\
+    \ control of soil organisms by chemical and physical methods listed below:\n\n\
+    a) Fumigation; b) Heating; c) Solarisation; d) Flooding; e) Soil suppression;\
+    \ f) Augmentative Biological control; g) Biofumigation\n\nThis information sheet\
+    \ is a supporting document to Appendix A (\u2018Standardised checklist of risk\
+    \ reduction options\u2019) of the Guidance of the EFSA Plant Health Panel on quantitative\
+    \ pest risk assessment.\n\nEFSA PLH Panel (EFSA Panel on Plant Health), Jeger\
+    \ M, Bragard C, Caffier D, Candresse T, Chatzivassiliou E, Dehnen-Schmutz K, Gr\xE9\
+    goire J-C, Jaques Miret JA, MacLeod A, Navajas Navarro M, Niere B, Parnell S,\
+    \ Potting R, Rafoss T, Rossi V, Urek G, Van Bruggen A, Van der Werf W, West J,\
+    \ Winter S, Hart A, Schans J, Schrader G, Suffert M, Kert\xE9sz V, Kozelska S,\
+    \ Mannino MR, Mosbach-Schulz O, Pautasso M, Stancanelli G, Tramontini S, Vos S\
+    \ and Gilioli G, 2018. Guidance of the EFSA PLH Panel on quantitative pest risk\
+    \ assessment. EFSA Journal 2018;16(7):5350, 94 pp. doi:10.2903/j.efsa.2018.5350.\
+    \ Available online at https://doi.org/10.2903/j.efsa.2018.5350"
+  keywords:
+    default:
+      keywords:
+        subject: http://id.agrisemantics.org/gacs/C587
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    available: '2018-07-31'
+    accepted: '2018-07-31'
+    issued: '2018'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1311039
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.2903/j.efsa.2018.5350
+    type: WWW:LINK
+    title: IsCitedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.1175955
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  EFSA-Panel-on-Plant-Health:
+    individualname: EFSA Panel on Plant Health
+    role: creator
+  EFSA-Panel-On-Plant-Health:
+    individualname: EFSA Panel On Plant Health
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

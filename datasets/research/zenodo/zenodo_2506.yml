@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1039646
+  dataseturi: https://doi.org/10.5281/zenodo.1039646
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Soil As Natural Heat Resource For Very Shallow Geothermal Application: Laboratory
+    And Test Site Updates From Iter Project'
+  abstract: 'Nowadays renewable energy resources for heating/cooling residential and
+    tertiary buildings and agricultural<br>
+
+    greenhouses are becoming increasingly important. In this framework, a possible,
+    natural and valid alternative for<br>
+
+    thermal energy supply is represented by soils.<br>
+
+    In fact, since 1980 soils have been studied and used also as heat reservoir in
+    geothermal applications, acting as a<br>
+
+    heat source (in winter) or sink (in summer) coupled mainly with heat pumps.<br>
+
+    Therefore, the knowledge of soil thermal properties and of heat and mass transfer
+    in the soils plays an important<br>
+
+    role in modeling the performance, reliability and environmental impact in the
+    short and long term of engineering<br>
+
+    applications.<br>
+
+    However, the soil thermal behavior varies with soil physical characteristics such
+    as soil texture and water content.<br>
+
+    The available data are often scattered and incomplete for geothermal applications,
+    especially very shallow<br>
+
+    geothermal systems (up to 10 m depths), so it is worthy of interest a better comprehension
+    of how the different<br>
+
+    soil typologies (i.e. sand, loamy sand...) affect and are affected by the heat
+    transfer exchange with very shallow<br>
+
+    geothermal installations (i.e. horizontal collector systems and special forms).<br>
+
+    Taking into consideration these premises, the ITER Project (Improving Thermal
+    Efficiency of horizontal ground<br>
+
+    heat exchangers, http://iter-geo.eu/), funded by European Union, is here presented.<br>
+
+    An overview of physical-thermal properties variations under different moisture
+    and load conditions for different<br>
+
+    mixtures of natural material is shown, based on laboratory and field test data.
+    The test site, located in Eltersdorf,<br>
+
+    near Erlangen (Germany), consists of 5 trenches, filled in each with a different
+    material, where 5 helix have been<br>
+
+    installed in an horizontal way instead of the traditional vertical option.'
+  keywords:
+    default:
+      keywords:
+        subject: soil thermal properties; heat transfer; very shallow geothermal energy;
+          horizontal collectors
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-28'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1039646
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1039645
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Di-Sipio-Eloisa:
+    individualname: Di Sipio, Eloisa
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: https://orcid.org/0000-0001-5573-4261
+  Bertermann-David:
+    individualname: Bertermann, David
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: ''
+content_info: {}

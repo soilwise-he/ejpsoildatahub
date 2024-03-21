@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6302369
+  dataseturi: https://doi.org/10.5281/zenodo.6302369
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Photometric Determination of Trace Amount of Nitrate in Soil and Plant Samples
+    with Sulphosalicylic Acid
+  abstract: "Department of Chemistry, University of Burdwan, Burdwan-713 104<br> <em>Manuscript\
+    \ received 30 January 1984, accepted 8 November 1984</em> Sulfosalicylic acid\
+    \ gives a better sensitivity for the determination of nitrate in comparison to\
+    \ phenol-disulphonic acid. The sensitivity of the present method is 0.012 <em>\xB5\
+    </em>g<em> </em>nitrate cm<sup>-2</sup>. Beer's law is obeyed over the range 0.12\
+    \ -16.30 ppm with r.s.d.\xB1 0.12%. Tolerance limits, interferences and removal\
+    \ of different foreign ions have been studied. The method was employed for the\
+    \ analysis of nitrate in various soil and plant samples. The nitration product\
+    \ of sulphosalicylic acid has been isolated and characterised."
+  keywords:
+    default:
+      keywords:
+        subject: Sulphosalicylic Acid
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1985-01-31'
+    publication: '1985'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6302369
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6302368
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-P.-CHATTOPADHYAY:
+    individualname: S. P. CHATTOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  ARABINDA-K.-DAS:
+    individualname: ARABINDA K. DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

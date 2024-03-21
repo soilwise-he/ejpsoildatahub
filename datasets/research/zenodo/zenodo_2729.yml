@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7247155
+  dataseturi: https://doi.org/10.5281/zenodo.7247155
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of organic and inorganic fertilizers on sustainability of soil fertility
+    and grain yield in a rice-wheat system
+  abstract: This article 'Effect of organic and inorganic fertilizers on sustainability
+    of soil fertility and grain yield in a rice-wheat system' appeared in the International
+    Rice Research Notes series, created by the International Rice Research Institute
+    (IRRI) to expedite communication among scientists concerned with the development
+    of improved technology for rice and rice-based systems. The series is a mechanism
+    to help scientists keep each other informed of current rice research findings.
+    The concise scientific notes are meant to encourage rice scientists to communicate
+    with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Yields
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1997-05-01'
+    publication: '1997'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7247155
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7247154
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gupta-D.-K.:
+    individualname: Gupta, D. K.
+    role: creator
+    organization: ''
+    url: ''
+  Gupta-J.-P.:
+    individualname: Gupta, J. P.
+    role: creator
+    organization: ''
+    url: ''
+  Pura-R.-S.:
+    individualname: Pura, R. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

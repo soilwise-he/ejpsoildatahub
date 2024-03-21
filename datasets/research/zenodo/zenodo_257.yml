@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6443573
+  dataseturi: https://doi.org/10.5281/zenodo.6443573
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Exchange Behavior of Soil Organic Matter
+  abstract: "The equilibrium constants of exchange reaction in soil organ~c matter\
+    \ have been determined by means of the membrane electrodes. Humic acids and huma.tes\
+    \ have been isolated from Dehradun !and Assam soils. The equilibria have been\
+    \ investigated : a) 2 Humic acid\u2192CaCl<sub>2</sub>\\(\\rightleftharpoons\\\
+    )Ca-(Humate)<sub>2</sub>-2-HC1. b) 2 Humic acid\u2192BaCl<sub>2</sub>\\(\\rightleftharpoons\\\
+    )Ba-(Humate)<sub>2</sub>-2HC1. If <em>K<sub>F</sub></em> and <em>K<sub>B</sub></em>\
+    \ are equilibrium constants for forward and backward reactions it has been found\
+    \ that <em>K</em><sub>F</sub> \\(\\neq\\)= 1/K<sub>B</sub> which is due to hysteresis."
+  keywords:
+    default:
+      keywords:
+        subject: Humic acids
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1971-07-31'
+    publication: '1971'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6443573
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6443572
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-C.-Ghosh:
+    individualname: S. C. Ghosh
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-Mukherjee:
+    individualname: S. K. Mukherjee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

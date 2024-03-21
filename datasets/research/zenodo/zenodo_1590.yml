@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Shabani_2023
+  dataseturi: https://doi.org/10.1016/j.engstruct.2023.116589
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seismic assessment and strengthening of a historical masonry bridge considering
+    soil-structure interaction
+  abstract: '&lt;p&gt;A holistic methodology for developing the digital twins and
+    conducting seismic vulnerability assessments of masonry arch bridges is proposed
+    and applied to a historical stone masonry bridge. In this light, digital cameras,
+    drones, and 3D laser scanners were utilized for 3D geometric documentation of
+    the bridge. 3D finite element (FE) models were constructed and calibrated based
+    on the operational modal analysis results derived from the accelerometer sensors.
+    The fragility curves for different limit states were derived by performing a multi-stripe
+    analysis (MSA). The effect of soil-structure interaction (SSI) on the calibration
+    results and seismic response of the bridge was evaluated. The results of the visual
+    inspection, model calibration, and seismic analysis revealed that the central
+    pier and the arches are the most susceptible parts of the bridge. Therefore, three
+    strengthening techniques were proposed, and corresponding numerical models were
+    developed. The first model was developed by enhancing the mechanical properties
+    of the vulnerable parts of the bridge, and the two other models were built by
+    covering the central pier&rsquo;s outer surface with polyparaphenylene benzobisoxazole
+    (PBO) and carbon fiber-reinforced concrete mortar (FRCM) layers. Results revealed
+    that the strengthening techniques improved the seismic response of the bridge
+    when subjected to transverse seismic excitations. Negligible differences in the
+    displacement response and crack width of the strengthened models were observed
+    from the nonlinear dynamic analysis.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Digital twin
+      - Seismic fragility
+      - Masonry arch bridge
+      - Soil-structure interaction
+      - Operational modal analysis
+      - Seismic strengthening
+      - FRCM systems
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seismic assessment and strengthening of a historical masonry bridge considering
+      soil-structure interaction
+    url: http://dx.doi.org/10.1016/j.engstruct.2023.116589
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amirhosein-Shabani:
+    individualname: Amirhosein Shabani
+    role: creator
+  Mahdi-Kioumarsi:
+    individualname: Mahdi Kioumarsi
+    role: creator
+  Shabani-Amirhosein:
+    individualname: Shabani, Amirhosein
+    role: creator
+  Kioumarsi-Mahdi:
+    individualname: Kioumarsi, Mahdi
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

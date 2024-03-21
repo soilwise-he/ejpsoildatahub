@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: CHRISTIE_1918
+  dataseturi: https://doi.org/10.1097/00010694-191805000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE CHEMICAL EFFECTS OF CaO AND CaCO3 ON THE SOIL Part II. The Effect on
+    Water-Soluble Nutrients in Soils
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE CHEMICAL EFFECTS OF CaO AND CaCO3 ON THE SOIL Part II. The Effect on
+      Water-Soluble Nutrients in Soils
+    url: http://dx.doi.org/10.1097/00010694-191805000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Christie-A.-W.:
+    individualname: Christie, A. W.
+    role: creator
+  Martin-J.-C.:
+    individualname: Martin, J. C.
+    role: creator
+  CHRISTIE-A.-W.:
+    individualname: CHRISTIE, A. W.
+    role: creator
+  MARTIN-J.-C.:
+    individualname: MARTIN, J. C.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

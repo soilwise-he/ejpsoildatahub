@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3241241
+  dataseturi: https://doi.org/10.5281/zenodo.3241241
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phytotechnological foundations of fighting with allelopathic soil sickness
+    in Syringa vulgaris L. monocultural plantings
+  abstract: "<strong>Objective</strong> \u2013 to analyze the effect of brown mustard\
+    \ (<em>Brassica juncea</em> (L.) Czern.) and tyfon (<em>Brassica campestris</em>\
+    \ f. <em>biennis</em> DC. \xD7 <em>B. rapa</em> L.) as green-manure on the physiological\
+    \ state of plants, allelopathic and biochemical characteristics of the soil in\
+    \ monoculture conditions of lilac (<em>Syringa vulgaris</em> L.).\n\n<strong>Material\
+    \ and methods</strong>. Seedlings of lilac were grown for 18 months under greenhouse\
+    \ conditions in pots with gray forest soil after monoculture of <em>S. vulgaris</em>.\
+    \ Biomass of brown mustard and tyfon was added to the soil jointly and separately\
+    \ in different concentrations (2.5 and 5.0 % by soil weight). The allelopathic\
+    \ activity, redox potential, the content of phenolic compounds and humus in soil,\
+    \ the concentration of the main photosynthetic pigments in leaves and seedlings\
+    \ growth were determined.\n\n<strong>Results</strong>. Application of green-manure\
+    \ contributed to increased humification, reduced soil phytotoxicity and the content\
+    \ of phenolic compounds, optimization of redox processes, increased chlorophyll\
+    \ and carotenoids concentrations in the leaves, and stimulation of seedlings growth.\
+    \ The formation of adaptive reactions of the pigment complex aimed at stabilizing\
+    \ the photosynthetic apparatus was found.\n\n<strong>Conclusion</strong>. The\
+    \ positive influence of brown mustard and tyfon as green-manure on the allelopathic\
+    \ and biochemical characteristics of the soil, as well as the physiological state\
+    \ of <em>S. vulgaris</em> plants in the conditions of the allelopathic soil sickness\
+    \ was established."
+  keywords:
+    default:
+      keywords:
+        subject: photosynthetic pigments
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2019-06-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3241241
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3241240
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.A.-Pavliuchenko:
+    individualname: N.A. Pavliuchenko
+    role: creator
+    organization: ''
+    url: ''
+  N.I.-Dovhaliuk:
+    individualname: N.I. Dovhaliuk
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

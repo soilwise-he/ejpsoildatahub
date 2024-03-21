@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7341172
+  dataseturi: https://doi.org/10.5281/zenodo.7341172
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluate the Potential Radiological Risks Due to Gamma Emitting Radiation
+    from Soil Samples of Sunamganj area, Bangladesh
+  abstract: "Evaluate the Potential Radiological Risks Due to Gamma Emitting Radiation\
+    \ from Soil Samples of Sunamganj area, Bangladesh Jannatul Ferdous<sup>1*</sup>\
+    \ Eng. Md. Ashraful Islam<sup>2 </sup>and Md. Zakir Hossain<sup>1</sup> <sup>1</sup>Health\
+    \ Physics Division, Atomic Energy Centre, Dhaka <sup>2</sup>Construction of Rooppur\
+    \ NPP Project Site, Ishwardi, Pabna <sup>1</sup>*Corresponding author: ferdous28@yahoo.com,\
+    \ <sup>2</sup>Eng.ashraf@rooppurnpp.gov.bd, <sup>4</sup>zakir5378@yahoo.com <strong>Abstract</strong>\
+    \ The present research work is encouraged by the increasing demand of the data\
+    \ belonging to the earthly \u03B3-ray activities into the soil samples of haor\
+    \ area of Sunamgonj districts of Bangladesh. For measurements of naturally occurring\
+    \ radioactivity and artificial fall out, in the present work a total of 25 soil\
+    \ samples were collected from the eleven upazilas of this district. The samples\
+    \ were then prepared and irradiated for activity measurements using HPGe detecting\
+    \ system. The average concentration of radioactivity in soil samples for <sup>238</sup>U\
+    \ is 29.07\xB12.84 Bq kg<sup>-1</sup>, <sup>232</sup>Th is 26.15\xB12.34 Bq kg<sup>-1\
+    \ </sup>and <sup>40</sup>K is 346.33\xB132.66 Bq Kg<sup>-1</sup>, are below the\
+    \ world-wide average concentration value. No peak of man-made fission fragment\
+    \ <sup>137</sup>Cs (661.66 keV) was observed in the gamma-ray spectrum. The Radium\
+    \ Equivalent Activity, Dose Rate, External Hazard Index and Annual Effective Dose\
+    \ Equivalent for soil samples in Sunamgonj District has been estimated which are\
+    \ also comparable with worldwide average. The natural radioactivity in the present\
+    \ study poses no health-hazards to the population there. This study will be helpful\
+    \ to provide the possibility to accurately determine the public total effective\
+    \ dose rates due to natural radioactivity. <strong>Key word:</strong> Soil sample,\
+    \ HPGe detecting system, Activity concentration, Radiological hazards parameters.\
+    \ URL: https://www.ijlst.org/papers-published/ijlst-2022-volume-14-issue-3"
+  keywords:
+    default:
+      keywords:
+        subject: Soil sample, HPGe detecting system, Activity concentration, Radiological
+          hazards parameters.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7341172
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7341171
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jannatul-Ferdous:
+    individualname: Jannatul Ferdous
+    role: creator
+    organization: Health Physics Division, Atomic Energy Centre, Dhaka
+    url: ''
+  Eng.-Md.-Ashraful-Islam:
+    individualname: Eng. Md. Ashraful Islam
+    role: creator
+    organization: Construction of Rooppur NPP Project Site, Ishwardi, Pabna
+    url: ''
+  Md.-Zakir-Hossain:
+    individualname: Md. Zakir Hossain
+    role: creator
+    organization: Health Physics Division, Atomic Energy Centre, Dhaka
+    url: ''
+content_info: {}

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7000689
+  dataseturi: https://doi.org/10.5281/zenodo.7000689
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effective land preparation for wet seeding on a reclaimed saline soil in
+    Korea
+  abstract: This article 'Effective land preparation for wet seeding on a reclaimed
+    saline soil in Korea' appeared in the International Rice Research Notes series,
+    created by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Korea
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1999-04-01'
+    publication: '1999'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7000689
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7000688
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lee-K.-S.:
+    individualname: Lee, K. S.
+    role: creator
+    organization: ''
+    url: ''
+  Nam-J.-K.:
+    individualname: Nam, J. K.
+    role: creator
+    organization: ''
+    url: ''
+  Shin-H.-T.:
+    individualname: Shin, H. T.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

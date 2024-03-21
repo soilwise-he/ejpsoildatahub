@@ -1,0 +1,108 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1107589
+  dataseturi: https://doi.org/10.5281/zenodo.1107589
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Reviewing Soil Erosion In Greece
+  abstract: 'Mitigating soil erosion, especially in Mediterranean
+
+    countries such as Greece, is essential in order to maintain
+
+    environmental and agricultural sustainability. In this paper, scientific
+
+    publications related to soil erosion studies in Greece were reviewed
+
+    and categorized. To accomplish this, the online search engine of
+
+    Scopus was used. The key words were "soil", "erosion" and
+
+    "Greece." An analysis of the published articles was conducted at
+
+    three levels: i) type of publication, ii) chronologic and iii) thematic. A
+
+    hundred and ten publications published in scientific journals were
+
+    reviewed. The results showed that the awareness regarding the soil
+
+    erosion in Greece has increased only in the last decades. The
+
+    publications covered a wide range of thematic categories such as the
+
+    type of studied areas, the physical phenomena that trigger and
+
+    influence the soil erosion, the negative anthropogenic impacts on
+
+    them, the assessment tools that were used in order to examine the
+
+    threat and the proper management. The analysis of these articles was
+
+    significant and necessary in order to find the scientific gaps of soil
+
+    erosion studies in Greece and help enhance the sustainability of soil
+
+    management in the future.'
+  keywords:
+    default:
+      keywords:
+        subject: soil management.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-07-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1107589
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1107588
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Paschalis-Koutalakis:
+    individualname: Paschalis Koutalakis
+    role: creator
+  George-N.-Zaimes:
+    individualname: George N. Zaimes
+    role: creator
+  Valasia-Iakovoglou:
+    individualname: Valasia Iakovoglou
+    role: creator
+    organization: ''
+    url: ''
+  Konstantinos-Ioannou:
+    individualname: Konstantinos Ioannou
+    role: creator
+  Koutalakis-Paschalis:
+    individualname: Koutalakis, Paschalis
+    role: ''
+    organization: ''
+    url: ''
+  Zaimes-George-N.:
+    individualname: Zaimes, George N.
+    role: ''
+    organization: ''
+    url: ''
+  Ioannou-Konstantinos:
+    individualname: Ioannou, Konstantinos
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

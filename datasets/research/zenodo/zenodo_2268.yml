@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kaimov_2022
+  dataseturi: https://doi.org/10.15587/1729-4061.2022.253135
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Creation of an innovative robot with a gripper for moving plant microshoots
+    from the in vitro transport tank to the working tank with soil ground at the stage
+    of their adaptation in soil ground during microclonal reproduction
+  abstract: '&lt;p&gt;The industrial development of cities is the main cause of the
+    destruction and degradation of natural resources around the world. Urbanization
+    negatively affects the species composition of plants, the atmosphere and soil
+    cover of areas of populated areas of large cities of the World. Tree plantations
+    are the main mechanism for stabilizing the ecological situation in large cities
+    and arid territories of the countries of the World.&lt;/p&gt;
+
+
+    &lt;p&gt;In this regard, in order to obtain a large number of genetically identical
+    plants using their micropropagation, it is necessary to automate the main stages
+    of this technological process.&lt;/p&gt;
+
+
+    &lt;p&gt;The result of the study is the creation of an adaptive phalanx gripper
+    of a robotic complex for automating the technological process of handling operations.
+    That will have a positive effect on solving the urgent problem of planting greenery
+    in large cities and areas of arid territories not only in the Republic of Kazakhstan,
+    but also in other countries of the World and represents a fundamentally new approach
+    to solving the environmental problems of the Earth.&lt;/p&gt;
+
+
+    &lt;p&gt;The article substantiates various options for structural-kinematic schemes
+    of the robot gripper, taking into account the stochastic conditions of its interaction
+    with the overloaded object. Mathematical methods have been created for the selection
+    and justification of the geometric, structural-kinematic and dynamic parameters
+    of grippers for overloading plant microshoots and their computer 3D models. Software
+    has been developed for modeling the functioning of a remotely controlled physical
+    prototype of a mobile robot with an adaptive gripper for reloading microshoots
+    from a transport tank to a cargo tank.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - robot
+      - adaptive gripper
+      - Kalman coefficient
+      - microshoot overload
+      - plant micropropagation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Creation of an innovative robot with a gripper for moving plant microshoots
+      from the in vitro transport tank to the working tank with soil ground at the
+      stage of their adaptation in soil ground during microclonal reproduction
+    url: http://dx.doi.org/10.15587/1729-4061.2022.253135
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abylay-Kaimov:
+    individualname: Abylay Kaimov
+    role: creator
+  Suleimen-Kaimov:
+    individualname: Suleimen Kaimov
+    role: creator
+  Yerzhan-Syrgaliyev:
+    individualname: Yerzhan Syrgaliyev
+    role: creator
+  Amandyk-Tuleshov:
+    individualname: Amandyk Tuleshov
+    role: creator
+  Talgat-Kaiym:
+    individualname: Talgat Kaiym
+    role: creator
+  Aidarkhan-Kaimov:
+    individualname: Aidarkhan Kaimov
+    role: creator
+  Altynay-Primbetova:
+    individualname: Altynay Primbetova
+    role: creator
+  Vitaly-Gribanov:
+    individualname: Vitaly Gribanov
+    role: creator
+  Kaimov-Abylay:
+    individualname: Kaimov, Abylay
+    role: creator
+  Syrgaliyev-Yerzhan:
+    individualname: Syrgaliyev, Yerzhan
+    role: creator
+  Tuleshov-Amandyk:
+    individualname: Tuleshov, Amandyk
+    role: creator
+  Kaimov-Suleimen:
+    individualname: Kaimov, Suleimen
+    role: creator
+  Kaiym-Talgat:
+    individualname: Kaiym, Talgat
+    role: creator
+  Kaimov-Aidarkhan:
+    individualname: Kaimov, Aidarkhan
+    role: creator
+  Primbetova-Altynay:
+    individualname: Primbetova, Altynay
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7742015
+  dataseturi: https://doi.org/10.5281/zenodo.7742015
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Soil Health Indicators for Scotland: Soil Health Indicators reflecting the\
+    \ situation in Scotland \u2013 Are they working?"
+  abstract: A structured literature search was undertaken to assess suitable soil
+    health indicators covering soil chemistry, physics and biology for Scottish agricultural
+    system and climate. The outcomes were ranked for the number of times mentioned
+    and compared with a list of indicators created through a logical sieve method
+    from work with AHDB. The indicators compared well and the the indicator for soil
+    organic matter (SOM) was investigated in more detail to review the method, using
+    Soilfinder website information, to create bands of good, moderate and poor SOM
+    levels. This was after an outcome from a farmers meeting discussing soil quality
+    where SOM was raised as an important issue. The proposed method worked well for
+    most soil types but under estimated SOM in some grassland soils and gave never
+    wide bands for good in upland grass soils. These may need refinement.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Health, Indicators, Scotland
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7742015
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7742014
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hargreaves-Paul-R:
+    individualname: Hargreaves Paul R
+    role: creator
+    organization: SRUC
+    url: ''
+  Boyko-Rosie:
+    individualname: Boyko Rosie
+    role: creator
+  Watson-Christine:
+    individualname: Watson Christine
+    role: creator
+    organization: SRUC
+    url: ''
+  Rosie-Boyko:
+    individualname: Rosie, Boyko
+    role: ''
+    organization: SRUC
+    url: ''
+content_info: {}

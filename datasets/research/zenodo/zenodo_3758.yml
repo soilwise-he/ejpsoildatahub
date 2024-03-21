@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10622526
+  dataseturi: https://doi.org/10.5281/zenodo.10622526
+  datestamp: ''
+  hierarchylevel: journal
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Physico chemical analysis of soil samples from Sahur village, of Ashti Tahasil,
+    dist Wardha
+  abstract: The present study objectively conducted to analyze physico-chemical properties
+    of soil sample of Sahur village. The study area was divided into four sampling
+    stations to cover the whole farms of Sahur village Ashti tahsil comprehensively
+    in the April 2020. During the study Moisture, pH, EC, Carbon, Calcium carbonate,
+    TDS, Magnesium, Calcium, Nitrogen, Copper, Potassium and Phosphorous content,
+    were analyzed. The study revealed that the pH of the soil samples ranged from
+    7.70 to 8.4 and was on slightly alkaline side but within the limit of 6.5-8.5
+    which is optimum for crops. EC values ranged from 0.4ms to 0.8ms. and indicating
+    low salinity status of the soils. OC content ranged from 1.30% to 1.65% and all
+    the samples were of medium rating. Available nitrogen ranged from 245 kg/ha to
+    271kg/ha; available phosphorous ranged from 19.50kg/ha to 24.0 kg/ha and samples
+    were nitrogen and phosphorous deficient. Potassium ranged from 445 kg/ha to 645
+    kg/ha and samples were of medium rating except one sample of high rating with
+    respect to potassium.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-07'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10622526
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10622525
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Praful-Bhokare:
+    individualname: Praful Bhokare
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

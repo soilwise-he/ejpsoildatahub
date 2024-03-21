@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Everett_1862
+  dataseturi: https://doi.org/10.1017/s008045680001838x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "II.\u2014Investigation of an Expression for the Mean Temperature of a Stratum\
+    \ of Soil, in Terms of the Time of Year."
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "II.\u2014Investigation of an Expression for the Mean Temperature of a Stratum\
+      \ of Soil, in Terms of the Time of Year."
+    url: http://dx.doi.org/10.1017/s008045680001838x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Everett-Joseph-D.:
+    individualname: Everett, Joseph D.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

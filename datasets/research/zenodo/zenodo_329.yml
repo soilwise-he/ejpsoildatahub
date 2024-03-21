@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McCool_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010016x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Laboratory Methods of Value to Soil Survey
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Laboratory Methods of Value to Soil Survey
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010016x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McCool-M.-M.:
+    individualname: McCool, M. M.
+    role: creator
+  McCool-M.M.:
+    individualname: McCool, M.M.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

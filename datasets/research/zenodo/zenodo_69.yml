@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Moore_1912
+  dataseturi: https://doi.org/10.1126/science.36.932.609
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Microorganisms of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Microorganisms of the Soil
+    url: http://dx.doi.org/10.1126/science.36.932.609
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Moore-G.-T.:
+    individualname: Moore, G. T.
+    role: creator
+  Moore-George-T.:
+    individualname: Moore, George T.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

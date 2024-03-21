@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3532121
+  dataseturi: https://doi.org/10.5281/zenodo.3532121
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: LSC-BASED APPROACH FOR RADON IN SOIL GAS MEASUREMENTS
+  abstract: "Estimation of radon risk in soil gas is a preventive practice when building\
+    \ safe dwellings. We propose a method for measuring of 222Rn in soil gas based\
+    \ on liquid scintillation counting (LSC). A small-diameter hollow steel probe\
+    \ with a sharpened lower-end tip combined with a large-volume syringe (RADON v.o.s.,\
+    \ Czech Republic) is used as a soil gas sampling system. One measurement approach\
+    \ includes direct soil gas counting in a special LS vial coated inside with plastic\
+    \ scintillation material, MeltilexTM. Another approach is about 10 times more\
+    \ sensitive. It includes a radon trap-glass bubbler filled with a 20-mL portion\
+    \ of a toluene-based LS cocktail. After sampling, the LS solution is transferred\
+    \ into conventional vials for LS counting. The air inside the 150-mL syringe in\
+    \ both cases is blown through a vial or a bubbler. In the bubbler method, 3 portions\
+    \ of the air syringe volume are blown through the bubbler to make the method more\
+    \ reproducible. Rn sorption in the trap depends on the toluene and bubbler volumes,\
+    \ temperature, and humidity. In both measurement approaches, modern LSC measurement\
+    \ equipment with alpha/beta separation is used. The method was tested on Quantulus\
+    \ 1220TM and Triathler LS spectrometers. The described measurement approaches\
+    \ yielded count rates in the alpha window of 2.4 cpm for direct counting in Meltilex-coated\
+    \ vials and ~24 cpm when Rn is trapped in toluene, both corresponding to a concentration\
+    \ of 1 kBq m\u22123 for Rn in soil gas."
+  keywords:
+    default:
+      keywords:
+        subject: Triathler
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2008-06-01'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3532121
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3532120
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Buzinny-Michael:
+    individualname: Buzinny Michael
+    role: creator
+  Sakhno-Viktor:
+    individualname: Sakhno Viktor
+    role: creator
+    organization: The Marzeev Institute of public health
+    url: ''
+  Romanchenko-Maksim:
+    individualname: Romanchenko Maksim
+    role: creator
+    organization: The Marzeev Institute of public health
+    url: ''
+  Michael-Buzinny:
+    individualname: Michael, Buzinny
+    role: ''
+    organization: The Marzeev Institute of public health
+    url: https://orcid.org/0000-0003-2812-573X
+content_info: {}

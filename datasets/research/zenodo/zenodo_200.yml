@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5813348
+  dataseturi: https://doi.org/10.5281/zenodo.5813348
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOIL CONSERVATION TILLAGE IN CROP PRODUCTION
+  abstract: "In our region most classical authors held that the primary aim of cultivating\
+    \ soil was to meet crops requirements. In the late 19th century rendering the\
+    \ soil\u2019s fertile layer suitable for crop growing was considered to provide\
+    \ a good standing place for plants. The word suitable usually applied to the soil\
+    \ physical state, its favourably loose structure that was to be developed to the\
+    \ required depth. However, it was recognised by some authors back in the late\
+    \ 1800s already, that creating soil condition assumed to be required by plants\
+    \ may even damage the soil, what with the frequent traffic involved in the process.\
+    \ In other words, taking a crop oriented approach will rather do damage than good.\
+    \ In a regime of tillage focusing on conservation the need for protecting the\
+    \ soil is not subordinated to crops demands. Primarily importance is to create\
+    \ a soil condition required by crops takes a lot less energy and causes much less\
+    \ mechanical damage in a soil whose good structure and condition has been carefully\
+    \ preserved. In the second decade of the new millennium the primary goal of tillage\
+    \ is to create and maintain favourable interaction between soil conservation and\
+    \ cropping. The aim of soil conservation and environmental protection should realise\
+    \ depending on the effectiveness of the EU and national soil conservation endeavours\
+    \ and efforts and its duration should be determined by the extent to which such\
+    \ practices are adopted across the farming community."
+  keywords:
+    default:
+      keywords:
+        subject: Pannonian region
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-12-15'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5813348
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5813347
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MARTA-BIRKAS:
+    individualname: "M\xC1RTA BIRK\xC1S"
+    role: creator
+    organization: "Szent Istv\xE1n University G\xF6d\xF6ll\u0151, Faculty of Agricultural\
+      \ and Environmental Sciences, Hungary"
+    url: ''
+  MILAN-MESIC:
+    individualname: "MILAN MESI\u0106"
+    role: creator
+    organization: University of Zagreb, Faculty of Agriculture
+    url: ''
+  Vladimir-SMUTNY:
+    individualname: "Vladim\xEDr SMUTN\xDD"
+    role: creator
+  SMUTNY-Vladimir:
+    individualname: "SMUTN\xDD, Vladim\xEDr"
+    role: ''
+    organization: Mendel University Brno, Faculty of Agriculture
+    url: ''
+content_info: {}

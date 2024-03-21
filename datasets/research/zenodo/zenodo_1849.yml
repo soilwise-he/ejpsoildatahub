@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3470712
+  dataseturi: https://doi.org/10.5281/zenodo.3470712
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect of Mulching on Soil Moisture Retention and Yield of Lettuce (Lactuca
+    Sativa L.)
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>An experiment\
+    \ was conducted to evaluate the effectiveness of different mulching materials\
+    \ on soil moisture retention and yield of lettuce at the greenhouse located at\
+    \ Luyengo campus of the University of Eswatini during the months of January and\
+    \ February, 2019. The treatments consisted of grass mulch (GM), Plastic mulch\
+    \ (PM), leaf debris mulch (LM), and no mulch (NM) which was used as a control.\
+    \ Each of the treatments had four replications. The organic mulch was applied\
+    \ at a thickness of 10 cm, and the plots for experiments were randomly selected.\
+    \ Each plant received 600 cm<sup>3</sup> of water every 3 days using a homemade\
+    \ drip irrigation system (equivalent to 6 mm per irrigation circle). Data on soil\
+    \ moisture content was collected using the gravimetric method every 3 days (before\
+    \ irrigation).The growth parameters of the lettuce plants that were collected\
+    \ weekly were plant height, leaf number and leaf area. Both wet weight and dry\
+    \ weight yield were determined for each plot at the end of the experiment (six\
+    \ weeks after planting). Data collected was coded and entered into SPSS computer\
+    \ software. Data analysis was conducted using the analysis of variance (ANOVA)\
+    \ and the least significance difference (LSD) test to determine if means were\
+    \ significantly different. The results showed that GM treatment had high mean\
+    \ moisture retention at 9.3%. It was followed by PM and LM at 8.9%. The lowest\
+    \ moisture retention was realized from the control (No mulching) at 7.9%.The differences\
+    \ in mean moisture retention was significant between NM and NM (p&lt;0.05). The\
+    \ same pattern was observed for the growth parameters, where GN had highest values\
+    \ and the control had the lowest values. The wet mass yield was highest for GM,\
+    \ at 164.7 g. The yield from LM was 149.3 g. It was followed by PM at 141.3 g.\
+    \ The lowest yield was obtained from the control at 108 g. The difference in mean\
+    \ yields for GM and NM were significant (p&lt;0.05). They were not significantly\
+    \ different for all the other treatments (p&gt;0.050. It was concluded from the\
+    \ experiment that grass mulching resulted in improved moisture retention and high\
+    \ yields. </em>"
+  keywords:
+    default:
+      keywords:
+        subject: Drippers, irrigation, moisture, mulching, yield.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3470712
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3470711
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-T.-Mkhabela:
+    individualname: K. T. Mkhabela
+    role: creator
+    organization: ''
+    url: ''
+  M.V.-Dlamini:
+    individualname: M.V. Dlamini
+    role: creator
+    organization: ''
+    url: ''
+  A.M.-Manyatsi:
+    individualname: A.M. Manyatsi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

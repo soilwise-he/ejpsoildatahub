@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GREWES_1917
+  dataseturi: https://doi.org/10.1097/00010694-191709000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOME FACTORS INFLUENCING THE QUANTITATIVE DETERMINATION OF NITRIC NITROGEN
+    IN THE SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOME FACTORS INFLUENCING THE QUANTITATIVE DETERMINATION OF NITRIC NITROGEN
+      IN THE SOIL
+    url: http://dx.doi.org/10.1097/00010694-191709000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Grewes-J.-E.:
+    individualname: Grewes, J. E.
+    role: creator
+  Hirst-C.-T.:
+    individualname: Hirst, C. T.
+    role: creator
+  GREWES-J.-E.:
+    individualname: GREWES, J. E.
+    role: creator
+  HIRST-C.-T.:
+    individualname: HIRST, C. T.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

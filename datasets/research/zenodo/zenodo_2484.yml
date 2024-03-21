@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629921
+  dataseturi: https://doi.org/10.5281/zenodo.2629921
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil carbon storage as influenced by tree cover in the Dehesa cork oak silvopasture
+    of central-western Spain
+  abstract: "The extent of carbon (C) stored in soils depends on a number of factors\
+    \ including soil characteristics, climatic and other environmental conditions,\
+    \ and management practices. Such information, however, is lacking for silvopastoral\
+    \ systems in Spain. This study quantified the amounts of soil C stored at various\
+    \ depths (0\u201325, 25\u201350, 50\u201375, and 75\u2013100 cm) under a Dehesa\
+    \ cork oak (Quercus suber L.) silvopasture at varying distances (2, 5, and 15\
+    \ m) to trees. Soil C in the whole soil and three soil fractions (&lt;53, 53\u2013\
+    250, and 250\u20132000 mm) was determined. Results showed soil depth to be a significant\
+    \ factor in soil C stocks in all soil particle sizes. Distance to tree was a significant\
+    \ factor determining soil C stocks in the whole soil and the 250\u20132000 mmsoil\
+    \ fraction. To 1mdepth, mean total C storage at 2, 5, and 15m from cork oak was\
+    \ 50.2, 37, and 26.5 Mg ha1, respectively. Taking into account proportions of\
+    \ land surface area containing these C stocks at varying distances to trees to\
+    \ 1 m depth, with a tree density of 35 stems ha1, estimated landscape soil C is\
+    \ 29.9 Mg ha1. Greater soil C stocks directly underneath the tree canopy suggest\
+    \ that maintaining or increasing tree cover, where lost from disease or management,\
+    \ may increase long term storage of soil C in Mediterranean silvopastoral systems.\
+    \ The results also demonstrate the use of soil aggregate characteristics as better\
+    \ indicators of soil C sequestration potential and thus a tool for environmental\
+    \ monitoring."
+  keywords:
+    default:
+      keywords:
+        subject: silvopastoral systems
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-05-03'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629921
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629920
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  David-Scott-Howlett:
+    individualname: David Scott Howlett
+    role: creator
+  Gerardo-Moreno:
+    individualname: Gerardo Moreno
+    role: creator
+  Maria-Rosa-Mosquera-Losada:
+    individualname: Maria Rosa Mosquera Losada
+    role: creator
+  P.-K.-Ramachandran-Naira-and-Vimala-D.-Nair:
+    individualname: P. K. Ramachandran Naira and Vimala D. Nair
+    role: creator
+  Howlett-David-Scott:
+    individualname: Howlett, David Scott
+    role: ''
+    organization: ''
+    url: ''
+  Moreno-Gerardo:
+    individualname: Moreno, Gerardo
+    role: ''
+    organization: ''
+    url: ''
+  Losada-Maria-Rosa-Mosquera:
+    individualname: Losada, Maria Rosa Mosquera
+    role: ''
+    organization: ''
+    url: ''
+  P.-K.-Ramachandran-Naira-And-Vimala-D.-Nair:
+    individualname: P. K. Ramachandran Naira And Vimala D. Nair
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

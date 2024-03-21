@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6357104
+  dataseturi: https://doi.org/10.5281/zenodo.6357104
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Integrated Nutrient Supply to Soil for Soil Productivity
+  abstract: Shriram Khad Programme, Guru Angad Bhawan, 71, Nehru Place (Fifth Floor),
+    New Delhi-110 019 Integrated Nutrient Supply to Soil for Soil Productivity
+  keywords:
+    default:
+      keywords:
+        subject: potassium
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-04-30'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6357104
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6357103
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-P.-RAYCHAUDHURI:
+    individualname: S. P. RAYCHAUDHURI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

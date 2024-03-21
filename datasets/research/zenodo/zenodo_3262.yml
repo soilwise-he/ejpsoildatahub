@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8299616
+  dataseturi: https://doi.org/10.5281/zenodo.8299616
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Above- and Belowground Plant Production and Community structure in a mesic
+    semi-natural grassland: Moderate variation in soil texture has a much stronger
+    influence than long term Experimentally Increased Atmospheric Nitrogen Deposition'
+  abstract: "Atmospheric nitrogen (N) deposition derived from agricultural intensification\
+    \ and fossil fuel burning can significantly impact plant growth, species diversity,\
+    \ and nutrient cycling. Semi-natural grasslands are of particular concern because\
+    \ of their global abundance, relatively low intensity agricultural management,\
+    \ and consequently high plant and animal species diversity. However, the long-term\
+    \ consequences of enhanced atmospheric N deposition on semi-natural grasslands\
+    \ are difficult to predict because their responses to increased low-level N availability\
+    \ may be strongly influenced by factors such as soil texture that have not been\
+    \ investigated. Here, we investigated the impacts of 16 years of experimental\
+    \ N addition (simulating 2050 atmospheric N input rates) to a hayfield of varying\
+    \ loamy soil texture (clay-loam \u2013 sandy-loam) on plant community structure\
+    \ and above-and belowground biomass. The chronic low-level N addition treatment\
+    \ had no significant effects, while species richness, diversity, and aboveground\
+    \ growth were best explained by variation in soil water-filled pore space and\
+    \ were substantially larger on those plots with clay-rich soil texture.\_ The\
+    \ consistent lack of responses to the low-level N additions, as well as the lack\
+    \ of a growth response to a separate single year\u2019s factorial high-level N\
+    \ and phosphorus addition experiment, indicate that future atmospheric N deposition\
+    \ increases are unlikely to have major impacts on Ontario\u2019s hayfields. By\
+    \ contrast, the strong interconnected influences of soil clay content and water\
+    \ availability in our results suggest that texture variation \u2013 even within\
+    \ loamy soils - will be a primary determinant of the impacts of anticipated future\
+    \ summer warming and reduced rainfall on hayfield vegetation."
+  keywords:
+    default:
+      keywords:
+        subject: soil texture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-05'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8299616
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8299615
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hamp-Meghan:
+    individualname: Hamp, Meghan
+    role: creator
+    organization: University of Victoria
+    url: 0000-0003-0787-5347
+  Grogan-Paul:
+    individualname: Grogan, Paul
+    role: creator
+    organization: Queen's University
+    url: ''
+content_info: {}

@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bauerek_2022
+  dataseturi: https://doi.org/10.3390/su14084604
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Development of Soil Substitutes for the Sustainable Land Reclamation of Coal
+    Mine-Affected Areas
+  abstract:
+  - '&lt;p&gt;The main purpose of this paper was to outline a novel approach for the
+    use of industrial by-products generated in coal mines and coal-fired power plants
+    as the components for artificial soils. Several coal combustion by-products, coal
+    mine waste and organic waste materials were tested at laboratory scale for use
+    in the reclamation of areas degraded by coal mining activity. The role of artificial
+    soils was the land rehabilitation of the high acidic waste heap. The results revealed
+    that the amounts of organic matter (14.87&ndash;25.01%) and nutrients in the soil
+    substitutes were sufficient to support plant growth, i.e., N (0.37&ndash;0.51%),
+    P (0.23&ndash;0.47%), K (1.78&ndash;3.17%), Ca (4.93&ndash;8.39%) and Mg (1.16&ndash;1.71%).
+    A phytotoxicity test using white mustard (Sinapis alba) seeds under laboratory
+    conditions showed good germination results (56&ndash;66%) for three soil substitutes
+    that did not contain fly ash from biomass combustion, compared to the reference
+    soil (84%). The relationships established for the aqueous leachate parameters
+    of soil substitutes vs. the Sinapis alba germination revealed negative correlations
+    with electrical conductivity (r = &minus;0.88), SO4 2&minus; (r = &minus;0.91)
+    and Cl&minus; (r = &minus;0.70) ions; the two latter ones were responsible for
+    the salinity which hampered the germination process of the soil substitutes. Moreover,
+    quite similar correlations were obtained between the germination of Sinapis alba
+    and the trace elements of the soil substitutes: Fe (r = &minus;0.69), Cd (r =
+    &minus;0.72), Cu (r = &minus;0.80), Pb (r = &minus;0.78) and Zn (r = &minus;0.74).
+    However, negative and significant correlations in aqueous leachates were shown
+    only with Ni concentration (r = &minus;0.73). The relevance of these results for
+    the effect of salinity on germination and the early growth of S. alba was discussed
+    in detail and was confirmed with the Principal Component Analysis (PCA). The study
+    proved that the physicochemical characteristic of recycled wastes exhibited their
+    potential usefulness for the reclamation of affected areas.&lt;/p&gt;'
+  - This research was funded by the Research Fund for Coal and Steel (Grant Agreement
+    No. 847205 from 17 April 2019) and the Polish Ministry of Science and Higher Education
+    (Contract No. 5036/FBWiS/2019/2 from 17 December 2019) under the project RECOVERY
+    "Recovery of degraded and transformed ecosystems in coal mining-affected areas.
+  keywords:
+    default:
+      keywords:
+      - coal mining by-products
+      - spoil tips
+      - land rehabilitation
+      - Sinapis alba
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Development of Soil Substitutes for the Sustainable Land Reclamation of
+      Coal Mine-Affected Areas
+    url: http://dx.doi.org/10.3390/su14084604
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arkadiusz-Bauerek:
+    individualname: Arkadiusz Bauerek
+    role: creator
+  Jean-Diatta:
+    individualname: Jean Diatta
+    role: creator
+  Lukasz-Pierzchala:
+    individualname: "\u0141ukasz Pierzcha\u0142a"
+    role: creator
+  Angelika-Wieckol-Ryk:
+    individualname: Angelika Wieckol-Ryk
+    role: creator
+  Alicja-Krzemien:
+    individualname: "Alicja Krzemie\u0144"
+    role: creator
+  Bauerek-Arkadiusz:
+    individualname: Bauerek, Arkadiusz
+    role: creator
+  Diatta-Jean:
+    individualname: Diatta, Jean
+    role: creator
+  Pierzchala-Lukasz:
+    individualname: "Pierzcha\u0142a, \u0141ukasz"
+    role: creator
+  Wieckol-Ryk-Angelika:
+    individualname: "Wi\u0119ckol-Ryk, Angelika"
+    role: creator
+  Krzemien-Alicja:
+    individualname: "Krzemie\u0144, Alicja"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

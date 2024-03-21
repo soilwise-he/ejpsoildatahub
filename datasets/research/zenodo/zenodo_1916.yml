@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Go_b_2017
+  dataseturi: https://doi.org/10.1515/ffp-2017-0010
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Soil moisture variation on the outlet area of devices dewatering forest\
+    \ roads in Beskid S\u0105decki"
+  abstract: '&lt;p&gt;Water run-off &ndash; a natural part of water circulation in
+    the natural environment &ndash; is a harmful and undesired phenomenon for humans.
+    The most spectacular and most serious one is its erosive activity. In adverse
+    conditions, such a runoff has high energy, it causes serious reshaping of a terrain
+    and it destroys the natural environment and infrastructure. In the forest environment,
+    a run-off process occurs basically on roads, skidding trails and in log storage
+    sites, which are areas with soil cover properties changed by humans. The devices
+    used for dehydrating a transport system direct water collected in the form of
+    concentrated streams to a slope, which frequently causes serious linear damage
+    or landslides. The objective of the tests carried out was to determine the spatial
+    distribution of soil moisture on the area behind the outlet of devices dehydrating
+    forest roads within the context of changes in selected soil properties affecting
+    a risk of landslide formation.&lt;br&gt;
+
+    The tests included four water drains dehydrating a forest slope road with a soil
+    surface. In the area located behind the outlet, according to the model accepted,
+    soil samples were collected for testing a current moisture value, determining
+    grain composition and a hydraulic conductivity coefficient, calculated based on
+    the simplified Hazen formula.&lt;br&gt;
+
+    There were significant differences in the soil moisture means in the three-measurement
+    series conducted; nevertheless, the highest moisture means were obtained after
+    the lowest precipitation, and the lowest moisture means were obtained after the
+    highest precipitation. It applies to all water drains observed, separately and
+    collectively. Average moisture measures in all dehydrating facilities differed
+    among one another, although in different sessions, this dependence was observed
+    in various facility pairs. The statistical analysis did not demonstrate any significant
+    differences in moisture in terms of the distance of moisture testing location
+    from the road edge, or in locations with different distances from the water run-off
+    line behind the outlet of dehydrating devices. Significant differences could be
+    observed in the analysis of average moisture values in the soil layers.&lt;br&gt;
+
+    Such an analysis result could be explained by a relatively low soil permeability
+    and low slope gradient on the area examined. Usually, a few percent fluctuation
+    in soil moisture, despite precipitation diversity, in combination with a high
+    amount of granular soil structure, does not create conditions facilitating the
+    formation of landslides.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - area behind the outlet
+      - dehydrating devices
+      - landslide
+      - mountain forests
+      - slope roads
+      - soil moisture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Soil moisture variation on the outlet area of devices dewatering forest\
+      \ roads in Beskid S\u0105decki"
+    url: http://dx.doi.org/10.1515/ffp-2017-0010
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Janusz-Golab:
+    individualname: "Janusz Go\u0142\u0105b"
+    role: creator
+  Krzysztof-Urban:
+    individualname: Krzysztof Urban
+    role: creator
+  Elzbieta-Badach:
+    individualname: "El\u017Cbieta Badach"
+    role: creator
+  Golab-Janusz:
+    individualname: "Go\u0142\u0105b, Janusz"
+    role: creator
+  Urban-Krzysztof:
+    individualname: Urban, Krzysztof
+    role: creator
+  Badach-Elzbieta:
+    individualname: "Badach, El\u017Cbieta"
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

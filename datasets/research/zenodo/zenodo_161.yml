@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10277190
+  dataseturi: https://doi.org/10.5281/zenodo.10277190
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Soil Sentinel - Issue 5
+  abstract: Publication from the Healthy Soils project outlining soils research through
+    the Scottish Government Rural and Environment Science and Analytical Services
+    (RESAS) funded Strategic Research Programme. The Soil Sentinel will be published
+    every 4 months throughout the project duration, 2022-2027.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-05'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10277190
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10277189
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Loades-Kenneth:
+    individualname: Loades, Kenneth
+    role: creator
+    organization: James Hutton Institute
+    url: 0000-0003-2415-3549
+  Hargreaves-Paul:
+    individualname: Hargreaves, Paul
+    role: creator
+    organization: Scotland's Rural College
+    url: 0000-0002-3909-5225
+  Boldrin-David:
+    individualname: Boldrin, David
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: 0000-0001-9440-9680
+  Rees-Robert:
+    individualname: Rees, Robert
+    role: ProjectMember
+    organization: Scotland's Rural College
+    url: 0000-0003-1348-8693
+  Giles-Madeline:
+    individualname: Giles, Madeline
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Holden-Nicola:
+    individualname: Holden, Nicola
+    role: ProjectMember
+    organization: Scotland's Rural College
+    url: ''
+  Watson-Christine:
+    individualname: Watson, Christine
+    role: ProjectMember
+    organization: Scotland's Rural College
+    url: ''
+  Higgins-Gemma:
+    individualname: Higgins, Gemma
+    role: ProjectMember
+    organization: Scotland's Rural College
+    url: ''
+  MacFarlane-Fraser:
+    individualname: MacFarlane, Fraser
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Toca-Linda:
+    individualname: Toca, Linda
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Robb-Ciaran:
+    individualname: Robb, Ciaran
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Gimona-Alessandro:
+    individualname: Gimona, Alessandro
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Aitkenhead-Matt:
+    individualname: Aitkenhead, Matt
+    role: ProjectMember
+    organization: James Hutton Institute
+    url: ''
+  Artz-Rebekka:
+    individualname: Artz, Rebekka
+    role: ProjectMember
+    organization: James Hutton Institute Aberdeen
+    url: 0000-0002-8462-6558
+content_info: {}

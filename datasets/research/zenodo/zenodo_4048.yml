@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3269538
+  dataseturi: https://doi.org/10.5281/zenodo.3269538
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: ESTIMATION OF SOIL EROSION HAZARD IN SOME WADIS OF THE NORTH WESTERN COASTEGYPT
+    USING RUSLE MODEL AND GIS.
+  abstract: 'Assessment of soil erosion loss is useful in the development of plans
+    and protection for watershed and basins, causing this phenomenon of land degradation
+    and loss of nutrients and decrease of water available to plants. RUSLE model integrated
+    with GIS has been used to estimate soil loss in Wadi Umm Ashtan and Wadi Umm El-Rakham
+    basins located in the North West Coast (NWC) of Egypt. Annual rainfall data, digital
+    elevation model (DEM), land-use classification map and soil map were used to generate
+    the RUSLE parameters such as rainfall erosivity factor (R), Length slope factor
+    (LS), soil erodability factor (K), vegetation cover factor (C) and erosion control
+    factor (P). Depending on the results obtained, it was found that the highest value
+    of predicted soil erosion of wadi Umm Ashtan is 562.8 tone/ha/year. As for wadi
+    Umm El-Rakham, the highest value of predicted soil erosion is 211.6 tone/ha/year.
+    According to erosion hazard classification suggested by Singh et al. (1992), Soil
+    erosion of Wadi Umm Ashtan and Wadi Umm El-Rakham basins are classified into 6
+    classes: Slight (99.4% and 99.3% of total area respectively), moderate (0.4% and
+    0.6% of total area respectively), high (0.1% and 0.1% of total area respectively),
+    with very small areas of very high, severe and very severe classes. The results
+    can certainly aid in implementation of soil management and conservation practices
+    to reduce the soil erosion in Wadi Umm Ashtan and Wadi Umm El-Rakham basins.'
+  keywords:
+    default:
+      keywords:
+        subject: 'NWC: RS and GIS; Soil Loss; Soil erosion; RUSLE; Land Use Land Cover
+          map.'
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-06-10'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3269538
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3269537
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohamed.-M.-Shoman.:
+    individualname: Mohamed. M. Shoman.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

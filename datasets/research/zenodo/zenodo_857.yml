@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Keller_1997
+  dataseturi: https://doi.org/10.1016/s0016-7037(97)00085-9
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The nature and origin of rims on lunar soil grains
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The nature and origin of rims on lunar soil grains
+    url: http://dx.doi.org/10.1016/s0016-7037(97)00085-9
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keller-Lindsay-P.:
+    individualname: Keller, Lindsay P.
+    role: creator
+  McKay-David-S.:
+    individualname: McKay, David S.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

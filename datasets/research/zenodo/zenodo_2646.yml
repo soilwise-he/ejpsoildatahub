@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4718364
+  dataseturi: https://doi.org/10.5281/zenodo.4718364
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: "UNISECO H2020 policy brief: Improving soil properties on arable land by\
+    \ maintaining organic dairy farming in the Vyso\u010Dina region"
+  abstract: 'Policies can help strengthen the economic viability of organic dairy
+    farms and maintain their beneficial arable farming. (Policy brief of the Czech
+    case study in the H2020 UNISECO project) UNISECO is a European research project
+    aiming to develop innovative approaches to enhance the understanding of socio-economic
+    and policy drivers and barriers for further development and implementation of
+    agro-ecological practices in EU farming systems. Learn more about the project:
+    https://uniseco-project.eu/ This project has received funding from the European
+    Union''s H2020 research and innovation programme under grant agreement No 773901.
+    This publication reflects only the authors'' view and that the European Commission
+    is not responsible for any use that may be made of the information it contains.'
+  keywords:
+    default:
+      keywords:
+        subject: dairy farms
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-04-25'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4718364
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4718363
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hrabalova-Andrea:
+    individualname: "Hrabalov\xE1 Andrea"
+    role: creator
+    organization: Bioinstitut, o.p.s.
+    url: ''
+  Prazan-Jaroslav:
+    individualname: "Pra\u017Ean Jaroslav"
+    role: creator
+    organization: "\xDAZEI"
+    url: ''
+content_info: {}

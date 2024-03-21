@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1117104
+  dataseturi: https://doi.org/10.5281/zenodo.1117104
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Nacl Salinity In Genotypic Variation Of Maize (Zea Mays L.) During
+    Early Growth Stage In Low Land Soil Of Ethiopia
+  abstract: Salt stress is the main problem during crop production at the agricultural
+    land. This study was conducted to screen the maize genotypes for salt tolerance
+    under salt stress condition using agronomical traits. The pot experimental treatments
+    were used four NaCl salinity levels (0, 80, 160 and 240 mM) and nine maize genotypes
+    (61006, Mal-1, Mal.hybrid, 215065, MHQ, 207346, 227235, M-130 and 61036). It was
+    arranged in factorial Complete Randomize Design with three replicates. Data was
+    analyzed using SAS, SPSS and Minitab-6 statistical software and means were separated
+    by least significance difference (LSD). Eight agronomic traits (shoot length,
+    root length, shoot fresh weight, root fresh weight, shoot dry weight, root dry
+    weight, seedling root reduction and seedling shoot reduction) were measured. The
+    ANOVA for treatments of genotypes and their interaction was found to be highly
+    significant (p&lt;0.05) with regard to root fresh weight (RFW), shoot fresh weight
+    (SHFW), root dry weight (RDW), shoot dry weight (SHDW) and seedling root reduction
+    (SRR). Genotypes MHQ, 207346 and Mal.hybrid were found in a highly salt tolerant
+    during seedling growth stage. However, genotypes 227235 and 61006 were salt sensitive,
+    and the rest genotypes were intermediate in their salt tolerance. The correlation
+    analysis showed a highly positive significant correlation between shoot length
+    (SHL) and shoot fresh weight (SHFW). Cluster analysis was carried out to set genotypes
+    into different groups. The agronomical traits method was an effective, easy and
+    affordable technique for assessment of salt-tolerant genotypes which will be useful
+    for plant breeders.
+  keywords:
+    default:
+      keywords:
+        subject: Maize, NaCl, alinity, Seedling traits
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-15'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1117104
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1117103
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.T.K.Anandapandian:
+    individualname: K.T.K.Anandapandian
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

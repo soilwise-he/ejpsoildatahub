@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10478563
+  dataseturi: https://doi.org/10.5281/zenodo.10478563
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: HYGIENIC ANALYSIS OF SOIL COMPOSITION
+  abstract: This article provides information about the hygienic composition of the
+    soil and the diseases that occur in it.
+  keywords:
+    default:
+      keywords:
+        subject: soil composition, neutralization, hygienic importance, ecological,
+          organic matter, sanitary bacteriological, sanitary helminthological, hygienic
+          feature.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-01-10'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10478563
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10478562
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmedova-Saodat-Tashboltayevna:
+    individualname: Ahmedova Saodat Tashboltayevna
+    role: creator
+    organization: Termiz Branch of Tashkent Medical Academy Teacher of Microbiology,  Virology,
+      Immunology
+    url: ''
+  Xolbekov-Baxtiyor-Baymanovich:
+    individualname: Xolbekov Baxtiyor Baymanovich
+    role: creator
+    organization: Termiz Branch of Tashkent Medical Academy Teacher of Histology
+    url: ''
+  Tojiddinov-Davronbek-Ulug'bek-o'g'li:
+    individualname: Tojiddinov Davronbek Ulug'bek o'g'li
+    role: creator
+    organization: Student of the Termiz Branch of the Tashkent Medical Academy
+    url: ''
+content_info: {}

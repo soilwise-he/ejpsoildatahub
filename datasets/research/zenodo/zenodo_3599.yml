@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3566307
+  dataseturi: https://doi.org/10.5281/zenodo.3566307
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Pier Foundations for Onshore Wind Turbines in Non-cohesive
+    Soil
+  abstract: In non-cohesive soil, onshore wind turbines are often found on shallow
+    foundations with a circular or octagonal shape. For the current generation of
+    wind turbines, shallow foundations with very large breadths are required. The
+    foundation support costs thus represent a considerable portion of the total construction
+    costs. Therefore, an economic optimization of the type of foundation is highly
+    desirable. A conceivable alternative foundation type would be a pier foundation,
+    which combines the load transfer over the foundation area at the pier base with
+    the transfer of horizontal loads over the shaft surface of the pier. The present
+    study aims to evaluate the load-bearing behavior of a pier foundation based on
+    comprehensive parametric studies. Thereby, three-dimensional numerical simulations
+    of both pier and shallow foundations are developed. The evaluation of the results
+    focuses on the rotational stiffnesses of the proposed soil-foundation systems.
+    In the design, the initial rotational stiffness is decisive for consideration
+    of natural frequencies, whereas the rotational secant stiffness for a maximum
+    load is decisive for serviceability considerations. A systematic analysis of the
+    results at different load levels shows that the application of the typical pier
+    foundation is presumably limited to relatively small onshore wind turbines.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3566307
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3566306
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mauricio-Terceros:
+    individualname: Mauricio Terceros
+    role: creator
+  Jann-Eike-Saathoff:
+    individualname: Jann-Eike Saathoff
+    role: creator
+    organization: ''
+    url: ''
+  Martin-Achmus:
+    individualname: Martin Achmus
+    role: creator
+  Terceros-Mauricio:
+    individualname: Terceros, Mauricio
+    role: ''
+    organization: ''
+    url: ''
+  Achmus-Martin:
+    individualname: Achmus, Martin
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

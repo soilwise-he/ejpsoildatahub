@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sica_2023
+  dataseturi: https://doi.org/10.1016/j.jenvman.2023.117447
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Acidification and alkalinization pretreatments of biowastes and their effect
+    on P solubility and dynamics when placed in soil
+  abstract: '&lt;p&gt;&nbsp;Sustainability concerns as well as recent increases in
+    fertilizer prices exacerbates the need to optimise the use of biowastes as fertilizers.
+    For this reason, we investigated how different pretreatments affect the P dynamics
+    when biofertilizers are placed in the soil. Methods: Sewage sludge (SS), sewage
+    sludge ash (SS-ash), meat and bone meal (MBM), and the solid fraction of biogas
+    digestate (BGF) were pretreated with H2SO4, NaOH, and Ca(OH)2 and incubated for
+    2 and 12 days, respectively, in a one-dimensional reaction system for detailed
+    studies of the interactions in the biomaterial-soil interface and the soil adjacent
+    to the placement zone. Results: Our results showed that acidification and treatment
+    with NaOH increased the P solubility of the biomaterials. The P loss from the
+    biomaterial layer to the soil was correlated with water-extractable P in the biomaterials
+    (0.659) and water-extractable P in the soil (0.809). Acidification significantly
+    increased the total amount of P depleted from the biomaterial to the soil whereas
+    NaOH pre-treatment did not. However, for NaOH- treated SS and SS-ash, the apparent
+    recoveries were significantly higher compared to the acidification due to a decrease
+    in soil P sorption capacity as the soil pH increased due to residual alkalinity
+    in the biomaterials. Conclusions: Acidification showed promising results by increasing
+    the P solubility of all the biomaterials, and the alkalinization of SS and SS-ash
+    with NaOH by increasing the apparent recovery in the soil. However, further studies
+    are needed to assess the effects of these treatments on plant growth and P uptake.
+    &nbsp;&nbsp;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Acidification and alkalinization pretreatments of biowastes and their effect
+      on P solubility and dynamics when placed in soil
+    url: http://dx.doi.org/10.1016/j.jenvman.2023.117447
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sica-Pietro:
+    individualname: Sica, Pietro
+    role: creator
+  Kopp-Clara:
+    individualname: Kopp, Clara
+    role: creator
+  Muller-Stover-Dorette:
+    individualname: "M\xFCller-St\xF6ver, Dorette"
+    role: creator
+  Magid-Jakob:
+    individualname: Magid, Jakob
+    role: creator
+  Sica-P.:
+    individualname: Sica, P.
+    role: creator
+  Kopp-C.:
+    individualname: Kopp, C.
+    role: creator
+  Muller-Stover-D.S.:
+    individualname: "M\xFCller-St\xF6ver, D.S."
+    role: creator
+  Magid-J.:
+    individualname: Magid, J.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

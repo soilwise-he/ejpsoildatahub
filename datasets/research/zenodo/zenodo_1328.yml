@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7401688
+  dataseturi: https://doi.org/10.5281/zenodo.7401688
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Crop rotation influences yield more than soil quality at a semiarid location
+  abstract: 'This is the peer reviewed version of the following article: [Crop rotation
+    influences yield more than soil quality at a semiarid location. Agronomy Journal
+    114, 4 p2280-2289 (2022)], which has been published in final form at https://doi.org/10.1002/agj2.21097.
+    This article may be used for non-commercial purposes in accordance with Wiley
+    Terms and Conditions for Use of Self-Archived Versions: https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html#3.
+    <br><br>Deposited by shareyourpaper.org and openaccessbutton.org. We''ve taken
+    reasonable steps to ensure this content doesn''t violate copyright. However, if
+    you think it does you can request a takedown by emailing help@openaccessbutton.org.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    available: '2023-07-01'
+    accepted: '2022-07-01'
+    issued: '2022'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7401688
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1002/agj2.21097
+    type: WWW:LINK
+    title: IsIdenticalTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.7401687
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McVay-Kent:
+    individualname: McVay, Kent
+    role: creator
+    organization: ''
+    url: ''
+  Khan-Qasim-A.:
+    individualname: Khan, Qasim A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hwang_2017
+  dataseturi: https://doi.org/10.1099/ijsem.0.001568
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Flavobacterium eburneum sp. nov., isolated from reclaimed saline land soil
+  abstract: 'Hwang, Woon Mo, Kim, Dohak, Kang, Keunsoo, Ahn, Tae-Young (2017): Flavobacterium
+    eburneum sp. nov., isolated from reclaimed saline land soil. International Journal
+    of Systematic and Evolutionary Microbiology 67 (1): 55-59, DOI: 10.1099/ijsem.0.001568,
+    URL: http://dx.doi.org/10.1099/ijsem.0.001568'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Bacteroidetes
+      - Flavobacteriia
+      - Flavobacteriales
+      - Flavobacteriaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Flavobacterium eburneum sp. nov., isolated from reclaimed saline land soil
+    url: http://dx.doi.org/10.1099/ijsem.0.001568
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hwang-Woon-Mo:
+    individualname: Hwang, Woon Mo
+    role: creator
+  Kim-Dohak:
+    individualname: Kim, Dohak
+    role: creator
+  Kang-Keunsoo:
+    individualname: Kang, Keunsoo
+    role: creator
+  Ahn-Tae-Young:
+    individualname: Ahn, Tae-Young
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6420721
+  dataseturi: https://doi.org/10.5281/zenodo.6420721
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Nitrogen Fixation in Slightly Alkaline Soil in Presence of Calcium Salts
+  abstract: Department of Chemistry, University of Allahabad, Allahabad-2 <em>Manuscript
+    received 3 February 1972; accepted 12 January 1973</em> The effectiveness of eight
+    calcium salts viz., calcium carbonate, di-calcium phosphate, calcium oxide, calcium
+    sulphate, calcium sulphite, calcium sulphide, calcium acetate and calcium citrate
+    on nitrogen fixation in a slightly alkaline soil was observed. It was found that
+    the calcium salts, in general, enhance the nitrogen status of soil, the extent
+    being dependent on the presence or absence of soil moisture, time and the nature
+    of anionic parts of the calcium salts added.
+  keywords:
+    default:
+      keywords:
+        subject: soil moisture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1973-02-28'
+    publication: '1973'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6420721
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6420720
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+  SHARAFAT-ALI:
+    individualname: SHARAFAT ALI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

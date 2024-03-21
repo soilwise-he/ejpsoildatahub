@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10433307
+  dataseturi: https://doi.org/10.5281/zenodo.10433307
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Conservation Agriculture, A way for Soil & water Conservation
+  abstract: "Introduction\n\nConservation\_agriculture\_(CA) identified by the practice\
+    \ of minimum soil disturbance, diversified crop rotations, and maintenance of\_\
+    organic cover reinforces ecosystems services through a number of interrelated\
+    \ pathways. The production of food in CA reinforces the provision ecosystem services.\
+    \ The regulatory services such as carbon sequestration, climate regulation, and\
+    \ control of\_soil erosion are strengthened through conservation\_agriculture"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-26'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10433307
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10433306
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  The-Science-world-a-Monthly-e-magazine:
+    individualname: The Science world a Monthly e magazine
+    role: creator
+  Deepak-Prajapati-*-Amar-Singh-Gaur*-Jagannath-Pathak*-Krishnanand-Yadav*:
+    individualname: Deepak Prajapati *, Amar Singh Gaur*, Jagannath Pathak*, Krishnanand
+      Yadav*
+    role: creator
+  Anurag**:
+    individualname: Anurag**
+    role: creator
+  Deepak-Prajapati-*-Amar-Singh-Gaur*-Jagannath-Pathak*-Krishnanand-Yadav*-and-Anurag**:
+    individualname: Deepak Prajapati *, Amar Singh Gaur*, Jagannath Pathak*, Krishnanand
+      Yadav* and Anurag**
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

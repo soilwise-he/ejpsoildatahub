@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nugroho_2022
+  dataseturi: https://doi.org/10.11591/ijai.v11.i1.pp210-220
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Estimation of standard penetration test value on cohesive soil using artificial
+    neural network without data normalization
+  abstract: '&lt;p&gt;Artificial neural networks (ANNs) are often used recently by
+    researchers to solve complex and nonlinear problems. Standard penetration test
+    (SPT) and cone penetration test (CPT) are field tests that are often used to obtain
+    soil parameters. There have been many previous studies that examined the value
+    obtained through the SPT test with the CPT test, but the research carried out
+    still uses equations that are linear. This research will conduct an estimated
+    value of SPT on cohesive soil using CPT data in the form of end resistance and
+    blanket resistance, and laboratory test data such as effective overburden pressure,
+    liquid limit, plastic limit and percentage of sand, silt and clay. This study
+    used 242 data with testing areas in several cities on the island of Sumatra, Indonesia.
+    The developed artificial neural network will be created without data normalization.
+    The final results of this study are in the form of root mean square error (RMSE)
+    values 3.441, mean absolute error (MAE) 2.318 and R2 0.9451 for training data
+    and RMSE 2.785, MAE 2.085, R2 0.9792 for test data. The RMSE, MAE and R2 values
+    in this study indicate that the ANN that has been developed is considered quite
+    good and efficient in estimating the SPT value.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Artificial neural network
+      - Cohesive soil
+      - Cone penetration test
+      - Data normalization
+      - Standard penetration test
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Estimation of standard penetration test value on cohesive soil using artificial
+      neural network without data normalization
+    url: http://dx.doi.org/10.11591/ijai.v11.i1.pp210-220
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Soewignjo-Agus-Nugroho:
+    individualname: Soewignjo Agus Nugroho
+    role: creator
+  Hendra-Fernando:
+    individualname: Hendra Fernando
+    role: creator
+  Reni-Suryanita:
+    individualname: Reni Suryanita
+    role: creator
+  Nugroho-Soewignjo-Agus:
+    individualname: Nugroho, Soewignjo Agus
+    role: creator
+  Fernando-Hendra:
+    individualname: Fernando, Hendra
+    role: creator
+  Suryanita-Reni:
+    individualname: Suryanita, Reni
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

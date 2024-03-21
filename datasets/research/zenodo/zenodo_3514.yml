@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1072084
+  dataseturi: https://doi.org/10.5281/zenodo.1072084
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Leachate Generation From Landfill Lysimeter Using Different Types Of Soil
+    Cover
+  abstract: 'The objectives of this study are to determine the
+
+    effects of soil cover type on characteristics of leachates generated
+
+    from landfill lysimeters. Four lysimeters with diameter and height
+
+    of 0.15 and 3.00 m, respectively, were prepared. Three lysimeters
+
+    were filled with municipal waste and three different cover soil types
+
+    i.e. sandy loam soil, silty loam soil and clay soil while another
+
+    lysimeter was filled solely with municipal waste. The study was
+
+    conducted in the rainy season. Leachate quantities were measured
+
+    every day and leachate characteristics were determined once a week.
+
+    The cumulative leachate quantity from the lysimeter filled solely
+
+    with municipal waste was found to be around 27% higher than the
+
+    lysimeters using cover soils. There were no any differences of the
+
+    cumulative leachate amounts generated from the lysimeters using
+
+    three types of soils. The comparison of the total mass of pollutants
+
+    generated from all lysimeters showed that the lysimeter filled solely
+
+    with municipal waste generated the maximum quantities of
+
+    pollutants. Among the lysimeters using different types of soils, the
+
+    lysimeter using sandy loam soil generated the lowest amount of most
+
+    of pollutants, compared with the lysimeters using silty loam and clay
+
+    soils. It can be concluded that in term of pollutant attenuation in the
+
+    leachate, a sandy loam is the most suitable soil to be used as a cover
+
+    soil in the landfill.'
+  keywords:
+    default:
+      keywords:
+        subject: clay soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-03-26'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1072084
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1072083
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Karnchanawong:
+    individualname: S. Karnchanawong
+    role: creator
+    organization: ''
+    url: ''
+  P.-Yongpisalpop:
+    individualname: P. Yongpisalpop
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

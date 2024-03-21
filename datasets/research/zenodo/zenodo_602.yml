@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.823072
+  dataseturi: https://doi.org/10.5281/zenodo.823072
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis Of Pile Foundation Behaviour For Various Soil Condition
+  abstract: 'Pile foundation is used to transfer the ultimate load from the structure
+    to the foundation from soft soil strata to hard soil or rock. FEA model developed
+    to predict the response of pile in static and nonlinear dynamic analysis of pile
+    foundation in layered soil medium based on field data. In the first step static
+    analysis will be performed which were compared and validated with the analytical
+    result. Pile foundation are carried for the various soil condition in order to
+    prove its efficiency in the soil systems.
+
+
+    Numerical analysis has been carried out using FEA (NASTRAN) software, which will
+    be used to give load-displacement, stresses and response at pile. 20 node 3D element
+    used to model the pile, biased meshing will be used toward the pile to produce
+    accurate result in the region of interest. These stresses on the pile will be
+    predicted using the finite element method. FE methodology is more precise in predicting
+    the strength of the piles and foundations.'
+  keywords:
+    default:
+      keywords:
+        subject: component; FEA; Pile
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-07-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.823072
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.823071
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  L.M.Sardesai*-G.A.Kadam-D.T.Gawade:
+    individualname: L.M.Sardesai*, G.A.Kadam, D.T.Gawade
+    role: creator
+  L.M.Sardesai*-G.A.Kadam:
+    individualname: L.M.Sardesai*, G.A.Kadam
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

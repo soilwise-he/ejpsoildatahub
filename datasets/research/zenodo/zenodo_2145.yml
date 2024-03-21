@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5515322
+  dataseturi: https://doi.org/10.5281/zenodo.5515322
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation and Identification of Microorganisms from Soil Enriched With Different
+    Fertilizers in Field Cultivation with Rice
+  abstract: "<em>Microorganisms are able to convert fertilizers that contain nitrogen,\
+    \ phosphorous, potassium and minerals in the soil for their growth. Seven samples\
+    \ (Control, PU, GU+P&amp;K, PU+P&amp;K, GU+P&amp;K+FYM, PU+P&amp;K+FYM) of the\
+    \ post-planting soil of rice used for isolation and identification of bacteria\
+    \ and fungi. A total of five bacterial species were isolated from the experimental\
+    \ plots which include Dipiobacillus species, Streptococcus species, Streptobacillus\
+    \ species, Coccobaccillus species and Staphylococus species. Bacteria isolated\
+    \ were mainly rod and cocci in shape. Dipiobacillus spp and Streptobacillus spp\
+    \ have single arrangement and is Gram negative. Streptococcus spp and Coccobacillus\
+    \ spp have chain arrangement and is Gram positive. Staphylococcus spp are cluster\
+    \ in arrangement and is Gram positive. Total viable colony counts of the bacterial\
+    \ isolates ranged from 1.04 x 103 \u2013 9.60 x 103 and 1.40 x 105 \u2013 8.00\
+    \ x 105. A total of thirteen genera of fungi were isolated from plots treated\
+    \ with different fertilizers. The majority of isolates were members of the genus\
+    \ Phoma. The combination of inorganic and organic fertilizers significantly (p&lt;0.05)\
+    \ increased fungal counts over control (8.0x105) The control (zero application)\
+    \ had lower isolates due to no (fertilizer application) to the soil. The combination\
+    \ of inorganic and organic fertilizers significantly (p&lt;0.05) increased fungal\
+    \ counts over control (8.0x105).</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Bacteria, biofertilizer, Fungi, inorganic fertilizer, Isolation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-08-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5515322
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5515321
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dania-Stephen-Okhumata:
+    individualname: Dania Stephen Okhumata
+    role: creator
+  Edukpe-E.-I:
+    individualname: Edukpe, E. I
+    role: creator
+    organization: ''
+    url: ''
+  Dania-M.-I:
+    individualname: Dania, M. I
+    role: creator
+    organization: ''
+    url: ''
+  Okhumata-Dania-Stephen:
+    individualname: Okhumata, Dania Stephen
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

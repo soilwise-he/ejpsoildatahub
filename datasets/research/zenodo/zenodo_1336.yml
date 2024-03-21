@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8095112
+  dataseturi: https://doi.org/10.5281/zenodo.8095112
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Prediction of Pile Bearing Resistance in Multi-Layered Soil using Optimality
+    Criterion
+  abstract: "<em>This paper discusses the problem of designing a pile foundation in\
+    \ a multi-layered soil that optimizes the buckling load, taking into consideration\
+    \ the stiffness and frictional resistances of the soil strata. The optimality\
+    \ criteria method was applied in the context of Rayleigh\u2019s quotient, and\
+    \ solved for by variational principles with associated boundary conditions. The\
+    \ results revealed the minimum buckling load of the tapered pile on the multi-layered\
+    \ soil, the resultant effect on the elastic boundary condition. A numerical illustration\
+    \ is presented to emphasize the impact of the pile's tapering and shaft friction,\
+    \ soil non-uniformity, pile-soil stiffness, and the boundary condition at both\
+    \ ends of the pile. It is expected that the study will furnish geotechnical and\
+    \ structural engineers with a tool to easily predict strength improvements in\
+    \ pile foundations from any known layered soil medium</em><em>.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Elastic boundary conditions
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-29'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8095112
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8095111
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ike-V.I.:
+    individualname: Ike, V.I.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Engineering, Nigeria
+      Maritime University, Okerenkoko, Warri, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sallam_2020
+  dataseturi: https://doi.org/10.35940/ijeat.E9765.069520
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Application of Remote Sensing and Geo Statistical Analysis for Soil Salinity
+    Monitoring in Tina Plain Area of Egypt
+  abstract: '&lt;p&gt;In Egypt require to improve agricultural production to save
+    food demand with increase population. Soil salinity is a significant attractive
+    problem for agriculture in irrigated areas. As a result, monitoring of soil salinity
+    is required for salinization control. One of the greatest challenges faced by
+    Egypt&rsquo;s decision-makers is the acquisition of reliable integrated soil salinity
+    information to introduce and recommendation of a simple approach to formulating
+    a guideline for stakeholders. Saline affected areas are vast, making it extremely
+    difficult to examine soil quality with field and laboratory data to provide reliable
+    approach to forecast and monitor soil salinity. Objective of this paper is to
+    research remote sensing and ArcGIS tools by Geo-Statistical Analyst techniques
+    to map saline-sodic heavy clay soils of the Tina plain area in Egypt. Tina Plain
+    characterizes a serious area for potential development of agricultural land in
+    Egypt. Satellite images were downloaded by Landsat 8, Sentinel-2A, Sentinel-1,
+    and Synthetic Aperture Radar C-band data were wont to map soil salinity within
+    the area. By coefficient of correlation method were preformed, evaluated and compared
+    of the Three models. The results revealed that the Sentinel-2A optical imaging
+    satellite yielded the very best prediction performance. ArcGIS Geo-Statistical
+    Analyst was also successfully wont to predict and map the saline-sodic heavy clay
+    soils with a mistake percentage of about 4.28%, which is taken into account as
+    a minor error. generally, the study confirms that the Remote Sensing and ArcGIS
+    Geo-Statistical Analyst are often considered by researchers and decision-makers
+    as a credible, cost-effective, and time-controlled techniques to work out and
+    predict the extension of soil salinity.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil Salinity
+      - Remote Sensing
+      - Geo-statistical Analyst
+      - ArcGIS.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Application of Remote Sensing and Geo Statistical Analysis for Soil Salinity
+      Monitoring in Tina Plain Area of Egypt
+    url: http://dx.doi.org/10.35940/ijeat.E9765.069520
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gehan-A.H.-Sallam:
+    individualname: Gehan A.H. Sallam
+    role: creator
+  Mohamed-Embaby:
+    individualname: Mohamed Embaby
+    role: creator
+  Mohamed-Nower:
+    individualname: Mohamed Nower
+    role: creator
+  Sallam-Gehan-A.H.:
+    individualname: Sallam, Gehan A.H.
+    role: creator
+  Embaby-Mohamed:
+    individualname: Embaby, Mohamed
+    role: creator
+  Nower-Mohamed:
+    individualname: Nower, Mohamed
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

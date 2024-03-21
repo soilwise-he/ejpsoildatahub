@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1135358
+  dataseturi: https://doi.org/10.5281/zenodo.1135358
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil-Structure Interaction Effects On Seismic Behaviour Of Base-Isolated
+    Nuclear Power Plants
+  abstract: The soil-structure interaction effects between the structure and its geological
+    medium become important for massive structures such as nuclear power plants. The
+    present study investigates the effects of soil-structure interaction (SSI) on
+    the seismic responses of base-isolated nuclear power plant (NPP). A comparison
+    between seismic performances of the base-isolated NPP and rigidly fixed NPP to
+    the ground is examined considering SSI effects. In this study, a nuclear power
+    plant structure with total height of 65.8m is modelled as a lumped mass stick
+    model and seismic isolation system is adopted by using lead rubber bearing (LRB)
+    isolation device. To incorporate SSI effects the underlying soil medium is assumed
+    as a homogenous half-space and modelled by the concept of cone models. Moreover,
+    two shear wave velocities are used in SSI system to represent the real rock site
+    conditions of NPP structures. The results leading to conclude that the effects
+    of SSI on seismic performances of the base-isolated NPP are negligible than the
+    rigidly fixed NPP rested on rock sites.
+  keywords:
+    default:
+      keywords:
+        subject: Seismic Responses
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-05'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1135358
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1135357
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ALI-S.-B.:
+    individualname: ALI, S. B.
+    role: creator
+    organization: Institute of Earthquake Engineering Research (IEER), Chittagong
+      University of Engineering & Technology, Chittagong, Bangladesh
+    url: ''
+  KIM-D.:
+    individualname: KIM, D.
+    role: creator
+    organization: Department of Civil and Environmental Engineering, Kunsan National
+      University, Gunsan, South Korea
+    url: ''
+content_info: {}

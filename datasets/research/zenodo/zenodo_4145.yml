@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132329
+  dataseturi: https://doi.org/10.5281/zenodo.1132329
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Total And Leachable Concentration Of Trace Elements In Soil Towards Human
+    Health Risk, Related With Coal Mine In Jorong, South Kalimantan, Indonesia
+  abstract: "Coal mining is well known to cause considerable environmental impacts,\
+    \ including trace element contamination of soil. This study aimed to assess the\
+    \ trace element (As, Cd, Co, Cu, Ni, Pb, Sb, and Zn) contamination of soil in\
+    \ the vicinity of coal mining activities, using the case study of Asam-asam River\
+    \ basin, South Kalimantan, Indonesia, and to assess the human health risk, incorporating\
+    \ total and bioavailable (water-leachable and acid-leachable) concentrations.\
+    \ The results show the enrichment of As and Co in soil, surpassing the background\
+    \ soil value. Contamination was evaluated based on the index of geo-accumulation,\
+    \ <em>I<sub>geo</sub></em> and the pollution index, <em>PI</em>. <em>I<sub>geo</sub></em>\
+    \ values showed that the soil was generally uncontaminated (<em>I<sub>geo</sub></em>\
+    \ \u2264 0), except for elevated As and Co. Mean <em>PI</em> for Ni and Cu indicated\
+    \ slight contamination. Regarding the assessment of health risks, the Hazard Index,\
+    \ <em>HI</em> showed adverse risks (<em>HI</em> &gt; 1) for Ni, Co, and As. Further,\
+    \ Ni and As were found to pose unacceptable carcinogenic risk (<em>risk</em> &gt;\
+    \ 1.10<sup>-5</sup>). Farming, settlement, and plantation were found to present\
+    \ greater risk than coal mines. These results show that coal mining activity in\
+    \ the study area contaminates the soils by particular elements and may pose potential\
+    \ human health risk in its surrounding area. This study is important for setting\
+    \ appropriate countermeasure actions and improving basic coal mining management\
+    \ in Indonesia."
+  keywords:
+    default:
+      keywords:
+        subject: trace elements.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-08-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132329
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132328
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arie-Pujiwati:
+    individualname: Arie Pujiwati
+    role: creator
+  Kengo-Nakamura:
+    individualname: Kengo Nakamura
+    role: creator
+  Noriaki-Watanabe:
+    individualname: Noriaki Watanabe
+    role: creator
+  Takeshi-Komai:
+    individualname: Takeshi Komai
+    role: creator
+  Pujiwati-Arie:
+    individualname: Pujiwati, Arie
+    role: ''
+    organization: ''
+    url: ''
+  Nakamura-Kengo:
+    individualname: Nakamura, Kengo
+    role: ''
+    organization: ''
+    url: ''
+  Watanabe-Noriaki:
+    individualname: Watanabe, Noriaki
+    role: ''
+    organization: ''
+    url: ''
+  Komai-Takeshi:
+    individualname: Komai, Takeshi
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

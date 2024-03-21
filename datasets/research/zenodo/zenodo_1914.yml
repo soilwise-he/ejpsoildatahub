@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8320914
+  dataseturi: https://doi.org/10.5281/zenodo.8320914
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: ESA Climate Change Initiative Plus Soil Moisture Product User Guide (PUG)
+    Supporting Product Version v08.1
+  abstract: "This Product User Guide (PUG) provides the specifications of the ESA\
+    \ CCI Soil Moisture (SM) v08.1 product. The targeted audience of this document\
+    \ is mainly the product users. The ESA CCI SM v08.1 product consists of three\
+    \ surface soil moisture data sets: The \u201CACTIVE Product\u201D and the \u201C\
+    PASSIVE Product\u201D were created by fusing scatterometer and radiometer soil\
+    \ moisture products, respectively; The \u201CCOMBINED Product\u201D is a blended\
+    \ product based on the former two data sets. Data files are provided as NetCDF-4\
+    \ classic format and comprise global merged surface soil moisture datasets at\
+    \ daily temporal resolution. The data set spans over 40 years covering the period\
+    \ from November 1978 to December 31st 2022. This document forms the deliverable\
+    \ D4.2 Version 1, Product Users Guide (PUG) and was compiled for the European\
+    \ Space Agency (ESA) Climate Change Initiative Plus Soil Moisture Project (ESRIN\
+    \ Contract No: 4000126684/19/I-NB: \u201DESA CCI+ Phase 1 New R&amp;D on CCI ECVS\
+    \ Soil Moisture\u201D). This document supports CCI SM product version v08.1"
+  keywords:
+    default:
+      keywords:
+        subject: SM product version v08.1
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-08'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8320914
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8320913
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  van-der-Schalie-Robin:
+    individualname: van der Schalie, Robin
+    role: creator
+    organization: Planet
+    url: ''
+  Preimesberger-Wolfgang:
+    individualname: Preimesberger, Wolfgang
+    role: creator
+    organization: TU Wien
+    url: ''
+  Pasik-Adam:
+    individualname: Pasik, Adam
+    role: creator
+    organization: TU Wien
+    url: ''
+  Scanlon-Tracy:
+    individualname: Scanlon, Tracy
+    role: creator
+    organization: TU Wien
+    url: ''
+content_info: {}

@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8421936
+  dataseturi: https://doi.org/10.5281/zenodo.8421936
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of parameterisation approaches for estimating soil hydraulic parameters
+    with HYDRUS-1D in the groundnut basin of Senegal
+  abstract: "Soil hydraulic parameters (SHPs) required as inputs for numerical models\
+    \ are scarce in Sahelian regions. Instead, they are estimated using pedotransfer\
+    \ functions (PTFs), but their ability to simulate soil water dynamics has not\
+    \ been evaluated. This study aims to parameterize SHPs with seven different PTFs\
+    \ and inverse modelling to examine their ability to simulate water fluxes in Senegal\u2019\
+    s Groundnut basin. We used four years of field measurements of soil water content\
+    \ (SWC) and actual evapotranspiration (ET<sub>a</sub>) under pearl millet and\
+    \ groundnut crop rotation for model evaluation. Inverse modelling for SWC (root\
+    \ mean square error [RMSE] \u2264 0.015 cm<sup>3</sup> cm<sup>\u22123</sup>) and\
+    \ ET<sub>a</sub> (RMSE \u2264 0.62 mm d<sup>\u22121</sup>) yielded the best model\
+    \ performance compared to PTFs (0.024\u20130.175 cm<sup>3</sup> cm<sup>\u2212\
+    3</sup> and 0.68\u20130.96 mm d<sup>\u22121</sup>, respectively). Where field\
+    \ measurements are lacking for inverse estimation, three of the seven tested PTFs\
+    \ yielded good modelling results and could be used as a parsimonious approach\
+    \ for cultivated Sahelian soils."
+  keywords:
+    default:
+      keywords:
+        subject: Sahelian cropping system
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8421936
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8421935
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Diongue-Djim-M.-L.:
+    individualname: Diongue, Djim M. L.
+    role: creator
+    organization: Djim M. L. Diongue
+    url: https://orcid.org/0000-0003-0905-9263
+  Roupsard-Olivier:
+    individualname: Roupsard, Olivier
+    role: creator
+    organization: LMI IESOL, IRD, ISRA
+    url: https://orcid.org/0000-0002-1319-142X
+  Do-Frederic-C.:
+    individualname: Do, Frederic C.
+    role: creator
+    organization: LMI IESOL, IRD, ISRA
+    url: https://orcid.org/0000-0002-2852-627X
+  Stumpp-Christine:
+    individualname: Stumpp, Christine
+    role: creator
+    organization: University of Natural Resources and Life Sciences
+    url: https://orcid.org/0000-0001-9041-2735
+  Orange-Didier:
+    individualname: Orange, Didier
+    role: creator
+    organization: IRD, CIRAD, INRAE
+    url: https://orcid.org/0000-0001-8693-1778
+  Sow-Sidy:
+    individualname: Sow, Sidy
+    role: creator
+    organization: LMI IESOL, IRD, ISRA
+    url: ''
+  Jourdan-Christophe:
+    individualname: Jourdan, Christophe
+    role: creator
+    organization: Eco&Sols, University Montpellier, CIRAD, INRAE, IRD
+    url: https://orcid.org/0000-0001-9857-3269
+  Faye-Serigne:
+    individualname: Faye, Serigne
+    role: creator
+    organization: University Cheikh Anta Diop
+    url: https://orcid.org/0000-0002-1679-2351
+content_info: {}

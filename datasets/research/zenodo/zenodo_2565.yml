@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7020543
+  dataseturi: https://doi.org/10.5281/zenodo.7020543
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A New Era Under Soil Based Probiotics for Anti-Pruritic Combat Among Cats
+    with Feline Atopic Skin Syndrome
+  abstract: "Present research was conducted at the University of Aydin Adnan Menderes,\
+    \ Faculty of Veterinary. In a total of 10 cats with pruritic dermatoses were allocated,\
+    \ classified [Feline atopic skin syndrome (FaSs)] and adapted to the retrospective\
+    \ case controlled study on the basis of Polycheck in vitro Allergy Test, clinical\
+    \ signs, dermatoscopic and cytological examination. No prior drug prescription,\
+    \ nor immunosuppressive treatment were evident, which was an inclusion criteria.\
+    \ Complete blood count, serum biochemistry, and endocrine panels were all deemed\
+    \ available on days 0 and 21 for all cats involved. The Feline Dermatitis Extent\
+    \ and Severity Index (FeDESI) and a 10 cm visual analog scale (VAS) were deemed\
+    \ available as relevant prognostic parameters. A three strain invoving soil-based\
+    \ probiotic used via rectal route significantly decreased FEDESI and VAS pruritus\
+    \ scores after 10 days of rectal use. Pre-treament day 0 FEDESI scores (median\
+    \ \xB1 SD) (106.3 \xB1 41.38), were significantly higher than scores on day 10\
+    \ (15.3 \xB1 10.53) switching the severity of the disease to mild status in all\
+    \ cases. Furthermore, day 0 VAS pruritus scores were 7.4 \xB1 1.78 (mean \xB1\
+    \ SD) (prior to treatment), whereas owner VAS pruritus score was decreased to\
+    \ 1.3 \xB1 1.06 (mean \xB1 SD) significantly (p=0.005). It should not be unwise\
+    \ to draw preliminary conclusion that 3 chained soil-based Bacillus probiotic\
+    \ was capable of short term cure for FaSs. Bacillus probiotics with safety usage\
+    \ should be added to therapeutical armamentarium of FaSs."
+  keywords:
+    default:
+      keywords:
+        subject: soil-based probiotic
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-27'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7020543
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7020542
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kerem-Ural:
+    individualname: Kerem Ural
+    role: creator
+  Hasan-Erdogan:
+    individualname: Hasan Erdogan
+    role: creator
+  Songul-Erdogan:
+    individualname: Songul Erdogan
+    role: creator
+  Ural-Kerem:
+    individualname: Ural, Kerem
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0003-1867-7143
+  Erdogan-Hasan:
+    individualname: Erdogan, Hasan
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0001-5141-5108
+  Erdogan-Songul:
+    individualname: Erdogan, Songul
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-7833-5519
+content_info: {}

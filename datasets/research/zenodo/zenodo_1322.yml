@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1095404
+  dataseturi: https://doi.org/10.5281/zenodo.1095404
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact Of Soil Contamination On The Growth And Shape Of Ant Nests
+  abstract: Data of the article "Impact of soil contamination on the growth and shape
+    of ant nests"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-07'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1095404
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1095403
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Leclerc-Jean-Baptiste:
+    individualname: Leclerc Jean-Baptiste
+    role: creator
+    organization: ''
+    url: ''
+  Detrain-Claire:
+    individualname: Detrain Claire
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

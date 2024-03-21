@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3348096
+  dataseturi: https://doi.org/10.5281/zenodo.3348096
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECT OF TALL FESCUE ENDOPHYTE STRAINS AND NITROGEN FERTILIZATION ON SOIL
+    AGGREGATE STABILITY
+  abstract: "Recently, it has been reported that the infection of tall fescue with\
+    \ Neotyphodium spp. endophytes may induce changes in host grass physiology, especially\
+    \ in root morphology that could affect soil aggregate stability. Therefore, the\
+    \ effects of N management under stockpiled \"Jesup\" tall fescue (Schedonorus\
+    \ phoenix) infected with and without different endophytes (Neotyphodium coenophialum)\
+    \ on short-term response of aggregate stability in a Marietta loam soil (Fine-loamy,\
+    \ siliceous, active, thermic Fluvaquentic Eutrudepts) was investigated. The experimental\
+    \ design was split-split block replicated four times. Endophyte strains in tall\
+    \ fescue evaluated were: endophyte-infected wild type (E+), novel endophyte infected\
+    \ (E502, E514, E542, and E584) and endophyte free (E-). Nitrogen treatment consisted\
+    \ of a control and two N sources [urea and ammonium nitrate (NH4NO3)] applied\
+    \ at two different rates (56 or 112 kg ha-1 of actual N) applied in mid-September\
+    \ and mid-October. Aggregate stability was measured as water stable macro-aggregate\
+    \ (&gt;250 \xB5m) and micro-aggregate (125-250 \xB5m) using a wet sieving apparatus.\
+    \ Endophytes in tall fescue did not affect macro-aggregates, but did affect micro-aggregates.\
+    \ Stable micro-aggregates decreased in following order E584 &gt; E502 &gt; E+\
+    \ &gt; E514 &gt; E- &gt; E542. The application of nitrogen fertilizer in September\
+    \ increased macro-aggregates by 4% and decreased micro-aggregates in the soil\
+    \ by 8% when applied as ammonium nitrate in comparison to urea. In contrast, application\
+    \ of N fertilizer in October increased micro-aggregates by 5% applied as ammonium\
+    \ nitrate in comparison to urea, but had no effect on macro-aggregates. These\
+    \ results indicate that the direction and magnitude of the change in stable aggregates\
+    \ in a soil could be influenced by the effect of management, climatic and biological\
+    \ factors on the wetting and drying cycle in the soil. Future studies are needed\
+    \ to determine if the effect of N fertilizer on aggregation could be attributed\
+    \ to the effect of the biomass yield on the soil moisture content at rewetting.Read\
+    \ Complete Article at ijSciences: V120121074"
+  keywords:
+    default:
+      keywords:
+        subject: stockpiling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-11-26'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3348096
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3348095
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Julius-Foster-Anserd:
+    individualname: Julius Foster, Anserd
+    role: creator
+    organization: ''
+    url: ''
+  Lemus-R.:
+    individualname: Lemus, R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

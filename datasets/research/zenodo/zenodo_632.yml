@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HARPER_1917
+  dataseturi: https://doi.org/10.1097/00010694-191708000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A PRELIMINARY SOIL CENSUS OF ALABAMA AND WEST FLORIDA
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A PRELIMINARY SOIL CENSUS OF ALABAMA AND WEST FLORIDA
+    url: http://dx.doi.org/10.1097/00010694-191708000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Harper-Roland-M.:
+    individualname: Harper, Roland M.
+    role: creator
+  HARPER-ROLAND-M.:
+    individualname: HARPER, ROLAND M.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629835
+  dataseturi: https://doi.org/10.5281/zenodo.2629835
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Pasture and soil zinc evolution in forest and agriculture soils of Northwest
+    Spain three years after fertilisation with sewage sludge
+  abstract: The main problem with the agricultural use of sewage sludge is the higher
+    heavy metal (mainly zinc) concentrations in the sludge than in the soil. In Spain,
+    R.D. 1310/1990 and European Directive 86/278 limit the total heavy metal concentration
+    in soil but not the changes in heavy metal availability, which directly affect
+    plant absorption and thereby represent a possible risk to human health. The heavy
+    metal availability in soil depends on different factors (pH, soil organic matter,
+    and weather) and the type of soil (agriculture or forest). This study evaluate
+    the effects of two types of soils (forest and agriculture), two types of vegetation
+    (natural and sown), and two types of fertilisation (sludge fertilisation and mineral
+    fertilisation, with a no fertiliser control) in afforested and treeless pastures
+    and in sown and unsown forestlands of Northwest Spain on the total and available
+    Zn concentration in soil and the concentration of Zn in grasslands. The experimental
+    design was completely randomised with nine treatments and three replicates. The
+    fertilisation with sewage sludge increased the total, Mehlich 3 and sward Zn concentrations
+    in forest and agriculture soils, and the levels of Zn were lower in the forest
+    than in the agriculture soils probably because of the low soil pH in the former
+    which probably limited the mineralisation of the sludge in the forest soil. Therefore,
+    there is still a potential source of Zn in forest soils than in agriculture soils,
+    when the incorporation conditions improve. This makes advisable to extend the
+    period without grazing after sewage sludge inputs in forest than agriculture soils
+    to avoid direct Zn intake by animals through the soil consumption. The effect
+    of the application of sewage sludge on sward Zn concentrations was more relevant
+    in unsown pastures of forest soils than in agriculture soils due to the different
+    absorption capacity of unsown compared with sown species. Zinc inputs from sewage
+    sludge to soils did not cause harmful effects on plants or animals. However, the
+    management of heavy metal availability must be included by policy makers in further
+    directives to better evaluate environmental risk. Moreover, Zn maintenance requirements
+    of animals like goats, horses, bovines and ovine were not often reached, which
+    may make advisable to provide Zn supplement to animals if their nourishment is
+    derived solely from these pastures.
+  keywords:
+    default:
+      keywords:
+        subject: Afforestation
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2012-01-19'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629835
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629834
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Antonio-Rigueiro-Rodriguez:
+    individualname: "Antonio Rigueiro-Rodr\xEDguez"
+    role: creator
+  Maria-Rosa-Mosquera-Losada*:
+    individualname: "Mar\xEDa Rosa Mosquera-Losada\u2217"
+    role: creator
+  Nuria-Ferreiro-Dominguez:
+    individualname: "Nuria Ferreiro-Dom\xEDnguez"
+    role: creator
+  Rigueiro-Rodriguez-Antonio:
+    individualname: "Rigueiro-Rodr\xEDguez, Antonio"
+    role: ''
+    organization: ''
+    url: ''
+  Mosquera-Losada*-Maria-Rosa:
+    individualname: "Mosquera-Losada\u2217, Mar\xEDa Rosa"
+    role: ''
+    organization: ''
+    url: ''
+  Ferreiro-Dominguez-Nuria:
+    individualname: "Ferreiro-Dom\xEDnguez, Nuria"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

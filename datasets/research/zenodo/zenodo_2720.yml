@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zhan_2016
+  dataseturi: https://doi.org/10.1109/igarss.2016.7730362
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A preliminary assessment of the impact of SMAP Soil Moisture on numerical
+    weather Forecasts from GFS and NUWRF models
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A preliminary assessment of the impact of SMAP Soil Moisture on numerical
+      weather Forecasts from GFS and NUWRF models
+    url: http://dx.doi.org/10.1109/igarss.2016.7730362
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhan-Xiwu:
+    individualname: Zhan, Xiwu
+    role: creator
+  Zheng-Weizhong:
+    individualname: Zheng, Weizhong
+    role: creator
+  Fang-Li:
+    individualname: Fang, Li
+    role: creator
+  Liu-Jicheng:
+    individualname: Liu, Jicheng
+    role: creator
+  Hain-Chris:
+    individualname: Hain, Chris
+    role: creator
+  Yin-Jifu:
+    individualname: Yin, Jifu
+    role: creator
+  Ek-Michael:
+    individualname: Ek, Michael
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

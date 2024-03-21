@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7371183
+  dataseturi: https://doi.org/10.5281/zenodo.7371183
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: TECHNIQUE FOR FORMING THE CROWN OF A LEMON FOR GROWING IN A PROTECTED SOIL
+  abstract: <em>The scientific article provides experimental material devoted to the
+    study of the characteristics of the growth and development of Meyer lemon when
+    grown in a greenhouse. Experimentally determined the basic laws of pruning of
+    the aerial parts of plants and the formation of the crown in the early stages
+    of ontogenesis. Their timely implementation ensures the early entry of plants
+    into the fruiting phase and a significant increase in productivity in subsequent
+    years of vegetation.</em>
+  keywords:
+    default:
+      keywords:
+        subject: citrus, lemon, greenhouse, vegetation, crown, structure, shoot, shape,
+          pruning, growth, development.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-11-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7371183
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7371182
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.Shaimanov-A.Tashpolatov--M.Khushbakova-M.Gafurova:
+    individualname: K.Shaimanov A.Tashpolatov  M.Khushbakova M.Gafurova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

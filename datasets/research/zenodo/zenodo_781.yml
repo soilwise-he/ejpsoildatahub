@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8289031
+  dataseturi: https://doi.org/10.5281/zenodo.8289031
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Moisture Sensor and Temperature Sensor Based Automatic Irrigation System
+  abstract: <em>The soil, fertilisers, and water all play a role in how productive
+    a crop is. The fertilisers offer micronutrients like nitrogen, zinc, and other
+    nutrients for vegetable farming. Crops should be able to survive the negative
+    impacts created by the environment and uncontrollable sources in order to supply
+    the rising demand for food. The three layers in which networks are created are
+    similar to the framework of smart agriculture. To obtain information about numerous
+    factors, products, and working environments, there is a sensor layer. The transport
+    layer allows for the communication of information from various devices as well
+    as information to and from a remote server. Utilising a layer will allow you to
+    examine, visualise, and anticipate the data in order to take further action. Because
+    farmers require analogue data rather than digital data, the suggested method uses
+    multilinear regression to anticipate the water levels and micronutrients that
+    are in excess for crop cultivation. In order for them to be able to take the appropriate
+    safety precautions and safeguard the field from harm. </em>
+  keywords:
+    default:
+      keywords:
+        subject: Soil Moisture, Iot, temperature, crop
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8289031
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8289030
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Sireesha:
+    individualname: R. Sireesha
+    role: creator
+    organization: Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal,
+      Andhra Pradesh, India
+    url: ''
+  K.-Raju:
+    individualname: K. Raju
+    role: creator
+    organization: G.Pulla Reddy Engineering College, Kurnool, India
+    url: ''
+  Y.-Mallikarjuna-Rao:
+    individualname: Y. Mallikarjuna Rao
+    role: creator
+    organization: Santhiram Engineering College, Nandyal, Andhra Pradesh, India
+    url: ''
+  C.-Venkataiah:
+    individualname: C. Venkataiah
+    role: creator
+    organization: Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal,
+      Andhra Pradesh, India
+    url: ''
+  Manjula-Jayamma:
+    individualname: Manjula Jayamma
+    role: creator
+  Jayamma-Manjula:
+    individualname: Jayamma, Manjula
+    role: ''
+    organization: SVR Engineering College, Nandyal, Andhra Pradesh, India
+    url: ''
+content_info: {}

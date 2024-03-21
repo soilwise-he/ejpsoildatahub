@@ -1,0 +1,123 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Singh_2017
+  dataseturi: https://doi.org/10.9734/BJECC/2017/31732
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Water and Nitrogen Balance Study of Maize Using CERES Maize Model in
+    DSSAT
+  abstract: "&lt;p&gt;Simulated studies indicated that early sowing i.e 15&lt;sup&gt;th&lt;/sup&gt;\
+    \ April (D&lt;sub&gt;1&lt;/sub&gt;) predicted highest grain yield during all the\
+    \ years from 1986-2013. Under irrigated conditions increasing levels of N predicted\
+    \ increased grain and stover yield from N levels up to 90 kg N ha&lt;sup&gt;-1&lt;/sup&gt;.\
+    \ Under irrigated and mulched conditions increased level of N predicted increase\
+    \ in maize grain and stover yield upto 120 kg N ha&lt;sup&gt;-1&lt;/sup&gt;. Whereas\
+    \ under un-irrigated mulched conditions highest grain and stover yield was predicted\
+    \ at 60 kg N ha&lt;sup&gt;-1&lt;/sup&gt;. Maize yield was also simulated at different\
+    \ sowing dates and in combination with variable spacings and it was predicted\
+    \ that under irrigated condition closer spacing 40 cm \xD7 20 cm at 15&lt;sup&gt;th&lt;/sup&gt;\
+    \ April sowing recorded highest grain and stover yield of maize. Under un-irrigated\
+    \ mulched conditions highest grain yield was predicted at 30&lt;sup&gt;th&lt;/sup&gt;\
+    \ April sowing with spacing 65 cm \xD7 20 cm. Soil water balance under simulation\
+    \ studies indicated that potential ET was recorded comparatively higher with early\
+    \ sowing date than late sowing date under both irrigated un-irrigated mulched\
+    \ conditions. Similar trend was recorded with respect to transpiration under both\
+    \ irrigated and un-irrigated mulched conditions. Simulated soil evaporation was\
+    \ more in wider spacing than closer spacing. Similar trend was recorded with regard\
+    \ to simulated run-off. Predicted nitrate content (final) of irrigated soil decreased\
+    \ where under un-irrigated mulched conditions 15&lt;sup&gt;th&lt;/sup&gt; April\
+    \ (D&lt;sub&gt;1&lt;/sub&gt;) sowing predicted lowest NO&lt;sub&gt;3&lt;/sub&gt;\
+    \ leaching than later sowing dates. Under un-irrigated mulched conditions leached\
+    \ nitrate was nominal. Nitrogen denitrification was comparatively more under un-irrigated\
+    \ mulched conditions than irrigated condition. It is concluded that DSSAT v 4.5CERES-Maize\
+    \ model is very robust in predicting the growth and yield of maize as influenced\
+    \ by agrotechniques and could be used in wider perspective.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - DSSAT
+      - ET
+      - run off
+      - N dynamics
+      - simulation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Water and Nitrogen Balance Study of Maize Using CERES Maize Model in
+      DSSAT
+    url: http://dx.doi.org/10.9734/BJECC/2017/31732
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gurdeep-Singh:
+    individualname: Gurdeep Singh
+    role: creator
+  B.-A.-Lone:
+    individualname: B. A. Lone
+    role: creator
+  Sameera-Qayoom:
+    individualname: Sameera Qayoom
+    role: creator
+  Purshotam-Singh:
+    individualname: Purshotam Singh
+    role: creator
+  Zahoor-Ahmad-Dar:
+    individualname: Zahoor Ahmad Dar
+    role: creator
+  Sandeep-Kumar:
+    individualname: Sandeep Kumar
+    role: creator
+  Asma-Fayaz:
+    individualname: Asma Fayaz
+    role: creator
+  K.-N.-Singh:
+    individualname: K. N. Singh
+    role: creator
+  Altaf-Hussain:
+    individualname: Altaf Hussain
+    role: creator
+  Singh-Gurdeep:
+    individualname: Singh, Gurdeep
+    role: creator
+  Lone-B:
+    individualname: Lone, B
+    role: creator
+  Qayoom-Sameera:
+    individualname: Qayoom, Sameera
+    role: creator
+  Singh-Purshotam:
+    individualname: Singh, Purshotam
+    role: creator
+  Dar-Zahoor:
+    individualname: Dar, Zahoor
+    role: creator
+  Kumar-Sandeep:
+    individualname: Kumar, Sandeep
+    role: creator
+  Fayaz-Asma:
+    individualname: Fayaz, Asma
+    role: creator
+  Singh-K:
+    individualname: Singh, K
+    role: creator
+  Hussain-Altaf:
+    individualname: Hussain, Altaf
+    role: creator
+  Sciencedomain-International:
+    individualname: Sciencedomain International
+    role: creator
+content_info: {}

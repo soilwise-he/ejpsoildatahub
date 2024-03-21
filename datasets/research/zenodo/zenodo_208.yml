@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3515239
+  dataseturi: https://doi.org/10.5281/zenodo.3515239
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: Vegetal soil cover and agroforestry practices
+  abstract: "L'agriculture est \xE0 la fois victime et responsable du changement climatique.\
+    \ Les activit\xE9s agricoles comptent pour 18 % des \xE9missions anthropiques\
+    \ de GES (89,7 Mteq CO2/an; CITEPA, 2014). Le passage du mod\xE8le \xAB classique\
+    \ \xBB \xE0 une agriculture du g\xE9nie v\xE9g\xE9tal associant le semis direct\
+    \ sous couvert (SCV) et l'agroforesterie permettrait d'all\xE9ger significativement\
+    \ le bilan carbone du secteur agricole, tout en augmentant et diversifiant la\
+    \ production \xE0 l'hectare et en am\xE9liorant la durabilit\xE9 des syst\xE8\
+    mes. Les estimations r\xE9alis\xE9es indiquent, pour un tel changement de pratiques,\
+    \ un potentiel de s\xE9questration carbone dans les sols agricoles situ\xE9 entre\
+    \ 48 et 144 Mteq CO2 par an \xE0 l'\xE9chelle nationale, soit de 53 \xE0 160 %\
+    \ des \xE9missions totales de GES imputables \xE0 l'agriculture. Finalement, les\
+    \ pratiques de couverture des sols en agriculture (avec strates ligneuses chaque\
+    \ fois que possible) offrent une opportunit\xE9 unique de relever simultan\xE9\
+    ment (et \xE0 moindre co\xFBt !) les d\xE9fis agronomique, climatique, \xE9nerg\xE9\
+    tique et environnemental. Bien qu'elles \xE9manent de la base et soient adaptables\
+    \ \xE0 tous les contextes et toutes les \xE9chelles, leur d\xE9veloppement sur\
+    \ l'ensemble du territoire national est tributaire de la politique men\xE9e..."
+  keywords:
+    default:
+      keywords:
+        subject: erosion
+  status: ''
+  language: fra
+  dates:
+    creation: ''
+    issued: '2019-04-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3515239
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3515238
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Denis-Asfaux:
+    individualname: Denis Asfaux
+    role: creator
+  Asfaux-Denis:
+    individualname: Asfaux, Denis
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

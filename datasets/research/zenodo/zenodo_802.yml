@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Millar_1915
+  dataseturi: https://doi.org/10.1021/ie50079a024
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Notes on the Colorimetric Determination of Phosphorus in Soil Extracts.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Notes on the Colorimetric Determination of Phosphorus in Soil Extracts.
+    url: http://dx.doi.org/10.1021/ie50079a024
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Millar-C.-E.:
+    individualname: Millar, C. E.
+    role: creator
+  Gangler-F.-A.:
+    individualname: Gangler, F. A.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

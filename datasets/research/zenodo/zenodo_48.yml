@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7128252
+  dataseturi: https://doi.org/10.5281/zenodo.7128252
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Bulk Density and Soil Texture on Root Growth
+  abstract: This article 'Effect of Soil Bulk Density and Soil Texture on Root Growth'
+    appeared in the International Rice Research Newsletter series, created by the
+    International Rice Research Institute (IRRI). The primary objective of this publication
+    was to expedite communication among scientists concerned with the development
+    of improved technology for rice and for rice based cropping systems. This publication
+    will report what scientists are doing to increase the production of rice in as
+    much as this crop feeds the most densely populated and land scarce nations in
+    the world.
+  keywords:
+    default:
+      keywords:
+        subject: Root Growth
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1987-12-01'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7128252
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7128251
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Meerigama-I.:
+    individualname: Meerigama, I.
+    role: creator
+    organization: ''
+    url: ''
+  Punyawardena-B.-V.:
+    individualname: Punyawardena, B. V.
+    role: creator
+    organization: ''
+    url: ''
+  Yapa-L.-G.:
+    individualname: Yapa, L. G.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

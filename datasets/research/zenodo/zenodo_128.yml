@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8181269
+  dataseturi: https://doi.org/10.5281/zenodo.8181269
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOIL CLEANING FROM HEAVY METALS
+  abstract: The brief review of the most characteric researches of last years devoted
+    to electrokinetic remediation of soil from heavy metals is given. The critical
+    assessment of fulfilled work in this sphere is described. The method of information
+    optimization of the process of electrokinematic removal of heavy metals from test
+    plots is suggested and the sphere of application of this method is shown.
+  keywords:
+    default:
+      keywords:
+        subject: soil, method, purification, contaminated, heavy metals.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8181269
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8181268
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mammadova-S.:
+    individualname: Mammadova, S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.60658
+  dataseturi: https://doi.org/10.5281/zenodo.60658
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Dynamic Behavior Of Pile Group Model In Two \u2013 Layer Sandy Soil To Lateral\
+    \ Earthquake Excitation"
+  abstract: "The behavior of pile foundations under earthquake loading is an important\
+    \ factor affecting the performance of such structures. Observations from past\
+    \ earthquakes have shown that piles in stiff soils generally perform well, while\
+    \ those installed in soft or liquefiable soils are more subjected to problems\
+    \ arising from ground amplification or excessive soil movements.\n\n \n\nA series\
+    \ of laboratory tests were conducted to measure the response of pile foundation\
+    \ when subjected to dynamic loads. A special vibration box was manufactured. The\
+    \ accompanied measurements include vertical and horizontal displacement and settlement\
+    \ of pile cap, acceleration in three dimensions in both soil and cap and earth\
+    \ pressures. The model pile used has an outer diameter of 18 mm and inner diameter\
+    \ of 15 mm. A group of (2x2) piles was tested.\n\n \n\nIt was concluded that for\
+    \ soil bed in dry state, the acceleration amplitudes increase with frequency for\
+    \ both soil relative densities (loose and medium). The maximum acceleration in\
+    \ the foundation is lower than in soil bed for all operating shaking frequencies\
+    \ and soil states. The decreasing of the maximum acceleration recorded in the\
+    \ foundation as compared to that in the soil bed is between 10-100 % for loose\
+    \ and medium state of soil, and the decrease in loose state is more than in medium\
+    \ state. This means that there is damping effect or attenuation of vibration waves."
+  keywords:
+    default:
+      keywords:
+        subject: Dynamic, pile group, lateral load, experimental, sand.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-08-20'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.60658
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohammed-Y.-Fattah*-Hussein-H.-Karim-Makki-K.-M.-Al--Recaby:
+    individualname: Mohammed Y. Fattah*, Hussein H. Karim, Makki K. M. Al- Recaby
+    role: creator
+  Mohammed-Y.-Fattah*-Hussein-H.-Karim:
+    individualname: Mohammed Y. Fattah*, Hussein H. Karim
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

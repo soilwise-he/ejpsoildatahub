@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6634267
+  dataseturi: https://doi.org/10.5281/zenodo.6634267
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: NEW ASPECTS OF NITROGEN FIXATION AND CONSERVATION IN THE SOIL. PART II.
+  abstract: Experiments have been made on soils after adding organic acids (both high
+    and low carbon), oils like mahua, mustard and linseed and their effect on the
+    fixation of nitrogen have been studied. Effects of canesugar, inulin, starch.
+    cowdung and molasses in the nitrogen fixation in soil both in the artificial light
+    and sunlight as well as in the dark have been investigated. Influence of temperature
+    and light on nitrogen fixation has also been studied and the mechanism of nitrogen
+    fixation with reference to energy change disclosed.
+  keywords:
+    default:
+      keywords:
+        subject: potassium
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1938-12-31'
+    publication: '1938'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6634267
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6634266
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-R.-DHAR:
+    individualname: N. R. DHAR
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-MUKHERJI:
+    individualname: S. K. MUKHERJI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Babayeva_2019
+  dataseturi: https://doi.org/10.33619/2414-2948/47/12
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Concept of Soil Mapping With the Use of Aerospace Photos
+  abstract: '&lt;p&gt;In modern photogrammetry, the latest aerial photography equipment,
+    photogrammetric and stereophotogrammetric instruments, and computer technology
+    are widely used. This significantly reduces the time and improves the quality
+    of the products. Aerospace images, as well as the results of their processing,
+    have a number of advantages, thanks to which they are used to solve numerous problems.
+    In conclusion, it is concluded that the map on the&nbsp;materials of the aerospace
+    survey of differences in qualitative and quantitative indicators of land can successfully
+    apply them to monitor the cadastral valuation of lands. The resulting information
+    is used at the same time in determining the market and the collateral value of
+    land rents, tax and other economic indicators.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil
+      - photogrammetry
+      - cartography
+      - aerospace imagery
+      - agriculture
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Concept of Soil Mapping With the Use of Aerospace Photos
+    url: http://dx.doi.org/10.33619/2414-2948/47/12
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Babayeva-A.:
+    individualname: Babayeva, A.
+    role: creator
+  Publishing-Center-Science:
+    individualname: Publishing Center Science
+    role: creator
+  Practice:
+    individualname: Practice
+    role: creator
+content_info: {}

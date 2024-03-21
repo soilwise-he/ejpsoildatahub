@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gilchrist_1855
+  dataseturi: https://doi.org/10.1144/gsl.jgs.1855.011.01-02.64
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On the Origin and Formation of the Red Soil of Southern India
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On the Origin and Formation of the Red Soil of Southern India
+    url: http://dx.doi.org/10.1144/gsl.jgs.1855.011.01-02.64
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gilchrist-W.:
+    individualname: Gilchrist, W.
+    role: creator
+  Geological-Society-of-London:
+    individualname: Geological Society of London
+    role: creator
+content_info: {}

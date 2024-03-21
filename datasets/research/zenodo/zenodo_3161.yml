@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5816738
+  dataseturi: https://doi.org/10.5281/zenodo.5816738
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Chromic acid oxidation of oxalic acid catalysed by manganese(II) - Kinetic
+    method of estimation of manganese(II) and water soluble and extractable manganese
+    in soil
+  abstract: Department of Chemistry, S.R.V.B.S.J.B.M.R. College, Peddapuram-533 437.
+    East Godavari Dt., Andhra Pradesh. India <em>Manuscript received 22 February 2008.
+    accepted 15 April 2008</em> The catalytic effect of manganese(II) on the oxidation
+    of oxalic acid by chromic acid has been pressed into use for its determination.
+    A simple kinetic method has been developed using fixed time and iodometric procedures.
+    The method is found to be suitable for the estimation of water soluble and exchangeable
+    manganese in soil and the results have been compared with those of Atomic Absorption
+    Spectrophotometer (<strong>AAS</strong>).
+  keywords:
+    default:
+      keywords:
+        subject: soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2008-06-30'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5816738
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5816737
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-S.-R.-Krishna-Rao:
+    individualname: G. S. R. Krishna Rao
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

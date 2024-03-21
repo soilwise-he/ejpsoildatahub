@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.21248-contrib.entomol.66.2.169-199
+  dataseturi: https://doi.org/10.21248/contrib.entomol.66.2.169-199
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Article
+identification:
+  title: 'Molecular and morphological systematics of soil-inhabiting Cryptorhynchinae
+    of the genus Acallorneuma and the tribe Torneumatini (Coleoptera: Curculionidae),
+    with description of two new species.'
+  abstract: "Starting from an ecological classification of the morphotypes of apterous\
+    \ western Palaearctic Cryptorhynchinae, molecular systematic and morphological\
+    \ results for the monophyletic weevil genus Acallorneuma Mainardi, 1906 and the\
+    \ tribe Torneumatini Bedel, 1884 are presented. Based on the mitochondrial CO1\
+    \ barcoding region, we discuss the limits of comparative morphology in the uniform\
+    \ Acallorneuma species. A catalogue and a pictorial key of all 8\u202Fspecies\
+    \ of Acallorneuma are provided. In a second step we compare morphology-based systematics\
+    \ of the genus Acallorneuma with our molecular reconstruction. Finally, we focus\
+    \ on the related blind, equally wingless and uniform, currently 71\u202Fspecies\
+    \ of the tribe Torneumatini living deep in the soil. This overview of the present\
+    \ state of research shows that molecular intrageneric resolution is highly dependent\
+    \ on the number of sampled species, especially in those cases with particularly\
+    \ long edges in the dendrogram. But although Torneumatini sampling was not complete\
+    \ due to the elusiveness of these subterranean species, some taxonomic changes\
+    \ could still be implemented: Torneuma\u202Fs.\u202Fstr. with the type species\
+    \ Torneuma caecum Wollaston, 1860 occurs only on the Madeira archipelago. The\
+    \ species of the subgenus Paratyphloporus Solari, 1937 stat.\u202Fnov. - only\
+    \ from the western Canary Islands(!) - must be transferred into the genus subgenus\
+    \ Paratorneuma Roudier, 1956 stat.\u202Fnov. For all other species of the Mediterranean\
+    \ area and the eastern Canary Islands, the systematic classification needs to\
+    \ be remade (incertae sedis, see also appendix\u202F2). Torneuma deplanatum deplanatum\
+    \ (Hampe, 1864) is the type species of the subgenus Typhloporus that includes\
+    \ some, but not all Mediterranean species with a constantly deep and wide pectoral\
+    \ canal, which - as it now seems likely \u2013 was developed several times. Two\
+    \ new species are described: Torneuma (s.\u202Fstr.) isambertoi St\xFCben spec.\u202F\
+    nov. from Madeira and Torneuma (s.l.) cadizensis St\xFCben spec.\u202Fnov. from\
+    \ the south of Spain. In both cases keys are given to differentiate from the closely\
+    \ related species.\n\nKeywords\n\nAcallorneuma, Torneumatini, Torneuma, Bayesian\
+    \ analysis, Integrative Taxonomy, morphology, CO1, new species, taxonomic changes,\
+    \ Western Palaearctic, Spain, Portugal, Canary Islands, Madeira.\n\nNomenclatural\
+    \ Acts\n\nisambertoi St\xFCben, 2016 (Torneuma (s. str.)), spec. nov.\ncadizensis\
+    \ St\xFCben, 2016 (Torneuma (s.l.)), spec. nov."
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Insecta
+      - Coleoptera
+      - Curculionidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    submitted: '2017-06-14'
+    accepted: '2017-06-14'
+    updated: '2017-06-14'
+    issued: '2016-12-20'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.21248/contrib.entomol.66.2.169-199
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stuben-Peter-E.:
+    individualname: "St\xFCben, Peter E."
+    role: creator
+    organization: ''
+    url: ''
+  Schutte-Andre:
+    individualname: "Sch\xFCtte, Andr\xE9"
+    role: creator
+    organization: ''
+    url: ''
+  Lopez-Heriberto:
+    individualname: "L\xF3pez, Heriberto"
+    role: creator
+    organization: ''
+    url: ''
+  Astrin-Jonas-J.:
+    individualname: Astrin, Jonas J.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

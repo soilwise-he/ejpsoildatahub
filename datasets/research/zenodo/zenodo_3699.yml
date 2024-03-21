@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2655205
+  dataseturi: https://doi.org/10.5281/zenodo.2655205
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Measuring the Amount of Eroded Soil and Surface Runoff Water in the Field
+  abstract: Water erosion is the most important problems of the soil in the Jebel
+    Nefusa area located in north west of Libya, therefore erosion station had  been
+    established in the Faculty of Veterinary and rainfed agriculture research Station,
+    University of the Jepel Algherbee in Zentan. The length of the station is 72.6
+    feet, 6 feet width, and the percentage of it's slope is 3%. The station was established
+    to measure the mount of soil eroded and amount of surface water produced during
+    the seasons 95/96 and 96/97 from each rain storms. The Monitoring shows that there
+    was a difference between the two seasons in the number of rainstorms which made
+    differences in the amount of surface runoff water and the amount of soil eroded
+    between the two seasons. Although the slope is low (3%), the soil texture is sandy
+    and the land ploughed twice during each season surface runoff and soil eroded
+    occurred. The average amount of eroded soil was 3792 grams (gr) per season and
+    the average amount of surface runoff water was 410 litter (L) per season. The
+    amount of surface runoff water would be much greater from Jebel Nefusa upland
+    with steep slopes and collecting of them will save a  valuable amount of water
+    which lost as a runoff while this area is in desperate of this water. The regression
+    analysis of variance show strong correlation between rainfall depth and the other
+    two depended variable (the amount of surface runoff water and  the amount of eroded
+    soil). It shows also strong correlation between amount of surface runoff water
+    and amount of eroded soil.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-12-05'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2655205
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2655204
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdulfatah-Faraj-Aboufayed:
+    individualname: Abdulfatah Faraj Aboufayed
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

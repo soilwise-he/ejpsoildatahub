@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7217208
+  dataseturi: https://doi.org/10.5281/zenodo.7217208
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Fate of petroleum-based and plant-based teabags exposed to environmental
+    soil conditions for one year
+  abstract: 'Petroleum-based plastics are materials which have provided important
+    industrial benefits. However, plastic pollution is pervasive and ubiquitous on
+    all environments. This has led some industries to rapidly introduce the so called
+    ''bioplastics'' into the market by switching the conventional ones for new plant-based
+    alternatives with similar properties. However, little is known about the fate
+    of such alternatives especially in the open environment. In this novel study,
+    the degradation of teabags from eight different brands was investigated, five
+    petroleum based (cellulose-PP blend) and three plant-based (cellulose, cellulose-PLA
+    blend and PLA). The degradation was tested under real-environmental soil conditions
+    over a 12-month period. Fourier Transform Infrared Spectroscopy (FTIR-ATR) and
+    Scanning Electron Microscopy (SEM) techniques were used to examine the change
+    in polymer makeup and surface degradation of teabags at 3 weeks, 3.5 months, 6
+    months and 12 months. Teabag dry weight and any retrieved fragments were measured
+    over time. Teabags that contained a plastic blended to cellulose were brittle
+    or degraded into smaller fragments after 3 weeks in soil. Parallel to this, the
+    cellulose layer also degraded in this short timeline. Petroleum-based teabags
+    produced the highest numbers of PP fragments overtime and fragmented teabags were
+    still found after 12 months. Plant-based teabags made of cellulose only or a blend
+    of cellulose-PLA were absent from soil samples after 3.5 months, including no
+    fragments. Contrary to this, teabags made of PLA which were marketed as completely
+    biodegradable, persisted completely intact in soil throughout all time points.
+    The novel results from this study provide a perspective on plastic degradation
+    in terrestrial sources. Based on these findings, it can be recommended that teabags
+    mostly made of cellulose or cellulose blended with a bioplastic present in a smaller
+    ratio, are a better alternative to petroleum-based or pure PLA plastics, in terms
+    of rapid environmental degradation. Also see: https://micro2022.sciencesconf.org/426297/document'
+  keywords:
+    default:
+      keywords:
+        subject: teabag degradation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7217208
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7217207
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mateos-Cardenas-Alicia:
+    individualname: "Mateos C\xE1rdenas, Alicia"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

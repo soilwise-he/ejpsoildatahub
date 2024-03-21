@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Varney_2020
+  dataseturi: https://doi.org/10.1038/s41467-020-19208-8
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A spatial emergent constraint on the sensitivity of soil carbon turnover
+    to global warming
+  abstract: '&lt;p&gt;Carbon cycle feedbacks represent large uncertainties in climate
+    change projections, and the&lt;br&gt;
+
+    response of soil carbon to climate change contributes the greatest uncertainty
+    to this. Future&lt;br&gt;
+
+    changes in soil carbon depend on changes in litter and root inputs from plants
+    and especially&lt;br&gt;
+
+    on reductions in the turnover time of soil carbon (&tau;s) with warming. An approximation
+    to the&lt;br&gt;
+
+    latter term for the top one metre of soil (&Delta;Cs,&tau;) can be diagnosed from
+    projections made with&lt;br&gt;
+
+    the CMIP6 and CMIP5 Earth System Models (ESMs), and is found to span a large range
+    even&lt;br&gt;
+
+    at 2 &deg;C of global warming (&minus;196 &plusmn; 117 PgC). Here, we present
+    a constraint on &Delta;Cs,&tau;, which&lt;br&gt;
+
+    makes use of current heterotrophic respiration and the spatial variability of
+    &tau;s inferred from&lt;br&gt;
+
+    observations. This spatial emergent constraint allows us to halve the uncertainty
+    in &Delta;Cs,&tau; at&lt;br&gt;
+
+    2 &deg;C to &minus;232 &plusmn; 52 PgC.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A spatial emergent constraint on the sensitivity of soil carbon turnover
+      to global warming
+    url: http://dx.doi.org/10.1038/s41467-020-19208-8
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rebecca-M.-Varney:
+    individualname: Rebecca M. Varney
+    role: creator
+  Sarah-E.-Chadburn:
+    individualname: Sarah E. Chadburn
+    role: creator
+  Pierre-Friedlingstein:
+    individualname: Pierre Friedlingstein
+    role: creator
+  Eleanor-J.-Burke:
+    individualname: Eleanor J. Burke
+    role: creator
+  Charles-D.-Koven:
+    individualname: Charles D. Koven
+    role: creator
+  Gustaf-Hugelius:
+    individualname: Gustaf Hugelius
+    role: creator
+  Peter-M.-Cox:
+    individualname: Peter M. Cox
+    role: creator
+  Varney-Rebecca-M.:
+    individualname: Varney, Rebecca M.
+    role: creator
+  Chadburn-Sarah-E.:
+    individualname: Chadburn, Sarah E.
+    role: creator
+  Friedlingstein-Pierre:
+    individualname: Friedlingstein, Pierre
+    role: creator
+  Burke-Eleanor-J.:
+    individualname: Burke, Eleanor J.
+    role: creator
+  Koven-Charles-D.:
+    individualname: Koven, Charles D.
+    role: creator
+  Hugelius-Gustaf:
+    individualname: Hugelius, Gustaf
+    role: creator
+  Cox-Peter-M.:
+    individualname: Cox, Peter M.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

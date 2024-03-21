@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2587100
+  dataseturi: https://doi.org/10.5281/zenodo.2587100
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Enzymes Assessment Around Amega Cement Factory in Nigeria.
+  abstract: "High soil quality is important for agricultural activities but pollution\
+    \ from cement industries is of great threat to sustainable agriculture in Nigeria.\
+    \ The aim of this study is to assess the effect of heavy metals in cement dust\
+    \ on the soil enzymes activities. This study investigated the activities of some\
+    \ selected soil enzymes, the microbial communities\u2019 population, the concentrations\
+    \ of some heavy metals, some selected soil macronutrients and the physico-chemical\
+    \ properties (pH, moisture, and temperature) of the soil surface (0-15 cm), within\
+    \ the vicinity of a cement factory in Nigeria. The pH, total organic nitrogen\
+    \ (TON), total organic carbon (TOC) and heavy metals decreased with increasing\
+    \ distance from the cement factory. The microbial population around the factory\
+    \ was (34.00 \xB1 2.64 CFU g-1) and (92.00 \xB1 1.00 CFU g-1) at 100 m and the\
+    \ control site respectively. All the soil heavy metals contents analyzed are less\
+    \ than the permissible limit except Cd. Moreover, the enzyme activities increased\
+    \ away from cement factory except alkaline phosphatase that decreases with increase\
+    \ in distance. The enzymes activities (except alkaline phosphatase) correlated\
+    \ negatively with the content of all heavy metals, the pH, the TON, the TOC and\
+    \ temperature but positively correlated with moisture, phosphorous and microbial\
+    \ populations. The inverse correlations between most of the heavy metals, the\
+    \ pH and soil enzymes activities could be a result of the pollution. This means\
+    \ that the cement production exhibits a significant effect on the enzyme activities."
+  keywords:
+    default:
+      keywords:
+        subject: anthropogenic impact, bioaccumulation and biomagnification, geomagnification,
+          soil enzymes, xenobiotics.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-12-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2587100
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2587099
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Oludoye-Oluseye-Olalekan:
+    individualname: Oludoye, Oluseye Olalekan
+    role: creator
+    organization: Chulalongkorn University, Bangkok
+    url: ''
+  Ogunyebi-Lanrewaju-Amos:
+    individualname: Ogunyebi, Lanrewaju Amos
+    role: creator
+    organization: University of Lagos, Nigeria
+    url: ''
+content_info: {}

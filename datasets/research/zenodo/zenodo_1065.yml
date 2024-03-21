@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8234048
+  dataseturi: https://doi.org/10.5281/zenodo.8234048
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: METHOD FOR PRODUCING STABLE GEOECOLOGICALLY STABLE SOIL MIXTURES BASED ON
+    DRILLING.
+  abstract: "An analysis of the scientific, technical and patent literature was carried\
+    \ out, reflecting the current state of the problems of pollution of natural geosystems\
+    \ by the placement of drilling waste and drill cuttings, and an analytical review\
+    \ was prepared, the properties of the studied raw materials were studied, and\
+    \ the research methods and methods of conducting experiments were also described.\
+    \ The studies were carried out by chemical methods (atomic emission spectrometry\
+    \ with inductively coupled plasma, IR spectrometry, titration, precipitation),\
+    \ X-ray phase, microstructural analysis and physical and mechanical (moisture,\
+    \ liquid and moisture at the rolling boundaries) methods of determination. \xAD\
+    , shear ring density, pycnometric method, compression modulus) and toxicological\
+    \ characteristics (biotest using methods for determining the toxicity of aqueous\
+    \ extracts by changing the mortality and productivity of daphnia and changing\
+    \ the level of chlorophyll fluorescence. the number of algae cells). Mathematical\
+    \ processing of experimental data was carried out using special software using\
+    \ basic statistical methods and laws."
+  keywords:
+    default:
+      keywords:
+        subject: drilling, inductively coupled plasma, atomic emission spectrometry,
+          IR spectrometry, titration, sedimentation, density, pycnometric method,
+          compression method, deformation modulus, chemical, toxicological and physical
+          properties
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8234048
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8234047
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.S.-Shaymanova:
+    individualname: R.S. Shaymanova
+    role: creator
+    organization: Termiz Institute of Engineering and Technology
+    url: ''
+  M.K.-Urazov:
+    individualname: M.K. Urazov
+    role: creator
+    organization: Termiz Institute of Engineering and Technology
+    url: ''
+  D.N.-Yuldosheva:
+    individualname: D.N. Yuldosheva
+    role: creator
+    organization: Termiz Institute of Engineering and Technology
+    url: ''
+  D.Sh.-Mirzayorova:
+    individualname: D.Sh. Mirzayorova
+    role: creator
+    organization: Termiz Institute of Engineering and Technology
+    url: ''
+  NX-Shaymanova:
+    individualname: NX Shaymanova
+    role: creator
+    organization: teacher of the 15th general education school
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ALLISON_1917
+  dataseturi: https://doi.org/10.1097/00010694-191701000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: BIOLOGICAL CHANGES IN SOIL DURING STORAGE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: BIOLOGICAL CHANGES IN SOIL DURING STORAGE
+    url: http://dx.doi.org/10.1097/00010694-191701000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Allison-F.-E.:
+    individualname: Allison, F. E.
+    role: creator
+  ALLISON-F.-E.:
+    individualname: ALLISON, F. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7824780
+  dataseturi: https://doi.org/10.5281/zenodo.7824780
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Land Systems Report The Soil Landscapes of Nepal
+  abstract: The Land Systems report accompanies the Land Systems mapping series, a
+    set of 266 map<br> sheets produced at a scale of 1:50,000 utilizing aerial photography
+    o' the same scale.<br> Enpies of this mapping series at the original scale are
+    available from the Topographical<br> Surveys Branch, Kathmandu, Nepal. Photographic
+    reductions at 1:125,000 scale accompany<br> this report as a cnmpanion volume.<br>
+    The report provides map user with more detailed information regarding map unit
+    delineation<br> and description, a description of the geomorphology and soils
+    of Nepal, and a summary of<br> soil management as related to the Nepalese landscape.
+    The map user is advised that many<br> important aspects of landscape and sail
+    dynamics cannot be portrayed by the maps alone.<br> The report thus forms an essential
+    link between the user and the mans. A land systems<br> approach has been used
+    in classifying larods.<br>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1986-01-01'
+    publication: '1986'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7824780
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7824779
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  LRMP:
+    individualname: LRMP
+    role: creator
+    organization: Government of Nepal and Canada, Land Resource Mapping Project
+    url: ''
+content_info: {}

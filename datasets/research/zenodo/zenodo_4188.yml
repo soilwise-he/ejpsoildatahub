@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10644962
+  dataseturi: https://doi.org/10.5281/zenodo.10644962
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Invasion of the Brazilian campo rupestre by the exotic grass Melinis minutiflora
+    is driven by the high soil N availability and changes in the N cycle
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-11-04'
+    publication: '2016'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10644962
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10644961
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ribeiro-Pamella:
+    individualname: Ribeiro, Pamella
+    role: creator
+    organization: ''
+    url: ''
+  Menendez-Esther:
+    individualname: Menendez, Esther
+    role: creator
+    organization: Universidad de Salamanca
+    url: 0000-0003-2320-0067
+  daSilva-Danielle-L:
+    individualname: daSilva, Danielle L
+    role: creator
+    organization: ''
+    url: ''
+  Bonieck-Douglas:
+    individualname: Bonieck, Douglas
+    role: creator
+    organization: ''
+    url: ''
+  Ramirez-Bahena-Martha-H:
+    individualname: "Ram\xEDrez-Bahena, Martha H"
+    role: creator
+    organization: ''
+    url: ''
+  Resende-Stoianoff-Maria-Aparecida:
+    individualname: Resende-Stoianoff, Maria Aparecida
+    role: creator
+    organization: ''
+    url: ''
+  Peix-Alvaro:
+    individualname: Peix, Alvaro
+    role: creator
+    organization: ''
+    url: ''
+  Velazquez-Encarna:
+    individualname: Velazquez, Encarna
+    role: creator
+    organization: ''
+    url: ''
+  Mateos-Pedro-F:
+    individualname: Mateos, Pedro F
+    role: creator
+    organization: ''
+    url: ''
+  Scotti-Maria-Rita:
+    individualname: Scotti, Maria Rita
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

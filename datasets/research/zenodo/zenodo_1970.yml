@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ma_n_2013
+  dataseturi: https://doi.org/10.1080/00222933.2013.791950
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'A new genus and species of soil mite (Acari: Pachylaelapidae: Pachylaelapinae)
+    from the Canary Islands'
+  abstract: "Ma\u0161\xE1n, Peter, Halliday, Bruce (2013): A new genus and species\
+    \ of soil mite (Acari: Pachylaelapidae: Pachylaelapinae) from the Canary Islands.\
+    \ Journal of Natural History (J. Nat. Hist.) 48 (7-8): 403-412, DOI: 10.1080/00222933.2013.791950,\
+    \ URL: http://dx.doi.org/10.1080/00222933.2013.791950"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Mesostigmata
+      - Pachylaelapidae
+      - Arthropoda
+      - Arachnida
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'A new genus and species of soil mite (Acari: Pachylaelapidae: Pachylaelapinae)
+      from the Canary Islands'
+    url: http://dx.doi.org/10.1080/00222933.2013.791950
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Masan-Peter:
+    individualname: "Ma\u0161\xE1n, Peter"
+    role: creator
+  Halliday-Bruce:
+    individualname: Halliday, Bruce
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

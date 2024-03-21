@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BLEAZBY_1917
+  dataseturi: https://doi.org/10.1680/imotp.1917.15889
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'RAILWAY WATER-SUPPLIES IN WESTERN AUSTRALIA: DIFFICULTIES CAUSED BY SALT
+    IN SOIL.'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'RAILWAY WATER-SUPPLIES IN WESTERN AUSTRALIA: DIFFICULTIES CAUSED BY SALT
+      IN SOIL.'
+    url: http://dx.doi.org/10.1680/imotp.1917.15889
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bleazby-R.:
+    individualname: Bleazby, R.
+    role: creator
+  BLEAZBY-R:
+    individualname: BLEAZBY, R
+    role: creator
+  Thomas-Telford-Ltd.:
+    individualname: Thomas Telford Ltd.
+    role: creator
+content_info: {}

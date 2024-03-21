@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McGILLICUDDY_1898
+  dataseturi: https://doi.org/10.1001/jama.1898.72440760023002f
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: TUBERCULOSIS; ITS SEED, ITS SOIL AND ITS TREATMENT BY MEDICAL ASEPSIS.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: TUBERCULOSIS; ITS SEED, ITS SOIL AND ITS TREATMENT BY MEDICAL ASEPSIS.
+    url: http://dx.doi.org/10.1001/jama.1898.72440760023002f
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McGILLICUDDY-T.-J.:
+    individualname: McGILLICUDDY, T. J.
+    role: creator
+  American-Medical-Association-AMA:
+    individualname: American Medical Association (AMA)
+    role: creator
+content_info: {}

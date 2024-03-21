@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mutyalamma_2020
+  dataseturi: https://doi.org/10.35940/ijeat.D8940.069520
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Smart Agriculture to Measure Humidity, Temperature, Moisture, Ph. and Nutrient
+    Values of the Soil using IoT
+  abstract: '&lt;p&gt;Smart Agriculture now-a-days reducing various problems in farming.
+    Farmers get required information and relative data to monitor the plants growth
+    by the use of &ldquo;INTERNET OF THINGS (IOT)&rdquo;, which connects the different
+    sensors, actuators and other embedded devices. To provide quality crops based
+    on soil nutrient level and its moisture content along with Ph. factor, also been
+    maintained. Hence, in this project all those parameters are detected and controlled
+    with the help of micro controller. Humidity sensor to detect the moisture content,
+    where colour sensor is used to determine the percentage of soil nutrients (N2
+    , P4 &amp;K). It will analyse soil nutrient content present in soil at real time
+    and Ph. sensor is used to determine the Ph value of the soil. Monitrring of these
+    it provides the proper fertility to the soil depending upon the soil nutrients.
+    GSM is used to display the information to the farmers. Thus it reduces the growing
+    of husk in terms of wastage and thereby getting good quality and healthy crops.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Internet of Things
+      - Soil sensor
+      - Ph sensor
+      - Moisture sensor
+      - Colour sensor and embedded system.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Smart Agriculture to Measure Humidity, Temperature, Moisture, Ph. and Nutrient
+      Values of the Soil using IoT
+    url: http://dx.doi.org/10.35940/ijeat.D8940.069520
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Asadi-Venkata-Mutyalamma:
+    individualname: Asadi Venkata Mutyalamma
+    role: creator
+  Gopisetty-Yoshitha:
+    individualname: Gopisetty Yoshitha
+    role: creator
+  Althi-Dakshyani:
+    individualname: Althi Dakshyani
+    role: creator
+  Bachala-Venkata-Padmavathi:
+    individualname: Bachala Venkata Padmavathi
+    role: creator
+  Mutyalamma-Asadi-Venkata:
+    individualname: Mutyalamma, Asadi Venkata
+    role: creator
+  Yoshitha-Gopisetty:
+    individualname: Yoshitha, Gopisetty
+    role: creator
+  Dakshyani-Althi:
+    individualname: Dakshyani, Althi
+    role: creator
+  Padmavathi-Bachala-Venkata:
+    individualname: Padmavathi, Bachala Venkata
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

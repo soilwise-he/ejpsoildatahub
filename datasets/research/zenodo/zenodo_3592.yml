@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1194769
+  dataseturi: https://doi.org/10.5281/zenodo.1194769
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Arsenic, Nickel And Leadremoval From Underground Wells By Adsorption On Laterite
+    Soil
+  abstract: "<strong><em>The pollution by heavy metal in the environment, particularly\
+    \ groundwater, constitutes an environmental problem and health in C\xF4te d\u2019\
+    Ivoire. Among methods used for removal heavy metals, adsorption by natural absorbent\
+    \ such as a laterite is effective and cheap when compared to other methods. So,\
+    \ this study evaluates the laterite reactor performance for effective removal\
+    \ of heavy metals viz., arsenic (As), nickel (Ni) and lead (Pb) from real-life\
+    \ groundwater. And adsorption of heavy metals was performed with laterite of different\
+    \ particle sizes, viz. coarse grain size of laterite (LRCOG) and laterite granules\
+    \ (LRG). The results obtained showed that the percentages of removal of heavy\
+    \ metal are higher than the size of the laterite. As, Ni and Pb removal are 98.3\
+    \ \xB1 0.4%, 99.2 \xB1 0.2% and 96.1 \xB1 1.1% respectively in LRCOG effluents.\
+    \ With the laterite in form of granules, percentage removal were of 98.6 \xB1\
+    \ 0.3% for As that of the Ni is of 99.7 \xB1 0.2% and 97.9 \xB1 0.5 % for Pb.\
+    \ The adsorption of heavy metal on the two types of laterite particle size is\
+    \ in the same order of effectiveness: Ni\u02C3As\u02C3Pb</em>.</strong>"
+  keywords:
+    default:
+      keywords:
+        subject: "Adsorption On Laterite; Arsenic; C\xF4te d'Ivoire;Lead; Nickel;\
+          \ Well Water"
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-03-09'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1194769
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1194768
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sinaly-OUATTARA:
+    individualname: Sinaly OUATTARA
+    role: creator
+    organization: ''
+    url: ''
+  A.-Lydie-C.-MANGOUA-ALLALI:
+    individualname: A. Lydie C. MANGOUA-ALLALI
+    role: creator
+    organization: ''
+    url: ''
+  A.-B.-AMA-CAUPHYS:
+    individualname: A. B. AMA-CAUPHYS
+    role: creator
+    organization: ''
+    url: ''
+  Lacina-COULIBALY:
+    individualname: Lacina COULIBALY
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

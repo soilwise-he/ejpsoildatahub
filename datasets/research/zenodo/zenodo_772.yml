@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8103948
+  dataseturi: https://doi.org/10.5281/zenodo.8103948
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Role of Biofertilizer Inoculants in Crop Productivity and Soil Fertility
+  abstract: '<strong>Bio</strong>-<strong>inoculants</strong> Bio-inoculants are living
+    organisms containing strains of specific bacteria, fungi, or algae which: - take
+    nitrogen from the air and make it available to plants- reducing the need for nitrogen
+    fertilizer. - make inorganic phosphate and micronutrients soluble and available
+    to plants. Soil microorganisms play an important role in the plant growth and
+    development by various means viz. nitrogen fixation, phosphate solubilization,
+    phytohormone production etc. Therefore, bio-inoculants for agriculture purpose
+    i.e., bio-fertilizers could be a better alternative to chemical fertilizers for
+    agricultural as well as environmental sustainability (Ritika and Uptal, 2014).'
+  keywords:
+    default:
+      keywords:
+        subject: Popular Article
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8103948
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8103947
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.Paramasivan1-N.-Senthil-Kumar2:
+    individualname: M.Paramasivan1, N. Senthil Kumar2
+    role: creator
+  S.-Jothimani3:
+    individualname: S. Jothimani3
+    role: creator
+  M.Paramasivan1-N.-Senthil-Kumar2-and-S.-Jothimani3:
+    individualname: M.Paramasivan1, N. Senthil Kumar2 and S. Jothimani3
+    role: ''
+    organization: "1&3Agricultural College & Research Institute, Tamil Nadu Agricultural\
+      \ University, Killikulam \u2013 628 252, Vallanad, Thoothukudi \u2013 Dt, 2Agricultural\
+      \ College & Research Institute, Kudumiyanmalai"
+    url: ''
+content_info: {}

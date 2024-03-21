@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8330448
+  dataseturi: https://doi.org/10.5281/zenodo.8330448
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Comparative Analysis Between the Results of Seismic Investigation and SPT\
+    \ Test of a Tropical Soil Profile in the Bras\xEDlia Region - DF"
+  abstract: "<em>In geotechnical engineering constructions, technical regulations\
+    \ prescribe a minimum number of drilling tests to allow the definition of the\
+    \ geotechnical profile of the site. However, even meeting this prerogative, obtaining\
+    \ data through this type of investigation is punctual, which can lead to errors\
+    \ in geological-geotechnical interpretations. In this context, this work aims\
+    \ to evaluate the use of seismic refraction and MASW methods as complementary\
+    \ tests to the SPT geotechnical investigation method, to validate the use of these\
+    \ methodologies to interpret a tropical soil profile. The seismic and geotechnical\
+    \ investigations were carried out in a vertical excavation located in the northwest\
+    \ region of the city of Bras\xEDlia \u2013 DF, Brazil. The results showed a good\
+    \ correlation between the seismic methods and the SPT regarding the identification\
+    \ of soil layers present at the site. For both seismic methods, it was possible\
+    \ to verify an increase in the velocities of the VS and VP waves with increasing\
+    \ depth, which allowed the evaluation of the interfaces between the soil layers\
+    \ in the first 15 meters. It can also be verified that both methodologies have\
+    \ the potential to identify layers of porous soils with collapsible behaviour.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: "Bras\xEDlia-Brazil"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8330448
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8330447
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gabriel-de-S.-Meira:
+    individualname: Gabriel de S. Meira
+    role: creator
+  Rafael-C.-Silva:
+    individualname: Rafael C. Silva
+    role: creator
+  Marcelo-P.-Rocha:
+    individualname: Marcelo P. Rocha
+    role: creator
+  Thiago-L.-Mendes:
+    individualname: Thiago L. Mendes
+    role: creator
+    organization: "Institute of Geosciences, University of Bras\xEDlia, Bras\xEDlia-DF,\
+      \ Brazil"
+    url: ''
+  Douglas-C.-Muniz:
+    individualname: Douglas C. Muniz
+    role: creator
+  Genesson-D.-Castro:
+    individualname: Genesson D. Castro
+    role: creator
+    organization: "Institute of Geosciences, University of Bras\xEDlia, Bras\xEDlia-DF,\
+      \ Brazil"
+    url: ''
+  De-S.-Meira-Gabriel:
+    individualname: De S. Meira, Gabriel
+    role: ''
+    organization: "Institute of Geosciences, University of Bras\xEDlia, Bras\xEDlia-DF,\
+      \ Brazil"
+    url: ''
+  Silva-Rafael-C.:
+    individualname: Silva, Rafael C.
+    role: ''
+    organization: "Department of Civil and Environmental Engineering, University of\
+      \ Bras\xEDlia, Bras\xEDlia-DF, Brazil"
+    url: ''
+  Rocha-Marcelo-P.:
+    individualname: Rocha, Marcelo P.
+    role: ''
+    organization: "Institute of Geosciences, University of Bras\xEDlia, Bras\xEDlia-DF,\
+      \ Brazil"
+    url: ''
+  Muniz-Douglas-C.:
+    individualname: Muniz, Douglas C.
+    role: ''
+    organization: "Institute of Physics, University of Bras\xEDlia, Bras\xEDlia-DF,\
+      \ Brazil"
+    url: ''
+content_info: {}

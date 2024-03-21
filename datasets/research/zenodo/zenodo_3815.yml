@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1077655
+  dataseturi: https://doi.org/10.5281/zenodo.1077655
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Numerical Investigation On Damage Evolution Of Piles Inside Liquefied Soil
+    Foundation - Dynamic-Loading Experiments -
+  abstract: 'The large and small-scale shaking table tests, which
+
+    was conducted for investigating damage evolution of piles inside
+
+    liquefied soil, are numerically simulated and experimental verified by the3D nonlinear
+    finite element analysis. Damage evolution of
+
+    elasto-plastic circular steel piles and reinforced concrete (RC) one with cracking
+    and yield of reinforcement are focused on, and the failure patterns and residual
+    damages are captured by the proposed constitutive models. The superstructure excitation
+    behind quay wall is
+
+    reproduced as well.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil Liquefaction.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-11-23'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1077655
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1077654
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-Mohammed-Youssef-Mohammed:
+    individualname: Ahmed Mohammed Youssef Mohammed
+    role: creator
+  Mohammad-Reza-Okhovat:
+    individualname: Mohammad Reza Okhovat
+    role: creator
+  Koichi-Maekawa:
+    individualname: Koichi Maekawa
+    role: creator
+  Mohammed-Ahmed-Mohammed-Youssef:
+    individualname: Mohammed, Ahmed Mohammed Youssef
+    role: ''
+    organization: ''
+    url: ''
+  Okhovat-Mohammad-Reza:
+    individualname: Okhovat, Mohammad Reza
+    role: ''
+    organization: ''
+    url: ''
+  Maekawa-Koichi:
+    individualname: Maekawa, Koichi
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

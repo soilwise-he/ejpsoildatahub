@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7006324
+  dataseturi: https://doi.org/10.5281/zenodo.7006324
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Contribution of green manure in controlling the loss of applied fertilizer
+    nitrogen from rainfed rice soil
+  abstract: This article 'Contribution of green manure in controlling the loss of
+    applied fertilizer nitrogen from rainfed rice soil' appeared in the International
+    Rice Research Notes series, created by the International Rice Research Institute
+    (IRRI) to expedite communication among scientists concerned with the development
+    of improved technology for rice and rice-based systems. The series is a mechanism
+    to help scientists keep each other informed of current rice research findings.
+    The concise scientific notes are meant to encourage rice scientists to communicate
+    with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: India
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1997-01-01'
+    publication: '1997'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7006324
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7006323
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bhattacharyya-K.:
+    individualname: Bhattacharyya, K.
+    role: creator
+    organization: ''
+    url: ''
+  Mandal-S.-R.:
+    individualname: Mandal, S. R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

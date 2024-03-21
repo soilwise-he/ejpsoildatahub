@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3355594
+  dataseturi: https://doi.org/10.5281/zenodo.3355594
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EXPERIMENTAL STUDY OF STABILIZED EXPANSIVE SOIL USING PUMICE MIXED WITH LIME
+    FOR SUBGRADE ROAD CONSTRUCTION
+  abstract: Unsuitable soil materials along the alignment of road projects have a
+    significant influence on planning, design, construction, and maintenance. Expansive
+    soils are susceptible to considerable volume changes due to seasonal variations
+    and moisture content. Most soils found in Jimma and Ambo Zones composed of plastic
+    clay soil, causing severe damage at the intermittent of pavement sections. This
+    research study conducted laboratory investigation considering combinations of
+    materials blended to stabilize the expansive soil for subgrade construction. An
+    experimental type of study performed which started by collecting specimens. Two
+    clayey soil specimens considered to test the free swell index obtained from a
+    depth of 1.5m to remove the organic impurities. Results indicated the chemical
+    analysis of pumice contained 82.68%, while its physical properties of the test
+    of fineness specific surface and residue on 45 microns showed 3770 cm2 /gm and
+    30%, respectively. As the lime content increased, the CBR strength also increased.
+    But, if the percent content of lime decreased with an increasing pumice content,
+    the CBR value did not show any significant increase. Both the chemical and physical
+    properties satisfied the requirements according to ASTM C-618. Hence, this experiment
+    obtained 7% lime + 3% pumice as an optimum mix ratio to stabilize expansive soils.
+  keywords:
+    default:
+      keywords:
+        subject: Expansive Soil; Lime; Plastic Clay Soil; Pumice; Stabilization Methods.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-31'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3355594
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3355593
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robel-Tewelde-Mesfun:
+    individualname: Robel Tewelde Mesfun
+    role: creator
+    organization: 1 Civil Engineering Department, Dire Dawa Institute of Technology,
+      Dire Dawa, Ethiopia
+    url: ''
+  Anteneh-Geremew:
+    individualname: Anteneh Geremew
+    role: creator
+    organization: Highway Engineering Stream, Jimma Institute of Technology, Jimma
+      University, Ethiopia
+    url: ''
+  Prof.-Emer-Tucay-Quezon:
+    individualname: Prof. Emer Tucay Quezon
+    role: creator
+    organization: Civil & Construction Engineering and Management Streams, Institute
+      of Technology, Ambo University, P.O Box. 019, Ambo, Oromia Region, Ethiopia
+    url: ''
+content_info: {}

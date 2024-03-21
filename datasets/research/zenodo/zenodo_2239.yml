@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Xu_2020
+  dataseturi: https://doi.org/10.3390/rs12091512
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Rapid Determination of Soil Class Based on Visible-Near Infrared, Mid-Infrared
+    Spectroscopy and Data Fusion
+  abstract: '&lt;p&gt;Wise soil management requires detailed soil information, but
+    conventional soil class mapping in a rather coarse spatial resolution cannot meet
+    the demand for precision agriculture. With the advantages of non-destructiveness,
+    rapid cost-efficiency, and labor savings, the spectroscopic technique has proved
+    its high potential for success in soil classification. Previous studies mainly
+    focused on predicting soil classes using a single sensor. In this study, we attempted
+    to compare the predictive ability of visible near infrared (vis-NIR) spectra,
+    mid-infrared (MIR) spectra, and their fused spectra for soil classification. A
+    total of 146 soil profiles were collected from Zhejiang, China, and the soil properties
+    and spectra were measured by their genetic horizons. Along with easy-to-measure
+    auxiliary soil information (soil organic matter, soil texture, color and pH),
+    four spectral data, including vis-NIR, MIR, their simple combination (vis-NIR-MIR),
+    and outer product analysis (OPA) fused spectra, were used for soil classification
+    using a multiple objectives mixed support vector machine model. The independent
+    validation results showed that the classification model using MIR (accuracy of
+    64.5%) was slightly better than that using vis-NIR (accuracy of 64.2%). The predictive
+    model built on vis-NIR-MIR did not improve the classification accuracy, having
+    the lowest accuracy of 61.1%, which likely resulted from an over-fitting problem.
+    The model based on OPA fused spectra performed best with an accuracy of 68.4%.
+    Our results prove the potential of fusing vis-NIR and MIR using OPA for improving
+    prediction ability for soil classification.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - support vector machine
+      - vis-NIR
+      - MIR
+      - outer product analysis
+      - soil classification
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Rapid Determination of Soil Class Based on Visible-Near Infrared, Mid-Infrared
+      Spectroscopy and Data Fusion
+    url: http://dx.doi.org/10.3390/rs12091512
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xu-Hanyi:
+    individualname: Xu, Hanyi
+    role: creator
+  Xu-Dongyun:
+    individualname: Xu, Dongyun
+    role: creator
+  Chen-Songchao:
+    individualname: Chen, Songchao
+    role: creator
+  Ma-Wanzhu:
+    individualname: Ma, Wanzhu
+    role: creator
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7472404
+  dataseturi: https://doi.org/10.5281/zenodo.7472404
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Soil Health &amp; Soil Heritage Project - Workshop Reports
+  abstract: 'This archive contains reports on workshops organised by the Soil Health
+    &amp; Soil Heritage Project. It mirrors content linked from the ipaast-czo project
+    website. This project aimed to build links between groups exploring how soils
+    in farmed landscapes are qualified, studied, modelled, and valued from different
+    perspectives: agricultural, environmental, and archaeological. It focused on data
+    created through remote and near-surface sensing technologies to provide an impetus
+    for cross-disciplinary conversations, because these data have the potential to
+    serve as a shared resource for research and management. The project aimed to identify
+    shared research and management priorities related to soil health and soil heritage
+    in agricultural landscapes, to evaluate the capability of commercial and experimental
+    sensors to provide data to address these shared priorities, and to identify barriers
+    to the creation of interoperable remote and near-surface sensing data resources
+    on soils and their role in agricultural systems. The project was led by a group
+    of researchers at the University of Glasgow, working on initiatives including
+    agri-environment sensing projects in CENSIS, the Global Soil Heath network, and
+    the ipaast-czo project on archaeological remote and near-surface sensing. In 2022,
+    the project reviewed instruments to assess their suitability for cross-domain
+    data collection and ran two workshops, in Dalswinton and Glasgow, to build a research
+    and practice network focused on sensing methods for soils.'
+  keywords:
+    default:
+      keywords:
+        subject: land management
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7472404
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7472403
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Opitz-Rachel:
+    individualname: Opitz, Rachel
+    role: creator
+    organization: University of Glasgow
+    url: https://orcid.org/0000-0002-5232-1434
+  Wakefield-Rachael:
+    individualname: Wakefield, Rachael
+    role: ProjectMember
+    organization: CENSIS
+    url: ''
+  Baldwin-Eamonn:
+    individualname: Baldwin, Eamonn
+    role: ProjectMember
+    organization: University of Glasgow
+    url: ''
+  Crawford-John:
+    individualname: Crawford, John
+    role: ProjectMember
+    organization: University of Glasgow
+    url: https://orcid.org/0000-0002-7139-0355
+content_info: {}

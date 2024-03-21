@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1110678
+  dataseturi: https://doi.org/10.5281/zenodo.1110678
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Predicting The Adsorptive Capacities Of Biosolid As A Barrier In Soil To
+    Remove Industrial Contaminants
+  abstract: 'The major environmental risk of soil pollution is the
+
+    contamination of groundwater by infiltration of organic and inorganic
+
+    pollutants which can cause a serious menace. To prevent this risk and
+
+    to protect the groundwater, we proceeded in this study to test the
+
+    reliability of a biosolid as barrier to prevent the migration of very
+
+    dangerous pollutants as ''Cadmium'' through the different soil layers. In this
+    study, we tried to highlight the effect of several parameters
+
+    such as: turbidity (different cycle of Hydration/Dehydration),
+
+    rainfall, effect of initial Cd(II) concentration and the type of soil.
+
+    These parameters allow us to find the most effective manner to
+
+    integrate this barrier in the soil. From the results obtained, we found a
+
+    significant effect of the barrier. Indeed, the recorded passing
+
+    quantities are lowest for the highest rainfall; we noted also that the
+
+    barrier has a better affinity towards higher concentrations; the most
+
+    retained amounts of cadmium has been in the top layer of the two
+
+    types of soil tested, while the lowest amounts of cadmium are
+
+    recorded in the bottom layers of soils.'
+  keywords:
+    default:
+      keywords:
+        subject: Protection.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-11-02'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1110678
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1110677
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hakim-Aguedal:
+    individualname: Hakim Aguedal
+    role: creator
+  Hafida-Hentit:
+    individualname: Hafida Hentit
+    role: creator
+  Abdallah-Aziz:
+    individualname: Abdallah Aziz
+    role: creator
+  Djillali-Rida-Merouani:
+    individualname: Djillali Rida Merouani
+    role: creator
+    organization: ''
+    url: ''
+  Abdelkader-Iddou:
+    individualname: Abdelkader Iddou
+    role: creator
+    organization: ''
+    url: ''
+  Aguedal-Hakim:
+    individualname: Aguedal, Hakim
+    role: ''
+    organization: ''
+    url: ''
+  Hentit-Hafida:
+    individualname: Hentit, Hafida
+    role: ''
+    organization: ''
+    url: ''
+  Aziz-Abdallah:
+    individualname: Aziz, Abdallah
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

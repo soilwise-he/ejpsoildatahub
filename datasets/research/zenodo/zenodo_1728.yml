@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10380981
+  dataseturi: https://doi.org/10.5281/zenodo.10380981
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Per- and polyfluoroalkyl substance (PFAS) removal from soil washing water
+    by coagulation and flocculation
+  abstract: "Soil washing is currently attracting attention as a promising remediation\
+    \ strategy for land contaminated withper- and polyfluoroalkyl substances (PFAS).\
+    \ In the soil washing process, the contaminant is transferred from thesoil into\
+    \ the liquid phase, producing a PFAS contaminated process water. One way to treat\
+    \ such process water isto use coagulation and flocculation; however, few studies\
+    \ are available on the performance of coagulation andflocculation for removing\
+    \ PFAS from such process water. This study evaluated 6 coagulants and flocculants(polyaluminium\
+    \ chloride (PACl), zirconium oxychloride octahydrate, cationic and anionic polyacrylamide,Polyclay\
+    \ 685 and Perfluor Ad\xAE), for the treatment of a proxy PFAS contaminated washing\
+    \ water, spiked withPFAS concentrations found at typical Aqueous Film Forming\
+    \ Foam (AFFF) contaminated sites. PFAS removalefficiencies (at constant pH) varied\
+    \ greatly depending on the coagulants and flocculants, as well as the dosageused\
+    \ and the targeted PFAS. All tested coagulants and flocculants reduced the turbidity\
+    \ by >95%, depending onthe dosage. Perfluor Ad\xAE, a specially designed coagulant,\
+    \ showed the highest removal efficiency for all longerchain (>99%) and shorter\
+    \ chain PFAS (>68%). The cationic polyacrylamide polymer removed longer chain\
+    \ PFASup to an average of 80%, whereas average shorter chain PFAS removal was\
+    \ lower (<30%). The two metal-basedcoagulants tested, PACl and zirconium, removed\
+    \ longer chain PFAS by up to an average of 61% and shorter chainPFAS up to 48%.\
+    \ Polyclay 685, a mixture of powdered activated carbon (PAC) and aluminium sulphate,\
+    \ removedlonger chain PFAS by 90% and shorter chain PFAS on average by 76%, when\
+    \ very high dosages of the coagulantwere used (2,000 mg/L). PFAS removal efficiencies\
+    \ correlated with chain length and headgroup. Shorter chainPFAS removal was dependent\
+    \ on electrostatic interaction with the precipitating flocs, whereas for longer\
+    \ chainPFAS, hydrophobic interactions between apolar functional groups and flocs\
+    \ created by the coagulant/flocculant,dissolved organic matter and suspended solids\
+    \ played a major role. The results of this study showed that byselecting the most\
+    \ efficient coagulant and aqueous conditions, a greater amount of PFAS can be\
+    \ removed fromprocess waters in soil washing facilities, and thus included as\
+    \ part of various treatment trains."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10380981
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10380482
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hubert-Michel:
+    individualname: Hubert, Michel
+    role: creator
+    organization: Norwegian Geotechnical Institute
+    url: 0000-0002-4817-7572
+  Meyn-Thomas:
+    individualname: Meyn, Thomas
+    role: creator
+    organization: Norwegian University of Science and Technology
+    url: ''
+  Hansen-Mona-Cecilie:
+    individualname: Hansen, Mona Cecilie
+    role: creator
+    organization: Norwegian Geotechnical Institute
+    url: ''
+  Hale-Sarah-E.:
+    individualname: Hale, Sarah E.
+    role: creator
+    organization: DVGW - Technologiezentrum Wasser
+    url: ''
+  Arp-Hans-Peter-H.:
+    individualname: Arp, Hans Peter H.
+    role: creator
+    organization: Norwegian Geotechnical Institute
+    url: ''
+content_info: {}

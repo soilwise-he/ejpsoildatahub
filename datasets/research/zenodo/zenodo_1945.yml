@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7122633
+  dataseturi: https://doi.org/10.5281/zenodo.7122633
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Moisture Regime and Straw Incorporation on Root Growth and
+    Yield of Rice
+  abstract: This article 'Effect of Soil Moisture Regime and Straw Incorporation on
+    Root Growth and Yield of Rice' appeared in the International Rice Research Newsletter
+    series, created by the International Rice Research Institute (IRRI). The primary
+    objective of this publication was to expedite communication among scientists concerned
+    with the development of improved technology for rice and for rice based cropping
+    systems. This publication will report what scientists are doing to increase the
+    production of rice in as much as this crop feeds the most densely populated and
+    land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Yields
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1987-04-01'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7122633
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7122632
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Singh-R.:
+    individualname: Singh, R.
+    role: creator
+    organization: ''
+    url: ''
+  Aggarwal-G.-C.:
+    individualname: Aggarwal, G. C.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-N.-T.:
+    individualname: Singh, N. T.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

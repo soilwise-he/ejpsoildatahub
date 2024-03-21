@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3249064
+  dataseturi: https://doi.org/10.5281/zenodo.3249064
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Particle Crushing Effect on The Geotechnical Properties of Soil
+  abstract: Foundations are considered as the backbone of a structure. Most of the
+    times, the foundation is laid on the soil. For the foundation design of any structure,
+    we need to know beforehand the soil conditions such as shear strength and permeability.
+    These parameters help us determine the bearing capacity of the soil. The soil
+    conditions are determined by performing various laboratory tests such as shear
+    box test or triaxial shear test. However, we cannot design the foundation considering
+    these data as the ground conditions will change once the loads are applied to
+    the soil as there are some soil particles with angularity or sharp edges will
+    break. Once they will break, soil conditions will not remain the same as they
+    were before since the gradation will change. This work is carried out in order
+    to know the impact soil breakage brings to the soil (granular soil). For this
+    purpose, actual ground conditions were simulated in the laboratory by applying
+    one-dimensional compression to soil particles for about 45 minutes in a Universal
+    Testing Machine (UTM). Different crushing loads to soil particles were applied
+    and the change in the soil behavior was monitored. It was found that due to particle
+    breakage of soil, the engineering properties of sand altered. This research work
+    aims to analyze the effect of particle breakage only in the case of sand.
+  keywords:
+    default:
+      keywords:
+        subject: crushing load
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-10'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3249064
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3249063
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rind-Touqeer-Ali:
+    individualname: Rind, Touqeer Ali
+    role: creator
+    organization: Department of Civil Engineering, Mehran University of Engineering
+      and Technology, Shaheed Zulfiqar Ali Bhutto Campus, Khairpur Mirs', Pakistan
+      touqeerali@muetkhp.edu.pk
+    url: ''
+  Karira-Hemu:
+    individualname: Karira, Hemu
+    role: creator
+    organization: Department of Civil Engineering, Mehran University of Engineering
+      and Technology, Shaheed Zulfiqar Ali Bhutto Campus, Khairpur Mirs', Pakistan
+      engr.hemu07civil@gmail.com
+    url: ''
+  Jhatial-Ashfaque-Ahmed:
+    individualname: Jhatial, Ashfaque Ahmed
+    role: creator
+    organization: Department of Civil Engineering, Mehran University of Engineering
+      and Technology, Shaheed Zulfiqar Ali Bhutto Campus, Khairpur Mirs', Pakistan
+      ashfaqueahmed@muetkhp.edu.pk
+    url: ''
+  Sohu-Samiullah:
+    individualname: Sohu, Samiullah
+    role: creator
+    organization: Department of Civil Engineering, Quaid-e-Awam University of Engineering,
+      Science and Technology, Larkana Campus, Larkana, Sindh, Pakistan engr.samiullah@quest.edu.pk
+    url: ''
+  Sandhu-Abdul-Razzaque:
+    individualname: Sandhu, Abdul Razzaque
+    role: creator
+    organization: Department of Civil Engineering, Mehran University of Engineering
+      and Technology, Shaheed Zulfiqar Ali Bhutto Campus, Khairpur Mirs', Pakistan
+      abdulrazzaque@muetkhp.edu.pk
+    url: ''
+content_info: {}

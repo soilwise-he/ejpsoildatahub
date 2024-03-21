@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1325889
+  dataseturi: https://doi.org/10.5281/zenodo.1325889
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Post-Fire Soil Carbon Accumulation Does Not Recover Peatland Combustion Losses
+    In Some Hydrogeological Settings
+  abstract: Peatland soil carbon accumulation and peat properties along a chronosequence
+    of time since fire for 26 Boreal Plains ombrotrophic bogs located in different
+    hydrogeological settings. Peat carbon accumulation since most recent fire is calculated
+    using the location of charcoal deposits in samples, loss on ignition and carbon
+    content of peat.
+  keywords:
+    default:
+      keywords:
+        subject: Carbon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-08-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1325889
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1325888
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ingram-Rebekah:
+    individualname: Ingram, Rebekah
+    role: creator
+    organization: Lead Author
+    url: ''
+  Moore-Paul:
+    individualname: Moore, Paul
+    role: creator
+    organization: Co-author
+    url: https://orcid.org/0000-0003-1924-1528
+  Wilkinson-Sophie:
+    individualname: Wilkinson, Sophie
+    role: creator
+    organization: Co-author
+    url: https://orcid.org/0000-0002-4043-6277
+  Petrone-Richard:
+    individualname: Petrone, Richard
+    role: creator
+    organization: Co-author
+    url: ''
+  Waddington-James-Micheal:
+    individualname: Waddington, James Micheal
+    role: creator
+    organization: Co-author
+    url: https://orcid.org/0000-0002-0317-7894
+content_info: {}

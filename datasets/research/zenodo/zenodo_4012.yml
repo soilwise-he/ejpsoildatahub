@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132683
+  dataseturi: https://doi.org/10.5281/zenodo.1132683
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of The Mechanical Behavior Of A Retaining Wall Structure On A
+    Weathered Soil Through Probabilistic Methods
+  abstract: "Retaining slope structures are increasingly considered in geotechnical\
+    \ engineering projects due to extensive urban cities growth. These kinds of engineering\
+    \ constructions may present instabilities over the time and may require reinforcement\
+    \ or even rebuilding of the structure. In this context, statistical analysis is\
+    \ an important tool for decision making regarding retaining structures. This study\
+    \ approaches the failure probability of the construction of a retaining wall over\
+    \ the debris of an old and collapsed one. The new solution\u2019s extension length\
+    \ will be of approximately 350 m and will be located over the margins of the Lake\
+    \ Parano\xE1, Brasilia, in the capital of Brazil. The building process must also\
+    \ account for the utilization of the ruins as a caisson. A series of <em>in situ</em>\
+    \ and laboratory experiments defined local soil strength parameters. A Standard\
+    \ Penetration Test (SPT) defined the <em>in situ</em> soil stratigraphy. Also,\
+    \ the parameters obtained were verified using soil data from a collection of masters\
+    \ and doctoral works from the University of Bras\xEDlia, which is similar to the\
+    \ local soil. Initial studies show that the concrete wall is the proper solution\
+    \ for this case, taking into account the technical, economic and deterministic\
+    \ analysis. On the other hand, in order to better analyze the statistical significance\
+    \ of the factor-of-safety factors obtained, a Monte Carlo analysis was performed\
+    \ for the concrete wall and two more initial solutions. A comparison between the\
+    \ statistical and risk results generated for the different solutions indicated\
+    \ that a Gabion solution would better fit the financial and technical feasibility\
+    \ of the project."
+  keywords:
+    default:
+      keywords:
+        subject: statistical analysis.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-09-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132683
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132682
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-V.-S.-Mascarenhas:
+    individualname: P. V. S. Mascarenhas
+    role: creator
+    organization: ''
+    url: ''
+  B.-C.-P.-Albuquerque:
+    individualname: B. C. P. Albuquerque
+    role: creator
+    organization: ''
+    url: ''
+  D.-J.-F.-Campos:
+    individualname: D. J. F. Campos
+    role: creator
+    organization: ''
+    url: ''
+  L.-L.-Almeida:
+    individualname: L. L. Almeida
+    role: creator
+    organization: ''
+    url: ''
+  V.-R.-Domingues:
+    individualname: V. R. Domingues
+    role: creator
+    organization: ''
+    url: ''
+  L.-C.-S.-M.-Ozelim:
+    individualname: L. C. S. M. Ozelim
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

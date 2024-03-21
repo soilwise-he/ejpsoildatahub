@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3724178
+  dataseturi: https://doi.org/10.5281/zenodo.3724178
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Smart Irrigation System using Soil Moisture Sensor
+  abstract: <strong>The irrigation system may be a method that ensures that each one
+    plants get enough water for growth. However, thanks to the climate exchange, especially
+    in season, the soil tends to lose its moisture. Although, the automated irrigation
+    system has been applied within the agriculture sector, water consumption and energy
+    can't be controlled through this technique thanks to the system operated under
+    time delay. Usually, farmers only can turn on or off the system manually depends
+    on the weather. Consequently, this paper presented the computerized water system
+    framework utilizing android- based application remote correspondence. The framework
+    includes a dispersed remote system of soil-dampness, stickiness and temperature
+    sensors. Utilizing this framework, the observing and controlling water system
+    should be possible by means of Android application from any area.</strong>
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-03-23'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3724178
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3724177
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vaishali-V.-Warade:
+    individualname: Vaishali V. Warade
+    role: creator
+  Ankita-N.-Pachpande:
+    individualname: Ankita N. Pachpande
+    role: creator
+    organization: UG Student, Department of Computer Science and Engineering, Padmashri
+      Dr. V. B. Kolte College of Engineering, Malkapur, Buldana, Maharashtra, India
+    url: ''
+  Rajeshwari-N.-Bathe:
+    individualname: Rajeshwari N. Bathe
+    role: creator
+  Ronald-V.-Agrawal:
+    individualname: Ronald V. Agrawal
+    role: creator
+  M.-U.-Karande:
+    individualname: M. U. Karande
+    role: creator
+    organization: Assistant Professor, Department of Computer Science and Engineering,
+      Padmashri Dr. V. B. Kolte College of Engineering, Malkapur, Buldana, Maharashtra,
+      India
+    url: ''
+  Warade-Vaishali-V.:
+    individualname: Warade, Vaishali V.
+    role: ''
+    organization: UG Student, Department of Computer Science and Engineering, Padmashri
+      Dr. V. B. Kolte College of Engineering, Malkapur, Buldana, Maharashtra, India
+    url: ''
+  Bathe-Rajeshwari-N.:
+    individualname: Bathe, Rajeshwari N.
+    role: ''
+    organization: UG Student, Department of Computer Science and Engineering, Padmashri
+      Dr. V. B. Kolte College of Engineering, Malkapur, Buldana, Maharashtra, India
+    url: ''
+  Agrawal-Ronald-V.:
+    individualname: Agrawal, Ronald V.
+    role: ''
+    organization: UG Student, Department of Computer Science and Engineering, Padmashri
+      Dr. V. B. Kolte College of Engineering, Malkapur, Buldana, Maharashtra, India
+    url: ''
+content_info: {}

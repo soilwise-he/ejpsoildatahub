@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6348745
+  dataseturi: https://doi.org/10.5281/zenodo.6348745
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Carbon, Nitrogen and Sulphur Mineralisation in a Soil from Three Decomposing
+    Plant Materials of Varying C/N, C /S and N/S Ratios
+  abstract: "Department of Agricultural Chemistry and Soil Science, Bidhan Chandra\
+    \ Krishi Vlswa Vidyalaya, Kalyani, West Bengal<br> <em>Manuscript received 17\
+    \ December 1980, revised 17 August 1981, accepted 10 December 1981</em> A laboratory\
+    \ incubation study was undertaken to compare the carbon, nitrogen and sulphur\
+    \ mineralisation in a soil from three decomposing plant materials, namely, dhaincha\
+    \ (\\(Sesbania\\) \\(aculeata\\)), cowpea (\\(Vigna\\) \\(sinenns\\)) and waler-hyacinth\
+    \ (\\(Eichorna\\) \\(crasspipes\\)) of varying C/N, C/S and N/S ratios applied\
+    \ at five different levels. Both carbon and nitrogen mineralisation from three\
+    \ different plant materials followed the order : dhaincha\u2265cowpea\u2265water-hyaeinth.\
+    \ The extent of carbon mineralisation was found to be a reflection of the organic\
+    \ carbon content of tbe added organic matter. C/N ratio of the added plant material\
+    \ predominantly controls nitrogen mineralisation in soil. While sulphur mineralisation\
+    \ was found not only to depend on the sulphur content of the added plant material\
+    \ but also to their composition in relation to organic carbon and total nitrogen."
+  keywords:
+    default:
+      keywords:
+        subject: supplement
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-01-31'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6348745
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6348744
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.-BHATTACHARJYA:
+    individualname: U. BHATTACHARJYA
+    role: creator
+    organization: ''
+    url: ''
+  PARTHA-MUKHOPADHYAY:
+    individualname: PARTHA MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

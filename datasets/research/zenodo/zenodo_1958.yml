@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398299
+  dataseturi: https://doi.org/10.5281/zenodo.10398299
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Genetic Improvement of Rice Through Molecular Breeding for its Efficient
+    Utilization of Available Soil Nitrogen
+  abstract: "To fulfil the demand of the global agricultural sector, which depends\
+    \ on nitrogen fertilizers for half of its operating costs, global annual production\
+    \ of nitrogen (N) fertilizer has surpassed 123 million tonnes and is continuing\
+    \ to rise. Additionally, the current war of Russian-Ukraine soared the international\
+    \ benchmark prices of N fertilizers more than threefold, which resulted into serious\
+    \ negative impacts such as poor supply chain, trade flows and costs, as well as\
+    \ inflationary pressures on global rice crop production. On the other hand, over-application\
+    \ of nitrogenous fertilizers has several negative impacts on environment and human\
+    \ health. Generally, lower than 30-50% of the applied nitrogen is utilized by\
+    \ rice plants and approximately 67% is lost via different ways from the recommended\
+    \ dose of 90-120 (N/kg/ha\u22121). Thus, there is an urgent need to genetically\
+    \ improve rice lines with improved NUE. Despite of limited success of conventional\
+    \ breeding, recent advances in molecular breeding offer great scope. Notably,\
+    \ more than 500 genomic regions were reported to be associated with NUE in rice\
+    \ and out of these, 12 meta-QTLs (located on chromosome 1, 3, 4, and 8) were found\
+    \ to be major and having phenotypic variations of 11.0-30.1%. However, such QTLs\
+    \ need to be validated before proceeding into the regional molecular breeding\
+    \ program. An extensive field experiments was conducted with the mini core set\
+    \ of rice 3k panel consists of 133 association mapping panel lines (AMPLs), 56\
+    \ landraces along with 29 popular rice varieties to validate those consensus QTLs\
+    \ associated with NUE. Results of these efforts will be presented during the congress,\
+    \ which would be vital to adopt a novel breeding strategy to achieve a sustainable\
+    \ rice production along with ensuring minimum negative impacts on the environment.\
+    \ Keywords: Rice, N2, Green revolution, yield, precision agriculture, food security"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398299
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398298
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salama-Ehab:
+    individualname: Salama, Ehab
+    role: creator
+    organization: Department of Plant Biotechnology, CPMB&B, Tamil Nadu Agricultural
+      University, Coimbatore 641003, Coimbatore, India
+    url: ''
+  Muthurajan-Raveendran:
+    individualname: Muthurajan, Raveendran
+    role: creator
+    organization: Department of Plant Biotechnology, CPMB&B, Tamil Nadu Agricultural
+      University, Coimbatore 641003, Coimbatore, India
+    url: ''
+  Narayanan-Manikanda-Boopathi:
+    individualname: Narayanan, Manikanda Boopathi
+    role: creator
+    organization: Department of Plant Biotechnology, CPMB&B, Tamil Nadu Agricultural
+      University, Coimbatore 641003, Coimbatore, India
+    url: ''
+content_info: {}

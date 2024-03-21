@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3459235
+  dataseturi: https://doi.org/10.5281/zenodo.3459235
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Review of Brick Waste in Expansive Soil Stabilization and Other Civil Engineering
+    Applications
+  abstract: The expansive clay soils are spread in a large area all over the world.
+    They are one of the predominated problematic soils which can change their volume
+    and loss their shear strength when they exposed to water. Several methods have
+    been used to mitigate the negative effects of expansive soil on civil engineering
+    structures and constructions. Different materials have been applied in these stabilization
+    methods (physical or chemical stabilization). Wastes from construction and demolition
+    of the buildings are among these materials that used as soil stabilizer agents.
+    This paper presents a critical review on one of construction and demolition wastes
+    materials, i.e. brick waste, which is found in large quantiles. The characterization
+    and utilization of brick waste in stabilization of expansive soil and other civil
+    engineering applications was discussed and presented in this paper.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-24'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3459235
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3459234
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-Al-Baidhani:
+    individualname: Ali Al-Baidhani
+    role: creator
+  Abbas-Al-Taie:
+    individualname: Abbas Al-Taie
+    role: creator
+  Al-Baidhani-Ali:
+    individualname: Al-Baidhani, Ali
+    role: ''
+    organization: M.Sc Student, Department of Civil Engineering, College of Engineering,
+      Al-Nahrain University, Baghdad, Iraq
+    url: ''
+  Al-Taie-Abbas:
+    individualname: Al-Taie, Abbas
+    role: ''
+    organization: Assistant Professor, Department of Civil Engineering, College of
+      Engineering, Al-Nahrain University, Baghdad, Iraq
+    url: ''
+content_info: {}

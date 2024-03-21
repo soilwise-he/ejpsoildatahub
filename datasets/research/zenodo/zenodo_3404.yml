@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: oai:zenodo.org:1145
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Report on centrifuge test techniques with Soil Structure Interaction
+  abstract: 'Soil-structure interaction plays an important role in the dynamic response
+    of many types of structures. In the SERIES project the dynamic soil structure
+    interaction is investigated for a single degree of freedom structure. This is
+    an interesting problem where the dynamic response of the
+
+    structure combines with the lifting-off of the base during rocking vibrations.
+    Two types of single degree of freedom structures were considered, one with a lumped
+    mass at the top and the other with a sway-frame.
+
+    Several centrifuge tests were carried out changing the structures and soil densities.
+    Again there was some overlap between the test specifications. The structures tested
+    at UCAM had bearing pressures of 50 kPa and 100 kPa, while those tested at IFSTTAR
+    had 100 kPa and 300 kPa. Similarly the
+
+    stiffness of structure was changed in different centrifuge tests. The construction
+    of the model structures was matched as closely as possible between the two centres.
+    The dynamic response of the structures subjected to model earthquake loading was
+    measured in several different ways. Some techniques of measurement were common
+    between UCAM and
+
+    IFSTTAR, while others such as advanced dynamic PIV measurements based on fast
+    digital imaging were carried out at UCAM only. This technique is able give the
+    soil displacement vectors at different points within an earthquake loading cycle.
+    In all centrifuge tests, the accelerations within
+
+    the soil and at different locations on the structure were measured using miniature
+    accelerometers. The acceleration data was used to obtain the moment-rotation loops
+    for the structure for different earthquakes. These were compared for structures
+    of different stiffness, foundation soil placed at different relative densities
+    and earthquakes of different intensity and frequency content. In this report details
+    are given of the general theory of centrifuge modelling. This is followed by the
+    experimental facilities, centrifuge model containers, instrumentation and data
+    acquisition used at UCAM and IFSTTAR facilities. The details of the design of
+    different model structures are also presented. Following this, the model preparation
+    techniques including the air-pluviation devices
+
+    used are presented. The technique of PIV analysis using digital images from a
+    fast digital camera is introduced. Following this the experimental data obtained
+    in each centrifuge test such as acceleration time histories, settlement time histories
+    and the results of the analyses of the data in the form of moment-rotation loops
+    are presented. Results from some of the selected PIV analysis are 2 also shown.
+    Finally a brief summary of the research carried out in JRA 3.2 work package and
+    the main outcomes are presented.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Heron-Charles:
+    individualname: Heron, Charles
+    role: creator
+  Cilingir-Ulas:
+    individualname: Cilingir, Ulas
+    role: creator
+  Haigh-Stuart:
+    individualname: Haigh, Stuart
+    role: creator
+  Madabhushi-Gopal:
+    individualname: Madabhushi, Gopal
+    role: creator
+  Escoffier-Sandra:
+    individualname: Escoffier, Sandra
+    role: creator
+  Chazelas-Jean-Louis:
+    individualname: Chazelas, Jean Louis
+    role: creator
+content_info: {}

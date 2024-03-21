@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10463454
+  dataseturi: https://doi.org/10.5281/zenodo.10463454
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Chemical, thermal and mineralogical characteristics of concretes in stabilized
+    soil with sugar cane molasses
+  abstract: "Abstract This paper scrutinizes MEDDRX, TGA, IR, DTA\u2019s analyses\
+    \ performed on stabilized soil concrete with sugar cane molasses. It is important\
+    \ to underline that the soil remains the principal material in house construction\
+    \ in the Republic of the Congo. The use of sugar cane molasses as a stabilizing\
+    \ to bricks and soil roads appears as an alternative solution to valorise this\
+    \ agro-industrial by-product; moreover, sugar cane molasses has led to obtain\
+    \ soil-made materials with highly enhanced mechanical properties. Therefore, this\
+    \ study has enabled to determine the evolution of induced structure by the presence\
+    \ of molasses within the soil matrix. As a consequence, the final results clearly\
+    \ indicate that the molasses brings no alteration to kaolinite\u2019s structure.\
+    \ However, molasses spreads on basal and lateral surface of clay, and sugar groupings\
+    \ establish physical interactions with silanol and aluminol groupings of clay\u2019\
+    s external surface. Thereby, the interaction between molasses and clay of soil\
+    \ is essentially physical. Molasses\u2019 presence within stabilized soil matrix\
+    \ is ascertained by the appearance of thermal peaks attributed to sucrose pyrolysis,\
+    \ whereas the appearance of absorption bands is attributed to aromatic compounds\
+    \ responsible of the colouring. The thermal decomposition of stabilized soil with\
+    \ molasses takes place following four thermal peaks: 150-200 \xB0C, 300 \xB0C,\
+    \ 480-500 \xB0C, and 700 \xB0C."
+  keywords:
+    default:
+      keywords:
+        subject: Characteristics, chemical, thermal, mineralogical, soil concrete,
+          stabilization, fine soil of stabilized concrete and caused by dyes presented
+          in the clayey molasses, sugar cane molasses
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-31'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10463454
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10463453
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nice-Ngouallat-Mfoutou:
+    individualname: Nice Ngouallat Mfoutou
+    role: creator
+    organization: Higher National Polytechnic School, Mechanics, Energy and Engineering
+      Laboratory, Marien Ngouabi University, BP 69, Brazzaville, Congo
+    url: ''
+  Narcisse-Malanda:
+    individualname: Narcisse Malanda
+    role: creator
+    organization: Higher National Polytechnic School, Mechanics, Energy and Engineering
+      Laboratory, Marien Ngouabi University, BP 69, Brazzaville, Congo
+    url: ''
+  Erman-Eloge-Nzaba-Madila:
+    individualname: Erman Eloge Nzaba Madila
+    role: creator
+    organization: "Higher Institute of Architecture, Building Planning and Public\
+      \ Works, Denis SASSOU N'GUESSO University, Kint\xE9l\xE9, Congo"
+    url: ''
+  Paul-Louzolo-Kimbembe:
+    individualname: Paul Louzolo-Kimbembe
+    role: creator
+    organization: University of Quebec, Trois Rivieres, Hydrogen research institute,
+      Quebec Canada
+    url: ''
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10473317
+  dataseturi: https://doi.org/10.5281/zenodo.10473317
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Expansive Soil Improvement with Limestone and  Iron Oxide Mixture Case Studies
+    at the Tomata-Beteleme National Road Segment
+  abstract: 'Stabilising expansive road subgrade by adding natural limestone and iron
+    oxide is an efficient and economically valuable way of utilising local materials
+    and solving iron oxide waste in environmental problems. In this study, the composition
+    of the mixture was made with proportions: limestone at the optimum level of 6%
+    and iron oxide with varying levels of 0%, 0.2%, 0.4%, 0.8%, and 1.6%. As support
+    in this study, X-ray Diffraction tests and SEM photographs were also conducted
+    to determine the content and composition of expansive clay minerals before and
+    after mixing with stabilisation materials. The test results showed the CBR value
+    without soaking expansive soil compacted according to standard compaction: 12.31%;
+    after being stabilised with 6% limestone and 1.6% iron oxide additive, the value
+    increases to 25.37% with an increased ratio of 106.09%. For the original soil
+    soaking, the CBR value was 8.65%; after stabilisation with 6% limestone and 1.6%
+    iron oxide additive, the value increased to 20.49% with an increase ratio of 136.87%.
+    The results of X-ray Diffraction testing and SEM photos show the addition of new
+    mineral compounds after the original soil is mixed with limestone and iron oxide
+    stabilisation materials, including mineral compounds C-S-H (Calcium Silicate Hydrate).
+    This chemical compound has cementation properties.
+
+
+    Keywords:- Subgrade, Expansive Soil, Limestone, Iron Oxide.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-09'
+    accepted: '2024-01-09'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10473317
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10473316
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Edy-Sulistianto:
+    individualname: Edy Sulistianto
+    role: creator
+    organization: ''
+    url: ''
+  Sukiman-Nurdin:
+    individualname: Sukiman Nurdin
+    role: creator
+    organization: ''
+    url: ''
+  Syamsul-Arifin:
+    individualname: Syamsul Arifin
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

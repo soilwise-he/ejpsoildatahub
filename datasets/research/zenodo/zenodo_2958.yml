@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Grygorenko_2019
+  dataseturi: https://doi.org/10.15587/2312-8372.2019.155537
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Development of a method for obtaining sorbent from bagasse of sweet sorghum
+    for neutralization of soil contamination by heavy metal ions
+  abstract: '&lt;p&gt;&lt;em&gt;The object of research is the industrial waste of
+    plant raw materials of sweet sorghum (lignocellulosic bagasse) and a modified
+    sorbent created on its basis for cleaning soils contaminated with heavy metal
+    ions. Traditionally, the modification of plant materials to obtain sorbents involves
+    the oxidation (hydrolysis) of plant material under the action of strong mineral
+    acids at high temperature. After acid treatment, alkaline activation and repeated
+    washing of the sorbent is carried out until neutral wash water. The yield of the
+    sorbent is 20&ndash;30 % by weight of raw materials. In addition, a significant
+    amount of decomposition products and large volumes of hazardous wastewater are
+    generated. Therefore in the course of the study, a mercerization method was used
+    to obtain a sorbent &ndash; treating lignocellulosic bagasse with an alkali solution.&lt;/em&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;em&gt;The main components of lignocellulosic bagasse are lignin and
+    cellulose, connected in biopolymer complexes. In their raw form, they have weak
+    sorption properties through the fibrillary structure and low content of free functional
+    groups in them. Under the conditions of the mercerization process, the molecular
+    bonds between the fibers of the biopolymers are partially destroyed and the solution
+    of low molecular weight polysaccharides is dissolved. The structural framework
+    of the lignocellulosic matrix is preserved, and its ability to swell is growing.
+    Integrity is preserved, vegetable fibers improve their structural-porous structure
+    by increasing the internal adsorption surface. The optimal conditions for the
+    mercerization process are a hydro module of 1:10 with an initial alkali concentration
+    of 120 g/l. The maximum sorption values of heavy metal ions increase by a factor
+    of 2&ndash;3. The sorbent yield reaches 60&ndash;80 %. In addition, the advantage
+    of this method is the absence of harmful wastewater.&lt;/em&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;em&gt;The developed method can be used for processing waste and other
+    plant materials (corn, sunflower, sugar cane, etc.), and the resulting sorbent
+    is used in agricultural technologies for neutralization of soils contaminated
+    with heavy metal ions.&lt;/em&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - waste mercerization
+      - sorbent for cleaning soils
+      - sweet sorghum
+      - lignocellulosic bagasse
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Development of a method for obtaining sorbent from bagasse of sweet sorghum
+      for neutralization of soil contamination by heavy metal ions
+    url: http://dx.doi.org/10.15587/2312-8372.2019.155537
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Natalia-Grygorenko:
+    individualname: Natalia Grygorenko
+    role: creator
+  Lidia-Kupchik:
+    individualname: Lidia Kupchik
+    role: creator
+  Nadezhda-Stangeeva:
+    individualname: Nadezhda Stangeeva
+    role: creator
+  Grygorenko-Natalia:
+    individualname: Grygorenko, Natalia
+    role: creator
+  Kupchik-Lidia:
+    individualname: Kupchik, Lidia
+    role: creator
+  Stangeeva-Nadezhda:
+    individualname: Stangeeva, Nadezhda
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

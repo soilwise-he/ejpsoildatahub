@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6467656
+  dataseturi: https://doi.org/10.5281/zenodo.6467656
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: COMPARISON OF DESIGN OF MULTI-RISERS USING STIFFNESS MATRIX METHOD AND CONTINUUM
+    METHOD FOR THE STUDY OF SOIL STRUCTURE INTERACTION EFFECTS
+  abstract: "The most common Superstructure modelling procedure is the fixed base\
+    \ approach which assumes infinite stiffness at the foundation \u2013soil interface.\
+    \ The above assumption is valid only for light structures on very stiff, rocky\
+    \ strata. It is seen that the relative stiffness between the superstructure &amp;\
+    \ foundation is the major influencing factor. The current codes do not specify\
+    \ the provision of Soil-Structure-Interaction effects on the super structure modelling.\
+    \ Literature study showed a large number of case studies of the soil structure\
+    \ interaction effects on the low rise buildings. The S.S.I effect for the low\
+    \ rise buildings is considered to be moresevere because of the height as it results\
+    \ in much smaller time period which generally falls in the linearly increasing\
+    \ range in the response spectrum given in IS 1893(Part 1).The linear range gives\
+    \ a higher value of the seismic base shear due to increased period on account\
+    \ of consideration of flexibility of soils. Also the earthquake forces are the\
+    \ predominant dynamic load case for low to medium rise buildings.In the present\
+    \ study, the performance of a set of multi \u2013risers with similar plan, geometric\
+    \ configuration and material properties with variable heights is checked considering\
+    \ the soil structure interaction model with respect to the fixed base model. The\
+    \ assessment of the variation in design due to the soil structure interaction\
+    \ effect is done. For the purpose, the study of various soil structure models\
+    \ was done and the pros and cons of each model were studied and a comparative\
+    \ assessment was done to find the best suitable model for the problem in consideration.\
+    \ The IS code specifications for the dynamic load case analysis of structures\
+    \ were studied to know the assumptions made for the dynamic analysis of structures\
+    \ and also select the best soil structure model. The most common dynamic load\
+    \ analysis methods for the R.C.C buildings are the equivalent lateral force method\
+    \ and the response spectrum method for the seismic forces and the wind load analysis\
+    \ is done using the static method of application of wind forces calculated from\
+    \ the wind pressure which is dependent on the basic wind speed. Hence the representation\
+    \ of soil medium as static springs whose stiffness values are calculated using\
+    \ a continuum method where the soil is viewed as a continuum with elastic properties\
+    \ and the solution involves rigid body motion equations and the matrix of dynamic\
+    \ influence is solved using various methods like Laplace\u2019s transformations,\
+    \ Fourier transformations etc.The paper \u201CAnalysis of Machine foundation vibrations\u201D\
+    \ by George Gazetas has given the various soil models and the different methodologies\
+    \ used in the solutions which was used as reference to compute the spring stiffness.\
+    \ The fixed base analysis was done and an appropriate foundation was arrived at.The\
+    \ direct method of the interaction study in which the soil element represented\
+    \ as static springs using continuum are applied to the structure and the assessment\
+    \ of variation in results are done. The analysis of multi-risers is usually done\
+    \ by assuming a fixed base as in most cases the foundation is taken to rest on\
+    \ rocky soils. The changes in design results due the assignment of soil springs\
+    \ are analyzed in the present study."
+  keywords:
+    default:
+      keywords:
+        subject: Soil Structure Interaction Effects, Stiffness matrix method, flexibility
+          of foundation
+  status: ''
+  language: bah
+  dates:
+    creation: ''
+    issued: '2022-04-18'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6467656
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6467655
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Roshni-Ramakrishnan:
+    individualname: Roshni Ramakrishnan
+    role: creator
+  Ramakrishnan-Roshni:
+    individualname: Ramakrishnan, Roshni
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

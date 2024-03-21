@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3710553
+  dataseturi: https://doi.org/10.5281/zenodo.3710553
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: SOIL FERTILITY REGENERATION USING SOME FALLOW LEGUMES
+  abstract: "A field experiment was conducted at the Eastern farm of Michael Okpara\
+    \ University of Agriculture, Umudike. The aim to determine the effects of some\
+    \ Centrosema species: Centrosema brasilianum, Centresoma pascuorum, Centrosema\
+    \ pubescens and natural fallow (as control) on available soil organic carbon,\
+    \ organic matter, total nitrogen and available phosphorus. The experiment was\
+    \ laid out in a randomized complete block design with three replications and terminated\
+    \ 14 weeks after planting. Results indicate that the Centrosema species showed\
+    \ significantly (p&lt;0.05) higher percentage increase in organic carbon and organic\
+    \ matter compared to the natural fallow. However, Centresoma pascuorum gave highest\
+    \ significant values of organic carbon (0.98\xB10.01%), organic matter (1.69\xB1\
+    0.01%), total nitrogen (0.11\xB10.00%) and phosphorus (11.60\xB10.31mg/kg). Plant\
+    \ total nitrogen varied among species with Centrosema brasilianum giving highest\
+    \ significant value of (2.82%). This study indicates that among the legumes studied,\
+    \ Centresoma pascuorum was superior and should be used to enhance soil fertility."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-03-11'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3710553
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3710552
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ndukwe-K.-O.:
+    individualname: Ndukwe, K. O.,
+    role: creator
+    organization: Department of Science Laboratory Technology, Abia State Polytechnic
+      P.M.B.7166 Aba, Abia State, Nigeria.
+    url: ''
+  Edeoga-H.-O:
+    individualname: Edeoga, H. O
+    role: creator
+    organization: Department of Plant Science and Biotechnology, Michael Okpara University
+      of Agriculture Umudike, Abia State, Nigeria
+    url: ''
+  Omosun-G:
+    individualname: Omosun, G
+    role: creator
+    organization: Department of Plant Science and Biotechnology, Michael Okpara University
+      of Agriculture Umudike, Abia State, Nigeria
+    url: ''
+content_info: {}

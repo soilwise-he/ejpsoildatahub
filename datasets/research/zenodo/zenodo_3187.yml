@@ -1,0 +1,165 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Rom_n_Casc_n_2020
+  dataseturi: https://doi.org/10.3390/rs12111701
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Can We Use Satellite-Based Soil-Moisture Products at High Resolution to\
+    \ Investigate Land-Use Differences and Land\u2013Atmosphere Interactions? A Case\
+    \ Study in the Savanna"
+  abstract: '&lt;p&gt;The use of soil moisture (SM) measurements from satellites has
+    grown in recent years, fostering the development of new products at high resolution.
+    This opens the possibility of using them for certain applications that were normally
+    carried out using in situ data. We investigated this hypothesis through two main
+    analyses using two high-resolution satellite-based soil moisture (SBSM) products
+    that combined microwave with thermal and optical data: (1) The Disaggregation
+    based on Physical And Theoretical scale Change (DISPATCH) and, (2) The Soil Moisture
+    Ocean Salinity-Barcelona Expert Center (SMOS-BEC Level 4). We used these products
+    to analyse the SM differences among pixels with contrasting vegetation. This was
+    done through the comparison of the SM measurements from satellites and the measurements
+    simulated with a simple antecedent precipitation index (API) model, which did
+    not account for the surface characteristics. Subsequently, the deviation of the
+    SM from satellite with respect to the API model (bias) was analysed and compared
+    for contrasting land use categories. We hypothesised that the differences in the
+    biases of the varied categories could provide information regarding the water
+    retention capacity associated with each type of vegetation. From the satellite
+    measurements, we determined how the SM depended on the tree cover, i.e., the denser
+    the tree cover, the higher the SM. However, in winter periods with light rain
+    events, the tree canopy could dampen the moistening of the soil through interception
+    and conducted higher SM in the open areas. This evolution of the SM differences
+    that depended on the characteristics of each season was observed both from satellite
+    and from in situ measurements taken beneath a tree and in grass on the savanna
+    landscape. The agreement between both types of measurements highlighted the potential
+    of the SBSM products to investigate the SM of each type of vegetation. We found
+    that the results were clearer for DISPATCH, whose data was not smoothed spatially
+    as it was in SMOS-BEC. We also tested whether the relationships between SM and
+    evapotranspiration could be investigated using satellite data. The answer to this
+    question was also positive but required removing the unrealistic high-frequency
+    SM oscillations from the satellite data using a low pass filter. This improved
+    the performance scores of the products and the agreement with the results from
+    the in situ data. These results demonstrated the possibility of using SM data
+    from satellites to substitute ground measurements for the study of land&ndash;atmosphere
+    interactions, which encourages efforts to improve the quality and resolution of
+    these measurements.&nbsp;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil moisture
+      - satellite data
+      - land use
+      - heterogeneity
+      - savanna
+      - DISPATCH
+      - SMOS-BEC
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Can We Use Satellite-Based Soil-Moisture Products at High Resolution to\
+      \ Investigate Land-Use Differences and Land\u2013Atmosphere Interactions? A\
+      \ Case Study in the Savanna"
+    url: http://dx.doi.org/10.3390/rs12111701
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Carlos-Roman-Cascon:
+    individualname: "Carlos Rom\xE1n-Casc\xF3n"
+    role: creator
+  Marie-Lothon:
+    individualname: Marie Lothon
+    role: creator
+  Fabienne-Lohou:
+    individualname: Fabienne Lohou
+    role: creator
+  Nitu-Ojha:
+    individualname: Nitu Ojha
+    role: creator
+  Olivier-Merlin:
+    individualname: Olivier Merlin
+    role: creator
+  David-Aragones:
+    individualname: "David Aragon\xE9s"
+    role: creator
+  Maria-P.-Gonzalez-Dugo:
+    individualname: "Mar\xEDa P. Gonz\xE1lez-Dugo"
+    role: creator
+  Ana-Andreu:
+    individualname: Ana Andreu
+    role: creator
+  Thierry-Pellarin:
+    individualname: Thierry Pellarin
+    role: creator
+  Aurore-Brut:
+    individualname: Aurore Brut
+    role: creator
+  Ramon-C.-Soriguer:
+    individualname: "Ram\xF3n C. Soriguer"
+    role: creator
+  Ricardo-Diaz-Delgado:
+    individualname: "Ricardo D\xEDaz-Delgado"
+    role: creator
+  Oscar-Hartogensis:
+    individualname: Oscar Hartogensis
+    role: creator
+  Carlos-Yague:
+    individualname: "Carlos Yag\xFCe"
+    role: creator
+  Roman-Cascon-Carlos:
+    individualname: "Rom\xE1n-Casc\xF3n, Carlos"
+    role: creator
+  Lothon-Marie:
+    individualname: Lothon, Marie
+    role: creator
+  Lohou-Fabienne:
+    individualname: Lohou, Fabienne
+    role: creator
+  Ojha-Nitu:
+    individualname: Ojha, Nitu
+    role: creator
+  Merlin-Olivier:
+    individualname: Merlin, Olivier
+    role: creator
+  Aragones-David:
+    individualname: "Aragon\xE9s, David"
+    role: creator
+  Gonzalez-Dugo-Maria-P.:
+    individualname: "Gonz\xE1lez-Dugo, Mar\xEDa P."
+    role: creator
+  Andreu-Ana:
+    individualname: Andreu, Ana
+    role: creator
+  Pellarin-Thierry:
+    individualname: Pellarin, Thierry
+    role: creator
+  Brut-Aurore:
+    individualname: Brut, Aurore
+    role: creator
+  Soriguer-Ramon-C.:
+    individualname: "Soriguer, Ram\xF3n C."
+    role: creator
+  Diaz-Delgado-Ricardo:
+    individualname: "D\xEDaz-Delgado, Ricardo"
+    role: creator
+  Hartogensis-Oscar:
+    individualname: Hartogensis, Oscar
+    role: creator
+  Yague-Carlos:
+    individualname: "Yag\xFCe, Carlos"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

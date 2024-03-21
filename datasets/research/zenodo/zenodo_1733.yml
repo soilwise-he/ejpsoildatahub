@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7218765
+  dataseturi: https://doi.org/10.5281/zenodo.7218765
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of DCD on Urea N Uptake By Rice and Its Balance in Soil
+  abstract: This article 'Effect of DCD on Urea N Uptake By Rice and Its Balance in
+    Soil' appeared in the International Rice Research Newsletter series, created by
+    the International Rice Research Institute (IRRI). The primary objective of this
+    publication was to expedite communication among scientists concerned with the
+    development of improved technology for rice and for rice based cropping systems.
+    This publication will report what scientists are doing to increase the production
+    of rice in as much as this crop feeds the most densely populated and land scarce
+    nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Urea N Uptake
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1992-04-01'
+    publication: '1992'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7218765
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7218764
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sachdev-M.-S.:
+    individualname: Sachdev, M. S.
+    role: creator
+    organization: ''
+    url: ''
+  Sachdev-P.:
+    individualname: Sachdev, P.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

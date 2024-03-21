@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gardner_1905
+  dataseturi: https://doi.org/10.1126/science.22.569.678
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An Illustration of the Use of the Wire-Basket Method for Soil Testing
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An Illustration of the Use of the Wire-Basket Method for Soil Testing
+    url: http://dx.doi.org/10.1126/science.22.569.678
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gardner-F.-D.:
+    individualname: Gardner, F. D.
+    role: creator
+  Gardner-Frank-D.:
+    individualname: Gardner, Frank D.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

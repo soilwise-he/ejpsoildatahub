@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10630672
+  dataseturi: https://doi.org/10.5281/zenodo.10630672
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "\xC9crans d'\xE9tanch\xE9it\xE9 dans les lev\xE9es de la Loire : retour\
+    \ d'exp\xE9rience sur 10 ans de \xAB deep soil mixing \xBB"
+  abstract: "En 2013, la DREAL Centre-Val de Loire a pr\xE9sent\xE9 les diff\xE9rentes\
+    \ techniques de renforcement des lev\xE9es de Loire utilis\xE9es depuis la seconde\
+    \ moiti\xE9 du XX\xB0 si\xE8cle, ainsi que les perspectives attendues de chantiers\
+    \ exp\xE9rimentaux d\u2019\xE9crans \xE9tanches en corps de digues. Ces chantiers\
+    \ ont permis la comparaison de plusieurs techniques de \xAB soil mixing \xBB (2012-2013).\
+    \ En 2019, un premier bilan de ce suivi exp\xE9rimental \xE0 5 ans ainsi que le\
+    \ retour d\u2019exp\xE9rience de plusieurs chantiers d\u2019\xE9crans \xE9tanches\
+    \ sur les lev\xE9es de Loire ont \xE9t\xE9 communiqu\xE9s et pr\xE9sent\xE9s.\
+    \ Ces chantiers ont conduit \xE0 faire \xE9voluer les approches de conception\
+    \ et de r\xE9alisation en exploitant la connaissance des sols (de la digue et\
+    \ de ses fondations) et de la nappe alluviale circulant dans les couches perm\xE9\
+    ables du sous-sol.\n\nDepuis lors, les renforcements de digues conduits sur la\
+    \ Loire avec cette technique se sont poursuivis et repr\xE9sentent plus de 32\
+    \ km. Dans le cadre de travaux de recherche sur la th\xE9matique \xAB Vuln\xE9\
+    rabilit\xE9 des digues au changement climatique des digues de Loire \xBB, un \xE9\
+    cran a \xE9t\xE9 instrument\xE9 \xE0 Montlouis-sur-Loire, en Indre-et-Loire, lors\
+    \ de sa r\xE9alisation.\n\nL\u2019objet du pr\xE9sent article est de pr\xE9senter\
+    \ un \xE9tat des connaissances sur la base des r\xE9sultats \xE0 10 ans du suivi\
+    \ exp\xE9rimental (p\xE9rennit\xE9, rendement, contraintes de mise en oeuvre et\
+    \ moyens de contr\xF4le) et de compl\xE9ter le retour d\u2019exp\xE9rience sur\
+    \ les chantiers de plus grande ampleur qui ont permis d\u2019adapter la technique\
+    \ (liant ciment ou chaux-ciment, apport en eau, crit\xE8res de malaxage). L\u2019\
+    article pr\xE9sente les conditions dans lesquelles la technique est adapt\xE9\
+    e mais aussi pointe les limites de son application (types de sols, profondeur,\
+    \ dimension du chantier). Il d\xE9crit l\u2019instrumentation \xE0 Montlouis-sur-Loire\
+    \ de la lev\xE9e de Tours Loire amont permettant de mesurer la temp\xE9rature\
+    \ et la teneur en eau volumique du mat\xE9riau sol-ciment en insistant sur deux\
+    \ points : la validation de la m\xE9thode d\u2019ex\xE9cution au moment de la\
+    \ r\xE9alisation de l\u2019\xE9cran et le choix d\u2019une proc\xE9dure de suivi\
+    \ pour v\xE9rifier la p\xE9rennit\xE9 de ses caract\xE9ristiques m\xE9caniques\
+    \ et hydrauliques. L\u2019instrumentation est compl\xE9t\xE9e par 2 pi\xE9zom\xE8\
+    tres et une station m\xE9t\xE9orologique. De plus, pour le suivi \xE0 long terme,\
+    \ des mat\xE9riaux ont \xE9t\xE9 pr\xE9lev\xE9s pour tester leur perm\xE9abilit\xE9\
+    . Un carottage dans l\u2019\xE9cran a \xE9galement \xE9t\xE9 effectu\xE9 2 ans\
+    \ apr\xE8s sa r\xE9alisation et soumis aux m\xEAmes types d\u2019essais."
+  keywords:
+    default:
+      keywords:
+        subject: cement
+  status: ''
+  language:
+  - fra
+  - eng
+  dates:
+    creation: ''
+    issued: '2024-02-07'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10630672
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10630671
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Patouillard-S.:
+    individualname: Patouillard, S.
+    role: creator
+    organization: "DREAL Centre-Val de Loire, Orl\xE9ans, France"
+    url: ''
+  Saussaye-L.:
+    individualname: Saussaye, L.
+    role: creator
+    organization: "Cerema, \xE9quipe de recherche ENDSUM, Blois, France"
+    url: ''
+  Le-Kouby-A.:
+    individualname: Le Kouby, A.
+    role: creator
+    organization: UGE, Paris, France
+    url: ''
+  Gervais-L.:
+    individualname: Gervais, L.
+    role: creator
+    organization: "DREAL Centre-Val de Loire, Orl\xE9ans, France"
+    url: ''
+content_info: {}

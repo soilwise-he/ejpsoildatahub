@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ellis_1915
+  dataseturi: https://doi.org/10.1038/scientificamerican05081915-436
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Milling the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Milling the Soil
+    url: http://dx.doi.org/10.1038/scientificamerican05081915-436
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ellis-L.-W.:
+    individualname: Ellis, L. W.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

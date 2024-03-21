@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.808195
+  dataseturi: https://doi.org/10.5281/zenodo.808195
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Dynamics Of The Quantity Of Agronomically Valuable Groups Of Microorganisms
+    During Cultivation Of Maize On Sod-Podzolic Sandy Loam Soil
+  abstract: "The influence of biofertilizers (Polyfunkur and Agromik) on agronomically\
+    \ valuable groups of microorganisms on sod\u2013podzolic sandy loam soil is considered\
+    \ in order to determine their amount depending on the phases of maize development.\n\
+    \nMethods: phenological, agrochemical, microbiological.\n\nStudy was carried out\
+    \ on sod\u2013podzolic sandy loamy soil. The amount of bacteria in both fertilized\
+    \ test and the control was almost the same in the Polifunkur test during the tillering\
+    \ phase. The amount of autochthonous oligotrophs in the control was 1.5 times\
+    \ higher than in Polyfunkur test. The amount of the other seven agronomically\
+    \ valuable groups prevailed in Polyfunkur. In the Agromik test, the total amount\
+    \ of eight of nine agronomically valuable groups was higher than in the control.\n\
+    \nDuring the beginning of flowering and the cob\u2013forming phase, the amount\
+    \ of agronomically valuable groups of microorganisms was higher in the fertilized\
+    \ soil than in the control."
+  keywords:
+    default:
+      keywords:
+        subject: agronomically valuable groups of microorganisms
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-14'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.808195
+    type: WWW:LINK
+    title: Link
+  r2:
+    url: https://doi.org/10.5281/zenodo.808194
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daineko-N.:
+    individualname: Daineko, N.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+  Kontsevaya-I.:
+    individualname: Kontsevaya, I.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+  Timofeev-S.:
+    individualname: Timofeev, S.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+content_info: {}

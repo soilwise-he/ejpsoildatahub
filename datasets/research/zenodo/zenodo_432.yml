@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Namitha_2018
+  dataseturi: https://doi.org/10.31142/ijtsrd14580
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Determination of Dispersivity in A Laboratory Soil Column
+  abstract: '&lt;p&gt;In this study, a laboratory soil column experiment was carried
+    out for estimating the dispersivity in sandy loam soil by the inversion of the
+    Advection Dispersion Equation. An 89 cm deep and 15 cm diameter cylindrical column
+    was filled with sandy loam soil in such a way that the bulk density of the soil
+    in field condition was strictly satisfied in the column. Potassium bromide was
+    used as the conservative tracer in the study. The tracer concentration was allowed
+    to pass through the column at a constant rate and the leachate collected at different
+    time periods were tested for the concentration of bromide. The experiment was
+    carried out until the relative concentration c c0 has reached 1. The calculated
+    relative concentration was plotted against time for obtaining the observed breakthrough
+    curve BTC . Another BTC was plotted using the analytical solution of Advection
+    Dispersion Equation. The effective dispersion coefficient De value which gave
+    the best fit between these two curves was chosen by trial and error method and
+    the dispersivity of the soil was calculated De = v for a constant pore water velocity
+    v . The dispersivity of the sandy loam soil under study was found to be 1.7 cm
+    which matches well with the previous researches. M. R. Namitha | V. Ravikumar
+    &quot;Determination of Dispersivity in A Laboratory Soil Column&quot; Published
+    in International Journal of Trend in Scientific Research and Development (ijtsrd),
+    ISSN: 2456-6470, Volume-2 | Issue-4 , June 2018, URL: https://www.ijtsrd.com/papers/ijtsrd14580.pdf&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Agricultural Engineering
+      - Dispersivity Advection Dispersion Equation
+      - Effective dispersion coefficient
+      - Laboratory soil column
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Determination of Dispersivity in A Laboratory Soil Column
+    url: http://dx.doi.org/10.31142/ijtsrd14580
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-R.-Namitha:
+    individualname: M. R. Namitha
+    role: creator
+  V.-Ravikumar:
+    individualname: V. Ravikumar
+    role: creator
+  Namitha-M.-R.:
+    individualname: Namitha, M. R.
+    role: creator
+  Ravikumar-V.:
+    individualname: Ravikumar, V.
+    role: creator
+  South-Asia-Management-Association:
+    individualname: South Asia Management Association
+    role: creator
+content_info: {}

@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Prinz_2022
+  dataseturi: https://doi.org/10.5552/crojfe.2023.1725
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil, Driving Speed and Driving Intensity Affect Fuel Consumption of Forwarders
+  abstract: '&lt;p&gt;Fuel consumption is one of the key parameters in mechanised
+    forest operations, particularly on lower bearing capacity soils, as wheel chains
+    or bogie tracks can have a strong effect on it. This study aims to analyse the
+    fuel consumption of several individual wheeled cut-to-length forwarder set-ups
+    with different types of bogie tracks on peatland using automatic recording of
+    data bus information. Two types of forwarders, 8-wheeled and 10-wheeled, and three
+    types of tracks were tested on peatland in Eastern Finland. A mixed-model approach
+    is the basis to study the fuel consumption as a function of the soil bearing capacity,
+    the number of passes of the machine on the same soil, the section (curve or straight)
+    and other variables related to the machine performance and set-up, for a total
+    of N=27,928 fuel observations on three machines in 33 plots (trail segments).
+    The model results in an R2=0.78; the number of passes increases the fuel consumption
+    significantly, while the soil bearing capacity did not affect the fuel consumption.&lt;br&gt;
+
+    There are, however, important differences between the machines performance, which
+    are addressed in the model. By contributing to the knowledge on the connection
+    between operational conditions and fuel consumption, the study can contribute
+    to the aim towards a sustainable forest operation through minimizing negative
+    environmental impacts and providing the necessary tools for further research efforts.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - fuel use
+      - timber extraction
+      - soft soil
+      - tracks
+      - data bus information
+      - sustainable forest operations
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil, Driving Speed and Driving Intensity Affect Fuel Consumption of Forwarders
+    url: http://dx.doi.org/10.5552/crojfe.2023.1725
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prinz-Robert:
+    individualname: Prinz, Robert
+    role: creator
+  Mola-Yudego-Blas:
+    individualname: Mola-Yudego, Blas
+    role: creator
+  Ala-Ilomaki-Jari:
+    individualname: "Ala-Ilom\xE4ki, Jari"
+    role: creator
+  Vaatainen-Kari:
+    individualname: "V\xE4\xE4t\xE4inen, Kari"
+    role: creator
+  Lindeman-Harri:
+    individualname: Lindeman, Harri
+    role: creator
+  Talbot-Bruce:
+    individualname: Talbot, Bruce
+    role: creator
+  Routa-Johanna:
+    individualname: Routa, Johanna
+    role: creator
+  Faculty-of-Forestry-University-of-Zagreb:
+    individualname: Faculty of Forestry, University of Zagreb
+    role: creator
+content_info: {}

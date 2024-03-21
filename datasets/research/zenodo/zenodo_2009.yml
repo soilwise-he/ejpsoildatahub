@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: OMAR_2020
+  dataseturi: https://doi.org/10.11646/zootaxa.4758.3.8
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Morphology and Molecular Phylogeny of the Soil Ciliate Cyrtohymena\xC2\_\
+    seorakensis sp. n. (Ciliophora, Hypotricha, Oxytrichidae)"
+  abstract: 'Omar, Atef, Jung, Jae-Ho (2020): Morphology and Molecular Phylogeny of
+    the Soil Ciliate Cyrtohymena seorakensis sp. n. (Ciliophora, Hypotricha, Oxytrichidae).
+    Zootaxa 4758 (3): 561-572, DOI: 10.11646/zootaxa.4758.3.8'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Protozoa
+      - Ciliophora
+      - Hypotrichea
+      - Oxytrichida
+      - Oxytrichidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Morphology and Molecular Phylogeny of the Soil Ciliate Cyrtohymena\xC2\_\
+      seorakensis sp. n. (Ciliophora, Hypotricha, Oxytrichidae)"
+    url: http://dx.doi.org/10.11646/zootaxa.4758.3.8
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Omar-Atef:
+    individualname: Omar, Atef
+    role: creator
+  Jung-Jae-Ho:
+    individualname: Jung, Jae-Ho
+    role: creator
+  OMAR-ATEF:
+    individualname: OMAR, ATEF
+    role: creator
+  JUNG-JAE-HO:
+    individualname: JUNG, JAE-HO
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

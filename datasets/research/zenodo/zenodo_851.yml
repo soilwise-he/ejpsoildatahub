@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1019169
+  dataseturi: https://doi.org/10.5281/zenodo.1019169
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phyto-Assessment Of Soil Heavy Metal Accumulation In Tropical Grasses
+  abstract: 'Tropical grasses are fast growing and often used for phytoremediation.
+    Three different types of tropical grasses: Vetiver (V. zizanoides), Imperata (I.
+    cylindrical) and Pennisetum (P. purpureum) tested in different growth media of
+    spiked heavy metal contents under the glasshouse environment of RimbaIlmu for
+    60-day. The growth performance, metals tolerance and phyto-assessment of cadmium
+    (Cd), lead (Pb), zinc (Zn) and copper (Cu) in shoots and roots were assessed using
+    flame atomic absorption spectrometry (FAAS).Tolerance index (TI), translocation
+    factor (TF), biological accumulation coefficient (BAC), biological concentration
+    factor (BCF), and uptake efficacy was applied to evaluate the metal translocation
+    ability among all three grasses. All three grasses showed significantly higher
+    (pPb&gt; Cd &gt;Cu. The results of study suggested that both Imperata and Pennisetum
+    are commendable and potential phytoextractors for Zn as well as phytostabilizers
+    for Cd, Pb and Cu, respectively'
+  keywords:
+    default:
+      keywords:
+        subject: Heavy metal accumulation
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2016-06-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1019169
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1019168
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chuck-Chuan-NG:
+    individualname: Chuck Chuan NG
+    role: creator
+  NG-Chuck-Chuan:
+    individualname: NG, Chuck Chuan
+    role: ''
+    organization: University of Malaya, Kuala Lumpur
+    url: https://orcid.org/0000-0002-6950-7788
+content_info: {}

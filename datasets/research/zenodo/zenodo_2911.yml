@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6817480
+  dataseturi: https://doi.org/10.5281/zenodo.6817480
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Crop Diversification Effects on Soil Aggregation and Aggregate-Associated
+    Carbon and Nitrogen in Short-Term Rainfed Olive Groves under SemiaridMediterranean
+    Conditions
+  abstract: "Soil particle aggregation and their associated carbon (C) and nitrogen\
+    \ (N) content can<br> provide valuable diagnostic indicators of changes in soil\
+    \ properties in response to the implementation<br> of different agricultural management\
+    \ practices. In this sense, there is limited knowledge regarding the<br> impact\
+    \ of intercropping on soil organic carbon (SOC) and total nitrogen (TN) pools\
+    \ in aggregates. This<br> study aimed to evaluate the short-term effect (4 years)\
+    \ of three crop diversifications in rainfed olive<br> orchards on soil aggregation,\
+    \ SOC and TN concentration and SOC stocks (SOC-S) under semi-arid<br> Mediterranean\
+    \ conditions. Olive orchards were diversified with Crocus sativus (D-S), Vicia\
+    \ sativa and<br> Avena sativa in rotation (D-O) and Lavandula x intermedia (D-L)\
+    \ and compared with monocropping<br> system (CT). Soil samples were collected\
+    \ at two depths (0\u201310 and 10\u201330 cm) and analysed for soil<br> aggregate\
+    \ mass, SOC and TN content in aggregate-size fractions obtained by the wet-sieving\
+    \ method.<br> Changes caused by crop diversifications on SOC-S were also determined.\
+    \ Overall, after 4 years,<br> a reduction in aggregation values was observed.\
+    \ However, D-S increased the macroaggregates<br> (&gt;250 m) percentage, Mean\
+    \ Weigh Diameter values, and Geometric Mean Value in the 0\u201310 cm.<br> Across\
+    \ treatments, aggregate-associated C in 0\u201310 cm was higher in the D-S treatment,\
+    \ while in<br> the 10\u201330 cm soil layer, the greatest values were found in\
+    \ CT. Regarding the SOC-S, after 4 years,<br> significant losses were recorded\
+    \ under CT management in 0\u201310 cm (\U001000001.21 Mg ha\U001000001) and 10\u2013\
+    30 cm<br> (\U001000000.84 Mg ha\U001000001), while D-O and D-L showed similar\
+    \ values to those obtained at the beginning of the<br> study. The highest increases\
+    \ in SOC-S were found in D-S, with an increase of 5.88% in the 0\u201310 cm<br>\
+    \ and 14.47% in the 10\u201330 cm. Our results showed the high potential of the\
+    \ diversified cropping system<br> to increase soil stability and SOC sequestration."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-07-08'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6817480
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6817479
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gonzalez-Rosado-Manuel:
+    individualname: "Gonz\xE1lez-Rosado Manuel"
+    role: creator
+  Parras-Alcantara-Luis:
+    individualname: "Parras-Alc\xE1ntara Luis"
+    role: creator
+  Aguilera-Huertas-Jesus:
+    individualname: "Aguilera-Huertas Jes\xFAs"
+    role: creator
+  Lozano-Garcia-Beatriz:
+    individualname: "Lozano-Garc\xEDa Beatriz"
+    role: creator
+  Manuel-Gonzalez-Rosado:
+    individualname: "Manuel, Gonz\xE1lez-Rosado"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: https://orcid.org/0000-0002-9282-2911
+  Luis-Parras-Alcantara:
+    individualname: "Luis, Parras-Alc\xE1ntara"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: https://orcid.org/0000-0002-0092-9317
+  Jesus-Aguilera-Huertas:
+    individualname: "Jes\xFAs, Aguilera-Huertas"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: https://orcid.org/0000-0002-4451-3962
+  Beatriz-Lozano-Garcia:
+    individualname: "Beatriz, Lozano-Garc\xEDa"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: https://orcid.org/0000-0002-3761-0617
+content_info: {}

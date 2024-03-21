@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Coville_1911
+  dataseturi: https://doi.org/10.1126/science.33.853.711
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The Use of Acid Soil for Raising Seedlings of the Mayflower,\n         \
+    \   Epigaea repens"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The Use of Acid Soil for Raising Seedlings of the Mayflower,\n        \
+      \    Epigaea repens"
+    url: http://dx.doi.org/10.1126/science.33.853.711
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Coville-F.-V.:
+    individualname: Coville, F. V.
+    role: creator
+  Coville-Frederick-V.:
+    individualname: Coville, Frederick V.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

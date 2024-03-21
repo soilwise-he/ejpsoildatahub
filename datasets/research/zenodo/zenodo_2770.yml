@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3589639
+  dataseturi: https://doi.org/10.5281/zenodo.3589639
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Review Paper on Study of Black Cotton Soil to Enhancing the Properties of
+    Sub Grade and Base Layer of Pavement
+  abstract: 'Soil is basic and important element in Civil Engineering field. Stability
+    of every structure depends on the type and characteristics of foundation which
+    in turn depends on the type of soil. Many problems irrupt if expansive soil, Natural
+    soil is to be used in foundation, because of its shrinkage and swelling properties.
+    There are many methods to make natural soil stable for various constructions.
+    Natural soil is comfortable for road work, compared to other types of soil. Abhishek
+    Kumar Thakur | Prof. Nitesh Kushwaha "Review Paper on Study of Black Cotton Soil
+    to Enhancing the Properties of Sub Grade &amp; Base Layer of Pavement" Published
+    in International Journal of Trend in Scientific Research and Development (ijtsrd),
+    ISSN: 2456-6470, Volume-3 | Issue-6 , October 2019, URL: https://www.ijtsrd.com/papers/ijtsrd29536.pdf'
+  keywords:
+    default:
+      keywords:
+        subject: 'FOS: Civil engineering'
+        schemeUri: http://www.oecd.org/science/inno/38235147.pdf
+        subjectScheme: Fields of Science and Technology (FOS)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-10-23'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3589639
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3589638
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abhishek-Kumar-Thakur:
+    individualname: Abhishek Kumar Thakur
+    role: creator
+    organization: ''
+    url: ''
+  Prof.-Nitesh-Kushwaha:
+    individualname: Prof. Nitesh Kushwaha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

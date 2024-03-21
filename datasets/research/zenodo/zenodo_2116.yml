@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7217308
+  dataseturi: https://doi.org/10.5281/zenodo.7217308
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'The MicroSof project: study of microplastic contamination in soil samples
+    from 33 different sites in France'
+  abstract: "To date, the majority of the research on microplastics (MP) has focused\
+    \ on the marine environment. The pollution of continental ecosystems is comparatively\
+    \ little studied, even though the majority of all plastics is used and disposed\
+    \ on land. The main sources of plastic in soils include land application of contaminated\
+    \ sewage sludge and compost, plastic mulching, wastewater irrigation, atmospheric\
+    \ deposition, littering and surface runoff [1]. However, estimates of MP concentrations\
+    \ and chemical natures are still limited and differ between studies. In France,\
+    \ only a few studies have tackled the issue of MP contamination in soils. The\
+    \ MicroSof project aims to establish first national references on the contamination\
+    \ of French soils by microplastics. To do so, soil samples from 33 different sites\
+    \ under different land uses were analyzed (crop lands, forests, grasslands and\
+    \ vineyard/orchards). After pre-treatment and subsampling, the samples were digested\
+    \ with Fenton's reagent following the methodology outlined by Hurley et al. (2018)\
+    \ [2]. MP were then extracted by density separation with a sodium iodide (NaI)\
+    \ solution. The study then allowed to quantify (number) and to qualify (chemical\
+    \ nature) the accumulated plastic fragments, as well as the size and the shape\
+    \ of these fragments. [1] M. Bl\xE4sing et W. Amelung, \xAB Plastics in soil:\
+    \ Analytical methods and possible sources \xBB, Science of The Total Environment,\
+    \ vol. 612, p. 422\u2011435, janv. 2018, doi: 10.1016/j.scitotenv.2017.08.086.\
+    \ [2] R. R. Hurley, A. L. Lusher, M. Olsen, et L. Nizzetto, \xAB Validation of\
+    \ a Method for Extracting Microplastics from Complex, Organic-Rich, Environmental\
+    \ Matrices \xBB, Environ. Sci. Technol., vol. 52, no 13, p. 7409\u20117417, juill.\
+    \ 2018, doi: 10.1021/acs.est.8b01517. Also see: https://micro2022.sciencesconf.org/425882/document"
+  keywords:
+    default:
+      keywords:
+        subject: soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7217308
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7217307
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Palazot-Maialen:
+    individualname: Palazot, Maialen
+    role: creator
+    organization: ''
+    url: ''
+  Kedzierski-Mikael:
+    individualname: "Kedzierski, Mika\xEBl"
+    role: creator
+    organization: ''
+    url: ''
+  Bruzaud-Stephane:
+    individualname: "Bruzaud, St\xE9phane"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

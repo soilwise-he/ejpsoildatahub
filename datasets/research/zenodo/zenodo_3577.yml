@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1062588
+  dataseturi: https://doi.org/10.5281/zenodo.1062588
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Preliminary Design Of Frozen Soil Simulation System Based On Finite Element
+    Simulation
+  abstract: 'Full - Scale Accelerated Loading System, one part of
+
+    "the Eleventh - Five - Year National Grand Technology Infrastructure
+
+    Program" is a facility to evaluate the performance and service life of
+
+    different kinds of pavements subjected to traffic loading under full -
+
+    controlled environment. While simulating the environments of frigid
+
+    zone and permafrost zone, the accurate control of air temperature, road
+
+    temperature and roadbed temperature are the key points and also
+
+    aporias for the designment. In this paper, numerical simulations are
+
+    used to determine the design parameters of the frozen soil simulation
+
+    system. At first, a brief introduction of the Full - Scale Accelerate
+
+    Loading System was given. Then, the temperature control method of
+
+    frozen soil simulation system was proposed. Finally, by using finite
+
+    element simulations, the optimal design of frozen soil simulation
+
+    system was obtained. This proposed design, which was obtained by
+
+    finite element simulations, provided significant referents to the
+
+    ultimate design of the environment simulation system.'
+  keywords:
+    default:
+      keywords:
+        subject: preliminary design.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-07-22'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1062588
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1062587
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wenyu-Song:
+    individualname: Wenyu Song
+    role: creator
+    organization: ''
+    url: ''
+  Bingxi-Li:
+    individualname: Bingxi Li
+    role: creator
+    organization: ''
+    url: ''
+  Zhongbin-Fu:
+    individualname: Zhongbin Fu
+    role: creator
+    organization: ''
+    url: ''
+  Baocheng-Jiang:
+    individualname: Baocheng Jiang
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

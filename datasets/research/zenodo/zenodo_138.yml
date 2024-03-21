@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sch_nauer_2021
+  dataseturi: https://doi.org/10.1016/j.jag.2021.102614
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Spatio-temporal prediction of soil moisture and soil strength by depth-to-water
+    maps
+  abstract: '&lt;p&gt;Time-series of soil moisture content and soil strength measured
+    on six forest sites.&lt;/p&gt;
+
+
+    &lt;p&gt;Depth-to-water (DTW) led to 82% accurate predictions of soil moisture.&lt;/p&gt;
+
+
+    &lt;p&gt;Best performance by DTW-map scenario with flow initiation area of 4.00&nbsp;ha.&lt;/p&gt;
+
+
+    &lt;p&gt;Prediction of soil moisture and soil strength by DTW maps was site specific.&lt;/p&gt;
+
+
+    &lt;p&gt;Representation of moisture levels by map-scenarios was not confirmed.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Depth-to-water Soil moisture content Precision forestry Trafficability prediction
+        Forest operations Soil bearing capacity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Spatio-temporal prediction of soil moisture and soil strength by depth-to-water
+      maps
+    url: http://dx.doi.org/10.1016/j.jag.2021.102614
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schonauer-Marian:
+    individualname: "Sch\xF6nauer, Marian"
+    role: creator
+  Vaatainen-Kari:
+    individualname: "V\xE4\xE4t\xE4inen, Kari"
+    role: creator
+  Prinz-Robert:
+    individualname: Prinz, Robert
+    role: creator
+  Lindeman-Harri:
+    individualname: Lindeman, Harri
+    role: creator
+  Pszenny-Dariusz:
+    individualname: Pszenny, Dariusz
+    role: creator
+  Jansen-Martin:
+    individualname: Jansen, Martin
+    role: creator
+  Maack-Joachim:
+    individualname: Maack, Joachim
+    role: creator
+  Talbot-Bruce:
+    individualname: Talbot, Bruce
+    role: creator
+  Astrup-Rasmus:
+    individualname: Astrup, Rasmus
+    role: creator
+  Jaeger-Dirk:
+    individualname: Jaeger, Dirk
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

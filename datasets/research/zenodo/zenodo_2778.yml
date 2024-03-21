@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Albano_2016
+  dataseturi: https://doi.org/10.1016/j.jag.2016.08.011
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'An innovative procedure for monitoring the change in soil seismic response
+    by InSAR data: application to the Mexico City subsidence'
+  abstract: "&lt;p&gt;We developed an empirical procedure to evaluate the effect of\
+    \ the ground subsidence on the spatial and temporal seismic response of soils.\
+    \ The proposed method exploits the capabilities of the spaceborne SAR Interferometry\
+    \ technique to detect and map the ground subsidence with unprecedented spatial\
+    \ and tem- poral coverage. The information provided by satellites is combined\
+    \ with a-priori geological/geotechnical information to assess the soil compaction\
+    \ and the shortening of the soil vibration periods. The procedure was applied\
+    \ to estimate the shortening of the soil resonant period of Mexico City between\
+    \ 2005 and 2013. The results show that in approximately nine years the ground\
+    \ surface has subsided by approxi- mately 0.5\u20133.5 m and the soil resonant\
+    \ period has decreased by approximately 0.1\u20130.4 s. The obtained results,\
+    \ validated with field measurements, highlight the effectiveness of the proposed\
+    \ procedure for the continuous monitoring of the soil resonant periods. The estimated\
+    \ change in resonant period on Mexico City has a great impact on the response\
+    \ spectra used for design, it is then necessary to update the map of the soil\
+    \ resonant period in order to account for the change of dynamic properties of\
+    \ soils caused by subsidence.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Subsidence
+      - Resonant Period
+      - GEP
+      - SAR
+      - Seismic hazard
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'An innovative procedure for monitoring the change in soil seismic response
+      by InSAR data: application to the Mexico City subsidence'
+    url: http://dx.doi.org/10.1016/j.jag.2016.08.011
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Albano-Matteo:
+    individualname: Albano, Matteo
+    role: creator
+  Polcari-Marco:
+    individualname: Polcari, Marco
+    role: creator
+  Bignami-Christian:
+    individualname: Bignami, Christian
+    role: creator
+  Moro-Marco:
+    individualname: Moro, Marco
+    role: creator
+  Saroli-Michele:
+    individualname: Saroli, Michele
+    role: creator
+  Stramondo-Salvatore:
+    individualname: Stramondo, Salvatore
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

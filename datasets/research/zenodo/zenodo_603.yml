@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7533182
+  dataseturi: https://doi.org/10.5281/zenodo.7533182
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Ex-Situ Remediation of a Petroleum Hydrocarbons Contaminated Soil
+  abstract: The remediation of polluted soils is a key concern of modern society due
+    to importance of this natural resource for present and its conservation for future.
+    Intensive anthropic activities facilitate sometimes the discharge of wastes or
+    hazardous pollutants (like petroleum hydrocarbons) that lead to the soil contamination.
+    The aim of this research is to summarize the experimental data resulted in the
+    assessment of the quality indicators for a hydrocarbon contaminated soil (at depth
+    of 5 cm and 30 cm) as well as results from an ex-situ remediation technology at
+    laboratory scale performed using extraction with organic solvents (carbon tetrachloride,
+    glacial acetic acid and hexane) and repeated water washes. The wastewaters containing
+    traces of pollutant were collected and also treated by adsorption (with pine sawdust
+    as adsorbent) followed by sedimentation.<br> The proposed ex-situ remediation
+    was found efficient (&gt;79% petroleum hydrocarbons removal) if the amount of
+    excavated contaminated soil is limited and the proposed working conditions could
+    be applied.
+  keywords:
+    default:
+      keywords:
+        subject: organic solvent
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7533182
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7533181
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ZAHARIA-CARMEN:
+    individualname: ZAHARIA CARMEN
+    role: creator
+  SIMION-MIRELA:
+    individualname: SIMION MIRELA
+    role: creator
+    organization: "\"Gheorghe Asachi\" Technical University of Ia\u015Fi, \"Cristofor\
+      \ Simionescu\" Faculty of Chemical Engineering and Environmental Protection,\
+      \ Ia\u015Fi, Romania"
+    url: ''
+  VOLF-IRINA:
+    individualname: VOLF IRINA
+    role: creator
+  CARMEN-ZAHARIA:
+    individualname: CARMEN, ZAHARIA
+    role: ''
+    organization: "\"Gheorghe Asachi\" Technical University of Ia\u015Fi, \"Cristofor\
+      \ Simionescu\" Faculty of Chemical Engineering and Environmental Protection,\
+      \ Ia\u015Fi, Romania"
+    url: https://orcid.org/0000-0003-3524-5051
+  IRINA-VOLF:
+    individualname: IRINA, VOLF
+    role: ''
+    organization: "\"Gheorghe Asachi\" Technical University of Ia\u015Fi, \"Cristofor\
+      \ Simionescu\" Faculty of Chemical Engineering and Environmental Protection,\
+      \ Ia\u015Fi, Romania"
+    url: https://orcid.org/0000-0002-5296-937X
+content_info: {}

@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.166990
+  dataseturi: https://doi.org/10.5281/zenodo.166990
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Varying Non Plastic Fines Contents On Undrained Shear Strength
+    Of Soil
+  abstract: The flow  failures of the alluvial sandy ground cause catastrophic damage
+    such as tilting of structures, floating up of structures, permanent later displacement
+    of ground. In order to quantify the tendency of flow characteristics of sandy
+    soils, a simple and reliable concept of steady state strength approach has been
+    used. To evaluate the same, total ten tests are conducted with relative density
+    varying as 30% and 45% and for same effective consolidation pressure of 120kPa.
+    It was observed that with increase in equivalent granular state parameter the
+    residual shear strength reduces till threshold fines content and later on increases.
+  keywords:
+    default:
+      keywords:
+        subject: Non plastic fines, threshold fines content, undrained shear strength
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-11-16'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.166990
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ms-Aarti-H.-Hiremath:
+    individualname: Ms Aarti H. Hiremath
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

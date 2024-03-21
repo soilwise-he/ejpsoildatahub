@@ -1,0 +1,117 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7958393
+  dataseturi: https://doi.org/10.5281/zenodo.7958393
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Screening of Soil and Sheep Faecal Samples for Predacious Fungi: Isolation
+    and Characterization of the Nematode-Trapping Fungus Arthrobotrys oligospora'
+  abstract: "Over one-year period, 150 pasture soil samples and 138 sheep faecal samples,\
+    \ collected from different parts of Iran were screened for the presence of nematophagous\
+    \ fungi. The samples were cultured at 25\xBAC on chloramphenicol-2% water agar\
+    \ (CHF-WA) plates in the presence of Haemonchus contortus third stage larvae (L3)\
+    \ and checked over a two-month period for characteristic conidia, conidiophores\
+    \ and hyphal traps of nematophagous fungi. Suspected nematophagous fungi were\
+    \ isolated by periodic transfer of the fungi on CHF-WA plates using the agar block\
+    \ method. Overall, 11 soil samples were found to harbour the nematode-trapping\
+    \ fungus Arthrobotrys from which 3 pure isolates were made and consequently identified\
+    \ as Arthrobotrys oligospora IRAN 877 C, IRAN 878 C and IRAN 879 C. Nematophagous\
+    \ fungi were not found in any tested sheep faecal samples. The predatory capacity\
+    \ of the isolates was tested against H. contortus infective larvae and then compared\
+    \ to reference strains A. oligospora CBS 111.37, A. oligospora CBS 251.82 and\
+    \ Duddingtonia flagrans CBS 583.91. The local strains of A. oligospora reduced\
+    \ the development of H. contortus L3 by 75-85%, whereas, the predatory capacity\
+    \ of reference A. oligospora and D. flagrans strains was measured in the range\
+    \ of 51- 85% compared to the fungus free controls. Study of the effect of temperature\
+    \ on predatory activity of A. oligospora strains IRAN 877 C and CBS 111.37 revealed\
+    \ a reduction of more than 95% in infective larvae of H. contortus at temperature\
+    \ levels between 15 to 25\xBAC. This reduction was significantly decreased to\
+    \ 30% and 50% at 10\xBAC and 30\xBAC, respectively. The nematode-trapping fungus\
+    \ A. oligospora is reported from soil of Iran for the first time and its potential\
+    \ role in biocontrol of gastrointestinal nematodes of ruminants is discussed."
+  keywords:
+    default:
+      keywords:
+        subject: Screening, Soil, Predacious fungi, Arthrobotrys oligospora, Nematophagous
+          activity
+  status: ''
+  language: aig
+  dates:
+    creation: ''
+    issued: '2004-07-01'
+    publication: '2004'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7958393
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7958392
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Masoomeh-Shams-GhahfarokhI:
+    individualname: Masoomeh Shams GhahfarokhI
+    role: creator
+  Mehdi-Razzaghi-Abyaneh:
+    individualname: Mehdi Razzaghi Abyaneh
+    role: creator
+  Shahrokh-Ranjbar-Bahadori:
+    individualname: Shahrokh Ranjbar Bahadori
+    role: creator
+  Ali-Eslami:
+    individualname: Ali Eslami
+    role: creator
+  Rasoul-Zare:
+    individualname: Rasoul Zare
+    role: creator
+    organization: Dept. of Botany, Plant Pest and Diseases Research Institute, Tehran,
+      Iran
+    url: ''
+  Majid-Ebrahimi:
+    individualname: Majid Ebrahimi
+    role: creator
+  GhahfarokhI-Masoomeh-Shams:
+    individualname: GhahfarokhI, Masoomeh Shams
+    role: ''
+    organization: Dept. of Mycology, Faculty of Medical Sciences, Tarbiat Modarres
+      University
+    url: ''
+  Abyaneh-Mehdi-Razzaghi:
+    individualname: Abyaneh, Mehdi Razzaghi
+    role: ''
+    organization: Dept. of Mycology, Pasteur Institute of Iran, Tehran
+    url: ''
+  Bahadori-Shahrokh-Ranjbar:
+    individualname: Bahadori, Shahrokh Ranjbar
+    role: ''
+    organization: Dept. of Parasitology, Faculty of Veterinary Sciences, Azad University,
+      Garmsar
+    url: ''
+  Eslami-Ali:
+    individualname: Eslami, Ali
+    role: ''
+    organization: 4 Dept. of Parasitology, Faculty of Veterinary Sciences, Tehran
+      University
+    url: ''
+  Ebrahimi-Majid:
+    individualname: Ebrahimi, Majid
+    role: ''
+    organization: Dept. of Parasitology, Faculty of Veterinary Sciences, Azad University,
+      Garmsar
+    url: ''
+content_info: {}

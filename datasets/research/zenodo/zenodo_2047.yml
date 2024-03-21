@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Doblas_Rodrigo_2022
+  dataseturi: https://doi.org/10.1007/s10113-022-01877-4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Grassland contribution to soil organic carbon stock under climate change
+    scenarios in Basque Country (Spain)
+  abstract:
+  - '&lt;p&gt;In&nbsp;this study, we estimated the contribution of managed grasslands
+    to the &ldquo;4 per 1000&rdquo; initiative&nbsp;in&nbsp;Basque Country under two
+    climate scenarios (RCP4.5 and RCP8.5) adopted by the IPCC&nbsp;in&nbsp;its Fifth
+    Assessment Report. For this purpose, the RothC model was calibrated and validated
+    with a historic database of grassland soil organic carbon (SOC) (1983 to 2019).
+    The results at field-scale show a rate of increase of 1.26 t C ha&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;year&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;at
+    a depth of 0&ndash;30&nbsp;cm over a 36-year simulation. The model was run at
+    the regional scale&nbsp;in&nbsp;short- (2020&ndash;2040), medium- (2041&ndash;2070),
+    and long-term (2071&ndash;2090) future climate scenarios. For all the simulations,
+    agricultural practices and available data for grassland systems were considered.
+    RothC model projections showed how SOC stock responses varied depending on initial
+    SOC and climate subregions, with higher values for a lower initial SOC stock under
+    the highest precipitation regime subregion. A 4 per 1000 storage rate could be
+    achieved&nbsp;in&nbsp;grassland soils with an initial SOC &lt; 80 t C ha&lt;sup&gt;&minus;1&lt;/sup&gt;.
+    The overall trends showed that future climate change will lead to a decrease&nbsp;in&nbsp;the
+    SOC stock&nbsp;in&nbsp;grasslands with a higher initial SOC if appropriate practices
+    are not implemented to maintain the SOC stock. &copy; 2022, The Author(s).&lt;/p&gt;'
+  - "Acknowledgements We would like to acknowledge Interreg Atlantic Area Dairy4Future\
+    \ project (EAPA_304/2016) and to the National Institute for Agronomic Research\
+    \ (INIA) RTA-2015-00058-COG-04 for funding. We are grateful to Rachelle Meyer\
+    \ for her guidance. The authors are especially grateful to the farmers for their\
+    \ collaboration. \xC1lvaro Doblas-Rodrigo holds a grant from the Ph.D. student's\
+    \ research program of the Spanish Research Agency."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Grassland contribution to soil organic carbon stock under climate change
+      scenarios in Basque Country (Spain)
+    url: http://dx.doi.org/10.1007/s10113-022-01877-4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Doblas-Rodrigo-Alvaro:
+    individualname: "Doblas-Rodrigo, \xC1lvaro"
+    role: creator
+  Gallejones-Patricia:
+    individualname: Gallejones, Patricia
+    role: creator
+  Artetxe-Ainara:
+    individualname: Artetxe, Ainara
+    role: creator
+  Rosa-E.:
+    individualname: Rosa, E.
+    role: creator
+  del-Hierro-Oscar:
+    individualname: "del Hierro, \xD3scar"
+    role: creator
+  Merino-Pilar:
+    individualname: Merino, Pilar
+    role: creator
+  Rosa-Eduardo:
+    individualname: Rosa, Eduardo
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

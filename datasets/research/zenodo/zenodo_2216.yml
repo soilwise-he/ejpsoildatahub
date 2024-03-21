@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091639
+  dataseturi: https://doi.org/10.5281/zenodo.8091639
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Salinity Mapping Using Machine Learning Algorithms with the Sentinel-2
+    MSI in Arid Areas, China
+  abstract: "Accurate monitoring of soil salinization plays a key role in the ecological\
+    \ security and sustainable agricultural development of arid regions. As a branch\
+    \ of artificial intelligence, machine learning acquires new knowledge through\
+    \ self-learning and continuously improves its own performance. The purpose of\
+    \ this study is to combine Sentinel-2 Multispectral Imager (MSI) data and MSI-derived\
+    \ covariates with measured soil salinity data and to apply three machine learning\
+    \ algorithms in modeling to estimate and map the soil salinity in the study sample\
+    \ area. According to the convenient transportation conditions, the study area\
+    \ and sampling quadrat were set up, and the 5-point method was used to collect\
+    \ the soil mixed samples, and 160 soil mixed samples were collected. Kennard\u2013\
+    Stone (K\u2013S) algorithm was used for sample classification, 70% for modeling\
+    \ and 30% for verification. The machine learning algorithm uses Support Vector\
+    \ Machines (SVM), Artificial Neural Network (ANN), and Random Forest (RF). The\
+    \ results showed that (1) the average reflectance of each band of the MSI data\
+    \ ranged from 0.21\u20130.28. According to the spectral characteristics corresponding\
+    \ to different soil electrical conductivity (EC) levels (1.07\u201379.6 dS m<sup>\u2212\
+    1</sup> ), the spectral reflectance of salinized soil in the MSI data ranged from\
+    \ 0.09\u20130.35. (2) The correlation coefficient between the MSI data and MSI-derived\
+    \ covariates and soil EC was moderate, and the correlation between certain MSI\
+    \ data sets and soil EC was not significant. (3) The SVM soil EC estimation model\
+    \ established with the MSI data set attained a higher performance and accuracy\
+    \ (R<sup>2</sup> = 0.88, root mean square error (RMSE) = 4.89 dS m<sup>\u2212\
+    1</sup> , and ratio of the performance to the interquartile range (RPIQ) = 1.96,\
+    \ standard error of the laboratory measurements to the standard error of the predictions\
+    \ (SEL/SEP) = 1.11) than those attained with the soil EC estimation models established\
+    \ with the RF and ANN models. (4) We applied the SVM soil EC estimation model\
+    \ to map the soil salinity in the study area, which showed that the farmland with\
+    \ higher altitudes discharged a large amount of salt to the surroundings due to\
+    \ long-term irrigation, and the secondary salinization of the farmland also caused\
+    \ a large amount of salt accumulation. This research provides a scientific basis\
+    \ for the simulation of soil salinization scenarios in arid areas in the future."
+  keywords:
+    default:
+      keywords:
+        subject: arid area
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-01-17'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091639
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8091638
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jiaqiang-Wang:
+    individualname: Jiaqiang Wang
+    role: creator
+    organization: ''
+    url: ''
+  Jie-Peng:
+    individualname: Jie Peng
+    role: creator
+  Hongyi-Li:
+    individualname: Hongyi Li
+    role: creator
+    organization: ''
+    url: ''
+  Caiyun-Yin:
+    individualname: Caiyun Yin
+    role: creator
+    organization: ''
+    url: ''
+  Weiyang-Liu:
+    individualname: Weiyang Liu
+    role: creator
+    organization: ''
+    url: ''
+  Tianwei-Wang:
+    individualname: Tianwei Wang
+    role: creator
+    organization: ''
+    url: ''
+  Huaping-Zhang:
+    individualname: Huaping Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Peng-Jie:
+    individualname: Peng, Jie
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

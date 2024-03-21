@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4117859
+  dataseturi: https://doi.org/10.5281/zenodo.4117859
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EVALUATION OF SOIL CONTAMINATION BY METALLIC TRACE ELEMENTS TO THE ROADSIDE
+    ON THE LUBUMBASHI-KIPUSHI SECTION (DRC)
+  abstract: The Contamination of soils near the road Lubumbashi-Kipushi was investigated.
+    Analysis of cadmium, copper, lead, and zinc contents, as well as pH-water samples,
+    yielded average MTEs with a decreasing profile concerningthe distance from the
+    road with pH values around 7.5. At the surface, copper gave the highest value
+    (14459 mg/kg) of all MTE studied near the road at 0.5m and the lowest value (2271
+    mg/kg) at 20m of the road. Cadmium did not vary statistically but gave the lowest
+    value (54.5 mg/kg) of all MTE at 20m from the road with a high value of 478 mg/kg
+    at 2.5m from the road. Compared to sampling sites, statistical averages for these
+    three variables (Cu, Pb, and Zn) showed a change in copper content with a high
+    value of 13675 mg/kg at site 4 and a low value of 4771 mg/kg at site 3. Cadmium
+    did not give a significant variation from sites. In-depth, the elements displayed
+    the same behavior as on the surface. This was the case of copper, which had an
+    average concentration of 14751 mg/kg at a distance of 0.5m close to the road and
+    its smallest value was 2151 mg/kg at 50m. The pH did not show any significant
+    variations. The correlation between the parameters studied showed that Cu, Cd,
+    and Pb contents were bound, but they were independent of pH while Zn was bound
+    to pH.
+  keywords:
+    default:
+      keywords:
+        subject: Contamination Soil ETM Distribution Road And Chemical Pollution
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-10-22'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4117859
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4117858
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Muhune-Kitule-Simon--Mbayo-Kitambala-Marsi:
+    individualname: Muhune Kitule Simon , Mbayo Kitambala Marsi
+    role: creator
+  Tshisand-Tshibwid-Patrick--Muyumba-Nonga-Welcome:
+    individualname: Tshisand Tshibwid Patrick , Muyumba Nonga Welcome
+    role: creator
+  Kayembe-Kazadi-Oscar--Kaya-Muyumba-Donato:
+    individualname: Kayembe Kazadi Oscar , Kaya Muyumba Donato
+    role: creator
+  Banza-Ilunga-Bienvennue--Misenga-Twite-Antoinette--Lukusa-Tresor:
+    individualname: Banza Ilunga Bienvennue , Misenga Twite Antoinette , Lukusa Tresor
+    role: creator
+  Tshibanda-Kabumana-Dieudonne--Kalonda-Mutombo-Emery-and-Lumbu-Simbi-Jean-Baptiste:
+    individualname: Tshibanda Kabumana Dieudonne , Kalonda Mutombo Emery and Lumbu
+      Simbi Jean-Baptiste
+    role: creator
+  Muhune-Kitule-Simon-Mbayo-Kitambala-Marsi:
+    individualname: Muhune Kitule Simon, Mbayo Kitambala Marsi
+    role: ''
+    organization: Department of Chemistry, Faculty of Sciences, University of Lubumbashi,
+      Lubumbashi, DR Congo.
+    url: ''
+  Tshisand-Tshibwid-Patrick-Muyumba-Nonga-Welcome:
+    individualname: Tshisand Tshibwid Patrick, Muyumba Nonga Welcome
+    role: ''
+    organization: Department of Chemistry, Teachers Training College of Lubumbashi,
+      Lubumbashi, DR Congo.
+    url: ''
+  Kayembe-Kazadi-Oscar-Kaya-Muyumba-Donato:
+    individualname: Kayembe Kazadi Oscar, Kaya Muyumba Donato
+    role: ''
+    organization: Department of Chemical Engineering and Bioengineering, Washington
+      State University, Washington, USA.
+    url: ''
+  Banza-Ilunga-Bienvennue-Misenga-Twite-Antoinette:
+    individualname: Banza Ilunga Bienvennue, Misenga Twite Antoinette
+    role: ''
+    organization: Unit of Therapeutic Chemistry and Pharmacognosy, Mons (UMONS), Bat
+      6, Chemin du Champ de Mars 25, 7000 Mons, Belgium.
+    url: ''
+  Tshibanda-Kabumana-Dieudonne-Kalonda-Mutombo-Emery-and-Lumbu-Simbi-Jean-Baptiste:
+    individualname: Tshibanda Kabumana Dieudonne, Kalonda Mutombo Emery and Lumbu
+      Simbi Jean-Baptiste
+    role: ''
+    organization: Department of Chemical Engineering, Vaal University of Technology,
+      Republic of South Africa.
+    url: ''
+content_info: {}

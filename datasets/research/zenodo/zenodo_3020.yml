@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.20372-au.jssd.1.2.2013.015
+  dataseturi: https://doi.org/10.20372/au.jssd.1.2.2013.015
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Article
+identification:
+  title: GC-MS Determination of Pesticide Residues in Effluent Run-off, River and
+    Adjacent Soil around a Floriculture Industry in Holetta Town, Ethiopia
+  abstract: Journal of Science and Sustainable Development, Vol. 1 No. 2 (2013)
+  keywords:
+    default:
+      keywords:
+      - Pesticides
+      - Floriculture
+      - Solid phase extraction
+      - GC-MS
+      - Effluents
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    submitted: '2020-12-19'
+    accepted: '2020-12-19'
+    updated: '2020-12-20'
+    issued: '2013-07-02'
+    publication: '2013'
+  rights: cc-by-nc-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.20372/au.jssd.1.2.2013.015
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.20372/au.jssd.1.2
+    type: WWW:LINK
+    title: IsPartOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  L.E.-Attah:
+    individualname: L.E., Attah
+    role: creator
+  Melkamu-Biyana:
+    individualname: Melkamu, Biyana
+    role: creator
+  Attah-L.-E.:
+    individualname: Attah, L. E.
+    role: ''
+    organization: ''
+    url: ''
+  Biyana-Melkamu:
+    individualname: Biyana, Melkamu
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

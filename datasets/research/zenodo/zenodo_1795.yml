@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8126
+  dataseturi: https://doi.org/10.5281/zenodo.8126
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Evaluation Of Heavy Metal Toxicity On Radish: Comparison Between Soil And
+    Floating Hydroponics Systems'
+  abstract: Two plant growing methods, namely use of soil and a floating hydroponic
+    system, were compared in order to determine whether the response of radish to
+    Cd, Cu, Ni and Zn was affected by the cultural system. Seed germination, plant
+    biomass (root, shoot, hypocotyl), and heavy metal accumulation in different parts
+    of the radish plants were monitored. The presence of heavy metals in the germination
+    medium had no effect on seed germination, while the biomass of plants grown in
+    hydroponics was negatively affected by the presence of metals in the nutrient
+    solution. In both cultural systems, the amount of metals in roots, hypocotyls
+    and shoots increased significantly with the increasing metal concentration in
+    the growth media; the highest concentrations of heavy metals were found in the
+    roots. The bioconcentration factor (BCF) and translocation factor (TF) values
+    for the four metals were found to be considerably different between both growing
+    systems. The different responses of plants suggest that in contaminated soils
+    the plants are in the presence of lower quantities of available metals than those
+    found in the corresponding substrates of the hydroponic system.
+  keywords:
+    default:
+      keywords:
+        subject: BCF, TF, correlation test.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-02-07'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8126
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salvatore-M.-Di:
+    individualname: Salvatore, M. Di
+    role: creator
+    organization: "Dipartimento Di Arboricoltura Botanica Patologia Vegetale, Universit\xE0\
+      \ Degli Studi Di Napoli \u201CFederico II\u201D, via Universit\xE0 100, 80055\
+      \ Portici (NA), Italy."
+    url: ''
+  Carafa-A.-M.:
+    individualname: Carafa, A. M.
+    role: creator
+    organization: "Dipartimento Di Arboricoltura Botanica Patologia Vegetale, Universit\xE0\
+      \ Degli Studi Di Napoli \u201CFederico II\u201D, via Universit\xE0 100, 80055\
+      \ Portici (NA), Italy."
+    url: ''
+  Mingo-A.:
+    individualname: Mingo, A.
+    role: creator
+    organization: "Dipartimento Di Arboricoltura Botanica Patologia Vegetale, Universit\xE0\
+      \ Degli Studi Di Napoli \u201CFederico II\u201D, via Universit\xE0 100, 80055\
+      \ Portici (NA), Italy."
+    url: ''
+  Carratu-G.:
+    individualname: "Carrat\xF9, G."
+    role: creator
+    organization: "Dipartimento Di Arboricoltura Botanica Patologia Vegetale, Universit\xE0\
+      \ Degli Studi Di Napoli \u201CFederico II\u201D, via Universit\xE0 100, 80055\
+      \ Portici (NA), Italy."
+    url: ''
+content_info: {}

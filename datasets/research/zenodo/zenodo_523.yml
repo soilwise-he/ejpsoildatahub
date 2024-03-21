@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McNeill_2017
+  dataseturi: https://doi.org/10.3897/neobiota.32.9784
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Defining the biosecurity risk posed by transported soil: Effects of storage
+    time and environmental exposure on survival of soil biota'
+  abstract: "&lt;p&gt;Soil frequently occurs as a contaminant on numerous sea, land\
+    \ and air transport pathways. It can carry unwanted invasive species, is widely\
+    \ recognized as a biosecurity risk, and is usually strictly regulated by biosecurity\
+    \ authorities. However, little is known about relative risk levels between pathways,\
+    \ thus authorities have limited capability to identify and target the riskiest\
+    \ soil pathways for management. We conducted a an experiment to test the hypotheses\
+    \ that biosecurity risks from soil organisms will increase both with declining\
+    \ transport duration and with increasing protection from environmental extremes.\
+    \ Soil was collected from two sites, a native forest remnant and an orchard, and\
+    \ stored on, in and under sea containers, or in cupboards, and assayed after 0,\
+    \ 3, 6 and 12 months for bacteria, fungi, nematodes and seeds.&lt;/p&gt;\n   \
+    \     &lt;p&gt;Results showed that viability of Pseudomonas spp., bacteria, nematodes\
+    \ and plants declined over 12 months, irrespective of soil source. Also, mortality\
+    \ of most biota was higher when exposed to sunlight, moisture and desiccation\
+    \ than when protected. However, bacterial and fungal numbers were higher in exposed\
+    \ environments, possibly due to ongoing colonization of exposed soil by airborne\
+    \ propagules. The results were consistent with our observations of organisms in\
+    \ soil intercepted from airports and sea ports, and indicated there is potential\
+    \ to rank risks from transported soils based partly on transport duration and\
+    \ environmental exposure. This would help authorities to optimally allocate management\
+    \ resources according to pathway-specific risks.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Species invasion
+      - pathways
+      - risk analysis
+      - trade
+      - tourism
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Defining the biosecurity risk posed by transported soil: Effects of storage
+      time and environmental exposure on survival of soil biota'
+    url: http://dx.doi.org/10.3897/neobiota.32.9784
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McNeill-Mark-R.:
+    individualname: McNeill, Mark R.
+    role: creator
+  Phillips-Craig-B.:
+    individualname: Phillips, Craig B.
+    role: creator
+  Robinson-Andrew-P.:
+    individualname: Robinson, Andrew P.
+    role: creator
+  Aalders-Lee:
+    individualname: Aalders, Lee
+    role: creator
+  Richards-Nicky:
+    individualname: Richards, Nicky
+    role: creator
+  Young-Sandra:
+    individualname: Young, Sandra
+    role: creator
+  Dowsett-Claire:
+    individualname: Dowsett, Claire
+    role: creator
+  James-Trevor:
+    individualname: James, Trevor
+    role: creator
+  Bell-Nigel:
+    individualname: Bell, Nigel
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

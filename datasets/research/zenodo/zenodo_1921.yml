@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4568251
+  dataseturi: https://doi.org/10.5281/zenodo.4568251
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Tillage Practices on Selected Soil Properties in Sudan Savanna
+    Agro-Ecology of Nigeria
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> Field experiments were\
+    \ carried out in 2018 and 2019 cropping seasons to evaluate the effect of tillage\
+    \ practices on selected soil properties in Sudan Savanna Agro-ecology of Nigeria.\
+    \ Treatments consisted of zero tillage, flat beds and ridges, and were laid out\
+    \ in a randomized complete block design (RCBD) and replicated three times. Prior\
+    \ to experiment, surface (0-15 cm) soil samples were collected from eight points\
+    \ and bulked; post-harvest composite soil samples were also collected on the basis\
+    \ of treatments and were analyzed using standard analytical procedures. NCRIBEN-01M\
+    \ variety of sesame was used as the test crop for both cropping seasons. The data\
+    \ generated from the study were subjected to Analysis of Variance (ANOVA) using\
+    \ Genstat Release 10.3 DE after which significant means were separated using Least\
+    \ Significant Difference (LSD) at 5 % level of probability. Based on the findings\
+    \ of this study, there were significant effects of tillage practices with respect\
+    \ to most soil parameters studied in 2018 and 2019 cropping seasons. The effects\
+    \ of tillage practices on soil nutrients indicated that the zero tilled plots\
+    \ had higher nutrients and organic matter, followed by the flat beds while the\
+    \ ridged plots gave lower values for essential nutrients and organic matter in\
+    \ both cropping seasons. For conservation or retention of essential nutrients\
+    \ as well as organic matter in soil, zero tillage is recommended for the study\
+    \ area."
+  keywords:
+    default:
+      keywords:
+        subject: Nigeria
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-02-28'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4568251
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4568250
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Usman-M.:
+    individualname: Usman, M.
+    role: creator
+    organization: ''
+    url: ''
+  Ali-A.:
+    individualname: Ali, A.
+    role: creator
+    organization: ''
+    url: ''
+  Agber-P.I.:
+    individualname: Agber, P.I.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

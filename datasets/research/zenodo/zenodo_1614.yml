@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5545992
+  dataseturi: https://doi.org/10.5281/zenodo.5545992
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Manure management and soil biodiversity Towards more sustainable food systems
+    in the EU
+  abstract: In this review, authors explored the impact of manure from farmed animals
+    on soil biodiversity by considering factors that determine the effects of manure
+    and vice versa. By evaluating manure's potential to enhance soil biodiversity,
+    but also its environmental risks, authors assessed current and future EU policy
+    and legislations with the ultimate aim of providing recommendations that can enable
+    a more sustainable management of farm manures. This work was funded by the European
+    Commission Horizon 2020 project SoildiverAgro [grant agreement 817819].
+  keywords:
+    default:
+      keywords:
+        subject: Common agricultural policy; Environmental policy; Nutrient losses;
+          Soil organisms; Agricultural practices; Sustainability; European Union
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5545992
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5545991
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Julia-Koninger:
+    individualname: "Julia K\xF6ninger"
+    role: creator
+  Emanuele-Lugato:
+    individualname: Emanuele Lugato
+    role: creator
+  Panos-Panagos:
+    individualname: Panos Panagos
+    role: creator
+  Mrinalini-Kochupillai:
+    individualname: Mrinalini Kochupillai
+    role: creator
+    organization: ''
+    url: ''
+  Alberto-Orgiazzi:
+    individualname: Alberto Orgiazzi
+    role: creator
+  Maria-J.I.-Briones:
+    individualname: Maria J.I. Briones
+    role: creator
+  Koninger-Julia:
+    individualname: "K\xF6ninger, Julia"
+    role: ''
+    organization: ''
+    url: ''
+  Lugato-Emanuele:
+    individualname: Lugato, Emanuele
+    role: ''
+    organization: ''
+    url: ''
+  Panagos-Panos:
+    individualname: Panagos, Panos
+    role: ''
+    organization: ''
+    url: ''
+  Orgiazzi-Alberto:
+    individualname: Orgiazzi, Alberto
+    role: ''
+    organization: ''
+    url: ''
+  Briones-Maria-J.I.:
+    individualname: Briones, Maria J.I.
+    role: ''
+    organization: University of Vigo
+    url: ''
+content_info: {}

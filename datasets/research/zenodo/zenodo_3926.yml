@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10123897
+  dataseturi: https://doi.org/10.5281/zenodo.10123897
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "EFFECT OF INPUT PARAMETERS ON DYNAMIC CHARACTERISTICS OF CLAYEY SOIL THROUGH\
+    \ DYNATOR \u2013 A NON-DESTRUCTIVE TEST"
+  abstract: "Abstract\_\nCurrently dynamic loading and its effects on foundation is\
+    \ quite a hot topic in the field of geotechnical engineering which occurred due\
+    \ to vibration effect on soil, and it is quite challenging to observe. This study\
+    \ was performed on the Resonant column equipment accompanied by the software Dynator.\
+    \ The usage of software needs a proper understanding and its effects on the testing\
+    \ properties of soil. The previous studies of dynamically loaded soil studied\
+    \ through resonant columns majorly are in the range of 1 to 2 Hz with free vibration\
+    \ and forced vibration, but to start work with the soil sample and to relate the\
+    \ loading properties with the literature is difficult because of the input parameters\
+    \ of dynamic loading. The objective of this study is to provide how much difference\
+    \ occurred in the values of shear modulus (G), damping ratio (D),\_and peak strain\
+    \ amplitude (\u03B3)\_on minor changes of input values. The outputs of this research\
+    \ show that shear modulus values increase linearly on change of values of initial\
+    \ frequency and peak strain amplitudes decreases, while there is a minor decrease\
+    \ in the Damping ratio. The acquisition channel gives linear straight values of\
+    \ damping on angular and in the channel of acceleration it provides the wave type\
+    \ variation in values of damping ratio.\_"
+  keywords:
+    default:
+      keywords:
+        subject: Clay, Frequency Range, Shear Modulus, Damping Ratio, Maximum Strains,
+          Confining Pressure, and Acquisition Channel.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-10'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10123897
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10123896
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SADIA-MOIN:
+    individualname: SADIA MOIN
+    role: creator
+    organization: Currently Pursuing Doctoral Degree in Civil Engineering from NED
+      University of Engineering and Technology, Pakistan and serving as a Lecturer
+      there.
+    url: ''
+  Dr.-AMANULLAH-MARRI:
+    individualname: Dr. AMANULLAH MARRI
+    role: creator
+    organization: Professor, Department of Civil Engineering, NED University of Engineering
+      & Technology, Karachi, Pakistan.
+    url: ''
+  Dr.-SADAF-QASIM:
+    individualname: Dr. SADAF QASIM
+    role: creator
+    organization: Associate Professor, Department of Civil Engineering, NED University
+      of Engineering & Technology, Karachi, Pakistan.
+    url: ''
+content_info: {}

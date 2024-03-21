@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6361031
+  dataseturi: https://doi.org/10.5281/zenodo.6361031
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Post-harvest Changes in the Status of Nitrogen and Organic Carbon in Soil\
+    \ Treated with Fertilizers and Pesticides for Growing R\u03B1ph\u03B1nus s\u03B1\
+    tivus"
+  abstract: Chemical Laboratories, Allahabad University, Allahabad-211 002 NH<sub>3
+    </sub>-N was found maximum in soils supplied with fertilizers only(C\(f\)) and
+    pesticides were found to inhiblt the production and maintenance of NH<sub>3</sub>-N
+    in soils. Fertilizers and pesticides showed increased percentage of NH<sub>3</sub>-N
+    than the original level (OL), although natural soil showed more NH<sub>3</sub>-N
+    than the treated soils. In presence of metasystox there was an increase in NH<sub>3</sub>-N
+    percentage than the fertilizer (C\(f\)) and carbofuran treated (P) soils. Rate
+    of nitrification was inhibited by the presence of fertilizers and pesticides.
+    However, pesticides increased the rate of nitrification in the soils than fertilizers
+    only. Organic carbon percentage was found to be maximum in the original level.
+    Pesticide treated soils had a higher organic carbon level than the fertilizers
+    treated soil.
+  keywords:
+    default:
+      keywords:
+        subject: sulphur
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-04-30'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6361031
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6361030
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+  DEEPALI-LALORAYA:
+    individualname: DEEPALI LALORAYA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

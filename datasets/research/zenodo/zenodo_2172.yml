@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wojcik_2019
+  dataseturi: https://doi.org/10.1080/15230430.2019.1570784
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Land cover and landform-based upscaling of soil organic carbon stocks on\
+    \ the Br\xF8gger Peninsula, Svalbard"
+  abstract: '&lt;p&gt;In this study we assess the total storage, landscape distribution,
+    and vertical partitioning of soil organic carbon (SOC) stocks on the Br&oslash;gger
+    Peninsula, Svalbard. This type of high Arctic area is underrepresented in SOC
+    databases for the northern permafrost region. Physico-chemical, elemental, and
+    radiocarbon (14C) dating analyses were carried out on thirty-two soil profiles.
+    Results were upscaled using both a land cover classification (LCC) and a landform
+    classification (LFC). Both LCC and LFC approaches provide weighted mean SOC 0&ndash;100
+    cm estimates for the study area of 1.0 &plusmn; 0.3 kg C m-2 (95% confidence interval)
+    and indicate that about 68 percent of the total SOC storage occurs in the upper
+    30 cm of the soil, and about 10 percent occurs in the surface organic layer. Furthermore,
+    LCC and LFC upscaling approaches provide similar spatial SOC allocation estimates
+    and emphasize the dominant role of &ldquo;vegetated area&rdquo; (4.2 &plusmn;
+    1.6 kg C m-2) and &ldquo;solifluction slopes&rdquo; (6.7 &plusmn; 3.6 kg C m-2)
+    in SOC 0&ndash;100 cm storage. LCC and LFC approaches report different and complementary
+    information on the dominant processes controlling the spatial and vertical distribution
+    of SOC in the landscape. There is no evidence for any significant SOC storage
+    in the permafrost layer. We hypothesize, therefore, that the Br&oslash;gger Peninsula
+    and similar areas of the high Arctic will become net carbon sinks, providing negative
+    feedback on global warming in the future. The surface area that will have vegetation
+    cover and incipient soil development will expand, whereas only small amounts of
+    organic matter will experience increased decomposition due to active-layer deepening.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Permafrost-carbon feedback
+      - Soil organic carbon
+      - Land cover upscaling
+      - Landform upscaling
+      - High Arctic
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Land cover and landform-based upscaling of soil organic carbon stocks on\
+      \ the Br\xF8gger Peninsula, Svalbard"
+    url: http://dx.doi.org/10.1080/15230430.2019.1570784
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wojcik-Robin:
+    individualname: Wojcik, Robin
+    role: creator
+  Palmtag-Juri:
+    individualname: Palmtag, Juri
+    role: creator
+  Hugellus-Gustav:
+    individualname: Hugellus, Gustav
+    role: creator
+  Weiss-Niels:
+    individualname: Weiss, Niels
+    role: creator
+  Hugelius-Gustaf:
+    individualname: Hugelius, Gustaf
+    role: creator
+  Kuhry-Peter:
+    individualname: Kuhry, Peter
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

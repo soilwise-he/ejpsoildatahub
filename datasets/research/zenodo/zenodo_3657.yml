@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1339458
+  dataseturi: https://doi.org/10.5281/zenodo.1339458
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Treated Waste-Water On Compaction And Compression Of Fine Soil
+  abstract: "\u2014The main objective of this paper is to study the effect of treated\
+    \ waste-water (TWW) on the compaction and compressibility properties of fine soil.\
+    \ Two types of fine soils (clayey soils) were selected for this study and classified\
+    \ as CH soil and Cl type of soil. Compaction and compressibility properties such\
+    \ as optimum water content, maximum dry unit weight, consolidation index and swell\
+    \ index, maximum past pressure and volume change were evaluated using both tap\
+    \ and treated waste water. It was found that the use of treated waste water affects\
+    \ all of these properties. The maximum dry unit weight increased for both soils\
+    \ and the optimum water content decreased as much as 13.6% for highly plastic\
+    \ soil. The significant effect was observed in swell index and swelling pressure\
+    \ of the soils. The swell indexed decreased by as much as 42% and 33% for highly\
+    \ plastic and low plastic soils, respectively, when TWW is used. Additionally,\
+    \ the swelling pressure decreased by as much as 16% for both soil types. The result\
+    \ of this research pointed out that the use of treated waste water has a positive\
+    \ effect on compaction and compression properties of clay soil and promise for\
+    \ potential use of this water in engineering applications. Keywords\u2014Consolidation,\
+    \ proctor compaction, swell index, treated waste-water, volume change."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-03'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1339458
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1339457
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Attom:
+    individualname: M. Attom
+    role: creator
+    organization: ''
+    url: ''
+  F.-Abed:
+    individualname: F. Abed
+    role: creator
+    organization: ''
+    url: ''
+  M.-Elemam:
+    individualname: M. Elemam
+    role: creator
+    organization: ''
+    url: ''
+  M.-Nazal:
+    individualname: M. Nazal
+    role: creator
+    organization: ''
+    url: ''
+  N.-ElMessalami:
+    individualname: N. ElMessalami
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

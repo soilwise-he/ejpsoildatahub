@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5827168
+  dataseturi: https://doi.org/10.5281/zenodo.5827168
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A new spot test for the detection of dithiocarbamate fungicides in soil and
+    water
+  abstract: "Applied Chemistry Department, Z. H. College of Engineering and Technology,\
+    \ Aligarh Muslim University,<br> Aligarh-202 002, India<br> <em>E-mail </em>:\
+    \ hsrathore@mailcity .com<br> <em>Manuscript received 19 January 2005, revised\
+    \ 13 June 2005, accepted 18 July 2005</em> A new spot test has been developed\
+    \ for the detection of dithiocarbamate fungicides such as mancozeb, propineb and\
+    \ zineb at nkg level in soil and water. The colour formation is based on the decomposition\
+    \ of dithiocarbamate to carbon disulphide which reacts with plumbite ir\xB7 alkaline\
+    \ medium to form a brown complex that finally converts to black lead sulphide.\
+    \ The coloured product exists as a bright brown-black colloidal solution in formaldehyde\
+    \ or glycerin or hydroxylamine hydrochloride."
+  keywords:
+    default:
+      keywords:
+        subject: decomposition of dithiocarbamate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2005-10-31'
+    publication: '2005'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5827168
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5827167
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hamir-Singh-Rathore:
+    individualname: Hamir Singh Rathore
+    role: creator
+    organization: ''
+    url: ''
+  Gaiven-Varshney:
+    individualname: Gaiven Varshney
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

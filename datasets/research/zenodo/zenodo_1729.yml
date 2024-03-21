@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5651947
+  dataseturi: https://doi.org/10.5281/zenodo.5651947
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Physical and numerical modeling for assessing chromium migration and retention
+    dynamics in clayey soil
+  abstract: Civil Engineering Department, Chemical Engineering Department, Department
+    of Physics, National Institute of Technology Durgapur, Durgapur-713 209, West
+    Bengal, India <em>E-mail:</em> supriya070478@gmail.com <em>Manuscript received
+    online 03 July 2018, revised 19 September 2018, accepted 21 September 2018</em>
+    The disposal of chromium laden sludge from tannery industries is a real challenge
+    to the geo-environmental professional due to sub-surface migration of toxic leachate
+    may cause serious depletion of the soil and groundwater quality. Therefore, scientific
+    disposal of sludge is very much encouraged instead of the poor practice of uncontrolled
+    tripping in an unlined containment structure or any open dumping yard. In the
+    present research work, the migration behavior of chromium(VI) through clayey soil
+    has been examined through column test for assessing the contaminant buffering
+    potential of the considered soil so that the same can be utilized as a landfill
+    liner material in waste containment structures. The breakthrough curve (BTC) generated
+    from column test data showed soil bed of 10 cm height became exhausted (reached
+    more than 90% saturation with solute) after a period of 45 days. The slope of
+    the BTC was also flat in nature. These indicate that the good Cr<sup>VI</sup>
+    retention capacity of the clayey soil. Numerical modeling of Cr<sup>VI</sup> transport
+    through the soil column was also performed using HYDRUS 1D solute transport software
+    package. The model predicted results were found closely matching with the experimental
+    BTC (R<sup>2</sup> = 0.7212, RMSE = 0.4418). Thus, the HYDRUS 1D model can be
+    considered as a worthy tool in optimizing the clayey soil liner thickness in chromium
+    laden waste containment structures to arrest toxic leachate migration through
+    sub-surface soil media and also to protect the precious groundwater from contamination.
+  keywords:
+    default:
+      keywords:
+        subject: numerical modelling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-02-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5651947
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5651946
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sumanta-Rakshit:
+    individualname: Sumanta Rakshit
+    role: creator
+    organization: ''
+    url: ''
+  Supriya-Pal:
+    individualname: Supriya Pal
+    role: creator
+    organization: ''
+    url: ''
+  Soumya-Bhattacharya:
+    individualname: Soumya Bhattacharya
+    role: creator
+    organization: ''
+    url: ''
+  Mrinal-Kanti-Mandal:
+    individualname: Mrinal Kanti Mandal
+    role: creator
+  Hirok-Chaudhuri:
+    individualname: Hirok Chaudhuri
+    role: creator
+    organization: ''
+    url: ''
+  Chiranjit-Maji:
+    individualname: Chiranjit Maji
+    role: creator
+    organization: ''
+    url: ''
+  Mandal-Mrinal-Kanti:
+    individualname: Mandal, Mrinal Kanti
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Briggs_1906
+  dataseturi: https://doi.org/10.1103/physrevseriesi.22.125
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On the Use of Centrifugal Force in Soil Investigations
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On the Use of Centrifugal Force in Soil Investigations
+    url: http://dx.doi.org/10.1103/physrevseriesi.22.125
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Briggs-Lyman-J.:
+    individualname: Briggs, Lyman J.
+    role: creator
+  American-Physical-Society-APS:
+    individualname: American Physical Society (APS)
+    role: creator
+content_info: {}

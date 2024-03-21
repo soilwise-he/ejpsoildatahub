@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Monta_ez_2021
+  dataseturi: https://doi.org/10.11591/ijeecs.v24.i1.pp90-98
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil parameter detection of soil test kit-treated soil samples through image
+    processing with crop and fertilizer recommendation
+  abstract: '&lt;p&gt;Standard laboratory soil testing is deemed to be expensive and
+    timeconsuming. Utilizing a soil test kit is considered to be a cost-efficient
+    and time-saving way of soil testing. This project study aims to develop a prototype
+    that detects soil parameters (i.e., soil pH, nitrogen, phosphorus, and potassium)
+    and gives crop and fertilizer recommendations after the soil sample has undergone
+    a soil treatment test kit and its acceptability for possible users. The prototype
+    development primarily used image processing to detect the needed parameters that
+    lead to crop and fertilizer recommendations. In the evaluation of the effectiveness
+    of the prototype, 50 trials were conducted per parameter. All of the said parameters
+    were recorded as highly effective except for nitrogen Low, which is interpreted
+    as effective only. There were 30 possible users invited to assess the acceptability
+    of the prototype. A survey based on the technology acceptance model was administered
+    to the 30 respondents garnering a 4.85 weighted mean interpreted as excellent.
+    The prototype was proven effective and accepted as a device that can detect soil
+    pH and primary macronutrient levels. It gives the appropriate crop and fertilizer
+    recommendations based on the gathered data.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Image processing
+      - Raspberry Pi
+      - Soil pH and NPK
+      - Soil test kit
+      - Technology acceptance model
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil parameter detection of soil test kit-treated soil samples through image
+      processing with crop and fertilizer recommendation
+    url: http://dx.doi.org/10.11591/ijeecs.v24.i1.pp90-98
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Montanez-John-Joshua-F.:
+    individualname: "Monta\xF1ez, John Joshua F."
+    role: creator
+  Monta+-ez-John-Joshua-Federis:
+    individualname: "Monta\u221A\xB1ez, John Joshua Federis"
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

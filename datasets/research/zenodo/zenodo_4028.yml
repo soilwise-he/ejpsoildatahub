@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3936415
+  dataseturi: https://doi.org/10.5281/zenodo.3936415
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Tillage Methods on Soil Properties, Growth and Yield of Maize (Zea
+    mays L.) in Makurdi, Nigeria
+  abstract: 'The research was conducted at the Teaching and Research Farm of the University
+    of Agriculture Makurdi to evaluate the effect of five (5) tillage methods on soil
+    properties, growth and yield of maize. The experimental design consisted of five
+    (5) treatments that were replicated three times and laid out in a Randomized Complete
+    Block Design (RCBD). These treatments are: Surface tillage (T1), ridges (T2),
+    zero tillage (T3), heaps (T4) and tied ridges (T5). Each plot measured 5 m x 5
+    m with spacing of 1 m between replicates and 0.5 m between plots in the same replicate
+    thus giving a total plot size of 17 m x 27 m (459 m2). A composite soil sample
+    was obtained from a plough layer (0-15 cm) at the beginning and at the end of
+    the experiment according to the treatments and analyzed for soil properties in
+    the Advanced Soil Science Laboratory, University of Agriculture Makurdi. Data
+    collected for the growth and yield parameters of maize were subjected to the Analysis
+    of Variance (ANOVA) after which significant means were separated using Least Significant
+    Difference (LSD) at P&lt;0.05. The results of the study showed that the various
+    tillage methods had no significant effect on the soil properties. However, there
+    was significant effect on some of the growth parameters as well as the yield of
+    maize. It can be concluded that all the tillage methods be adopted or utilized
+    for maize production in Makurdi sub-humid region and also the surface tillage
+    should be utilized the most since it gave the highest grain yield of maize.'
+  keywords:
+    default:
+      keywords:
+        subject: Tillage Methods, Soil Properties, Growth and Yield of Maize.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-03-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3936415
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3936414
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Ali:
+    individualname: A. Ali
+    role: creator
+    organization: Deptartment of Soil Science, University of Agriculture, Makurdi,
+      Nigeria
+    url: ''
+  M.-Usman:
+    individualname: M. Usman
+    role: creator
+    organization: Department of Agricultural Science, Federal College of Education
+      (Technical), Potiskum, Nigeria
+    url: ''
+  A.O.-Adaikwu:
+    individualname: A.O. Adaikwu
+    role: creator
+    organization: Deptartment of Soil Science, University of Agriculture, Makurdi,
+      Nigeria
+    url: ''
+content_info: {}

@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McCall_1916
+  dataseturi: https://doi.org/10.1021/j150163a003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Adsorption of Potassium by the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Adsorption of Potassium by the Soil
+    url: http://dx.doi.org/10.1021/j150163a003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McCall-A.-G.:
+    individualname: McCall, A. G.
+    role: creator
+  Hildebrandt-F.-M.:
+    individualname: Hildebrandt, F. M.
+    role: creator
+  Johnson-E.-S.:
+    individualname: Johnson, E. S.
+    role: creator
+  Bancroft-Wilder-D.:
+    individualname: Bancroft, Wilder D.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

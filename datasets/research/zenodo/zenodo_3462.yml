@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1057031
+  dataseturi: https://doi.org/10.5281/zenodo.1057031
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Behaviour Of Masonry Wall Constructed Using Interlocking Soil Cement Bricks
+  abstract: 'According to the masonry standard the compressive
+
+    strength is basically dependent on factors such as the mortar strength
+
+    and the relative values of unit and mortar strength. However
+
+    interlocking brick has none or less use of mortar. Therefore there is a need to
+    investigate the behavior of masonry walls using interlocking
+
+    bricks. In this study a series of tests have been conducted; physical
+
+    properties and compressive strength of brick units and masonry walls
+
+    were constructed from interlocking bricks and tested under constant
+
+    vertical load at different eccentricities. The purpose of the
+
+    experimental investigations is to obtain the force displacement curves, analyze
+    the behavior of masonry walls. The results showed
+
+    that the brick is categorized as common brick (BS 3921:1985) and severe weathering
+    grade (ASTM C62). The maximum compressive stress of interlocking brick wall is
+    3.6 N/mm2 and fulfilled the requirement of standard for residential building.'
+  keywords:
+    default:
+      keywords:
+        subject: eccentricities
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-12-27'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1057031
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1057030
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmad-Z.:
+    individualname: Ahmad, Z.
+    role: creator
+    organization: ''
+    url: ''
+  Othman-S.-Z.:
+    individualname: Othman S., Z.
+    role: creator
+    organization: ''
+    url: ''
+  Md-Yunus-B.:
+    individualname: Md Yunus, B.
+    role: creator
+    organization: ''
+    url: ''
+  Mohamed-A.:
+    individualname: Mohamed, A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

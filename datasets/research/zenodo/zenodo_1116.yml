@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Peneva_2011
+  dataseturi: https://doi.org/10.3897/zookeys.141.1906
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Longidorus carniolensis sp. n. (Nematoda, Longidoridae) from vineyard soil
+    in Slovenia
+  abstract: "&lt;p&gt;A new needle nematode, &lt;i&gt;Longidorus &lt;/i&gt;&lt;i&gt;carniolensis&lt;/i&gt;\
+    \ &lt;strong&gt;sp. n.&lt;/strong&gt;, recovered from the soil around the roots\
+    \ of grapevine &lt;i&gt;Vitis vinifera&lt;/i&gt; L. from Slovenia, is described\
+    \ and illustrated. &lt;i&gt;Longidorus&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;i&gt;carniolensis&lt;/i&gt;&lt;b&gt;\
+    \ &lt;/b&gt;is an amphimictic species&lt;b&gt;, &lt;/b&gt;characterised by females\
+    \ with a moderately long (L=5.6\u20138.2 mm) and plump (a=51\u201372.4, ave. 66.3)\
+    \ body, assuming a spiral to C-shape when heat relaxed. Head region continuous,\
+    \ anteriorly almost flat, lip region 23\u201325 \xB5m wide; guiding ring situated\
+    \ posteriorly (42\u201347 \xB5m, 43\u201350 \xB5m in males), odontostyle long\
+    \ (ave. 146.6 (136\u2013157) \xB5m); pharyngeal glands with normal location, their\
+    \ nuclei of approximately equal size; tail bluntly conoidal to almost hemispherical.\
+    \ Males abundant, spicules slender and long (122\u2013145 \xB5m), ventromedian\
+    \ supplements 13\u201317, irregularly spaced, preceded by an adanal pair. Four\
+    \ juvenile stages present, the first stage juvenile with bluntly conoidal tail.\
+    \ Codes for identifying the new species when using the key by Chen et al. (1997)\
+    \ are: A 56, B 4, C 4, D 1, E 4, F 35, G 1, H 1, I 2. The new species is morphologically\
+    \ the most similar to &lt;i&gt;L. poessneckensis&lt;/i&gt; Altherr, 1974, &lt;i&gt;L.\
+    \ macrosoma &lt;/i&gt;Hooper, 1961, &lt;i&gt;L. caespiticola&lt;/i&gt; Hooper,\
+    \ 1961, &lt;i&gt;L. helveticus&lt;/i&gt; Lamberti et al., 2001, &lt;i&gt;L. macroteromucronatus&lt;/i&gt;\
+    \ Altherr, 1974, &lt;i&gt;L. pius&lt;/i&gt; Barsi et Lamberti, 2001, &lt;i&gt;L.\
+    \ raskii&lt;/i&gt; Lamberti et Agostinelli, 1993, &lt;i&gt;L. kheirii&lt;/i&gt;\
+    \ Pedram et al, 2008, &lt;i&gt;L. silvae&lt;/i&gt; Roca, 1993, &lt;i&gt;L. iuglandis&lt;/i&gt;\
+    \ Roca et al., 1985, &lt;i&gt;L. vinearum&lt;/i&gt; Bravo et Roca, 1995 and &lt;i&gt;L.\
+    \ major&lt;/i&gt; Roca et d\u2019Erico, 1987, but differs from these species either\
+    \ by the body and odontostyle length, position of guide ring, head region and\
+    \ tail shape or the shape of the first stage juvenile tail. Sequence data from\
+    \ the D2-D3 region of the 28S rDNA distinguishes this new species from other species&lt;i&gt;\
+    \ &lt;/i&gt;of the genus &lt;i&gt;Longidorus&lt;/i&gt; with known sequences. Relationships\
+    \ of &lt;i&gt;L. &lt;/i&gt;&lt;i&gt;carniolensis&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;strong&gt;sp.\
+    \ n.&lt;/strong&gt; with other &lt;i&gt;Longidorus&lt;/i&gt; species based on\
+    \ analysis of this DNA fragment and morphology are discussed.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - grapevine
+      - morphology
+      - taxonomy
+      - 28S rDNA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Longidorus carniolensis sp. n. (Nematoda, Longidoridae) from vineyard soil
+      in Slovenia
+    url: http://dx.doi.org/10.3897/zookeys.141.1906
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sirca-Sasa:
+    individualname: "\u0160irca, Sa\u0161a"
+    role: creator
+  Urek-Gregor:
+    individualname: Urek, Gregor
+    role: creator
+  Lazarova-Stela:
+    individualname: Lazarova, Stela
+    role: creator
+  Elshishka-Milka:
+    individualname: Elshishka, Milka
+    role: creator
+  Peneva-Vlada:
+    individualname: Peneva, Vlada
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

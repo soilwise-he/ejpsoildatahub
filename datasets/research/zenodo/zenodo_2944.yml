@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Shetie_2017
+  dataseturi: https://doi.org/10.5091/plecevo.2017.1162
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Elucidating woody vegetation patterns in relation to soil and topography
+    in tropical Africa: the case of Nech Sar National Park (Ethiopia)'
+  abstract: "&lt;b&gt;Background and aims&lt;/b&gt; \u2013 Although soils and topography\
+    \ are reported to be key factors determining vegetation patterns, there are very\
+    \ few studies on this topic in tropical Africa. Given the young nature of the\
+    \ soils of Nech Sar National park, we hypothesised that the woody vegetation would\
+    \ be related to both topsoil and subsoil characteristics. As topography also determines\
+    \ soil characteristics, we investigated whether soil and topography could be considered\
+    \ independently.&lt;br&gt;&lt;b&gt;Methods &lt;/b&gt; \u2013 Abundance of woody\
+    \ plant species was measured in 19 stratified randomly selected plots of 20 m\
+    \ \xD7 20 m. At the centre of each plot a soil profile pit was dug and samples\
+    \ were taken from each horizon. Topographic characteristics were derived from\
+    \ a 30 m \xD7 30 m digital elevation model. TWINSPAN and Detrended Correspondence\
+    \ Analysis (DCA) were used to identify major patterns in species composition.\
+    \ Factor Analysis was used to assess the variability of, and correlation between,\
+    \ the soil characteristics. Differences between the vegetation groups in-terms\
+    \ of stand and environmental characteristics was tested with the Mann-Whitney\
+    \ U test. DCA axes describing the major variation in vegetation patterns were\
+    \ correlated with soil and topographic characteristics.&lt;br&gt;&lt;b&gt;Results&lt;/b&gt;\
+    \ \u2013 Forest vegetation was found on Fluvisols and Gleyic Cambisols while bushland\
+    \ was found on Andosols and Vertic Cambisols. The vegetation gradient from forest\
+    \ to bushland (DCA-1) was correlated with both topsoil and subsoil characteristics\
+    \ reflecting parent material and alkalinity; these could however not be dissociated\
+    \ from topography. In contrast, variation both within the forest and the bushland\
+    \ (DCA-2) was not correlated with environmental characteristics. We attribute\
+    \ this variation to disturbances such as collection of firewood or logging, and\
+    \ to the absence of large browser or scarcity of wildfires.&lt;br&gt;&lt;b&gt;Conclusions&lt;/b&gt;\
+    \ \u2013 This study calls for giving equal attention to topsoil and subsoil for\
+    \ elucidating woody vegetation patterns. Though vegetation patterns vary with\
+    \ topography, a comprehensive understanding requires insights into soils."
+  keywords:
+    default:
+      keywords:
+      - ANDOSOLS
+      - BUSHLAND
+      - CAMBISOLS
+      - DIGITAL ELEVATION MODEL
+      - FLUVISOLS
+      - RIVERINE FOREST
+      - SOIL CHARACTERISTICS TOPOGRAPHIC CHARACTERISTICS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Elucidating woody vegetation patterns in relation to soil and topography
+      in tropical Africa: the case of Nech Sar National Park (Ethiopia)'
+    url: http://dx.doi.org/10.5091/plecevo.2017.1162
+    type: www
+contact:
+  Meise-Botanic-Garden:
+    individualname: Meise Botanic Garden
+    role: creator
+  Royal-Botanical-Society-of-Belgium:
+    individualname: Royal Botanical Society of Belgium
+    role: creator
+  Shetie-Gatew:
+    individualname: Shetie, Gatew
+    role: creator
+  Dondeyne-Stefaan:
+    individualname: Dondeyne, Stefaan
+    role: creator
+  Nyssen-Jan:
+    individualname: Nyssen, Jan
+    role: creator
+  Vancampenhout-Karen:
+    individualname: Vancampenhout, Karen
+    role: creator
+  Deckers-Jozef:
+    individualname: Deckers, Jozef
+    role: creator
+  Shetie-Gatew-M.:
+    individualname: Shetie, Gatew M.
+    role: creator
+  Agentschap-Plantentuin-Meise:
+    individualname: Agentschap Plantentuin Meise
+    role: creator
+content_info: {}

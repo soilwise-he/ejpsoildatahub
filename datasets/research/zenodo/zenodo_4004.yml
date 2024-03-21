@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3349115
+  dataseturi: https://doi.org/10.5281/zenodo.3349115
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Kinetic Modeling for Removal of Pb, Cd, Ni, and Cr Ions from Petrochemical
+    Effluent using Termite Soil
+  abstract: 'Increase in concentration of heavy metals ions in our water bodies is
+    of great concern. This work is aimed at providing an environmental and cost effective
+    adsorbent for the removal of Pb, Ni, Cr and Cd from petrochemical effluent. Termite
+    soil was pretreated and used for the sorption process and process parameters such
+    as contact time and particle size of the adsorbent was varied. Optimum contact
+    time of 60 minutes was obtained for Pb and Cd ions while 40 minutes was obtained
+    for Ni and Cr ions for all particle sizes of adsorbent used. Initial reaction
+    rate H(mg/g.min) was of the order for the different particle sized adsorbent,
+    75mm: Pb&gt;Cd&gt;Cr&gt;Ni, 212mm: Cd&gt;Pb&gt;Cr&gt;Ni and 300mm: Cd&gt;Pb&gt;Ni&gt;Cr.
+    Pseudo first order kinetics had less difference between experimental and theoretical
+    adsorption capacity (Qa - Qb) with R2 close to that obtained for Pseudo-second
+    order kinetics. Hence it is considered as the kinetic order for the adsorption
+    process. Percentage of the studied ions removed from the wastewater solution shows
+    the suitability of the adsorbent sequestering of heavy metal ions from industrial
+    wastewater.Read Complete Article at ijSciences: V5201602950 AND DOI: http://dx.doi.org/10.18483/ijSci.950'
+  keywords:
+    default:
+      keywords:
+        subject: termite hill
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-03-03'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3349115
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3349114
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-Agbozu-I.:
+    individualname: E. Agbozu, I.
+    role: creator
+    organization: ''
+    url: ''
+  Bassey-U.:
+    individualname: Bassey, U.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

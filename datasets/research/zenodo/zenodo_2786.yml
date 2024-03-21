@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5037116
+  dataseturi: https://doi.org/10.5281/zenodo.5037116
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Study on Land Use Activities and Their Effects on Soil Erosion on the Slopes
+    of Kajulu Hills, Kisumu County, Kenya
+  abstract: Soil erosion is a natural phenomenon, but human activities accelerate
+    it between ten to forty times the natural occurrences. It therefore calls for
+    mitigating measure to curb the effects of erosion since soils form at a slower
+    rate than they are destroyed. A study on land use activities and their effects
+    on soil erosion was conducted in the upland ecosystem in Kenya, Kajulu hills.
+    The study assessed the effectiveness of the mitigation measures adopted by the
+    residents to ease the effects erosion on the hill slopes. A sample size of 295
+    households out of 1600 households engaged in various mitigating practices was
+    used. The study collected data on the magnitude of soil (kg) lost from the arable
+    lands using collector ditch technique. The data were analyzed using frequency
+    distribution tables and Man U-test. The result showed a double amount (1.198 kg/m<sup>2</sup>)
+    of soil lost on the arable land without mitigation measures as compared to plots
+    under cut off ditches (0.615 kg/m<sup>2</sup>) and vegetative strips (0.904 kg/m<sup>2</sup>)
+    with Man U=7. These findings were above the world wide estimation of soil erosion
+    on arable mountainous regions which range between 1.3-40.kg/m<sup>2</sup>/year
+    (13-40T/Ha/year) as it was based on one rainy season. The findings showed that
+    the mitigation measures adopted by the farmers to check the effects of soil erosion
+    were effective with Man U=7 under the cut off ditches and vegetative strips.
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-10'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5037116
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5037115
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  J.-Otieno:
+    individualname: J. Otieno
+    role: creator
+    organization: Department of Geography and Social Sciences, Jaramogi Oginga Odinga
+      University of Science and Technology, P.O.Box 210-40601, Bondo, Kenya.
+    url: ''
+  A.-C.-Otieno:
+    individualname: A. C. Otieno
+    role: creator
+    organization: Department of Geography and Social Sciences, Jaramogi Oginga Odinga
+      University of Science and Technology, P.O.Box 210-40601, Bondo, Kenya.
+    url: ''
+  K.-W.-Tonui:
+    individualname: K. W. Tonui
+    role: creator
+    organization: Department of Geography and Social Sciences, Jaramogi Oginga Odinga
+      University of Science and Technology, P.O.Box 210-40601, Bondo, Kenya.
+    url: ''
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dewi_2020
+  dataseturi: https://doi.org/10.11591/ijeecs.v19.i2.pp983-991
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Color moment and gray level co-occurrence matrix in classification of soil
+    organic matter for patchouli plantation
+  abstract: '&lt;p&gt;Patchouli is one of the essential plants that have the most
+    potential and widely cultivated in Indonesia. Patchouli is greedily absorbing
+    soil nutrients and organic matter. Therefore, the selection of soil with high
+    organic matter will maximize the patchouli&rsquo;s productivity. This paper aims
+    to facilitate soil&rsquo;s organic matter identification by classifying soil image
+    based on the combination of color and texture features. The color feature extraction
+    was done using the Color Moments method and the texture feature was done using
+    Gray Level Co-occurrence Matrix (GLCM) method. The selection of features was performed
+    to obtain the best combination of color and texture features. The selected features
+    then was used as input of classification by using Modified K-Nearest Neighbor
+    (MKNN). The samples of soil that used as data were taken from several districts
+    in Blitar, East Java province. The testing result of this research showed the
+    highest accuracy of 93,33% by using 180 training data, and also particular color
+    and texture feature combination.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Color moment
+      - GLCM
+      - MKNN
+      - Patchouli
+      - Soil organic matter
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Color moment and gray level co-occurrence matrix in classification of soil
+      organic matter for patchouli plantation
+    url: http://dx.doi.org/10.11591/ijeecs.v19.i2.pp983-991
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Candra-Dewi:
+    individualname: Candra Dewi
+    role: creator
+  Mudawikawi-Akbar-Grahadhuita:
+    individualname: Mudawikawi Akbar Grahadhuita
+    role: creator
+  Lailil-Muflikhah:
+    individualname: Lailil Muflikhah
+    role: creator
+  Dewi-Candra:
+    individualname: Dewi, Candra
+    role: creator
+  Grahadhuita-Akbar:
+    individualname: Grahadhuita, Akbar
+    role: creator
+  Muflikhah-Lailil:
+    individualname: Muflikhah, Lailil
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

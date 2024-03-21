@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8199
+  dataseturi: https://doi.org/10.5281/zenodo.8199
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Fertility Status Of Cassava Fields In South Western Nigeria
+  abstract: "Aims: Current information on nutrient status of south western Nigeria\
+    \ soils is needed to develop appropriate integrated nutrient management packages\
+    \ for sustainable cassava production within the area. This study is designed to\
+    \ provide information on fertility status of some soils of the area. Study Design:\
+    \ A field survey. Place and Duration of Study: The study was carried out in March\
+    \ 2009 within two agro ecological zones of Osun state, south western Nigeria.\
+    \ Methodology: A field survey of 33 farmers\u2019 fields in two agro ecological\
+    \ zones of Osun state namely; Iwo zone and Oshogbo zone was undertaken. Representative\
+    \ soil samples (0-20cm) were obtained from each field. Physical and chemical properties\
+    \ of soil samples were determined in the laboratory following established methods.\
+    \ Statistical analyses of soil data was carried out using appropriate techniques.\
+    \ Results: The soils of the area are acidic (pH in water range: 5.4 -6.4) and\
+    \ 79% of the fields are deficient in soil organic matter. Nitrogen and phosphorus\
+    \ are below established critical limits for cassava production in half of the\
+    \ fields; exchangeable cations (calcium, magnesium and potassium) are present\
+    \ in adequate amounts in most soils. No significant differences (P .05) were observed\
+    \ between the zones for soil properties measured. Conclusion: Farmer acceptable\
+    \ strategies for improving nutrients availability (particularly nitrogen and phosphorus),\
+    \ organic matter and overall soil health through use of fertilizers, organic materials\
+    \ and multipurpose legumes among other options are required for sustained cassava\
+    \ production."
+  keywords:
+    default:
+      keywords:
+        subject: organic material.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-02-02'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8199
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salami-B.-T.:
+    individualname: Salami, B. T.
+    role: creator
+    organization: Department of Crop Production, Soil and Environmental Management,
+      Bowen University, Iwo, Nigeria.
+    url: ''
+  Sangoyomi-T.-E.:
+    individualname: Sangoyomi, T. E.
+    role: creator
+    organization: Department of Crop Production, Soil and Environmental Management,
+      Bowen University, Iwo, Nigeria.
+    url: ''
+content_info: {}

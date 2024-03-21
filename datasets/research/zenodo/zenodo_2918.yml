@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7588866
+  dataseturi: https://doi.org/10.5281/zenodo.7588866
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Roman coins at the edge of the Negev: characterisation of copper alloy artefacts
+    and soil from Rakafot 54 (Beer Sheva, Israel)'
+  abstract: The research presented in this paper focused on the preliminary non- and
+    semi-destructive analysis of copper alloys, corrosion, and soil components from
+    a Roman archaeological site in Israel. Investigations using portable X-ray fluorescence,
+    X-ray diffraction and scanning electron microscopy with energy dispersive spectroscopy
+    as well as micromorphological analyses were carried out to gain a better understanding
+    of the corrosion processes affecting the copper alloy artefacts, by characterising
+    the alloy composition, soil environments, and corrosion products. Preliminary
+    results indicate that the artefacts consist of copper-lead-tin alloys, covered
+    by copper hydroxy-chlorides and lead sulphate phases with slight variations in
+    their crystallisation. The multi-analytical approach revealed the presence of
+    quartz, calcite, gypsum and feldspars in the sediments, while thin sections more
+    specifically indicate loess soils with local micro-environments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7588866
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7588865
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manuel-J.-H.-Peters:
+    individualname: Manuel J. H. Peters
+    role: creator
+  Yuval-Goren:
+    individualname: Yuval Goren
+    role: creator
+  Peter-Fabian:
+    individualname: Peter Fabian
+    role: creator
+  Jose-Mirao:
+    individualname: "Jos\xE9 Mir\xE3o"
+    role: creator
+  Carlo-Bottaini:
+    individualname: Carlo Bottaini
+    role: creator
+  Emma-Angelini:
+    individualname: Emma Angelini
+    role: creator
+  Sabrina-Grassini:
+    individualname: Sabrina Grassini
+    role: creator
+  Peters-Manuel-J.-H.:
+    individualname: Peters, Manuel J. H.
+    role: ''
+    organization: Politecnico Torino-University of Evora
+    url: ''
+  Goren-Yuval:
+    individualname: Goren, Yuval
+    role: ''
+    organization: Department of Bible, Archaeology & Ancient Near East, Ben-Gurion
+      University of the Negev, Israel
+    url: ''
+  Fabian-Peter:
+    individualname: Fabian, Peter
+    role: ''
+    organization: Department of Bible, Archaeology & Ancient Near East, Ben-Gurion
+      University of the Negev, Israel
+    url: ''
+  Mirao-Jose:
+    individualname: "Mir\xE3o, Jos\xE9"
+    role: ''
+    organization: University of Evora
+    url: ''
+  Bottaini-Carlo:
+    individualname: Bottaini, Carlo
+    role: ''
+    organization: University of Evora
+    url: ''
+  Angelini-Emma:
+    individualname: Angelini, Emma
+    role: ''
+    organization: Politecnico Torino
+    url: ''
+  Grassini-Sabrina:
+    individualname: Grassini, Sabrina
+    role: ''
+    organization: Politecnico Torino
+    url: ''
+content_info: {}

@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398798
+  dataseturi: https://doi.org/10.5281/zenodo.10398798
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ROOT PLASTICITY AND YIELD RESPONSE OF RICE IN THREE SOIL TYPES AND VARYING
+    LEVELS OF PHOSPHOROUS
+  abstract: "The study was conducted to evaluate the effect of three soil types and\
+    \ varying level of Phosphorus on root plasticity and yield of rice at Salinungan\
+    \ West, San Mateo, Isabela from January 26, 2022 to May 14, 2022. The experiment\
+    \ was laid out in a Completely Randomized Design in Factorial with three replications.\
+    \ The three (3) soil types namely, S1- Quinqua Silty Clay Loam, S2- Bago Sandy\
+    \ Clay Loam and S3- Santa Rita Clay Loam were designated as Factor A while the\
+    \ three Phosphorus namely, F1\u2013 10 kg per hectare, F2\u201320 kg per hectare,\
+    \ F3 \u2013 30 kg per hectare, were designated as Factor B. F1 was used as the\
+    \ standard check for phosphorus application. Santa Rita Clay Loam obtained the\
+    \ heaviest root weight, most number of productive tillers and heaviest weight\
+    \ of 1000 grains. The application of 30 kg P per hectare consistently resulted\
+    \ into longest roots with 22.48 cm, 35.20 cm, and 39.81 cm at 30, 60 and 90 DAT,\
+    \ respectively. Similarly, it resulted to the heaviest roots with 13.21 (30 DAT),\
+    \ 99.83 cm (60 DAT) and 128.29 grams (90 DAT). It also had the heaviest shoot\
+    \ of 16.51, 212.71 and 270.97 grams at 30, 60 and 90 DAT and biomass at 90.06\
+    \ grams (30 DAT), 937.63 grams (60 DAT) and 1,197.20 grams (90 DAT). Also, the\
+    \ application of 30 kg P per hectare produced the most number of productive tillers\
+    \ with 15.04 per pot, filled grains per panicle of 130.85, weight of 1000 grains\
+    \ of 27.19 grams and yield per pot of 53.51 grams. Therefore, Santa Rita Clay\
+    \ Loam and the application of additional 30 kg P per hectare are recommended for\
+    \ rice production."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398798
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398797
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Casco-Victoriano:
+    individualname: Casco, Victoriano
+    role: creator
+    organization: Isabela State University, Echague, Isabela, Philippines
+    url: ''
+  Claveron-Julito:
+    individualname: Claveron, Julito
+    role: creator
+    organization: Bureau of Plant Industry Nationals Seed Quality Control Services,
+      San Mateo, Isabela, Philippines
+    url: ''
+  Rocha-Lucila:
+    individualname: Rocha, Lucila
+    role: creator
+    organization: Isabela State University, Echague, Isabela, Philippines
+    url: ''
+  Martin-Artemio-Jr:
+    individualname: Martin, Artemio Jr
+    role: creator
+    organization: Isabela State University, Echague, Isabela, Philippines
+    url: ''
+content_info: {}

@@ -1,0 +1,387 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8090636
+  dataseturi: https://doi.org/10.5281/zenodo.8090636
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Significant loss of soil inorganic carbon at the continental scale
+  abstract: "Widespread soil acidification due to atmospheric acid deposition and\
+    \ agricultural fertilization may greatly accelerate soil carbonate dissolution\
+    \ and CO2 release. However, to date, few studies have addressed these processes.\
+    \ Here, we use meta-analysis and nationwide-survey datasets to investigate changes\
+    \ in soil inorganic carbon (SIC) stocks in China. We observe an overall decrease\
+    \ in SIC stocks in topsoil (0\u201330 cm) (11.33 g C m<sup>\u20132 </sup>yr<sup>\u2013\
+    1</sup>) from the 1980s to the 2010s. Total SIC stocks have decreased by \u223C\
+    8.99 \xB1 2.24% (1.37 \xB1 0.37 Pg C). The average SIC losses across China (0.046\
+    \ Pg C yr<sup>\u20131</sup>) and in cropland (0.016 Pg C yr<sup>\u20131</sup>)\
+    \ account for \u223C17.6%\u201324.0% of the terrestrial C sink and 57.1% of the\
+    \ soil organic carbon sink in cropland, respectively. Nitrogen deposition and\
+    \ climate change have profound influences on SIC cycling. We estimate that \u223C\
+    19.12%\u201319.47% of SIC stocks will be further lost by 2100. The consumption\
+    \ of SIC may offset a large portion of global efforts aimed at ecosystem carbon\
+    \ sequestration, which emphasizes the importance of achieving a better understanding\
+    \ of the indirect coupling mechanisms of nitrogen and carbon cycling and of effective\
+    \ countermeasures to minimize SIC loss."
+  keywords:
+    default:
+      keywords:
+        subject: soil acidification
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-07-02'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8090636
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090635
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xiao-Dong-Song:
+    individualname: Xiao-Dong Song
+    role: creator
+  Fei-Yang:
+    individualname: Fei Yang
+    role: creator
+  Hua-Yong-Wu:
+    individualname: Hua-Yong Wu
+    role: creator
+  Jing-Zhang:
+    individualname: Jing Zhang
+    role: creator
+  De-Cheng-Li:
+    individualname: De-Cheng Li
+    role: creator
+  Feng-Liu:
+    individualname: Feng Liu
+    role: creator
+  Yu-Guo-Zhao:
+    individualname: Yu-Guo Zhao
+    role: creator
+  Jin-Ling-Yang:
+    individualname: Jin-Ling Yang
+    role: creator
+  Bing-Ju:
+    individualname: Bing Ju
+    role: creator
+  Chong-Fa-Cai:
+    individualname: Chong-Fa Cai
+    role: creator
+    organization: ''
+    url: ''
+  Biao-Huang:
+    individualname: Biao Huang
+    role: creator
+  Huai-Yu-Long:
+    individualname: Huai-Yu Long
+    role: creator
+    organization: ''
+    url: ''
+  Ying-Lu5:
+    individualname: Ying Lu5
+    role: creator
+  Yue-Yu-Sui:
+    individualname: Yue-Yu Sui
+    role: creator
+    organization: ''
+    url: ''
+  Qiu-Bing-Wang:
+    individualname: Qiu-Bing Wang
+    role: creator
+  Ke-Ning-Wu:
+    individualname: Ke-Ning Wu
+    role: creator
+    organization: ''
+    url: ''
+  Feng-Rong-Zhang:
+    individualname: Feng-Rong Zhang
+    role: creator
+  Ming-Kui-Zhang:
+    individualname: Ming-Kui Zhang
+    role: creator
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Wan-Zhu-Ma:
+    individualname: Wan-Zhu Ma
+    role: creator
+    organization: ''
+    url: ''
+  Gang-Xin:
+    individualname: Gang Xin
+    role: creator
+  Zhi-Ping-Qi:
+    individualname: Zhi-Ping Qi
+    role: creator
+  Qing-Rui-Chang:
+    individualname: Qing-Rui Chang
+    role: creator
+  En-Ci:
+    individualname: En Ci
+    role: creator
+  Da-Gang-Yuan:
+    individualname: Da-Gang Yuan
+    role: creator
+  Yang-Zhu-Zhang:
+    individualname: Yang-Zhu Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Jun-Ping-Bai:
+    individualname: Jun-Ping Bai
+    role: creator
+  Jia-Ying-Chen:
+    individualname: Jia-Ying Chen
+    role: creator
+  Jie-Chen:
+    individualname: Jie Chen
+    role: creator
+  Yin-Jun-Chen:
+    individualname: Yin-Jun Chen
+    role: creator
+    organization: ''
+    url: ''
+  Yun-Zhong-Dong:
+    individualname: Yun-Zhong Dong
+    role: creator
+    organization: ''
+    url: ''
+  Chun-Lan-Han:
+    individualname: Chun-Lan Han
+    role: creator
+  Ling-Li:
+    individualname: Ling Li
+    role: creator
+  Li-Ming-Liu:
+    individualname: Li-Ming Liu
+    role: creator
+  Jian-Jun-Pan:
+    individualname: Jian-Jun Pan
+    role: creator
+  Fu-Peng-Song:
+    individualname: Fu-Peng Song
+    role: creator
+  Fu-Jun-Sun:
+    individualname: Fu-Jun Sun
+    role: creator
+  Deng-Feng-Wang:
+    individualname: Deng-Feng Wang
+    role: creator
+  Tian-Wei-Wang:
+    individualname: Tian-Wei Wang
+    role: creator
+  Xiang-Hua-Wei:
+    individualname: Xiang-Hua Wei
+    role: creator
+  Hong-Qi-Wu:
+    individualname: Hong-Qi Wu
+    role: creator
+  Xia-Zhao:
+    individualname: Xia Zhao
+    role: creator
+  Qing-Zhou:
+    individualname: Qing Zhou
+    role: creator
+  Gan-Lin-Zhang:
+    individualname: Gan-Lin Zhang
+    role: creator
+  Song-Xiao-Dong:
+    individualname: Song, Xiao-Dong
+    role: ''
+    organization: ''
+    url: ''
+  Yang-Fei:
+    individualname: Yang, Fei
+    role: ''
+    organization: ''
+    url: ''
+  Wu-Hua-Yong:
+    individualname: Wu, Hua-Yong
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Jing:
+    individualname: Zhang, Jing
+    role: ''
+    organization: ''
+    url: ''
+  Li-De-Cheng:
+    individualname: Li, De-Cheng
+    role: ''
+    organization: ''
+    url: ''
+  Liu-Feng:
+    individualname: Liu, Feng
+    role: ''
+    organization: ''
+    url: ''
+  Zhao-Yu-Guo:
+    individualname: Zhao, Yu-Guo
+    role: ''
+    organization: ''
+    url: ''
+  Yang-Jin-Ling:
+    individualname: Yang, Jin-Ling
+    role: ''
+    organization: ''
+    url: ''
+  Ju-Bing:
+    individualname: Ju, Bing
+    role: ''
+    organization: ''
+    url: ''
+  Huang-Biao:
+    individualname: Huang, Biao
+    role: ''
+    organization: ''
+    url: ''
+  Lu5-Ying:
+    individualname: Lu5, Ying
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Qiu-Bing:
+    individualname: Wang, Qiu-Bing
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Feng-Rong:
+    individualname: Zhang, Feng-Rong
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Ming-Kui:
+    individualname: Zhang, Ming-Kui
+    role: ''
+    organization: ''
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+  Xin-Gang:
+    individualname: Xin, Gang
+    role: ''
+    organization: ''
+    url: ''
+  Qi-Zhi-Ping:
+    individualname: Qi, Zhi-Ping
+    role: ''
+    organization: ''
+    url: ''
+  Chang-Qing-Rui:
+    individualname: Chang, Qing-Rui
+    role: ''
+    organization: ''
+    url: ''
+  Ci-En:
+    individualname: Ci, En
+    role: ''
+    organization: ''
+    url: ''
+  Yuan-Da-Gang:
+    individualname: Yuan, Da-Gang
+    role: ''
+    organization: ''
+    url: ''
+  Bai-Jun-Ping:
+    individualname: Bai, Jun-Ping
+    role: ''
+    organization: ''
+    url: ''
+  Chen-Jia-Ying:
+    individualname: Chen, Jia-Ying
+    role: ''
+    organization: ''
+    url: ''
+  Chen-Jie:
+    individualname: Chen, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Han-Chun-Lan:
+    individualname: Han, Chun-Lan
+    role: ''
+    organization: ''
+    url: ''
+  Li-Ling:
+    individualname: Li, Ling
+    role: ''
+    organization: ''
+    url: ''
+  Liu-Li-Ming:
+    individualname: Liu, Li-Ming
+    role: ''
+    organization: ''
+    url: ''
+  Pan-Jian-Jun:
+    individualname: Pan, Jian-Jun
+    role: ''
+    organization: ''
+    url: ''
+  Song-Fu-Peng:
+    individualname: Song, Fu-Peng
+    role: ''
+    organization: ''
+    url: ''
+  Sun-Fu-Jun:
+    individualname: Sun, Fu-Jun
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Deng-Feng:
+    individualname: Wang, Deng-Feng
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Tian-Wei:
+    individualname: Wang, Tian-Wei
+    role: ''
+    organization: ''
+    url: ''
+  Wei-Xiang-Hua:
+    individualname: Wei, Xiang-Hua
+    role: ''
+    organization: ''
+    url: ''
+  Wu-Hong-Qi:
+    individualname: Wu, Hong-Qi
+    role: ''
+    organization: ''
+    url: ''
+  Zhao-Xia:
+    individualname: Zhao, Xia
+    role: ''
+    organization: ''
+    url: ''
+  Zhou-Qing:
+    individualname: Zhou, Qing
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Gan-Lin:
+    individualname: Zhang, Gan-Lin
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

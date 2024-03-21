@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8321372
+  dataseturi: https://doi.org/10.5281/zenodo.8321372
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Remote Sensing Application in Soil Moisture Content Estimation
+  abstract: <em>The knowledge of soil moisture is crucial to agriculture and other
+    sectors such as, the construction industries. Precise estimation of spatial and
+    temporal variation of soil moisture is vital for ecological and hydrological studies
+    also. In recent times, remote sensing techniques have been used to estimate soil
+    moisture. Estimation of soil moisture by remote sensing techniques provides only
+    surface layer information and is unable to observe the entire soil. However, on
+    the other hand, field measurement provides valuable information on both surface
+    and subsurface soil moisture, but are insufficient to determine the spatial and
+    temporal variability of soil moisture at a larger scale. Therefore, remote sensing
+    methods have an edge over field methods. Soil moisture variations in time and
+    space are due to the vegetation, topography and soil texture. This paper presents
+    a comprehensive work in estimating soil moisture using Land surface temperature.
+    The temperature was gotten using Landsat-8 thermal infrared band for Oredo Local
+    Government Area and was used to determine the soil moisture of the area using
+    ArcGIS (ArcMap 10.2.2).The map showed places with low, moderate and high moisture
+    index with the moderate moisture content being the most dominant.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Soil moisture, LST, Landsat-8, NDVI, GIS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-06'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8321372
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8321371
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mike-O.-Ikponmwen:
+    individualname: Mike O. Ikponmwen
+    role: creator
+  Cosmas-C.-Oyibo:
+    individualname: Cosmas C. Oyibo
+    role: creator
+  Ikponmwen-Mike-O.:
+    individualname: Ikponmwen, Mike O.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

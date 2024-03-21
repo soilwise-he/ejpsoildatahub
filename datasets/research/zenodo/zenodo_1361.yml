@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7669076
+  dataseturi: https://doi.org/10.5281/zenodo.7669076
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF QUALITY INDICATORS OF SOIL FERTILITY ON PLANT GROWTH AND DEVELOPMENT
+  abstract: As a result of filtration, when moisture in the soil is replaced by fluids
+    with rheological parameters different from pure water, a full evaluation of the
+    task requires other approaches. It represents both the geometry of the labyrinth
+    system and the non-Newtonian nature of the ground body. Therefore, taking into
+    account the non-Newtonian nature of fluids, in the paper, the calculation dependences
+    of water permeability, initial gradient filtration coefficient, leakage coefficient
+    in connection with rheology have been obtained. The limits of the application
+    of the reporting relationships and the influence of the hydraulic resistance of
+    the soil structure on the irrigation regime are clarified.
+  keywords:
+    default:
+      keywords:
+        subject: filtration, water permeability, porosity, water absorption, water
+          conductivity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-02-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7669076
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7669075
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shamatava-Sh.:
+    individualname: Shamatava Sh.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

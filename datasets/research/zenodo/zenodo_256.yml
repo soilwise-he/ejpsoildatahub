@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BROWN_1922
+  dataseturi: https://doi.org/10.1097/00010694-192211000-00005
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOIL EXPERIMENT FIELDS AND THEIR VALUE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOIL EXPERIMENT FIELDS AND THEIR VALUE
+    url: http://dx.doi.org/10.1097/00010694-192211000-00005
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Brown-Percy-Edgar:
+    individualname: Brown, Percy Edgar
+    role: creator
+  BROWN-PERCY-EDGAR:
+    individualname: BROWN, PERCY EDGAR
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

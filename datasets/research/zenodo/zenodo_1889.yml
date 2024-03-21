@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6451582
+  dataseturi: https://doi.org/10.5281/zenodo.6451582
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Electrochemical Behaviour of Natural Humic and Hymatomelanic Acids Isolated
+    from Diverse Soil Types of India
+  abstract: Humic and hymatomelanic acids isolated from five different soils of varying
+    organic matter contents were subjected to electrometric titrations. The electrometric
+    studies, namely, those of interaction of the different humus fractions with bases
+    and neutral salts, are clearly indicative of the polyelectrolytic behaviour of
+    these high molecular acidic components. The similarity of the behaviour of natural
+    humic acids with hymatomelanic acids was clearly noticeable, suggesting the genetic
+    similarity between them.
+  keywords:
+    default:
+      keywords:
+        subject: method
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1970-10-31'
+    publication: '1970'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6451582
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6451581
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chhabi-Datta:
+    individualname: Chhabi Datta
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-Mukherjee:
+    individualname: S. K. Mukherjee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

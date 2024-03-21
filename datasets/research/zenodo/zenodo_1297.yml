@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10124368
+  dataseturi: https://doi.org/10.5281/zenodo.10124368
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Helminths Transmitted Soil Intestinal Infection Against Hand Washing Habits
+    in Elementary Students
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language:
+  - eng
+  - ind
+  dates:
+    creation: ''
+    issued: '2019-05-01'
+    available: '2019-05-01'
+    publication: '2019'
+  rights: cc-by-sa-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10124368
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10124367
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  AGNESHA-LUSIANA-TIFANNOV:
+    individualname: AGNESHA LUSIANA TIFANNOV
+    role: creator
+    organization: Poltekkes Kemenkes Semarang
+    url: ''
+content_info: {}

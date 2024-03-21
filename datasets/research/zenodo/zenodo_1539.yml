@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Teshnizi_2023
+  dataseturi: https://doi.org/10.1016/j.eti.2023.103229
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Modeling biochar-soil depth dependency on fecal coliform straining under
+    subsurface drip irrigation
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Modeling biochar-soil depth dependency on fecal coliform straining under
+      subsurface drip irrigation
+    url: http://dx.doi.org/10.1016/j.eti.2023.103229
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sepehrnia-Nasrollah:
+    individualname: Sepehrnia, Nasrollah
+    role: creator
+  Teshnizi-Forough-Abbasi:
+    individualname: Teshnizi, Forough Abbasi
+    role: creator
+  Ghobadinia-Mahdi:
+    individualname: Ghobadinia, Mahdi
+    role: creator
+  Abbasi-Fariborz:
+    individualname: Abbasi, Fariborz
+    role: creator
+  Hallett-Paul-D.:
+    individualname: Hallett, Paul D.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

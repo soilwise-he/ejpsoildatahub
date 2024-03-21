@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1468916
+  dataseturi: https://doi.org/10.5281/zenodo.1468916
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Stabilization Of Red Soil Using Ground Granulated Blast Furnace Slag &amp;
+    Alccofine
+  abstract: "Structure foundations need to be on stable and strong soils. Soils range\
+    \ in strength. Some soils are able to support a skyscraper, while other soils\
+    \ are not able to support the weight of a human. If the soil under a building\
+    \ is not stable, the foundation of the building could crack, sink, or worse\u2013\
+    the building could fall. The strength and stability of soil depend on its physical\
+    \ properties. Soil with good structure is more stable. Clay textures are often\
+    \ more stable than sand textures because they have better structure. However,\
+    \ a mix of particle sizes (and pore sizes) is best for engineering (just as it\
+    \ is best for growing crops). It is also important that soil is stable through\
+    \ wetting and drying cycles, so that expanding soil does not crack roads or foundations.\
+    \ Some clay minerals, from a family called smectite, are more likely to shrink\
+    \ and expand during wetting and drying cycles than minerals from other families,\
+    \ such as kaolinite."
+  keywords:
+    default:
+      keywords:
+        subject: Alccofine, Furnace slag, red soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1468916
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1468915
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Navdeep-Mor:
+    individualname: Navdeep Mor
+    role: creator
+  Lukesh-Kumar:
+    individualname: Lukesh Kumar
+    role: creator
+    organization: ''
+    url: ''
+  Neeraj-Sharma:
+    individualname: Neeraj Sharma
+    role: creator
+  Mor-Navdeep:
+    individualname: Mor, Navdeep
+    role: ''
+    organization: Research Scholar, Civil Engineering Department, NITTTR-Chandigarh
+      (India)
+    url: ''
+  Sharma-Neeraj:
+    individualname: Sharma, Neeraj
+    role: ''
+    organization: Assistant Professor, Civil Engineering Department, Sri Sai college
+      of Engineering and Technology, Badhani, Pathankot (India)
+    url: ''
+content_info: {}

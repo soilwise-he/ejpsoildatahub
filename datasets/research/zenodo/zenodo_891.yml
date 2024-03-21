@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5792479
+  dataseturi: https://doi.org/10.5281/zenodo.5792479
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Remediation of cadmium from soil by surfactant Triton X-100
+  abstract: Environmental Chemistry Research Laboratory, Department of Chemistry,
+    University of Allahabad. Allahabad-211 002, Uttar Pradesh, India <em>E-mail :</em>
+    mcc46@rediffmail.com, uzmanadeem3@rediffmail.com <em>Manuscript received 2 September
+    2008, revised 3 August 2009, accepted 18 December 2009</em> This study focuses
+    on batch experiments conducted to evaluate the potential of surfactant Triton
+    X-100 to remove heavy metals from artificially contaminated silt soil. Sorption
+    experiments were carried out by varying concentration or cadmium and pH on soil
+    samples. The soil samples selected for decontamination study were artificially
+    contaminated with 500 mg L<sup>-1</sup> cadmium solutions at pH 4 and 7. Non-ionic
+    surfactant Triton X-100 was used to decontaminate the soil at different time intervals.
+    In sorption experiments variation of cadmium remaining with different time intervals
+    was non-linear. It was found that maximum sorption of cadmium occurs at pH 7.
+    Sorption continues till day 10. In desorption of 500 mg L<sup>-1</sup> cadmium
+    contaminated soil, maximum desorption occurs at pH 4. The decontamination efficiency
+    range or surfactant for soil contaminated with 500 mg L<sup> -1</sup> of cadmium
+    was found to vary from 63.7% to 75.5% depending on pH.
+  keywords:
+    default:
+      keywords:
+        subject: desorption
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-06-30'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5792479
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5792478
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shaili-Verma:
+    individualname: Shaili Verma
+    role: creator
+    organization: ''
+    url: ''
+  Uzma-Nadeem:
+    individualname: Uzma Nadeem
+    role: creator
+    organization: ''
+    url: ''
+  M.-C.-Chattopadhyaya:
+    individualname: M. C. Chattopadhyaya
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

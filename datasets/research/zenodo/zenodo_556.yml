@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cameron_1910
+  dataseturi: https://doi.org/10.1021/j150113a002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Introduction to the Study of the Soil Solution
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Introduction to the Study of the Soil Solution
+    url: http://dx.doi.org/10.1021/j150113a002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cameron-Frank-K.:
+    individualname: Cameron, Frank K.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

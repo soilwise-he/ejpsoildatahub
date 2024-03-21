@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10475775
+  dataseturi: https://doi.org/10.5281/zenodo.10475775
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Quantification of biochar content in a natural soil by spectral induced
+    polarization: a laboratory experiment'
+  abstract: "Pre-print on a manuscript presenting spectral induced polarization measurements\
+    \ from mixtures of a natural silty soil and biochar at different contents. The\
+    \ spectra has been analyzed to obtain key parameters that relate this geo-electrical\
+    \ measurements to biochar content.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-01-09'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10475775
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090793
+    type: WWW:LINK
+    title: IsMetadataFor
+  r1:
+    url: https://doi.org/10.5281/zenodo.10475774
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mendieta-Aida:
+    individualname: Mendieta, Aida
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0002-8396-3237
+  Thiesson-Julien:
+    individualname: Thiesson, Julien
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0001-7531-0474
+  Maineult-Alexis:
+    individualname: Maineult, Alexis
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0002-9550-8055
+  Luo-Haoliang:
+    individualname: Luo, Haoliang
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0002-3410-3249
+  Jougnot-Damien:
+    individualname: Jougnot, Damien
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0003-4950-5766
+  Vasconez-Maza-Marco-D.:
+    individualname: "V\xE1sconez-Maza, Marco D."
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0002-6190-1027
+  Finco-Cecile:
+    individualname: "Finco, C\xE9cile"
+    role: creator
+    organization: Univ Rouen Normandie, UNICAEN, CNRS, M2C UMR 6143, F-76000 Rouen,
+      France
+    url: 0000-0002-2085-3567
+  Delarue-Frederic:
+    individualname: "Delarue, Fr\xE9d\xE9ric"
+    role: creator
+    organization: "Sorbonne Universit\xE9, CNRS, EPHE, UMR 7619 METIS, 75005 Paris,\
+      \ France"
+    url: 0000-0001-7054-612X
+content_info: {}

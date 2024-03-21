@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cosmin_2015
+  dataseturi: https://doi.org/10.5755/j01.sace.12.3.12655
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Research on the Effect of Water Draining Through Vertical Drainage Systems
+    in the Process of Soil Consolidation
+  abstract: A saturated soil subjected to a growing total effort will reduce gradually
+    the volume up to excess pore water pressure dissipation, interfering primary consolidation.
+    This process can take a long time and when all excess pressure is dissipated,
+    the soil is considered consolidated.In low permeability soils, from external loading,
+    results in an increase of the normal effort at higher values than the earth preconsolidation
+    pressure, thus having neutral increased pressure followed by a consolidation process
+    where water is expelled from the pores of the soil. The decrease in porosity (soil
+    volume), so produced, is accompanied by a gradual increase of effective pressure
+    and a corresponding decrease in excess pore water pressure. The consolidation
+    process continues until the excess pore water pressure dissipates only complete
+    and upload translates into effective stress. Duration of the process depends on
+    the consolidation characteristics of the soil and drainage ways (with how much
+    drainage paths are longer, the longer is the process of consolidation). The purpose
+    of installing vertical drains is to shorten the drainage ways and time needed
+    to dissipate the neutral pressure. The time to dissipate the excess water pressure
+    in the pores (time consolidation) is so short as the inter-distance between the
+    drains is less.
+  keywords:
+    default:
+      keywords:
+      - consolidation
+      - drainage
+      - pore pressure
+      - settlement
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Research on the Effect of Water Draining Through Vertical Drainage Systems
+      in the Process of Soil Consolidation
+    url: http://dx.doi.org/10.5755/j01.sace.12.3.12655
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fantaziu-Cosmin:
+    individualname: Fantaziu, Cosmin
+    role: creator
+  Chirila-Razvan:
+    individualname: "Chiril\u0103, R\u0103zvan"
+    role: creator
+  Cosmin-Fantaziu-Mihaita:
+    individualname: Cosmin, Fantaziu Mihaita
+    role: creator
+  Kaunas-University-of-Technology-KTU:
+    individualname: Kaunas University of Technology (KTU)
+    role: creator
+content_info: {}

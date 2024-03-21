@@ -1,0 +1,146 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nelkner_2019
+  dataseturi: https://doi.org/10.3390/genes10060424
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effect of Long-Term Farming Practices on Agricultural Soil Microbiome Members
+    Represented by Metagenomically Assembled Genomes (MAGs) and Their Predicted Plant-Beneficial
+    Genes
+  abstract: '&lt;p&gt;Abstract: To follow the hypothesis that agricultural management
+    practices affect structure and function of the soil microbiome regarding soil
+    health and plant-beneficial traits, high-throughput (HT) metagenome analyses were
+    performed on Chernozem soil samples from a long-term field experiment designated
+    LTE-1 carried out at Bernburg-Strenzfeld (Saxony-Anhalt, Germany). Metagenomic
+    DNA was extracted from soil samples representing the following treatments: (i)
+    plough tillage with standard nitrogen fertilization and use of fungicides and
+    growth regulators, (ii) plough tillage with reduced nitrogen fertilization (50%),
+    (iii) cultivator tillage with standard nitrogen fertilization and use of fungicides
+    and growth regulators, and (iv) cultivator tillage with reduced nitrogen fertilization
+    (50%). Bulk soil (BS), as well as root-affected soil (RS), were considered for
+    all treatments in replicates. HT-sequencing of metagenomic DNA yielded approx.
+    100 Giga bases (Gb) of sequence information. Taxonomic profiling of soil communities
+    revealed the presence of 70 phyla, whereby Proteobacteria, Actinobacteria, Bacteroidetes,
+    Planctomycetes, Acidobacteria, Thaumarchaeota, Firmicutes, Verrucomicrobia and
+    Chloroflexi feature abundances of more than 1%. Functional microbiome profiling
+    uncovered, i.a., numerous potential plant-beneficial, plant-growth-promoting and
+    biocontrol traits predicted to be involved in nutrient provision, phytohormone
+    synthesis, antagonism against pathogens and signal molecule synthesis relevant
+    in microbe&ndash;plant interaction. Neither taxonomic nor functional microbiome
+    profiling based on single-read analyses revealed pronounced differences regarding
+    the farming practices applied. Soil metagenome sequences were assembled and taxonomically
+    binned. The ten most reliable and abundant Metagenomically Assembled Genomes (MAGs)
+    were taxonomically classified and metabolically reconstructed. Importance of the
+    phylum Thaumarchaeota for the analyzed microbiome is corroborated by the fact
+    that the four corresponding MAGs were predicted to oxidize ammonia (nitrification),
+    thus contributing to the cycling of nitrogen, and in addition are most probably
+    able to fix carbon dioxide. Moreover, Thaumarchaeota and several bacterial MAGs
+    also possess genes with predicted functions in plant&ndash;growth&ndash;promotion.
+    Abundances&nbsp;of certain MAGs (species resolution level) responded to the tillage
+    practice, whereas the factors compartment (BS vs. RS) and nitrogen fertilization
+    only marginally shaped MAG abundance profiles. Hence, soil management regimes
+    promoting plant-beneficial microbiome members are very likely advantageous for
+    the respective agrosystem, its health and carbon sequestration and accordingly
+    may enhance plant productivity. Since Chernozem soils are highly fertile, corresponding
+    microbiome data represent a valuable reference resource for agronomy in general.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil microbiome
+      - suppressive soil
+      - biocontrol
+      - "plant\u2013growth\u2013promotion (PGP)"
+      - metagenomic binning
+      - metagenomically-assembled-genomes (MAGs)
+      - secondary metabolite synthesis
+      - carbon dioxide fixation
+      - carbohydrate-active enzymes
+      - differentially abundant features (DAFs)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effect of Long-Term Farming Practices on Agricultural Soil Microbiome Members
+      Represented by Metagenomically Assembled Genomes (MAGs) and Their Predicted
+      Plant-Beneficial Genes
+    url: http://dx.doi.org/10.3390/genes10060424
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Johanna-Nelkner:
+    individualname: Johanna Nelkner
+    role: creator
+  Christian-Henke:
+    individualname: Christian Henke
+    role: creator
+  Timo-Wentong-Lin:
+    individualname: Timo Wentong Lin
+    role: creator
+  Wiebke-Patzol:
+    individualname: "Wiebke P\xE4tzol"
+    role: creator
+  Julia-Hassa:
+    individualname: Julia Hassa
+    role: creator
+  Sebastian-Jaenicke:
+    individualname: Sebastian Jaenicke
+    role: creator
+  Rita-Grosch:
+    individualname: Rita Grosch
+    role: creator
+  Alfred-Puhler:
+    individualname: "Alfred P\xFChler"
+    role: creator
+  Alexander-Sczyrba:
+    individualname: Alexander Sczyrba
+    role: creator
+  Andreas-Schluter:
+    individualname: "Andreas Schl\xFCter"
+    role: creator
+  Nelkner-Johanna:
+    individualname: Nelkner, Johanna
+    role: creator
+  Henke-Christian:
+    individualname: Henke, Christian
+    role: creator
+  Lin-Timo-Wentong:
+    individualname: Lin, Timo Wentong
+    role: creator
+  Patzold-Wiebke:
+    individualname: "P\xE4tzold, Wiebke"
+    role: creator
+  Hassa-Julia:
+    individualname: Hassa, Julia
+    role: creator
+  Jaenicke-Sebastian:
+    individualname: Jaenicke, Sebastian
+    role: creator
+  Grosch-Rita:
+    individualname: Grosch, Rita
+    role: creator
+  Puhler-Alfred:
+    individualname: "P\xFChler, Alfred"
+    role: creator
+  Sczyrba-Alexander:
+    individualname: Sczyrba, Alexander
+    role: creator
+  Schluter-Andreas:
+    individualname: "Schl\xFCter, Andreas"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

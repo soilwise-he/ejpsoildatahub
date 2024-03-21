@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Burke_2017
+  dataseturi: https://doi.org/10.5194/gmd-10-959-2017
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A vertical representation of soil carbon in the JULES land surface scheme
+    (vn4.3_permafrost) with a focus on permafrost regions
+  abstract: "An improved representation of the carbon cycle in permafrost regions\
+    \ will\nenable more realistic projections of the future climate\u2013carbon system.\n\
+    Currently JULES (the Joint UK Land Environment Simulator) \u2013 the land surface\n\
+    model of the UK Earth System Model (UKESM) \u2013 uses the standard four-pool\
+    \ RothC\nsoil carbon model. This paper describes a new version of JULES\n(vn4.3_permafrost)\
+    \ in which the soil vertical dimension is added to the\nsoil carbon model, with\
+    \ a set of four pools in every soil layer. The\nrespiration rate in each soil\
+    \ layer depends on the temperature and moisture\nconditions in that layer. Cryoturbation/bioturbation\
+    \ processes, which\ntransfer soil carbon between layers, are represented by diffusive\
+    \ mixing. The\nlitter inputs and the soil respiration are both parametrized to\
+    \ decrease\nwith increasing depth. The model now includes a tracer so that selected\
+    \ soil\ncarbon can be labelled and tracked through a simulation. Simulations show\
+    \ an\nimprovement in the large-scale horizontal and vertical distribution of soil\n\
+    carbon over the standard version of JULES (vn4.3). Like the standard version\n\
+    of JULES, the vertically discretized model is still unable to simulate enough\n\
+    soil carbon in the tundra regions. This is in part because JULES\nunderestimates\
+    \ the plant productivity over the tundra, but also because not\nall of the processes\
+    \ relevant for the accumulation of permafrost carbon, such\nas peat development,\
+    \ are included in the model. In comparison with the\nstandard model, the vertically\
+    \ discretized model shows a delay in the onset\nof soil respiration in the spring,\
+    \ resulting in an increased net uptake of\ncarbon during this time. In order to\
+    \ provide a more suitable representation\nof permafrost carbon for quantifying\
+    \ the permafrost carbon feedback within\nUKESM, the deep soil carbon in the permafrost\
+    \ region (below 1 m) was\ninitialized using the observed soil carbon. There is\
+    \ now a slight drift in\nthe soil carbon (\u2009&lt;\u2009\u202F0.018\u202F%\u202F\
+    decade&lt;sup&gt;\u22121&lt;/sup&gt;), but the change in\nsimulated soil carbon\
+    \ over the 20th century, when there is little climate\nchange, is comparable to\
+    \ the original vertically discretized model and\nsignificantly larger than the\
+    \ drift."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A vertical representation of soil carbon in the JULES land surface scheme
+      (vn4.3_permafrost) with a focus on permafrost regions
+    url: http://dx.doi.org/10.5194/gmd-10-959-2017
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Burke-E.-J.:
+    individualname: Burke, E. J.
+    role: creator
+  Chadburn-S.-E.:
+    individualname: Chadburn, S. E.
+    role: creator
+  Ekici-A.:
+    individualname: Ekici, A.
+    role: creator
+  Burke-Eleanor-J.:
+    individualname: Burke, Eleanor J.
+    role: creator
+  Chadburn-Sarah-E.:
+    individualname: Chadburn, Sarah E.
+    role: creator
+  Ekici-Altug:
+    individualname: Ekici, Altug
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

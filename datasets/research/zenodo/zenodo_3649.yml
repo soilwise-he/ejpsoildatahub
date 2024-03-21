@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1128809
+  dataseturi: https://doi.org/10.5281/zenodo.1128809
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Selection Of Rayleigh Damping Coefficients For Seismic Response Analysis
+    Of Soil Layers
+  abstract: One good analysis method in seismic response analysis is direct time integration,
+    which widely adopts Rayleigh damping. An approach is presented for selection of
+    Rayleigh damping coefficients to be used in seismic analyses to produce a response
+    that is consistent with Modal damping response. In the presented approach, the
+    expression of the error of peak response, acquired through complete quadratic
+    combination method, and Rayleigh damping coefficients was set up and then the
+    coefficients were produced by minimizing the error. Two finite element modes of
+    soil layers, excited by 28 seismic waves, were used to demonstrate the feasibility
+    and validity.
+  keywords:
+    default:
+      keywords:
+        subject: seismic response analysis.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-01-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1128809
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1128808
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Huai-Feng-Wang:
+    individualname: Huai-Feng Wang
+    role: creator
+    organization: ''
+    url: ''
+  Meng-Lin-Lou:
+    individualname: Meng-Lin Lou
+    role: creator
+  Ru-Lin-Zhang:
+    individualname: Ru-Lin Zhang
+    role: creator
+  Lou-Meng-Lin:
+    individualname: Lou, Meng-Lin
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Ru-Lin:
+    individualname: Zhang, Ru-Lin
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

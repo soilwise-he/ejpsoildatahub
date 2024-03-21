@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3365263
+  dataseturi: https://doi.org/10.5281/zenodo.3365263
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phenorythms of some tropical and subtropical geophytes under conditions of
+    protected soil in the Donetsk Botanical Gardens of the National Academy of Sciences
+    of Ukraine
+  abstract: Phenorythms of tropical and subtropical bulb geophythes of <em>Alliaceae</em>,
+    <em>Amaryllidaceae</em> and <em>Hyacinthaceae</em> are considered from the point
+    of view of the botanical-and-geographical Earth zonation by S. M. Razumovsky.
+    It has been shown that plants, confined to the territories with the Mediterranean
+    type of climate both in the Southern and Northern hemispheres, have similar phenorythms
+    and summer dormancy period. The prosperous species of geophytes have been defined.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '1999-12-01'
+    publication: '1999'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3365263
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3365262
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.A.-Prilutskaya:
+    individualname: S.A. Prilutskaya
+    role: creator
+    organization: Donetsk Botanical Gardens, National Academy of Sciences of Ukraine
+    url: ''
+content_info: {}

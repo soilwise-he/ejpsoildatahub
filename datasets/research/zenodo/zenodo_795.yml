@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Seitz_2022
+  dataseturi: https://doi.org/10.1007/s11104-022-05438-w
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The potential of cover crops to increase soil organic carbon storage in German
+    croplands
+  abstract: '&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;br&gt;
+
+    &lt;strong&gt;Aims &lt;/strong&gt;Soil organic carbon (SOC) stocks of croplands
+    can be enhanced by targeted management, which boosts soil fertility and contributes
+    to climate change mitigation. One SOC sequestration option is adopting cover crops.
+    The aim of this study was to quantify the SOC sequestration potential of cover
+    crops in Germany.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;strong&gt;Methods &lt;/strong&gt;We simulated SOC scenarios on 1,267
+    cropland sites with site-specific management data using an SOC model ensemble
+    consisting of RothC and C-TOOL. A new method was developed to estimate carbon
+    input from cover crops that included the&lt;br&gt;
+
+    effects of climate, sowing date and species on cover crop biomass production.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; The recent cover crop area could
+    be tripled to 30% of arable land in Germany. This would enhance total carbon input
+    by 12% and increase SOC stocks by 35 Tg within 50 years, corresponding to an annual
+    increase of 0.06 Mg C ha-1, 2.5 Tg CO2&lt;br&gt;
+
+    or 0.8 per mill of current SOC stocks in 0&ndash;30 cm depth. On sites with cover
+    crops, 0.28&ndash;0.33 Mg C ha-1 a-1 would be accumulated within 50 years. Our
+    simulations predicted that even if the full potential for cover crop growth were
+    realised, there would still be a decline in SOC stocks in German croplands within
+    50 years due to the underlining negative SOC trend.&lt;br&gt;
+
+    &lt;strong&gt;Conclusions&lt;/strong&gt; Cover crops alone cannot turn croplands
+    from carbon sources to sinks. However, growing them reduces bare fallow periods
+    and SOC losses and thus is an effective climate change mitigation strategy in
+    agriculture.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - "Carbon sequestration \xB7 Modelling \xB7 Carbon input \xB7 Allometric function\
+        \ \xB7 Climate change mitigation"
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The potential of cover crops to increase soil organic carbon storage in
+      German croplands
+    url: http://dx.doi.org/10.1007/s11104-022-05438-w
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seitz-Daria:
+    individualname: Seitz, Daria
+    role: creator
+  Fischer-Lisa-Mareen:
+    individualname: Fischer, Lisa Mareen
+    role: creator
+  Dechow-Rene:
+    individualname: Dechow, Rene
+    role: creator
+  Wiesmeier-Martin:
+    individualname: Wiesmeier, Martin
+    role: creator
+  Don-Axel:
+    individualname: Don, Axel
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

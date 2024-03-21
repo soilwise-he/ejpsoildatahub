@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Always_1909
+  dataseturi: https://doi.org/10.1021/ie50011a006
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On the Relation of Native Legumes to the Soil Nitrogen of Nebrake Praires.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On the Relation of Native Legumes to the Soil Nitrogen of Nebrake Praires.
+    url: http://dx.doi.org/10.1021/ie50011a006
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Always-F.-J.:
+    individualname: Always, F. J.
+    role: creator
+  Always-R.-M.:
+    individualname: Always, R. M.
+    role: creator
+  Pickney-R.-M.:
+    individualname: Pickney, R. M.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

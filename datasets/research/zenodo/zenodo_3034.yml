@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.812392
+  dataseturi: https://doi.org/10.5281/zenodo.812392
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'The Burden Of Moderate-To-Heavy Soil-Transmitted Helminth Infections Among
+    Rural Malaysian Aborigines: An Urgent Need For An Integrated Control Programme.'
+  abstract: Soil-transmitted helminth (STH) infections, among the most common neglected
+    tropical diseases, continue to be a major threat to the health and socioeconomic
+    wellbeing of infected people especially children in developing countries. This
+    record was migrated from the OpenDepot repository service in June, 2017 before
+    shutting down.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-01-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.812392
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.812391
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-Abdulhamid:
+    individualname: Ahmed, Abdulhamid
+    role: creator
+    organization: ''
+    url: ''
+  Al-Mekhlafi-Hesham-M:
+    individualname: Al-Mekhlafi, Hesham M
+    role: creator
+    organization: ''
+    url: ''
+  Choy-Seow-Huey:
+    individualname: Choy, Seow Huey
+    role: creator
+    organization: ''
+    url: ''
+  Ithoi-Init:
+    individualname: Ithoi, Init
+    role: creator
+    organization: ''
+    url: ''
+  Al-Adhroey-Abdulelah-H:
+    individualname: Al-Adhroey, Abdulelah H
+    role: creator
+    organization: ''
+    url: ''
+  Abdulsalam-Awatif-M:
+    individualname: Abdulsalam, Awatif M
+    role: creator
+    organization: ''
+    url: ''
+  Surin-Johari:
+    individualname: Surin, Johari
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

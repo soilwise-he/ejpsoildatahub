@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Li_2023
+  dataseturi: https://doi.org/10.1016/j.phytochem.2022.113475
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Fungal polyketides from a rhizospheric soil-derived Penicillium sp. YUD17004
+    associated with Gastrodia elata
+  abstract: 'Li, Hong-Tao, Yang, Rui-Ning, Liu, Tao, Xie, Fei, Duan, Hao-Jie, Xia,
+    Dan-Dan, Zhou, Hao, Ding, Zhong-Tao (2023): Fungal polyketides from a rhizospheric
+    soil-derived Penicillium sp. YUD17004 associated with Gastrodia elata. Phytochemistry
+    (113475) 205: 1-7, DOI: 10.1016/j.phytochem.2022.113475, URL: http://dx.doi.org/10.1016/j.phytochem.2022.113475'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Fungal polyketides from a rhizospheric soil-derived Penicillium sp. YUD17004
+      associated with Gastrodia elata
+    url: http://dx.doi.org/10.1016/j.phytochem.2022.113475
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Li-Hong-Tao:
+    individualname: Li, Hong-Tao
+    role: creator
+  Yang-Rui-Ning:
+    individualname: Yang, Rui-Ning
+    role: creator
+  Liu-Tao:
+    individualname: Liu, Tao
+    role: creator
+  Xie-Fei:
+    individualname: Xie, Fei
+    role: creator
+  Duan-Hao-Jie:
+    individualname: Duan, Hao-Jie
+    role: creator
+  Xia-Dan-Dan:
+    individualname: Xia, Dan-Dan
+    role: creator
+  Zhou-Hao:
+    individualname: Zhou, Hao
+    role: creator
+  Ding-Zhong-Tao:
+    individualname: Ding, Zhong-Tao
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

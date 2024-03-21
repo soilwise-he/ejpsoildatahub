@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1078633
+  dataseturi: https://doi.org/10.5281/zenodo.1078633
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Contamination Of Organochlorine Pesticides In Nest Soil, Egg, And Blood Of
+    The Snail-Eating Turtle (Malayemys Macrocephala) From The Chao Phraya River Basin,
+    Thailand
+  abstract: "Organochlorine pesticides (OCPs) are known to be\npersistent and bioaccumulative\
+    \ toxicants that may cause reproductive\nimpairments in wildlife as well as human.\
+    \ The current study uses the\nsnail-eating turtle Malayemys macrocephala, a long-lived\
+    \ animal\ncommonly distribute in rice field habitat in central part of Thailand,\n\
+    as a sentinel to monitor OCP contamination in environment. The\nnest soil, complete\
+    \ clutch of eggs, and blood of the turtle were\ncollected from agricultural areas\
+    \ in the Chao Phraya River Basin,\nThailand during the nesting season of 2007-2008.\
+    \ The novel\nmethods for tissue extraction by an accelerated solvent extractor\n\
+    (ASE, for egg) and liquid-liquid extraction (for blood) have been\ndeveloped.\
+    \ The nineteen OCP residues were analyzed by gas\nchromatography with micro-electron\
+    \ captured detector (GC-\u03BCECD).\nThe validated methods have met requirements\
+    \ of the AOAC\nstandard. The results indicated that significant amounts of OCPs\
+    \ are\nstill contaminated in nest soil and eggs of the turtle even though the\n\
+    OCPs had been banned in this area for many years. This suggested\nthe potential\
+    \ risk to health of wildlife as well as human in the area."
+  keywords:
+    default:
+      keywords:
+        subject: sentinel species.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-04-23'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1078633
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1078632
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sarun-Keithmaleesatti:
+    individualname: Sarun Keithmaleesatti
+    role: creator
+    organization: ''
+    url: ''
+  Pakorn-Varanusupakul:
+    individualname: Pakorn Varanusupakul
+    role: creator
+    organization: ''
+    url: ''
+  Wattasit-Siriwong:
+    individualname: Wattasit Siriwong
+    role: creator
+    organization: ''
+    url: ''
+  Kumthorn-Thirakhupt:
+    individualname: Kumthorn Thirakhupt
+    role: creator
+    organization: ''
+    url: ''
+  Mark-Robson:
+    individualname: Mark Robson
+    role: creator
+  Noppadon-Kitana:
+    individualname: Noppadon Kitana
+    role: creator
+    organization: ''
+    url: ''
+  Robson-Mark:
+    individualname: Robson, Mark
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

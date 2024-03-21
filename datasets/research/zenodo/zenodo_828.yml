@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4274431
+  dataseturi: https://doi.org/10.5281/zenodo.4274431
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Reserves of nutrients and soil organic components of Haplic Chernozems
+  abstract: "The focus of this investigation is to present the reserves, soil nutrients\
+    \ and organic matter components along the profile depth of Haplic Chernozems near\
+    \ village Krupen, Kavarna municipality, South Dobrudzha region. The data confirm\
+    \ our previous investigations that they are one of the most fertility soils in\
+    \ Bulgaria. The profile is also marked by a variation of nutrients reserves according\
+    \ to the genetic horizon. All investigated reserves gradually decreased which\
+    \ is typical for the group of izohumic soils. The N<sub>total</sub> reserves varied\
+    \ from 66.37% in \u0410<sub>horizon</sub> to 8.86% in \u0421<sub>horizon</sub>\
+    \ of the total stocks counting to 3.247 kg/ha. The reserves of total phosphorus\
+    \ in \u0410<sub>0-84 cm </sub>add up to 1.723 kg/m<sup>2</sup>, which is 45.94%\
+    \ from the total reserves of through profile, while in soil formation material\
+    \ horizon (\u0421<sub>horizon</sub>) they reached to 0.782 kg/m<sup>2</sup> (20.85%).\
+    \ The C<sub>org</sub> reserves in the study profile (0-195 cm) are 326.131 kg/m<sup>2\
+    \ </sup>and 67.50% of the stocks are concentrated in the humus accumulative horizon.\
+    \ In transition horizon (\u0412<sub>84-152</sub>) all nutrient reserves gradually\
+    \ decreased and reached lowest values in soil formation material horizon (\u0421\
+    <sub>152-195</sub>). These two genetic horizons have a higher degree of enrichment\
+    \ of humus with nitrogen compared to the humus-accumulative horizon. Throughout\
+    \ the depth of the profile, the degree of enrichment of humus with nitrogen is\
+    \ defined as \"average\". We established essential correlations between the investigated\
+    \ indices as follows: Reserves of C-total are in a strong correlation with reserves\
+    \ of N-total (0.993**); Cres. (0.982**); C-<sub>THS</sub> (0.949**); Mineralization\
+    \ ability after 56 days incubation (0.665**) and exchable potassium."
+  keywords:
+    default:
+      keywords:
+        subject: Virgin profile; Haplic Chernozems; organic carbon reserves
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4274431
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4274430
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nankova-Margarita-Ivanova:
+    individualname: Nankova Margarita Ivanova
+    role: creator
+    organization: Dobrudzha Agricultural Institute - General Toshevo, Bulgaria.
+    url: ''
+  Filcheva-Ekaterina-Georgieva:
+    individualname: Filcheva Ekaterina Georgieva
+    role: creator
+    organization: "N. Pousnkarov Institute of Soil Science, Agrotechnology and Plant\
+      \ Protection \u2013 Sofia, Bulgaria."
+    url: ''
+content_info: {}

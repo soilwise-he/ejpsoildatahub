@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399562
+  dataseturi: https://doi.org/10.5281/zenodo.10399562
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of brown manuring on weed dynamics, crop yield and soil fertility
+    in wet seeded rice
+  abstract: A field experiment was conducted at Pandit Jawaharlal Nehru College of
+    Agriculture and Research Institute (PAJANCOA & RI), Karaikal, during thaladi season
+    of 2020-21 to study the "Effect of brown manuring on weed dynamics, crop yield
+    and soil fertility in wet seeded rice". The experiment was laid out with ten treatments
+    in a randomized block design and replicated thrice. The treatments were rice co-culture
+    with daincha 15 kg ha-1 and 2,4-D 0.5 kg ha-1 (T1), rice co-culture with daincha
+    20 kg ha-1 and 2,4-D 0.5 kg ha-1 (T2), rice coculture with daincha 25 kg ha-1
+    and 2,4-D 0.5 kg ha-1 (T3), rice co-culture with daincha 15 kg ha-1 and bispyribac
+    sodium 25 g ha-1 (T4), rice co-culture with daincha 20 kg ha-1 and bispyribac
+    sodium 25 g ha-1 (T5), rice co-culture with daincha 25 kg ha-1 and bispyribac
+    sodium 25 g ha-1 (T6), rice sole cropping with 2,4-D 0.5 kg ha-1 (T7), rice sole
+    cropping with bispyribac sodium 25g ha-1 (T8), rice sole crop with hand weeding
+    twice at 20 and 40 DAS (T9) and unweeded control (T10), (without daincha and weed
+    management). The Brown manuring practices influenced the yield and soil fertility
+    of the WSR. Among the treatments, rice with daincha 25 kg ha-1 + 2,4-D 0.5 kg
+    ha-1 was found to be effective in increasing yield and soil nutrient status compared
+    to rice alone (without brown manuring).
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399562
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10399561
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keerthi-DE:
+    individualname: Keerthi DE
+    role: creator
+    organization: ANNAMALAI UNIVERSITY, CHIDHAMBARAM, India
+    url: ''
+  Saravanane-P:
+    individualname: Saravanane P
+    role: creator
+    organization: PAJANCOA&RI, PUDUCHERRY, India
+    url: ''
+content_info: {}

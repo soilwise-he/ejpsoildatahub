@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2021789
+  dataseturi: https://doi.org/10.5281/zenodo.2021789
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact of Herbicides on Soil Biology in Rapeseed
+  abstract: Winter oilseed rape, <em>Brassica napus</em> L., is characterized by a
+    high number of herbicide applications. Therefore, its cultivation can lead to
+    massive contamination of ground water and soil by herbicide and their metabolites.
+    A multi-side long-term field experiment (EFFO, Efficient crop rotation) was set-up
+    in Luxembourg to quantify these effects. Based on soil sampling and laboratory
+    analysis, preliminary results showed reduced dehydrogenase activities of several
+    soil organisms due to herbicide treatments. This effect is highly depending on
+    the soil type. Relation between the dehydrogenase activity and the amount of microbial
+    carbon showed higher variability on the test side with loamy Brown Earth, based
+    on Bunter than on those with sandy-loamy Brown Earth, based on calciferous Sandstone.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-10-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2021789
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2021788
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Eickermann:
+    individualname: M. Eickermann
+    role: creator
+    organization: ''
+    url: ''
+  M.-K.-Class:
+    individualname: M. K. Class
+    role: creator
+    organization: ''
+    url: ''
+  J.-Junk:
+    individualname: J. Junk
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

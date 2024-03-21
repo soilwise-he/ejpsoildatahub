@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1413291
+  dataseturi: https://doi.org/10.5281/zenodo.1413291
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Optimization Of Warehouse Design With Peb System Resting On Different Soil
+    Strata
+  abstract: 'This paper describes the displacement and weight comparison of pre-engineered
+    warehouse structure with respect to changes in foundation strata such as fixed
+    and pinned base.The concept of PEB is the frame geometry which matches the shape
+    of the internal stress (bending moment) diagram thus optimizing material usage
+    and reducing the total weight of the structure.
+
+
+    https://journalnx.com/journal-article/20150496'
+  keywords:
+    default:
+      keywords:
+        subject: STAAD-PRO
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-04-22'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1413291
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1413290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.-P.-Raut:
+    individualname: V. P. Raut
+    role: creator
+    organization: ''
+    url: ''
+  Prof.-P.S.-Patil:
+    individualname: Prof. P.S. Patil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

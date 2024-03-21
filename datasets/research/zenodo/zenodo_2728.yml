@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1461881
+  dataseturi: https://doi.org/10.5281/zenodo.1461881
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Efficiency Of Complex Application Of Vermiculture And Biological Products
+    Baikal, Vostok, Tamir For Soil Purification From Fuel Oil
+  abstract: "A technology has been developed for the recultivation of soils contaminated\
+    \ with fuel oil in Western Siberia using microbiological preparations and earthworms.\
+    \ Earthworms have great potential for removing hydrocarbons from the soil. The\
+    \ results allow evaluating the effectiveness of bioremediation of polluted soils.\
+    \ The method of cleaning and restoring the ecological functions of substrates\
+    \ contaminated with fuel oil and other petroleum products was that the substrate\
+    \ was treated with biologics, spent soil treatment was carried out and steamed\
+    \ for one month, then the earthworms were applied. In the process of soil recultivation,\
+    \ the drug Tamir together with the earthworms of E. fetida proved to be well proven\
+    \ \u2014 the effectiveness of 80\u201382%. The drug Vostok had low efficiency\
+    \ of reclamation with all types of earthworms."
+  keywords:
+    default:
+      keywords:
+        subject: microorganisms
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-10-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1461881
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1461880
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chachina-S.:
+    individualname: Chachina, S.
+    role: creator
+    organization: Omsk State Technical University
+    url: https://orcid.org/0000-0001-8016-3077
+  Chachina-E.:
+    individualname: Chachina, E.
+    role: creator
+    organization: Omsk State Technical University
+    url: ''
+content_info: {}

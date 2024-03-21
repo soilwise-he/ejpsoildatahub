@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gonz_lez_Teruel_2019
+  dataseturi: https://doi.org/10.3390/s19030491
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Design and Calibration of a Low-Cost SDI-12 Soil Moisture Sensor
+  abstract: '&lt;p&gt;Water is the main limiting factor in agricultural production
+    as well as a scarce resource that needs to be optimized. The measurement of soil
+    water with sensors is an efficient way for optimal irrigation management. However,
+    commercial sensors are still too expensive for most farmers. This paper presents
+    the design, development and calibration of a new capacitive low-cost soil moisture
+    sensor that incorporates SDI-12 communication, allowing one to select the calibration
+    equation for different soils. The sensor was calibrated in three different soils
+    and its variability and accuracy were evaluated. Lower but cost-compensated accuracy
+    was observed in comparing it with commercial sensors. Field tests have demonstrated
+    the temperature influence on the sensor and its capability to efficiently detect
+    irrigation and rainfall events.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil moisture
+      - Precision Agriculture
+      - sensor calibration
+      - SDI-12
+      - volumetric water content
+      - capacitive sensor
+      - dielectric measurement
+      - Smart Agriculture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Design and Calibration of a Low-Cost SDI-12 Soil Moisture Sensor
+    url: http://dx.doi.org/10.3390/s19030491
+    type: www
+contact:
+  MDPI:
+    individualname: MDPI
+    role: creator
+  Gonzalez-Teruel-Juan-D.:
+    individualname: "Gonz\xE1lez-Teruel, Juan D."
+    role: creator
+  Torres-Sanchez-Roque:
+    individualname: "Torres-S\xE1nchez, Roque"
+    role: creator
+  Blaya-Ros-Pedro-J.:
+    individualname: Blaya-Ros, Pedro J.
+    role: creator
+  Toledo-Moreo-Ana-B.:
+    individualname: Toledo-Moreo, Ana B.
+    role: creator
+  Jimenez-Buendia-Manuel:
+    individualname: "Jim\xE9nez-Buend\xEDa, Manuel"
+    role: creator
+  Soto-Valles-Fulgencio:
+    individualname: Soto-Valles, Fulgencio
+    role: creator
+  Gonzalez-Teruel-Juan:
+    individualname: "Gonz\xE1lez-Teruel, Juan"
+    role: creator
+  Blaya-Ros-Pedro:
+    individualname: Blaya-Ros, Pedro
+    role: creator
+  Toledo-Moreo-Ana:
+    individualname: Toledo-Moreo, Ana
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

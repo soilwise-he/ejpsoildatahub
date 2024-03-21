@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5744551
+  dataseturi: https://doi.org/10.5281/zenodo.5744551
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Respiration Dynamics, as a new approach in nature-based solutions for
+    the reduction of greenhouse gas fluxes in the terrestrial biosphere
+  abstract: "Soil respiration (Rs) is a major component of an ecosystem carbon cycle.\
+    \ To quantify soil CO2 efflux, field experiments were conducted <em>in situ</em>\
+    \ (2015-2017) with an LCi-SC soil CO2 flux system under three semi-arid ecosystems\
+    \ in the Mediterranean as one of the main identified climate change hotspot. Mean\
+    \ values of Rs rates showed that soil CO2 effluxes were significantly different\
+    \ among various terrestrial ecosystems with higher Rs in semi-natural ecosystems\
+    \ as under Steppe 1.739 \xB1 0.717 \u03BCmol CO2 m-2 s-1 (658.093 \xB1 271.336\
+    \ g C m-2 yr-1) and under Forest 4.205 \xB1 1.731 \u03BCmol CO2 m-2 s-1 (1591.307\
+    \ \xB1 655.066 g C m-2 yr-1) than under the natural ecosystem Garrigue 0.914 \xB1\
+    \ 0.309 \u03BCmol CO2 m-2 s-1 (345.887 \xB1 116.935 g C m-2 yr-1). It appears\
+    \ that soil CO2 efflux is highly ecosystem-specific, so it is required to be verified\
+    \ across ecosystem types.We recorded a very strong relationship between Ts and\
+    \ Ws, as documented by the correlation coefficient (<em>r</em> = -0.848), respectively\
+    \ <em>R</em>-squared (71.908%). Our results show that the natural ecosystem Garrigue\
+    \ under climate warming could release less CO2 efflux than semi-natural ecosystems\
+    \ and each semi-arid ecosystem can emit different amounts of CO2 emissions under\
+    \ the same environmental conditions."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5744551
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5744550
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Judita-Tomaskinova:
+    individualname: Judita Tomaskinova
+    role: creator
+  M-Stastna:
+    individualname: M Stastna
+    role: creator
+    organization: ''
+    url: ''
+  J-Tomaskin:
+    individualname: J Tomaskin
+    role: creator
+    organization: ''
+    url: ''
+  H-Hnilickova:
+    individualname: H Hnilickova
+    role: creator
+    organization: ''
+    url: ''
+  F-Hnilicka:
+    individualname: F Hnilicka
+    role: creator
+    organization: ''
+    url: ''
+  Tomaskinova-Judita:
+    individualname: Tomaskinova, Judita
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

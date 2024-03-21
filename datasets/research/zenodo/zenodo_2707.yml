@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216157
+  dataseturi: https://doi.org/10.5281/zenodo.7216157
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Impact of microplastics aerial deposition on rhizosphere soil ecology: the
+    case study of tomato (Solanum lycopersicum) exposed to polyethylene'
+  abstract: 'In agroecosystems, a considerable amount of microplastics (MPs) reach
+    the crop plants through aerial depositions. Here, we investigated the impact of
+    MPs aerial depositions on the growth, root metabolome, and bacterial and fungal
+    communities associated with the rhizosphere of tomato (Solanum lycopersicum L.).
+    Tomato plants were treated with three concentrations (10, 100, and 1000 mg L-1)
+    of a solution composed of polyethylene microspheres (PE-MS) and distilled water.
+    Control plants were supplemented only with distilled water. The leaves were sprayed
+    with the solutions after 15 and 21 days of growth. After 31 days of growth, shoots,
+    roots, and rhizosphere soils were collected. The plant material was used to measure
+    shoot biomass, shoot water content, and root metabolomic profiling through high-resolution
+    gas-chromatography/mass-spectrometry. Rhizosphere microbial diversity was investigated
+    via DNA metabarcoding of the bacterial 16S rRNA gene and fungal ITS2 region. Tomato
+    shoots did not show differences in dry and fresh weight, but a significant reduction
+    in water content was observed at 100 and 1000 mg L-1. PE-MS aerial depositions
+    increased the roots relative abundance of amino acids but also of carbohydrates
+    and their conjugates. PE-MS significantly decreased the relative content of a
+    pyrimidine derivative (5,6-Dihydrouracil), organic acids (lactic acid and tartaric
+    acid), and fatty acids (palmitic acid and stearic acid). Further, the microbial
+    analysis revealed that PE-MS affected bacterial but not fungal beta diversity.
+    In conclusion, exposure of tomato leaves to PE-MS showed no effect on plant growth.
+    Oppositely, PE-MS significantly altered the root metabolome and the bacterial
+    diversity in the rhizosphere. Also see: https://micro2022.sciencesconf.org/427387/document'
+  keywords:
+    default:
+      keywords:
+        subject: Rhizosphere
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216157
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216156
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bouaicha-Oussama:
+    individualname: Bouaicha, Oussama
+    role: creator
+    organization: ''
+    url: ''
+  Trevisan-Fabio:
+    individualname: Trevisan, Fabio
+    role: creator
+    organization: ''
+    url: ''
+  Tiziani-Raphael:
+    individualname: Tiziani, Raphael
+    role: creator
+    organization: ''
+    url: ''
+  Brenner-Martin:
+    individualname: Brenner, Martin
+    role: creator
+    organization: ''
+    url: ''
+  Weckwerth-Wolfram:
+    individualname: Weckwerth, Wolfram
+    role: creator
+    organization: ''
+    url: ''
+  Lucini-Luigi:
+    individualname: Lucini, Luigi
+    role: creator
+    organization: ''
+    url: ''
+  Cesco-Stefano:
+    individualname: Cesco, Stefano
+    role: creator
+    organization: ''
+    url: ''
+  Mimmo-Tanja:
+    individualname: Mimmo, Tanja
+    role: creator
+    organization: ''
+    url: ''
+  Borruso-Luigimaria:
+    individualname: Borruso, Luigimaria
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

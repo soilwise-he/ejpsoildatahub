@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3240220
+  dataseturi: https://doi.org/10.5281/zenodo.3240220
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Antibacterial Activity of Actinomycetes Isolated from a Few Selected Soil
+    Samples of Southern Region of Western Ghats
+  abstract: <em>Soil, actinomycetes plays an important role in pharmaceutical industries
+    because they produce valuable natural antibiotics to treat chronic diseases in
+    humans. In the present study, the actinomycetes were isolated from four different
+    sample sites of Western Ghats. Totally twelve isolates were selected and screened
+    for antibiotic activity using coliforms. Among the twelve isolates, two were found
+    to effective against coliforms and these isolates were obtained from soil of Courtallum.
+    Antibiotic sensitivity of the twelve isolates revealed varying performance. The
+    two actinomycetes isolates of Courtallum have a potential to be included in researches
+    of new preparations with characterization of the bioactive compounds.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-12'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3240220
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3240219
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Deivanai-K.:
+    individualname: Deivanai, K.
+    role: creator
+    organization: ''
+    url: ''
+  Nambu-Mahalakshmi-R.:
+    individualname: Nambu Mahalakshmi, R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

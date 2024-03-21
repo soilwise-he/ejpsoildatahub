@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.154668
+  dataseturi: https://doi.org/10.5281/zenodo.154668
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: Ground Improvement And Soil Stabilisation. E-Book Of Presentations.
+  abstract: "Book of presentations in correspondence to Workshop 4 \"Ground Improvement\
+    \ and Soil Stabilisation\", held in 4th September 2016 at the University of Minho,\
+    \ in Guimar\xE3es, Portugal.\n\nThe event was part of the 3rd ICTG 2016 - International\
+    \ Conference on Transportation Geotechnics (http://www.civil.uminho.pt/3rd-ICTG2016/)."
+  keywords:
+    default:
+      keywords:
+        subject: Transportation geotechnics
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-09-23'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.154668
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Varaksin-Serge:
+    individualname: Varaksin, Serge
+    role: creator
+    organization: APAGEO, FRANCE
+    url: ''
+  Correia-Antonio-Alberto:
+    individualname: "Correia, Ant\xF3nio Alberto"
+    role: creator
+    organization: University of Coimbra, PORTUGAL
+    url: ''
+  Azenha-Miguel:
+    individualname: Azenha, Miguel
+    role: creator
+    organization: University of Minho, PORTUGAL
+    url: ''
+content_info: {}

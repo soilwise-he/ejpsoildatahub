@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3510244
+  dataseturi: https://doi.org/10.5281/zenodo.3510244
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect of Mass, Depth, and Properties of the Soil Below the Raft Foundation
+    on the Seismic Performance of R.C. Plane Frames
+  abstract: "Soil structure interaction (SSI) has been the subject of numerous studies.\
+    \ The foundation soil has a definite effect on the performance of structures during\
+    \ seismic excitation. Recent studies show that the effect of soil-structure interaction\
+    \ SSI may be detrimental to the structure during seismic excitation. In this study,\
+    \ the effect of consideration of the soil below foundation and its depth, and\
+    \ the soil modulus of elasticity on the response of structures is investigated.\
+    \ The number of mode shapes considered has an effect on the accuracy of the values\
+    \ of structure response. A structural model consisting of an 8-story reinforced\
+    \ concrete frame resting on raft foundation, and including the soil below the\
+    \ raft is analyzed. The frame is analyzed using SAP2000 software, and time history\
+    \ and modal analysis are carried out with varying values of both soil depth and\
+    \ soil modulus of elasticity. The soil below the foundation is connected to the\
+    \ raft elements by gap links. Gap element links are compression\u2013only members\
+    \ with appropriate stiffness, which are active only in compression. Modal analysis\
+    \ results show that the periods of vibration decrease as the modulus of elasticity\
+    \ of the soil increases. Periods of vibration of the frame without the soil mass\
+    \ consideration are less than those when the soil mass below the raft is considered,\
+    \ and they increase with increased depth of foundation to a certain limit. The\
+    \ structures response in the form of columns shear forces and story displacements\
+    \ are also evaluated under the variable parameters considered."
+  keywords:
+    default:
+      keywords:
+        subject: gap link
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-10-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3510244
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3510243
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alomari-Jamal-Ahmad:
+    individualname: Alomari, Jamal Ahmad
+    role: creator
+    organization: Civil Engineering Department, Al-Ahliyya Amman University, Amman,
+      Jordan j.alomari@ammanu.edu.jo
+    url: ''
+content_info: {}

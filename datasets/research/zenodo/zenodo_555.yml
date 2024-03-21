@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3463426
+  dataseturi: https://doi.org/10.5281/zenodo.3463426
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Design method for horizontal drains in liquefiable soil
+  abstract: The paper describes a fast design method for horizontal drains to be used
+    as a mitigation technique for liquefaction, developed in the framework of the
+    European project LIQUEFACT. During the earthquake, this ground improvement technique
+    allows to reduce the pore pressure build up under existing buildings, where more
+    conventional vertical drains cannot be used (being it difficult to install them).
+    By reducing the pore pressure increments, the horizontal drains can reduce the
+    liquefaction risk for shallow foundations. The problem is modelled with a bidimensional
+    geometry, applying the consolidation equation in the hypothesis of Terzaghi-Rendulic
+    and solving it with a finite difference method. The solution is calculated for
+    different geometrical layouts and removing the simplified hypothesis (used to
+    design vertical drains) of an indefinite symmetry; moreover, it takes into account
+    the influence of a vertical water flow when drainage is allowed at the ground
+    level. The pore pressure build-up is introduced in a simplified manner with an
+    accumulation term suggested in literature. A parametric analysis has been performed
+    and is reported in the paper to obtain design charts. They may be used to define
+    the spacing between drains once the geometric layout, the ground conditions and
+    the seismic input are defined.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    available: '2020-07-19'
+    accepted: '2019-07-19'
+    issued: '2019'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3463426
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3463425
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  De-Sarno-Domenico:
+    individualname: De Sarno, Domenico
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Fasano-Gianluca:
+    individualname: Fasano, Gianluca
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Bilotta-Emilio:
+    individualname: Bilotta, Emilio
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Flora-Alessandro:
+    individualname: Flora, Alessandro
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+content_info: {}

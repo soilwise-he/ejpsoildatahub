@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3474174
+  dataseturi: https://doi.org/10.5281/zenodo.3474174
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Overview of Soil-Pile Interaction in Liquefying Soils under Earthquake
+    Condition
+  abstract: Piles are of enormous structural and geotechnical importance as they help
+    to transfer heavy superstructural loads to the geological formation that carries
+    the superstructure. Piles are used in bridges, high-rise<br> structures and other
+    structures of importance. However, in seismic zones, piles in liquefiable soils
+    are susceptible<br> to failure during earthquake events despite that the current
+    codes of practice provides for the design of piles against<br> seismic effect.
+    This study summarizes the current knowledge of the soil-pile-structure interaction,
+    and behaviour<br> in liquefiable soils subjected to earthquake loadings; and investigates
+    the failure mechanisms of seismic piles<br> despite that codes of practice covers
+    seismic design of piles; and goes further in suggesting design approaches that<br>
+    allow for a conservative design of seismic piles.<br>
+  keywords:
+    default:
+      keywords:
+        subject: Lateral Spreading
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-10-06'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3474174
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3474173
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Francis-Victor-Osaze:
+    individualname: Francis, Victor Osaze
+    role: creator
+    organization: University of Ilorin
+    url: ''
+content_info: {}

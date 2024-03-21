@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1163750
+  dataseturi: https://doi.org/10.5281/zenodo.1163750
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Proposal
+identification:
+  title: "Using The Potential Of Synergy \u2013 Developing A Tool To Design Ecosystems\
+    \ For A Sustainable Soil Management"
+  abstract: 'Using biomimicry approach, where cultivation and productivity are more
+    dependent on intrinsic dynamics than on human/chemical inputs driven by fossil
+    fuels.
+
+
+    To specifically target intrinsic, synergetic dynamics for agricultural systems
+    and overcome difficulties linked to poor knowledge and hazardous trial-and-error
+    processes for  intercropping, this is a proposal for an informatics tool to design
+    adapted, efficient plant partnerships or clusters.
+
+
+    The tool consists of a prediction model that suggests potential win-win plant
+    or other symbiotic relationships, flexible enough to exploit information about
+    local soil/climatic conditions.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1163750
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1163749
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tsilla-Boisselet:
+    individualname: Tsilla Boisselet
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

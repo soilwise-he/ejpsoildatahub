@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bielek_2018
+  dataseturi: https://doi.org/10.19040/ecocycles.v4i2.125
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil use practices for sustainable agricultural land and water management
+  abstract: '&lt;p&gt;This paper presents experimental results focused on measures
+    increasing water infiltration into the soil profile and higher water holding capacity
+    of the land. It is important from soil and land protection point of view against
+    both drought and floods.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil use
+      - subsoiling
+      - water infiltration
+      - soil water holding capacity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil use practices for sustainable agricultural land and water management
+    url: http://dx.doi.org/10.19040/ecocycles.v4i2.125
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bielek-Pavol:
+    individualname: Bielek, Pavol
+    role: creator
+  Ecocycles:
+    individualname: Ecocycles
+    role: creator
+content_info: {}

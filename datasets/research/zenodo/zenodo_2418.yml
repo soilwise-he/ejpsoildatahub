@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tomczak_2013
+  dataseturi: https://doi.org/10.2478/frp-2013-0017
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Radial variation in the wood properties of Scots pine (Pinus sylvestris L.)
+    grown on former agricultural soil
+  abstract: '&lt;p&gt;The soil of former farmland greatly differs from forest soil,
+    and significantly influences tree growth and development compared with other site
+    factors. The effect may also be reflected indirectly in radial variability of
+    wood. This study compared radial variation of wood density, compressive strength
+    along the grain and static bending strength of wood of Scots pine trees growing
+    on former farmland and forest soils. The analyses were conducted in eight mature
+    pine stands. On the basis of the stand description, four stands were classified
+    as growing on forest soil (L) and four as growing on former farmland soil (P).
+    A total of 24 model trees were selected, twelve on each soil type. Analyses of
+    wood properties were conducted along four axes from the cross sectional radius
+    of the trees at breast height. Our analyses showed that radial variation in wood
+    properties of Scots pine (from selected locations in Poland) growing on former
+    farmland is similar to the variation among the control trees growing on forest
+    soils. In both groups of trees, the lowest density and the lowest strength were
+    in the pith (juvenile) zone. Wood with the highest density and greatest strength
+    was located in the central part of the radius. Wood of Scots pine trees growing
+    on former farmland soils in comparison to that of trees growing on forest soil
+    was characterised by a statistically lower basic density, lower compressive strength
+    along the grain and static bending strength.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - basic density
+      - static bending strength
+      - compressive strength along fibers
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Radial variation in the wood properties of Scots pine (Pinus sylvestris
+      L.) grown on former agricultural soil
+    url: http://dx.doi.org/10.2478/frp-2013-0017
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tomczak-Arkadiusz:
+    individualname: Tomczak, Arkadiusz
+    role: creator
+  Jelonek-Tomasz:
+    individualname: Jelonek, Tomasz
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

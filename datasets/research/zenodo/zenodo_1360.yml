@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: H_n_l_2017
+  dataseturi: https://doi.org/10.1515/helm-2017-0005
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil nematodes in alpine meadows of the Tatra National Park (Slovak Republic)
+  abstract: "H\xE1n\u011Bl, L. (2017): Soil nematodes in alpine meadows of the Tatra\
+    \ National Park (Slovak Republic). Helminthologia (Warsaw, Poland) 54 (1): 48-67,\
+    \ DOI: 10.1515/helm-2017-0005, URL: http://dx.doi.org/10.1515/helm-2017-0005"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil nematodes in alpine meadows of the Tatra National Park (Slovak Republic)
+    url: http://dx.doi.org/10.1515/helm-2017-0005
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hanel-L.:
+    individualname: "H\xE1n\u011Bl, L."
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

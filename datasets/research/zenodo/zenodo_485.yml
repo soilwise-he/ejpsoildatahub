@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7758396
+  dataseturi: https://doi.org/10.5281/zenodo.7758396
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation and Identification of Proteolytic Microorganisms from Soil
+  abstract: The enzyme protease hydrolyses protein into peptides and amino acids.
+    One of the major sources of protease producing bacterial strains is soil. A total
+    of 30 soil samples were collected aseptically from Changanacherry, and brought
+    to the laboratory. The samples were serially diluted and isolated using Nutrient
+    Agar plates. Skim Agar media was used for the enumeration of protease producing
+    microorganisms. The plates were incubated at 370C for 24-48 hours. The pure culture
+    of 8 colonies exhibiting highest proteolytic activity was obtained by identifying
+    the clear zones. After analysing the optimal growth conditions and antagonistic
+    activities within the strains, 2 isolates were subjected to antibiotic sensitivity
+    test towards twelve different antibiotics, microbiological characteristics, biochemical
+    analysis and extracellular protease enzyme production. Among the 2 isolates, the
+    one which exhibited highest protease production was identified as Bacillus thuringiensis
+    using molecular methods. The results have increased the scope of finding industrially
+    important bacteria from soil which can be used as monoculture or consortium for
+    the degradation of waste on a large scale.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-22'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7758396
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7758395
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Malavika-S-Pradeep:
+    individualname: Malavika S Pradeep
+    role: creator
+    organization: ''
+    url: ''
+  Smitha-Mathews:
+    individualname: Smitha Mathews
+    role: creator
+    organization: ''
+    url: ''
+  Aleesha-Prince:
+    individualname: Aleesha Prince
+    role: creator
+    organization: ''
+    url: ''
+  A-Salma:
+    individualname: A Salma
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

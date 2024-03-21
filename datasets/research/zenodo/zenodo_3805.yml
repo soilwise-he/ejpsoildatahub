@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BASU_2017
+  dataseturi: https://doi.org/10.5604/01.3001.0010.7838
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Molecular Study of Indigenous Bacterial Community Composition on Exposure
+    to Soil Arsenic Concentration Gradient
+  abstract: '&lt;p&gt;Community structure of bacteria present in arsenic contaminated
+    agricultural soil was studied with qPCR (quantitative PCR) and DGGE (Denaturing
+    Gradient Gel Electrophoresis) as an indicator of extreme stresses. Copy number
+    of six common bacterial taxa (Acidobacteria, Actinobacteria, &alpha;-, &beta;-
+    and &gamma;-Proteobacteria, Firmicutes) was calculated using group specific primers
+    of 16S rDNA. It revealed that soilcontaminated with low concentration of arsenic
+    was dominated by both Actinobacteria and Proteobacteria but a shift towards Proteobacteria
+    was observed with increasing arsenic concentration, and number of Actinobacteria
+    eventually decreases. PCA (Principle Component Analysis) plot of bacterial community
+    composition indicated a distinct resemblance among high arsenic content samples,
+    while low arsenic content samples remained separated from others. Cluster analysis
+    of soil parameters identifies three clusters, each of them was related to the
+    arsenic content. Further, cluster analysis of 16S rDNA based DGGE fingerprint
+    markedly distributed the soil bacterial populations into low (&lt; 10 ppm) and
+    high (&gt; 10 ppm) arsenic content subgroups. Following analysis of diversity
+    indices shows significant variation in bacterial community structure. MDS (Multi
+    Dimensional Scaling) plot revealed distinction in the distribution of each sample
+    denoting variation in bacterial diversity. Phylogenetic sequence analysis of fragments
+    excised from DGGE gel revealed the presence of &gamma;-Proteobacteria group across
+    the study sites. Collectively, our experiments indicated that gradient of arsenic
+    contamination affected the shape of the soil bacterial population by significant
+    structural shift.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - agricultural fields
+      - arsenic (As)
+      - bacterial community
+      - DGGE
+      - copy number
+      - qPCR
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Molecular Study of Indigenous Bacterial Community Composition on Exposure
+      to Soil Arsenic Concentration Gradient
+    url: http://dx.doi.org/10.5604/01.3001.0010.7838
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  BASU-SEMANTI:
+    individualname: BASU, SEMANTI
+    role: creator
+  PAUL-TANIMA:
+    individualname: PAUL, TANIMA
+    role: creator
+  YADAV-PRIYA:
+    individualname: YADAV, PRIYA
+    role: creator
+  DEBNATH-ABHIJIT:
+    individualname: DEBNATH, ABHIJIT
+    role: creator
+  SARKAR-KEKA:
+    individualname: SARKAR, KEKA
+    role: creator
+  Polish-Society-of-Microbiologists:
+    individualname: Polish Society of Microbiologists
+    role: creator
+content_info: {}

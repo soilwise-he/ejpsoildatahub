@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lee_2017
+  dataseturi: https://doi.org/10.1099/ijsem.0.001722
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Lysobacter humi sp. nov., isolated from soil
+  abstract: 'Lee, Dongwook, Jang, Jun Hyeong, Cha, Seho, Seo, Taegun (2017): Lysobacter
+    humi sp. nov., isolated from soil. International Journal of Systematic and Evolutionary
+    Microbiology 67 (4): 951-955, DOI: 10.1099/ijsem.0.001722, URL: http://dx.doi.org/10.1099/ijsem.0.001722'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Proteobacteria
+      - Gammaproteobacteria
+      - Lysobacterales
+      - Lysobacteraceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Lysobacter humi sp. nov., isolated from soil
+    url: http://dx.doi.org/10.1099/ijsem.0.001722
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lee-Dongwook:
+    individualname: Lee, Dongwook
+    role: creator
+  Jang-Jun-Hyeong:
+    individualname: Jang, Jun Hyeong
+    role: creator
+  Cha-Seho:
+    individualname: Cha, Seho
+    role: creator
+  Seo-Taegun:
+    individualname: Seo, Taegun
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

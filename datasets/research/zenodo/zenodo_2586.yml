@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7480940
+  dataseturi: https://doi.org/10.5281/zenodo.7480940
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Assessing the Environmental Impact of Oil Spillage on Soil in Nigeria, using
+    NNPC Depot as a Case Study
+  abstract: "The sustainability of environment depends largely on the sustainable\
+    \ soil ecosystem as soil is taken as a key component of natural ecosystems. Soil\
+    \ contamination has been an environmental problem that is facing the whole regions\
+    \ of the world. The source of contamination may be either natural or anthropogenic.\
+    \ This research assessed the impact of oil spill on soil in Nigeria, using NNPC\
+    \ Depot as a case study. Soil samples were taken from the study area at four different\
+    \ points at a depth of 0.5-1.0 m using hand-dug auger. These samples were collected\
+    \ in sterilized bags and were well labelled. The following tests were conducted\
+    \ on the soil samples (contaminated and uncontaminated): Particle size distribution\
+    \ test, Compaction test, Atterberg Limit test and Permeability test. The particle\
+    \ size test revealed that the variation between the two samples (contaminated\
+    \ and uncontaminated) is insignificant but the presence of oil in the contaminated\
+    \ sample caused clod thereby making it difficult to pass through some sieve sizes.\
+    \ The Optimum Moisture Content (OMC) and the Maximum Dry Density (MDD) gave 11.40%,\
+    \ 1.98 g/cm\xB3 and 9.50%, 1.81g/cm\xB3 for both uncontaminated and contaminated\
+    \ samples respectively. Likewise, The Liquid Limits (LL) and plastic limit (Pl)\
+    \ gave 48 %, 33.5% and 33.6% and 14.9% for both uncontaminated and contaminated\
+    \ samples respectively. Also, the coefficient of permeability \u201Ck\u201D gave\
+    \ 2.792 x 10-7 cm/s compared with the standard (soil permeability classes for\
+    \ Civil Engineering) falls within the impermeability limit (1 X 10-11 \u2013 5\
+    \ X 10-7 ) Thus the test results revealed that the contamination of soil by crude\
+    \ oil in NNPC Apata influenced the properties of the soil and subsequently leads\
+    \ to reduction in the values obtained for the entire test that the soil sample\
+    \ was subjected to"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7480940
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7480939
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Oke-D.-A:
+    individualname: Oke, D. A
+    role: creator
+    organization: ''
+    url: ''
+  Raheem-S.-B:
+    individualname: Raheem, S. B
+    role: creator
+    organization: ''
+    url: ''
+  Jayeola-W.-A:
+    individualname: Jayeola, W. A
+    role: creator
+    organization: ''
+    url: ''
+  Taiwo-Y:
+    individualname: Taiwo Y
+    role: creator
+    organization: ''
+    url: ''
+  Adebiyi-A.-Y:
+    individualname: Adebiyi, A. Y
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

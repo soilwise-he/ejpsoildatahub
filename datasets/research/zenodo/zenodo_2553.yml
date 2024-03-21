@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: J_K_2022
+  dataseturi: https://doi.org/10.54536/ajec.v1i1.249
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Microbial Fuel Cell Bio-Remediation of Lambda Cyhalothrin, Malathion and
+    Chlorpyrifos on Loam Soil Inoculated with Bio-Slurry
+  abstract: '&lt;p&gt;In microbial fuel cell technology, the substrate is consumed
+    by microbes in anaerobic conversion of substrate to electricity. Bio-remediation
+    of pollutants involves microbial environmental cleanup using green approach. The
+    primary problems with pesticides are linked to the non-negligible proportion of
+    the sprayed active ingredient that does not reach its intended target thereby
+    contaminating environmental compartments persistently. The primary objective of
+    this study was to assess the potential of microbial fuel cell technology in bio-remediation
+    of lambda cyahlothrin, chlorpyrifos and malathion in Limuru loam soil. H-shaped
+    double chamber microbial fuel cell was fabricated where the anodic chamber was
+    loaded with 750 mL loam soil inoculated with 750 mL bio-slurry doped with 10 mL
+    of 10 ppm lambda cyhalothrin, chlorpyrifos and malathion pesticide solutions.
+    The cathodic chamber was loaded with 1500 mL distilled water. The setup was incubated
+    for a 90 days retention time where voltage and current were recorded daily using
+    a multi-meter. The degradation level was assessed using a GC-MS after sample extraction
+    using standard QuEChERs method. The voltage generated from the pesticide doped
+    loam soil showed an upward trend from day 0 to day 15 in lambda cyhalothrin and
+    malathion and from day 0 to day 20 in chlorpyrifos and pesticide mixture after
+    which constant readings were observed for three days with downward trends thereafter.
+    The maximum generated voltage was 0.537 V, 0.571 V, 0.572 V and 0.509 V in chlorpyrifos,
+    lambda cyhalothrin, malathion and pesticide mix (MCL) respectively. The bioremediation
+    levels for chlorpyrifos and malathion were 65.80 % and 71.32 %, respectively while
+    no detectable, lambda cyhalothrin was observed after day 60 of the study. This
+    study concludes that bioremediation of lambda cyhalothrin, chlorpyrifos and malathion
+    in Limuru loam soil can be achieved using microbial fuel cells.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Bioremediation
+      - Bio-slurry
+      - Loam soil
+      - Microbial Fuel Cells
+      - Pesticides
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Microbial Fuel Cell Bio-Remediation of Lambda Cyhalothrin, Malathion and
+      Chlorpyrifos on Loam Soil Inoculated with Bio-Slurry
+    url: http://dx.doi.org/10.54536/ajec.v1i1.249
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J-K-Mbugua:
+    individualname: J K, Mbugua
+    role: creator
+  A-Kinyua:
+    individualname: A, Kinyua
+    role: creator
+  D-N-Mbui:
+    individualname: D N, Mbui
+    role: creator
+  J-L-Kithure:
+    individualname: J L, Kithure
+    role: creator
+  S-O-Wandiga:
+    individualname: S O, Wandiga
+    role: creator
+  A-G-Waswa:
+    individualname: A G, Waswa
+    role: creator
+  E-palli:
+    individualname: E-palli
+    role: creator
+content_info: {}

@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10276414
+  dataseturi: https://doi.org/10.5281/zenodo.10276414
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Experimental and Analytical Investigation of Wall Strengthened with Soil
+    Nail Facing: An Approach to Enhance Soil Stability'
+  abstract: "India is growing at a very fast rate in term of infrastructure development.\
+    \ In the construction sector major work going on is such as construction of tunnels,\
+    \ hydropower projects, construction of highways and underground metro projects.\
+    \ Due to this excavation's, construction of retaining walls, ground improvements,\
+    \ and stabilization of slopes comes into picture. In the present research work\
+    \ the physical model was used for testing different flexible facing materials\
+    \ and comparing the results with the conventional facing. The nails used in physical\
+    \ testing were six in no. and arranged in the rectangular pattern.\_ Alongside\
+    \ with physical testing the results were validated using Plaxis 3D. On\_ \_comparison\
+    \ of results, it was found that the soil nails are able to take up the tensile\
+    \ stresses to certain extent and are helpful in stabilizing the slope. In the\
+    \ present study Four different facing material were compared i.e Conventional\
+    \ Facing consisting of wire mesh and shotcrete, Aluminium Facing, Geonet Facing\
+    \ GI Facing. As far as experimental results are concerned maximum stresses were\
+    \ taken up by conventional facing. In the present research as the major focus\
+    \ is on finding some alternative material to Conventional facing. Among the Flexible\
+    \ materials Geonet has taken maximum stresses and about 61% of stresses taken\
+    \ up by the conventional facing."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10276414
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10276413
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amanpreet-Tangri:
+    individualname: Amanpreet Tangri
+    role: creator
+    organization: ''
+    url: ''
+  Saurabh-Rawat:
+    individualname: Saurabh Rawat
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

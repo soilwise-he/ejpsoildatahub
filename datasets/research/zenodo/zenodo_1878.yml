@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jacquiod_2018
+  dataseturi: https://doi.org/10.1186/s40168-018-0606-1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Long-term soil metal exposure impaired temporal variation in microbial metatranscriptomes
+    and enriched active phages
+  abstract: '&lt;p&gt;&lt;strong&gt;Background: &lt;/strong&gt;It remains unclear
+    whether adaptation and changes in diversity associated to a long-term perturbation
+    are sufficient to ensure functional resilience of soil microbial communities.
+    We used RNA-based approaches (16S rRNA gene transcript amplicon coupled to shotgun
+    mRNA sequencing) to study the legacy effects of a century-long soil copper (Cu)
+    pollution on microbial activity and composition, as well as its effect on the
+    capacity of the microbial community to react to temporal fluctuations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results:
+    &lt;/strong&gt;Despite evidence of microbial adaptation (e.g., iron homeostasis
+    and avoidance/resistance strategies), increased heterogeneity and richness loss
+    in transcribed gene pools were observed with increasing soil Cu, together with
+    an unexpected predominance of phage mRNA signatures. Apparently, phage activation
+    was either triggered directly by Cu, or indirectly via enhanced expression of
+    DNA repair/SOS response systems in Cu-exposed bacteria. Even though total soil
+    carbon and nitrogen had accumulated with increasing Cu, a reduction in temporally
+    induced mRNA functions was observed. Microbial temporal response groups (TRGs,
+    groups of microbes with a specific temporal response) were heavily affected by
+    Cu, both in abundance and phylogenetic composition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Conclusion:
+    &lt;/strong&gt;Altogether, results point toward a Cu-mediated "decoupling" between
+    environmental fluctuations and microbial activity, where Cu-exposed microbes stopped
+    fulfilling their expected contributions to soil functioning relative to the control.
+    Nevertheless, some functions remained active in February despite Cu, concomitant
+    with an increase in phage mRNA signatures, highlighting that somehow, microbial
+    activity is still happening under these adverse conditions.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Cu pollution
+      - Metatranscriptomics
+      - Temporality
+      - Phages
+      - Microbial adaptation
+      - Soil functioning
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Long-term soil metal exposure impaired temporal variation in microbial metatranscriptomes
+      and enriched active phages
+    url: http://dx.doi.org/10.1186/s40168-018-0606-1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jacquiod-Samuel:
+    individualname: Jacquiod, Samuel
+    role: creator
+  Nunes-Ines:
+    individualname: "Nunes, In\xEAs"
+    role: creator
+  Brejnrod-Asker:
+    individualname: Brejnrod, Asker
+    role: creator
+  Hansen-Martin-A.:
+    individualname: Hansen, Martin A.
+    role: creator
+  Holm-Peter-E.:
+    individualname: Holm, Peter E.
+    role: creator
+  Johansen-Anders:
+    individualname: Johansen, Anders
+    role: creator
+  Brandt-Kristian-K.:
+    individualname: Brandt, Kristian K.
+    role: creator
+  Prieme-Anders:
+    individualname: "Priem\xE9, Anders"
+    role: creator
+  Sorensen-Soren-J.:
+    individualname: "S\xF8rensen, S\xF8ren J."
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

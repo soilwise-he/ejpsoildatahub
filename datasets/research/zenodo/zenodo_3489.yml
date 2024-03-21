@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1035400
+  dataseturi: https://doi.org/10.5281/zenodo.1035400
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Utilization Of Fungal Species Isolated From Soil For Coir Pith Composting
+  abstract: 'Coir pith, a ligno-cellulosic material formed during the extraction of
+    coir fiber from coconut husks, accumulates as a waste material from coir processing
+    factories causing environment and disposal problems. Naturally coir pith is rich
+    in potash but low in nitrogen and phosphorous. Also it has very high amount of
+    lignin and C: N ratio which makes composting process difficult and slow. Hence
+    an attempt was made to isolate and identify the fungal species from soil collected
+    from sewage treatment plant of PSG college of Arts and Science, Coimbatore. This
+    study was also carried out to assess the coir pith composting efficiency of fungal
+    species. The results of the study revealed that three fungal species were isolated
+    and identified as <em>Aspergillus flavus</em>, <em>Aspergillus tubingensis</em>
+    and <em>Aspergillus parasiticus</em> by its spore and molecular characteristics.
+    Among these three fungal species <em>Aspergillus flavus</em> and <em>Aspergillus
+    tubingensis</em> were used for the coir pith composting along with Panchagavya
+    as natural additives. The compost quality was better in the combination of coir
+    pith with <em>Aspergillus tubingensis </em>than<em> Aspergillus flavus </em>combination<em>.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Coir Pith, Panchagavya, Aspergillus Flavus, Aspergillus Tubingensis
+          &amp; Aspergillus Parasiticus
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-23'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1035400
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1035399
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Kanagarathinam:
+    individualname: A. Kanagarathinam
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-K.-Shanthi:
+    individualname: Dr. K. Shanthi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

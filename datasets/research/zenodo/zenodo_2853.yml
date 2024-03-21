@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6772471
+  dataseturi: https://doi.org/10.5281/zenodo.6772471
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Soil contamination from heavy metals and persistent organic pollutants (PAH,\
+    \ PCB and HCB) in the coastal area of V\xE4sternorrland, Sweden"
+  abstract: "This paper presents an experimental study on the leaching of heavy metals,\
+    \ toxic chemicals and persistent organic pollutants (POPs) \u2013 PAh, PCB and\
+    \ HCB \u2013 from soil dredged from the coastal area of V\xE4sternorrland in northern\
+    \ Sweden. The soil was stabilized with cement/slag. Samples were subjected to\
+    \ modified surface leaching and shake tests using technical standards of the Swedish\
+    \ Geotechnical Institute (SGI). The experiments were performed using different\
+    \ blends of binding agents (30/70, 50/50, 70/30) and binder quantities (120 and\
+    \ 150 kg/m3) to analyze their effects on leaching. Soil properties, tools, and\
+    \ workflow are described. Binders included Portland cement and ground granulated\
+    \ blast furnace slag (GGBFS). Samples were tested to evaluate the min/max contents\
+    \ of pollutants (\u03BCg/l) for heavy metals (As, Ba, Pb, Cd, Co, Cu, Cr, hg,\
+    \ Mn, Mo, ni, S, V, Zn) and the hydrocarbon fraction index in the excess water.\
+    \ The leaching of heavy metals and POPs was assessed in sediments after the addition\
+    \ of the binder. The comparison was made against the two mixes (cement/slag in\
+    \ 30/70% and high/low binder with low/high water ratio). The results showed that\
+    \ 70% slag decreases the leaching of heavy metals and POPs. The equilibrium concentrations\
+    \ of DOC and heavy metals at L/S 10 (\u03BCg/l) were measured during the shake\
+    \ experiments to compare their levels in the groundwater that was used as a leachate.\
+    \ The leached content was assessed at L/S 10 in the upscaling experiments using\
+    \ four samples for PAH, PCB and various fractions of hydrocarbons: C10\u2013C40,\
+    \ C10\u2013C12, C12\u2013C16 and C35\u2013C40. The shake test showed a decrease\
+    \ in the leaching of heavy metals and POP substances from the soil subjected to\
+    \ stabilization by a higher amount of slag added as a binder. A binder blend with\
+    \ 30% cement and 70% of GGBFS showed the best performance."
+  keywords:
+    default:
+      keywords:
+        subject: Baltic Sea
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6772471
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6772470
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: Swedish Transport Administration
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles, \xC9cole polytechnique de Bruxelles\
+      \ (Brussels Faculty of Engineering)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

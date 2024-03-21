@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wolman_1917
+  dataseturi: https://doi.org/10.1021/ie50094a766
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Two Letters on \u201CSeasonal Distribution of Soil and Fecal Strains of\
+    \ the Colon-Aerogenes Group in Surface Waters\u201D"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Two Letters on \u201CSeasonal Distribution of Soil and Fecal Strains of\
+      \ the Colon-Aerogenes Group in Surface Waters\u201D"
+    url: http://dx.doi.org/10.1021/ie50094a766
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wolman-Abel:
+    individualname: Wolman, Abel
+    role: creator
+  Greenfield-M.:
+    individualname: Greenfield, M.
+    role: creator
+  Skourup-W.-N.:
+    individualname: Skourup, W. N.
+    role: creator
+  Wolman-Abel.:
+    individualname: Wolman, Abel.
+    role: creator
+  Skourup-W-N.:
+    individualname: Skourup, W N.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

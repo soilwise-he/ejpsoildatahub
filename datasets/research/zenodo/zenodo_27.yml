@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5554357
+  dataseturi: https://doi.org/10.5281/zenodo.5554357
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Soil Nutrient Analyses
+  abstract: "Soil supports the rooting system of the plants. It is extremely important\
+    \ as it stores nutrients essential for plant growth and prosperity and to determine\
+    \ its future nutrient content. The nutrients are classified as macronutrients\
+    \ (<em>e.g.</em> nitrogen, phosphorus, potassium) which are elements that plants\
+    \ require in large amounts. In contract, micronutrients (<em>e.g.</em> Manganese,\
+    \ Zinc, Boron) are required in smaller amounts by the plant. Too many macronutrients\
+    \ in soil often interfere with micronutrient availability; thus, a balance is\
+    \ very important. Soil nutrient analyses must be conducted before and during all\
+    \ cultivating period to evaluate nutrient possible uptake from the plants. More\
+    \ specifically: \xB7 NO<sub>3</sub><sup>- </sup>and NH<sub>4</sub><sup>+</sup>\
+    \ provide nitrogen which plays many roles in plants, such as among other, affects\
+    \ leaf development and chlorophyll production. \xB7 Phosphorus is an essential\
+    \ nutrient both as a part of plant structure compound, and as a key player in\
+    \ biochemical reactions. It is a vital component of DNA, RNA and ATP, which is\
+    \ an energy unit for vital plant processes. \xB7 Potassium is taken up in significant\
+    \ amounts by crops and is essential in almost all processes needed to sustain\
+    \ plant growth and reproduction."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-09-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5554357
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5554356
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Savvas-Dimitrios-Karavidas-Ioannis-Vougeleka-Vasiliki-Ntatsi-Georgia:
+    individualname: Savvas Dimitrios, Karavidas Ioannis, Vougeleka Vasiliki, Ntatsi
+      Georgia
+    role: creator
+  Savvas-Dimitrios-Karavidas-Ioannis:
+    individualname: Savvas Dimitrios, Karavidas Ioannis
+    role: ''
+    organization: Agricultural University of Athens
+    url: ''
+content_info: {}

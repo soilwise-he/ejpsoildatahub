@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BLAIR_1920
+  dataseturi: https://doi.org/10.1097/00010694-192004000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE LIME REQUIREMENT OF SOILS ACCORDING TO THE VEITCH METHOD, COMPARED WITH
+    THE HYDROGEN-ION CONCENTRATION OF THE SOIL EXTRACT
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE LIME REQUIREMENT OF SOILS ACCORDING TO THE VEITCH METHOD, COMPARED WITH
+      THE HYDROGEN-ION CONCENTRATION OF THE SOIL EXTRACT
+    url: http://dx.doi.org/10.1097/00010694-192004000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Blair-A.-W.:
+    individualname: Blair, A. W.
+    role: creator
+  Prince-A.-L.:
+    individualname: Prince, A. L.
+    role: creator
+  BLAIR-A.-W.:
+    individualname: BLAIR, A. W.
+    role: creator
+  PRINCE-A.-L.:
+    individualname: PRINCE, A. L.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

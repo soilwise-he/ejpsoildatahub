@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8308106
+  dataseturi: https://doi.org/10.5281/zenodo.8308106
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Impact of Perennial Covers on Soil Microbiome and Nutrient Dynamic
+  abstract: Our study discusses the impact of different cropping practices on soil
+    health indicator and crop yield. The combination of no fertilization and perennialization
+    enhanced soil health indicators and crop yield compared to conventional tillage
+    annual crop fallow. The results showed that excessive nitrogen fertilization increases
+    soil bulk density, while perennialization with no fertilizer added improves it.
+    Higher carbon content was recorded under corn cultivation, but higher carbon-to-nitrogen
+    ratio was shown in perennial covers. The study highlights the benefits of adopting
+    perennial crops without fertilization for soil health and suggests improved management
+    practices for sustainable agriculture. Our finding is particularly significant
+    as it suggests an alternative approach to farming that improve soil health while
+    reducing the reliance on synthetic fertilizer. It provides valuable insights for
+    farmers, policymakers, and researches enabling them to make informed decisions
+    and implement practices that support both productivity and environmental stewardship,
+    Overall, it underscores the importance of responsible fertilizer use and improved
+    management practices for maintaining soil fertility and promoting sustainable
+    agriculture system.
+  keywords:
+    default:
+      keywords:
+        subject: Perennial, Sustainable agriculture, synthetic fertilizer, agriculture
+          management
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2023-09-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8308106
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8308105
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Narmin-Najafzadeh:
+    individualname: Narmin Najafzadeh
+    role: creator
+  Najafzadeh-Narmin:
+    individualname: Najafzadeh, Narmin
+    role: ''
+    organization: Molecular Systematic laboratory, parasitology Department, Pasteur
+      Institute of Iran, Tehran, Iran.
+    url: ''
+content_info: {}

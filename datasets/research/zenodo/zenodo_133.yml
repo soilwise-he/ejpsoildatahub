@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.895331
+  dataseturi: https://doi.org/10.5281/zenodo.895331
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Soil Apparent Electrical Conductivity Sensor Data For Estimation Of Ci-Based
+    Soil Compaction Status
+  abstract: 'Regionalization of soil properties is very important for successful site-specific
+    field management. Soil compaction is a critical issue to be detected and managed
+    due to its effects on crop growth. Soil compaction has been conventionally quantified
+    as cone index (CI) measured by an ASABE-standard cone penetrometer, but this approach
+    has limited capability of obtaining the spatially-dense data required for precision
+    agriculture. A significant amount of past research has related CI with apparent
+    soil electrical conductivity (ECa), and recently the potential of ECa to estimate
+    subsoil compaction status through the stress-at-rest-coefficient (K0), defined
+    as the ratio of normal compaction and pre-compaction, was introduced. The objective
+    of this study was to explore the potential of relating K0 with ECa using data
+    obtained from sites with wide ranges of soil texture, bulk density, and water
+    content, properties that significantly affect both CI and ECa. The following data
+    was collected from<br>
+
+    35 sites in Missouri and Illinois fields: CI profile up to 75 cm with a 5-cm interval,
+    ECa measured by EM38 and Veris devices, and depth-dependent soil properties such
+    as soil texture, bulk density, and water content. First, K0 values were calculated
+    from CI profiles by depth and related to ECa measurements. Then, effects of the
+    soil properties on the relationships between K0 and ECa were investigated. Results
+    of this study will provide insights on the effects of soil properties on soil
+    compaction, and on the potential to use ECa to estimate the status of soil compaction.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.895331
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.895330
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chung-S-O:
+    individualname: Chung, S-O
+    role: creator
+    organization: Dept. of Biosystems Machinery Engineering, Chungnam National University,
+      Republic of Korea
+    url: ''
+  Sudduth-K-A:
+    individualname: Sudduth, K A
+    role: creator
+    organization: USDA-ARS, Columbia, MO, USA
+    url: ''
+content_info: {}

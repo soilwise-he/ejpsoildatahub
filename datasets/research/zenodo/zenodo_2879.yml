@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ko_enkov__2015
+  dataseturi: https://doi.org/10.1515/ffp-2015-0013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Basic soil properties as a factor controlling the occurrence and intensity
+    of water repellency in rankers of the White Carpathians
+  abstract: '&lt;p&gt;Water repellency in soils is controlled by many different factors,
+    basic physical and chemical properties might be considered the crucial ones. For
+    the purpose of this study, 12 sites were selected and sampled (0&ndash;20 cm depth)
+    in the White Carpathians. Repellency tests were conducted under laboratory conditions
+    in triplicate using water drop penetration time (WDPT) test and the molarity of
+    ethanol droplet (MED) test. Results of WDPT measurements showed that three samples
+    were marked by slight to extreme water repellency. Regarding the relationship
+    between WDPT/MED and tested soil properties, the highest value of correlation
+    coefficient was calculated for soil organic carbon (r = 0.706; p &lt; 0.05), suggesting
+    there is a positive, statistically significant correlation between repellency
+    severity and total carbon content. A negative relationship between repellency
+    and soil reaction/silt/silt + clay contents of studied soils was found. Samples
+    taken from the surface horizon of arable soils showed no repellency.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - acid soil reaction
+      - rankers
+      - soil organic carbon
+      - soil water repellency
+      - White Carpathian Mts.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Basic soil properties as a factor controlling the occurrence and intensity
+      of water repellency in rankers of the White Carpathians
+    url: http://dx.doi.org/10.1515/ffp-2015-0013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Korenkova-Lucia:
+    individualname: "Ko\u0159enkov\xE1, Lucia"
+    role: creator
+  Urik-Martin:
+    individualname: "Ur\xEDk, Martin"
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

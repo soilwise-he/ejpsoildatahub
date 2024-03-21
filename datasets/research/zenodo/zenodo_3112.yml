@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7452152
+  dataseturi: https://doi.org/10.5281/zenodo.7452152
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Activity And Subsellular Localization Of Isoforms Of Superoxide Dismutase,
+    Accumulation Of Glycine Betaine And Malondialdehyde In Wheat Genotypes Subjected
+    To Continuous Soil Drought
+  abstract: Drought resistance is provided by multicomponent antioxidant system, causing
+    rearrangements at the physiological, cellular and molecular levels. Experiments
+    with two durum (Triticum durum Desf.) wheat genotypes with contrasting drought
+    tolerance were carried out to study the effect of soil drought on changes in activities
+    and subcellular localization of isoforms of superoxide dismutase, levels of malondoaldehyde,
+    glycine betaine and total protein content. The level of the enzyme activity appeared
+    to depend on the wheat genotypes, duration of drought and stages of the plant
+    growth. Wheat responds to water deficit through accumulation of glycine betaine
+    in leaves. Significant accumulation of MDA occurred in the sensitive variety Gragylchig-2
+    contrary to the tolerant Barakatli-95 under severe stress conditions. Native polyacrylamide
+    gel electrophoresis (PAGE) revealed the presence of 9 isoforms of superoxide dismutase
+    in wheat leaves during drought. Wheat leaves contain three different types of
+    SODs (Mn-, Fe-, Cu/Zn-SOD) Mn-SOD was found in the mitochondrial fractions, Fe-SOD
+    in the chloroplast fraction and Cu/Zn-SOD is localized in all subcellular fractions.
+    The long-term drought was accompanied by the expression of the levels of these
+    isoforms. Three isoforms of Mn-SOD, one isoform of Fe-SOD and five of Cu/Zn-SOD
+    were observed in wheat leaves using 3mM KCN and 5 mM H2O2 as selective inhibitors.
+    Mn-SOD was established to make the most contribution to increase of SOD activity.
+    It seems that this isoform plays a major role in the scavenging of superoxide
+    radicals during a longterm drought.
+  keywords:
+    default:
+      keywords:
+        subject: drought, superoxide dismutase, lipid peroxidation, glycine betaine,
+          malondialdehyde, Triticum durum Desf.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-09-30'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7452152
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7452151
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.M.-Huseynova:
+    individualname: I.M. Huseynova
+    role: creator
+    organization: Institute of Botany, ANAS
+    url: ''
+  D.R.-Aliyeva:
+    individualname: D.R. Aliyeva
+    role: creator
+    organization: Institute of Botany, ANAS
+    url: ''
+  J.A.-Aliyev:
+    individualname: J.A. Aliyev
+    role: creator
+    organization: Institute of Botany, ANAS
+    url: ''
+content_info: {}

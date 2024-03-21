@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Flynn_1990
+  dataseturi: https://doi.org/10.1029/jb095ib09p14497
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An assessment of the meteoritic contribution to the Martian soil
+  abstract: "The addition of meteoritic material to the Mars soils should perturb\
+    \ their chemical compositions, as has been detected for soils on the Moon [Anders\
+    \ et al., 1973] and sediments on Earth [Kyte and Wasson, 1986]. Using the measured\
+    \ mass influx at Earth and estimates of the Mars/Earth flux ratio, we estimate\
+    \ the continuous, planet\u2010wide meteoritic mass influx on Mars to be between\
+    \ 2700 and 59,000 t/yr. If distributed uniformly into a soil with a mean planetary\
+    \ production rate of 1 m/b.y., consistent with radar estimates of the soil depth\
+    \ overlaying a bouldered terrain in the Tharsis region [Christensen, 1986], our\
+    \ estimated mass influx would produce a meteoritic concentration in the Mars soil\
+    \ ranging from 2 to 29% by mass. Analysis of the Viking X ray fluorescence data\
+    \ indicates that the Mars soil composition is inconsistent with typical basaltic\
+    \ rock fragments but can be fit by a mixture of 60% basaltic rock fragments and\
+    \ 40% meteoritic material [Clark and Baird, 1979]. The meteoritic influx we calculate\
+    \ is sufficient to provide most or all of the material required by the Clark and\
+    \ Baird [1979] model. Particles in the mass range from 10\u22127 to 10\u22123\
+    \ g, about 60\u2013200 \u03BCm in diameter, contribute 80% of the total mass flux\
+    \ of meteoritic material in the 10\u221213 to 106 g mass range at Earth [Hughes,\
+    \ 1978]. On Earth atmospheric entry all but the smallest particles (generally\
+    \ \u2264 50 \u03BCm in diameter) in the 10\u22127 to 10\u22123 g mass range are\
+    \ heated sufficiently to melt or vaporize. Mars, because of its lower escape velocity\
+    \ and larger atmospheric scale height, is a much more favorable site for unmelted\
+    \ survival of micrometeorites on atmospheric deceleration. We calculate that a\
+    \ significant fraction of particles throughout the 60\u20131200 \u03BCm diameter\
+    \ range will survive Mars atmospheric entry unmelted. Thus returned Mars soils\
+    \ may offer a resource for sampling micrometeorites in a size range which is not\
+    \ collectable in unaltered form at Earth."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An assessment of the meteoritic contribution to the Martian soil
+    url: http://dx.doi.org/10.1029/jb095ib09p14497
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Flynn-George-J.:
+    individualname: Flynn, George J.
+    role: creator
+  McKay-David-S.:
+    individualname: McKay, David S.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+content_info: {}

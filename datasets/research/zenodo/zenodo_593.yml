@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5048349
+  dataseturi: https://doi.org/10.5281/zenodo.5048349
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Remediation of Hydrocarbon Contaminated Soil Using Selected Tropical Plants
+  abstract: <em>This study evaluated the phytoremediation potentials of selected tropical
+    plants, Glycine max, Panicum maximum, Sorghum bicolor, Tephrosia bracteolata and
+    Vigna unguiculata, on 0%, 3% and 5% hydrocarbon concentration contamination. Top
+    soil was collected from department of crop science garden, University of Benin
+    at depth ranging from 15 cm to 20 cm using hand auger. Soil samples (5 kg) were
+    placed in perforated buckets (cells) in different concentrations of 0% (control),
+    3% (equivalent of 2530 mg/kg) and 5% (equivalent of 4562 mg/kg). This was replicated
+    into total of 87 cells. Pre-planting of selected plants was done and transplanted
+    into the cells two weeks after planting with 2 kg cow dung as augment. The study
+    lasted for duration of 16 weeks; height of plants, number of leaves, roots length
+    and leaves area were measured every fortnight. Soil samples were taken to laboratory
+    every two weeks for total petroleum hydrocarbon (TPH) degradation monitoring.
+    The result revealed that the plant grew and increased in height. The number of
+    leaves, root length and leaves area all increased with about 70%. The degradation
+    result also shows that the plants reduced the residual TPH with an average of
+    77% in 3% concentration and 81% in 5% concentration. The order of the plants remediation
+    is in the range of Panicum maximum &gt; Glycine maximum &gt; Tephrosia bracteolata
+    &gt; Vigna unguiculata &gt; Sorghum Bicolor. The plants are therefore recommended
+    for remediation practice in contaminated sites within the Niger Delta region of
+    Nigeria with cow dung as augment.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Phytoremediation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-06-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5048349
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.5048348
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Okonofua-E.S.:
+    individualname: Okonofua, E.S.
+    role: creator
+    organization: Department of Geomatics, Faculty of Environmental Sciences, University
+      of Benin, Benin City, Nigeria.
+    url: ''
+  Kayode-Ojo-N.:
+    individualname: Kayode-Ojo, N.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Engineering, University
+      of Benin, Benin City, Nigeria.
+    url: ''
+content_info: {}

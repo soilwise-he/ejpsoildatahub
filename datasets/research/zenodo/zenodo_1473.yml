@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.891508
+  dataseturi: https://doi.org/10.5281/zenodo.891508
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Identification Of Management Zones Based On Soil And Yield In Slope Citrus
+    Field
+  abstract: 'This paper aims to 1) describe the spatial variation of soil parameters
+    and yield in a steep slope citrus field and 2) identify the management zones based
+    on the variation of soil properties and yield from the point of view of a row-based
+    irrigation system. The test field was located on Iwagi Island, Ehime Prefecture.
+    Soil volumetric water content (VMC) and electrical conductivity (EC) were collected
+    from 51 locations at 3 different depths: the ground surface, 20 cm depth, and
+    40 cm depth. The yield data of 89 trees between 2010 and 2013 were also collected.
+    Yield, VMC, EC, elevation and combination of yield and soil parameters were classified
+    by cluster analysis with the fuzzy c-means method. The cluster analysis divided,
+    VMC into 3 groups, EC into 3 or 4 groups, yield into 5 groups, elevation into<br>
+
+    3 groups and combination of yield and soil parameters into 2 groups. The classified
+    groups clearly showed the influence of cultivation of each variable. Comparing
+    the row irrigation system with the cluster analysis results, row irrigation affected
+    the yield and soil parameters. Some clustered groups in the same irrigation row
+    were also observed. It is suggested that the existing row irrigation system can
+    adjust the variability of the field yield.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.891508
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.891507
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Usui-K:
+    individualname: Usui, K
+    role: creator
+    organization: Forestry and Forest Products Research Institute, Ibaraki, Japan
+    url: ''
+  Shibusawa-S:
+    individualname: Shibusawa, S
+    role: creator
+    organization: Tokyo University of Agriculture and Technology, Tokyo, Japan
+    url: ''
+  Umeda-H:
+    individualname: Umeda, H
+    role: creator
+    organization: NARO Institute of Vegetable and Floriculture Science, Ibaraki, Japan
+    url: ''
+  Kodaira-M:
+    individualname: Kodaira, M
+    role: creator
+    organization: Tokyo University of Agriculture and Technology, Tokyo, Japan
+    url: ''
+  Li-Q:
+    individualname: Li, Q
+    role: creator
+    organization: Tokyo University of Agriculture and Technology, Tokyo, Japan
+    url: ''
+content_info: {}

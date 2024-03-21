@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: JONES_1919
+  dataseturi: https://doi.org/10.1097/00010694-191909000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: QUANTITATIVE AND QUALITATIVE BACTERIAL ANALYSIS OF SOIL SAMPLES TAKEN IN
+    FALL OF 1918
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: QUANTITATIVE AND QUALITATIVE BACTERIAL ANALYSIS OF SOIL SAMPLES TAKEN IN
+      FALL OF 1918
+    url: http://dx.doi.org/10.1097/00010694-191909000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jones-D.-H.:
+    individualname: Jones, D. H.
+    role: creator
+  Murdoch-F.-G.:
+    individualname: Murdoch, F. G.
+    role: creator
+  JONES-D.-H.:
+    individualname: JONES, D. H.
+    role: creator
+  MURDOCH-F.-G.:
+    individualname: MURDOCH, F. G.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3565374
+  dataseturi: https://doi.org/10.5281/zenodo.3565374
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A comparison of Alpine soil macroinvertebrate communities from European larch
+    and Swiss pine forests in the LTSER area "Val Mazia/Matschertal", South Tyrol
+  abstract: In the Central Alps the treeline is formed by the European larch (Larix
+    decidua Mill.) and<br> the Swiss pine (Pinus cembra L.), shaping the alpine plant
+    community Larici-Cembretum.<br> Currently, alpine pastures, which are increasingly
+    abandoned in the European Alps,<br> are colonised, after a phase of shrub encroachment,
+    by the European larch, while a<br> Swiss pine forest will establish once the undergrowth
+    becomes too dense for larch<br> trees. Former studies on tree growth rates indicate
+    that the European larch will react<br> positively to increasing temperatures at
+    the treeline and will grow faster in the future.<br> The Swiss pine has in general
+    slower growth rates and will likely be less affected by<br> higher temperatures.
+    Thus, there might be a change from Swiss pine to European larch<br> forests at
+    the tree line.<br> This change in the dominating tree species might have profound
+    impacts on the soil<br> macro-invertebrate community, particularly due to differing
+    chemical and physical<br> compositions of larch and pine needle litter. To investigate
+    potential effects of this<br> change, we took soil core and litter samples and
+    further installed pitfall traps in pure<br> European larch and Swiss pine forests,
+    as well as in mixed forests.<br> We found no explicit differences in species composition
+    between forests, presumably<br> due to highly variable site and environmental
+    parameters between and within forest<br> types. The larch forests showed the highest
+    number of taxa in general and the highest<br> number of taxa found exclusively
+    in this habitat. The pine forests were inhabited by the<br> highest number of
+    characteristic taxa while mixed forests harboured the most stable<br> and consistent
+    soil macro-invertebrate community.
+  keywords:
+    default:
+      keywords:
+        subject: soil macrofauna, larch forest, stone pine forest, climate change
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-12-06'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3565374
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3565373
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schneider-Eva:
+    individualname: Schneider Eva
+    role: creator
+    organization: Department of Ecology, University of Innsbruck, Technikerstr. 25,
+      6020 Innsbruck, Austria
+    url: ''
+  Steinwandter-Michael:
+    individualname: Steinwandter Michael
+    role: creator
+    organization: Institute for Alpine Environment, Eurac Research, Viale Druso 1,
+      39100 Bozen/Bolzano, Italy
+    url: ''
+  Seeber-Julia:
+    individualname: Seeber Julia
+    role: creator
+    organization: Institute for Alpine Environment, Eurac Research, Viale Druso 1,
+      39100 Bozen/Bolzano, Italy $ Author
+    url: ''
+content_info: {}

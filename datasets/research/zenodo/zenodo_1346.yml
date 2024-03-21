@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3784364
+  dataseturi: https://doi.org/10.5281/zenodo.3784364
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: GEOTECHNICAL PROPERTIES OF LATERITIC SOIL STABILIZED WITH CEMENT AND PULVERIZED
+    WOOD CHARCOAL
+  abstract: This study investigates the geotechnical properties of lateritic soil
+    stabilized with pulverized wood charcoal (PWC) in comparison with the same soil
+    stabilized with cement which is considered to be the best stabilizer. Classification
+    of the soil according to AASHTO revealed that the soil is an A-6 soil. Chemical
+    tests carried out on PWC and ordinary Portland cement (OPC) indicated that the
+    major oxides present in the OPC sample were CaO and SiO<sub>2</sub> at 60.50%
+    and 21.40% respectively and in the PWC were CaO and SiO<sub>2</sub> at 39.46%
+    and 28.46% respectively. This distinctly high concentration of CaO is responsible
+    for their high stabilizing property. Compaction, California Bearing Ratio (CBR)
+    and Unconfined Compressive Strength (UCS) tests carried out on the lateritic soil
+    in its natural state and when PWC was added in varying proportions of 2, 4, 6,
+    8 and 10% by weight of soil indicated that the stabilizer enhanced the strength
+    of the lateritic soil. The unsoaked CBR value of the soil attained the optimum
+    value of 13.68% on addition of 6% PWC by weight of soil. The unconfined compressive
+    strength improved from 148.65kN/m<sup>2</sup> in the natural state to 296.6kN/m<sup>2</sup>
+    at 10% PWC addition. Based on the geotechnical properties obtained, charcoal has
+    a high potential of being a veritable soil stabilizer and compares favourably
+    with cement in compressive strength.
+  keywords:
+    default:
+      keywords:
+        subject: optimum
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-04'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3784364
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3784363
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aderinlewo-Olufikayo:
+    individualname: Aderinlewo, Olufikayo
+    role: creator
+    organization: Federal University of Technology, Akure, Nigeria
+    url: https://orcid.org/0000-0002-8754-7425
+  Sorunke-Olayiwola:
+    individualname: Sorunke, Olayiwola
+    role: creator
+    organization: Federal University of Technology, Akure, Nigeria
+    url: https://orcid.org/0000-0002-5311-5114
+  Afolayan-Abayomi:
+    individualname: Afolayan, Abayomi
+    role: creator
+    organization: Federal Polytechnic Ede, Nigeria
+    url: https://orcid.org/0000-0002-9780-1669
+  Tanimola-Moses:
+    individualname: Tanimola, Moses
+    role: creator
+    organization: Federal University of Technology, Akure, Nigeria
+    url: https://orcid.org/0000-0003-2415-340X
+content_info: {}

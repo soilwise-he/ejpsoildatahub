@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1630653
+  dataseturi: https://doi.org/10.5281/zenodo.1630653
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The content of some microelements in soil and in plants of the genus Pyrethrum
+    Zinn
+  abstract: "It was found that plant of <em>Pyrethrum parthenium</em> (L.) Smith.\
+    \ and <em>Pyrethrum coccineum </em>(Willd.) Worosch., which are growing at a sufficiently\
+    \ secured microelements (Zn, Cu, Mn, Co, Ni, Pb, Cd) gray forest soil of Kremenets\u2019\
+    \ region, were accumulated significant amounts of Zn and Mn, low \u2013 Cu, Co,\
+    \ Ni, Pb and Cd."
+  keywords:
+    default:
+      keywords:
+        subject: coefficients of biological accumulation
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2013-12-01'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1630653
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1630652
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O.V.-Gurs'ka:
+    individualname: O.V. Gurs'ka
+    role: creator
+    organization: Taras Shevchenko Kremenetskiy Regional Humanitarian Pedagogical
+      Institute, Ukraine, Kremenets
+    url: ''
+  S.V.-Pyda:
+    individualname: S.V. Pyda
+    role: creator
+    organization: Volodymyr Hnatiuk Ternopil National University, Ukraine, Ternopil
+    url: ''
+  I.P.-Hrigoryuk:
+    individualname: I.P. Hrigoryuk
+    role: creator
+    organization: National University of Life and Environmental Sciences of Ukraine,
+      Ukraine, Kyiv
+    url: ''
+content_info: {}

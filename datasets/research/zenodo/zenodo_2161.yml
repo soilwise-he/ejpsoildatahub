@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Liang_2023
+  dataseturi: https://doi.org/10.1016/j.soilbio.2023.109110
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Priming effects decrease with the quantity of cover crop residues \xE2\u20AC\
+    \u201C Potential implications for soil carbon sequestration"
+  abstract: '&lt;p&gt;Observations from the field and mesocosm study suggest that
+    SOC buildup is not constrained by soil C saturation, but rather by low cover crop
+    productivity and/or positive priming effects.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Priming effects decrease with the quantity of cover crop residues \xE2\u20AC\
+      \u201C Potential implications for soil carbon sequestration"
+    url: http://dx.doi.org/10.1016/j.soilbio.2023.109110
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Liang-Zhi:
+    individualname: Liang, Zhi
+    role: creator
+  Rasmussen-Jim:
+    individualname: Rasmussen, Jim
+    role: creator
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: creator
+  Elsgaard-Lars:
+    individualname: Elsgaard, Lars
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

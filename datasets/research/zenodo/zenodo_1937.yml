@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: L_posi_2020
+  dataseturi: https://doi.org/10.19040/ecocycles.v6i1.167
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Evaluation of soil bacteria treatments on some physiological parameters of
+    crops by spectral vegetation indices
+  abstract: '&lt;p&gt;The effects of soil bacteria treatments on barley and wheat
+    (1. treatment: stubble decomposers + soil inoculators; 2. stubble decomposers
+    + soil regenerators; 3. control) were studied at the Agricultural Research Institute
+    in Kompolt on spectral vegetation indices which are closely related to photochemical
+    processes and photosynthetic pigments in barley and wheat leaves. We applied&nbsp;&lt;em&gt;in
+    vivo&lt;/em&gt;&nbsp;field measurements: SPAD 502 relative chlorophyll meter and
+    ASD Field Spec Pro 3 spectroradiometer. This work presents the results of the
+    experiments in 2019, moreover, we compared them with our previously published
+    investigations on several other crops (maize, sunflower, rape, barley) carried
+    out in 2017 and 2018. In 2019 despite the significant level of the standard deviation
+    of data in field conditions, treated (mainly with stubble decomposers + soil inoculators)
+    wheat leaves could be characterized by significantly higher chlorophyll and water
+    content, higher photochemical efficiency, and lower carotenoid content. In the
+    case of barley due to the large standard deviation of data, we couldn&rsquo;t
+    reveal the beneficial effects of treatments by these methods. Due to the very
+    rainy spring in 2019 some experimental plots - like K9 with barley &ndash; wre
+    covered by inland water, which negatively influenced living conditions of soil
+    bacteria. Despite this unfavourable conditions, the first treatment resulted in
+    an 18.9% higher yield of barley and 27.8% higher yield of wheat, while the second
+    treatment increased barley yield with 28.9% and wheat yield with 27.7%. In the
+    case of wheat, spectral vegetation indices could indicate beneficial effects of
+    soil bacteria treatments at the beginning of flowering, similarly to our results
+    in 2017 and 2018 in case of maize, sunflower, rape, and barley.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - spectral vegetation indices
+      - soil bacteria teratments
+      - photosynthetic pigments,
+      - barley
+      - wheat
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Evaluation of soil bacteria treatments on some physiological parameters
+      of crops by spectral vegetation indices
+    url: http://dx.doi.org/10.19040/ecocycles.v6i1.167
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Laposi-Reka:
+    individualname: "L\xE1posi, R\xE9ka"
+    role: creator
+  Beko-Laszlo:
+    individualname: "Bek\u0151, L\xE1szl\xF3"
+    role: creator
+  Kaprinyak-Tunde:
+    individualname: "Kapriny\xE1k, T\xFCnde"
+    role: creator
+  Moljak-Sandor:
+    individualname: "Molj\xE1k, S\xE1ndor"
+    role: creator
+  Toth-Szilard-Zsolt:
+    individualname: "T\xF3th, Szil\xE1rd Zsolt"
+    role: creator
+  Ecocycles:
+    individualname: Ecocycles
+    role: creator
+content_info: {}

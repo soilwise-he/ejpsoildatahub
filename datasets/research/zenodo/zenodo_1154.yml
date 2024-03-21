@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pickering_1913
+  dataseturi: https://doi.org/10.1017/s002185960000201x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Bastard Trenching on the Soil and on Plant Growth
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Bastard Trenching on the Soil and on Plant Growth
+    url: http://dx.doi.org/10.1017/s002185960000201x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pickering-Spencer-Umfreville:
+    individualname: Pickering, Spencer Umfreville
+    role: creator
+  Russell-E.-J.:
+    individualname: Russell, E. J.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

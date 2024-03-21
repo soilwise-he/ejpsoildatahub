@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4588724
+  dataseturi: https://doi.org/10.5281/zenodo.4588724
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Afforestation impact on soil temperature in regional climate simulations
+    over Europe
+  abstract: "Scripts and netcdf files which correspond to outputs from ten regional\
+    \ climate model simulations performed over Euro-CORDEX domain. The content of\
+    \ files regard variables, such as the soil temperature, ground heat flux and soil\
+    \ moisture. The analysis of these data conducted in the frame of the first phase\
+    \ of Land Use Changes Across Scales (LUCAS) Flagship Pilot Study. The netcdf files\
+    \ appear in the following order: <em>VariableName_ExperimentName_RCMname_Frequency_TimePeriod.nc</em>\
+    \ where VariableName can be tslb(soil temperature) or grdflx(ground heat flux)\
+    \ or sm(soil moisture). ExperimentName is FOREST or GRASS. Frequency denotes the\
+    \ temporal frequency at which the respective fields have been time-averaged and\
+    \ could be \u2018ymonmean\u2019 (mean monthly values) or \u2018yseasmean\u2019\
+    \ (mean seasonal values). Time period refers to the simulation period (1986-01-01\
+    \ to 2015-12-31). As for .ncl scripts, they are named according to the kind of\
+    \ plot and the field which is plotted. For example, \u201Cancycle_tslb.ncl\u201D\
+    \ refers to figures 3&amp;4, where we plot the annual cycles of tslb (soil temperature)\
+    \ for GRASS and FOREST experiments. Further, \u201Cmap_tslb_cycle.ncl\u201D refers\
+    \ to figure 2, where we map the differences in AAST (annual amplitude of soil\
+    \ temperature) between FOREST and GRASS experiments."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-08'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4588724
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4588723
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sofiadis-Ioannis:
+    individualname: Sofiadis Ioannis
+    role: creator
+    organization: Aristotle University of Thessaloniki
+    url: ''
+content_info: {}

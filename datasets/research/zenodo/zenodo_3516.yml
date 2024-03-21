@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1130067
+  dataseturi: https://doi.org/10.5281/zenodo.1130067
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental And Finite Element Analysis For Mechanics Of Soil-Tool Interaction
+  abstract: "In this paper a 3-D finite element (FE) investigation of soil-blade interaction\
+    \ is described. The effects of blade\u2019s shape and rake angle are examined\
+    \ both numerically and experimentally. The soil is considered as an elastic-plastic\
+    \ granular material with non-associated Drucker-Prager material model. Contact\
+    \ elements with different properties are used to mimic soil-blade sliding and\
+    \ soil-soil cutting phenomena. A separation criterion is presented and a procedure\
+    \ to evaluate the forces acting on the blade is given and discussed in detail.\
+    \ Experimental results were derived from tests using soil bin facility and instruments\
+    \ at the University of Saskatchewan. During motion of the blade, load cells collect\
+    \ data and send them to a computer. The measured forces using load cells had noisy\
+    \ signals which are needed to be filtered. The FE results are compared with experimental\
+    \ results for verification. This technique can be used in blade shape optimization\
+    \ and design of more complicated blade\u2019s shape."
+  keywords:
+    default:
+      keywords:
+        subject: experimental results.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-03-03'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1130067
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1130066
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Armin:
+    individualname: A. Armin
+    role: creator
+    organization: ''
+    url: ''
+  R.-Fotouhi:
+    individualname: R. Fotouhi
+    role: creator
+    organization: ''
+    url: ''
+  W.-Szyszkowski:
+    individualname: W. Szyszkowski
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

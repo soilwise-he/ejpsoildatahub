@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8123734
+  dataseturi: https://doi.org/10.5281/zenodo.8123734
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Artificial Intelligence Algorithm for Tailing Storage Facility Soil Classification
+    Based on CPT Measurements
+  abstract: Due to the high environmental risks and negative impact of a failure,
+    tailings storage facilities (TSFs) need constant monitoring. Advanced mathematical
+    models have been developed in the past to predict the behavior of TSFs and raise
+    alerts if needed. To be precise and reliable, such models need a spatial distribution
+    of soil types within the dam as an input. Getting this data from laboratory measurements
+    is time and cost-consuming. In this article, we propose an ANN-powered algorithm,
+    which allows us to accurately estimate the soil distribution based on a cone penetration
+    test (CPT).
+  keywords:
+    default:
+      keywords:
+        subject: stability assessment
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8123734
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8123733
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  ? Society-for-Mining-Metallurgy--Exploration-SME.-Copyright-(c)-2023-Society-for-Mining-Metallurgy--Exploration.-All-Rights-Reserved.-Printed-in-the-United-States-of-America.
+  : individualname: "Society for Mining, Metallurgy & Exploration (SME). Copyright\
+      \ \xA9 2023 Society for Mining, Metallurgy & Exploration. All Rights Reserved.\
+      \ Printed in the United States of America."
+    role: creator
+  Duda-Mroz-Natalia:
+    individualname: "Duda-Mr\xF3z Natalia"
+    role: creator
+  Anufriiev-Sergii:
+    individualname: Anufriiev Sergii
+    role: creator
+  Koperska-Wioletta:
+    individualname: Koperska Wioletta
+    role: creator
+  Stefaniak-Pawel:
+    individualname: "Stefaniak Pawe\u0142"
+    role: creator
+  Stefanek-Pawel:
+    individualname: "Stefanek Pawe\u0142"
+    role: creator
+  Natalia-Duda-Mroz:
+    individualname: "Natalia, Duda-Mr\xF3z"
+    role: ''
+    organization: KGHM Cuprum Research and Development Centre Ltd.
+    url: https://orcid.org/0000-0002-5320-5822
+  Sergii-Anufriiev:
+    individualname: Sergii, Anufriiev
+    role: ''
+    organization: KGHM Cuprum Research and Development Centre Ltd.
+    url: https://orcid.org/0000-0002-8370-397X
+  Wioletta-Koperska:
+    individualname: Wioletta, Koperska
+    role: ''
+    organization: KGHM Cuprum Research and Development Centre Ltd.
+    url: https://orcid.org/0000-0002-5882-362X
+  Pawel-Stefaniak:
+    individualname: "Pawe\u0142, Stefaniak"
+    role: ''
+    organization: KGHM Cuprum Research and Development Centre Ltd.
+    url: https://orcid.org/0000-0002-1772-5740
+  Pawel-Stefanek:
+    individualname: "Pawe\u0142, Stefanek"
+    role: ''
+    organization: "KGHM Polska Mied\u017A S.A."
+    url: https://orcid.org/0000-0003-3357-0053
+content_info: {}

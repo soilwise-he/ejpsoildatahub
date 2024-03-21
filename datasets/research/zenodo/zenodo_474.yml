@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1219273
+  dataseturi: https://doi.org/10.5281/zenodo.1219273
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: Road And Soil Dynamic Characterization From Surface Measurements
+  abstract: "The increased demand for non-destructive evaluation of the shear wave\
+    \ profiling, condition<br>\nmonitoring and performance assessment of soils and\
+    \ roads in a dynamic state has made seismic<br>\nmethods the most desirable and\
+    \ effective non-destructive techniques. Surface wave methods have<br>\ngained\
+    \ popularity over the last decades since they monitor the propagation of the surface\
+    \ wave with<br>\nnon-invasive transducers working from the surface. Nonetheless,\
+    \ their use is restricted by resolution<br>\nproblems and their ability to assess\
+    \ the actual dispersive behaviour of Rayleigh wave. Nondestructive,<br>\nin-situ\
+    \ methods for characterizing existing infrastructures require the ability to detect<br>\n\
+    structural damage and features such as cracking and discontinuities. The proper\
+    \ assessment of the<br>\nlocation and of the extension of such discontinuities\
+    \ is crucial for the determination of the level of<br>\ndeterioration of an infrastructure\
+    \ and for planning the maintenance interventions. Damage in a<br>\npavement structure\
+    \ is usually initiated in the asphalt layers, making the Rayleigh wave ideally\
+    \ suited<br>\nfor the detection of shallow surface defects. Nonetheless, the practical\
+    \ application of crack detection<br>\nmethods in asphalt is hampered due to the\
+    \ heterogeneous and dispersive nature of the material tested.<br>\nThis thesis\
+    \ describes new signal processing methods and the novel application of existing\
+    \ methods<br>\nto tackle the problems that hinder the non-destructive surface\
+    \ wave methods.<br>\nThe spectral convolution method proposed in this thesis,\
+    \ based on the simultaneous exploitation of<br>\nthe vertical and the horizontal\
+    \ components of a seismic event, improved the resolution and the overall<br>\n\
+    accuracy of the spectral image in the frequency-wavenumber (f-k) domain. Hence,\
+    \ it led to more<br>\naccurate seismic inversion by reducing the amount of uncertainty\
+    \ coming from a seismic survey.<br>\nThis research investigated the use of this\
+    \ new proposed method in soils and asphalts for the measurement of surface wave\
+    \ dispersion through conceptual analysis and numerical investigation<br>\nalongside\
+    \ experimental investigation on soil and asphalt.<br>\nThe application of spectral\
+    \ wave methods and the transformation of the wavefield into the frequencywavenumber<br>\n\
+    domain allowed the identification of the position and the extension of vertical\
+    \ defects.<br>\nThe joint use of the Multichannel Analysis of Surface Waves and\
+    \ the Multiple Impact of Surface<br>\nWaves methods in numerical and experimental\
+    \ investigations presented in this thesis proved to be<br>\neffective for crack\
+    \ detection and sizing. Moreover, the space-normalised seismogram helped in the<br>\n\
+    interpretation of f-k spectra for cracks detection.<br>\nHere, the wave decomposition\
+    \ method for crack interrogation consisted of a signal processing<br>\nalgorithm\
+    \ capable of computing the direct and reflected waves\u2019 amplitudes and phase\
+    \ angles from<br>\nthe signals of a deployment of sensors. It solved linear systems\
+    \ with a number of measurements much<br>\nbigger than the number of unknowns.\
+    \ It tackled the measurement errors naturally present in<br>\nexperimental data\
+    \ by finding a least square approximate solution with the help of the pseudo-inverse<br>\n\
+    matrix for overdetermined systems. The results coming from numerical simulations\
+    \ and experimental<br>\ninvestigations showed the effectiveness of the wave decomposition\
+    \ method for the assessment of the<br>\nlocation and of the depth of surface-breaking\
+    \ cracks in the half-space and in layered systems.<br>\nContrary to other techniques,\
+    \ it was able to cope with the heterogeneities and the dispersive nature<br>\n\
+    of layered system, thus making possible to detect and assess the depth of surface-breaking\
+    \ cracks in<br>\nroads."
+  keywords:
+    default:
+      keywords:
+        subject: crack detection
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-01-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1219273
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1219272
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Michele-Iodice:
+    individualname: Michele Iodice
+    role: creator
+  Iodice-Michele:
+    individualname: Iodice, Michele
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30603
+  dataseturi: https://doi.org/10.5281/zenodo.30603
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Soil Liming On European Beech (Fagus Sylvatica L.) And Sycamore
+    Maple (Acer Pseudoplatanus L.) Plantations
+  abstract: "Support of European beech (Fagus sylvatica L.) and sycamore maple (Acer\
+    \ pseudoplatanus L.) plantations by amelioration has been tested in air-polluted\
+    \ sites in the mountains since 1993. The research locality is a site with humic<br>\n\
+    podzol soils at an altitude of 960 m a.s.l. Dolomitic limestone (1 kg per tree)\
+    \ was mixed with soil used for planting tree seedlings. According to the results\
+    \ of a 15-year investigation (1993\u2013 2008), liming had a positive effect on\
+    \ beech<br>\ntree growth, while the positive effect of liming on tree growth was\
+    \ temporary in the case of sycamores. Ca content was higher in the limed beech\
+    \ plantations throughout the observation period. Soil analyses (sampled in 2002)\
+    \ showed<br>\nthat the application of dolomitic limestone influenced soil conditions\
+    \ markedly in terms of increased pH. The pH values measured in H2O increased from\
+    \ 4.9 to 6.2 for beeches and from 4.3 to 6.1 for sycamores."
+  keywords:
+    default:
+      keywords:
+        subject: soil amelioration
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-07-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30603
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Balcar-Vratislav:
+    individualname: Balcar, Vratislav
+    role: creator
+    organization: Forestry and Game Management Research Institute, Forest Research
+      Station at Opocno, Na Olive 550, 517 73 Opocno, Czech Republic
+    url: ''
+  Kacalek-Dusan:
+    individualname: "Kac\xE1lek, Du\u0161an"
+    role: creator
+    organization: Forestry and Game Management Research Institute, Forest Research
+      Station at Opocno, Na Olive 550, 517 73 Opocno, Czech Republic
+    url: ''
+  Kunes-Ivan:
+    individualname: "Kune\u0161, Ivan"
+    role: creator
+    organization: "Czech University of Life Sciences, Faculty of Forestry and Wood\
+      \ Sciences, Kamycka 129, 165 21 Praha 6 \u2013 Suchdol, Czech Republic"
+    url: ''
+  Dusek-David:
+    individualname: "Du\u0161ek, David"
+    role: creator
+    organization: Forestry and Game Management Research Institute, Forest Research
+      Station at Opocno, Na Olive 550, 517 73 Opocno, Czech Republic
+    url: ''
+content_info: {}

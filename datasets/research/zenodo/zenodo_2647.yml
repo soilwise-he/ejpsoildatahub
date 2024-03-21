@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6375716
+  dataseturi: https://doi.org/10.5281/zenodo.6375716
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Long-term manipulation of mean climatic conditions alters drought effects
+    on C- and N-cycling in an arable soil
+  abstract: We provide datasets of microbial biomass C and N, Nmin, EOC, Ergosterol,
+    enzyme activities, vol. and grav. soil moisture contents, soil temperature, and
+    CO2 as well as N2O fluxes gathered during our drought experiment in June/July
+    2019.
+  keywords:
+    default:
+      keywords:
+        subject: temperate agroecosystem
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6375716
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5220799
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Leyrer-Vinzent:
+    individualname: Leyrer, Vinzent
+    role: creator
+    organization: University of Hohenheim
+    url: https://orcid.org/0000-0001-5568-409X
+  Patulla-Marina:
+    individualname: Patulla, Marina
+    role: creator
+    organization: University of Hohenheim
+    url: ''
+  Hartung-Jens:
+    individualname: Hartung, Jens
+    role: creator
+    organization: University of Hohenheim
+    url: ''
+  Marhan-Sven:
+    individualname: Marhan, Sven
+    role: creator
+    organization: University of Hohenheim
+    url: https://orcid.org/0000-0002-8954-5968
+  Poll-Christian:
+    individualname: Poll, Christian
+    role: creator
+    organization: University of Hohenheim
+    url: https://orcid.org/0000-0002-9674-4447
+content_info: {}

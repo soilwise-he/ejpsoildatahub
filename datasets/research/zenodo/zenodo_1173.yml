@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7780737
+  dataseturi: https://doi.org/10.5281/zenodo.7780737
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Prediction of Crop Yield Based-on Soil Moisture using Machine Learning Algorithms
+  abstract: Agriculture planning is playing an important role as the economic growth
+    is very high day by day in our daily life. There is lot of research study going
+    on as there are few important issues like soil nutrients, crop prediction, farming
+    system, crop monitoring in agriculture with modern farming system. Based on various
+    parameters, farming issues and farming system, there is lot of change in production
+    rate and market prices. Crop prediction and crop monitoring is main factor to
+    produce good quality of crops for farmers to predict crop yield based on soil
+    moisture. Prediction of crop yield includes forecasting factors like temperature,
+    humidity, rainfall, etc., and crop yield based on soil moisture includes few measures
+    like pH, NPK (Nitrogen, Phosphorous and potassium) values using various sensors.
+    Farmers can predict or come to a decision the type of soil moisture values, farmers
+    can decide the type of crop to be planted. In this paper, we proposed decision
+    tree supervised machine learning algorithm to improve our results for the prediction
+    of crop yield based on soil moisture parameters to achieve economic growth for
+    achievement of better results.
+  keywords:
+    default:
+      keywords:
+        subject: Prediction
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7780737
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7780736
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahesh-T-R:
+    individualname: Mahesh T R
+    role: creator
+  Sindhu-Madhuri-G:
+    individualname: Sindhu Madhuri G
+    role: creator
+    organization: Department of Computer Science and Engineering, JAIN (Deemed-to-be
+      University), Bangalore, India
+    url: ''
+  R-Mahesh-T:
+    individualname: R, Mahesh T
+    role: ''
+    organization: Department of Computer Science and Engineering, JAIN (Deemed-to-be
+      University), Bangalore, India
+    url: ''
+content_info: {}

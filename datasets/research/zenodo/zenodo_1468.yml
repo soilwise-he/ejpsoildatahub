@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5638070
+  dataseturi: https://doi.org/10.5281/zenodo.5638070
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: HF-free microwave assisted dissolution of soil samples for quantitative assessment
+    of potassium
+  abstract: "Department of Environmental Science, University of Calcutta, 35, Ballygunge\
+    \ Circular Road,<br> Kolkata-700 019, India<br> Saha Institute of Nuclear Physics,\
+    \ 1/AF, Bidhannagar, Kolkata-700 064, India<br> <em>E-mail</em> : susanta.lahiri@saha.ac.in\
+    \ HF-free microwave assisted soil dissolution method has been developed for potassium\
+    \ analysis using HNO<sub>3</sub> and HClO<sub>4</sub>. The developed method will\
+    \ be helpful for K analysis by AAS, ICP-OES or ICP-MS. Twelve soil samples were\
+    \ subjected to digestion in microwave digester for extracting out potassium. Even\
+    \ after vigorous digestion, about 20% residue was observed. It has been confirmed\
+    \ by \u03D3-spectrometry with the help of highly shielded high-purity Germanium\
+    \ (HPGe) detector that the residue does not contain any <sup>40</sup>K, which\
+    \ in turn suggests that the total K has been transferred to the solution."
+  keywords:
+    default:
+      keywords:
+        subject: 40K
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5638070
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5638069
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nabanita-Naskar:
+    individualname: Nabanita Naskar
+    role: creator
+    organization: ''
+    url: ''
+  Susanta-Lahiri:
+    individualname: Susanta Lahiri
+    role: creator
+    organization: ''
+    url: ''
+  Punarbasu-Chaudhuri:
+    individualname: Punarbasu Chaudhuri
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

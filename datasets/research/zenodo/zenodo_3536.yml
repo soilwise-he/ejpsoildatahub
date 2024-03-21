@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2655351
+  dataseturi: https://doi.org/10.5281/zenodo.2655351
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction of Soil Liquefaction by Using  UBC3D-PLM Model in PLAXIS
+  abstract: Liquefaction is a phenomenon in which the strength and stiffness of a
+    soil is reduced by earthquake shaking or other rapid cyclic loading. Liquefaction
+    and related phenomena have been responsible for huge amounts of damage in historical
+    earthquakes around the world. Modelling of soil behaviour is the main step in
+    soil liquefaction prediction process. Nowadays, several constitutive models for
+    sand have been presented. Nevertheless, only some of them can satisfy this mechanism.
+    One of the most useful models in this term is UBCSAND model. In this research,
+    the capability of this model is considered by using PLAXIS software. The real
+    data of superstition hills earthquake 1987 in the Imperial Valley was used. The
+    results of the simulation have shown resembling trend of the UBC3D-PLM model.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-02-27'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2655351
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2655350
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Daftari:
+    individualname: A. Daftari
+    role: creator
+    organization: ''
+    url: ''
+  W.-Kudla:
+    individualname: W. Kudla
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

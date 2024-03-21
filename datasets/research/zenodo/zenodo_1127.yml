@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jackson_2001
+  dataseturi: https://doi.org/10.1109/36.898677
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Multiple resolution analysis of L-band brightness temperature for soil moisture
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Multiple resolution analysis of L-band brightness temperature for soil moisture
+    url: http://dx.doi.org/10.1109/36.898677
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jackson-T.-J.:
+    individualname: Jackson, T. J.
+    role: creator
+  Jackson-T.J.:
+    individualname: Jackson, T.J.
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

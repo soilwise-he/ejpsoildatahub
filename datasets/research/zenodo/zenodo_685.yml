@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SCHOLLENBERGER_1921
+  dataseturi: https://doi.org/10.1097/00010694-192104000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: LIME REQUIREMENT AND REACTION OF LIME MATERIALS WITH SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: LIME REQUIREMENT AND REACTION OF LIME MATERIALS WITH SOIL
+    url: http://dx.doi.org/10.1097/00010694-192104000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schollenberger-C.-J.:
+    individualname: Schollenberger, C. J.
+    role: creator
+  SCHOLLENBERGER-C.-J.:
+    individualname: SCHOLLENBERGER, C. J.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Skalsk__2024
+  dataseturi: https://doi.org/10.1016/j.envc.2023.100816
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Regional topsoil organic carbon content in the agricultural soils of Slovakia
+    and its drivers, as revealed by the most recent national soil monitoring data
+  abstract: '&lt;p&gt;Soil organic carbon (SOC) is a primary constituent of soil organic
+    matter and plays an important role in the regulation of many soil processes, including
+    greenhouse gas emissions. Recently, SOC also became an indicator for monitoring
+    climate change mitigation policies in the agricultural sector. The availability
+    of up-to-date SOC inventories is thus crucial in terms of supporting SOC&ndash;related
+    actions at country or sub-country scales. Currently, the National Monitoring System
+    of the Agricultural Soils of Slovakia (CMS-P), whose network of 318 monitoring
+    sites was last surveyed in 2018, is the only available source of up-to-date topsoil
+    SOC data for agricultural land in Slovakia. Although very useful at the national
+    scale, the number of CMS-P observations it contains is too limited for much needed
+    sub-national SOC inventories. We hypothesized that with the aid of well-chosen
+    macro-scale drivers of topsoil SOC accumulation in agricultural land in Slovakia,
+    and by mapping those drivers geographically, we could upscale the CMS-P observations
+    and produce a regional estimate of topsoil SOC. Altitude, land cover, topsoil
+    texture, and soil type were assumed to be the key factors controlling topsoil
+    SOC accumulation in Slovakia, and based on these, the country was classified into
+    14 macro-scale geographical regions. Typical ranges and mid-class values of 0&ndash;30cm
+    topsoil SOC concentrations (%) and stocks (t ha&lt;sup&gt;&minus;1&lt;/sup&gt;)
+    were calculated for each macro-scale region from CMS-P data. The average topsoil
+    SOC content in agricultural land was estimated to be 2.13% (72.9 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;).
+    The highest topsoil SOC stock (&gt; 90 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;) was
+    estimated for the lowlands of Slovakia, and the lowest (&lt; 50 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;)
+    for the shallow and stony soils of mountain regions. When aggregated to 78 administrative
+    regions at LAU1 level, the area-weighted averages ranged between 39.20 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;and
+    80.0 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;, with the highest values (&gt; 65 t ha&lt;sup&gt;&minus;1&lt;/sup&gt;)
+    being in LAU1 regions in the south-west, south-east, and north of Slovakia where
+    arable land is most prevalent. Total SOC storage in 0&ndash;30cm topsoil of agricultural
+    land in Slovakia was estimated at 118.39 Mt, with two-thirds of this amount stored
+    in arable soils in 33 south-west, south-east, and south LAU1 administrative regions.
+    As there is no alternative and up-to-date dataset on topsoil SOC content in Slovakia,
+    the upscaling algorithm presented in this study is an important step toward utilizing
+    CMS-P data for sub-national SOC inventories. It may also offer a new way of providing
+    inputs to help predict future or alternative regional topsoil SOC accumulation
+    trajectories in Slovakian agricultural land using process-based or statistical
+    models.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Regional topsoil organic carbon content in the agricultural soils of Slovakia
+      and its drivers, as revealed by the most recent national soil monitoring data
+    url: http://dx.doi.org/10.1016/j.envc.2023.100816
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Skalsky-Rastislav:
+    individualname: "Skalsk\xFD, Rastislav"
+    role: creator
+  Barancikova-Gabriela:
+    individualname: "Baran\u010D\xEDkov\xE1, Gabriela"
+    role: creator
+  Makovnikova-Jarmila:
+    individualname: "Makovn\xEDkov\xE1, Jarmila"
+    role: creator
+  Koco-Stefan:
+    individualname: "Koco, \u0160tefan"
+    role: creator
+  Halas-Jan:
+    individualname: "Halas, J\xE1n"
+    role: creator
+  Kobza-Jozef:
+    individualname: Kobza, Jozef
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

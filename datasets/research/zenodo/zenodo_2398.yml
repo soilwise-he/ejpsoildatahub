@@ -1,0 +1,123 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kryshtopa_2019
+  dataseturi: https://doi.org/10.15587/1729-4061.2019.175892
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Improvement of the model of forecasting heavy metals of exhaust gases of
+    motor vehicles in the soil
+  abstract: "&lt;p&gt;Consideration of the problem of modeling the penetration of\
+    \ heavy metals of exhaust gases of automobile engines is carried out for the soil\
+    \ with permeability coefficient c&lt;sub&gt;p&lt;/sub&gt;&nbsp;and diffusion coefficient\
+    \ D. As a result of mathematical modeling, an exponential equation is obtained,\
+    \ the input variables for which are the surface concentration of harmful components\
+    \ c, permeability coefficient c&lt;sub&gt;p&lt;/sub&gt;, diffusion coefficient\
+    \ D and soil depth l. The output variables for the obtained exponential equation\
+    \ is the concentration of harmful components C&lt;sub&gt;1&lt;/sub&gt;&nbsp;at\
+    \ a depth l.&lt;/p&gt;\n\n&lt;p&gt;According to the obtained equation, the depth\
+    \ of penetration of heavy metals into the soil &ndash; l is theoretically investigated,\
+    \ depending on the surface concentration \u0441&lt;sub&gt;1&lt;/sub&gt;\u02C2\u0441\
+    &lt;sub&gt;2&lt;/sub&gt;&nbsp;and at constant ratio c&lt;sub&gt;p&lt;/sub&gt;/D.\
+    \ As a result, the penetration depth of heavy metals increases, which is due to\
+    \ an increase in the driving force of the diffusion process. Having studied the\
+    \ effect of an increase in the c&lt;sub&gt;p&lt;/sub&gt;/D ratio on the penetration\
+    \ depth of heavy metals into the soil at constant surface concentrations c&lt;sub&gt;1&lt;/sub&gt;&nbsp;and\
+    \ c&lt;sub&gt;2&lt;/sub&gt;, a decrease in their penetration depth is found, which\
+    \ is due to a decrease in the diffusion process.&lt;/p&gt;\n\n&lt;p&gt;The obtained\
+    \ theoretical results are confirmed by experimental studies of the depth of penetration\
+    \ of heavy metals &ndash; exhaust gases of the ZMZ-511.10 petrol engine into the\
+    \ soil. It is found that the content of heavy metals in the soil at an arbitrary\
+    \ depth corresponds to theoretical calculations, and the discrepancy is within\
+    \ the measurement error. When measuring the lead concentration, the discrepancy\
+    \ is within 12.5&ndash;15&nbsp;%, zinc 5.5&ndash;7.5&nbsp;%, manganese 8.5&ndash;11&nbsp;%.\
+    \ So, the concentrations of heavy metals, measured at arbitrary depths, are 0.1\
+    \ and 0.2 m for lead; 0.1, 0.2 and 0.3 m for zinc; 0.1; 0.2 and 0.25 m for manganese.\
+    \ This indicates the validity of the results obtained by the exponential equation.\
+    \ Therefore, the proposed model provides high accuracy in determining the concentration\
+    \ of heavy metals in the soil and can be used for forecasting their penetration\
+    \ depth if the surface concentration is known&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - road transport
+      - fuel
+      - petrol
+      - exhaust gases
+      - heavy metals
+      - soil
+      - pollution forecasting
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Improvement of the model of forecasting heavy metals of exhaust gases of
+      motor vehicles in the soil
+    url: http://dx.doi.org/10.15587/1729-4061.2019.175892
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sviatoslav-Kryshtopa:
+    individualname: Sviatoslav Kryshtopa
+    role: creator
+  Vasyl-Melnyk:
+    individualname: Vasyl Melnyk
+    role: creator
+  Bogdan-Dolishnii:
+    individualname: Bogdan Dolishnii
+    role: creator
+  Volodymyr-Korohodskyi:
+    individualname: Volodymyr Korohodskyi
+    role: creator
+  Igor-Prunko:
+    individualname: Igor Prunko
+    role: creator
+  Liudmyla-Kryshtopa:
+    individualname: Liudmyla Kryshtopa
+    role: creator
+  Ihor-Zakhara:
+    individualname: Ihor Zakhara
+    role: creator
+  Tetiana-Voitsekhivska:
+    individualname: Tetiana Voitsekhivska
+    role: creator
+  Kryshtopa-Sviatoslav:
+    individualname: Kryshtopa, Sviatoslav
+    role: creator
+  Melnyk-Vasyl:
+    individualname: Melnyk, Vasyl
+    role: creator
+  Dolishnii-Bogdan:
+    individualname: Dolishnii, Bogdan
+    role: creator
+  Korohodskyi-Volodymyr:
+    individualname: Korohodskyi, Volodymyr
+    role: creator
+  Prunko-Igor:
+    individualname: Prunko, Igor
+    role: creator
+  Kryshtopa-Liudmyla:
+    individualname: Kryshtopa, Liudmyla
+    role: creator
+  Zakhara-Ihor:
+    individualname: Zakhara, Ihor
+    role: creator
+  Voitsekhivska-Tetiana:
+    individualname: Voitsekhivska, Tetiana
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

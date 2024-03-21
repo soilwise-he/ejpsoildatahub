@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: _zcebe_2022
+  dataseturi: https://doi.org/10.3390/infrastructures7080102
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seismic Vulnerability Assessment of Critical Port Infrastructure Components
+    by Modelling the Soil-Wharf-Crane Interaction
+  abstract: '&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper aims to investigate
+    the seismic vulnerability of key port infrastructure components by using the outcomes
+    of advanced numerical analysis. For the first time, to the best knowledge of the
+    authors, a pile-supported wharf structure, the soil deposits where the wharf lies,
+    and a crane typically operating on the wharf are numerically modelled as a combined
+    system. The starting point for building the numerical model is the main components
+    of strategic facilities at the port of Gioia Tauro (Italy), which is a strategic
+    hub for container traffic located in one of the most seismically active regions
+    of the Mediterranean Sea. Based on the results obtained from two-dimensional (2D)
+    dynamic analyses, fragility curves were developed for single port components and
+    the wharf-crane-soil system. A scenario-based seismic damage assessment was then
+    exemplified to compare the predictions resulting from the fragility model presented
+    in this work with the relevant data available in the literature. It turns out
+    that, besides some inevitable variations, expected damage percentages were in
+    general agreement. As the main contribution of this work, derived fragility curves
+    might be adopted as an effective tool for rapid evaluation of the seismic performance
+    of port components during the development of strategies for risk mitigation and
+    also the emergency management in case of an earthquake.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seismic Vulnerability Assessment of Critical Port Infrastructure Components
+      by Modelling the Soil-Wharf-Crane Interaction
+    url: http://dx.doi.org/10.3390/infrastructures7080102
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ozcebe-Ali-Guney:
+    individualname: "\xD6zcebe, Ali G\xFCney"
+    role: creator
+  Bozzoni-Francesca:
+    individualname: Bozzoni, Francesca
+    role: creator
+  Borzi-Barbara:
+    individualname: Borzi, Barbara
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

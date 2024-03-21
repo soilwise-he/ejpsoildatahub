@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8115876
+  dataseturi: https://doi.org/10.5281/zenodo.8115876
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Optimization of the production of Bioethanol from waste Newspaper using Yeast
+    isolate from Palm oil polluted soil
+  abstract: The high cost of bioethanol resulting from the uneconomical price of feedstocks
+    has led to the investigation of potential feedstocks from inedible substances
+    such as lignocellulosic materials including waste biomass. One of the problems
+    of producing bioethanol from waste biomass is low yield coupled with the high
+    cost of organic catalysts. The current work was geared towards optimizing the
+    concentration of bioethanol from the fermentation of waste newspapers using yeast
+    isolate from palm oil polluted soil. The optimization was conducted using Central
+    Composite Design in Design Expert software. The experimental parameters considered
+    included pH, inoculum size, incubation time and carbon:nitrogen ratio, and the
+    results obtained show that quadratic models best fitted bioethanol, yeast biomass
+    and reducing sugar experimental data. The interaction of inoculum size and incubation
+    time impacted most on the concentrations of the bioethanol, yeast biomass and
+    reducing sugar. The optimum concentrations of bioethanol (30.12 mg/mL), yeast
+    biomass (0.82 mg/mL) and reducing sugar (3.0 mg/mL) were obtained using operating
+    condition of pH (7), inoculum size (6 %), inocubation time (14 days) and carbon:nitrogen
+    ratio (52). The bioethanol being produced from waste feedstock, and yeast isolated
+    from palm oil polluted soil could be more economical than the conventional gasoline,
+    and the process developed could serve as a sustainable waste newspaper disposal
+    management.
+  keywords:
+    default:
+      keywords:
+        subject: Bioethanol; yeast, optimization; waste newspaper; palm oil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8115876
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8115875
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ifeanyichukwu-Edeh:
+    individualname: Ifeanyichukwu Edeh
+    role: creator
+    organization: Department of Chemical Engineering, University of Port Harcourt,
+      Nigeria
+    url: ''
+  Obinna-Ezeibe:
+    individualname: Obinna Ezeibe
+    role: creator
+    organization: Department of Chemical Engineering, UniveDepartment of Chemical
+      Engineering, University of Port Harcourt, Nigeriarsity of Port Harcourt, Nigeria
+    url: ''
+content_info: {}

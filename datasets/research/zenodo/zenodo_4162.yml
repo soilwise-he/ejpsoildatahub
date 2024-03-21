@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2551238
+  dataseturi: https://doi.org/10.5281/zenodo.2551238
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application of a laser-based spectrometer for continuous insitu measurements
+    of stable isotopes of soil CO2 in calcareous and acidic soils (Data set)
+  abstract: Data set
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2551238
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2551237
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jobin-Joseph:
+    individualname: Jobin Joseph
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

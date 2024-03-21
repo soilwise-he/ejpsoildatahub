@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7591556
+  dataseturi: https://doi.org/10.5281/zenodo.7591556
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Appraisal of discrepancies of soil salinity between the southeastern and
+    southwestern coastal regions of Bangladesh
+  abstract: Bangladesh is a miniature country having an area of about 148,460 km2
+    where the coastal area covers about 20% of the country and 30% of the net tillable
+    area. The coast of Bangladesh is broadly divided into the deltaic eastern, deltaic
+    central, and stable deltaic western regions respectively. The principal motive
+    of this paper is to assimilate the soil salinity level between the eastern and
+    western coastal regions and also between two divisions of the western coastal
+    region and to detect and also exhibit the reason why the western coastal region
+    has a larger scale salinity level than the eastern coastal region. Datasets have
+    been collected from the Soil Resource Development Institute (SRDI), Department
+    of Environment (DOE), Water Resources Planning Organization (WARPO), Bangladesh
+    Water Development Board (BWDB), and MS Excel and ArcGIS techniques have been used
+    to accomplish necessary calculations and datasets. According to the Soil Resource
+    Development Institute (SRDI), Soil Salinity report of 2010, an analogy between
+    the soil salinity class of diverse Upazilas of the western coastal region (mainly
+    most of Khulna and Barisal Division) and eastern coastal region (mainly several
+    districts of Chittagong Division) can be detected according to Sodium Absorption
+    Ratio (SAR) values. Soil salinity can be mainly divided into five categories like
+    very slightly saline (S1), slightly saline (S2), moderate saline (S3), high saline
+    (S4), and extremely high saline (S5) soils. Barisal region comprises the highest
+    S1 and S2 soil salinity category with an area of 166510 ha and 112540 ha respectively
+    and the Khulna region contains the highest S3, S4, and S5 salinity class with
+    an area of 94650 ha, 85210 ha, and 68390 ha respectively. According to the Soil
+    Resource Development Institute (SRDI) report of 2010, an analogy of soil salinity
+    between 1973, 2000, and 2010 in the coastal area can be unearthed and from the
+    attained data it can be uttered that Barisal and Khulna region contains the highest
+    S1 and S2 soil salinity category. S1 soil salinity area has incremented for Khulna
+    (from 48.70 ha in 1973 to 110.38 ha in 2009) but has decremented for Chittagong
+    (from 44.4 ha in 1973 to 40.41 ha in 2000) and Barisal Region (from 194.47ha in
+    1973 to 138.4 ha in 2000) from 1973 to 2000. According to Soil Resource Development
+    Institute (SRDI) Annual Report 2017-2018, some graphical datasets comprising electrical
+    conductivity depending upon months from 2014- 2018 can be found for the Khulna
+    region, and also datasets containing electrical conductivity from 2017-2018 can
+    be found for Chittagong region. From these data, it can be detected that various
+    Upazilas of the Khulna region like Batiaghata (Krishnanagar), Dumuria, Batiaghata
+    (Fultala), and Mongla contain the highest electrical conductivity of 9.7 ds/m
+    (April 2014), 10 ds/m (May 2017), 10 ds/m (May 2017), 22.5 ds/m (April 2016) respectively,
+    where various districts of Chittagong region contain the highest electrical conductivity
+    much lesser than the Khulna region like Shitakunda and Bashkhali have the highest
+    electrical conductivity of 15.9 ds/m (March 2018) and 9.4 ds/m (March 2018) respectively
+    but these values are much lesser than the electrical conductivity of Mongla region.
+    And also, it can be found from the available data that peak electrical conductivity
+    of soil in the Khulna region can be found mostly in April/May but in the Chittagong
+    region it can be found mostly in February/March. In this paper, different processes
+    have been demonstrated to mitigate soil salinity, and also some conceptual descriptions
+    have been given about salinity-resistant crops.
+  keywords:
+    default:
+      keywords:
+        subject: Sodium Absorption Ratio.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7591556
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7591555
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Farin-Tasnuva-Dhara:
+    individualname: Farin Tasnuva Dhara
+    role: creator
+    organization: Undergraduate Student, Department of Civil Engineering, Khulna University
+      of Engineering & Technology, Khulna, Bangladesh.
+    url: ''
+  Arafatul-Alam:
+    individualname: Arafatul Alam
+    role: creator
+    organization: Undergraduate Student, Department of Civil Engineering, Khulna University
+      of Engineering & Technology, Khulna, Bangladesh.
+    url: ''
+  Sarmista-Nandi-Satu:
+    individualname: Sarmista Nandi Satu
+    role: creator
+    organization: Undergraduate Student, Department of Civil Engineering, Khulna University
+      of Engineering & Technology, Khulna, Bangladesh.
+    url: ''
+content_info: {}

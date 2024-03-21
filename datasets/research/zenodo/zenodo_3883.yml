@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1332260
+  dataseturi: https://doi.org/10.5281/zenodo.1332260
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Pollution Induced Community Tolerance(Pict) Of Microorganisms In Soil Incubated
+    With Different Levels Of Pb
+  abstract: "Soil microbial activity is adversely affected by pollutants such as heavy\
+    \ metals, antibiotics and pesticides. Organic amendments including sewage sludge,\
+    \ municipal compost and vermicompost are recently used to improve soil structure\
+    \ and fertility. But, these materials contain heavy metals including Pb, Cd, Zn,\
+    \ Ni and Cu that are toxic to soil microorganisms and may lead to occurrence of\
+    \ more tolerant microbes. Among these, Pb is the most abundant and has more negative\
+    \ effect on soil microbial ecology. In this study, Pb levels of 0, 100, 200, 300,\
+    \ 400 and 500 mg Pb [as Pb(NO3)2] per kg soil were added to the pots containing\
+    \ 2 kg of a loamy soil and incubated for 6 months at 25\xB0C with soil moisture\
+    \ of - 0.3 MPa. Dehydrogenase activity of soil as a measure of microbial activity\
+    \ was determined on 15, 30, 90 and 180 days after incubation. Triphenyl tetrazolium\
+    \ chloride (TTC) was used as an electron acceptor in this assay. PICTs (\u20AC\
+    IC50 values) were calculated for each Pb level and incubation time. Soil microbial\
+    \ activity was decreased by increasing Pb level during 30 days of incubation but\
+    \ the induced tolerance appeared on day 90 and thereafter. During 90 to 180 days\
+    \ of incubation, the PICT was gradually developed by increasing Pb level up to\
+    \ 200 mg kg-1, but the rate of enhancement was steeper at higher concentrations."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-12-20'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1332260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1332259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-Aliasgharzad:
+    individualname: N. Aliasgharzad
+    role: creator
+    organization: ''
+    url: ''
+  A.-Molaei:
+    individualname: A. Molaei
+    role: creator
+    organization: ''
+    url: ''
+  S.-Oustan:
+    individualname: S. Oustan
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

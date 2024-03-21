@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wibowo_2023
+  dataseturi: https://doi.org/10.21303/2461-4262.2023.002810
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Critical stress evaluation of rigid pavement due to the presence of water
+    in expansive soil subgrade
+  abstract: The use of various types of rigid pavement is widespread because of its
+    superiority in resisting heavy load vehicles. However, traffic loading complexity
+    and subgrade response cause uncertainty during the design process. The presence
+    of water in expansive soil issue swelling affected the flexural behavior of a
+    rigid pavement slab. Rigid pavement relies heavily on the support and stability
+    of the subgrade. Plain concrete is very weak in resisting tensile stresses so
+    that the failure of rigid pavement slab structures often occurs in the expansive
+    subgrade zone. Therefore, this study aims to numerically analyze the relationship
+    between variations in the thickness of rigid pavement slabs on the flexural behavior
+    parameters, such as critical and tensile stresses that affected water in expansive
+    soil. The concrete's performance limit was determined, using its material's constitutive
+    equation curve, and the data were analyzed using the finite element method. The
+    results showed that the presence of water in expansive soil caused a change in
+    soil volume (swelling), a reduction in soil bearing capacity (shrinking), and
+    consequently, a rigid pavement cracked due to water variations in the subgrade.
+    Generally, increasing the thickness of rigid pavement is a common method for mitigating
+    the detrimental effects of expansive soil swelling. It is possible to provide
+    reinforcement in other forms, which provide an opportunity to improve the performance
+    of the concrete slab as a rigid pavement. For example, stabilization of expansive
+    soil with materials capable of reducing its expansive power can be done but it
+    requires large resources to realize it. Another method is to provide reinforcement
+    to the rigid pavement slab structure, so that the rigid pavement slab is able
+    to withstand traffic loads and also the expansion and shrinkage behavior of the
+    expansive soil
+  keywords:
+    default:
+      keywords:
+      - critical stresses
+      - expansive soil
+      - finite element
+      - pavement
+      - plain concrete
+      - shrinking
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Critical stress evaluation of rigid pavement due to the presence of water
+      in expansive soil subgrade
+    url: http://dx.doi.org/10.21303/2461-4262.2023.002810
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wibowo-Wibowo:
+    individualname: Wibowo, Wibowo
+    role: creator
+  Setyawan-Ary:
+    individualname: Setyawan, Ary
+    role: creator
+  Purwana-Yusep-Muslih:
+    individualname: Purwana, Yusep Muslih
+    role: creator
+  Setiawan-Bambang:
+    individualname: Setiawan, Bambang
+    role: creator
+  OU-Scientific-Route:
+    individualname: OU Scientific Route
+    role: creator
+content_info: {}

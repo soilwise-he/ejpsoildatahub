@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3633586
+  dataseturi: https://doi.org/10.5281/zenodo.3633586
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Changing of Soil Reaction and Exchangeable Aluminum on two Different
+    Soil Order due to Dolomite Application
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>The objective\
+    \ of the experiment was to know the effect of Dolomite application on soil reaction\
+    \ and exchangeable Aluminum in two different soil orders. The method was experimental\
+    \ using Factorial Randomized Block Design, which consists of two Factors. The\
+    \ First factor were soil orders consist two levels, i.e. T1= Ultisols Kentrong,\
+    \ dan T2 = Inseptisols Jatinangor, while the second were dolomite dosages, consist\
+    \ four levels, i.e. dO = 0 ton</em><em> ha<sup>-1</sup>, d1 = 1 ton ha<sup>-1</sup>,\
+    \ d2 = 2 ton ha<sup>-1</sup>, d3 = 3 ton ha<sup>-1</sup>, d4 = 4 ton ha<sup>-1</sup>.The\
+    \ result of the experiment showed that on Ultisols Kentrong, dolomite applications\
+    \ significantly increased the value of soil reaction (pH) after two weeks incubation.\
+    \ The treatment of 3 ton/ha showed pH 4.73 or 8 % higher that control. Otherwise,\
+    \ the applications of dolomite also decreased the exchangeable Aluminum. The treatment\
+    \ of 3 ton/ha showed value 7.01 of exchangeable aluminum or 21 % lower than control.\
+    \ In Inceptisols Jatinangor, dolomite applications increased the value of soil\
+    \ reaction (pH) after two weeks incubation and the treatment of 3 tonha<sup>-1</sup>showed\
+    \ pH 5.83 or 11 % higher than control. Otherwise, the application of dolomite\
+    \ decreased the exchangeable aluminum although were not significantly different\
+    \ for that parameters in this soil order. Based on statistical analysis, it proved\
+    \ that liming unable applied effectively on whole soil types or orders due to\
+    \ its relation with the level of soil acidity.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3633586
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3633585
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dani-Lukman-Hakim:
+    individualname: Dani Lukman Hakim
+    role: creator
+  Shantosa-Yudha-Siswanto:
+    individualname: Shantosa Yudha Siswanto
+    role: creator
+    organization: ''
+    url: ''
+  Hakim-Dani-Lukman:
+    individualname: Hakim, Dani Lukman
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

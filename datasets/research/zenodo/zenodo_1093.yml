@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6298847
+  dataseturi: https://doi.org/10.5281/zenodo.6298847
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Exchange Behaviour of Coen 33+ on Soil and Peat Humic Acids
+  abstract: "Department of Chemistry, North Bengal University, Darjeeling-734 430<br>\
+    \ <em>Manuscript recemed 4 March 1986, accepted 12 August 1986</em> The exchange\
+    \ behaviour of Coen\\(_8^8\\)<sup>+</sup> on soil and peat humic acids (SHA and\
+    \ PHA) shows that the exchange isotherms resemble Langmuir type of curves and\
+    \ the uptake of this complex ion depends on pH. At lower pH, stronger acidic groups,\
+    \ <em>e.g. </em>COOH group predominantly participate in the interactions. The\
+    \ release isotherms obtained by using different electrolytes display the order\
+    \ of reactivity, Li&lt;Na&lt;K&lt;Rb&lt;Cs&lt;&lt; H for the monovalent. mg&lt;\
+    \ Ca &lt;Sr &lt;Ba for the bivalent, and (CH<sub>3</sub>)<sub>4</sub>N&lt;(C<sub>2</sub>H<sub>5</sub>)N\
+    \ for the organic cations. The exchange isotherms with monovalent cations exhibit\
+    \ that the exchange processes take place in three stages. By using Kielland's\
+    \ equa\xADtion, thermodynamic equilibrium constants and Gibbs free energy change\
+    \ for exchange reactions involving bivalent cations have been computed. log of\
+    \ corrected selectivity coefficients or thermodynamic equilibrium cons\xADtants\
+    \ have been plotted against hydrated ionic radii and the reciprocals of Debye-Huckel\
+    \ parameter \u03B1\xB0. The plots suggest that the relative affinities of the\
+    \ counter ions for the exchanger substrates are much better correlated with \u03B1\
+    \xB0 rather than with ionic radii."
+  keywords:
+    default:
+      keywords:
+        subject: Humic Acids
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1986-10-31'
+    publication: '1986'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6298847
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6298846
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.-K.-PAL:
+    individualname: U. K. PAL
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-CHAKRAVARTI:
+    individualname: S. K. CHAKRAVARTI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

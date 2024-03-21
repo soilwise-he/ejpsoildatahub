@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2650459
+  dataseturi: https://doi.org/10.5281/zenodo.2650459
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The effect of siliceous minerals and composites on their basis on allelopathic
+    regime of soil under 30-year old plantations of apple and peach trees
+  abstract: "<strong>Objective </strong>\u2013 to study the effect of the application\
+    \ of siliceous minerals and organomineral mixtures on their basis to improve allelopathic\
+    \ regime of the rhizosphere soil under 30-year apple and peach trees in the model\
+    \ laboratory experiments.\n\n<strong>Material and methods. </strong>The object\
+    \ of the study is the rhizosphere soil collected from under the 30-year-old apple\
+    \ and peach trees of the collections of M.M. Gryshko National Botanical Garden\
+    \ of the NAS of Ukraine at the phase of bud formation. Siliceous minerals and\
+    \ mixtures based on them were applied at a concentration of 1 : 1000 and incubated\
+    \ in the soil for 5 months. Before the experiments started, the content of nutrients,\
+    \ humus and pH of soil solution had been determined. During the incubation period,\
+    \ the allelopathic activity of the soil was determined every two weeks by direct\
+    \ bioassay technique. The content of free phenolic compounds in the soil solution\
+    \ was analyzed after 14 and 104 days after the start of the experiment. Statistical\
+    \ analysis was conducted using the programs Statistica 10.0 and Microsoft Excel\
+    \ 7.0.\n\n<strong>Results</strong>. It was established that all investigated minerals\
+    \ and mixtures on their basis contributed to the reduction of phytotoxicity of\
+    \ the soil and the content of free phenolic compounds in the soil solution. The\
+    \ effect size positively correlated with the term of their incubation in the soil.\
+    \ The mixture of peat with tripoli in the ratio of 70 : 30 was the most effective\
+    \ in improving the allelopathic regime of soil from under the old apple and peach\
+    \ plantings.\n\n<strong>Conclusion</strong>. The prospects of application of siliceous\
+    \ minerals mixed with peat and sapropel to overcome allelopathic soil sickness\
+    \ in 30-year-old apple and peach plantings have been shown."
+  keywords:
+    default:
+      keywords:
+        subject: allelopathic soil sickness
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2019-03-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2650459
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2650458
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.P.-Didyk:
+    individualname: N.P. Didyk
+    role: creator
+    organization: ''
+    url: ''
+  B.O.-Ivanytska:
+    individualname: B.O. Ivanytska
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

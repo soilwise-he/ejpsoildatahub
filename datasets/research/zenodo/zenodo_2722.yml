@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4785044
+  dataseturi: https://doi.org/10.5281/zenodo.4785044
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Predicted mean soil depth of water uptake differs among crop species but
+    does not change with increased crop diversity
+  abstract: Water is a limiting resource in crop production and with the prediction
+    that drought events increase in frequency and severity, drought-resilient crop
+    production is one major challenge to ensure food security. Intercropping of different
+    crop species, which show differences in hydrological niches, is one solution to
+    reduce competition for water. In this study, the soil depth of water uptake of
+    different crop species was investigated and how these water uptake patterns change
+    with increasing crop diversity. Stable isotope analyses of soil and plant water
+    was used to predict mean soil depth of water uptake of the different crop species.
+    Results show that soil depth of water uptake differs among crop species but is
+    not changed by crop diversity. The choice of intercrops with distinguishable hydrological
+    niches can be important in water-limited crop production.
+  keywords:
+    default:
+      keywords:
+        subject: Drought resilience; intercropping; mixed cropping; stable hydrogen
+          isotopes; water use
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-02-22'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4785044
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4785043
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schmutz-Anja:
+    individualname: Schmutz, Anja
+    role: creator
+    organization: "ETH Z\xFCrich"
+    url: https://orcid.org/0000-0001-5474-8709
+  Schob-Christian:
+    individualname: "Sch\xF6b, Christian"
+    role: creator
+    organization: "ETH Z\xFCrich"
+    url: https://orcid.org/0000-0003-4472-2286
+content_info: {}

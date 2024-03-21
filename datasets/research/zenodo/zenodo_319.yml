@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: See_Too_2017
+  dataseturi: https://doi.org/10.1099/ijsem.0.001721
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Planococcus versutus sp. nov., isolated from soil
+  abstract: 'See-Too, Wah-Seng, Ee, Robson, Madhaiyan, Munusamy, Kwon, Soon-Wo, Tan,
+    Jia Yi, Lim, Yan Lue, Convey, Peter, Pearce, David A., Yin, Wai Fong, Chan, Kok-Gan
+    (2017): Planococcus versutus sp. nov., isolated from soil. International Journal
+    of Systematic and Evolutionary Microbiology 67 (4): 944-950, DOI: 10.1099/ijsem.0.001721,
+    URL: http://dx.doi.org/10.1099/ijsem.0.001721'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Insecta
+      - Hemiptera
+      - Pseudococcidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Planococcus versutus sp. nov., isolated from soil
+    url: http://dx.doi.org/10.1099/ijsem.0.001721
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  See-Too-Wah-Seng:
+    individualname: See-Too, Wah-Seng
+    role: creator
+  Ee-Robson:
+    individualname: Ee, Robson
+    role: creator
+  Madhaiyan-Munusamy:
+    individualname: Madhaiyan, Munusamy
+    role: creator
+  Kwon-Soon-Wo:
+    individualname: Kwon, Soon-Wo
+    role: creator
+  Tan-Jia-Yi:
+    individualname: Tan, Jia Yi
+    role: creator
+  Lim-Yan-Lue:
+    individualname: Lim, Yan Lue
+    role: creator
+  Convey-Peter:
+    individualname: Convey, Peter
+    role: creator
+  Pearce-David-A.:
+    individualname: Pearce, David A.
+    role: creator
+  Yin-Wai-Fong:
+    individualname: Yin, Wai Fong
+    role: creator
+  Chan-Kok-Gan:
+    individualname: Chan, Kok-Gan
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

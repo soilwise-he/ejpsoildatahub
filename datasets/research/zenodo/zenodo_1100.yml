@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6519673
+  dataseturi: https://doi.org/10.5281/zenodo.6519673
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil Quality Attributes and Their Role in Sustainable Agriculture: A Review'
+  abstract: The publisher's final version of this work can be found at https://doi.org/10.9734/IJPSS/2018/41589.
+    <br><br>Deposited by shareyourpaper.org and openaccessbutton.org. We've taken
+    reasonable steps to ensure this content doesn't violate copyright. However, if
+    you think it does you can request a takedown by emailing help@openaccessbutton.org.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6519673
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.9734/ijpss/2018/41589
+    type: WWW:LINK
+    title: IsIdenticalTo
+  r1:
+    url: https://doi.org/10.5281/zenodo.6519672
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seifu-Weldemariam:
+    individualname: Seifu, Weldemariam
+    role: creator
+    organization: ''
+    url: ''
+  Elias-Eyasu:
+    individualname: Elias, Eyasu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

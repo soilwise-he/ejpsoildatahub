@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zhang_2022
+  dataseturi: https://doi.org/10.1002/vzj2.20227
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Analyzing dual porosity in soil hydraulic properties using soil databases
+    for pedotransfer function development
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Analyzing dual porosity in soil hydraulic properties using soil databases
+      for pedotransfer function development
+    url: http://dx.doi.org/10.1002/vzj2.20227
+    type: www
+contact:
+  Wiley-Periodicals-LLC:
+    individualname: Wiley Periodicals LLC
+    role: creator
+  Zhang-Yonggen:
+    individualname: Zhang, Yonggen
+    role: creator
+  Weihermuller-Lutz:
+    individualname: "Weiherm\xFCller, Lutz"
+    role: creator
+  Toth-Brigitta:
+    individualname: Toth, Brigitta
+    role: creator
+  Noman-Muhammad:
+    individualname: Noman, Muhammad
+    role: creator
+  Vereecken-Harry:
+    individualname: Vereecken, Harry
+    role: creator
+  Weihermoller-Lutz:
+    individualname: "Weiherm\u221A\xBAller, Lutz"
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schreiner_1911
+  dataseturi: https://doi.org/10.1016/s0016-0032(11)90553-5
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil organic matter as material for biochemical investigation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil organic matter as material for biochemical investigation
+    url: http://dx.doi.org/10.1016/s0016-0032(11)90553-5
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schreiner-Oswald:
+    individualname: Schreiner, Oswald
+    role: creator
+  Shorey-Edmund-C.:
+    individualname: Shorey, Edmund C.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

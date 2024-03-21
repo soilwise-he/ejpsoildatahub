@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1118215
+  dataseturi: https://doi.org/10.5281/zenodo.1118215
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of The Effect Of Lime And Cement On The Engineering Properties
+    Of Selected Soil In A University In Southwestern Nigeria.
+  abstract: Soil stabilization means alteration of the soils properties to meet the
+    specified engineering requirements. Methods for the stabilization are compaction
+    and use of admixtures. Lime and Cement was commonly used as stabilizer for altering
+    the properties of soils. This project focuses on the effect of Cement and Lime
+    on selected engineering properties of lateritic soils in Ladoke Akintola University
+    of Technology, Ogbomoso, Nigeria. In order to study this effect, fresh laterite
+    was obtained and tested for its index and geotechnical properties. Afterwards,
+    the soil sample was altered with additives proportions which includes 0%, 2.5%,
+    5%, 7.5%, and 10% of both cement and lime replacement by dry weight. On examination
+    laterite, it was discovered that the laterite can be classified as good. After
+    carrying out the engineering properties on the sample, it was observed that the
+    maximum dry density reduced with increase in the lime content and for cement content
+    at 2.5 and 10% but increases at 5-7.5%. Also, the optimum moisture content increased
+    for increasing lime content and fluctuates for increasing cement content. However,
+    an increase in the California Bearing Ratio (CBR) was noticed for increase in
+    cement but a low effect for lime addition. It was therefore concluded that lime
+    and cement modifies the chemical property of the tested soil with cement the most
+    suitable.
+  keywords:
+    default:
+      keywords:
+        subject: admixtures, engineering properties, CBR
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-19'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1118215
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1118099
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Afolayan-Olaniyi-D:
+    individualname: Afolayan, Olaniyi D
+    role: creator
+    organization: Department of Civil Engineering, University of Ibadan, Ibadan, Nigeria.
+    url: ''
+content_info: {}

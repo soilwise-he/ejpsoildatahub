@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1079010
+  dataseturi: https://doi.org/10.5281/zenodo.1079010
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Study Of Soil Contaminated With Arsenic, Cadmium And Lead In Ancient Tailings\
+    \ In Zacatecas, M\xE9xico"
+  abstract: "Due to the growth of the urban area towards lands\ncontaminated with\
+    \ ancient tails, in this work we evaluated if the\nleaching with calcium thiosulfate\
+    \ (CaS2O3) for the recovery of silver,\ngold and mercury from this soil, also\
+    \ dissolves arsenic, cadmium and\nlead; for this, we determined their quantity\
+    \ per each fraction of size\nof particle of the soil before and after the dissolution.\
+    \ Half of the soil\nsamples were leached in the plant Beneficiadora de Jales del\
+    \ Centro,\nS. A. de C.V. and the rest of them remained in the laboratory. The\n\
+    ICP-OES technique was used to determine the amounts of arsenic,\ncadmium and lead,\
+    \ in the samples of both lots. The soil samples were\ncollected in a neighboring\
+    \ area at El Lampotal, Vetagrande,\nZacatecas, M\xE9xico, with an extension of\
+    \ 600 m2 at 22\xBA52' 37.69'' N,\n102\xBA25' 11.73'' W. The amount of arsenic,\
+    \ cadmium and lead found\nin nonleached soil and for a particle size of 47 \u03BC\
+    m was 203.72\xB13.73,\n33.63\xB11.31 and 3480.99\xB120.4 mg/kg respectively."
+  keywords:
+    default:
+      keywords:
+        subject: Tails.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-03-26'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1079010
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1079009
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.-Ramirez-Ortiz:
+    individualname: "J. Ram\xEDrez-Ortiz"
+    role: creator
+    organization: ''
+    url: ''
+  J.-Nunez-Monreal:
+    individualname: "J. N\xFA\xF1ez Monreal"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.154196
+  dataseturi: https://doi.org/10.5281/zenodo.154196
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Input Analysis Using Soil Classification Techniques And Predicting Its Evolution
+    In Morocco Oriental To Conversion Wheat/Olive At Horizon 2020
+  abstract: 'Agronomic and pastoral research in East Morocco depend an evolution in
+    time and space of the soil which is an important factor otherwise, limiting plant
+    cover.
+
+
+    Thus, a chemical and physicochemical soil study was assisted by advanced techniques
+    such as data mining. Today, data exploitation on a global scale are used in a
+    large number of vast agribusiness operating areas. Products of computer operating
+    systems and specific domain data extrapolation are applicable across disciplines,
+    however they are still relatively new on agricultural . Hence a lack of bibliographic
+    data is recorded.
+
+
+    This research aims to analyze soil data using classification techniques. It focuses
+    on soil classification using various algorithms'
+  keywords:
+    default:
+      keywords:
+        subject: ': Data mining, Classification, Regression, Soil tests, Coverage
+          rate, Olive-wheat reconversion'
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-09-15'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.154196
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Imane-Belabed*-TALBI-Alaoui--Abdelmajid-Belabed*-Mamie-Matoir-Bouziani-Naoual:
+    individualname: Imane Belabed*, TALBI Alaoui , Abdelmajid Belabed*, Mamie Matoir,
+      Bouziani Naoual
+    role: creator
+  Imane-Belabed*-TALBI-Alaoui:
+    individualname: Imane Belabed*, TALBI Alaoui
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465487
+  dataseturi: https://doi.org/10.5281/zenodo.3465487
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Seismic and Geological Bedrock Depth Estimation at Cavezzo Site (Po Plain,
+    Northern Italy): Example of Passive Geophysical Survey in the Assessment of Soil
+    Liquefaction Potential'
+  abstract: Geophysical Research Abstracts, European Geosciences Union General Assembly
+    2018, EGU 2018, April 8-13, 2018. Vienna, Austria.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-09-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465487
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465486
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Massa-Marco:
+    individualname: Massa, Marco
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Mascandola-Claudia:
+    individualname: Mascandola, Claudia
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Lovati-Sara:
+    individualname: Lovati, Sara
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Carannante-Simona:
+    individualname: Carannante, Simona
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Morasca-Paola:
+    individualname: Morasca, Paola
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  D'Alema-Ezio:
+    individualname: D'Alema, Ezio
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Franceschina-Gianlorenzo:
+    individualname: Franceschina, Gianlorenzo
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Gomez-Antonio:
+    individualname: Gomez, Antonio
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Poggi-Valerio:
+    individualname: Poggi, Valerio
+    role: creator
+    organization: INGV, Milano, Italy
+    url: ''
+  Martelli-Luca:
+    individualname: Martelli, Luca
+    role: creator
+    organization: Regione Emilia-Romagna, Servizio Geologico, Sismico e dei Suoli,
+      Bologna, Italy
+    url: ''
+  Lai-Carlo-G.:
+    individualname: Lai, Carlo G.
+    role: creator
+    organization: University of Pavia
+    url: ''
+content_info: {}

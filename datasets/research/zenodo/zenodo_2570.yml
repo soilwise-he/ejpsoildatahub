@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sagybekova_2022
+  dataseturi: https://doi.org/10.21303/2461-4262.2022.002691
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Comparison of test results to determine the parameters of soil strength to
+    ensure the stability of earth slopes
+  abstract: "The content of large soil fractions in soils complicates the experimental\
+    \ part of the research, but, the modeling method makes it possible to determine\
+    \ the effect of soil filler on slope stability.\n\n\nThe article presents the\
+    \ results of experimental study of the strength of coarse-clastic soils with different\
+    \ percentages of large fractions of gravelly soil (up to 20\_mm) and aggregate\
+    \ (up to 5\_mm) in the study of slope stability. The studies were carried out\
+    \ on three types of experimental equipment, which confirms the reliability of\
+    \ the results obtained. Recommendations are given for applying the values of the\
+    \ strength characteristics of coarse-grained soils in calculating the stability\
+    \ of slopes.\n\n\nThe results of the tests are carried out in a tray and shear\
+    \ testing devices. Mixture of soil fractions from 2\_mm to 50\_mm. Purpose of\
+    \ the tests is to determine the actual parameters of soil strength j and C, taking\
+    \ into account the effect of impurities on the stability of slopes.\n\n\nReliability\
+    \ of the results confirmed the comparability of the results of previous tests.\
+    \ Tray allows for testing models of slopes composed of mixtures of sand fractions\
+    \ from 2\_mm to 20\_mm. Model sizes slopes are defined relative to the size tray.\
+    \ Tray dimensions \u2011 length 1400\_mm, width 500\_mm, height 1000\_mm.\n\n\n\
+    The design of the shear device allows to investigate coarse soils of different\
+    \ factions. The diameter of the fractions were tested for shear device area of\
+    \ 100\_sm2 is from 2\_mm to 20\_mm.\n\n\nThe diameter of the fractions were tested\
+    \ for shear device area of 1000\_sm2 \u2011 from 5\_mm to 50\_mm. The experiments\
+    \ were performed in the laboratory \"Geotechnics in Construction\" in KazGASA."
+  keywords:
+    default:
+      keywords:
+      - test results
+      - diameter of the fractions
+      - models of slopes
+      - gravel soil
+      - soil strength
+      - stability of earth slopes
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Comparison of test results to determine the parameters of soil strength
+      to ensure the stability of earth slopes
+    url: http://dx.doi.org/10.21303/2461-4262.2022.002691
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sagybekova-Akmaral:
+    individualname: Sagybekova, Akmaral
+    role: creator
+  Kiyalbay-Saniya:
+    individualname: Kiyalbay, Saniya
+    role: creator
+  Belov-Alexey:
+    individualname: Belov, Alexey
+    role: creator
+  Kiyalbayev-Abdy:
+    individualname: Kiyalbayev, Abdy
+    role: creator
+  Tursumbekova-Khorlan:
+    individualname: Tursumbekova, Khorlan
+    role: creator
+  OU-Scientific-Route:
+    individualname: OU Scientific Route
+    role: creator
+content_info: {}

@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tajudin_2021
+  dataseturi: https://doi.org/10.11591/ijece.v11i3.pp2101-2108
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil moisture index estimation from landsat 8 images for prediction and monitoring
+    landslide occurrences in Ulu Kelang, Selangor, Malaysia
+  abstract: '&lt;p&gt;Soil moisture is one of the contributing factors that accelerates
+    soil erosion and landslide events due to the increase in pore pressure which eventually
+    reduces the soil strength. For landslide prediction and monitoring purposes, large-scale
+    measurement involves estimating the soil moisture. However, estimation of soil
+    moisture usually involves point-based measurements at a particular site and time,
+    which is difficult to capture the spatial and temporal soil moisture dynamics.
+    This paper presents the estimation of the SMI using Landsat 8 images for prediction
+    and monitoring of landslide events in Ulu Kelang, Selangor. The selected SMI map
+    for dry, moist, and wet seasons are obtained from climatology rainfall analysis
+    over 20-year periods (19982017). SMI is assessed based on remote sensing data
+    which are land surface temperature (LST) and normalized difference vegetation
+    index (NDVI) using GIS software. Overall results indicated that rainfall distribution
+    is high during inter-monsoon (IM), followed by northeast monsoon (NEM) and southwest
+    monsoon (SWM) season. High rainfall distribution is a direct contributor towards
+    SMI condition. Results from simulation show that April 2017 is known to have the
+    highest SMI estimation season and selected to be the best SMI mapping parameter
+    to be applied for prediction and monitoring of landslide events.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Landsat 8
+      - Landslide
+      - Rainfall
+      - Remote sensing
+      - Soil moisture index (SMI)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil moisture index estimation from landsat 8 images for prediction and
+      monitoring landslide occurrences in Ulu Kelang, Selangor, Malaysia
+    url: http://dx.doi.org/10.11591/ijece.v11i3.pp2101-2108
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Noraisyah-Tajudin:
+    individualname: Noraisyah Tajudin
+    role: creator
+  Norsuzila-Ya'acob:
+    individualname: Norsuzila Ya'acob
+    role: creator
+  Darmawaty-Mohd-Ali:
+    individualname: Darmawaty Mohd Ali
+    role: creator
+  Nor-Aizam-Adnan:
+    individualname: Nor Aizam Adnan
+    role: creator
+  Tajudin-Noraisyah:
+    individualname: Tajudin, Noraisyah
+    role: creator
+  YaaEUR(tm)acob-Norsuzila:
+    individualname: "Ya\xE2\u20AC\u2122acob, Norsuzila"
+    role: creator
+  Mohd-Ali-Darmawaty:
+    individualname: Mohd Ali, Darmawaty
+    role: creator
+  Adnan-Nor-Aizam:
+    individualname: Adnan, Nor Aizam
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

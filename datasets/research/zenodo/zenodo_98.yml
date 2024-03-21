@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3533880
+  dataseturi: https://doi.org/10.5281/zenodo.3533880
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: MONITORING 241Pu IN UKRAINIAN SOIL
+  abstract: "We collected ca. 500 soil samples from within the inhabited territory\
+    \ of the Ukraine for 241Pu determination. To cover the expected wide range of\
+    \ contamination levels due to fallout from the Chernobyl Nuclear Power Plant (NPP)\
+    \ accident, we took samples in the following regions: Kiev (170 samples), Gitomir\
+    \ (70 samples), Chernigov (60 samples), Rovno (70 samples), other regions (130\
+    \ samples). We used 10 g of soil from a 5-cm depth coring cylinder. We ashed the\
+    \ samples for 4 h at 400\xB0C and then used a mixture of HCl and HF followed by\
+    \ HNO3 to solubilize the plutonium. We stabilized the plutonium with NaNO3 and\
+    \ isolated it using Dowex-1 ion exchange resin. Finally, we deposited the plutonium\
+    \ electrochemically onto stainless steel disks. We determined the activities of\
+    \ the a-emitting isotopes of plutonium, including the 242Pu yield tracer, using\
+    \ traditional a-spectroscopy systems. Our chemical yields were typically 40-80%.\
+    \ We used liquid scintillation counting (LSC) for the determination of the 1Pu\
+    \ activity on each disk. Our method employs an ultra low-level a/3 spectrometer\
+    \ (Quantulus 1220TM), 7-ml aluminium/Teflon\xAE vials and a highlight output,\
+    \ toluene based liquid scintillation cocktail (GS-1). The analytical parameters\
+    \ were: counting efficiency =15%, background count rate = 0.55 cpm, figure of\
+    \ merit (E21 B) = 409, minimum detectable activity (MDA) for 120 min count = 2.3\
+    \ Bq kg-1 and the MDA for a 500 min count =1.0 Bq kg-1. Geometric mean values\
+    \ and standard deviations for 1Pu activities in soil from the inhabited regions\
+    \ which were studied were 20.5\xB1i2.9 Bq kg-1"
+  keywords:
+    default:
+      keywords:
+        subject: LSC
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1995-09-01'
+    publication: '1995'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3533880
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3533879
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Buzinny-Michael:
+    individualname: Buzinny Michael
+    role: creator
+  Los'-Ivan:
+    individualname: Los' Ivan
+    role: creator
+    organization: Ukrainian Research Center for Radiation Medicine
+    url: ''
+  Tsigankov-Nikolay:
+    individualname: Tsigankov Nikolay
+    role: creator
+    organization: Ukrainian Research Center for Radiation Medicine
+    url: ''
+  Soroka-Serge:
+    individualname: Soroka Serge
+    role: creator
+    organization: Ukrainian Research Center for Radiation Medicine
+    url: ''
+  Michael-Buzinny:
+    individualname: Michael, Buzinny
+    role: ''
+    organization: Ukrainian Research Center for Radiation Medicine
+    url: https://orcid.org/0000-0003-2812-573X
+content_info: {}

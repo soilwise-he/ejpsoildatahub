@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2257886
+  dataseturi: https://doi.org/10.5281/zenodo.2257886
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Salsola arbuscula Pall. as a soil reclamation plant for pastures of the Karnabchule
+  abstract: "The article provides information on the results of studies on the testing\
+    \ of the Salsola arbuscula Pall. In the conditions of the gypsum desert Karnabchul\
+    \ the survival rate of growth and development according to the yield of the aboveground\
+    \ biomass. Accounting for the yields of the aboveground plant biomass showed that\
+    \ under conditions of Karnabchul, the Salsola arbuscula can form forage mass more\
+    \ than 2\u20133 times higher than natural pastures. In the first year of life,\
+    \ the harvest of the aboveground biomass of the Salsola arbuscula was 5.1 t/ha,\
+    \ the Salsola orientalis S. G. Gmel. \u2014 4.2 t/ha, the yield of natural pastures\
+    \ \u2014 3.2 t/ha. In the second year of life, the dry aboveground biomass harvest\
+    \ was 14.8, 18.3 centners per hectare, while the yield of natural pastures was\
+    \ 3.7 centners per hectare."
+  keywords:
+    default:
+      keywords:
+        subject: saltwort
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-12-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2257886
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2257885
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bobayeva-A.:
+    individualname: Bobayeva, A.
+    role: creator
+    organization: Research Institute of Karakul Sheep Breeding and Desert Ecology
+    url: ''
+  Rabbimov-A.:
+    individualname: Rabbimov, A.
+    role: creator
+    organization: Research Institute of Karakul Sheep Breeding and Desert Ecology
+    url: ''
+content_info: {}

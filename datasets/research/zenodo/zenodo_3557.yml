@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10527734
+  dataseturi: https://doi.org/10.5281/zenodo.10527734
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Application status of red mud and prospect of lightweight foam soil
+  abstract: "Abstract Red mud is a solid waste residue produced in the process of\
+    \ alumina production. The total amount of red mud is large due to technological\
+    \ reasons. And its elements are extremely complex, which can\u2019t be effectively\
+    \ used, leading to a large amount of land is occupied and the environment is polluted.\
+    \ This paper summarizes the research situation of red mud and light foam soil,\
+    \ analyzes the application prospect of red mud, and makes some suggestions to\
+    \ provide ideas for the research of red mud."
+  keywords:
+    default:
+      keywords:
+        subject: red mud; road base materials; light foam soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-31'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10527734
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10527094
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shengwang-Chen:
+    individualname: Shengwang Chen
+    role: creator
+    organization: Zichuan highway business service center, Shandong 255000, China
+    url: ''
+  Bin-Yu:
+    individualname: Bin Yu
+    role: creator
+    organization: School of Transportation and Vehicle Engineering, Shandong University
+      of Technology, Shandong 255049, China
+    url: ''
+  Peiqing-Li:
+    individualname: Peiqing Li
+    role: creator
+    organization: School of Transportation and Vehicle Engineering, Shandong University
+      of Technology, Shandong 255049, China
+    url: ''
+  Yilin-Li:
+    individualname: Yilin Li
+    role: creator
+    organization: School of Transportation and Vehicle Engineering, Shandong University
+      of Technology, Shandong 255049, China
+    url: ''
+  Shuaijun-Li:
+    individualname: Shuaijun Li
+    role: creator
+    organization: School of Transportation and Vehicle Engineering, Shandong University
+      of Technology, Shandong 255049, China
+    url: ''
+content_info: {}

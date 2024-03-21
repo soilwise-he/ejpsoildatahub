@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6822206
+  dataseturi: https://doi.org/10.5281/zenodo.6822206
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Relationship of Basmati 370 Grain Quality to Soil and Environment
+  abstract: This article 'Relationship of Basmati 370 Grain Quality to Soil and Environment'
+    appeared in the International Rice Research Notes series, created by the International
+    Rice Research Institute (IRRI) to expedite communication among scientists concerned
+    with the development of improved technology for rice and rice-based systems. The
+    series is a mechanism to help scientists keep each other informed of current rice
+    research findings. The concise scientific notes are meant to encourage rice scientists
+    to communicate with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1993-06-01'
+    publication: '1993'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6822206
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6822205
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sagar-M.-A.:
+    individualname: Sagar, M. A.
+    role: creator
+    organization: ''
+    url: ''
+  Ali-C.-A.:
+    individualname: Ali, C. A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

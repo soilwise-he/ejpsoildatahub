@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4072575
+  dataseturi: https://doi.org/10.5281/zenodo.4072575
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Characterization of Keratinolytic Fungi and Bacteria Isolated From Soil-Rich
+    Animal Wastes in Ijebu-Igbo Abattoir, South-West, Nigeria
+  abstract: Massive production of keratinous wastes from agriculture and industries
+    constitutes a major source of pollution globally. Hence, the objective of this
+    study was to isolates microbial keratinase producers which can be used for bioconversion
+    of animal-rich wastes in an eco-friendly manner. Soil rich horns, hooves and feathers
+    were collected from abattoir and Moyo poultry farms in Ijebu-Igbo and transported
+    to Microbiology laboratory, Babcock Univetrsity. Fungi and bacteria were isolated
+    using compounded agar medium and nutrient agar respectively. Keratinase activity
+    of the isolates was assessed using skim milk agar. The keratinase gene in bacteria
+    was confirmed by PCR. Fungi and bacteria that produced better zone of inhibition
+    on skim milk agar were sequenced using primers targeting 18S rDNA (fungi) and
+    16S rRNA (bacteria) genes. Fungi (18) and bacteria (4) showed hydrolytic activities
+    on skim milk agar. However, 6 fungi (<em>Aspergillus flavus, Aspergillus pseudonomius,
+    Aspergillus nomius, Aspergillus tamarii and Wickerhamomyces anomulus</em>) and
+    4 bacteria (<em>Proteus mirabilis</em>, <em>Enterobacter hormaechei</em>, <em>Morganella
+    morganii</em> and S<em>himwellia blattae</em>) were identified. The results revealed
+    that different microbial genera capable of producing keratinases can be economically
+    obtained and harnessed for industrial waste management. Hence, improvement of
+    the keratinolytic organisms for industrial waste management is an asset especially
+    in renewable energy and animal feeds.
+  keywords:
+    default:
+      keywords:
+        subject: Fungi, Bacteria, Bioconversion, keratinous wastes, Keratinase
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-09-29'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4072575
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4072574
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cajethan-Onyebuchi-Ezeamagu:
+    individualname: Cajethan Onyebuchi Ezeamagu
+    role: creator
+    organization: Department of Microbiology, Babcock University, Ilishan-Remo, Ogun
+      State, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8344335
+  dataseturi: https://doi.org/10.5281/zenodo.8344335
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation, characterization and identification of roundup degrading bacteria
+    from the soil and gut of Macrotermes michaelseni
+  abstract: Roundup degrading bacteria were isolated from the soil and gut of fungus
+    cultivating termites <em>Macrotermes michaelseni</em> using MM7 media supplemented
+    with the pesticide as the sole source of carbon and energy<em>.</em> The isolates
+    were gram negative rods the isolate from the soil was designated GS1 while that
+    from termite gut was designated GT2. The 16S rRNA gene sequence of the isolates
+    revealed that isolates Both isolates GS1 and GT2 are closely related to E<em>nterobacter
+    sp</em> AY 0822447 with 99% sequence similarity. The results of this study highlight
+    the potential of these bacterial isolates to be used in bioremediation. Published
+    by the <strong>International journal of Microbiology and Mycology (IJMM)</strong>
+  keywords:
+    default:
+      keywords:
+        subject: Enterobacter
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-09-10'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8344335
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8344334
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-A.-Ogot:
+    individualname: H. A. Ogot
+    role: creator
+    organization: University of Nairobi Box 30197- 00100 Nairobi, Kenya
+    url: ''
+  H.-I.-Boga:
+    individualname: H. I. Boga
+    role: creator
+    organization: Taita Taveta University College Box 635-80300 Voi, kenya
+    url: ''
+  N.-Budambula:
+    individualname: N. Budambula
+    role: creator
+    organization: Jomo Kenyatta University of Agriculture and Technology Box 62000-00200
+      Nairobi, Kenya
+    url: ''
+  M.-Tsanuo:
+    individualname: M. Tsanuo
+    role: creator
+    organization: Pwani University Box 195-80108 Kilifi, Kenya
+    url: ''
+  D.O.-Andika:
+    individualname: D.O. Andika
+    role: creator
+    organization: Jaramogi Oginga Odinga University of Science and Technology, Box
+      210-40601, Bondo, Kenya
+    url: ''
+  H.-J:
+    individualname: H. J
+    role: creator
+    organization: ''
+    url: ''
+  Ogola:
+    individualname: Ogola
+    role: creator
+    organization: Jaramogi Oginga Odinga University of Science and Technology, Box
+      210-40601, Bondo, Kenya
+    url: ''
+content_info: {}

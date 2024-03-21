@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Szita_2016
+  dataseturi: https://doi.org/10.3897/zookeys.565.6877
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A survey of scale insects in soil samples from Europe (Hemiptera, Coccomorpha)
+  abstract: "&lt;p&gt;In the last decades, several expeditions were organized in Europe\
+    \ by the researchers of the Hungarian Natural History Museum to collect snails,\
+    \ aquatic insects and soil animals (mites, springtails, nematodes, and earthworms).\
+    \ In this study, scale insect (Hemiptera: Coccomorpha) specimens extracted from\
+    \ Hungarian Natural History Museum soil samples (2970 samples in total), all of\
+    \ which were collected using soil and litter sampling devices, and extracted by\
+    \ Berlese funnel, were examined. From these samples, 43 scale insect species (Acanthococcidae\
+    \ 4, Coccidae 2, Micrococcidae 1, Ortheziidae 7, Pseudococcidae 21, Putoidae 1\
+    \ and Rhizoecidae 7) were found in 16 European countries. In addition, a new species\
+    \ belonging to the family Pseudococcidae, Brevennia larvalis Kaydan, sp. n. and\
+    \ a new species of Ortheziidae, Ortheziola editae Szita &amp; Konczn\xE9 Benedicty,\
+    \ sp. n. are described and illustrated based on the adult female stage. Revised\
+    \ keys to the adult females of Brevennia and Ortheziola are presented.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Animalia
+      - Arthropoda
+      - Insecta
+      - Hemiptera
+      - Hypogeal scale insects
+      - faunal surveys
+      - Berlese
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A survey of scale insects in soil samples from Europe (Hemiptera, Coccomorpha)
+    url: http://dx.doi.org/10.3897/zookeys.565.6877
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kaydan-Mehmet-Bora:
+    individualname: Kaydan, Mehmet Bora
+    role: creator
+  Konczne-Benedicty-Zsuzsanna:
+    individualname: "Konczn\xE9 Benedicty, Zsuzsanna"
+    role: creator
+  Kiss-Balazs:
+    individualname: "Kiss, Bal\xE1zs"
+    role: creator
+  Szita-Eva:
+    individualname: "Szita, \xC9va"
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1094587
+  dataseturi: https://doi.org/10.5281/zenodo.1094587
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Study On Physicochemical Analysis Of Road And Railway Track Side Soil Samples
+    Of Amritsar (Punjab) And Their Genotoxic Effects
+  abstract: Considering the serious health hazards of air pollutants from automobiles,
+    the present study was aimed to estimate the genotoxic/tumor inducing potential
+    of three soil samples collected from junctions of Bus stand (BS), Crystal (CT)
+    and Railway station (RS) of Amritsar, Punjab (India) using <em>Allium cepa</em>
+    root chromosomal aberration assay (<em>Al</em>RCAA) and potato disc tumor assay
+    (PDTA). The genotoxic potential in <em>Al</em>RCAA was 41.27% and 41.26% for BS;
+    37.89% and 43.38% for RS and 33.76% and 37.83% for CT during <em>in situ</em>
+    and root dip treatments, respectively. The maximum number of tumors were induced
+    in RS sample (64) followed by BS (21) and CT (9) during PDTA. The physicochemical
+    parameters of soil sample were also studied and the concentration of lead was
+    found to be 95.21 mg/Kg in RS, 35.30 mg/Kg in BS and 24.59 mg/Kg in CT samples.
+  keywords:
+    default:
+      keywords:
+        subject: pollutants.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-08-02'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1094587
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1094586
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Kaur:
+    individualname: R. Kaur
+    role: creator
+    organization: ''
+    url: ''
+  Y.-B.-Pakade:
+    individualname: Y. B. Pakade
+    role: creator
+    organization: ''
+    url: ''
+  J.-K.-Katnoria:
+    individualname: J. K. Katnoria
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3669178
+  dataseturi: https://doi.org/10.5281/zenodo.3669178
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental Investigation on Geosynthetic-Reinforced Soil Sections via California
+    Bearing Ratio Test
+  abstract: Loose soils normally are of weak bearing capacity due to their structural
+    nature. Being exposed to heavy traffic loads, they would fail in most cases. To
+    tackle the aforementioned issue, geotechnical engineers have come up with different
+    approaches; one of which is making use of geosynthetic-reinforced soil-aggregate
+    systems. As these polymeric reinforcements have highlighted economic and environmentally-friendly
+    features, they have become widespread in practice during the last decades. The
+    present research investigates the efficiency of four different types of these
+    reinforcements in increasing the bearing capacity of two-layered soil sections
+    using a series California Bearing Ratio (CBR) test. The studied sections are comprised
+    of a 10 cm-thick layer of no. 161 Firouzkooh sand (weak subgrade) and a 10 cm-thick
+    layer of compacted aggregate materials (base course) classified as SP and GW according
+    to the United Soil Classification System (USCS), respectively. The aggregate layer
+    was compacted to the relative density (Dr) of 95% at the optimum water content
+    (Wopt) of 6.5%. The applied reinforcements were including two kinds of geocomposites
+    (type A and B), a geotextile, and a geogrid that were embedded at the interface
+    of the lower and the upper layers of the soil-aggregate system. As the standard
+    CBR mold was not appropriate in height for this study, the mold used for soaked
+    CBR tests were utilized. To make a comparison between the results of stress-settlement
+    behavior in the studied specimens, CBR values pertinent to the penetrations of
+    2.5 mm and 5 mm were considered. The obtained results demonstrated 21% and 24.5%
+    increments in the amount of CBR value in the presence of geocomposite type A and
+    geogrid, respectively. On the other hand, the effect of both geotextile and geocomposite
+    type B on CBR values was generally insignificant in this research.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-24'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3669178
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3669177
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Abdi-Goudazri:
+    individualname: S. Abdi Goudazri
+    role: creator
+    organization: ''
+    url: ''
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  A.-Nazeri:
+    individualname: A. Nazeri
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1488149
+  dataseturi: https://doi.org/10.5281/zenodo.1488149
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil-Protective Water-Saving Technologies For Watering Agricultural Crops
+    On Eroded Soils
+  abstract: "The article deals with the results of the analysis of long-term studies\
+    \ on the study of soil-protective, water efficiency technologies for the cultivation\
+    \ of crops on eroded soils. For the conditions of irrigated and erosion impacted\
+    \ typical loamy soils of a Chirchik\u2013Angren valley, the law of a liability\
+    \ of the typical loamy soils impacted by erosion is revealed depending on the\
+    \ form of furrows and the size of a jet. The optimum forms of the furrow and size\
+    \ of a jet are determined for the condition of typical loamy soils at growing\
+    \ potatoes. The influence of the form of a furrow on the contents of organic matter,\
+    \ total nitrogen, common phosphorus in a liquid and firm drain has established\
+    \ the losses of nutritious substances with a liquid and firm drain are revealed\
+    \ depending on elements of irrigation technology. The growth and development of\
+    \ the potatoes are studied. The economic efficiency is determined at the cultivation\
+    \ of potatoes on typical erosion damaged loamy soils."
+  keywords:
+    default:
+      keywords:
+        subject: irrigation rate
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-11-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1488149
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1488148
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nazaraliev-D.:
+    individualname: Nazaraliev, D.
+    role: creator
+    organization: Tashkent Institute of Irrigation and Agricultural Mechanization
+      of Engineers
+    url: ''
+content_info: {}

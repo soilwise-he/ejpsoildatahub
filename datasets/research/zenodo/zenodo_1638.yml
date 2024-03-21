@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4145991
+  dataseturi: https://doi.org/10.5281/zenodo.4145991
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Correlating Apollo soil mineralogical data with Kaguya spectral data for
+    a global mineralogical classification
+  abstract: These files contain the latitude and longitude information of twelve mineralogical
+    classes that are classified based on the ternary diagram of Stoffler et al. (1980).
+    All of the presented coordinates has the same projection to the Kaguya Multiband
+    Imager data, which is equirectangular.
+  keywords:
+    default:
+      keywords:
+        subject: mineralogical classification
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-10-28'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4145991
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4145990
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sun-Lingzhi:
+    individualname: Sun, Lingzhi
+    role: creator
+    organization: University of Hawaii
+    url: ''
+  Lucey-Paul:
+    individualname: Lucey, Paul
+    role: creator
+    organization: University of Hawaii
+    url: ''
+  Taylor-G.-Jeffrey:
+    individualname: Taylor, G. Jeffrey
+    role: creator
+    organization: University of Hawaii
+    url: ''
+content_info: {}

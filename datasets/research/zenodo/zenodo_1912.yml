@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216723
+  dataseturi: https://doi.org/10.5281/zenodo.7216723
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of microplastics and aged microplastics on the toxicity of emerging
+    contaminants in the soil
+  abstract: 'Microplastics (MP) are ubiquitous in all parts of the ecosystem and have
+    recently been proven to impact the toxicity of other environmental pollutants
+    significantly. Most of the existing studies were conducted with aquatic organisms
+    and focused on the effect of MPs on metal toxicity. Moreover, aged MPs, which
+    are more environmental relevant structures of MPs, are rarely investigated in
+    terms of toxicity. Oxygen-containing groups formed by aging increase MPs'' charge,
+    hydrophilicity, and polarity, affecting MP-organic pollutant binding. Hence, the
+    impacts of MPs and aged MPs on the toxicity of organic emerging pollutants on
+    soil organisms are lacking in the literature. This study aims to investigate the
+    toxic effect of selected emerging organic pollutants on soil organism E. crypticus,
+    in the presence of polypropene (PP) MPs and aged PP MPs. Selected emerging contaminants
+    were diclofenac, ciprofloxacin, EE2, diuron, terbutryn, anthracene, diphenyl ether
+    and diethyl hexyl phthalate. Toxicity was investigated for the reproduction end
+    point, and NOEC and EC50 values were reported. PP and aged PP were added to the
+    sets at a 5mg/kg concentration. It was found that microplastics alone did not
+    show any effect on the reproduction of E. crypticus at this concentration, but
+    they significantly increased the toxicity of organic pollutants. The individual
+    NOEC value for microplastics and pollutants was 12.5mg/kg. In the presence of
+    microplastics and aged microplastics, the pollutants were shown to have a significant
+    effect at this concentration. The EC50 values of pollutants also decreased in
+    the presence of MPs. Although the existing concentrations of the emerging contaminants
+    in the soil is much lower than 12.5 mg/kg, the presence of PP and aged PP should
+    be considered for the environmental risk management of organic emerging contaminants
+    in the soil due to their potential to alter the reproduction toxicity. Also see:
+    https://micro2022.sciencesconf.org/426991/document'
+  keywords:
+    default:
+      keywords:
+        subject: organic pollutants
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216723
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216722
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Waseem-Ashna:
+    individualname: Waseem, Ashna
+    role: creator
+    organization: ''
+    url: ''
+  Ozturk-Irem:
+    individualname: Ozturk, Irem
+    role: creator
+    organization: ''
+    url: ''
+  Akkoc-Duygu:
+    individualname: Akkoc, Duygu
+    role: creator
+    organization: ''
+    url: ''
+  Handiri-Sinem:
+    individualname: "Hand\u0131r\u0131, Sinem"
+    role: creator
+    organization: ''
+    url: ''
+  Topuz-Emel:
+    individualname: Topuz, Emel
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

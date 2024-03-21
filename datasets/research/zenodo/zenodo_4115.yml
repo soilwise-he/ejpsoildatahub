@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3550479
+  dataseturi: https://doi.org/10.5281/zenodo.3550479
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Kinetic Modelling and Error Analysis of the Bioremediation of Used Motor
+    Oil Contaminated Soil Using Palm Bunch Ash as Stimulant
+  abstract: The spillage of petroleum and its derivatives in soil and water has caused
+    severe hazards to human health, led to serious environmental problems, caused
+    economic loss and lower ground water usage. This research was conducted in order
+    to compare the biostimulation potential of palm bunch ash (PBA) for the remediation
+    of used motor oil contaminated soil as well as to obtain the best kinetic model
+    that fits the experimental data in the treatment cells labelled T1 to T12. D-optimal
+    design of response surface methodology of Design expert was used to generate ten
+    experimental runs with PBA as numerical factor and pollution level (5% and 10%)
+    as categorical factor. Samples were taking from each of the treatment cells for
+    analysis of Oil and Grease Content (O&amp;G) and Total Heterotrophic Bacteria
+    Count (THBC) at two-week interval. After ten (10) weeks, the results showed T1,
+    T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, and T12 exhibited 86.5%, 100%, 79.2%,
+    74.5%, 95.5%, 79.2%, 100%, 99.4%, 99.0%, 63.0%, 88.0%, and 58% oil and grease
+    degradation, respectively. The R2 values showed that the first and second order
+    kinetic models fitted the experimental data. Comparing the results of the error
+    analysis of the studied kinetics, it was found that the first order kinetic model
+    best fits the degradation of used motor oil in all the treatment cells. The biodegradation
+    rate constant values are high for the treatment cells with 5% pollution level
+    for the zero, first and second order kinetic models. It was also observed that
+    the THBC in all the treatment cells followed the batch growth culture of microorganisms.
+    From the results of this work, it can be concluded that the application of PBA
+    stimulates the growth of microorganisms that enhanced the consumption of used
+    motor oil in the soil. Thus, can be applied to develop an environmentally safe,
+    robust, and economically viable treatment strategy for oil contaminated soil.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-22'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3550479
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3550478
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdulyekeen-K-A:
+    individualname: Abdulyekeen K A
+    role: creator
+    organization: Assistant Lecturer, Department of Chemical Engineering, Faculty
+      of Engineering and Engineering Technology, Abubakar Tafawa Balewa University,
+      Tafawa Balewa Way, Bauchi, Nigeria
+    url: ''
+  Aliyu-A:
+    individualname: Aliyu A
+    role: creator
+    organization: Assistant Lecturer, Department of Urban and Regional Planning, Faculty
+      of Environmental Technology, Abubakar Tafawa Balewa University, Tafawa Balewa
+      Way, Bauchi, Nigeria
+    url: ''
+  Abdulkarim-A-Y:
+    individualname: Abdulkarim A Y
+    role: creator
+    organization: Lecturer II, Department of Chemical Engineering, Faculty of Engineering
+      and Engineering Technology, Abubakar Tafawa Balewa University, Tafawa Balewa
+      Way, Bauchi, Nigeria
+    url: ''
+  Salis-A:
+    individualname: Salis A
+    role: creator
+    organization: Laborator Technologist, Department of Chemical Engineering, Faculty
+      of Engineering and Engineering Technology, Abubakar Tafawa Balewa University,
+      Tafawa Balewa Way, Bauchi, Nigeria
+    url: ''
+  Abdulkarim-A-S:
+    individualname: Abdulkarim A S
+    role: creator
+    organization: BE Student, Department of Chemical Engineering, Faculty of Engineering
+      and Engineering Technology, Abubakar Tafawa Balewa University, Tafawa Balewa
+      Way, Bauchi, Nigeria
+    url: ''
+content_info: {}

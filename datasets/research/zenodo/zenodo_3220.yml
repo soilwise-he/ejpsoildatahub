@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.579730
+  dataseturi: https://doi.org/10.5281/zenodo.579730
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Calculation Of The Climatic Indicator For The Electronic Map Of Soil-Ecological
+    Estimation Of The Western Siberia Taiga Zone Lands (In The Borders Of The Nizhnevartovsk
+    District).
+  abstract: "The article is devoted to the methodological substantiation of the creation\
+    \ of an attributive block and an electronic map of soil\u2013ecological assessment\
+    \ of lands within the Nizhnevartovsk region. The stages and methods of creating\
+    \ an attributive database and a digital map of soil\u2013ecological assessment\
+    \ are described. The soil\u2013ecological assessment was carried out for the taiga\
+    \ zone of Western Siberia, the construction of an attributive block of soil formation\
+    \ factors is the most important component of the digital soil mapping database,\
+    \ reflects the soil indices of own research and analyzed archival climatic data\
+    \ from the GISmeteo portal for Nizhnevartovsk. The results obtained in the course\
+    \ of the work can be taken into account when solving design and land management\
+    \ tasks, in agro\u2013industrial production, the development of integrated schemes\
+    \ for spatial planning, as well as addressing issues of rational land use."
+  keywords:
+    default:
+      keywords:
+        subject: digital map
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-05-14'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.579730
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Korkina-E.:
+    individualname: Korkina, E.
+    role: creator
+    organization: Nizhnevartovsk State University
+    url: ''
+  Baklanova-I.:
+    individualname: Baklanova, I.
+    role: creator
+    organization: Nizhnevartovsk State University
+    url: ''
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bonfante_2020
+  dataseturi: https://doi.org/10.5194/soil-6-453-2020
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Targeting the soil quality and soil health concepts when aiming for the United
+    Nations Sustainable Development Goals and the EU Green Deal
+  abstract: '&lt;p&gt;The concepts of soil quality and soil health are widely used
+    as soils receive more attention in the worldwide policy arena. So far, however,
+    the distinction between the two concepts is unclear, and operational procedures
+    for measurement are still being developed. A proposal is made to focus soil health
+    on actual soil conditions, as determined by a limited set of indicators that reflect
+    favourable rooting conditions. In addition, soil quality can express inherent
+    soil conditions in a given soil type (genoform), reflecting the effects of past
+    and present soil management (expressed by various phenoforms). Soils contribute
+    to ecosystem services that, in turn, contribute to the UN Sustainable Development
+    Goals (SDGs) and, more recently, to the EU Green Deal. Relevant soil ecosystem
+    services are biomass production (SDG 2 &ndash; zero hunger), providing clean water
+    (SDG 6), climate mitigation by carbon capture and reduction of greenhouse gas
+    emissions (SDG 13 &ndash; climate action), and biodiversity preservation (SDG
+    15 &ndash; life on land). The use of simulation models for the soil&ndash;water&ndash;atmosphere&ndash;
+    plant system is proposed as a quantitative and reproducible procedure to derive
+    single values for soil health and soil quality for current and future climate
+    conditions. Crop production parameters from the international yield gap programme
+    are used in combination with soil-specific parameters expressing the effects of
+    phenoforms. These procedures focus on the ecosystem service, namely biomass production.
+    Other ecosystem services are determined by soil-specific management and are to
+    be based on experiences obtained in similar soils elsewhere or by new research.
+    A case study, covering three Italian soil series, illustrates the application
+    of the proposed concepts, showing that soil types (soil series) acted significantly
+    differently to the effects of management and also in terms of their reaction to
+    climate change.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - UN Sustainable Development Goals
+      - EU Green Deal
+      - Soil ecosystem services
+      - Soil health
+      - Soil quality
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Targeting the soil quality and soil health concepts when aiming for the
+      United Nations Sustainable Development Goals and the EU Green Deal
+    url: http://dx.doi.org/10.5194/soil-6-453-2020
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bonfante-Antonello:
+    individualname: Bonfante, Antonello
+    role: creator
+  Basile-Angelo:
+    individualname: Basile, Angelo
+    role: creator
+  Bouma-Johan:
+    individualname: Bouma, Johan
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

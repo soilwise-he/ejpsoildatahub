@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7309495
+  dataseturi: https://doi.org/10.5281/zenodo.7309495
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Determination of Nutrition Status of Leaf and Soil Samples of Olive (Olea\
+    \ Europaea L.) Trees in Alt\u0131n\xF6z\xFC District of Hatay"
+  abstract: "In order to determine the nutritional status of olive orchards in Hatay-Alt\u0131\
+    n\xF6z\xFC district, texture, lime (CaCO<sub>3</sub>), pH, electrical conductivity\
+    \ (EC), organic matter and some macro-micro nutrient element analyzes were performed\
+    \ on 30 soil and 15 plant samples taken from selected olive orchards. According\
+    \ to the results obtained from the research, the soils were found to be in clay\
+    \ and clay-loam texture class, with slightly alkaline reaction, unsalted, excessively\
+    \ calcareous and insufficient in organic matter. it was determined that all the\
+    \ soils were insufficient in nitrogen (N), except for one sample, 100.0% zinc\
+    \ (Zn) and boron (B), 6.66% phosphorus (P), 13.33% potassium (K), 10.0% iron (Fe)\
+    \ contents. In the olive leaf samples, 20% N, 6.66% P, 36.66% K, 53.33% calcium\
+    \ (Ca), 73.33% magnesium (Mg), 46.66% both manganese (Mn), It was determined that\
+    \ it was deficient in terms of Zn and B contents. In the study, when soil and\
+    \ leaf analyze are examined, some plant nutrients are sufficient or more (Ca,\
+    \ Mg) in the soil, while they are deficient in the plant. Some plant nutrients\
+    \ are deficient in the soil (Zn, B), but they are found to be sufficient in the\
+    \ plant. This shows that there are nutritional problems and unconscious soil and\
+    \ leaf fertilization is done in the region. As a result, it is suggested that\
+    \ the producers should make fertilization programs by a specialist according to\
+    \ the missing or excess plant nutrient element status by having plant and soil\
+    \ analyzes done."
+  keywords:
+    default:
+      keywords:
+        subject: Hatay
+  status: ''
+  language: tur
+  dates:
+    creation: ''
+    issued: '2022-12-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7309495
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7309494
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  GOKCEOGLU-Kagan:
+    individualname: "G\xD6K\xC7EO\u011ELU, Ka\u011Fan"
+    role: creator
+    organization: "Hatay Mustafa Kemal \xDCniversitesi, Ziraat Fak\xFCltesi, Toprak\
+      \ Bilimi ve Bitki Besleme B\xF6l\xFCm\xFC, Hatay"
+    url: https://orcid.org/0000-0002-2310-6591
+  CIMRIN-Kerim-Mesut:
+    individualname: "\xC7\u0130MR\u0130N, Kerim Mesut"
+    role: creator
+    organization: "Hatay Mustafa Kemal \xDCniversitesi, Ziraat Fak\xFCltesi, Toprak\
+      \ Bilimi ve Bitki Besleme B\xF6l\xFCm\xFC, Hatay"
+    url: https://orcid.org/0000-0001-5158-8412
+content_info: {}

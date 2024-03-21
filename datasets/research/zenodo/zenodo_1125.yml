@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hirsch_2019
+  dataseturi: https://doi.org/10.1109/ISCE.2019.8901012
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Capacitive Soil Moisture Sensor Node for IoT in Agriculture and Home
+  abstract: '&lt;p&gt;Growing food for nine billion people is a challenge we will
+    face in near future. Digital technologies hold a great promise to increase efficiency
+    and use resources effectively. In this paper we present a low-power and scalable
+    IoT-based architecture for home farmers and scientific purposes that enables to
+    verify the environmental impact on plants developments by monitoring the soil
+    moisture and temperature. The measured values are transmitted via Bluetooth Low
+    Energy (BLE) to a gateway, e.g., a smartphone running the gateway app, to a cloud
+    platform that stores and processes the data. This data is useful to give home
+    farmers vital information, e.g., when to water a plant or when the plant is prune
+    to get infected by a disease. This information is of great importance because
+    it helps to decrease crop failures and thus farm more efficient. The hardware
+    and software architecture presented is scalable&lt;br&gt;
+
+    and designed to consume low power. Experiments show that it is possible to create
+    a high-spatial resolution by putting many sensor nodes on a small area, in order
+    to help research to measure micro-climate.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Internet of Things
+      - Precision Farming
+      - Smart Farming
+      - Home Farming
+      - Crop Disease
+      - Micro-climate Measurements
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Capacitive Soil Moisture Sensor Node for IoT in Agriculture and Home
+    url: http://dx.doi.org/10.1109/ISCE.2019.8901012
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hirsch-Christian:
+    individualname: Hirsch, Christian
+    role: creator
+  Bartocci-Ezio:
+    individualname: Bartocci, Ezio
+    role: creator
+  Grosu-Radu:
+    individualname: Grosu, Radu
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2539633
+  dataseturi: https://doi.org/10.5281/zenodo.2539633
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Investigation of pollution of the soil cover of objects of Sumgait area of
+    the Absheron peninsula with heavy metals
+  abstract: "In a paper, the investigations of pollution of the soil cover of objects\
+    \ of Sumgait region of the Absheron peninsula with heavy metals have been carried\
+    \ out. The microelements composition of the grey-brown soils of Sumgait region\
+    \ taken from the territory of superphosphate plant has been studied. According\
+    \ to the content of microelements, the investigated soils in the North\u2013Western\
+    \ and southern parts of the Absheron Peninsula have been grouped on a degree of\
+    \ concentration of heavy metals depending on the depth of the investigated soils.\
+    \ The zinc (77.0 mg/kg, at depth 0\u201316 cm, soil profile no. 03), copper and\
+    \ cadmium (88 mg/kg and 0,36 mg/kg at depth 0-20 cm, soil profile no. 05) have\
+    \ the highest concentration in comparison with other microelements. Depending\
+    \ on the location of the key areas from sources of technogenic emissions, the\
+    \ content of heavy metals is changed. Thus, it has been revealed that in the soils\
+    \ investigated by us on the territory of the superphosphate plant the most important\
+    \ micro elements, i.e. heavy metals have been unevenly distributed."
+  keywords:
+    default:
+      keywords:
+        subject: Sumgait region of Absheron Peninsula
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2019-01-15'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2539633
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2539632
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Akhmedova-R.:
+    individualname: Akhmedova, R.
+    role: creator
+    organization: Sumgait State University
+    url: ''
+  Ashurova-N.:
+    individualname: Ashurova, N.
+    role: creator
+    organization: Sumgait State University
+    url: ''
+  Babayeva-T.:
+    individualname: Babayeva, T.
+    role: creator
+    organization: Sumgait State University
+    url: ''
+content_info: {}

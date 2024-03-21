@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nerva_2019
+  dataseturi: https://doi.org/10.1016/j.soilbio.2019.04.014
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil microbiome analysis in an ESCA diseased vineyard
+  abstract: '&lt;p&gt;The soil microbiome is linked to the microbial ecosystem of
+    aboveground plant tissues and it is able to modulate and stimulate plant responses.
+    The community composition, i.e. diversity and abundance, is influenced by several
+    factors such as agronomical practices, agrochemical practices and geographical
+    location. For the first time, we present here the investigation of the microbial
+    community related to the soil of a long-established cultivated vineyard using
+    the meta-barcoding approach. Specifically, we analyzed the bacterial and fungal
+    communities of the bulk soils associated with esca-symptomatic and asymptomatic
+    vines. Results showed no significant differences in richness between the two types
+    of samples. Conversely, we observed that esca-related pathogens and grapevine
+    trunk disease (GTD) pathogens were more abundant in the bulk soils of symptomatic
+    plants, suggesting that the soil could represent an important source of inoculum.
+    We also identified two fungal genera, Curvularia and Coprinopsis, which are exclusive
+    to the soil associated with asymptomatic plants. Moreover, Actinobacteria, a well-known
+    group of bacteria symbionts, are over-represented in asymptomatic soils. Further
+    studies are needed to expand the knowledge about these microorganisms, since they
+    could have a role in controlling the development and/or spread of esca pathogens.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - ESCA syndrome
+      - Grapevine trunk diseases
+      - Grapevine trunk pathogens
+      - Vitis vinifera
+      - Soil microbiome
+      - 16S and ITS barcoding
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil microbiome analysis in an ESCA diseased vineyard
+    url: http://dx.doi.org/10.1016/j.soilbio.2019.04.014
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Luca-Nerva:
+    individualname: Luca Nerva
+    role: creator
+  Alessandro-Zanzotto:
+    individualname: Alessandro Zanzotto
+    role: creator
+  Massimo-Gardiman:
+    individualname: Massimo Gardiman
+    role: creator
+  Federica-Gaiotti:
+    individualname: Federica Gaiotti
+    role: creator
+  Walter-Chitarra:
+    individualname: Walter Chitarra
+    role: creator
+  Nerva-L.:
+    individualname: Nerva, L.
+    role: creator
+  Zanzotto-A.:
+    individualname: Zanzotto, A.
+    role: creator
+  Gardiman-M.:
+    individualname: Gardiman, M.
+    role: creator
+  Gaiotti-F.:
+    individualname: Gaiotti, F.
+    role: creator
+  Chitarra-W.:
+    individualname: Chitarra, W.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

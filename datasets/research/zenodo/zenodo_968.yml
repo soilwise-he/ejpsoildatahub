@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Reinhardt_2021
+  dataseturi: https://doi.org/10.3390/agronomy11122382
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A Review of Industrial Crop Yield Performances on Unfavorable Soil Types
+  abstract: '&lt;p&gt;Industrial crop cultivation on marginal agricultural land limits
+    indirect land-use change effects that pose a threat to food security. This review
+    compiles results from 91 published crop-specific field trial datasets spanning
+    12 relevant industrial crops and discusses their suitability for cultivation on
+    unfavorable soil types (USTs). It was shown that the perennial species&nbsp;Miscanthus(Miscanthus&nbsp;Andersson)
+    and reed canary grass (Phalaris&nbsp;arundinacea&nbsp;L.) performed well on USTs
+    with both high clay and/or high sand contents. Information on stoniness (particles
+    sizes &gt; 2 mm), where mentioned, was limited. It was found to have only a small
+    impact on biological yield potential, though it was not possible to assess the
+    impact on mechanization as would be used at a commercial scale. For soils with
+    extreme clay or sand contents, half of the crops showed moderate suitability.
+    The large yield variations within and between crops revealed large knowledge gaps
+    in the combined effects of crop type and agronomy on USTs. Therefore, more field
+    trials are needed on diverse USTs in different climates with better equipment
+    and more consistent measurements to improve the accuracy of potential yield predictions
+    spatially and temporally. Additionally, larger trials are needed to optimize cultivation
+    and harvesting&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - biomass
+      - Bioeconomy
+      - Marginal Lands
+      - industrial crops
+      - crops
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A Review of Industrial Crop Yield Performances on Unfavorable Soil Types
+    url: http://dx.doi.org/10.3390/agronomy11122382
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reinhardt-Jana:
+    individualname: Reinhardt, Jana
+    role: creator
+  Hilgert-Pia:
+    individualname: Hilgert, Pia
+    role: creator
+  von-Cossel-Moritz:
+    individualname: von Cossel, Moritz
+    role: creator
+  Von-Cossel-Moritz:
+    individualname: Von Cossel, Moritz
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

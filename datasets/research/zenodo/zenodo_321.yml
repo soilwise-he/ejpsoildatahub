@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Berthier_1838
+  dataseturi: https://doi.org/10.1016/s0016-0032(38)90999-8
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Analysis of a vegetable soil from Cuba
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Analysis of a vegetable soil from Cuba
+    url: http://dx.doi.org/10.1016/s0016-0032(38)90999-8
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Berthier-M.-P.:
+    individualname: Berthier, M. P.
+    role: creator
+  Berthier-M.P.:
+    individualname: Berthier, M.P.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

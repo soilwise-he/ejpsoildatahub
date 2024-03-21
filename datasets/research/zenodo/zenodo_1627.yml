@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6154830
+  dataseturi: https://doi.org/10.5281/zenodo.6154830
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Extraction-spectrophotometric Determination of Bismuth(III) in Soil and Ore
+    using Iodide and Amidines
+  abstract: Department of Chemistry. Ravishauker University, Raipur-492 010 <em>Manuscript
+    received July 1990, revised 24 January 1991, accepted 28 March 1991</em> Extraction-spectrophotometric
+    Determination of Bismuth(III) in Soil and Ore using Iodide and Amidines.
+  keywords:
+    default:
+      keywords:
+        subject: Bismuth
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1991-03-31'
+    publication: '1991'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6154830
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6154829
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MANAS-KANTI-DEB:
+    individualname: MANAS KANTI DEB
+    role: creator
+    organization: ''
+    url: ''
+  R.-K.-MISHRA:
+    individualname: R. K. MISHRA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

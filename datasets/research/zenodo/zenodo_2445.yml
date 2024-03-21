@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5647958
+  dataseturi: https://doi.org/10.5281/zenodo.5647958
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of a drying phase on K-transformation in a continuously flooded
+    limed and the corresponding unlimed soil
+  abstract: Department of Agricultural Chemistry and Soil Science, Faculty of Agriculture,
+    Bidhan Chandra Krishi Viswavidyalaya, Mohanpur-741 252, Nadia, West Bengal, India
+    <em>E-mail:</em> tapadebnath69@gmail.com, 1991sayan@gmail.com, d_saha11@yahoo.com
+    <em>Manuscript received online 01 December 2018, revised 25 April 2018, accepted
+    22 May 2019</em> A laboratory experiment was conducted to study the effect of
+    a drying phase on transformation of different fractions of K in a continuously
+    flooded limed and the corresponding unlimed soil in presence and absence of N
+    and K fertilizers. Results of the investigation revealed that irrespective of
+    treatments, water soluble K decreased significantly with increase in the period
+    of incubation. Liming and maintenance of a drying phase intensified the decrease
+    of water soluble K in waterlogged acid soil. Addition of N along with K disturbs
+    the K-equilibrium in soil as both K<sup>+</sup> and NH<sub>4</sub><sup>+</sup>
+    compete for the same exchange sites. The increase in exchangeable K and concomitant
+    decrease in non-exchangeable K in limed soil suggests a dynamic equilibrium between
+    these two forms of K in soil. Maintenance of a drying phase in presence of N and
+    K fertilizers released non-exchangeable K in limed soil. However, treatment of
+    limed soil with 1 N boiling HNO<sub>3</sub> released more K in presence of only
+    K than N plus K fertilizers. Changes in lattice K followed exactly an opposite
+    trend of results with respect to non-exchangeable and 1 N boiling HNO<sub>3</sub>
+    extractable K, which again suggests a dynamic equilibrium between them. Total
+    K is not significantly influenced due to liming and maintenance of a drying phase
+    in waterlogged acid soil over 90-day period of incubation.
+  keywords:
+    default:
+      keywords:
+        subject: flooded soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5647958
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5647957
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tapa-Debnath:
+    individualname: Tapa Debnath
+    role: creator
+    organization: ''
+    url: ''
+  Sayan-Majumder:
+    individualname: Sayan Majumder
+    role: creator
+    organization: ''
+    url: ''
+  Dipankar-Saha:
+    individualname: Dipankar Saha
+    role: creator
+  Saha-Dipankar:
+    individualname: Saha, Dipankar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

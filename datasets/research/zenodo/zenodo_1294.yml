@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Darra_Mair_1894
+  dataseturi: https://doi.org/10.1016/s0033-3506(05)82308-x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Diphtheria prevalence in mitcham, with special reference to sewage pollution
+    of soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Diphtheria prevalence in mitcham, with special reference to sewage pollution
+      of soil
+    url: http://dx.doi.org/10.1016/s0033-3506(05)82308-x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Darra-Mair-L.-W.:
+    individualname: Darra Mair, L. W.
+    role: creator
+  Darra-Mair-L.W.:
+    individualname: Darra Mair, L.W.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

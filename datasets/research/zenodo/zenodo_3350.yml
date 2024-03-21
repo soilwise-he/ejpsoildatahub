@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1092231
+  dataseturi: https://doi.org/10.5281/zenodo.1092231
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Magnesium Foliar Application And Phosphorien Soil Inoculation Positively
+    Affect Pisum Sativum L. Plants Grown On Sandy Calcareous Soil
+  abstract: "The effects of soil inoculation with phosphorien-containing phosphate-dissolving\
+    \ bacteria (PDB) and/or magnesium (Mg) foliar application at the rates of 0, 0.5\
+    \ and 1mM on growth, green pod and seed yields, and chemical constituents of <em>Pisum\
+    \ sativum </em>L. grown on a sandy calcareous soil were investigated. Results\
+    \ indicated that PDB and/or Mg significantly increased shoot length, number of\
+    \ branches plant<sup>\u20131</sup>, total leaf area plant<sup>\u20131</sup> and\
+    \ canopy dry weight plant<sup>\u20131</sup>, leaf contents of pigments, soluble\
+    \ sugars, free proline, nitrogen, phosphorus, potassium, magnesium, and calcium,\
+    \ and Ca/Na ratio, while leaf Na content was reduced. PDB and/or Mg also increased\
+    \ green pod and seed yields. We concluded that PDB and Mg have pronounced positive\
+    \ effects on<em> Pisum sativum </em>L. plants grown on sandy calcareous soil.\
+    \ PDB and Mg, therefore, have the potential to be applied for various crops to\
+    \ overcome the adverse effects of the newly-reclaimed sandy calcareous soils."
+  keywords:
+    default:
+      keywords:
+        subject: Pisum sativum L.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-04-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1092231
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1092230
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saad-M.-Howladar:
+    individualname: Saad M. Howladar
+    role: creator
+  Ashraf-Sh.-Osman:
+    individualname: Ashraf Sh. Osman
+    role: creator
+  Mostafa-M.-Rady:
+    individualname: Mostafa M. Rady
+    role: creator
+  Hassan-S.-Al-Zahrani:
+    individualname: Hassan S. Al-Zahrani
+    role: creator
+  Howladar-Saad-M.:
+    individualname: Howladar, Saad M.
+    role: ''
+    organization: ''
+    url: ''
+  Osman-Ashraf-Sh.:
+    individualname: Osman, Ashraf Sh.
+    role: ''
+    organization: ''
+    url: ''
+  Rady-Mostafa-M.:
+    individualname: Rady, Mostafa M.
+    role: ''
+    organization: ''
+    url: ''
+  Al-Zahrani-Hassan-S.:
+    individualname: Al-Zahrani, Hassan S.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

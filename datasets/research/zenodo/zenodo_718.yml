@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hwang_2020
+  dataseturi: https://doi.org/10.1099/ijsem.0.003689
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Nocardioides sambongensis sp. nov., isolated from Dokdo Islands soil
+  abstract: 'Hwang, Ye-Ji, Son, Jin-Soo, Lee, Soo-Yeong, He, Yuxi, Jo, YoungJae, Shin,
+    Jae-Ho, Ghim, Sa-Youl (2020): Nocardioides sambongensis sp. nov., isolated from
+    Dokdo Islands soil. International Journal of Systematic and Evolutionary Microbiology
+    70 (1): 16-22, DOI: 10.1099/ijsem.0.003689, URL: http://dx.doi.org/10.1099/ijsem.0.003689'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Actinobacteria
+      - Actinobacteridae
+      - Actinomycetales
+      - Nocardioidaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Nocardioides sambongensis sp. nov., isolated from Dokdo Islands soil
+    url: http://dx.doi.org/10.1099/ijsem.0.003689
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hwang-Ye-Ji:
+    individualname: Hwang, Ye-Ji
+    role: creator
+  Son-Jin-Soo:
+    individualname: Son, Jin-Soo
+    role: creator
+  Lee-Soo-Yeong:
+    individualname: Lee, Soo-Yeong
+    role: creator
+  He-Yuxi:
+    individualname: He, Yuxi
+    role: creator
+  Jo-YoungJae:
+    individualname: Jo, YoungJae
+    role: creator
+  Shin-Jae-Ho:
+    individualname: Shin, Jae-Ho
+    role: creator
+  Ghim-Sa-Youl:
+    individualname: Ghim, Sa-Youl
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

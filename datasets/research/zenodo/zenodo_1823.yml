@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hilgard_1906
+  dataseturi: https://doi.org/10.2475/ajs.s4-21.124.261
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Some peculiarities of rock weathering and soil formation in the arid and
+    humid regions
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Some peculiarities of rock weathering and soil formation in the arid and
+      humid regions
+    url: http://dx.doi.org/10.2475/ajs.s4-21.124.261
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hilgard-E.-W.:
+    individualname: Hilgard, E. W.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

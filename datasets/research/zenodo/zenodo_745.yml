@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8195186
+  dataseturi: https://doi.org/10.5281/zenodo.8195186
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: CONCEPTS IN THE NETHERLANDS OF RISK ASSESSMENT OF SOIL CONTAMINATION
+  abstract: In 1994, a new Soil Protection Act was implemented in The Netherlands.
+    It states that risk assessments are to be performed if the intervention value
+    is exceeded.. The intervention values reflect potential risks of contaminated
+    soil or groundwater for humans or the ecosystem.. The Act also describes in detail
+    the methodology to be used.. In the case that an intervention value is exceeded
+    by a certain substance, the urgency of remediation has to be defined This is to
+    be done by a site-specific risk assessment, determining the current risks posed
+    to humans and the ecosystem.. In this article, the Dutch system is critically
+    reviewed and compared to a German technique (in development) It is concluded that
+    international harmonization is needed in the field of parameters and toxicological
+    data that are used in the different models.
+  keywords:
+    default:
+      keywords:
+        subject: toxicological standards
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1997-02-12'
+    publication: '1997'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8195186
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8195185
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rob--Theelen:
+    individualname: Rob  Theelen
+    role: creator
+  Theelen-Rob:
+    individualname: Theelen, Rob
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

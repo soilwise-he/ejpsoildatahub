@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5867147
+  dataseturi: https://doi.org/10.5281/zenodo.5867147
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of some organic compounds on the mobility of some trace metals through
+    soil amended with fly ash
+  abstract: 'Department of Applied Chemistry, Z. H. College of Engineering &amp; Technology,
+    Aligarh Muslim University, Aligarh-202 002, India Department of Chemistry, Aligarh
+    Muslim University, Aligarh-202 002, India <em>Manuscript received R June 1999,
+    revised 21 February 2000, accepted 3 March 2000</em> The effects of some organic
+    compounds, viz. formic acid, acetic acid, methanol, ethanol, formaldehyde, acetaldehyde,
+    acetone and ethyl methyl ketone on the mobility of some trace metals, viz. Co,
+    Zn, Cu, Ag and Pb through soil amended with fly ash have been invstigated in an
+    alkaline fine sandy loam soil of Aligarh district (U.P.). The results indicate
+    decrease in the mobility of trace metals with increasing dosage of fly ash in
+    soil but with a variation in intensity by use of organic compound as a mobile
+    phase. The mobility order is Co &gt; Zn &gt; Cu &gt; Ag &gt; Pb in case of organic
+    acids and alcohols, and Co &gt; Cu &gt; Zn &gt; Ag &gt; Ph for aldehydes and ketones.
+    The effect of organic chemicals on the translocation of metals follows the sequence
+    : formic acid &gt; acetic acid &gt; methanol &gt; acetone &gt; formaldehyde &gt;
+    ethyl methyl ketone &gt; acetaldehyde &gt; ethanol.'
+  keywords:
+    default:
+      keywords:
+        subject: soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2000-07-31'
+    publication: '2000'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5867147
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5867146
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Samiullah-Khan:
+    individualname: Samiullah Khan
+    role: creator
+    organization: ''
+    url: ''
+  Jamal-A.-Khan:
+    individualname: Jamal A. Khan
+    role: creator
+  R.-K.-Bhardwaj:
+    individualname: R. K. Bhardwaj
+    role: creator
+    organization: ''
+    url: ''
+  Shagufta-Jabin:
+    individualname: Shagufta Jabin
+    role: creator
+    organization: ''
+    url: ''
+  Khan-Jamal-A.:
+    individualname: Khan, Jamal A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5906061
+  dataseturi: https://doi.org/10.5281/zenodo.5906061
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Open Soil Atlas - Citizen Science Project for Testing and Measuring Soil
+    Fertility in Berlin
+  abstract: In this paper, we analyzed the result from 77 datasets were collected
+    by citizen scientists. In a final analysis, it was concluded that mostly all sites
+    that are not being actively regenerated show a certain amount of soil degradation.
+    As soil samples were taken only at specific points, they are still not representative
+    of the overall state of soils of Berlin. Further testing is needed and the possibility
+    for scaling up the results achieved in this 6-months accelerator is promising.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-01-26'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5906061
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5906060
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sara-Busnardo:
+    individualname: Sara Busnardo
+    role: creator
+  Fabio-Volkmann:
+    individualname: Fabio Volkmann
+    role: creator
+  Elena-Ferrari:
+    individualname: Elena Ferrari
+    role: creator
+  Anna-Verones:
+    individualname: Anna Verones
+    role: creator
+  Ben-Purinton:
+    individualname: Ben Purinton
+    role: creator
+  Busnardo-Sara:
+    individualname: Busnardo, Sara
+    role: ''
+    organization: ''
+    url: ''
+  Volkmann-Fabio:
+    individualname: Volkmann, Fabio
+    role: ''
+    organization: ''
+    url: ''
+  Ferrari-Elena:
+    individualname: Ferrari, Elena
+    role: ''
+    organization: ''
+    url: ''
+  Verones-Anna:
+    individualname: Verones, Anna
+    role: ''
+    organization: ''
+    url: ''
+  Purinton-Ben:
+    individualname: Purinton, Ben
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3299609
+  dataseturi: https://doi.org/10.5281/zenodo.3299609
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluating of Bearing Capacity of Two Adjacent Strip Foundations Located
+    around a Soil Slip
+  abstract: Selection of soil bearing capacity is an important issue that should be
+    investigated under different conditions. The bearing capacity of foundation around
+    of soil slope is based on the active and passive forces. On the other hand, due
+    to extension of urban structures, it is inevitable to put the foundations together.
+    Concerning the two cases mentioned above, investigating the behavior of adjacent
+    foundations which are constructed besides soil slope is essential. It should be
+    noted that, according to the conditions, the bearing capacity of adjacent foundations
+    can be less or more than mat foundations. Also, soil reinforcement increases the
+    bearing capacity of adjacent foundations, and the amount of its increase depends
+    on the distance between foundations. In this research, based on numerical studies,
+    a method is presented for evaluating ultimate bearing capacity of adjacent foundations
+    at different intervals. In the present study, the effect of foundation width,
+    the center to center distance of adjacent foundations and reinforced soil has
+    been investigated on the bearing capacity of adjacent foundations beside soil
+    slope. The results indicate that, due to interference of failure surfaces created
+    under foundation, it depends on their intervals and the ultimate bearing capacity
+    of foundation varies.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-02'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3299609
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3299608
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Meftahi:
+    individualname: M. Meftahi
+    role: creator
+    organization: ''
+    url: ''
+  M.-Hoseinzadeh:
+    individualname: M. Hoseinzadeh
+    role: creator
+    organization: ''
+    url: ''
+  S.-A.-Naeini:
+    individualname: S. A. Naeini
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

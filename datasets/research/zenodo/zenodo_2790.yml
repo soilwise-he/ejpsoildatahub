@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Salisbury_1922
+  dataseturi: https://doi.org/10.2307/2255403
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Stratification and Hydrogen-Ion Concentration of the Soil in Relation to
+    Leaching and Plant Succession with Special Reference to Woodlands
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Stratification and Hydrogen-Ion Concentration of the Soil in Relation to
+      Leaching and Plant Succession with Special Reference to Woodlands
+    url: http://dx.doi.org/10.2307/2255403
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salisbury-E.-J.:
+    individualname: Salisbury, E. J.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

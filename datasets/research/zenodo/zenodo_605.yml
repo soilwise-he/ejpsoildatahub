@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tedone_2020
+  dataseturi: https://doi.org/10.1088/1748-3190/ab9a15
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Optimal control of plant root tip dynamics in soil
+  abstract: '&lt;p&gt;This paper aims to propose a novel approach to model the dynamics
+    of objects that move within the soil, e.g. plants roots. One can assume that external
+    forces are significant only at the tip of the roots, where the plant&#39;s growth
+    is actuated. We formulate an optimal control problem that minimises the energy
+    spent by a growing root subject to physical constraints imposed by the surrounding
+    soil at the tip. We study the motion strategy adopted by plant roots to facilitate
+    penetration into the soil, which we hypothesize to be a circumnutation movement.
+    By solving the proposed optimal control problem numerically, we validate the hypothesis
+    that plant roots adopt a circumnutation motion pattern to reduce soil penetration
+    resistance during growth. The proposed formalisation could be applied to replicate
+    such a biological behaviour in robotic systems, to adopt the most efficient strategy
+    for autonomous devices in soil exploration.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Optimal control of plant root tip dynamics in soil
+    url: http://dx.doi.org/10.1088/1748-3190/ab9a15
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tedone-F.:
+    individualname: Tedone, F.
+    role: creator
+  Del-Dottore-E.:
+    individualname: Del Dottore, E.
+    role: creator
+  Palladino-M.:
+    individualname: Palladino, M.
+    role: creator
+  Mazzolai-B.:
+    individualname: Mazzolai, B.
+    role: creator
+  Marcati-P.:
+    individualname: Marcati, P.
+    role: creator
+  Tedone-Fabio:
+    individualname: Tedone, Fabio
+    role: creator
+  Del-Dottore-Emanuela:
+    individualname: Del Dottore, Emanuela
+    role: creator
+  Palladino-Michele:
+    individualname: Palladino, Michele
+    role: creator
+  Mazzolai-Barbara:
+    individualname: Mazzolai, Barbara
+    role: creator
+  Marcati-Pierangelo:
+    individualname: Marcati, Pierangelo
+    role: creator
+  IOP-Publishing:
+    individualname: IOP Publishing
+    role: creator
+content_info: {}

@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6199051
+  dataseturi: https://doi.org/10.5281/zenodo.6199051
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Compaction and Leaching on Heat of Transport of Soil Water
+  abstract: "Department of Agricultural Chemistry and Soil Science, Bidhan Chandra\
+    \ Krhhi Viswavidyalaya, Kalyani-741 985<br> <em>Manuscript received 6 January\
+    \ 1986, revised 17 December 1986, accepted 6 July 1987</em> Thermal diffusion\
+    \ of water in an alluvial soil at various degrees of compaction and in a saline\
+    \ soil, subjected to various degrees of leaching, has been studied. The heat of\
+    \ transport was calculated by<em> </em>using a relation based on irreversible\
+    \ thermodynamics. The results are interpreted in terms of the nature of interactions\
+    \ of the diffusing soil \u2014water with the neighbouring soil particles."
+  keywords:
+    default:
+      keywords:
+        subject: Neighbouring soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1987-08-31'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6199051
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6199050
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-BHATTACHARJYA:
+    individualname: A. BHATTACHARJYA
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

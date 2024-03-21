@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1039663
+  dataseturi: https://doi.org/10.5281/zenodo.1039663
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Soil Thermal Behavior In Different Moisture Condition: An Overview Of Iter
+    Project From Laboratory To Field Test Monitoring'
+  abstract: 'The thermal properties of soils can be considered one of the most important
+    parameters for many engineering projects designing. In detail, the thermal conductivity
+    plays a fundamental role when dimensioning ground heat exchangers, especially
+    very shallow geothermal (VGS) systems, interesting the first 2 m of depth from
+    the ground level. However, the determination of heat transfer in soils is difficult
+    to estimate, because depends on several factors, including, among others, particle
+    size, density, water content, mineralogy composition, ground temperature, organic
+    matter.
+
+
+    The performance of a VSG system, as horizontal collectors or special forms, is
+    strongly correlated to the kind of sediment at disposal and suddenly decreases
+    in case of dry-unsaturated conditions in the surrounding soil. Therefore, a better
+    knowledge of the relationship between thermal conductivity and water content is
+    required for understanding the VSG systems behavior in saturated and unsaturated
+    conditions.
+
+
+    Key challenge of ITER Project, funded by European Union, is to understand how
+    to enhance the heat transfer of the sediments surrounding the pipes, taking into
+    account the interactions between the soil, the horizontal heat exchangers and
+    the surrounding environment.
+
+
+    In order to obtain reliable data for modelling, an interdisciplinary approach
+    is used. In laboratory the physical-thermal properties of more than 15 soil mixtures,
+    consisting in (i) natural soil, (ii) pure sand and (iii) mixtures of pure sand
+    and clay additives, have been tested under different water content percentages
+    and different consolidation degree. Then the same parameters are monitored in
+    the project case study, in Eltersdorf, (Germany), where five helix collectors
+    are installed in horizontal trenches filled in with five different mixtures already
+    tested in laboratory. In addition, a monitoring system allows to record every
+    15 minutes, by means of devoted sensors, values related to ground temperature
+    (undisturbed, inside and outside each helix), fluid temperature and flow running
+    in the collectors, volumetric water content at 20 and 60 cm depth. Moreover, a
+    meteorological station provides climatic data acquisition as rainfall, wind speed,
+    relative humidity and air temperature.
+
+
+    The main results achieved until now are useful for future modeling because shed
+    new light (i) on the differences between data collected in laboratory and in the
+    field and (ii) on the influence of the technical solution adopted in situ to fill
+    in the trenches, able to create a non-homogeneous distribution of the soil bodies
+    around the helix.'
+  keywords:
+    default:
+      keywords:
+        subject: soil, thermal conductivity, very shallow geothermal energy, helix,
+          heat exchangers
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-06-09'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1039663
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1039662
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Di-Sipio-Eloisa:
+    individualname: Di Sipio, Eloisa
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: https://orcid.org/0000-0001-5573-4261
+  Bertermann-David:
+    individualname: Bertermann, David
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: ''
+content_info: {}

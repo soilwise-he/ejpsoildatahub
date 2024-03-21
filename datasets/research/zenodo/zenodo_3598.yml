@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10457673
+  dataseturi: https://doi.org/10.5281/zenodo.10457673
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of Soil Engineering Characteristics of Some Soils in Entisol and
+    Inceptisol
+  abstract: "Abstract The soils of the research area are classified in Entisol and\
+    \ Inceptisol Orders. Entisol Order is classified in Typic Xerofluvent Subgroup,\
+    \ Inceptisol Order is classified in Fluventic Haploxerept, Calcic Haploxerept,\
+    \ Typic Haploxerept subgroup. The adhesion, cohesion and shear resistance values\
+    \ of the soils and therefore the behavior of the soils against cultivation and\
+    \ depending on the soil engineering properties are very different. For this reason,\
+    \ the functions of moisture in soils should be well evaluated in the mechanization\
+    \ conditions of soils. Otherwise, air, water and communication will be adversely\
+    \ affected by compaction layers, which are undesirable in the soil, and decreasing\
+    \ porosity rates, and root development will not be under normal conditions, and\
+    \ undesirable physical conditions occur. The liquid limit values of the soils\
+    \ entering the Entisol Order vary between 30.60% and 58.60% in surface horizons,\
+    \ and between 35.90% and 56.60% in subsurface horizons. Differences in liquid\
+    \ limit values are due to the privileges in the clay fractions of the soils. The\
+    \ liquid limit values of the soils entering the Inceptisol Orders vary between\
+    \ 27.80-40.10%. The plastic limit values of Entisol Order soils vary between 14.17-26.55%\
+    \ and 9.86-16.92% of Inseptisol Order soils. Classification according to the Casagranda\
+    \ plasticity card is CL- moderately plastic inorganic clays for Ineptisol Order,\
+    \ while Entisol Order is classified as CH- Excess plastic inorganic clays. The\
+    \ moisture value, which provides the most suitable tempering conditions, varies\
+    \ between 16\xB11-23\xB11 in Entisol Orders soil and 12.5\xB11-18\xB11 in Inceptisol\
+    \ Orders."
+  keywords:
+    default:
+      keywords:
+        subject: Soil mechanics, Suitable annealing conditions, Liquid limit, Plastic
+          limit
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-31'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10457673
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10457672
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Boyraz-Erdem-D.:
+    individualname: Boyraz Erdem D.
+    role: DataCollector
+    organization: ''
+    url: ''
+  Cangir-C.:
+    individualname: Cangir C.
+    role: DataCollector
+    organization: ''
+    url: ''
+content_info: {}

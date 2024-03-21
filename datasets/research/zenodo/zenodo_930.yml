@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3420969
+  dataseturi: https://doi.org/10.5281/zenodo.3420969
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: 'The Abc soil types: Podzoluvisols, Albeluvisols or Retisols? A review'
+  abstract: "<strong>ABSTRACT</strong> At an archaeological excavation site in central\
+    \ Belgium, we found whitish soil material interspersing a clay illuviation horizon\
+    \ under a Roman road. Starting from this case, we will illustrate how insights\
+    \ into soil formation and soil geography are relevant for understanding landscape\
+    \ evolution and archaeology. We do this by focusing on the \u2018Abc\u2019 soil\
+    \ types, which are silt-loam soils that are well-drained and have a mottled and\
+    \ discontinuous clay illuviation horizon. In Belgium, these soils are, almost\
+    \ exclusively, found under ancient forests. To explain their formation, two hypotheses\
+    \ have been proposed. A first assumes that chemical weathering leads to the degradation\
+    \ of the clay illuviation horizon, a process enhanced by the acidifying effect\
+    \ of forest vegetation. A second hypothesis explains their morphology as relict\
+    \ features from periglacial phenomena. We further review how views on their formation\
+    \ were reflected in Soil Taxonomy (Glossudalfs), the FAO legend of the soil map\
+    \ of the world (Podzoluvisols) and in the World Reference Base for soil resources\
+    \ (Albeluvisols and Retisols). If we accept the hypothesis that the morphology\
+    \ of the Abc soil types has to be attributed to periglacial phenomena, Abc soil\
+    \ types must have been more widespread before deforestation. Agricultural activities\
+    \ promoted the homogenisation of the subsoil and the fading of their morphologic\
+    \ characteristics. A Roman road would have prevented such a homogenisation process.\
+    \ These insights help elucidate the evolution of past and current landscapes.<br>"
+  keywords:
+    default:
+      keywords:
+        subject: soil formation, archaeology, Soil Taxonomy, World Reference Base,
+          Belgian soil classification
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3420969
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.3420968
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Publisher-Raakvlak-Archaeology-Monuments:
+    individualname: Publisher Raakvlak Archaeology, Monuments
+    role: creator
+  Landscapes-of-Bruges:
+    individualname: Landscapes of Bruges
+    role: creator
+  Hinterland-Belgium--www.raakvlak.be:
+    individualname: Hinterland, Belgium , www.raakvlak.be
+    role: creator
+  Dondeyne-Stefan:
+    individualname: Dondeyne, Stefan
+    role: creator
+    organization: Department of Geography, Ghent University, Gent, Belgium
+    url: https://orcid.org/0000-0002-7422-7860
+  Deckers-Seppe:
+    individualname: Deckers, Seppe
+    role: creator
+    organization: Department of Earth and Environmental Sciences, University of Leuven,
+      Leuven, Belgium
+    url: ''
+content_info: {}

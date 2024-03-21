@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lipman_1910
+  dataseturi: https://doi.org/10.1017/s0021859600000861
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A Method for the Study of Soil Fertility Problems
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A Method for the Study of Soil Fertility Problems
+    url: http://dx.doi.org/10.1017/s0021859600000861
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lipman-Jacob-G.:
+    individualname: Lipman, Jacob G.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

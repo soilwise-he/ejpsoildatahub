@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10480942
+  dataseturi: https://doi.org/10.5281/zenodo.10480942
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Data paper
+identification:
+  title: Data on the influence of soil type on the non-linear seismic response of
+    a corroded reinforced concrete portal frame
+  abstract: The Excel file contains the results of a computer simulation of a reinforced
+    concrete portal frame corroded at the ground floor columns by the ingress of chloride
+    ions. This is a 3-storey portal frame subjected to earthquakes in two different
+    ground conditions. The results concern the seismic analysis using the pushover
+    method. The results obtained by the software are then grouped and presented graphically.
+    In this way, the force at the base of the portal frame is shown as a variation
+    of the displacement of the top of the terrace as a function of the age of the
+    building. The inter-storey displacement and the ductility of the portal frame
+    are determined.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10480942
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10480941
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  IDHAMOU-LAHOUCINE:
+    individualname: IDHAMOU, LAHOUCINE
+    role: creator
+    organization: Hassan University first of Settat
+    url: ''
+content_info: {}

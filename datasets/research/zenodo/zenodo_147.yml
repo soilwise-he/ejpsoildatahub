@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7133902
+  dataseturi: https://doi.org/10.5281/zenodo.7133902
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Risk of Soil Degradation
+  abstract: The organic matter of soil is degrading day by day. In recent decades,
+    it has become very intense as the country's population has increased. One-quarter
+    of species on planet earth lives in soils. It is predicated that around 27000
+    species of life forms are becoming extinct every year due to loss of habitat.
+    The main causes of soil degradation are deforestation, removal of natural vegetation,
+    converting forests to farms, degrading marginal lands and other agriculture related
+    activities.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-10-02'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7133902
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7133901
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sarthak-Relekar:
+    individualname: Sarthak Relekar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3457691
+  dataseturi: https://doi.org/10.5281/zenodo.3457691
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The unprsendant farmland soil monitoring project
+  abstract: Soil and groundwater remediation Act was enacted in year 2000. More than
+    ten years has already passed, Monitoring project has been completed,pollution
+    status has been defined,contaminated sites depollution have been launched,a great
+    progress has been made. This paper majorly to depict the extensive farmland soil
+    qauality monittoring which is unpredent in Taiwan and believe has never been done
+    worldwide. This project was initiated from February 8th, 2002 to August 8th, 2002.
+    The project tasks including digitalization of cadastre, farmland listing, basic
+    information collecting, field investigation, sampling &amp; analysis planning,
+    field sampling, soil sample analysis, data evaluation, suggestion of contaminated
+    farmland control, and analysis of potential pollution sources and transfer routes
+  keywords:
+    default:
+      keywords:
+        subject: soil monitoring, farmland, soil pollution standard
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-09-30'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3457691
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3457690
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.-Y.-Yeh:
+    individualname: T. Y. Yeh
+    role: creator
+    organization: Department of Civil and Environmental Engineering, National University
+      of Kaohsiung, Taiwan
+    url: ''
+  J.-R.-HO:
+    individualname: J. R. HO
+    role: creator
+    organization: Department of Civil and Environmental Engineering, National University
+      of Kaohsiung, Taiwan
+    url: ''
+content_info: {}

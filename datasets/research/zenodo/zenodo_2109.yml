@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dey_2017
+  dataseturi: https://doi.org/10.9734/IJPSS/2017/34219
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Spatial Variability Analysis of Soil Properties Using Geospatial Technique
+    in Katni District of Madhya Pradesh, India
+  abstract: "&lt;p&gt;This study was conducted in Katni district of Madhya Pradesh\
+    \ India to map the spatial variability of major soil properties using geospatial\
+    \ technique. Surface soil samples of 505 locations (0-15 cm) were collected by\
+    \ random sampling strategy using GPS. Soil physico-chemical properties were measured\
+    \ in laboratory. In this paper we execute and compare the accuracy of various\
+    \ ordinary kriging methods. Spatial variability of soil physico-chemical properties\
+    \ was quantified through semi-variogram analysis and the relevant surface maps\
+    \ were prepared through ordinary kriging. Exponential model fits well with experimental\
+    \ semi-variogram of pH, OC, available N, P, K, S and Zn, where as in case of electric\
+    \ conductivity best fitted model was spherical. Coefficient of variation of soil\
+    \ properties showed large variability with greatest variation observed\_ in Zn\
+    \ (140%) while EC, OC, N, P, and K has displayed moderate spatial variation whereas\
+    \ the smallest variation was in pH (14.16% ). In case of EC and P the goodness\
+    \ of prediction (G) had a negative value while N, P, K, pH, Zn and S shows positive\
+    \ value. The pH value in north-east part of the study area was alkaline and in\
+    \ the south-west portion of area was acidic in nature. Correlation coefficient\
+    \ between soil nutrients shows strong positive relationship between Nitrogen and\
+    \ organic carbon (r= 0.955). Cross validation of kriged map shows that spatial\
+    \ prediction of soil nutrients using semi-variogram parameters is better than\
+    \ assuming mean of observed value for any un-sampled location.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Geostatistics
+      - ordinary kriging
+      - spatial interpolation
+      - semi-variogram
+      - correlation coefficient
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Spatial Variability Analysis of Soil Properties Using Geospatial Technique
+      in Katni District of Madhya Pradesh, India
+    url: http://dx.doi.org/10.9734/IJPSS/2017/34219
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-Dey:
+    individualname: P. Dey
+    role: creator
+  S.-Karwariya:
+    individualname: S. Karwariya
+    role: creator
+  N.-S.-Bhogal:
+    individualname: N. S. Bhogal
+    role: creator
+  Dey-P:
+    individualname: Dey, P
+    role: creator
+  Karwariya-S:
+    individualname: Karwariya, S
+    role: creator
+  Bhogal-N:
+    individualname: Bhogal, N
+    role: creator
+  Sciencedomain-International:
+    individualname: Sciencedomain International
+    role: creator
+content_info: {}

@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Malek_2020
+  dataseturi: https://doi.org/10.11591/ijeecs.v20.i2.pp870-877
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effects of Soil Profile on the Transient Performance of Substation Grounding
+    System
+  abstract: '&lt;p&gt;Lightning transient characteristic of the grounding grid is
+    fundamental for optimum performance of lightning protection of a substation. In
+    order to design an appropriate grounding system for such substation, it is important
+    to study its transient characteristics because the high impulse current is significantly
+    different compared to power frequency current. In this paper, substation grounding
+    grid model was developed using CDEGS software to analyze the grid transient performance
+    in terms of ground potential rise (GPR), touch voltage and step voltage when the
+    grounding system is struck by a lightning impulse current. Several parameters,
+    such as lightning current amplitude, feed point and the number of sub-grid, were
+    altered to study their relationship with the transient performance. The maximum
+    transient GPR, touch voltage, and step voltage increase as the lightning current
+    amplitude increase. The maximum transient GPR and step voltage are the highest
+    at the corner of the grounding grid while the maximum touch voltage is the highest
+    at the centre of the grounding grid. In addition, the maximum transient GPR and
+    step voltage decrease when the number of sub-grid increases. In contrast, the
+    touch voltage slightly increases as the number of sub-grid increases. The maximum
+    transient GPR, and step voltage are the highest at the 2-layer and the lowest
+    at the uniform soil or single-layer soil.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Transient
+      - GPR
+      - Touch voltage
+      - Step voltage
+      - Grounding grid
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effects of Soil Profile on the Transient Performance of Substation Grounding
+      System
+    url: http://dx.doi.org/10.11591/ijeecs.v20.i2.pp870-877
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdul-Malek-Zulkurnain:
+    individualname: Abdul-Malek, Zulkurnain
+    role: creator
+  Yaman-Mohammad-Shahrin-Affendy:
+    individualname: Yaman, Mohammad Shahrin Affendy
+    role: creator
+  Adnan-Muhammad:
+    individualname: Adnan, Muhammad
+    role: creator
+  Malek-Zulkurnain-Adul:
+    individualname: Malek, Zulkurnain Adul
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

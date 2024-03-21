@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10444996
+  dataseturi: https://doi.org/10.5281/zenodo.10444996
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Optimizing Soil Health Management in Smart Agriculture: Deep Learning Algorithms
+    for Nutrient Analysis and Fertilizer Recommendation with Precision Agriculture
+    Systems'
+  abstract: Today, technology makes the management of soil health the key to sustainable,
+    high-yield agriculture. This article discusses a new approach using artificial
+    intelligence and deep learning to understand the nutrients needed in the soil
+    and provide fertilizer guidelines for advanced agriculture. We are using modern
+    agricultural techniques, coupled with artificial intelligence, to develop a new
+    way to protect soil that is more convenient, accurate and intelligent. Our study
+    uses complex soil data to accurately predict soil water scarcity. We found a special
+    algorithm. In addition, we have proposed an AI-driven fertilizer recommendation
+    system that can customize different solutions for different soils. This research
+    not only aligns AI with the practical needs of agriculture, but also creates new
+    and more useful technologies for future smart agriculture innovations, promoting
+    more advanced smart agriculture, fewer environmental risks, and smarter sustainable
+    development.
+  keywords:
+    default:
+      keywords:
+        subject: Sustainable Farming
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-02-12'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10444996
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10444995
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Southern-United-Academy-of-Sciences:
+    individualname: Southern United Academy of Sciences
+    role: creator
+  Zang-Hengyi:
+    individualname: Zang, Hengyi
+    role: creator
+    organization: "Universidad Tecnol\xF3gico Universitam"
+    url: ''
+  Dong-Xinqi:
+    individualname: Dong, Xinqi
+    role: creator
+    organization: University of Maine at Presque Isle
+    url: ''
+content_info: {}

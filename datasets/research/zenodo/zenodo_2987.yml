@@ -1,0 +1,118 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wagner_2023
+  dataseturi: https://doi.org/10.1016/j.geoderma.2023.116652
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: High resolution mapping shows differences in soil carbon and nitrogen stocks
+    in areas of varying landscape history in Canadian lowland tundra
+  abstract: '&lt;p&gt;Abstract: &quot;&lt;/p&gt;
+
+
+    &lt;p&gt;Soil organic carbon (SOC) in Arctic coastal polygonal tundra is vulnerable
+    to climate change, especially in soils with occurrence of large amounts of ground
+    ice. Pan-arctic studies of mapping SOC exist, yet they fail to describe the high
+    spatial variability of SOC storage in permafrost landscapes. An important factor
+    is the landscape history which determines landform development and consequently
+    the spatial variability of SOC. Our aim was to map SOC stocks, and which environmental
+    variables that determine SOC, in two adjacent coastal areas along Canadian Beaufort
+    Sea coast with different glacial history. We used the machine learning technique
+    random forest and environmental variables to map the spatial distribution of SOC
+    stocks down to 1&nbsp;m depth at a spatial resolution of 2&nbsp;m for depth increments
+    of 0&ndash;5, 5&ndash;15, 15&ndash;30, 30&ndash;60 and 60&ndash;100&nbsp;cm.&lt;/p&gt;
+
+
+    &lt;p&gt;The results show that the two study areas had large differences in SOC
+    stocks in the depth 60&ndash;100&nbsp;cm due to high amounts of ground ice in
+    one of the study areas. There are also differences in variable importance of the
+    explanatory variables between the two areas. The area low in ground ice content
+    had with 66.6&nbsp;kg C/m&lt;sup&gt;&minus;2&lt;/sup&gt; more stored SOC than
+    the area rich in ground ice content with 40.0&nbsp;kg C/m&lt;sup&gt;&minus;2&lt;/sup&gt;.
+    However, this SOC stock could be potentially more vulnerable to climate change
+    if ground ice melts and the ground subsides. The average N stock of the area low
+    in ground ice is 3.77&nbsp;kg&nbsp;m&lt;sup&gt;&minus;2&lt;/sup&gt; and of the
+    area rich in ground ice is 3.83&nbsp;kg&nbsp;m&lt;sup&gt;&minus;2&lt;/sup&gt;.&lt;/p&gt;
+
+
+    &lt;p&gt;These findings support that there is a strong correlation between ground
+    ice and SOC, with less SOC in ice-rich layers on a small scale. In addition to
+    small scale studies of SOC mapping, detailed maps of ground ice content and distribution
+    are needed for a validation of large-scale quantifications of SOC stocks and transferability
+    of models.&quot;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Random forest
+      - Machine learning
+      - Soil organic carbon
+      - Tundra
+      - Permafrost
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: High resolution mapping shows differences in soil carbon and nitrogen stocks
+      in areas of varying landscape history in Canadian lowland tundra
+    url: http://dx.doi.org/10.1016/j.geoderma.2023.116652
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wagner-Julia:
+    individualname: Wagner, Julia
+    role: creator
+  Martin-Victoria:
+    individualname: Martin, Victoria
+    role: creator
+  Speetjens-Niek-J.:
+    individualname: Speetjens, Niek J.
+    role: creator
+  A'Campo-Willeke:
+    individualname: A'Campo, Willeke
+    role: creator
+  Durstewitz-Luca:
+    individualname: Durstewitz, Luca
+    role: creator
+  Lodi-Rachele:
+    individualname: Lodi, Rachele
+    role: creator
+  Fritz-Michael:
+    individualname: Fritz, Michael
+    role: creator
+  Tanski-George:
+    individualname: Tanski, George
+    role: creator
+  Vonk-Jorien-E.:
+    individualname: Vonk, Jorien E.
+    role: creator
+  Richter-Andreas:
+    individualname: Richter, Andreas
+    role: creator
+  Bartsch-Annett:
+    individualname: Bartsch, Annett
+    role: creator
+  Lantuit-Hugues:
+    individualname: Lantuit, Hugues
+    role: creator
+  Hugelius-Gustaf:
+    individualname: Hugelius, Gustaf
+    role: creator
+  AaEUR(tm)Campo-Willeke:
+    individualname: "A\xE2\u20AC\u2122Campo, Willeke"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

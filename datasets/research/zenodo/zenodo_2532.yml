@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2526976
+  dataseturi: https://doi.org/10.5281/zenodo.2526976
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Morphological and agrochemical soil characteristics of different types of
+    landscapes of Dendropark Trostjanets of the NAS of Ukraine
+  abstract: "The results of studies of soils in Dendrological Park Trostjanets, which\
+    \ was carried out by Cherkasy branch of the Ukrainian State Institution of Orchards\
+    \ and Vineyards \u201CUkrhiprosad\u201D in 1982 and our studies in 2013 are given.\
+    \ The samples for analysis were taken from 151 sections of 70 to 300 cm depth.\
+    \ We found on the territory of the park the following soils: black leached silty-sandy\
+    \ (118.32 ha), typical black with low content of humus silty-sandy (4.15 ha),\
+    \ typical black powerful with low content of humus silty-sandy (52.36 ha), meadow\
+    \ black silty-sandy (3.51 ha), medow-swamp silty-sandy (1.75 ha), reclaimed silty-sandy\
+    \ (8.48 ha). The reaction of soil solution is neutral, weak alkaline reaction\
+    \ (pH saline \u2013 7.8) has reclaimed soil only. The morphological and agrochemical\
+    \ characteristics of park soils are presented. We describe each type of soil in\
+    \ texture and chemical composition. The results obtained show that heavy metals\
+    \ content in soil (cadmium, lead, copper, zinc) does not exceed the permissible\
+    \ level."
+  keywords:
+    default:
+      keywords:
+        subject: heavy metals
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2015-06-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2526976
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2526975
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.M.-Severin:
+    individualname: I.M. Severin
+    role: creator
+    organization: State Dendrological Park Trostjanets, National Academy of Sciences
+      of Ukraine, Ukraine, Chernihov Region, Ichnjansky District, village Trostjanets
+    url: ''
+content_info: {}

@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10354902
+  dataseturi: https://doi.org/10.5281/zenodo.10354902
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Soil N transformation rates protocol
+  abstract: "Soil nitrogen transformation rates (potential net N transformation, mineralization,\
+    \ ammonification, nitrification and depolymerisation) (Schimel & Bennett, 2004)\
+    \ are measured by determination of the total K2SO4 or KCl extractable nitrogen\
+    \ (TAN), the available mineral N (NH4+-N and NO3--N) and the dissolved organic\
+    \ N (DON) forms before and after a soil incubation in the laboratory at 80% of\
+    \ water holding capacity (WHC) and 30\xB0C for 14 days (Allen, Grimshaw & Rowland\
+    \ 1986),\_and extracted with K2SO4 0.5M or KCl 1M in a 1:10 ratio.\_ The incubation,\
+    \ extraction and the colorimetric analyses of DON, NH4+-N and NO3-N in the soil\xB4\
+    s extract are made following the procedure describe below. The amount of N forms\
+    \ in the soils is calculated using a linear calibration curve with standards and\
+    \ expressed as mgr N kg-1 soil and rates are expressed as mgr N kg-1 soil day-1.\_"
+  keywords:
+    default:
+      keywords:
+        subject: protocol
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-11'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10354902
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10354901
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ochoa-Esteban-Victoria:
+    individualname: Ochoa Esteban, Victoria
+    role: creator
+    organization: Institute of Agricultural Sciences
+    url: 0000-0002-2055-2094
+content_info: {}

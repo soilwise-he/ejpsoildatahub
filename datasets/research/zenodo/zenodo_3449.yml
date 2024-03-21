@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3566249
+  dataseturi: https://doi.org/10.5281/zenodo.3566249
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Reliability Based Investigation on the Choice of Characteristic Soil Properties
+  abstract: "By using partial factors of safety, uncertainties due to the inherent\
+    \ variability of the soil properties and loads are taken into account in the geotechnical\
+    \ design process. According to the reliability index concept in Eurocode-0 in\
+    \ conjunction with Eurocode-7 a minimum safety level of \u03B2 = 3.8 for reliability\
+    \ class RC2 shall be established. The reliability of the system depends heavily\
+    \ on the choice of the prespecified safety factor and the choice of the characteristic\
+    \ soil properties. The safety factors stated in the standards are mainly based\
+    \ on experience. However, no general accepted method for the calculation of a\
+    \ characteristic value within the current design practice exists. In this study,\
+    \ a laterally loaded monopile is investigated and the influence of the chosen\
+    \ quantile values of the deterministic system, calculated with p-y springs, will\
+    \ be presented. Monopiles are the most common foundation concepts for offshore\
+    \ wind energy converters. Based on the calculations for non-cohesive soils, a\
+    \ recommendation for an appropriate quantile value for the necessary safety level\
+    \ according to the standards for a deterministic design is given."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-02'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3566249
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3566248
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jann-Eike-Saathoff:
+    individualname: Jann-Eike Saathoff
+    role: creator
+    organization: ''
+    url: ''
+  Kirill-Alexander-Schmoor:
+    individualname: Kirill Alexander Schmoor
+    role: creator
+  Martin-Achmus:
+    individualname: Martin Achmus
+    role: creator
+  Mauricio-Terceros:
+    individualname: Mauricio Terceros
+    role: creator
+  Schmoor-Kirill-Alexander:
+    individualname: Schmoor, Kirill Alexander
+    role: ''
+    organization: ''
+    url: ''
+  Achmus-Martin:
+    individualname: Achmus, Martin
+    role: ''
+    organization: ''
+    url: ''
+  Terceros-Mauricio:
+    individualname: Terceros, Mauricio
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

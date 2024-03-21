@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7953106
+  dataseturi: https://doi.org/10.5281/zenodo.7953106
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Working paper
+identification:
+  title: Agroforestry and the EU Soil Strategy 2030
+  abstract: Agroforestry, as a sustainable land management practice, has been shown
+    to have an important role in improving soil quality and health based on at least
+    four decades of data gathered from the world over. A large body of papers (summarised
+    in Dollinger and Jose 2018 Mayer et al 2022) reaffirms that agroforestry can improve
+    the major measurable soil metrics that define soil health, and show that agroforestry
+    has the ability to (1) enrich soil organic carbon better than monocropping systems,
+    (2) improve soil nutrient availability and soil fertility due to the presence
+    of trees in the system, and (3) enhance soil microbial dynamics, which would positively
+    influence soil health. It is imperative that agroforestry, as part of a multifunctional
+    land-use strategy, should receive increased attention in our policy discussion
+    for the future of soil and soil health.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-18'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7953106
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7953105
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  LAWSON-Gerry:
+    individualname: LAWSON, Gerry
+    role: creator
+    organization: EURAF
+    url: 0000-0002-1395-3092
+content_info: {}

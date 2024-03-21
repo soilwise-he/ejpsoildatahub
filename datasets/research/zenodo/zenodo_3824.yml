@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1129586
+  dataseturi: https://doi.org/10.5281/zenodo.1129586
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental Study Of Geotextile Effect On Improving Soil Bearing Capacity
+    In Aggregate Surfaced Roads
+  abstract: 'Geosynthetics utilization plays an important role in the construction
+    of highways with no additive layers, such as asphalt concrete or cement concrete,
+    or in a subgrade layer which affects the bearing capacity of unbounded layers.
+    This laboratory experimental study was carried out to evaluate changes in the
+    load bearing capacity of reinforced soil with these materials in highway roadbed
+    with regard to geotextile properties. California Bearing Ratio (CBR) test samples
+    were prepared with two types of soil: Clayey and sandy containing non-reinforced
+    and reinforced soil. The samples comprised three types of geotextiles with different
+    characteristics (150, 200, 300 g/m<sup>2</sup>) and depths (H= 5, 10, 20, 30,
+    50, 100 mm), and were grouped into two forms, one-layered and two-layered, based
+    on the sample materials in order to perform defined tests. The results showed
+    that the soil bearing characteristics increased when one layer of geotextile was
+    used in clayey and sandy samples reinforced by geotextile. However, the bearing
+    capacity of the soil, in the presence of a geotextile layer material with depth
+    of more than 30 mm, had no remarkable effect. Furthermore, when the two-layered
+    geotextile was applied in material samples, although it increased the soil resistance,
+    it also showed that through the addition of a number or weights of geotextile
+    into samples, the natural composition of the soil changed and the results are
+    unreliable.'
+  keywords:
+    default:
+      keywords:
+        subject: CBR experiments.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-02-03'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1129586
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1129585
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahdi-Taghipour-Masoumi:
+    individualname: Mahdi Taghipour Masoumi
+    role: creator
+  Ali-Abdi-Kordani:
+    individualname: Ali Abdi Kordani
+    role: creator
+  Mahmoud-Nazirizad:
+    individualname: Mahmoud Nazirizad
+    role: creator
+  Masoumi-Mahdi-Taghipour:
+    individualname: Masoumi, Mahdi Taghipour
+    role: ''
+    organization: ''
+    url: ''
+  Kordani-Ali-Abdi:
+    individualname: Kordani, Ali Abdi
+    role: ''
+    organization: ''
+    url: ''
+  Nazirizad-Mahmoud:
+    individualname: Nazirizad, Mahmoud
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

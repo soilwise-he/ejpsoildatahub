@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10402478
+  dataseturi: https://doi.org/10.5281/zenodo.10402478
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: 'Currently available assessments of soil threats and ecosystem services:
+    data, metadata, and methodologies'
+  abstract: 'Deliverable of the EJPSoil project SERENA (Soil Ecosystem Services and
+    soil threats modelling and mapping): Short descriptions of assessments provided
+    by the participating member states'
+  keywords:
+    default:
+      keywords:
+        subject: SERENA
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10402478
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10402477
+    type: WWW:LINK
+    title: IsContinuedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.10402477
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Michel-Kerstin:
+    individualname: Michel, Kerstin
+    role: creator
+    organization: Austrian Research Centre for Forests
+    url: 0000-0001-6139-6596
+content_info: {}

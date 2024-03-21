@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4015671
+  dataseturi: https://doi.org/10.5281/zenodo.4015671
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Waste Cloth on the Properties of Black Cotton Soil
+  abstract: The black cotton soil is mainly inorganic clay and owns medium to high
+    compressibility, this soil also referred as expansive soil. The properties of
+    the soil are influenced by the environment condition the soil gets swell during
+    winter season and shrinks during summer seasons .the black cotton soil was unable
+    to withstand the high impact load from the heavy structures due to constant change
+    in properties of the soil parallel to environmental condition, in order to make
+    it possible the black cotton soils are get mixed with the stabilizing materials
+    ,in the same manner in this analysis the black cotton soil properties are analyzed
+    by using waste cloth. The highlighting reason for using waste cloth is because
+    of its easy availability, eco-friendly and its fibrous properties. the waste cloth
+    are collected from the cloth shop and stitching shop, the black cotton soils are
+    collected from the city of Bhalki.
+  keywords:
+    default:
+      keywords:
+        subject: Direct Shear Test
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-15'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4015671
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4015670
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mr-Sangmesh:
+    individualname: Mr Sangmesh
+    role: creator
+    organization: VTU
+    url: ''
+  Prof-Sharanakumar:
+    individualname: Prof Sharanakumar
+    role: creator
+    organization: VTU
+    url: ''
+content_info: {}

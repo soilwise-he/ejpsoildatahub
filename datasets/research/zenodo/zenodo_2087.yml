@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10403001
+  dataseturi: https://doi.org/10.5281/zenodo.10403001
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: RESISTANCE AND PRODUCTIVITY INDICATORS OF CEREAL CROPS TO EXTERNAL FACTORS
+    IN MEDIUM SALINITY SOIL - CLIMATE CONDITIONS
+  abstract: This article is based on the data obtained in the field experiments conducted
+    in order to determine the resistance to abiotic and biotic factors and productivity
+    elements of barley and triticale varieties planted in the demonstration field
+    of Syrdarya region. In the experiment carried out in field conditions, when the
+    plants were harvested and the biological yield was determined, the triticale "Boyovut"
+    variety - 88.3 t/ha, the "Tuyatish" variety - 83.1 t/ha, the barley "Mashuldar"
+    variety - 67.6 ts/ha, in "Sayhun" variety - 69.0 ts/ha and in "Syrdarya" variety
+    - 65.8 ts/ha. It was observed that the indicators of resistance to external factors
+    were higher in barley varieties, and based on the biological capabilities of the
+    plant, productivity elements were higher in triticale varieties compared to barley
+    varieties
+  keywords:
+    default:
+      keywords:
+        subject: triticale, barley, variety, seed, protein, vitamin, variety test,
+          planting time, development phases, stem, ear, grain, yield
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10403001
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10403000
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.B.-Khudaykulov-B.M.Azizov-M.R.Zukhriddinov-A.A.Xolmirzayev:
+    individualname: J.B. Khudaykulov, B.M.Azizov, M.R.Zukhriddinov, A.A.Xolmirzayev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

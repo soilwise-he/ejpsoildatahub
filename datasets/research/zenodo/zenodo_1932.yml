@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3250719
+  dataseturi: https://doi.org/10.5281/zenodo.3250719
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: Discipline "Soil Science" through the 90-year history of the Department of
+    Agriculture and Agrochemistry
+  abstract: 'Describes the history of teaching the discipline of Soil Science at the
+    department during the 90-year history. The biographical data of the teachers who
+    read the discipline and the main scientific directions of research are given.
+
+
+    Pospielov S.V. Discipline "Soil Science" through the 90-year history of the Department
+    of Agriculture and Agrochemistry // Current issues of agriculture and agrochemistry:
+    history and present: materials of the All-Ukrainian scientific and practical conference
+    devoted to the 90th anniversary of the Department of Agriculture and Agrochemistry
+    named after VI Sazanov Faculty of Agrotechnologies and Ecology, Poltava State
+    Agrarian Academy, Nov. 27-28, 2018, Poltava / By red. V.A. Aranchii, P.V. Pisarenko,
+    S.V Pospelov and others. - Poltava: PDAA, 2019.- P. 45-48.'
+  keywords:
+    default:
+      keywords:
+        subject: Poltava State Agrarian Academy, history of science, Soil Science
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2019-02-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3250719
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3250718
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pospielov-Sergii:
+    individualname: Pospielov Sergii
+    role: creator
+  Sergii-Pospielov:
+    individualname: Sergii, Pospielov
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0003-0433-2996
+content_info: {}

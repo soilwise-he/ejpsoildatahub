@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7303306
+  dataseturi: https://doi.org/10.5281/zenodo.7303306
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Field Soil As a Source of Rice Stem Nematodes
+  abstract: This article 'Field Soil As a Source of Rice Stem Nematodes' appeared
+    in the International Rice Research Newsletter series, created by the International
+    Rice Research Institute (IRRI). The primary objective of this publication was
+    to expedite communication among scientists concerned with the development of improved
+    technology for rice and for rice based cropping systems. This publication will
+    report what scientists are doing to increase the production of rice in as much
+    as this crop feeds the most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Stem Nematodes
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1982-08-01'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7303306
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7303305
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nguyen-Thi-Thu-Cuc:
+    individualname: Nguyen-Thi Thu Cuc
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

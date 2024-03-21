@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7055783
+  dataseturi: https://doi.org/10.5281/zenodo.7055783
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of Seismic Behavior of Tube in Tube Braced Structural System Considering
+    Soil-Structure Interaction
+  abstract: The tube in tube structures is the innovative and fresh concept in the
+    tubular structures. The tube in tube structures is especially suitable for all
+    tall buildings. Bracing and shear wall are best concepts in a structure analysis
+    of seismic force-resisting systems. Bracing and shear wall provide as additional
+    lateral resistance against the lateral force. In the proposed study, tube structures
+    of different heights have been considered. Bracing has been installed at corner
+    along the structure's height and without bracing also meanwhile, shear wall provides
+    in central core. Soil structure interaction (SSI) has also been taken into account.
+    The parameters, such as maximum Story displacement, base shear, story drift, and
+    story shear have also been studied. A tube-in-tube structure has been modelled
+    in ETABS 2018
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-07'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7055783
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7055782
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manav-D.-Tank:
+    individualname: Manav D. Tank
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

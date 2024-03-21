@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.844205
+  dataseturi: https://doi.org/10.5281/zenodo.844205
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Farmers' Perception Of Soil Fertility Decline Under Yam Production In Oyo
+    State, Nigeria
+  abstract: "Soil fertility is an important natural resource in agriculture and its\
+    \ decline can have negative effects on farms\u2019 productivity. The study investigated\
+    \ the perception of farmers on soil fertility decline under yam production in\
+    \ Oyo state, Nigeria. Data were collected from two hundred and forty yam farmers\
+    \ purposively selected for the study. Descriptive statistics of means, and percentages\
+    \ were used to describe the data while correlation coefficients were employed\
+    \ to determine the relationships. Appearance of gravel, stunted growth and yellowing\
+    \ of leaves of crops and low yields were among the factors recognized by the farmers\
+    \ to be the indicators of soil fertility decline under yam production Significant\
+    \ ( p \u2264 0.05) and positive relationships were found to exist between farmers\u2019\
+    \ perception of soil fertility decline and selected socio-economic characteristics\
+    \ such as age (p = .024); education (p =.007); farm experience (p = .000); farm\
+    \ size(p = ..032), household size(p =.000) and membership of social organization\
+    \ as well as various sources of available information. The study concludes that\
+    \ farmers were favourably disposed to the adoption of various soil conservation\
+    \ techniques which emphasize the need to upgrade their knowledge and information\
+    \ on environment-friendly soil management practices through the extension services."
+  keywords:
+    default:
+      keywords:
+        subject: Farmers, perception, soil fertility decline
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-08-17'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.844205
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.844204
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adeola-R.-G.:
+    individualname: Adeola, R. G.
+    role: creator
+    organization: Department of Agricultural  Extension and Rural Development, Ladoke
+      Akintola  University of Technology, P.M.B. 4000 Ogbomoso, Nigeria
+    url: ''
+content_info: {}

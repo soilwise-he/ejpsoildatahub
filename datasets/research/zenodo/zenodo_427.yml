@@ -1,0 +1,237 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7323915
+  dataseturi: https://doi.org/10.5281/zenodo.7323915
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: New pedotransfer approaches to predict soil bulk density using WoSIS soil
+    data and environmental covariates in Mediterranean agro-ecosystems
+  abstract: "For the estimation of the soil organic carbon stocks, bulk density (BD)\
+    \ is a fundamental parameter but measured data are usually not available especially\
+    \ when dealing with legacy soil data. It is possible to estimate BD by applying\
+    \ pedotransfer function (PTF). We applied different estimation methods with the\
+    \ aim to define a suitable PTF for BD of arable land for the Mediterranean Basin,\
+    \ which has peculiar climate features that may influence the soil carbon sequestration.\
+    \ To improve the existing BD estimation methods, we used a set of public climatic\
+    \ and topographic data along with the soil texture and organic carbon data. The\
+    \ present work consisted of the following steps: i) development of three PTFs\
+    \ models separately for top (0\u20130.4 m) and subsoil (0.4\u20131.2 m), ii) a\
+    \ 10-fold cross-validation, iii) model transferability using an external dataset\
+    \ derived from published data. The development of the new PTFs was based on the\
+    \ training dataset consisting of World Soil Information Service (WoSIS) soil profile\
+    \ data, climatic data from WorldClim at 1 km spatial resolution and Shuttle Radar\
+    \ Topography Mission (SRTM) digital elevation model at 30 m spatial resolution.\
+    \ The three PTFs models were developed using: Multiple Linear Regression stepwise\
+    \ (MLR-S), Multiple Linear Regression backward stepwise (MLR-BS), and Artificial\
+    \ Neural Network (ANN). The predictions of the newly developed PTFs were compared\
+    \ with the BD calculated using the PTF proposed by Manrique and Jones (MJ) and\
+    \ the modelled BD derived from the global SoilGrids dataset. For the topsoil training\
+    \ dataset (<em>N</em> = 129), MLR-S, MLR-BS and ANN had a R<sup>2</sup> 0.35,\
+    \ 0.58 and 0.86, respectively. For the model transferability, the three PTFs applied\
+    \ to the external topsoil dataset (<em>N</em> = 59), achieved R<sup>2</sup> values\
+    \ of 0.06, 0.03 and 0.41. For the subsoil training dataset (<em>N</em> = 180),\
+    \ MLR-S, MLR-BS and ANN the R<sup>2</sup> values were 0.36, 0.46 and 0.83, respectively.\
+    \ When applied to the external subsoil dataset (<em>N</em> = 29), the R<sup>2</sup>\
+    \ values were 0.05, 0.06 and 0.41. The cross-validation for both top and subsoil\
+    \ dataset, resulted in an intermediate performance compared to calibration and\
+    \ validation with the external dataset. The new ANN PTF outperformed MLR-S, MLR-BS,\
+    \ MJ and SoilGrids approaches for estimating BD. Further improvements may be achieved\
+    \ by additionally considering the time of sampling, agricultural soil management\
+    \ and cultivation practices in predictive models."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-19'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7323915
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7323914
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schillaci-Calogero:
+    individualname: Schillaci Calogero
+    role: creator
+    organization: European Commission, Joint Research Centre
+    url: ''
+  Perego-Alessia:
+    individualname: Perego Alessia
+    role: creator
+    organization: University of Milan
+    url: ''
+  Valkama-Elena:
+    individualname: Valkama Elena
+    role: creator
+    organization: Natural Resources Institute Finland
+    url: ''
+  Maerker-Michael:
+    individualname: Maerker Michael
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Saia-Sergio:
+    individualname: Saia Sergio
+    role: creator
+    organization: University of Pisa
+    url: ''
+  Veronesi-Fabio:
+    individualname: Veronesi Fabio
+    role: creator
+    organization: Water Research Centre Limited
+    url: ''
+  Lipani-Aldo:
+    individualname: Lipani Aldo
+    role: creator
+    organization: University College London
+    url: ''
+  Lombardo-Luigi:
+    individualname: Lombardo Luigi
+    role: creator
+  Tadiello-Tommaso:
+    individualname: Tadiello Tommaso
+    role: creator
+    organization: University of Milan
+    url: ''
+  Gamper-Hannes:
+    individualname: Gamper Hannes
+    role: creator
+    organization: Free University of Bozen-Bolzano
+    url: ''
+  Tedone-Luigi:
+    individualname: Tedone Luigi
+    role: creator
+    organization: University of Bari Aldo Moro
+    url: ''
+  Moss-Cami:
+    individualname: Moss Cami
+    role: creator
+    organization: London School of Hygiene & Tropical Medicine
+    url: ''
+  Pareja-Serrano-Elena:
+    individualname: Pareja-Serrano Elena
+    role: creator
+    organization: NRAE-UMR EMMAH
+    url: ''
+  Amato-Gabriele:
+    individualname: Amato Gabriele
+    role: creator
+  Kuel-Kersten:
+    individualname: Kuel Kersten
+    role: creator
+    organization: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+    url: ''
+  Damartica-Claudia:
+    individualname: Damartica Claudia
+    role: creator
+    organization: University of Torino
+    url: ''
+  Cogato-Alessia:
+    individualname: Cogato Alessia
+    role: creator
+    organization: University of Padova
+    url: ''
+  Mzid-Nada:
+    individualname: Mzid Nada
+    role: creator
+    organization: "Universit\xE0 della Tuscia"
+    url: ''
+  Eeswaran-Rasu:
+    individualname: Eeswaran Rasu
+    role: creator
+    organization: Michigan State University
+    url: ''
+  Rabelo-Marya:
+    individualname: Rabelo Marya
+    role: creator
+    organization: University of Pisa
+    url: ''
+  Sperandio-Giorgio:
+    individualname: Sperandio Giorgio
+    role: creator
+    organization: University of Brescia
+    url: ''
+  Bosino-Alberto:
+    individualname: Bosino Alberto
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Bufalini-Margherita:
+    individualname: Bufalini Margherita
+    role: creator
+    organization: University of Camerino
+    url: ''
+  Tuncay-Tulay:
+    individualname: Tuncay Tulay
+    role: creator
+  Ding-Jianqi:
+    individualname: Ding Jianqi
+    role: creator
+  Fiorentini-Marco:
+    individualname: Fiorentini Marco
+    role: creator
+    organization: Marche Polytechnic University
+    url: ''
+  Tiscornia-Guadalupe:
+    individualname: Tiscornia Guadalupe
+    role: creator
+    organization: "Instituto Nacional de Investigaci\xF3n Agropecuaria, Uruguay"
+    url: ''
+  Conradt-Sarah:
+    individualname: Conradt Sarah
+    role: creator
+    organization: SCOR SE, Zurich Branch, Switzerland
+    url: ''
+  Botta-Marco:
+    individualname: Botta Marco
+    role: creator
+    organization: University of Milan
+    url: ''
+  Acutis-Marco:
+    individualname: Acutis Marco
+    role: creator
+    organization: University of Milan
+    url: ''
+  Luigi-Lombardo:
+    individualname: Luigi, Lombardo
+    role: ''
+    organization: University of Twente
+    url: ''
+  Gabriele-Amato:
+    individualname: Gabriele, Amato
+    role: ''
+    organization: National Research Council of Italy
+    url: ''
+  Tulay-Tuncay:
+    individualname: Tulay, Tuncay
+    role: ''
+    organization: Soil Fertilizer and Water Resources Central Research Institute,
+      Ankara, Turkey
+    url: ''
+  Jianqi-Ding:
+    individualname: Jianqi, Ding
+    role: ''
+    organization: "Universit\xE0 della Tuscia"
+    url: ''
+content_info: {}

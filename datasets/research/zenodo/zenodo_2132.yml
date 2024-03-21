@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5767097
+  dataseturi: https://doi.org/10.5281/zenodo.5767097
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Relationship between different fractions of N and characteristics of some
+    dominant soil series of West Bengal
+  abstract: "Department of Agricultural Chemistry and Soil Science, Bidhan Chandra\
+    \ Krishi Viswavidyalaya, Mohanpur-741 252, Nadia, West Bengal, India <em>Manuscript\
+    \ received 08 September 2010, revised 05 July 2011, accepted 08 November 2011</em>\
+    \ A study was conducted to make a relationship between different forms of inorganic\
+    \ and organic N with some important physical and chemical properties of dominant\
+    \ soil series of West Bengal. Results revealed that in gene\u2022\xB7al, alluvial\
+    \ soil contains higher amount of different forms of N than that of soils of Red\
+    \ and Laterite zone. Amongst different forms, exchangeable NH<sub>4</sub><sup>+</sup>\
+    \ and hydrolysable NH<sub>4</sub><sup>+</sup> and amino acid fractions contributed\
+    \ more to the total pool of total N. Correlation studies pointed out a significant\
+    \ relationship between finer fractions of soils with fixed NH<sub>4</sub><sup>+</sup>,\
+    \ total hydrolysable organic N and total N. Total hydrolysable NH<sub>4</sub><sup>+</sup>\
+    \ is also significantly correlated with C.E.C. of the soils."
+  keywords:
+    default:
+      keywords:
+        subject: cation exchange capacity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-07-30'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5767097
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5767096
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arunava-Das:
+    individualname: Arunava Das
+    role: creator
+    organization: ''
+    url: ''
+  Dipankar-Saha:
+    individualname: Dipankar Saha
+    role: creator
+  Saha-Dipankar:
+    individualname: Saha, Dipankar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

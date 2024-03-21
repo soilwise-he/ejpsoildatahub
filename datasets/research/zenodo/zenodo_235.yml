@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5816811
+  dataseturi: https://doi.org/10.5281/zenodo.5816811
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on soil engineering properties and stabilization of Purulia soil
+    by chemical treatment with sodium salts
+  abstract: 'Department of Chemistry, Kalyani University, Kalyani-741 235, Nadia,
+    West Bengal, India Emeritus Fellow, AICTE, Kalyani Engineering College, Kalyani-741
+    235, Nadia, West Bengal, India <em>E-mail </em>: sujitclahiri@yahoo.com Soil Mechanics
+    Section, R.R.I., Government of West Bengal. P.O. HRRI via Mohanpur,<br> Nadia,
+    West Bengal, India <em>Manuscript received 11 July 2005, revised 27 October 2005,
+    accepted 27 October 2005</em> A systematic investigation was made on the modification
+    of soil known as stabilization for improvement of the properties of soils by controlled
+    chemical treatment. The studies were made on Purulia soil stabilization by chemicals
+    like NaCI, Na<sub>2</sub>SiO<sub>3</sub>. Inferences regarding the stabilization
+    were drawn from the comparison of the change in thec soil index and engineering
+    properties like the liquid limit (LL), plastic limit (PL), plasticity index (PI),
+    compaction compression index, shear permeability and consolidation characteristics
+    etc. of the stabilized soils vis-a-vis the normal soils.Sodium chloride was found
+    to be ineffective and sodium silicate was found to be beneficial to some extent.
+    It may be due to gel forming ability and stabilizing innuence of sodium silicate.
+    Physico-chemical interpretation has been given and inferences are drawn regarding
+    the chemicals used for stabilization.'
+  keywords:
+    default:
+      keywords:
+        subject: Purulia soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2006-02-28'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5816811
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5816810
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Ghoshal:
+    individualname: S. Ghoshal
+    role: creator
+    organization: ''
+    url: ''
+  S.-S.-Dedalal:
+    individualname: S. S. Dedalal
+    role: creator
+    organization: ''
+    url: ''
+  S.-C.-Lahiri:
+    individualname: S. C. Lahiri
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

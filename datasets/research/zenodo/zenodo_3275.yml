@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2540337
+  dataseturi: https://doi.org/10.5281/zenodo.2540337
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: "THE ASSESSMENT OF SIX PARAMETERS OF THE SOIL IN A SILVOPASTORAL SYSTEM AFTER\
+    \ FIVE YEARS IN THE NORTHWEST OF SPAIN - ESTUDIO DE LA FERTILIDAD ED\xC1FICA EN\
+    \ UN SISTEMA SILVOPASTORAL BAJO CHOPO TRAS EL APORTE DE CAL Y LODOS DE DEPURADORA\
+    \ URBANA EN EL NOROESTE DE ESPA\xD1A"
+  abstract: "El establecimiento de sistemas silvopastorales contribuye al uso m\xFA\
+    ltiple del ecosistema forestal. La acidez de los suelos gallegos limita su fertilidad,\
+    \ por lo que el aporte de sustancias neutralizantes al suelo, como la cal o los\
+    \ lodos de depuradora urbana, la mejoran, \n ncrementando la producci\xF3n de\
+    \ pasto herb\xE1ceo a la par que contribuye a aumentar el desarrollo del arbolado.\
+    \ Se evalu\xF3 el efecto del encalado (0 y 2,5 t ha-1 Ca O) y del aporte de dosis\
+    \ crecientes de lodo de depuradora urbana de una EDAR (0, 100 y 200 kg N total\
+    \ ha-1) sobre la evoluci\xF3n de la fertilidad en suelos desarrollados bajo un\
+    \ sistema silvopastoral establecido con P. x canadensis a una densidad de 434\
+    \ \xE1rboles por hect\xE1rea plantado sobre una pradera de Dactylis glomerata\
+    \ L (Artabro), Lolium perenne L (Brigantia) y Trifolium repens L cv Hu\xEDa. En\
+    \ general, el aporte combinado de cal y lodo mejor\xF3 la fertilidad del suelo,\
+    \ ya que increment\xF3 la CIC efectiva y el porcentaje de saturaci\xF3n de calcio\
+    \ en el suelo. - Silvopastoral system establishment contribuyes to multiple land\
+    \ use of the forest ecosistema.\nAcidity of Galician soils limit their fertility,\
+    \ which causes the need of the input of lime substances, like calcium carbonate\
+    \ or sewage sludge, which could improve pasture production and tree growth. This\
+    \ study aims to evaluate the lime (0 and 2.5 t ha-1 Ca O) and sewage sludge input\
+    \ (0, 100 y 200 kg N total ha-1) on soil fertility in a silvopastoral system established\
+    \ with P. x canadensis at a density of 434 trees ha-1planted on a pasture sown\
+    \ with a mixture of Dactylis glomerata L (Artabro), Lolium perenne L (Briganti\
+    \  Exchange soil capacity and the calcium percentage in the soil."
+  keywords:
+    default:
+      keywords:
+        subject: Lugo.
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2010-03-05'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2540337
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2540336
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MOSQUERA-LOSADA-M.R.:
+    individualname: MOSQUERA-LOSADA, M.R.
+    role: creator
+    organization: ''
+    url: ''
+  MORAN-ZULOAGA-D.:
+    individualname: "MOR\xC1N-ZULOAGA, D."
+    role: creator
+    organization: ''
+    url: ''
+  RIGUEIRO-RODRIGUEZ-A.:
+    individualname: "RIGUEIRO-RODR\xCDGUEZ, A."
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

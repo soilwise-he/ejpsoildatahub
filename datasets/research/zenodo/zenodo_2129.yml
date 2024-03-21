@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10214238
+  dataseturi: https://doi.org/10.5281/zenodo.10214238
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Rapid assessment of soil health in cocoa landscapes around T\xE9n\xE9 Forest\
+    \ Reserve, Middle-West C\xF4te d'Ivoire"
+  abstract: "The study was conducted within and around the Classified Forest of T\xE9\
+    n\xE9 in the middle-west region of C\xF4te d'Ivoire, with the aim of providing\
+    \ guidance for interventions that focus on developing resilient cocoa-forest landscapes.\
+    \ Two specific landscapes, Mafia and Petit Bouak\xE9, were selected for analysis.\
+    \ These landscapes are located in settlements where cocoa growers reside, close\
+    \ to Goulikao in the Oum\xE9 district. The selected landscapes shared similar\
+    \ land-use patterns, including secondary forests, 26-year-old cocoa plantations,\
+    \ 13-year-old teak plantations, and recurrent fallow-maize fields of 5-year-old.\
+    \ To assess soil health, several key metrics were measured at three different\
+    \ soil depths: 0-10 cm, 10-20 cm, and 20-30 cm. The metrics included soil organic\
+    \ carbon (SOC), pH-H20, and Mean Weight Diameter (MWD). The following key findings\
+    \ were observed: (i) most sampling plots exhibited SOC concentrations below the\
+    \ sustainable threshold of 20 kg ha-1 required for cocoa farming when the soil\
+    \ pH values fell within the suitable range of 5.5-7.5 ; (ii) SOC concentrations\
+    \ and stocks can serve as indicators of soil health deterioration in the top 10\
+    \ cm of soil within cocoa landscapes, due to their sensitivity to land-use changes\
+    \ and MWD can be used as an indicator in the depth increments of 10-20 cm and\
+    \ 20-30 cm ; (iii) apart from maize fields, which are recognized as the most degraded\
+    \ system within the landscape, soil health can be restored over a decade or more\
+    \ beneath teak and cocoa plantations ; (iv) teak plantations demonstrated a potential\
+    \ soil organic storage rate of +0.476 Mg C ha-1 yr-1 in the top 30 cm, supporting\
+    \ the validity of the 4 per 1,000 theory. Therefore, teak plantations can be recommended\
+    \ as a land-use option to combat global warming. In cocoa orchards, the carbon\
+    \ storage capacity varied from +0.16 to +0.54 Mg C ha-1 yr-1, with an overall\
+    \ carbon storage rate of +0.094 Mg C ha-1 yr-1 in the top 30 cm of soil. This\
+    \ finding highlights the potential of cocoa agroforestry to enhance SOC storage\
+    \ and suggests its use as a viable option for mitigating CO2 emissions, as advocated\
+    \ by the Paris Agreement (COP 21). Implementing good agricultural practices that\
+    \ focus on improved soil health, in conjunction with cocoa agroforestry that integrates\
+    \ farmer-preferred trees, should form the foundation of a new cocoa cropping model\
+    \ in the areas surrounding forest reserves.\nKeywords: Carbon sequestration, 4\
+    \ per 1000 initiative, soil degradation, resilience, tree-based systems"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-28'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10214238
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10214237
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ngbala-Fulbert:
+    individualname: Ngbala, Fulbert
+    role: creator
+    organization: "UFR des Sciences de la Nature, Universit\xE9 Nangui Abrogoua, Abidjan,\
+      \ C\xF4te d'Ivoire, *tondoh.e@outlook.com (Corresponding author)"
+    url: ''
+  Tondoh-Ebagnerin-Jerome:
+    individualname: "Tondoh, Ebagnerin J\xE9r\xF4me"
+    role: creator
+    organization: "UFR des Sciences de la Nature, Universit\xE9 Nangui Abrogoua, Abidjan,\
+      \ C\xF4te d'Ivoire, *tondoh.e@outlook.com (Corresponding author)"
+    url: ''
+  Baidai-Yannick:
+    individualname: Baidai, Yannick
+    role: creator
+    organization: "African Marine Expertises, Abidjan, C\xF4te d'Ivoire"
+    url: ''
+  Lokossoue-Kouassy-Richmond:
+    individualname: "Lokossou\xE9, Kouassy Richmond"
+    role: creator
+    organization: "UFR des Sciences de la Nature, Universit\xE9 Nangui Abrogoua, Abidjan,\
+      \ C\xF4te d'Ivoire, *tondoh.e@outlook.com (Corresponding author)"
+    url: ''
+  Kouassi-Jean-Luc:
+    individualname: Kouassi, Jean-Luc
+    role: creator
+    organization: "D\xE9partement de Formation et Recherche Eaux, For\xEAts et Environnement\
+      \ (FOREN), Institut National Polytechnique F\xE9lix Houphou\xEBt-Boigny, Yamoussoukro,\
+      \ C\xF4te d'Ivoire"
+    url: ''
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4348696
+  dataseturi: https://doi.org/10.5281/zenodo.4348696
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis of Biopolymer Remediated Contaminated Soil
+  abstract: Soil contamination is emerging as a major threat to environment as well
+    as human health. The major causes of contamination are due to the rapid growth
+    in industrial development, intensive agriculture and anthropogenic activities
+    releasing heavy metals, chemicals, salts and other disease causing agents. The
+    heavy metals decreases the quality of soil by leaching into it and thereby causing
+    groundwater contamination. Therefore, remediation of such soils is necessary.
+    Various methods are employed to remove the contaminants from soil. The paper focuses
+    on using biopolymers as remedial agent in cadmium contaminated soil. Biopolymers
+    are the polymeric molecules that are harmless and eco-friendly which occurs in
+    nature. In the present study, starch based and cellulose based biopolymers were
+    used to remediate clayey soil which is artificially contaminated using cadmium
+    chloride at different concentrations. The effectiveness of treatment and a comparative
+    study upon addition of both biopolymers will be evaluated by means of atterberg
+    limits, column leaching test, strength characteristics and micro structural analysis.
+  keywords:
+    default:
+      keywords:
+        subject: Biopolymers, remediation, soil strengthening, column leaching test,
+          cd contamination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-18'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4348696
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4348695
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Magi-N-S:
+    individualname: Magi N S
+    role: creator
+  Ann-Mary-Mathew:
+    individualname: Ann Mary Mathew
+    role: creator
+  S-Magi-N:
+    individualname: S, Magi N
+    role: ''
+    organization: M.tech. Student, Department of Civil Engineering, Marian Engineering
+      College, Trivandrum, Kerala, India.
+    url: ''
+  Mathew-Ann-Mary:
+    individualname: Mathew, Ann Mary
+    role: ''
+    organization: Assistant Professor, Department of Civil Engineering, Marian Engineering
+      College, Trivandrum, Kerala, India.
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Russell_1915
+  dataseturi: https://doi.org/10.1017/s0021859600002410
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The Atmosphere of the Soil: Its Composition and the Causes of Variation'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The Atmosphere of the Soil: Its Composition and the Causes of Variation'
+    url: http://dx.doi.org/10.1017/s0021859600002410
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Russell-Edward-John:
+    individualname: Russell, Edward John
+    role: creator
+  Appleyard-Alfred:
+    individualname: Appleyard, Alfred
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

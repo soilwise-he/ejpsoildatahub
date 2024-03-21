@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4730699
+  dataseturi: https://doi.org/10.5281/zenodo.4730699
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Productivity Degradation in a Long-Term Eroded Olive Orchard under Semiarid
+    Mediterranean Conditions
+  abstract: "Olive groves are one of the most important agro-systems in the Mediterranean\
+    \ basin, and<br> the Andalusia region produces the highest quantity of olive oil\
+    \ in Europe. The aim of this work<br> was to evaluate the long-term (15 years)\
+    \ influence of two management practices in olive orchards\u2014<br> conventional\
+    \ tillage (CT) and no tillage with bare soil and herbicide application (NT + H)\u2014\
+    on<br> soil physical properties, infiltration capacity, erosion rates, and soil\
+    \ productivity. In addition, the<br> short-term (2 years) influence of no tillage\
+    \ with cover crop management (NT-CC) on these parameters<br> was also assessed.\
+    \ In the study area, CT and NT + H management practices showed unsustainable<br>\
+    \ erosion values, 9.82 and 13.88 Mg ha\U001000001 year\U001000001, respectively,\
+    \ while NT-CC inclusion decreased the<br> erosion rates (2.06 Mg ha\U00100000\
+    1 year\U001000001). The implementation of NT-CC not only reduced erosion rates<br>\
+    \ but also caused a change in the trend of soil productivity loss observed under\
+    \ CT and NT + H. In<br> this sense, NT-CC showed a positive influence on soil\
+    \ quality. However, tillage removal led to a<br> significant reduction in the\
+    \ infiltration capacity of soils under NT + H and NT-CC, which will be a<br> serious\
+    \ handicap for water storage in an environment with continuous processes of water\
+    \ deficit."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-04-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4730699
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4730698
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manuel-Gonzalez-Rosado:
+    individualname: "Manuel Gonz\xE1lez-Rosado"
+    role: creator
+  Luis-Parras-Alcantara:
+    individualname: "Luis Parras-Alc\xE1ntara"
+    role: creator
+  Jesus-Aguilera-Huertas:
+    individualname: "Jes\xFAs Aguilera-Huertas"
+    role: creator
+  Beatriz-Lozano-Garcia:
+    individualname: "Beatriz Lozano-Garc\xEDa"
+    role: creator
+  Gonzalez-Rosado-Manuel:
+    individualname: "Gonz\xE1lez-Rosado, Manuel"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Parras-Alcantara-Luis:
+    individualname: "Parras-Alc\xE1ntara, Luis"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Aguilera-Huertas-Jesus:
+    individualname: "Aguilera-Huertas, Jes\xFAs"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Lozano-Garcia-Beatriz:
+    individualname: "Lozano-Garc\xEDa, Beatriz"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+content_info: {}

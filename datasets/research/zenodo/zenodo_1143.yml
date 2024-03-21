@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2548055
+  dataseturi: https://doi.org/10.5281/zenodo.2548055
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Rock adjusted erodibility (kwfact) soil maps of the Upper Colorado River
+    Basin
+  abstract: 'The data here were originally posted to facilitate timely and transparent
+    peer review. The final public data release with formal metadata is now available
+    from at the following location: Nauman, T.W., and Duniway, M.C., 2020, Predictive
+    soil property maps with prediction uncertainty at 30 meter resolution for the
+    Colorado River Basin above Lake Mead: U.S. Geological Survey data release, https://doi.org/10.5066/P9SK0DO2.
+    Associated publication: Nauman, T. W., and Duniway, M. C., 2020, A hybrid approach
+    for predictive soil property mapping using conventional soil survey data: Soil
+    Science Society of America Journal, v. 84, no. 4, p. 1170-1194. https://doi.org/10.1002/saj2.20080.
+    Repository includes maps of rock adjusted erodibility (kwfact) as defined by United
+    States soil survey program. These data are preliminary or provisional and are
+    subject to revision. They are being provided to meet the need for timely best
+    science. The data have not received final approval by the U.S. Geological Survey
+    (USGS) and are provided on the condition that neither the USGS nor the U.S. Government
+    shall be held liable for any damages resulting from the authorized or unauthorized
+    use of the data. The creation and interpretation of this data is documented in
+    the following article. Please note this article has not been reviewed yet and
+    this citation will be updated as the peer review process proceeds. Nauman, T.
+    W., Duniway, M. C., In Preparation. Predictive reconstruction of soil survey property
+    maps for field scale adaptive land management. Soil Science Society of America
+    Journal. File Name Details: ACCURACY!! Please see manuscript and Github repository
+    (https://github.com/naumi421/SoilReconProps) for full details on accuracy. We
+    do provide cross validation (CV) accuracy plots in this repository for both the
+    overall sample (NRCS field pedons plus NRCS laboratory pedons; file ending _CV_plots.tif)
+    and for just the CV results at laboratory pedons (file ending _CV_SCD_plots.tif).
+    These plots compare CV predictions with observed values relative to a 1:1 line.
+    Values plotted near the 1:1 line are more accurate. Note that values are plotted
+    in hex-bin density scatter plots because of the large number of observations (most
+    are &gt;3000). Elements are separated by underscore (_) in the following sequence:
+    property_r_depth_cm_geometry_model_additional_elements.extension Example: kwfact_r_0_cm_2D_QRF.tif
+    Indicates rock adjusted erodibility (kwfact) at 0 cm depth using a 2D model (separate
+    model for each depth) employing a quantile regression forest. This file is the
+    raster prediction map for this model. There may be additional GIS files associated
+    with this file (e.g. pyramids) that have the same file name, but different extensions.
+    The following elements may also exist on the end of filenames indicating other
+    spatial files that characterize a given model''s uncertainty (see below). _95PI_h:
+    Indicates the layer is the upper 95% prediction interval value. _95PI_l: Indicates
+    the layer is the lower 95% prediction interval value. _95PI_relwidth: Indicates
+    the layer is the 95% relative prediction interval (RPI). The RPI is a standardization
+    of the prediction interval that indicates that model is constraining uncertainty
+    relative to the original sample. RPI values less than one represent uncertainty
+    is being improved by the model relative to the original sample, and values less
+    than 0.5 indicate low uncertainty in predictions. See paper listed above and also
+    Nauman and Duniway (In revision) for more details on RPI. References Nauman, T.
+    W., and Duniway, M. C., In Revision, Relative prediction intervals reveal larger
+    uncertainty in 3D approaches to predictive digital soil mapping of soil properties
+    with legacy data: Geoderma'
+  keywords:
+    default:
+      keywords:
+        subject: erodibility
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-01-24'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2548055
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2548054
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Travis-Nauman:
+    individualname: Travis Nauman
+    role: creator
+  Nauman-Travis:
+    individualname: Nauman, Travis
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kustas
+  dataseturi: https://doi.org/10.1109/igarss.2001.977926
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Utility of coupling microwave-derived soil moisture and radiometric surface
+    temperature in an energy balance modeling scheme
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Utility of coupling microwave-derived soil moisture and radiometric surface
+      temperature in an energy balance modeling scheme
+    url: http://dx.doi.org/10.1109/igarss.2001.977926
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kustas-W.-P.:
+    individualname: Kustas, W. P.
+    role: creator
+  Bindlish-R.:
+    individualname: Bindlish, R.
+    role: creator
+  French-A.-N.:
+    individualname: French, A. N.
+    role: creator
+  Schmugge-T.-J.:
+    individualname: Schmugge, T. J.
+    role: creator
+  Kustas-W.P.:
+    individualname: Kustas, W.P.
+    role: creator
+  French-A.N.:
+    individualname: French, A.N.
+    role: creator
+  Schmugge-T.J.:
+    individualname: Schmugge, T.J.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

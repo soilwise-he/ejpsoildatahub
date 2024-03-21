@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8351618
+  dataseturi: https://doi.org/10.5281/zenodo.8351618
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Carcinogenicity and Distribution of PCBs in Soil from Electrical Transformers
+    Installation Sites in Uvwie Local Government Area, Delta State, Nigeria
+  abstract: "<strong>Abstract:</strong> Most nations have outlawed the use of polychlorinated\
+    \ biphenyls (PCBs), a group of chemical substances that are classified as persistent\
+    \ organic pollutants (POP). They were mostly utilised in paint, retardants, plasticizers,\
+    \ lubricants, transformers, and capacitors. PCBs can be released into the atmosphere\
+    \ from primary and secondary sources. They are transported over great distances\
+    \ by the atmosphere, and as a result, have been found all over the world. PCBs\
+    \ were tested in soil near transformer installations at various sites in Uview\
+    \ local government area (LGA) in the metropolis of Warri, Delta state, Nigeria.\
+    \ The evaluation was done using three different Agilent 6975 GC-MS systems for\
+    \ both total PCBs and congeners. The soil samples were cleaned and concentrated\
+    \ by column chromatography utilising silica gel and hexane as the eluting solvent.\
+    \ The soil samples were extracted with 1:1 hexane-acetone in an ultrasonic bath.\
+    \ The Toxic Substance Control Act (TSCA) of the United States permits a maximum\
+    \ PCB concentration of 2.0 mg/kg, but the results show that all areas were polluted\
+    \ with PCBs below this limit, with the following values for Enerhen (1.146 \xB1\
+    \ 0.023), Ogbomoro (0.340 \xB1 0.28) and Ekpan (0.225 \xB1 0.320) in mg/kg. The\
+    \ total cancer risk calculated by adding the cancer risks from ingestion, inhalation,\
+    \ and dermal contact in these particular locations corresponds to Enerhen (4.2\xD7\
+    10<sup>\u22126</sup>), Ogbomoro (1.25\xD710<sup>\u22126</sup>), and Ekpan (8.26\xD7\
+    10<sup>\u22127</sup>), and it was found that all of these locations have extremely\
+    \ low to low cancer risks compared to the value advised by the TSCA. <strong>Keywords:</strong>\
+    \ Transformer, Warri, Carcinogenicity, PCBs, Soil, Uvwie. <strong>Title:</strong>\
+    \ Carcinogenicity and Distribution of PCBs in Soil from Electrical Transformers\
+    \ Installation Sites in Uvwie Local Government Area, Delta State, Nigeria <strong>Author:</strong>\
+    \ Ijenyo, E. F, Okoro D. <strong>International Journal of Recent Research in Physics\
+    \ and Chemical Sciences (IJRRPCS)</strong> <strong>ISSN 2350-1030</strong> <strong>Vol.\
+    \ 10, Issue 1, April 2023 - September 2023</strong> <strong>Page No: 41-51</strong>\
+    \ <strong>Paper Publications</strong> <strong>Website: www.paperpublications.org</strong>\
+    \ <strong>Published Date: 16-September-2023</strong> <strong>DOI: https://doi.org/10.5281/zenodo.8351618</strong>\
+    \ <strong>Paper Download Link (Source)</strong> <strong>https://www.paperpublications.org/upload/book/Carcinogenicity%20and%20Distribution-16092023-6.pdf</strong>"
+  keywords:
+    default:
+      keywords:
+        subject: https://www.paperpublications.org/upload/book/Carcinogenicity%20and%20Distribution-16092023-6.pdf
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8351618
+    type: WWW:LINK
+    title: Link
+  r2:
+    url: https://doi.org/10.5281/zenodo.8351617
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ijenyo-E.-F:
+    individualname: Ijenyo, E. F
+    role: creator
+    organization: ''
+    url: ''
+  Okoro-D.:
+    individualname: Okoro, D.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

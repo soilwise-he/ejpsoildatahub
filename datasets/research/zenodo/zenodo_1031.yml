@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schmelz_2005
+  dataseturi: https://doi.org/10.1080/00222930500218664
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Three new species ofHemienchytraeus(Enchytraeidae, Oligochaeta) from Amazonian
+    forest soil
+  abstract: "Schmelz, R. M., R\xF6mbke, J. (2005): Three new species of Hemienchytraeus\
+    \ (Enchytraeidae, Oligochaeta) from Amazonian forest soil. Journal of Natural\
+    \ History 39 (32): 2967-2986, DOI: 10.1080/00222930500218664, URL: http://dx.doi.org/10.1080/00222930500218664"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Annelida
+      - Clitellata
+      - Enchytraeida
+      - Enchytraeidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Three new species ofHemienchytraeus(Enchytraeidae, Oligochaeta) from Amazonian
+      forest soil
+    url: http://dx.doi.org/10.1080/00222930500218664
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schmelz-R.-M.:
+    individualname: Schmelz, R. M.
+    role: creator
+  Rombke-J.:
+    individualname: "R\xF6mbke, J."
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

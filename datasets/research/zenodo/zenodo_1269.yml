@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7278406
+  dataseturi: https://doi.org/10.5281/zenodo.7278406
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Interaction of climate and soil pH in determining crop resilience and quality
+  abstract: 'Poster presented at on Biennial AAB Presidential Look-Forward: Nature-based
+    and engineered biology solutions to climate mitigation Conference 1st November
+    2022'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-01'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7278406
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7278405
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Topp-Kairsty:
+    individualname: Topp, Kairsty
+    role: creator
+    organization: SRUC
+    url: https://orcid.org/0000-0002-7064-638X
+  Walker-Robin:
+    individualname: Walker, Robin
+    role: creator
+    organization: SRUC
+    url: https://orcid.org/0000-0002-8008-4413
+  Graham-Rob:
+    individualname: Graham, Rob
+    role: creator
+    organization: SRUC
+    url: https://orcid.org/0000-0001-6992-0567
+  Mead-Andrew:
+    individualname: Mead, Andrew
+    role: creator
+    organization: Rothamsted
+    url: https://orcid.org/0000-0002-4909-8235
+  Watson-Christine:
+    individualname: Watson, Christine
+    role: creator
+    organization: SRUC
+    url: https://orcid.org/0000-0002-3758-9483
+content_info: {}

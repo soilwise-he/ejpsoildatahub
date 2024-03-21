@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8187973
+  dataseturi: https://doi.org/10.5281/zenodo.8187973
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: High-Throughput Chromosomal Conformation Capture (Hi-C) Metagenome Sequencing
+    Reveals Soil Moisture Impacts on Phage-Host Interactions
+  abstract: 'Source Data and R codes were prepared for a manuscript named ''High-Throughput
+    Chromosomal Conformation Capture (Hi-C) Metagenome Sequencing Reveals Soil Moisture
+    Impacts on Phage-Host Interactions'' Ruonan Wu1, Michelle R. Davison1, William
+    C. Nelson1, Montana L. Smith1, Mary S. Lipton1, Janet K. Jansson1, Ryan S. McClure1,
+    Jason E. McDermott1,2, Kirsten S. Hofmockel1,3* 1Earth and Biological Sciences
+    Directorate, Pacific Northwest National Laboratory, Richland, WA, USA 2Department
+    of Molecular Microbiology and Immunology, Oregon Health &amp; Science University,
+    Portland, OR, USA 3Department of Agronomy, Iowa State University, Ames, IA, USA
+    *Corresponding author: kirsten.hofmockel@pnnl.gov'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8187973
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8187972
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wu-Ruonan:
+    individualname: Wu, Ruonan
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Davison-Michelle:
+    individualname: Davison, Michelle
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Nelson-William:
+    individualname: Nelson, William
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Smith-Montana:
+    individualname: Smith, Montana
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Lipton-Mary:
+    individualname: Lipton, Mary
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Jansson-Janet:
+    individualname: Jansson, Janet
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  McClure-Ryan:
+    individualname: McClure, Ryan
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  McDermott-Jason:
+    individualname: McDermott, Jason
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Hofmockel-Kirsten:
+    individualname: Hofmockel, Kirsten
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+content_info: {}

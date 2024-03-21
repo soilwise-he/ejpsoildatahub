@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1414066
+  dataseturi: https://doi.org/10.5281/zenodo.1414066
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Domestic Waste Water Treatment By Using Bio-Soil Filter
+  abstract: 'Aluminium dross is a by- product of aluminium production. Industrial
+    waste is one of the major problem to dump in the Environment. The requirement
+    of space for dumping the waste is very difficult to manage at the site. At present,
+    dross is processed in rotary kilns to recover the aluminum.. Test on the setting
+    time, compressive strength, flexural strength and soundness test were conducted
+    at replacement by weight of cement.
+
+
+    https://journalnx.com/journal-article/20150755'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-05-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1414066
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1414065
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ajit-Chandgude:
+    individualname: Ajit Chandgude
+    role: creator
+  Gaurav-Shinde:
+    individualname: Gaurav Shinde
+    role: creator
+    organization: ''
+    url: ''
+  Nikhil-Bandgar:
+    individualname: Nikhil Bandgar
+    role: creator
+  Samadhan-Farate:
+    individualname: Samadhan Farate
+    role: creator
+    organization: ''
+    url: ''
+  Prof.-Kumbhare-P.P:
+    individualname: Prof. Kumbhare P.P
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-P.D.-Nemade:
+    individualname: Dr. P.D. Nemade
+    role: creator
+    organization: ''
+    url: ''
+  Chandgude-Ajit:
+    individualname: Chandgude, Ajit
+    role: ''
+    organization: ''
+    url: ''
+  Bandgar-Nikhil:
+    individualname: Bandgar, Nikhil
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4756809
+  dataseturi: https://doi.org/10.5281/zenodo.4756809
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Resin as a Soil Stabilizer - A Review
+  abstract: Soil is the most important construction material which is the support
+    of any structure, no matter what is the function the structure plays. But the
+    problem is that the soil may be a little tricky and the properties may not be
+    suitable for construction. To make the soil suitable for use, should be replaced
+    or treated mechanically or chemically. Better to do treating than replacing. Most
+    suitable among the treatment is use of additives for better bonding. Among the
+    additives most suitable are polymers such as resins. There are many studies carried
+    to find the effect of adding various resins on various types of soils. Most of
+    the studies shows good improvement of soil properties. i.e., resin can be used
+    as better stabilizing agent.
+  keywords:
+    default:
+      keywords:
+        subject: Resin, polymer, soil stabilization
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-05-13'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4756809
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4756808
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr-K-Balan:
+    individualname: Dr K Balan
+    role: creator
+    organization: Vice Principle & Dean, Department of Civil Engineering, Rajadhani
+      Institute of Engineering and Technology, Nagaroor, Trivandrum, India.
+    url: ''
+  Ananya-G:
+    individualname: Ananya G
+    role: creator
+    organization: M.Tech Student, Department of Civil Engineering, Rajadhani Institute
+      of Engineering and Technology, Nagaroor, Trivandrum, India.
+    url: ''
+  Dhanya-Krishnan-R.:
+    individualname: Dhanya Krishnan, R.
+    role: creator
+    organization: M.Tech Student, Department of Civil Engineering, Rajadhani Institute
+      of Engineering and Technology, Nagaroor, Trivandrum, India.
+    url: ''
+content_info: {}

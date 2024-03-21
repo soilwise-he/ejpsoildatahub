@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1039671
+  dataseturi: https://doi.org/10.5281/zenodo.1039671
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Interactions Between Soil, Horizontal Heat Exchangers And Environment: The
+    Iter Project Outcomes'
+  abstract: The thermal properties of soils can be considered one of the most important
+    parameters for many engineering projects designing. In detail, the thermal conductivity
+    plays a fundamental role when dimensioning ground heat exchangers, especially
+    very shallow geothermal (VSG) systems, interesting the first 2 m of depth from
+    the ground level. However, the determination of heat transfer in soils is difficult
+    to estimate, because depends on several factors, including, among others, particle
+    size, density, water content, mineralogy composition, ground temperature, organic
+    matter. The performance of a VSG system, as horizontal collectors or special forms,
+    is strongly correlated to the kind of sediment at disposal and suddenly decreases
+    in case of dry-unsaturated conditions in the surrounding soil. Therefore, a better
+    knowledge of the relationship between thermal conductivity and water content is
+    required for understanding the VSG systems behavior in saturated and unsaturated
+    conditions. The overall aim of ITER Project (Improving Thermal Efficiency of horizontal
+    ground heat exchangers), funded by European Union, is to ensure the sustainability
+    of VSG systems. To enhance the performance of horizontal geothermal heat exchangers,
+    thermally enhanced backfilling material (TEBM) have been tested in laboratory
+    and monitored on site. In the test field the interactions between different soil
+    mixtures, helix collectors installed in horizontal trenches and the surrounding
+    environment have been studied. Analysis of data collected over more than one year
+    have been processed and used in numerical simulations in order to understand the
+    short and long term environmental impact of these technical solutions
+  keywords:
+    default:
+      keywords:
+        subject: soil, backfilling material, thermal conductivity, very shallow geothermal
+          energy, environment resources and sustainability
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-09-14'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1039671
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1039670
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Di-Sipio-Eloisa:
+    individualname: Di Sipio, Eloisa
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: https://orcid.org/0000-0001-5573-4261
+  Bertermann-David:
+    individualname: Bertermann, David
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: ''
+content_info: {}

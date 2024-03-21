@@ -1,0 +1,167 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Karapetsas_2022
+  dataseturi: https://doi.org/10.3390/rs14071639
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Mapping Soil Properties with Fixed Rank Kriging of Proximally Sensed Soil
+    Data Fused with Sentinel-2 Biophysical Parameter
+  abstract: '&lt;p&gt;Soil surveys with line-scanning platforms appear to have great
+    advantages over the&lt;br&gt;
+
+    traditional methods used to collect soil information for the development of field-scale
+    soil mapping&lt;br&gt;
+
+    and applications. These carry VNIR (visible and near infrared) spectrometers and
+    have been used&lt;br&gt;
+
+    in recent years extensively for the assessment of soil fertility at the field
+    scale, and the delineation&lt;br&gt;
+
+    of site-specific management zones (MZ). A challenging feature of VNIR applications
+    in precision&lt;br&gt;
+
+    agriculture (PA) is the massiveness of the derived datasets that contain point
+    predictions of soil&lt;br&gt;
+
+    properties, and the interpolation techniques involved in incorporating these data
+    into site-specific&lt;br&gt;
+
+    management plans. In this study, fixed-rank kriging (FRK) geostatistical interpolation,
+    which is a&lt;br&gt;
+
+    flexible, non-stationary spatial interpolation method especially suited to handling
+    huge datasets,&lt;br&gt;
+
+    was applied to massive VNIR soil scanner data for the production of useful, smooth
+    interpolated&lt;br&gt;
+
+    maps, appropriate for the delineation of site-specific MZ maps. Moreover, auxiliary
+    Sentinel-2 databased&lt;br&gt;
+
+    biophysical parameters NDVI (normalized difference vegetation index) and fAPAR
+    (fraction of&lt;br&gt;
+
+    photosynthetically active radiation absorbed by the canopy) were included as covariates
+    to improve&lt;br&gt;
+
+    the filtering performance of the interpolator and the ability to generate uniform
+    patterns of spatial&lt;br&gt;
+
+    variation from which it is easier to receive a meaningful interpretation in PA
+    applications. Results&lt;br&gt;
+
+    from the VNIR prediction dataset obtained from a pivot-irrigated field in Albacete,
+    southeastern&lt;br&gt;
+
+    Spain, during 2019, have shown that FRK variants outperform ordinary kriging in
+    terms of filtering&lt;br&gt;
+
+    capacity, by doubling the noise removal metrics while keeping the computation
+    cost reasonably low.&lt;br&gt;
+
+    Such features, along with the capacity to handle a large volume of spatial information,
+    nominate the&lt;br&gt;
+
+    method as ideal for PA applications with massive proximal and remote sensing datasets.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - geostatistical interpolation
+      - VNIR spectrometer
+      - NDVI
+      - fAPAR
+      - precision agriculture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Mapping Soil Properties with Fixed Rank Kriging of Proximally Sensed Soil
+      Data Fused with Sentinel-2 Biophysical Parameter
+    url: http://dx.doi.org/10.3390/rs14071639
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Karapetsas-N.:
+    individualname: Karapetsas, N.
+    role: creator
+  Alexandridis-T.:
+    individualname: Alexandridis, T.
+    role: creator
+  Bilas-G.:
+    individualname: Bilas, G.
+    role: creator
+  Munnaf-M.A.:
+    individualname: Munnaf, M.A.
+    role: creator
+  Guerrero-A.:
+    individualname: Guerrero, A.
+    role: creator
+  Calera-M.:
+    individualname: Calera, M.
+    role: creator
+  OSANN-A.:
+    individualname: OSANN, A.
+    role: creator
+  Gobin-A.:
+    individualname: Gobin, A.
+    role: creator
+  Reznik-T.:
+    individualname: "Rezn\xEDk, T."
+    role: creator
+  Moshou-D.:
+    individualname: Moshou, D.
+    role: creator
+  Mouazen-A.:
+    individualname: Mouazen, A.
+    role: creator
+  Karapetsas-Nikolaos:
+    individualname: Karapetsas, Nikolaos
+    role: creator
+  Alexandridis-Thomas-K.:
+    individualname: Alexandridis, Thomas K.
+    role: creator
+  Bilas-George:
+    individualname: Bilas, George
+    role: creator
+  Munnaf-Muhammad-Abdul:
+    individualname: Munnaf, Muhammad Abdul
+    role: creator
+  Guerrero-Angela-P.:
+    individualname: Guerrero, Angela P.
+    role: creator
+  Calera-Maria:
+    individualname: Calera, Maria
+    role: creator
+  Osann-Anna:
+    individualname: Osann, Anna
+    role: creator
+  Gobin-Anne:
+    individualname: Gobin, Anne
+    role: creator
+  Reznik-Tomas:
+    individualname: "Rezn\xEDk, Tom\xE1\u0161"
+    role: creator
+  Moshou-Dimitrios:
+    individualname: Moshou, Dimitrios
+    role: creator
+  Mouazen-Abdul-Mounem:
+    individualname: Mouazen, Abdul Mounem
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

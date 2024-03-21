@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Loughridge_1874
+  dataseturi: https://doi.org/10.2475/ajs.s3-7.37.17
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On the distribution of soil ingredients among the sediments obtained in silt
+    analysis
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On the distribution of soil ingredients among the sediments obtained in
+      silt analysis
+    url: http://dx.doi.org/10.2475/ajs.s3-7.37.17
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Loughridge-R.-H.:
+    individualname: Loughridge, R. H.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

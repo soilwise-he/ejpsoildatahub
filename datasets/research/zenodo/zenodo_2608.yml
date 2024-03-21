@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5003308
+  dataseturi: https://doi.org/10.5281/zenodo.5003308
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of different levels of N and P on the yield of BINA dhan7 in old
+    Brahmaputra floodplain soil
+  abstract: 'A field experiment was carried out in Old Brahmaputra Floodplain soil
+    at Soil Science Field Laboratory of Bangladesh<br> Agricultural University, Mymensingh
+    during aman season of 2011 to study the response of BINA dhan7 to different levels
+    of nitrogen<br> and phosphorous. The experiment was laid out in a randomized complete
+    block design with four replications. There were seven<br> treatments such as T1:
+    Control, T2: Recommended fertiliser dose ( RFD) + N0P0, T3: RFD, T4: RFD-20% NP,
+    T5: RFD-40% NP, T6: RFD + 20% NP and T7: RFD + 40% NP. The recommended fertilizer
+    dose used for the study was 80 kg N, 25 kg P, 35 kg K, 10 kg S and 4 kg Zn ha-1.
+    Nitrogen, phosphorus, potassium, sulphur and zinc were applied through urea, TSP,
+    MoP, gypsum and zinc oxide, respectively. The application of N and P had a significant
+    influence on plant height, effective tiller hill-1, panicle length and filled
+    grains panicle-1. The N and P uptake by rice plant did not increase considerably
+    due to the different rates of N and P compared to RFD. The grain and straw yield
+    of BINA dhan7 were significantly affected due to treatments. The highest grain
+    and straw yield were 5.47 t ha-1 and 6.58 t ha-1, respectively in the treatment
+    T7 (RFD + 40% NP) where all of N and P fertilizers were applied in higher level
+    . From this study it can be concluded that the treatment T3 (RFD) is the best
+    for the successful production of BINA dhan7 in Old Brahmaputra Floodplain soil.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-06-21'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5003308
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5003307
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ARA-Wakel:
+    individualname: ARA Wakel
+    role: creator
+    organization: Bangladesh Agricultural University
+    url: ''
+  Mohammad-Mobarak-Hossain:
+    individualname: Mohammad Mobarak Hossain
+    role: creator
+  N-Mohammad:
+    individualname: N Mohammad
+    role: creator
+    organization: Bangladesh Agricultural University
+    url: ''
+  K-Sarker:
+    individualname: K Sarker
+    role: creator
+    organization: Bangladesh Agricultural University
+    url: ''
+  Hossain-Mohammad-Mobarak:
+    individualname: Hossain, Mohammad Mobarak
+    role: ''
+    organization: International Rice Research Institute
+    url: https://orcid.org/0000-0003-0640-3209
+content_info: {}

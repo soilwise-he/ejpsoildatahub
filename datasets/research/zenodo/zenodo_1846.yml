@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3294775
+  dataseturi: https://doi.org/10.5281/zenodo.3294775
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Influence of poplar shelterbelts on grain crops yielding, soil water storage\
+    \ and nutrients content in soil - Wp\u0142yw zadrzewie\u0144 pasowych topoli na\
+    \ plonowanie zb\xF3\u017C oraz gospodark\u0119 wodn\u0105 i zasoby sk\u0142adnik\xF3\
+    w pokarmowych w glebie"
+  abstract: "The aim of the study was to assess the influence of shelterbelts of poplar\
+    \ clone Hybrid 275 [Populus (maximowiczii * trichocarpa) cv. Hybrid 275] on the\
+    \ grain crops yield, availability of nutrients, and soil water storage. The studies\
+    \ were conducted on three stands in northern Poland near Toru\u0144. The results\
+    \ of the studies showed that poplar shelterbelts had negative impact on the grain\
+    \ crops yield. A 46- 75% reduction of yield from fields located in the vicinity\
+    \ of the poplars was observed in comparison to the maximum values noted at distances\
+    \ of 30-40 m from the trees. The reason of the grain crops yield reduction in\
+    \ the neighbourhood of poplars was the shortage of soil water, especially during\
+    \ the period of grain florescence. A distinct positive effect of the poplar shelterbelts\
+    \ on the content of organic carbon, total nitrogen and forms of nitrogen, phosphorus\
+    \ and potassium available for plants was noted in the humic horizon of the soils."
+  keywords:
+    default:
+      keywords:
+        subject: "sk\u0142adniki pokarmowe"
+  status: ''
+  language: pol
+  dates:
+    creation: ''
+    issued: '2010-01-01'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3294775
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3294774
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jonczak-J.:
+    individualname: Jonczak, J.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

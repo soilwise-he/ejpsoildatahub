@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8320869
+  dataseturi: https://doi.org/10.5281/zenodo.8320869
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: ESA Climate Change Initiative Plus - Soil Moisture Algorithm Theoretical
+    Baseline Document (ATBD) Supporting Product Version 08.1
+  abstract: "The Algorithm Theoretical Baseline Document (ATBD) provides a detailed\
+    \ description of the algorithms that are used within the ESA CCI Soil Moisture\
+    \ production system. The ESA CCI SM production system was initially developed\
+    \ within CCI Phases 1 &amp; 2 and is continuously being updated within CCI+ to\
+    \ reflect the current state of the science driving the system. The aim of this\
+    \ document is to describe the algorithm development process for each of the ESA\
+    \ CCI SM products, as well as provide an executive summary setting them within\
+    \ framework for the CCI project and the ESA CCI SM production system. This document\
+    \ forms the deliverable D2.4 Algorithm Theoretical Basis Document (ATBD), version\
+    \ 1.0, and was compiled for the European Space Agency (ESA) Climate Change Initiative\
+    \ Plus Soil Moisture Project (CCN 3 to ESRIN Contract No: 4000126684/19/I-NB\u201D\
+    \ ESA CCI+ Phase 1 New R&amp;D on CCI ECVS Soil Moisture\u201D). This document\
+    \ supports CCI SM product version v08.1"
+  keywords:
+    default:
+      keywords:
+        subject: Algorithm Theoretical Baseline Document
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8320869
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8320868
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dorigo-Wouter:
+    individualname: Dorigo, Wouter
+    role: creator
+    organization: TU Wien
+    url: ''
+  Preimesberger-Wolfgang:
+    individualname: Preimesberger, Wolfgang
+    role: creator
+    organization: TU Wien
+    url: ''
+  Stradiotti-Pietro:
+    individualname: Stradiotti, Pietro
+    role: creator
+    organization: TU Wien
+    url: ''
+  Kidd-Richard:
+    individualname: Kidd, Richard
+    role: creator
+    organization: EODC GmbH
+    url: ''
+  van-der-Schalie-Robin:
+    individualname: van der Schalie, Robin
+    role: creator
+    organization: Planet
+    url: ''
+  van-der-Vliet-Mendy:
+    individualname: van der Vliet, Mendy
+    role: creator
+    organization: Planet
+    url: ''
+  Rodriguez-Fernandez-Nemesio:
+    individualname: Rodriguez-Fernandez, Nemesio
+    role: creator
+    organization: CESBIO
+    url: ''
+  Madelon-Remi:
+    individualname: Madelon, Remi
+    role: creator
+    organization: CESBIO
+    url: ''
+  Baghdadi-Nicolas:
+    individualname: Baghdadi, Nicolas
+    role: creator
+    organization: INRA
+    url: ''
+content_info: {}

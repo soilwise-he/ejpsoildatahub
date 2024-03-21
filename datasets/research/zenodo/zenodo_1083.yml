@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Isaak_2019
+  dataseturi: https://doi.org/10.12928/TELKOMNIKA.v17i4.12775
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A low cost spectroscopy with Raspberry Pi for soil macronutrient monitoring
+  abstract: '&lt;p&gt;Soil spectroscopy measurement is widely used to determine the
+    macronutrients content in the soil. Spectrometer is costly equipment and commonly
+    used to determine the transmittance, absorbance or reflectance level of various
+    liquids and opaque solids by measuring the intensity of light as a light source
+    passes through a sample chemical substance. This paper is reported on a low cost
+    experimental assessment of soil macronutrient for soil spectroscopy utilizing
+    Raspberry Pi (RPI) module in visible and near-infrared (NIR) wavelength. The sensitivity
+    measurements are mainly due to the concentration level and the intensity of light
+    emitting diode (LED) light source. The work is focusing on the absorbance spectroscopy
+    particularly on linear relationship to determine the Nitrogen (N), Phosphorus
+    (P) and Potassium (K) content level in soil using colour-developing reagent. The
+    development of low cost and portable RPI based spectrophotometer has created new
+    possibilities to measure the concentration level of the existed soil macronutrient
+    within visible and infrared light wavelength of light sources. The absorbance
+    of light was computed based on Beer-Lambert Law. The low cost RPI based spectrometer
+    costs 80% less than the spectrometer available in the market and is capable of
+    recording the absorbance measurements up to 5 samples. The performance of this
+    prototype shows that it is possible to build the spectrometer using open-source
+    software and hardware by considering the limiting factors such as light transfer
+    to the sample, spectral filtering and the sensitivity due to the signal-to-noise
+    ratio.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - absorbance
+      - Raspberry Pi
+      - silicon photodiode
+      - spectroscopy
+      - transimpedance amplifier
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A low cost spectroscopy with Raspberry Pi for soil macronutrient monitoring
+    url: http://dx.doi.org/10.12928/TELKOMNIKA.v17i4.12775
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Suhaila-Isaak:
+    individualname: Suhaila Isaak
+    role: creator
+  Yusmeeraz-Yusof:
+    individualname: Yusmeeraz Yusof
+    role: creator
+  Nor-Hafizah-Ngajikin:
+    individualname: Nor Hafizah Ngajikin
+    role: creator
+  Norhafizah-Ramli:
+    individualname: Norhafizah Ramli
+    role: creator
+  Chuan-Mu-Wen:
+    individualname: Chuan Mu Wen
+    role: creator
+  Isaak-Suhaila:
+    individualname: Isaak, Suhaila
+    role: creator
+  Yusof-Yusmeeraz:
+    individualname: Yusof, Yusmeeraz
+    role: creator
+  Ngajikin-Nor-Hafizah:
+    individualname: Ngajikin, Nor Hafizah
+    role: creator
+  Ramli-Norhafizah:
+    individualname: Ramli, Norhafizah
+    role: creator
+  Wen-Chuan-Mu:
+    individualname: Wen, Chuan Mu
+    role: creator
+  Universitas-Ahmad-Dahlan:
+    individualname: Universitas Ahmad Dahlan
+    role: creator
+content_info: {}

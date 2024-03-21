@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3604609
+  dataseturi: https://doi.org/10.5281/zenodo.3604609
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative Cost Analysis of Pile Foundation with Soil Improvemnet of a Reclaimed
+    Area
+  abstract: Soil liquefaction is the most hazardous phenomenon for buildings, highways,
+    railways and other structures in recent past years. Liquefaction of soil followed
+    by earthquakes has always been a source of danger for the people living in the
+    highly vulnerable seismic zones of the world. Dhaka city is expanding rapidly
+    on reclaimed land due to rapid increase of population. The behavior of piles in
+    reclaimed areas is significantly affected if the soil liquefies. Therefore, soil
+    improvement is necessary. This paper discusses the variation of cost of piles
+    of a reclaimed area with and without considering soil improvement technique like
+    sand compaction pile and stone column. Cost analysis of sand compaction pile and
+    stone column with different properties, i.e. diameter of the pile, Fineness modulus
+    (FM) is also estimated in the context of Bangladesh. Sand Compaction pile is only
+    1.3% to 2.1% of pile cost. On the other hand, stone column is more than 50% of
+    RCC pile. Sand compaction pile is more cheaper than stone columns. The cost of
+    sand compaction pile, for 1000 m2 area with FM 1.8 and fill volume 0.15 cum/m
+    are 3.2 lac, 3.1 lac and 2.8 lac for diameter 200 mm, 250mm and 300 mm respectively.
+  keywords:
+    default:
+      keywords:
+        subject: http://hbrppublication.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-11'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3604609
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3604608
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Syed-Aaqib-Javed:
+    individualname: Syed Aaqib Javed
+    role: creator
+  Anika-Salsabiyl:
+    individualname: Anika Salsabiyl
+    role: creator
+  Farhana-Nasrin-Jubaida:
+    individualname: Farhana Nasrin Jubaida
+    role: creator
+  Md.-Zahidul-Islam:
+    individualname: Md. Zahidul Islam
+    role: creator
+    organization: Undergraduate Student, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Shafiqul-Islam:
+    individualname: Shafiqul Islam
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Javed-Syed-Aaqib:
+    individualname: Javed, Syed Aaqib
+    role: ''
+    organization: Lecturer, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Salsabiyl-Anika:
+    individualname: Salsabiyl, Anika
+    role: ''
+    organization: Undergraduate Student, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+  Jubaida-Farhana-Nasrin:
+    individualname: Jubaida, Farhana Nasrin
+    role: ''
+    organization: Undergraduate Student, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology (AUST), Dhaka, Bangladesh.
+    url: ''
+content_info: {}

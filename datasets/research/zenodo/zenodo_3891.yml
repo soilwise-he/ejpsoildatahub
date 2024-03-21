@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1202501
+  dataseturi: https://doi.org/10.5281/zenodo.1202501
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination Of Moisture Content In Soil Based On Oven Drying Method Using
+    A Microstrip Patch Sensor
+  abstract: 'The proposed design is analyzed of a pentagon shape of microstrip sensor
+    for determination the soil moisture measurement. The proposed design is useful
+    in agricultural field as well as measured the moisture with accuracy and it is
+    designed on FR4 substrate with 1.676 thicknesses. Many methods are used for detecting
+    the moisture but oven drying method is very cheap and easy to install. A new 2.3
+    GHz soil moisture sensor using microstrip transmission line is presented with
+    good return loss -28dB and gain 3.2dB. The main advantages of the proposed sensor
+    will be its high accuracy, quickness of measurement, low cost and ease of implementation.
+    Since the sensor has low power consumption.
+
+
+    <strong>Motivation/Background:</strong> The microstrip moisture sensor is helpful
+    for detecting the moisture content of soil. The proposed patch sensor design is
+    being beneficial in real time agricultural field for the determination of soil
+    moisture content (MC). The actual moisture content in soil is determined using
+    conventional, standard an oven drying method at operating frequency 2.3GHz with
+    compact and low cost. The work has done at frequency range between 1GHz to 2GHz
+    for detecting the soil moisture by using the cavity resonator technique and impedance
+    bridge technique. These techniques are expensive, complex, no more accuracy and
+    time consuming.
+
+
+    <strong>Method:</strong> The proposed design has fabricated on FR4 substrate with
+    1.676mm thickness. The simulation analysis has carried out with the help of CST
+    software and the experimental values will be measured by vector network analyzer.
+    The experiment will be performed on the samples of soil and the results shows
+    that the proposed method will be able to detect the high moisture content with
+    high sensitivity and accuracy.
+
+
+    <strong>Results:</strong> The proposed design, it will be very helpful for agricultural
+    field because of got the good return loss as well as gain -28dB and 3.2dB at 2.3GHz
+    and it can be fabricated and measured by the vector network analyzer
+
+
+    Conclusions: The proposed design is analyzed for detecting the moisture content
+    with the suitable parameters with the help of CST software as well as used the
+    direct (oven drying) method, this is very easy and less time consuming.'
+  keywords:
+    default:
+      keywords:
+        subject: Microstrip Sensor; Moisture Content; CST; Vector Network Analyzer;
+          Reflection Coefficient; Magnitude and Phase; Gain.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-02-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1202501
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1202500
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sweety-Jain:
+    individualname: Sweety Jain
+    role: creator
+  Pankaj-Kumar-Mishra:
+    individualname: Pankaj Kumar Mishra
+    role: creator
+  Vandana-Vikas-Thakare:
+    individualname: Vandana Vikas Thakare
+    role: creator
+  Jain-Sweety:
+    individualname: Jain, Sweety
+    role: ''
+    organization: Research Scholar, Department of Electronics, ASET, Amity University,
+      Madhya Pradesh, India
+    url: ''
+  Mishra-Pankaj-Kumar:
+    individualname: Mishra, Pankaj Kumar
+    role: ''
+    organization: Associate Professor, Department of Applied Science, Amity school
+      of pure and Applied Sciences, Amity University, Madhya Pradesh, India
+    url: ''
+  Thakare-Vandana-Vikas:
+    individualname: Thakare, Vandana Vikas
+    role: ''
+    organization: Associate Professor, Department of Electronics, MITS, Madhya Pradesh,
+      India
+    url: ''
+content_info: {}

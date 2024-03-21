@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wood_1905
+  dataseturi: https://doi.org/10.1017/s0021859600000198
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Analysis as a guide to the Manurial Treatment of Poor Pastures
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Analysis as a guide to the Manurial Treatment of Poor Pastures
+    url: http://dx.doi.org/10.1017/s0021859600000198
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wood-T.-B.:
+    individualname: Wood, T. B.
+    role: creator
+  Berry-R.-A.:
+    individualname: Berry, R. A.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

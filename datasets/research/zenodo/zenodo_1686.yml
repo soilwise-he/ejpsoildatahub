@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10691473
+  dataseturi: https://doi.org/10.5281/zenodo.10691473
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Printable version of the inventory of soil management practices (i-SoMPE,
+    version scientific paper)
+  abstract: "The report is the printable (pdf) version for the inventory of soil management\
+    \ practices. The inventory is a unified list of soil management practices collected\
+    \ during the i-SoMPE project. The initial list of practices has been curated while\
+    \ preparing scientific communications of the project. The paper is under review\
+    \ : \"Towards enhanced adoption of soil management practices by overcoming socio-technical\
+    \ and bio-physical constraints\" (EJSS-505-23) to the European Journal of Soil\
+    \ Science.\n\n\n\nGeneral presentation : main contents of the inventory, description\
+    \ of the benefits and applicability of the practice.\n\nMaps : static showing\
+    \ the current diffusion of the selected practice in the different countries and\
+    \ environmental zones of Europe\n\nData (maps) : a dynamic table for exploring\
+    \ the adoption rate data\n\n\nThis inventory is the main output of the i-SoMPE\
+    \ project.\n\nAll members of the consortium have participated to this inventory.\
+    \ In particular coordination team :\_\n\nOlivier Heller, Claudia Di Bene, Pasquale\
+    \ Nino, Bruno Huyghebaert"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-02-22'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10691473
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10691472
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vanwindekens-Frederic:
+    individualname: "Vanwindekens, Fr\xE9d\xE9ric"
+    role: creator
+    organization: Walloon Agricultural Research Centre
+    url: 0000-0002-9117-7543
+content_info: {}

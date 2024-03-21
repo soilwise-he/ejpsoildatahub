@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: B__1889
+  dataseturi: https://doi.org/10.1038/040314a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Influence of Snow on the Soil and Atmosphere
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Influence of Snow on the Soil and Atmosphere
+    url: http://dx.doi.org/10.1038/040314a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-H.-F.:
+    individualname: B., H. F.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

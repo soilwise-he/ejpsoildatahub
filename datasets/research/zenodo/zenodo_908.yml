@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4709090
+  dataseturi: https://doi.org/10.5281/zenodo.4709090
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Fineness of Soil on California Bearing Ratio Value
+  abstract: Being the bottom- most layer of a road, the sub-grade soil acts as one
+    of the most important load-bearing strata on which the performance and design
+    of a pavement depend essentially. The grain size of soil particles plays a significant
+    role in strength characteristics of the sub-grade as working recommendations vary
+    significantly respecting varying particle sizes. Generally, California Bearing
+    Ratio (CBR) value is widely used for the evaluation of subgrade strengths. Since
+    this test is an expansive and time-consuming one, it is much needed to establish
+    an alternative approach to determine the CBR value from some other physical properties
+    of soils, which are easy, cheap, and low time consuming with limited facilities
+    for laboratory experiments. To confront this, an attempt has been conducted in
+    this study to correlate CBR value of sub-grade with some physical properties of
+    soils, such as Fineness Modulus (FM) along with grain sizes. Six types of fine
+    sands were collected from six notable sites, i.e bed of River Payera in Borguna,
+    River Katcha in Pirojpur, River Shayendha in Barisal, River Kapotakkha in Khulna,
+    River Bhairab in Bagerhat, and one sample was collected from subsoil in Jessore.
+    At the initial stage, the necessary engineering properties of soils, like fineness
+    modulus, grain size distribution, unit weight, dry density, and optimum moisture
+    content, were determined, followed by thirty CBR samples with different FM values
+    at optimum moisture content. After that, a correlation was established in the
+    form of an equation to express CBR value as a function of fineness modulus using
+    regression analysis. From field and laboratory test results, it was found that
+    the six sands are uniformly graded non-plastic fine sand with FM 0.13 to 0.26
+    and their PI is less than 5 and LL is less than 30. CBR of sands lies in between
+    11.44% to 12.09% and their swelling is in between 0.58% to 0.69%. The equation
+    of co-relation is y = 0.0496x + 0.1081, where y refers to CBR (%) and x refers
+    to Fineness modulus. From which one can ascertain the probable CBR value of find
+    sand corresponding its FM value. With the help of this study, the CBR value of
+    soil sample can be predicted in an easier, cheap, and less time-consuming manner
+    to classify and evaluate the soil sub-grade rather than conventional CBR test.
+  keywords:
+    default:
+      keywords:
+        subject: California bearing ratio, Fineness modulus, Effect of fineness, Regression
+          analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-04-17'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4709090
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4709089
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chowdhury-Showaib-Ahmed:
+    individualname: Chowdhury, Showaib Ahmed
+    role: creator
+    organization: Lecturer, Department of Building Engineering & Construction Management
+      (BECM), Rajshahi University of Engineering & Technology(RUET)
+    url: https://orcid.org/0000-0003-1221-4594
+content_info: {}

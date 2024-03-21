@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629872
+  dataseturi: https://doi.org/10.5281/zenodo.2629872
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Sewage sludge fertiliser use: Implications for soil and plant copper evolution
+    in forest and agronomic soils'
+  abstract: Fertilisation with sewage sludge may lead to crop toxicity and environmental
+    degradation. This study aims to evaluate the effects of two types of soils (forest
+    and agronomic), two types of vegetation (unsown (coming from soil seed bank) and
+    sown), and two types of fertilisation (sludge fertilisation and mineral fertilisation,
+    with a no fertiliser control) in afforested and treeless swards and in sown and
+    unsown forestlands on the total and available Cu  oncentration in soil, the leaching
+    of this element and the Cu levels in plant. The experimental design was completely
+    randomised with nine treatments and three replicates. Fertilisation with sewage
+    sludge increased the concentration of Cu in soil and plant, but the soil values
+    never exceeded the maximum set by Spanish regulations. Sewage sludge inputs increased
+    both the total and Mehlich 3 Cu concentrations in agronomic soils and the Cu levels
+    in plant developed in agronomic and forest soils, with this effect pronounced
+    in the unsown swards of forest soils. Therefore, the use of high quality sewage
+    sludge as fertiliser may improve the global productivity of forest, agronomic
+    and silvopastoral systems without creating environmental hazards.
+  keywords:
+    default:
+      keywords:
+        subject: Pinus radiata
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-03-16'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629872
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629871
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nuria-Ferreiro-Dominguez:
+    individualname: "Nuria Ferreiro-Dom\xEDnguez"
+    role: creator
+  Antonio-Rigueiro-Rodriguez:
+    individualname: "Antonio Rigueiro-Rodr\xEDguez"
+    role: creator
+  M.-Rosa-Mosquera-Losada:
+    individualname: M. Rosa Mosquera-Losada
+    role: creator
+    organization: ''
+    url: ''
+  Ferreiro-Dominguez-Nuria:
+    individualname: "Ferreiro-Dom\xEDnguez, Nuria"
+    role: ''
+    organization: ''
+    url: ''
+  Rigueiro-Rodriguez-Antonio:
+    individualname: "Rigueiro-Rodr\xEDguez, Antonio"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

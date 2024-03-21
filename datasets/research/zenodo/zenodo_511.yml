@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROBERTS_1889
+  dataseturi: https://doi.org/10.1038/041031e0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Relation of the Soil to Tropical Diseases
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Relation of the Soil to Tropical Diseases
+    url: http://dx.doi.org/10.1038/041031e0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Roberts-A.-Ernest:
+    individualname: Roberts, A. Ernest
+    role: creator
+  ROBERTS-A.-ERNEST:
+    individualname: ROBERTS, A. ERNEST
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

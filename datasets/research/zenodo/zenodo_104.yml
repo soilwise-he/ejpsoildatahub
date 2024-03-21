@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8362647
+  dataseturi: https://doi.org/10.5281/zenodo.8362647
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: MICROORGANISMS FOUND IN THE SOIL
+  abstract: <em> This article provides information on the types of microorganisms
+    in the soils, the development of microorganisms, their role in increasing soil
+    fertility, symbiotic relationships,</em><em> <em>processes of ammonification and
+    nitrification.</em></em>
+  keywords:
+    default:
+      keywords:
+        subject: microorganism, microflora, bacteria, microbes, the structure of the
+          soil, aerobes, biological nitrogen, anaerobes, saprophytes, symbiosis, mycorrhiza,
+          ammonification, nitrification.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-20'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8362647
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8362646
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ro'zimova-Xolida-Komiljonovna-Ruzikulova-Zamira-Ulashbayevna-Qodirova-Shaxribonu-Normurodovna:
+    individualname: Ro'zimova Xolida Komiljonovna, Ruzikulova Zamira Ulashbayevna,
+      Qodirova Shaxribonu Normurodovna
+    role: creator
+  Ro'zimova-Xolida-Komiljonovna-Ruzikulova-Zamira-Ulashbayevna:
+    individualname: Ro'zimova Xolida Komiljonovna, Ruzikulova Zamira Ulashbayevna
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

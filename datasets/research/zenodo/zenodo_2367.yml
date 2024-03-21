@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.14031
+  dataseturi: https://doi.org/10.5281/zenodo.14031
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "The \u201CStick-Slip\u201D Phenomenon During The Active Earth Pressure Failure\
+    \ Of A Granular Soil Of Analogical Material"
+  abstract: The aim of this paper is to highlight the "stick-slip" phenomenon in the
+    mechanisms of failure related to active earth pressure of an analogical material
+    simulating a granular medium.  For this, a two-dimensional small-scale model was
+    used and a phenomenological analysis of these mechanisms was conducted employing
+    measurements of the fields of deformations using the method of digital image correlation.
+    It was noted that a fluctuation in the response of the material occurs during
+    the equal increments of displacements imposed on the mobile wall. This incremental
+    response of the medium during the failure process related to active earth pressure
+    explains the  "stick-slip" phenomenon.
+  keywords:
+    default:
+      keywords:
+        subject: stick-slip phenomenon; image correlation; small-scale model; granular
+          material; analogical material
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-02-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.14031
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daoud-S.-M.:
+    individualname: Daoud, S. M.
+    role: creator
+    organization: Department of Civil Engineering, Djillali Liabes University of Sidi
+      Bel Abbes, Algeria
+    url: ''
+  Meghachou-M.:
+    individualname: Meghachou, M.
+    role: creator
+    organization: Department of Civil Engineering, Djillali Liabes University of Sidi
+      Bel Abbes, Algeria
+    url: ''
+  Abbad-H.:
+    individualname: Abbad, H.
+    role: creator
+    organization: Department of Civil Engineering, Djillali Liabes University of Sidi
+      Bel Abbes, Algeria
+    url: ''
+  Vacher-P.:
+    individualname: Vacher, P.
+    role: creator
+    organization: SYMME Laboratory, University of Savoy, France
+    url: ''
+content_info: {}

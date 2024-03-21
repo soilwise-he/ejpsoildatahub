@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5639358
+  dataseturi: https://doi.org/10.5281/zenodo.5639358
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Chemical fractionation and distribution of metals in contaminated urban soil
+    in Zhuzhou City, South Central China
+  abstract: "Institute of Environmental Engineering, School of Metallurgy and Environment,\
+    \ Central South University,<br> Changsha 410083, China<br> <em>E-mail </em>: banerjeesme@csu.edu.cn<br>\
+    \ <em>Manuscript received online 20 April 2016, revised 23 August 2016, accepted\
+    \ 24 August 2016</em> The present study was conducted to determine the chemical\
+    \ fractions of heavy metals, to assess the current and potential environmental\
+    \ risks and to evaluate the mobility and bioavailability of metals in contaminated\
+    \ urban soils. Sequential extraction procedure was applied to fractionate the\
+    \ metal content into exchangeable fraction, carbonate fraction, fraction bound\
+    \ to Fe-Mn oxides, fraction bound to organic matter and residual fraction. Chemical\
+    \ speciation (Tessier, 1979) study revealed that Cd in soil prevails mostly in\
+    \ exchangeable fractions (26.383%). The overall percentage of metal content in\
+    \ different sequential fractions is in the sequence of Residual &gt; Organic &gt;\
+    \ Fe-Mn Oxides &gt; Carbonate \u2248 Exchangeable and the order of metals in each\
+    \ fractions are as follows \u2013 Exchangeable : Cd &gt; Cu &gt; Pb &gt; As, Carbonate\
+    \ : Cd &gt; Pb &gt; Cu &gt; As, FeMn Oxides : Pb &gt; Cd &gt; Cu &gt; As, Organic\
+    \ : As &gt; Cu &gt; Pb &gt; Cd and Residual : As &gt; Pb &gt; Cu &gt; Cd. Elemental\
+    \ concentrations from each sequential extraction step were measured using inductively\
+    \ coupled plasma optical emission spectrometer (ICP-OES, IRIS Intrepid II XSP,\
+    \ USA). The pH value of the soils in the study area ranged from 6.44 to 7.05 (mean\
+    \ 6.67), indicating an acidic to neutral type of surface soils. The eco-toxicological\
+    \ assessment of the studied soil using the mobility factor indices revealed the\
+    \ following sequence : Cd (40.627) &gt; Pb (14.941) \u2265 Cu (14.399) &gt; As\
+    \ (5.377). Mobility factor indices for soil metals revealed a high environmental\
+    \ contamination risk for Cd, which indicates a serious environmental threat."
+  keywords:
+    default:
+      keywords:
+        subject: ICP-OES
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-10-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5639358
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5639357
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Uday-Sankar-Banerjee:
+    individualname: Uday Sankar Banerjee
+    role: creator
+  Zhao-hui-Guo:
+    individualname: Zhao-hui Guo
+    role: creator
+  Kang-gen-Zhou:
+    individualname: Kang-gen Zhou
+    role: creator
+  Li-yuan-Chai:
+    individualname: Li-yuan Chai
+    role: creator
+  Banerjee-Uday-Sankar:
+    individualname: Banerjee, Uday Sankar
+    role: ''
+    organization: ''
+    url: ''
+  Guo-Zhao-Hui:
+    individualname: Guo, Zhao-Hui
+    role: ''
+    organization: ''
+    url: ''
+  Kang-Gen-Zhou:
+    individualname: Kang-Gen Zhou
+    role: ''
+    organization: ''
+    url: ''
+  Chai-Li-Yuan:
+    individualname: Chai, Li-Yuan
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1125823
+  dataseturi: https://doi.org/10.5281/zenodo.1125823
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Physicochemistry Of Pozzolanic Stabilization Of A Class A-2-7 Lateritic Soil
+  abstract: The paper examines the mechanism of pozzolan-soil reactions, using a recent
+    study on the chemical stabilization of a Class A-2-7 (3) lateritic soil, with
+    corn cob ash (CCA) as case study. The objectives are to establish a nexus between
+    cation exchange capacity of the soil, the alkaline forming compounds in CCA and
+    percentage CCA addition to soil beyond which no more improvement in strength properties
+    can be achieved; and to propose feasible chemical reactions to explain the chemical
+    stabilization of the lateritic soil with CCA alone. The lateritic soil, as well
+    as CCA of pozzolanic quality Class C were separately analysed for their metallic
+    oxide composition using the X-Ray Fluorescence technique. The cation exchange
+    capacity (CEC) of the soil and the CCA were computed theoretically using the percentage
+    composition of the base cations Ca<sup>2+</sup>, Mg<sup>2+</sup> K<sup>+</sup>
+    and Na<sup>2+</sup> as 1.48 meq/100 g and 61.67 meq/100 g respectively, thus indicating
+    a ratio of 0.024 or 2.4%. This figure, taken as the theoretical amount required
+    to just fill up the exchangeable sites of the clay molecules, compares well with
+    the laboratory observation of 1.5% for the optimum level of CCA addition to lateritic
+    soil. The paper went on to present chemical reaction equations between the alkaline
+    earth metals in the CCA and the silica in the lateritic soil to form silicates,
+    thereby proposing an extension of the theory of mechanism of soil stabilization
+    to cover chemical stabilization with pozzolanic ash only. The paper concluded
+    by recommending further research on the molecular structure of soils stabilized
+    with pozzolanic waste ash alone, with a view to confirming the chemical equations
+    advanced in the study.
+  keywords:
+    default:
+      keywords:
+        subject: soil stabilization.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-06-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1125823
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1125822
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-O.-Apampa:
+    individualname: Ahmed O. Apampa
+    role: creator
+  Yinusa-A.-Jimoh:
+    individualname: Yinusa A. Jimoh
+    role: creator
+    organization: ''
+    url: ''
+  Apampa-Ahmed-O.:
+    individualname: Apampa, Ahmed O.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

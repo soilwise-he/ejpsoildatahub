@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1000032
+  dataseturi: https://doi.org/10.5281/zenodo.1000032
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Role Of Soil Nutrient Availability On The Invasion Establishment And
+    Carbon Sequestration Potential Of An Invasive Shrub From Doon Valley, India
+  abstract: "Invasive plants are capable of modifying the soil properties to enable\
+    \ the further invasion of other plant species. In the present study we assessed\
+    \ the relation between soil properties and different growth patterns of Lantana\
+    \ (a noxious weedy shrub) and further its role in the atmospheric carbon sequestration\
+    \ process from Doon Valley, India. We found that in all the invaded sites the\
+    \ pH was increased but the increase in pH value did not show any positive relation\
+    \ with the measured and calculated attributes of Lantana like plant height, crown\
+    \ diameter, crown length, Phytovolume and biomass. However, this showed that less\
+    \ acidic conditions of soil is favouring the invasion of Lantana in all the land\
+    \ use systems. On the other side total Nitrogen (%) and Carbon (%) was greatly\
+    \ significant in deciding most of the measured and calculated attributes of Lantana.\
+    \ Nitrogen (%) was increased in all the invaded sites. The highest Nitrogen (%)\
+    \ content was recorded from Sahastradhara, which was from 0.14 (\xB1 .01) to 1.12\
+    \ (\xB10.44) followed by Mothronwala swamp which was from 0.17  (\xB1 0.01) to\
+    \ 0.1.06 (\xB10.41). Nitrogen % from all the sites showed a strong and significant\
+    \ correlation with other calculated attributes of Lantana. Nitrogen % with canopy\
+    \ coverage % (R2 = 0.82), Nitrogen % with average crown diameter (R2 = 0.98),\
+    \ Nitrogen % with shrub canopy area (R2 = 0.96), Nitrogen % with Phytovolume (R2\
+    \ = 0.81) and Nitrogen % with biomass of Lantana/m2 (R2 = 0.92) but Nitrogen %\
+    \ with average height of shrub (R2 = 0.57) was not very significant. The SOC (Soil\
+    \ Organic Carbon) also showed a strong correlation in determining the different\
+    \ measured attributes of Lantana. Carbon % with canopy coverage %  (R2 = 0.85),\
+    \ carbon % with average crown diameter (R2 = 0.94), carbon % with shrub canopy\
+    \ area (R2 = 0.93), carbon % with phytovolume (R2 = 0.75) and with biomass of\
+    \ Lantana/m2                    (R2 = 0.91) but like nitrogen this time carbon\
+    \ also did not show a significant correlation with average shrub height (R2 =\
+    \ 0.47). The PCA shows that soil parameters like pH, available P and K, represent\
+    \ negative correlation with other soil parameters (r = - 0.042 with P, 0.109 with\
+    \ K \u2013 0.009 with N and 0.0624 with C). Both available P and K along with\
+    \ the C:N ratio were showing negative correlation with other calculated attributes."
+  keywords:
+    default:
+      keywords:
+        subject: invasive plants, soil properties, biomass of shrub, carbon sequestration,
+          Principal Component Analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-07-07'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1000032
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1000031
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gautam-Mandal:
+    individualname: Gautam Mandal,
+    role: creator
+    organization: Ecology Research Laboratory, Department of Botany, DAV (PG) College,
+      Dehradun, Uttarakhand, India.
+    url: ''
+content_info: {}

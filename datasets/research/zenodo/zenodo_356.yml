@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1482871
+  dataseturi: https://doi.org/10.5281/zenodo.1482871
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Lead Contamination Of Soil In Baghdad, Iraq
+  abstract: 'Lead (Pb) levels in soils for different sites in Baghdad were determined
+    to assess the soil contamination by lead in the city. Around sixty-three soil
+    samples were collected as indicator of Pb pollution from different sources. The
+    mean Pb concentrations in the soils ranging from 15 mg Pb/kg at the bus station,
+    800-2300 mg Pb/kg in the city center, and 8-350 mg Pb/kg along the highway. Value
+    up to 9350 mg Pb/kg found in the soils near the batteries factory.
+
+
+    The mean Pb concentrations in the city centre were substantially higher than values
+    found in other places; they were also higher than the standards for soil in residential
+    areas and in playgrounds for children. Pb soil concentrations at the downwind
+    sides were some 60% higher than the upwind area. Bioavailable Pb (extracted with
+    0.04 M Na2EDTA solution) was also determined in this study. This parameter showed
+    significant correlation with total Pb.
+
+
+    Control measures should be adopted to reduce emissions of mobile-exhaust Pb and
+    lead smelters. Nearby pollution sources such as highways, major streets, and batteries
+    factories should be considered when locating new, schools and land use projects.
+    At the same time, vegetable production and animal grazing should also be avoided
+    in areas near highways.'
+  keywords:
+    default:
+      keywords:
+        subject: Total Lead, Bioavailable Lead, batteries factory, Soil contamination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-11-11'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1482871
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1482870
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-Rehab-T.:
+    individualname: Ahmed, Rehab T.
+    role: creator
+    organization: Ministry of Health &Environment ,Iraq
+    url: ''
+  Najimaldin-Mohamad-Ahmed:
+    individualname: Najimaldin, Mohamad Ahmed
+    role: creator
+    organization: Ministry of Health &Environment ,Iraq
+    url: ''
+content_info: {}

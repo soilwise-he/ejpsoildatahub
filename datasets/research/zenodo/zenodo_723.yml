@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pawar_2021
+  dataseturi: https://doi.org/10.35940/ijrte.A5758.0510121
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Predicting Lead and Nickel Contamination in Soil using Spectroradiometer
+  abstract: '&lt;p&gt;In the geosciences, visible&ndash;near&ndash;short-wave infrared
+    reflectance spectroscopy seems to have the capability to become a helpful technique
+    for soil classification, mapping, and remote confirmation of soil characteristics
+    and mineral composition. Focus on improving the spatial resolution of soil maps
+    in order to better deal with localized problems like soil pollution. A variety
+    of physio-chemical properties were measured in long-term spiked soils with a range
+    of lead and nickel concentrations and also their spectral reflectance between
+    400 and 2500 nm at three different locations in the agricultural region of MIDC,
+    Aurangabad, Maharashtra, India. Principle component analysis (PCA) used for feature
+    extraction of soil were partial least squares regression (PLSR) method is used
+    for classification. To measured amount of lead and nickel in soil sample, thirteen
+    features of soil samples are calculated. The main aim of this study was to use
+    statistical methods to calculate the lead and nickel concentrations in soil, as
+    well as to assess the efficiency of VNIR-SWIR reflectance spectroscopy for heavy
+    metal estimation in soil using the ASD FieldSpec4 Spectroradiometer. R2 = 0.96
+    provides the best precision for lead content and R2 = 0.95 for nickel content
+    in soil, according to the findings. Lead and nickel have RMSEs of 3.396 and 2.680,
+    respectively. The outcomes show that the proposed method is capable of accurately
+    forecasting lead and nickel concentrations.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Agricultural Soil
+      - ASD Fieldspec-4
+      - Heavy Metals
+      - PCA
+      - PLSR
+      - RS-GIS.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Predicting Lead and Nickel Contamination in Soil using Spectroradiometer
+    url: http://dx.doi.org/10.35940/ijrte.A5758.0510121
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bharati-S.-Pawar:
+    individualname: Bharati S. Pawar
+    role: creator
+  Ratnadeep-R.-Deshmukh:
+    individualname: Ratnadeep R. Deshmukh
+    role: creator
+  Pawar-Bharati-S.:
+    individualname: Pawar, Bharati S.
+    role: creator
+  Deshmukh-Ratnadeep-R.:
+    individualname: Deshmukh, Ratnadeep R.
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

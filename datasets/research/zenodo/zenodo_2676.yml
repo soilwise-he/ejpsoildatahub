@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3483268
+  dataseturi: https://doi.org/10.5281/zenodo.3483268
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Producing Chrysanthellum indicum DC. (1836) on organic amended soil in dry-season:
+    crop coefficient Kc and growing stages determination'
+  abstract: "<em>An important concern has risen about the over exploitation of both\
+    \ timber and non-timber products in West African Soudano-Sahelian countries. This\
+    \ study focused on the determination of the crop growing stages and coefficient\
+    \ Kc allowing the irrigation of Chrysanthellum indicum, an herbaceous threatened\
+    \ plant frequently used in herbal medicine against heart and kidney diseases.\
+    \ To obtain the Kc, three steps were undertaken. First, a weather station provided\
+    \ the variables needed to calculate the reference evapotranspiration ET0. Secondly,\
+    \ to ascertain scientifically the results, the experiment runs nine lysimeters\
+    \ to determine the crop maximum evapotranspiration ETM. A well-drained loam with\
+    \ 8.1\xB11.6% of organic matter content was used within the replications. The\
+    \ water-balance providing ETM used irrigation I and drainage D measured every\
+    \ two days. Finally, the definition ETMloc = Kc\xB7ET0 was applied after the transformation\
+    \ of ETM into local ETMloc. The results showed that the triplet {stage name; stage\
+    \ duration (days); crop coefficient (Kc)} values are respectively {initial; 28;\
+    \ 0.7\xB10.1}; {development; 17; 0.7-1.4\xB10.2}; {mid-season; 20; 1.4\xB10.2}\
+    \ and {late-season; 14; 0.7\xB10.04}. The total growing period was found as 79\
+    \ days. These results offer the possibility for a water-efficient production of\
+    \ Chrysanthellum indicum in the dry season.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Crop coefficient, Evapotranspiration; Forest irrigation; Lysimeter;
+          Tropical Savannah
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-02-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3483268
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3483267
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amadou-Keita:
+    individualname: Amadou Keita
+    role: creator
+    organization: ''
+    url: ''
+  Dial-Niang:
+    individualname: Dial Niang
+    role: creator
+    organization: ''
+    url: ''
+  Lassina-Sanou:
+    individualname: Lassina Sanou
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7736093
+  dataseturi: https://doi.org/10.5281/zenodo.7736093
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Geotechnical Properties of Soil Stabilized with Blended Binders for Sustainable
+    Road Base Applications
+  abstract: This study aimed at evaluating the effect of blended binders on the stabilization
+    of clayey soils intended for use as road and pavement materials in selected regions
+    of Sweden. The stabilization potential of blended binders containing five stabilizers
+    (cement, bio fly ash, energy fly ash, slag and lime) was investigated using laboratory
+    tests and statistical analysis. Soil samples were compacted using Swedish Standards
+    on UCS. The specimens were stabilized with blended mixtures containing various
+    ratios of five binders. The effects of changed ratio of binders on soil strength
+    was analyzed using velocities of seismic P-waves penetrating the tested soil samples
+    on the day 14 of the experiment. The difference in the soil surface response indicated
+    variations in strength in the evaluated specimens. We tested combination of blended
+    binders to improve the stabilization of clayey soil. The mix of slag/lime or slag/cement
+    accelerated soil hardening process and gave durable soil product. We noted that
+    pure lime (burnt or quenched) is best suited for the fine-grained soils containing
+    clay minerals. Slag used in this study had a very finely ground structure and
+    had hydraulic properties (hardens under water) without activation. Therefore,
+    slag has a too slow curing process for it to be practical to use in real projects
+    on stabilization of roads. The best performance on soil stabilization was demonstrated
+    by blended binders consisted of lime / fly ash / cement which considerably improved
+    the geotechnical properties and workability of soil and increased its strength.
+    We conclude that bearing capacities of soil intended for road construction can
+    be significantly improved by stabilization using mixed binders, compared to pure
+    binders (cement).
+  keywords:
+    default:
+      keywords:
+        subject: soil stabilization
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-12'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7736093
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3390/constrmater3010008
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7725322
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: "Lund University, Department of Building and Environmental Technology,\
+      \ Lunds Tekniska H\xF6gskola LTH (Faculty of Engineering), Division of Building\
+      \ Materials"
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles (ULB), \xC9cole Polytechnique\
+      \ de Bruxelles (Brussels Faculty of Engineering), Laboratory of Image Synthesis\
+      \ and Analysis (LISA)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

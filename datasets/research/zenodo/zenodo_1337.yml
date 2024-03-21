@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.833935
+  dataseturi: https://doi.org/10.5281/zenodo.833935
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Open Dumps On Some Engineering And Chemical Properties Of Soil
+  abstract: Solid waste open dumps are sited indiscriminately in Nigeria and are always
+    potential hazards to health and sources of groundwater pollution.  The study investigates
+    the effects of three open dumps on some engineering and chemical soil properties,
+    with soils of similar layering located about 40 meters away from the dump used
+    as control. No regular trend was established on the distribution of the parameters
+    along the soil strata.  In order to determine whether there are significant differences
+    between the characteristics at different dumps and control soil layers, a statistical
+    test of hypothesis was carried out.  The values of the specific gravity, plasticity
+    index, maximum density, permeability, iron, lead and zinc were higher in the soil
+    under the dumps than in the control.  The values of the liquid limits and the
+    optimum moisture content were lower in the soil under the dump sites.  The results
+    indicate the needs for proper site investigation before solid waste dumps are
+    selected.
+  keywords:
+    default:
+      keywords:
+        subject: open dumps, control, engineering properties of soil, solid waste
+          and moisture content.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-10-23'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.833935
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.833934
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ukpong-E.-C:
+    individualname: Ukpong, E. C
+    role: creator
+    organization: Department of Civil Engineering, University of Uyo, Uyo, Akwa Ibom
+      State, Nigeria
+    url: ''
+  Agunwamba-J.C:
+    individualname: Agunwamba, J.C
+    role: creator
+    organization: Department of Civil Engineering, University of Nigeria, Nsukka,
+      Enugu State, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Watson_1918
+  dataseturi: https://doi.org/10.2307/2255303
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Bryophytes and Lichens of Calcareous Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Bryophytes and Lichens of Calcareous Soil
+    url: http://dx.doi.org/10.2307/2255303
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Watson-W.:
+    individualname: Watson, W.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

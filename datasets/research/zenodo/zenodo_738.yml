@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4936496
+  dataseturi: https://doi.org/10.5281/zenodo.4936496
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: THE IMPORTANCE OF SOIL IN AGROECOTYSIS, ITS PROTECTION AND MEASURES
+  abstract: This article discusses the consequences of misuse of soil resources due
+    to anthropogenic factors and ways to eliminate them, measures to improve environmental
+    protection.
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion, water erosion, wind erosion, anthropogenic factor,
+          agriculture, conservation, ecological culture, agroecosystem, soil fertility.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-12'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4936496
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4936495
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G'aybullayeva-Mashhura-Faxritdinovna:
+    individualname: G'aybullayeva Mashhura Faxritdinovna
+    role: creator
+    organization: ''
+    url: ''
+  Muxamadov-Qamoriddin-Muxtorovich:
+    individualname: Muxamadov Qamoriddin Muxtorovich
+    role: creator
+    organization: ''
+    url: ''
+  Bobojonov-Saidjon-O'tkirovich:
+    individualname: Bobojonov Saidjon O'tkirovich
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

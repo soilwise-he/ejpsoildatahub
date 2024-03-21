@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: STAMENOV_2017
+  dataseturi: https://doi.org/10.5604/01.3001.0010.7879
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Influence of Pseudomonas and Bacillus Strains Isolated from Lolium perenne
+    Rhizospheric Soil in Vojvodina (Serbia) on Planth Growth and Soil Microbial Communities
+  abstract: '&lt;p&gt;The aim of this study was the isolation of Pseudomonas sp. and
+    Bacillus sp. strains from rhizospheric soil and monitoring the impact of two isolates
+    denoted as P12 (Pseudomonas sp.) and B1 (Bacillus sp.) on the parameters of English
+    ryegrass (Lolium perenne) yield and activity of the soil microbial communities.
+    During 2012&ndash;2014, a plot experiment was set up following the randomized
+    block system. Better effect on the plant growth was recorded with the use of Pseudomonas
+    sp. P12 isolate than with Bacillus sp. B1. Positive effect on the increase in
+    the total number of microorganisms, aminoheterotrophs and azotobacter was also
+    achieved. Bacillus sp. B1 increased only the number of actimycetes. Both isolates
+    positively affected dehydrogenase activity (DHA).&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Bacillus sp.
+      - Lolium perenne
+      - Pseudomonas sp.
+      - DHA
+      - plant growth
+      - soil microbial community activity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Influence of Pseudomonas and Bacillus Strains Isolated from Lolium perenne
+      Rhizospheric Soil in Vojvodina (Serbia) on Planth Growth and Soil Microbial
+      Communities
+    url: http://dx.doi.org/10.5604/01.3001.0010.7879
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  STAMENOV-DRAGANA-R.:
+    individualname: STAMENOV, DRAGANA R.
+    role: creator
+  DJURIC-SIMONIDA:
+    individualname: DJURIC, SIMONIDA
+    role: creator
+  HAJNAL-JAFARI-TIMEA:
+    individualname: HAJNAL-JAFARI, TIMEA
+    role: creator
+  ANDJELKOVIC-SNEZANA:
+    individualname: "ANDJELKOVIC, SNE\u017DANA"
+    role: creator
+  Polish-Society-of-Microbiologists:
+    individualname: Polish Society of Microbiologists
+    role: creator
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1086847
+  dataseturi: https://doi.org/10.5281/zenodo.1086847
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Plants Cover Effects On Overland Flow And On Soil Erosion Under Simulated
+    Rainfall Intensity
+  abstract: "The purpose of this article is to study the effects of<br>\nplants cover\
+    \ on overland flow and, therefore, its influences on the<br>\namount of eroded\
+    \ and transported soil. In this investigation, all the<br>\nexperiments were conducted\
+    \ in the LEGHYD laboratory using a<br>\nrainfall simulator and a soil tray. The\
+    \ experiments were conducted<br>\nusing an experimental plot (soil tray) which\
+    \ is 2m long, 0.5 m wide<br>\nand 0.15 m deep. The soil used is an agricultural\
+    \ sandy soil (62,08%<br>\ncoarse sand, 19,14% fine sand, 11,57% silt and 7,21%\
+    \ clay). Plastic<br>\nrods (4 mm in diameter) were used to simulate the plants\
+    \ at different<br>\ndensities: 0 stem/m2 (bared soil), 126 stems/m\xB2, 203 stems/m\xB2\
+    , 461<br>\nstems/m\xB2 and 2500 stems/m\xB2). The used rainfall intensity is 73mm/h<br>\n\
+    and the soil tray slope is fixed to 3\xB0. The results have shown that the<br>\n\
+    overland flow velocities decreased with increasing stems density, and<br>\nthe\
+    \ density cover has a great effect on sediment concentration.<br>\nDarcy\u2013\
+    Weisbach and Manning friction coefficients of overland flow<br>\nincreased when\
+    \ the stems density increased. Froude and Reynolds<br>\nnumbers decreased with\
+    \ increasing stems density and, consequently,<br>\nthe flow regime of all treatments\
+    \ was laminar and subcritical. From<br>\nthese findings, we conclude that increasing\
+    \ the plants cover can<br>\nefficiently reduce soil loss and avoid denuding the\
+    \ roots plants."
+  keywords:
+    default:
+      keywords:
+        subject: overland flow.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-08-21'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1086847
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1086846
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-Madi:
+    individualname: H. Madi
+    role: creator
+    organization: ''
+    url: ''
+  L.-Mouzai:
+    individualname: L. Mouzai
+    role: creator
+    organization: ''
+    url: ''
+  M.-Bouhadef:
+    individualname: M. Bouhadef
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

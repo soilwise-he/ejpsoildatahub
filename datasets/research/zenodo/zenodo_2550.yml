@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6880424
+  dataseturi: https://doi.org/10.5281/zenodo.6880424
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Relationships between soil properties, crop and pest management practices,
+    pest intensity, and crop performance in rainfed lowland rice
+  abstract: This article 'Relationships Between Soil Properties, Crop and Pest Management
+    Practices, Pest Intensity, and Crop Performance in Rainfed Lowland Rice' appeared
+    in the International Rice Research Notes series, created by the International
+    Rice Research Institute (IRRI) to expedite communication among scientists concerned
+    with the development of improved technology for rice and rice-based systems. The
+    series is a mechanism to help scientists keep each other informed of current rice
+    research findings. The concise scientific notes are meant to encourage rice scientists
+    to communicate with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Rainfed Lowland Rice
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1994-06-01'
+    publication: '1994'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6880424
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6880423
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pinnschmidt-H.-O.:
+    individualname: Pinnschmidt, H. O.
+    role: creator
+    organization: ''
+    url: ''
+  Long-N.-D.:
+    individualname: Long, N. D.
+    role: creator
+    organization: ''
+    url: ''
+  Mekwatanakarn-P.:
+    individualname: Mekwatanakarn, P.
+    role: creator
+    organization: ''
+    url: ''
+  Viet-T.-T.:
+    individualname: Viet, T. T.
+    role: creator
+    organization: ''
+    url: ''
+  Don-L.-D.:
+    individualname: Don, L. D.
+    role: creator
+    organization: ''
+    url: ''
+  Teng-P.-S.:
+    individualname: Teng, P. S.
+    role: creator
+    organization: ''
+    url: ''
+  Dobermann-A.:
+    individualname: Dobermann, A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

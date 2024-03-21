@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8260698
+  dataseturi: https://doi.org/10.5281/zenodo.8260698
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil and Crop management relation with water use efficiency in Dryland agriculture
+  abstract: 'The problem of shortage of water to crops can be resolved by increasing
+    total water supply available to plants, increasing water use relative to other
+    losses and efficient management of scarce water. Biophysically, solutions to many
+    of the problems will require the improvement of soil, water, and crop management
+    at the field, plot, and farm level: first, to increase the capture and retention
+    of incoming (rain) water; and second, to maximize the proportion of that water
+    productively transpired by the crop. Dry land agriculture under rain fed conditions
+    is found mainly in Africa, the Middle East, Asia, and Latin America. In the harsh
+    environments of Sub-Saharan Africa (SSA) and West Asia and North Africa (WANA),
+    water is the principal factor limiting crop yield. A review has been carried out
+    on soil and crop management research that can increase the water use efficiency.
+    The WANA production systems are dominated by cereals, primarily wheat in the wetter
+    and barley in the drier areas, in rotation with mainly food legumes such as chickpea,
+    lentil and forage legumes. The SSA production systems are generally characterized
+    by cereal/legume mixed-cropping dominated by maize, millet, sorghum, and wheat.
+    The major constraints in both regions to crop production are low soil fertility,
+    insecure rainfall, and low-productive genotypes, low adoption of improved soil
+    and crop management practices, and lack of appropriate institutional support.
+    Different cropping systems and accompanying technologies are discussed. Results
+    indicate that there is an advantage to apply these technologies but being function
+    of socio-economic and bio-physical conditions. It is recommended that future research
+    focuses on integrated technology development while taking into account also different
+    levels of scale such as field, village, and watershed.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil and Crop Management, Water Use Efficiency, Impact, Rain Fed,
+          Technologies, West Asia, Africa
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-05'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8260698
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8260697
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Attia-El-Gayar:
+    individualname: Attia El Gayar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

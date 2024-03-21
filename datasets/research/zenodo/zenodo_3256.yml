@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3519939
+  dataseturi: https://doi.org/10.5281/zenodo.3519939
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Simple Spectrofluorimetric Method for the Determination of Cadmium at Ultra-trace
+    Levels in some Real, Environmental, Biological, Tobacco, Food, Fertilizer and
+    Soil Samples Using 2', 3, 4', 5, 7-pentahydroxyflavone
+  abstract: "<strong>Abstract</strong> <em>A very simple, ultra-sensitive and highly\
+    \ selective non-extractive spectrofluorimetric</em><em> method for the determination\
+    \ of cadmium at ultra-trace levels using 2',3,4',5,7-pentahydroxyflavone(morin)\
+    \ has been developed. Morin reacts in a slightly acidic (0.0005-0.002 </em><em>M\
+    \ H<sub>2</sub>SO<sub>4</sub>) aqueous solution </em><em>with cadmium and to form\
+    \ intensely fluorescent chelate, which has high fluorescence intensity </em><em>\
+    \ (</em><em>l<sub>ex </sub>=424 nm; </em><em>l<sub>em</sub>=485 nm)</em><em>.The\
+    \ reaction is instantaneous and the fluorescent intensely remains stable for the\
+    \ period between 5 min and 24 h</em><em>. Linear calibration graphs were obtained\
+    \ for 0.01- 600-\u03BCg L<sup>-1 </sup>of Cd, with an R<sup>2 </sup>= 0.99987,\
+    \ having</em><em> a detection limit of 1 ng L<sup>-1</sup>; the quantification\
+    \ limit of the reaction system was found to be 10 ng </em><em>L<sup>-1</sup> and\
+    \ the RSD was 0-3%. The stoichiometric composition of the chelate is 1:2 (Cd:morin).\
+    \ A large excess of over 60 captions, anions and complexing agents (like chloride,\
+    \ phosphate, azide, tartrate, oxalate, SCN<sup>- </sup>etc.) do not interfere\
+    \ in the determination. The developed method was successfully used in the determination\
+    \ of cadmium in several Standard Reference Materials (alloys, steels, sediments,human\
+    \ hair, bovine liver, freshwater, and rice flour) as well as in some environmental\
+    \ waters (potable and polluted), biological samples (human blood, urine and hair),\
+    \ tobacco samples, food samples (rice, wheat, cake, tea, cookies and shellfish),vegetables\
+    \ samples(radish, carrot, ginger, potato, tomato and cabbage),fertilizer samples,\
+    \ soil samples and complex synthetic mixtures. The results of the biological,\
+    \ food and vegetable analyses by </em><em>spectrofluorimetric methods were found\
+    \ to be in excellent agreement with those obtained by AAS. The method has high\
+    \ precision and accuracy (s = \xB10.01 for 0.5\xB5g</em><em>L<sup>-1</sup>).</em>\
+    \ <strong>Keywords: </strong><em>Spectrofluorimetry; cadmium determination; morin.</em>"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-10-27'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3519939
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3519938
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdul-Hakim:
+    individualname: Abdul Hakim
+    role: creator
+  Faisal-Hossain:
+    individualname: Faisal Hossain
+    role: creator
+  Israt-Jahan:
+    individualname: Israt Jahan
+    role: creator
+    organization: Laboratory of Analytical Chemistry, Department of Chemistry, University
+      of Chittagong, Chittagong-4331, University of Chittagong, Bangladesh
+    url: ''
+  M.-Jamaluddin-Ahmed:
+    individualname: M. Jamaluddin Ahmed
+    role: creator
+    organization: Laboratory of Analytical Chemistry, Department of Chemistry, University
+      of Chittagong, Chittagong-4331, University of Chittagong, Bangladesh
+    url: ''
+  Hakim-Abdul:
+    individualname: Hakim, Abdul
+    role: ''
+    organization: Laboratory of Analytical Chemistry, Department of Chemistry, University
+      of Chittagong, Chittagong-4331, University of Chittagong, Bangladesh
+    url: ''
+  Hossain-Faisal:
+    individualname: Hossain, Faisal
+    role: ''
+    organization: Laboratory of Analytical Chemistry, Department of Chemistry, University
+      of Chittagong, Chittagong-4331, University of Chittagong, Bangladesh
+    url: ''
+content_info: {}

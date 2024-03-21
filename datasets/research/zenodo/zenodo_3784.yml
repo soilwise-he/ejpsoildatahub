@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465473
+  dataseturi: https://doi.org/10.5281/zenodo.3465473
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Earthquake-induced soil liquefaction risk: macrozonation of the European
+    territory taking into account exposure'
+  abstract: "Proceedings of the IABSE Symposium \u201CTowards a Resilient Built Environment\
+    \ - Risk and Asset Management\u201D, March 27-29, 2019, Guimar\xE3es, Portugal."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-03-27'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465473
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465472
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lai-Carlo-G.:
+    individualname: Lai, Carlo G.
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Conca-Daniele:
+    individualname: Conca, Daniele
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Bozzoni-Francesca:
+    individualname: Bozzoni, Francesca
+    role: creator
+    organization: EUCENTRE
+    url: ''
+  Meisina-Claudia:
+    individualname: Meisina, Claudia
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Boni-Roberta:
+    individualname: "Bon\xEC, Roberta"
+    role: creator
+    organization: University of Pavia
+    url: ''
+content_info: {}

@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mohseni_2022
+  dataseturi: https://doi.org/10.3390/rs14184624
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products
+  abstract: '&lt;p&gt;SMAP/Sentinel-1 soil moisture is the latest SMAP (Soil Moisture
+    Active Passive) product derived from synergistic utilization of the radiometry
+    observations of SMAP and radar backscattering data of Sentinel-1. This product
+    is the first and only global soil moisture (SM) map at 1 km and 3 km spatial resolutions.
+    In this paper, we evaluated the SMAP/Sentinel-1 SM product from different viewpoints
+    to better understand its quality, advantages, and likely limitations. A comparative
+    analysis of this product and in situ measurements, for the time period March 2015
+    to January 2022, from 35 dense and sparse SM networks and 561 stations distributed
+    around the world was carried out. We examined the effects of land cover, vegetation
+    fraction, water bodies, urban areas, soil characteristics, and seasonal climatic
+    conditions on the performance of active&ndash;passive SMAP/Sentinel-1 in estimating
+    the SM. We also compared the performance metrics of enhanced SMAP (9 km) and SMAP/Sentinel-1
+    products (3 km) to analyze the effects of the active&ndash;passive disaggregation
+    algorithm on various features of the SMAP SM maps. Results showed satisfactory
+    agreement between SMAP/Sentinel-1 and in situ SM measurements for most sites (r
+    values between 0.19 and 0.95 and ub-RMSE between 0.03 and 0.17), especially for
+    dense sites without representativeness errors. Thanks to the vegetation effect
+    correction applied in the active&ndash;passive algorithm, the SMAP/Sentinel-1
+    product had the highest correlation with the reference data in grasslands and
+    croplands. Results also showed that the accuracy of the SMAP/Sentinel-1 SM product
+    in different networks is independent of the presence of water bodies, urban areas,
+    and soil types. &copy; 2022 by the authors.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Quality control
+      - Soil surveys
+      - Vegetation
+      - Active microwave
+      - Active/passive
+      - L-band
+      - Passive/active microwave
+      - Sentinel-1
+      - Soil moisture active passive/sentinel-1
+      - Soil moisture active passive
+      - Soil moisture maps
+      - Soil moisture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Global Evaluation of SMAP/Sentinel-1 Soil Moisture Products
+    url: http://dx.doi.org/10.3390/rs14184624
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.-Mohseni:
+    individualname: F. Mohseni
+    role: creator
+  Seyedmohammad-Mirmazloumi:
+    individualname: Seyedmohammad Mirmazloumi
+    role: creator
+  M.-Mokhtarzade:
+    individualname: M. Mokhtarzade
+    role: creator
+  S.-Jamali:
+    individualname: S. Jamali
+    role: creator
+  S.-Homayouni:
+    individualname: S. Homayouni
+    role: creator
+  Mohseni-Farzane:
+    individualname: Mohseni, Farzane
+    role: creator
+  Mirmazloumi-S.-Mohammad:
+    individualname: Mirmazloumi, S. Mohammad
+    role: creator
+  Mokhtarzade-Mehdi:
+    individualname: Mokhtarzade, Mehdi
+    role: creator
+  Jamali-Sadegh:
+    individualname: Jamali, Sadegh
+    role: creator
+  Homayouni-Saeid:
+    individualname: Homayouni, Saeid
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

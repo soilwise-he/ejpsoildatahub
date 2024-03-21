@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7049812
+  dataseturi: https://doi.org/10.5281/zenodo.7049812
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Net carbon balance between priming and replenishment of soil organic carbon
+    with biochar addition regulated by N addition differed in contrasting forest ecosystems
+  abstract: Supplementary materials
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-05'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7049812
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7049811
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhaolin:
+    individualname: Zhaolin
+    role: creator
+    organization: Sun
+    url: ''
+content_info: {}

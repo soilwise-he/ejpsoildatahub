@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5992520
+  dataseturi: https://doi.org/10.5281/zenodo.5992520
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spectrophotometric Determination of 2,2-Dichlorovinyldimethyl Phosphate (DDVP)
+    and its Application in Water, Soil and Vegetables
+  abstract: Department of Chemistry, Ravisbankar University, Raipur-492 010 <em>Manuscript
+    received 28 November 1990, revised 9 April 1991, accepted 23 April 1991</em> A
+    method has been developed for the spectrophotometric determination of 2,2- dicblorovinyldimethyl
+    phosphate (DDVP), a insecticide, based on its alkaline hydrolysis to produce dichloroacetaldbeyde,
+    yielding a fluorescent yellow coloured dye with <strong>J</strong> acid when heated
+    in concentrated sulphuric acid medium. The method has been successfully applied
+    for the determination of <strong>DDVP</strong> in water, soil and vegetables.
+  keywords:
+    default:
+      keywords:
+        subject: Photometric methods
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1991-05-31'
+    publication: '1991'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5992520
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5992519
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  PRITI-SHIVHARE:
+    individualname: PRITI SHIVHARE
+    role: creator
+    organization: ''
+    url: ''
+  V.-K.-GUPTA:
+    individualname: V. K. GUPTA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

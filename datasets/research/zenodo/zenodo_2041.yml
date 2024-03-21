@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8106168
+  dataseturi: https://doi.org/10.5281/zenodo.8106168
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation and Molecular Characterization of Polycyclic Aromatic Hydrocarbons
+    (Pahs) Degrading Bacteria from Petrochemical Contaminated Soil
+  abstract: <strong>Background and aims</strong>. Because of their ubiquitous nature,
+    polycyclic aromatic hydrocarbons (PAHs) are widely dispersed in the environment
+    as a result of both natural and human processes. One of the ways to deal with
+    the harmful effects of these chemicals is through the use of microorganisms capable
+    of degrading the pollutants. A petrochemical contaminated site was searched for
+    these microbes. This study was conducted to isolate, characterize, and identify
+    PAH-degrading bacteria from petrochemical polluted soil in Kano state, Nigeria
+    <strong>Methods</strong>. Eleven bacterial strains were obtained in this work
+    using the culture enrichment technique on Bushnell Hass medium supplemented with
+    (naphthalene, anthracene, and phenanthrene) as the only source of energy. Enumeration
+    utilizing the spread-plate technique and liquid media were used to examine the
+    PAH breakdown capacities of bacterial strains. The isolates were identified using
+    standard methods of morphological and biochemical identifications. Furthermore,
+    16sRNA was utilized in order to classify the isolates at molecular level. The
+    presence of PAHs degrading genes was also analyzed in the isolates. <strong>Results</strong>.
+    Four isolates (G1, G2, G5, and G6) out of a total of eleven were able to tolerate
+    and degrade the test PAH's up to 600 mg/l in liquid media. Isolate G1 showed the
+    highest growth during screening followed by G6 while there were no differences
+    between the other two isolates as demonstrated by an increase in their optical
+    densities after 120 hours of incubation. Based on 16S rRNA gene sequences and
+    molecular phylogenetic analysis, the isolates were identified as Pseudomonas stutzeri,
+    Stenetrophomonas sp, Pseudomonas lactis, and Achromobacterxylosoxidans with the
+    accession numbers OM039162, OM52851, OM52852, and OM52853 respectively. Fragments
+    of 350 bp, 350 bp, and 867 bp for ring hydroxylating dioxygenase (RHD), hydratase-aldolase,
+    and catechol 2, 3-dioxygenase were obtained from partial PCR amplification of
+    catabolic genes, demonstrating the presence of a PAH degradation pathway in the
+    organisms. <strong>Conclusion</strong>. These isolates have great potential for
+    application in the bioremediation of PAHs-contaminated sites.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-02'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8106168
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8106167
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ? Muhammed-Gimba1-Aisha-Ado1-Salamatu-Abdullahi1-Murtala-Ya'u1-Salihu-Ibrahim2-Abba-Babandi1-Hafeez-Yakasai1-Kamaludden-Babagana1-Abdurrazak-Muhammad3-Dayyabu-Shehu14*
+  : individualname: Muhammed Gimba1, Aisha Ado1, Salamatu Abdullahi1, Murtala Ya'u1,
+      Salihu Ibrahim2, Abba Babandi1, Hafeez Yakasai1, Kamaludden Babagana1, Abdurrazak
+      Muhammad3, Dayyabu Shehu1,4*
+    role: creator
+    organization: 1Department of Biochemistry, Faculty of Basic Medical Sciences,
+      College of Health Sciences, Bayero University, Kano, 3011, Kano, Nigeria 2Department
+      of Biochemistry, Skyline University, 700103, Kano, Nigeria 3Centre for Biotechnology
+      Research and Training, Bayero University, Kano, 3011, Kano, Nigeria 4Department
+      of Biochemistry, Faculty of Basic Medical Sciences, Kampala International University
+      Uganda, 77, Western Campus Ishaka Uganda
+    url: ''
+content_info: {}

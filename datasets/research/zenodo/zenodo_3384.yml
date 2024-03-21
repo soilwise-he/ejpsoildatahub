@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3760783
+  dataseturi: https://doi.org/10.5281/zenodo.3760783
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Literature Survey of Soil Stabilization Containing Diverse Nanomaterial
+  abstract: In recent year, soil stabilization using nanotechnology is one of the
+    advance methods to stabilize poor soil and to adopt economical solution to improve
+    the geotechnical properties of soil due to multidisciplinary cross applications
+    and the limitations of traditional materials. Currently, this paper talked about
+    past investigations on the utilization of nanoparticles in soil, their impact
+    on various properties of soil, their consequences for soil and the types of gear
+    used to contemplate the nanostructure of soil particles. Ongoing outcomes have
+    indicated that the utilization of a modest quantity of nanomaterials which is
+    less than 1% of dry soil have brought about huge change and improvement in soil
+    properties.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-04-22'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3760783
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3760782
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Darsha-M-Nakum:
+    individualname: Darsha M Nakum
+    role: creator
+    organization: Diploma Student, Department of Civil Engineering, Marwadi University,
+      Rajkot, Gujarat, India
+    url: ''
+  Shaifali-H-Rathod:
+    individualname: Shaifali H Rathod
+    role: creator
+    organization: Diploma Student, Department of Civil Engineering, Marwadi University,
+      Rajkot, Gujarat, India
+    url: ''
+  Kishan-H-Agher:
+    individualname: Kishan H Agher
+    role: creator
+  Smit-M-Kacha:
+    individualname: Smit M Kacha
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Marwadi University,
+      Rajkot, Gujarat, India
+    url: ''
+  Agher-Kishan-H:
+    individualname: Agher, Kishan H
+    role: ''
+    organization: Diploma Student, Department of Civil Engineering, Marwadi University,
+      Rajkot, Gujarat, India
+    url: ''
+content_info: {}

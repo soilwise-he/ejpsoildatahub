@@ -1,0 +1,118 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4836315
+  dataseturi: https://doi.org/10.5281/zenodo.4836315
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Research on Dry Matter Production, Nutrient Cycled and Removed as Well as
+    Soil Fertility Changes in Yam-Based Cropping Systems with Herbaceous Legumes in
+    the Guinea-Sudan Zone of Benin
+  abstract: "Traditional yam-based cropping systems (shifting cultivation, slash-and-burn,\
+    \ and short fallow) often result in deforestation and soil nutrient depletion.\
+    \ The objective of this study was to determine the impact of yam-based systems\
+    \ with herbaceous legumes on dry matter (DM) production (tubers, shoots), nutrients\
+    \ removed and recycled and the soil fertility changes. We compared smallholders\u2019\
+    \ traditional systems (1-year fallow of <em>Andropogon gayanus</em>-yam rotation,\
+    \ maize-yam rotation) with yam-based systems integrated herbaceous legumes (<em>Aeschynomene\
+    \ histrix</em>/maize intercropping-yam rotation, <em>Mucuna pruriens</em>/maize\
+    \ intercropping-yam rotation). The experiment was conducted during the 2002 and\
+    \ 2004 cropping seasons with 32 farmers, eight in each site. For each of them,\
+    \ a randomized complete block design with four treatments and four replicates\
+    \ was carried out using a partial nested model with five factors: Year, Replicate,\
+    \ Farmer, Site, and Treatment. Analysis of variance (ANOVA) using the general\
+    \ linear model (GLM) procedure was applied to the dry matter (DM) production (tubers,\
+    \ shoots), nutrient contribution to the systems, and soil properties at depths\
+    \ 0\u201310 and 10\u201320 cm. DM removed and recycled, total N, P, and K recycled\
+    \ or removed, and soil chemical properties (SOM, N, P, K, and pH water) were significantly\
+    \ improved on yam-based systems with legumes in comparison with traditional systems.\
+    \ Treatment \xD7 Farmer and Year \xD7 Treatment inter-actions influenced significantly\
+    \ the yam tuber dry matter production. Amounts of N, P, and K recycled in yam\
+    \ shoot were significantly higher in yam-based systems with legumes than in traditional\
+    \ systems."
+  keywords:
+    default:
+      keywords:
+        subject: legumes
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4836315
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4836314
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  Raphiou-Maliki:
+    individualname: Raphiou Maliki
+    role: creator
+    organization: "Institut National des Recherches Agricoles du Benin\xB4 (INRAB),\
+      \ P.O.Box 2128, Calavi, Benin."
+    url: ''
+  Brice-Sinsin:
+    individualname: Brice Sinsin
+    role: creator
+  Anne-Floquet:
+    individualname: Anne Floquet
+    role: creator
+  Denis-Cornet:
+    individualname: Denis Cornet
+    role: creator
+  Eric-Malezieux:
+    individualname: Eric Malezieux
+    role: creator
+  Philippe-Vernier:
+    individualname: Philippe Vernier
+    role: creator
+  Sinsin-Brice:
+    individualname: Sinsin, Brice
+    role: ''
+    organization: "Faculte\xB4 des Sciences Agronomiques de l'Universite\xB4 d'Abomey-Calavi\
+      \ (FSA/UAC), P.O. Box 01-526, Cotonou, Benin."
+    url: ''
+  Floquet-Anne:
+    individualname: Floquet, Anne
+    role: ''
+    organization: "Centre Beninois\xB4 pour l'Environnement et le Developpement\xB4\
+      \ Economique et Social (CEBEDES), P.O.Box 02-331, Cotonou, Benin."
+    url: ''
+  Cornet-Denis:
+    individualname: Cornet, Denis
+    role: ''
+    organization: "Centre de Cooperation\xB4 Internationale en Recherche Agronomique\
+      \ pour le Developpement\xB4 (CIRAD), 34398 Montpellier Cedex 5, France."
+    url: ''
+  Malezieux-Eric:
+    individualname: Malezieux, Eric
+    role: ''
+    organization: "Centre de Cooperation\xB4 Internationale en Recherche Agronomique\
+      \ pour le Developpement\xB4 (CIRAD), UPR Hortsys, 34398 Montpellier Cedex 5,\
+      \ France."
+    url: ''
+  Vernier-Philippe:
+    individualname: Vernier, Philippe
+    role: ''
+    organization: "Centre de Cooperation\xB4 Internationale en Recherche Agronomique\
+      \ pour le Developpement\xB4 (CIRAD), 34398 Montpellier Cedex 5, France."
+    url: ''
+content_info: {}

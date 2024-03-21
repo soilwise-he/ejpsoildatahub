@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Begum_2022
+  dataseturi: https://doi.org/10.3389/fenvs.2022.819162
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Modeling Soil Carbon Under Diverse Cropping Systems and Farming Management
+    in Contrasting Climatic Regions in Europe
+  abstract: '&lt;p&gt;Sustainable agriculture has been identified as key to achieving
+    the 2030 Agenda for the Sustainable Development Goals, which aims to end poverty
+    and hunger and address climate change while maintaining natural resources. Soil
+    organic carbon (SOC) sequestration is a key soil function for ecosystem services,
+    and storing carbon (C) in soil by changing traditional management practices can
+    represent an important step toward the development of more sustainable agricultural
+    systems in Europe. Within the European project Diverfarming, the process-based
+    ecosystem model ECOSSE was modified and evaluated in four long-term experiments
+    (&gt;8 years) to assess the impact of crop diversification and agricultural management
+    in SOC dynamics. ECOSSE was able to simulate SOC under dry conditions in Mediterranean
+    regions in Spain and Italy. In the site of Murcia, Spain, the addition of manure
+    and cover crop in the diversified systems produced an increase of SOC in 9 years,
+    when compared with the conventional management (16% measured increase, 32% simulated
+    increase). The effect of tillage management on SOC stock in dry soil, in Foggia,
+    Italy and Huesca, Spain, was also modeled, and a positive impact on SOC was predicted
+    when no tillage was practiced. Finally, ECOSSE was used to understand the impact
+    of diversifications in Boreal regions, Finland, where different proportions of
+    legumes and grass were considered in a 4-year crop rotation compared with conventional
+    cereal rotations. Experiments and modeling showed that the loss of SOC in conventional
+    cereal was compensated when grass was introduced in the rotations. A good agreement
+    (NRMSE &lt;10%) and a nonsignificant bias were observed between model and experimental
+    data for all sites. Mitigation scenarios considered in the modeling analysis for
+    the test site Huesca showed that an integrated management of no tillage and manure
+    is the best strategy to increase SOC, ~51% over 20 years, compared with the baseline
+    scenario (current farmers practice). This study demonstrated the ability of the
+    modified version of ECOSSE to simulate SOC dynamics in diversified cropping systems,
+    with various soil management practices and different climatic conditions.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Modeling Soil Carbon Under Diverse Cropping Systems and Farming Management
+      in Contrasting Climatic Regions in Europe
+    url: http://dx.doi.org/10.3389/fenvs.2022.819162
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khadiza-Begum:
+    individualname: Khadiza Begum
+    role: creator
+  Raul-Zornoza:
+    individualname: Raul Zornoza
+    role: creator
+  Roberta-Farina:
+    individualname: Roberta Farina
+    role: creator
+  Riitta-Lemola:
+    individualname: Riitta Lemola
+    role: creator
+  Jorge-Alvaro-Fuentes:
+    individualname: "Jorge \xC1lvaro-Fuentes"
+    role: creator
+  Marianna-Cerasuolo:
+    individualname: Marianna Cerasuolo
+    role: creator
+  Begum-Khadiza:
+    individualname: Begum, Khadiza
+    role: creator
+  Zornoza-Raul:
+    individualname: Zornoza, Raul
+    role: creator
+  Farina-Roberta:
+    individualname: Farina, Roberta
+    role: creator
+  Lemola-Riitta:
+    individualname: Lemola, Riitta
+    role: creator
+  Alvaro-Fuentes-Jorge:
+    individualname: "\u221A\xC5lvaro-Fuentes, Jorge"
+    role: creator
+  Cerasuolo-Marianna:
+    individualname: Cerasuolo, Marianna
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

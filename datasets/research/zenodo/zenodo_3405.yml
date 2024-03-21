@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kourkoulis_2012
+  dataseturi: https://doi.org/10.1080/13632469.2012.691615
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Dimensional Analysis of SDOF Systems Rocking on Inelastic Soil
+  abstract: "Aiming to derive results of generalized applicability and provide a generalization\
+    \ framework for future research on the subject, this article performs a dimensional\
+    \ analysis of SDOF systems rocking on compliant soil, taking account of soil inelasticity,\
+    \ foundation uplifting, and P\u2013\u03B4 effects. The effectiveness of the proposed\
+    \ formulation, under static and dynamic conditions, is verified through numerical\
+    \ analyses of self-similar \u201Cequivalent\u201D systems. Then, a parametric\
+    \ study is conducted to gain further insights on the key factors affecting the\
+    \ performance, with emphasis on metaplastic ductility and toppling rotation. It\
+    \ is shown that P\u2013\u03B4 effects may lead to a substantial reduction of (monotonic)\
+    \ moment capacity, especially in the case of slender and heavily loaded structures.\
+    \ Interestingly, this reduction in moment capacity is compensated (to some extent)\
+    \ by an overstrength that develops during cyclic loading. Asymmetric (near-field)\
+    \ seismic excitations tend to produce larger maximum and permanent rotation, compared\
+    \ to symmetric multi-cycle (far-field) excitations, which are critical in terms\
+    \ of settlement. The dimensionless toppling rotation \u03B8 ult /\u03B8 c (where\
+    \ \u03B8 c is the toppling rotation of the equivalent rigid block) is shown to\
+    \ be a function of the factor of safety against vertical loads FS v and the slenderness\
+    \ ratio h/B. In the case of lightly loaded systems (FS v \u2192 \u221E), soil\
+    \ plastification is limited and the metaplastic response approaches that of the\
+    \ equivalent rigid block : \u03B8 ult /\u03B8 c \u2192 1. The toppling rotation\
+    \ \u03B8 ult /\u03B8c is shown to decrease with FS v : \u03B8 ult /\u03B8 c \u2192\
+    \ 0 for FS v \u2192 1. The role of the h/B becomes increasingly important when\
+    \ the response is governed by soil nonlinearity (FS v \u2192 1). Finally, an approximate\
+    \ simplified \u201Cempirical\u201D equation is proposed, correlating \u03B8 ult\
+    \ /\u03B8 c with h/B and FS v"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Dimensional Analysis of SDOF Systems Rocking on Inelastic Soil
+    url: http://dx.doi.org/10.1080/13632469.2012.691615
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kourkoulis-Rallis:
+    individualname: Kourkoulis, Rallis
+    role: creator
+  Anastasopoulos-Ioannis:
+    individualname: Anastasopoulos, Ioannis
+    role: creator
+  Gelagoti-Fani:
+    individualname: Gelagoti, Fani
+    role: creator
+  Kokkali-Panagiota:
+    individualname: Kokkali, Panagiota
+    role: creator
+  Kourkoulis-R.:
+    individualname: Kourkoulis, R.
+    role: creator
+  Anastasopoulos-I.:
+    individualname: Anastasopoulos, I.
+    role: creator
+  Gelagoti-F.:
+    individualname: Gelagoti, F.
+    role: creator
+  Kokkali-P.:
+    individualname: Kokkali, P.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5834946
+  dataseturi: https://doi.org/10.5281/zenodo.5834946
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Code and data repository for Anion exchange capacity explains deep soil nitrate
+    accumulation in Brazilian Amazon croplands
+  abstract: The code and data repository for "Anion exchange capacity explains deep
+    soil nitrate accumulation in Brazilian Amazon croplands"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-01-05'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5834946
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4419934
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alexandra-Huddell:
+    individualname: Alexandra Huddell
+    role: creator
+  Huddell-Alexandra:
+    individualname: Huddell, Alexandra
+    role: ''
+    organization: Columbia University
+    url: https://orcid.org/0000-0002-6289-6290
+content_info: {}

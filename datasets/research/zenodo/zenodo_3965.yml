@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10722692
+  dataseturi: https://doi.org/10.5281/zenodo.10722692
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Overview of Engineering Problems of Soil Compaction and Their Effects on
+    Growth and Yields of Crops
+  abstract: 'ABSTRACT
+
+
+    Soil compaction constitutes serious engineering problems in agriculture that researchers
+    have been contending with to proffer sustainable solution. This review work was
+    carried out to contribute to the fixing of the problems. Effects of soil compaction
+    have eaten deep and are adversely affecting the production of food and fibre throughout
+    the world. Soil compaction occurs when soil particles are pressed together, leading
+    to increased density and reduction in soil pore space. Thus, physical structure
+    of the soil finds it difficult to support and applied mechanical stress leading
+    to loss of soil structural units, decrease in soil volume, increase in bulk density,
+    decrease in porosity and reduction in hydraulic conductivity of the soil. Compacted
+    soils have reduced available water capacity. The change in pore space restricts
+    root growth, and the gas exchange necessary for plant growth. Compaction restricts
+    infiltration of water, increasing runoff and erosion, leading to the loss of valuable
+    nutrients. Soil strength, cone index, bulk density, porosity, moisture content,
+    erosion and runoff, poor plant growth and yields are the major parameters used
+    as indicators of soil compaction. The problems of soil compaction are a global
+    concern. As farmers continue to till the soil for the purpose of food and fibre
+    production to meet the need of growing world population; prevention and alleviation
+    practices should be taken into consideration to avoid the negative effects of
+    soil compaction. Farmers are advised to carry out precision traffic agricultural
+    practice; planting of crops on soils with cone index more than 1.5 kPa should
+    be avoided; deep tillage practices, normally called subsoiling should be carried
+    out on soils confirmed to be compacted. Farmers are advised to cultivate cover
+    crops; incorporation of organic matter into the soil; and practicing of mixed
+    farming in order to alleviate soil compaction menace.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil Compaction, Penetration Resistance, Crops, Growths, Yield
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-09-30'
+    publication: '2018'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10722692
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10722691
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Odey-Simon-Ogbeche:
+    individualname: Odey Simon Ogbeche
+    role: creator
+    organization: Department of Wood Products Engineering, Cross River University
+      of Technology, Calabar
+    url: ''
+content_info: {}

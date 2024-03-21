@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LIPMAN_1916
+  dataseturi: https://doi.org/10.1097/00010694-191612000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A VEGETATION EXPERIMENT ON THE AVAILABILITY OF NITROGENOUS FERTILIZERS IN
+    AN ARID SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A VEGETATION EXPERIMENT ON THE AVAILABILITY OF NITROGENOUS FERTILIZERS IN
+      AN ARID SOIL
+    url: http://dx.doi.org/10.1097/00010694-191612000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lipman-C.-B.:
+    individualname: Lipman, C. B.
+    role: creator
+  Gericke-W.-F.:
+    individualname: Gericke, W. F.
+    role: creator
+  LIPMAN-C.-B.:
+    individualname: LIPMAN, C. B.
+    role: creator
+  GERICKE-W.-F.:
+    individualname: GERICKE, W. F.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

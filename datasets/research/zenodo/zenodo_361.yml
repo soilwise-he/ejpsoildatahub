@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6998588
+  dataseturi: https://doi.org/10.5281/zenodo.6998588
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Stone Bunds For Soil and Water Conservation
+  abstract: "Natural resources like soil and water are under serious threat due to\
+    \ intensive agriculture which is intended to increase the world's food production.\
+    \ But, sustainable food production for the future generation becomes challenging\
+    \ due to soil and water quality deterioration. Soil erosion is one of the significant\
+    \ problems which decreases soil health and crop production. Anthropogenic activities\
+    \ coupled with climate change further worsen the condition. Rainfall/precipitation,\
+    \ topography, vegetation and soil property are the major factors contributing\
+    \ to soil erosion. The worldwide annual rate of soil erosion from agricultural\
+    \ land ranges from 22 to 100-ton ha<sup>\u22121</sup>, which results in 15\u2013\
+    30% loss of agricultural productivity."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-08-16'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6998588
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6998587
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Manivannan-V.-Kasthuri-Thilagam:
+    individualname: S. Manivannan, V. Kasthuri Thilagam
+    role: creator
+    organization: "ICAR \u2013 Indian Institute of Soil and Water Conservation Research\
+      \ Centre, Udhagamandalam \u2013 643 004, Tamil Nadu"
+    url: ''
+content_info: {}

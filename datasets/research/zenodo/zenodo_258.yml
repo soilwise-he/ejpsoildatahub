@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yunjin_Kim
+  dataseturi: https://doi.org/10.1109/igarss.2004.1368525
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Vegetation effects on soil moisture estimation
+  abstract: Several successful algorithms have been developed to estimate soil moisture
+    of bare surfaces. We previously reported a new algorithm using the tilted Bragg
+    approximation. However, these algorithms are only applicable to bare surfaces.
+    When vegetation is present, soil moisture is typically underestimated by bare
+    surface algorithms. In order to derive soil moisture under vegetation, we have
+    to understand the complex scattering process due to vegetation. Our main interest
+    is to retrieve the global soil moisture information using Hydros L-band polarimetric
+    radar data. The Hydros mission will provide the first global view of land soil
+    moisture using L-band radar and radiometer. The unique characteristics of the
+    Hydros data are the availability of the low resolution soil moisture information
+    from radiometer data and the continuous time series radar data collected at the
+    same incidence angle. In this paper, we will examine a potential inversion algorithm
+    to retrieve soil moisture under vegetation canopies using Hydros L-band polarimetric
+    radar data
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Vegetation effects on soil moisture estimation
+    url: http://dx.doi.org/10.1109/igarss.2004.1368525
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kim-Y.:
+    individualname: Kim, Y.
+    role: creator
+  van-Zyl-J.:
+    individualname: van Zyl, J.
+    role: creator
+  Yunjin-Kim:
+    individualname: Yunjin Kim
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

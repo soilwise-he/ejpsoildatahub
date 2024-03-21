@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cao_2020
+  dataseturi: https://doi.org/10.1016/j.jhydrol.2020.124605
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Mapping the response of volumetric soil water content to an intense rainfall
+    event at the field scale using GPR
+  abstract: '&lt;p&gt;Ground-penetrating radar (GPR) is a convenient tool for volumetric
+    soil water content (VSWC) estimation in hydrological and agricultural studies.
+    Although case studies have been widely carried out, little attention has been
+    paid to subsoil moisture estimates. In this research, we investigated three-dimensional
+    soil moisture variation down to a depth of 1&nbsp;m and the effect of rainfall
+    events on spatial soil moisture dynamics. GPR surveying lines were conducted both
+    before and after a heavy rainfall event to map the VSWC. Soil sampling and time
+    domain reflectometry (TDR) probe data at different depths (20, 40, 60, 80, and
+    100&nbsp;cm) were acquired. Our results demonstrated that there was a significant
+    correlation between the dielectric constants and VSWCs at all depths. The established
+    relationships for the different depth ranges had a low VSWC discrepancy when the
+    dielectric constants ranged from 10 to 15. The effective range of each variogram
+    was larger than 20&nbsp;m, except for that of the 0&ndash;100&nbsp;cm VSWC map
+    after rainfall. In addition, the validation diagrams using corrected TDR values
+    demonstrated relatively reliable VSWC maps. Approximately 89% of the variation
+    in VSWC could be explained by the dielectric constants in the depth range of 0&ndash;40&nbsp;cm,
+    and VSWC predictions at this soil depth outperformed those at other depth ranges,
+    with an overall RMSE of 0.027&nbsp;m&lt;sup&gt;3&lt;/sup&gt;&nbsp;m&lt;sup&gt;&minus;3&lt;/sup&gt;&nbsp;and
+    R&lt;sup&gt;2&lt;/sup&gt;&nbsp;of 0.725. Furthermore, we also monitored the effect
+    of precipitation on the accuracy of the VSWC prediction on shallow surfaces. Our
+    study shows that three-dimensional soil moisture dynamics can be accurately estimated
+    at the field scale by integrating GPR interpretation and spatial extrapolation
+    methods.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Ground wave method
+      - Soil water content
+      - Subsoil
+      - Geostatistics
+      - Red soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Mapping the response of volumetric soil water content to an intense rainfall
+      event at the field scale using GPR
+    url: http://dx.doi.org/10.1016/j.jhydrol.2020.124605
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cao-Qi:
+    individualname: Cao, Qi
+    role: creator
+  Song-Xiaodong:
+    individualname: Song, Xiaodong
+    role: creator
+  Wu-Huayong:
+    individualname: Wu, Huayong
+    role: creator
+  Gao-Lei:
+    individualname: Gao, Lei
+    role: creator
+  Lie-Feng:
+    individualname: Lie, Feng
+    role: creator
+  Yang-Shunshua:
+    individualname: Yang, Shunshua
+    role: creator
+  Zhang-Ganlin:
+    individualname: Zhang, Ganlin
+    role: creator
+  Liu-Feng:
+    individualname: Liu, Feng
+    role: creator
+  Yang-Shunhua:
+    individualname: Yang, Shunhua
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

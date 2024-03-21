@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2586685
+  dataseturi: https://doi.org/10.5281/zenodo.2586685
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Contribution of Agricultural Wastes on Soil Aggregation, Soil Properties
+    and Yield of Maize on Acidic Soil
+  abstract: The stability of soil aggregates against the impact of rainfall has become
+    vital especially in South-eastern Nigeria whose soils are too fragile due to high
+    rainfall distribution in the zone that facilities soil erosion. In trying to finding
+    out ways of improving the aggregate stability of soils, two agricultural wastes
+    (poultry droppings (PD) and saw dust ash (SDA) were applied individually and in
+    combination of both at varying rates to evaluate its effects on soil aggregate
+    stability, soil physicochemical properties and yield of maize. A randomized complete
+    block design was used and the treatments were replicated three times. Pre and
+    post planting soil samples were collected and analysed for physical and chemical
+    soil properties using standard methods. Data collected from soil analyses and
+    growth performances of maize were subjected to analysis of variance and significant
+    treatment means were separated using least significant difference at 0.05 probability
+    level. Results showed that plots amended with 10 t/ha PD + 10 t/ha SDA increased
+    soil organic carbon by 25.4 %, soil total nitrogen by 25.7 %, effective cation
+    exchange capacity by 34.3 % and base saturation by 19.2 %. Plots amended with
+    10 t/ha PD + 10 t/ha SDA reduced clay ratio (CR), clay dispersion index (CDI)
+    and dispersion ratio (DR) by 75.2 %, 84.9 % and 93.7 % respectively while clay
+    flocculation index (CFI) was increased by 82.3 %. The highest maize yield (74
+    kg/ha) was recorded from plots amended with 10 t/ha PD + 10 t/ha SDA. Therefore
+    10 t/ha PD + 10 t/ha SDA was recommended for improvement of soil properties, soil
+    aggregate stability and yield of maize in acid soil.
+  keywords:
+    default:
+      keywords:
+        subject: Clay flocculation index, Dispersion ratio, Erosion, Soil erodibility,
+          Dispersion index
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-07-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2586685
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2586684
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Onwudike-Stanley:
+    individualname: Onwudike, Stanley
+    role: creator
+    organization: Federal University of Technology Owerri, Nigeria
+    url: ''
+  Mbonu-Vincent:
+    individualname: Mbonu, Vincent
+    role: creator
+    organization: Federal University of Technology Owerri, Nigeria
+    url: ''
+content_info: {}

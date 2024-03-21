@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7878885
+  dataseturi: https://doi.org/10.5281/zenodo.7878885
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Assessment of soil erosion in the Autonomous District of Abidjan, C\xF4\
+    te d'Ivoire"
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> In a context of global\
+    \ changes and climatic uncertainties, this study poses the problem of the occurrence\
+    \ of water erosion induced by natural constraints and uncontrolled and speculative\
+    \ anthropisation of soils in the Autonomous District of Abidjan. The aim is to\
+    \ propose a decision-making tool that identifies the areas of the Autonomous District\
+    \ of Abidjan (ADA) most prone to soil loss and the risk of water erosion. More\
+    \ specifically, the aim is to evaluate, prioritise and map the levels of susceptibility\
+    \ to the occurrence of this hydroclimatic risk in the ADA. The mapping approach\
+    \ is based on the aggregation of factors such as climatic aggressiveness, soil\
+    \ erodibility, topography, soil cover and anti-erosion practices from the Revised\
+    \ Universal Soil Loss Equation (RUSLE). The exploitation of these data reveals\
+    \ that soil loss in the ADA oscillates between a minimum value of 0 t/ha/year\
+    \ largely observable in the south of the lagoon system to a maximum value of 107.53\
+    \ t/ha/year which concerns the plateau areas in the north. The average of this\
+    \ series of 0.48 t/ha/year translates into an overall low level of water erosion\
+    \ in the ADA over nearly 95% of the ADA territory. This soil degradation, which\
+    \ impacts human settlements induced by the morphology of the site, is amplified\
+    \ by human activities. In a context of rapid urban expansion linked to a remarkable\
+    \ demographic growth coupled with climatic uncertainties, development policies\
+    \ must better integrate sustainable soil management."
+  keywords:
+    default:
+      keywords:
+        subject: Vulnerabilities
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7878885
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7878884
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kinakpefan-Michel-TRAORE:
+    individualname: Kinakpefan Michel TRAORE
+    role: creator
+    organization: ''
+    url: ''
+  Nambahigue-Mathieu-BAKARY:
+    individualname: "Nambahigu\xE9 Mathieu BAKARY"
+    role: creator
+    organization: ''
+    url: ''
+  Awa-Timite-TAMBOURA:
+    individualname: "Awa Timit\xE9 TAMBOURA"
+    role: creator
+  TAMBOURA-Awa-Timite:
+    individualname: "TAMBOURA, Awa Timit\xE9"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

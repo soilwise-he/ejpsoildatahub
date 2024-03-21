@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1188838
+  dataseturi: https://doi.org/10.5281/zenodo.1188838
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis Of Electrical Safety Conditions Taking Into Account Soil Conductivity
+    Determined On The Basis Of Fuzzy Logic
+  abstract: "The goal of this work is to prove a possibility of determining soil parameters\
+    \ that influence its conductivity being the basis of grounding, step voltage and\
+    \ touch voltage calculation. This in its turn increases the safety level of electric\
+    \ equipment operation. The article is devoted to development of new, no conventional\
+    \ models of soil conductivity using the theory of fuzzy sets and fuzzy logic.\
+    \ The description of the solution includes the following sections: fuzzy models\
+    \ of specific electrical resistance of different soil types depending on their\
+    \ salinity and moisture content at positive temperatures; dependences between\
+    \ \u03C1 and negative temperature values for different types of soil and different\
+    \ moisture contents; fuzzy climatic soil models for a specific location in order\
+    \ to determine soil \u03C1 deep into the earth throughout the year. Uncertainty\
+    \ of soil properties is a reason why calculations of grounding devices are very\
+    \ liberal with plenty to spare, and calculations of touch voltages and step voltages\
+    \ in the period of active snow melting or abundant rains give erroneous results.\
+    \ Since soil parameters are described by linguistic variables: humidity, salinity,\
+    \ and temperature etc., soil layers should be considered as overlapping fuzzy\
+    \ sets. Membership functions of the main components of the \u201Csoil conductivity\u201D\
+    \ concept were formed on this basis. The new scientific result we obtained makes\
+    \ it possible to formalize natural language of the experts in the field of climatic\
+    \ factors influence on soil resistivity in order to represent this information\
+    \ with the help of computer algorithms for optimum design of energy supply security\
+    \ and step voltage and touch voltage calculation."
+  keywords:
+    default:
+      keywords:
+        subject: step-by-step pressure
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2017-08-15'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1188838
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1188837
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manusov-V.Z.:
+    individualname: Manusov, V.Z.
+    role: creator
+    organization: Novosibirsk State Technical University Novosibirsk, Russian Federation
+    url: ''
+  Zaytseva-N.M.:
+    individualname: Zaytseva, N.M.
+    role: creator
+    organization: Innovative Eurasian University, Pavlodar, Republic of Kazakhstan
+    url: ''
+content_info: {}

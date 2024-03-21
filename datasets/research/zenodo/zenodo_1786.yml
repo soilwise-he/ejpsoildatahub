@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1003143
+  dataseturi: https://doi.org/10.5281/zenodo.1003143
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Environmentally-Mediated Epigenetic Effects: Uncovering The Fertile Soil
+    In The Development Of Pediatric Cancer'
+  abstract: 'Abstract:
+
+
+    Objectives: We reviewed the literature to identify the evidence about the potential
+    link between the environmental effects &amp; the increased susceptibility to pediatric
+    cancer, and explained how these factors may be transferred to initiate &amp; promote
+    the development of pediatric cancer through epigenetic mechanisms.
+
+
+    Methods: First, we highlighted the role of epigenetics in embryogenesis &amp;
+    development, and then we presented some evidence from animal models about trans-generational
+    inheritance &amp; the potential transfer of environmental effects through multiple
+    generations to effect development of disease phenotypes by evolutionary epigenetic
+    remodeling or even could drive genomic variations at the long term.  In addition,
+    we addressed some studies that relate specific environmental exposures to the
+    increased susceptibility to specific pediatric cancer types, and finally we shed
+    the light on aberrant reprogramming in early developmental stages &amp; the potential
+    link between developmental malformations &amp; childhood cancer.
+
+
+    Results: The environmentally-acquired epigenetic marks may influence the control
+    of gene regulation through DNA methylation, histone modification, or through a
+    large set of non-coding RNAs (ncRNAs). These epigenetic effects might be passed
+    on to the developing embryo and child as inheritable non-genetic marks, which
+    recapitulate previous lifelong history of exposure to environmental influences
+    that start from the stage of primordial germ cell, passing through the maturing
+    germ cell, and ending by the zygote stage. This involves the paternally transmitted
+    information on the sperm that contribute to modulating embryogenesis functions
+    and later childhood development, in concert with, the maternally transmitted information
+    encountered by the exposure to a large milieu of environmental factors either
+    periconceptionally or during lactation period.
+
+
+    Conclusion: Environmentally- mediated epigenetic effects could have a clue for
+    unique criteria that have been associated with pediatric cancer, such as presence
+    of global epigenetic changes, heterogeneity, diversity, and regression of some
+    tumors.  To uncover many of unanswered questions, more focused research should
+    be carried out through longitudinal studies that address the effects of various
+    environmental influences involving successive generations using integrated genetic
+    &amp; epigenetic approaches to gain insights &amp; accumulate further evidence
+    about the interplay between genetics, epigenetics &amp; exposure, and its possible
+    role in initiation, promotion &amp; progression of different pediatric tumors.'
+  keywords:
+    default:
+      keywords:
+        subject: Developmental Reprogramming of Cancer Susceptibility
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1003143
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1003142
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Morsy-Ahmed-Mohammed:
+    individualname: Morsy, Ahmed Mohammed
+    role: creator
+    organization: Pediatric Oncology Department, South Egypt Cancer Institute, Assiut
+      University
+    url: https://orcid.org/0000-0001-5617-8797
+content_info: {}

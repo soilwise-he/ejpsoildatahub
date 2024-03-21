@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1323927
+  dataseturi: https://doi.org/10.5281/zenodo.1323927
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: New Insights Into The Role Of Microbial Community Composition In Driving
+    Soil Respiration Rates
+  abstract: New insights into the role of microbial community composition in driving
+    soil respiration rates. Published in Soil Biology and Biochemistry
+  keywords:
+    default:
+      keywords:
+        subject: Bacteria, fungi, carbon cycling, ecosystem processes, microbial community,
+          global change
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-03-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1323927
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1323926
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Liu-Yu-Rong:
+    individualname: Liu Yu-Rong
+    role: creator
+  Delgado-Baquerizo-Manuel:
+    individualname: Delgado-Baquerizo, Manuel
+    role: creator
+    organization: Cooperative Institute for Research in Environmental Sciences, University
+      of Colorado, Boulder
+    url: ''
+  Wang-Jun-Tao:
+    individualname: Wang Jun-Tao
+    role: creator
+  Hu-Hang-Wei:
+    individualname: Hu Hang-Wei
+    role: creator
+  Yang-Z:
+    individualname: Yang Z
+    role: creator
+  He-Ji-Zheng:
+    individualname: He Ji-Zheng
+    role: creator
+  Yu-Rong-Liu:
+    individualname: Yu-Rong, Liu
+    role: ''
+    organization: Chinese Academy of Sciences
+    url: ''
+  Jun-Tao-Wang:
+    individualname: Jun-Tao, Wang
+    role: ''
+    organization: Chinese Academy of Sciences
+    url: ''
+  Hang-Wei-Hu:
+    individualname: Hang-Wei, Hu
+    role: ''
+    organization: University of Melbourne
+    url: ''
+  Z-Yang:
+    individualname: Z, Yang
+    role: ''
+    organization: University of Melbourne
+    url: ''
+  Ji-Zheng-He:
+    individualname: Ji-Zheng, He
+    role: ''
+    organization: University of Melbourne
+    url: ''
+content_info: {}

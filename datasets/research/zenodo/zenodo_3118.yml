@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Morug_n_Coronado_2022
+  dataseturi: https://doi.org/10.1016/j.agee.2022.107867
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The impact of crop diversification, tillage and fertilization type on soil
+    total microbial, fungal and bacterial abundance: A worldwide meta-analysis of
+    agricultural sites'
+  abstract: '&lt;p&gt;A meta-analysis was performed to assess changes in microbial
+    abundance in agricultural soils affected by: (i) management practices (tillage,
+    fertilization and crop diversification); and (ii) environmental factors, including
+    climate characteristics and soil properties. The scope of the meta-analysis was
+    to evaluate whether microbial abundances are affected or not by organic fertilization
+    or no fertilization, crop diversification (intercropping and crop rotations) and
+    conservation tillage (reduced tillage/notillage) as an alternative to intensive
+    conventional monocultures in agriculture. Only papers showing data on phospholipid
+    fatty acids (PLFAs), providing indicators about soil microbial (total PLFA), fungal
+    and bacterial biomass reached a critical mass to perform the meta-analysis. This
+    work was funded by the European Commission Horizon 2020 project SoildiverAgro
+    [grant agreement 817819].&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Diversification
+      - Organic farming
+      - Tillage
+      - Fertilization
+      - PLFA
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The impact of crop diversification, tillage and fertilization type on soil
+      total microbial, fungal and bacterial abundance: A worldwide meta-analysis of
+      agricultural sites'
+    url: http://dx.doi.org/10.1016/j.agee.2022.107867
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Morugan-Coronado-Alicia:
+    individualname: "Morug\xE1n-Coronado, Alicia"
+    role: creator
+  Perez-Rodriguez-Paula:
+    individualname: "P\xE9rez-Rodr\xEDguez, Paula"
+    role: creator
+  Insolia-Eliana:
+    individualname: Insolia, Eliana
+    role: creator
+  Soto-Gomez-Diego:
+    individualname: "Soto-G\xF3mez, Diego"
+    role: creator
+  Fernandez-Calvino-David:
+    individualname: "Fern\xE1ndez-Calvi\xF1o, David"
+    role: creator
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

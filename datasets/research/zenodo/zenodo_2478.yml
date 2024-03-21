@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6410717
+  dataseturi: https://doi.org/10.5281/zenodo.6410717
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Total Soil Nitrogen and Organic Carbon from Certain Infra-Red
+    Peaks of IR-Curves of Soils
+  abstract: "Department of Chemistry, University of Allahabad, Allahabad-211002. <em>Manuscript\
+    \ received </em>14 <em>February </em>1975 ; <em>accepted </em>23 <em>June </em>1975\
+    \ Fifty soil samples from different regions of India have been collected and their\
+    \ infrared curves were observed by KBr-mull technique using Perkin-Elmer Spectrophotometer,\
+    \ 137. The depth (I/I<sub>0</sub>) values of each infrared absorption peaks were\
+    \ calculated and correlated with the values of total soil nitrogen and carbon\
+    \ separately. Generally, Si-OH (bonded and unbonded water-peak), Si-OH (absorbed\
+    \ water-peak) ; Si-O (silica-peak) ; Si-H (pH-peak) and Si-C (carbon-peak) belonging\
+    \ to different infrared regions have been found to show their correlation (both\
+    \ positively or nega\xADtively) with the values of total soil N and C. Regression\
+    \ (straight line) equations were also obtained between the I/I<sub>0</sub> values\
+    \ and the N and C percent values, which may be used for routine analysis of these\
+    \ two soil constituents."
+  keywords:
+    default:
+      keywords:
+        subject: IR-peaks
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1975-09-30'
+    publication: '1975'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6410717
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6410716
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SHARAFAT-ALT:
+    individualname: SHARAFAT ALT
+    role: creator
+    organization: ''
+    url: ''
+  P.-C.-SRIVASTAVA:
+    individualname: P. C. SRIVASTAVA
+    role: creator
+    organization: ''
+    url: ''
+  O.-P.-SINGH:
+    individualname: O. P. SINGH
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

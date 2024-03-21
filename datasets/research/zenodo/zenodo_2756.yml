@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3250776
+  dataseturi: https://doi.org/10.5281/zenodo.3250776
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Land-Use Management Systems on Coupled Hydraulic Mechanical Soil
+    Processes Defining the Climate-Food-Energy-Water Nexus
+  abstract: "Soils are the most critical life-supporting compartments of the biosphere.\
+    \ They provide<br>\nnumerous ecosystem services such as habitat for biodiversity,\
+    \ water and nutrients, as well as<br>\nproducing food, feed, fiber and energy.\
+    \ Soils undergo intense and irreversible changes due to<br>\na non-site adjusted\
+    \ land management and improper application of machinery and techniques<br>\nin\
+    \ its broadest sense. In combination with the growing population (until 2050 we\
+    \ will have<br>\napprox. 9 Billion people) the urgent need for a more reliable\
+    \ dataset of soil properties and soil<br>\nfunctions gains in importance in order\
+    \ to even prepare more reliable models for various<br>\nrequests. The mechanical\
+    \ strength \u2013 the precompression stress - as the result of geo-, pedoand<br>\n\
+    anthropogenic long-term processes - can be defined as the basis for quantifying\
+    \ the<br>\nrigidity boundary. It distinguishes between the recompression stress\
+    \ (i.e. elastic, rigid<br>\nproperties) and the virgin compression stress range\
+    \ where plastic deformation including<br>\nirreversible changes of properties\
+    \ and functions occur. The changes in the hydraulic or<br>\npneumatic functions\
+    \ like hydraulic or air conductivity, the pore size distribution primarily all<br>\n\
+    occur in the virgin compression stress range, The same is also true for redox\
+    \ reactions and the<br>\nbiological activity (respiration) in soils but also carbon\
+    \ sequestration potential is also linked<br>\nwith the precompression stress value.\
+    \ Thus, a more precise definition and following of sitespecific<br>\nfunctionality\
+    \ differences, which may exclude or concentrate certain land use or<br>\nmanagement\
+    \ forms are needed, in order to optimize yield, soil protection and a sustainable<br>\n\
+    land use management considering the limited site specific resilience at the same\
+    \ moment."
+  keywords:
+    default:
+      keywords:
+        subject: stress/strain, stress distribution, precompression stress, coupled
+          hydraulic and mechanical processes, ecological functions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-20'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3250776
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3250775
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Horn-Rainer:
+    individualname: Horn, Rainer
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science
+    url: ''
+content_info: {}

@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7497060
+  dataseturi: https://doi.org/10.5281/zenodo.7497060
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of agricultural residues on some physical parameters of the soil
+    fertility under eggplant cultivation
+  abstract: The loss of physical soil fertility reduces the mineral potential of soils
+    each year with loss of agricultural yields in West Africa. As a solution, soil
+    amendment based on animal waste is often considered while agricultural residues
+    are regularly destroyed or subjected to animals. In addition, agro-industries
+    and sawmills dump large quantities of waste into the environment of cities. The
+    present study aimed to evaluate the effects of carbonized rice husk and sawdust
+    on some physical parameters of a soil in eggplant production. The effect of fourteen
+    (14) treatments based on carbonized rice husk and sawdust, with or without addition
+    of chicken droppings, was tested under eggplant culture in the presence of two
+    controls, with and without the addition of droppings. Particle size, permeability
+    and humidity were determined after each crop cycle. In addition, the evolution
+    of organic matter was evaluated in parallel. The results showed a textural improvement
+    of the soil in relation to the variation of permeability and humidity at saturation
+    and field capacity under the effect of agricultural substrates. The combination
+    of rice husk, sawdust and chicken droppings allowed better soil moisture control.
+    The 67% sawdust-33% rice husk composite with basic manure of 3 t.ha-1 of chicken
+    droppings stood out from the others. In a context of climate change where rains
+    are scarce, the data indicate that carbonized rice husks, carbonized sawdust and
+    chicken droppings are residues to be valued in the conservation management of
+    organic matter and agricultural soilwater.
+  keywords:
+    default:
+      keywords:
+        subject: http://www.gphjournal.org/index.php/ar/article/view/768
+        subjectScheme: url
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7497060
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7497059
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  TOURE-Ambeyin:
+    individualname: "TOURE Amb\xE9yin"
+    role: creator
+    organization: "Universit\xE9 Jean Lorougnon Gu\xE9d\xE9, UFR Agroforesterie."
+    url: ''
+  SORO-Dognimeton:
+    individualname: "SORO Dognim\xE9ton"
+    role: creator
+    organization: "Universit\xE9 Jean Lorougnon Gu\xE9d\xE9, UFR Agroforesterie"
+    url: ''
+  KOUADIO-Konan-Kan-Hyppolite:
+    individualname: KOUADIO Konan-Kan Hyppolite
+    role: creator
+    organization: "Universit\xE9 F\xE9lix Houphouet-Boigny, UFR Sciences de la Terre\
+      \ et des Ressources Mini\xE8res"
+    url: ''
+  BAKAYOKO-Sidiky:
+    individualname: BAKAYOKO Sidiky
+    role: creator
+    organization: "Universit\xE9 Jean Lorougnon Gu\xE9d\xE9, UFR Agroforesterie"
+    url: ''
+  KONE-Tidiani:
+    individualname: KONE Tidiani
+    role: creator
+    organization: "Universit\xE9 Jean Lorougnon Gu\xE9d\xE9, UFR environnement"
+    url: ''
+content_info: {}

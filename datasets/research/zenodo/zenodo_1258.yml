@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.830477
+  dataseturi: https://doi.org/10.5281/zenodo.830477
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Report
+identification:
+  title: Risk Assessment Of Cobber And Zinc From Feed To Soil And Food
+  abstract: "The Norwegian Food Safety Authority has requested a risk assessment of\
+    \ cobber and zinc from feed to soil and food from the Norwegian Scientific Committee\
+    \ for Food Safety. <br>\nCopper and zinc are added to feed as essential nutrients.\
+    \ Samples from manure have shown that there is a high content of copper and zinc\
+    \ in manure, and there is therefore a need to know the long-term effects of repeated\
+    \ addition of manure to agricultural land. <br>\n <br>\nAt the same time there\
+    \ is a need to know the risk for animal health and welfare if the amount of copper\
+    \ and zinc in feed is reduced. <br>\n <br>\nThe VKM Panel on Animal Feed is responsible\
+    \ for carrying out this assessment."
+  keywords:
+    default:
+      keywords:
+        subject: http://id.agrisemantics.org/gacs/C615
+        subjectScheme: url
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-08-29'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.830477
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.830476
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Norwegian-Scientific-Committee-for-Food-Safety:
+    individualname: Norwegian Scientific Committee for Food Safety
+    role: creator
+  Norwegian-Scientific-Committee-For-Food-Safety:
+    individualname: Norwegian Scientific Committee For Food Safety
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

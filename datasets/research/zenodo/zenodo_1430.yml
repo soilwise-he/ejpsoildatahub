@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3609532
+  dataseturi: https://doi.org/10.5281/zenodo.3609532
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Use of Sisal Fibre in Flexible Pavement for Reducing of Soil Settlement Effect
+  abstract: Different tests were performed to choose the ideal amount of strands on
+    fortified and unreinforced, for example, compaction tests, CBR tests, and so on.
+    Soil adjustment is the better alternative regarding economy just as vitality somewhat
+    diving for deep establishment or pontoon establishment, which relies upon creator.
+  keywords:
+    default:
+      keywords:
+        subject: http://hbrppublication.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-16'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3609532
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3609531
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rajeev-Mishra:
+    individualname: Rajeev Mishra
+    role: creator
+  Mayank-Gupta:
+    individualname: Mayank Gupta
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, SIRT-E, Bhopal,
+      Madhya Pradesh, India.
+    url: ''
+  Sandeep-Gupta:
+    individualname: Sandeep Gupta
+    role: creator
+  Mishra-Rajeev:
+    individualname: Mishra, Rajeev
+    role: ''
+    organization: Research Scholar, Department of Civil Engineering, SIRT-E, Bhopal,
+      Madhya Pradesh, India.
+    url: ''
+  Gupta-Sandeep:
+    individualname: Gupta, Sandeep
+    role: ''
+    organization: Assistant Professor, Department of Civil Engineering, SIRT-E, Bhopal,
+      Madhya Pradesh, India.
+    url: ''
+content_info: {}

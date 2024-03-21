@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7179410
+  dataseturi: https://doi.org/10.5281/zenodo.7179410
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Texture on Rice Growth and Yield
+  abstract: This article 'Effect of Soil Texture on Rice Growth and Yield' appeared
+    in the International Rice Research Newsletter series, created by the International
+    Rice Research Institute (IRRI). The primary objective of this publication was
+    to expedite communication among scientists concerned with the development of improved
+    technology for rice and for rice based cropping systems. This publication will
+    report what scientists are doing to increase the production of rice in as much
+    as this crop feeds the most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Yields
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1990-08-01'
+    publication: '1990'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7179410
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7179409
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sharma-J.-C.:
+    individualname: Sharma, J. C.
+    role: creator
+    organization: ''
+    url: ''
+  Sharma-A.-P.:
+    individualname: Sharma, A. P.
+    role: creator
+    organization: ''
+    url: ''
+  Agarwal-R.-P.:
+    individualname: Agarwal, R. P.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

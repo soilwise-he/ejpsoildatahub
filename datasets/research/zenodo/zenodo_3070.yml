@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8172247
+  dataseturi: https://doi.org/10.5281/zenodo.8172247
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "EFFECTIVE WAYS TO REDUCE CARBON FOOTPRINT IN A DEEP SOIL MIXING SOLUTION\
+    \ \u2013 A CASE STUDY FROM A HIGH-RISE PROJECT FOUNDATION IN SINGAPORE"
+  abstract: "Construction projects directly impact economies' social, economic and\
+    \ environmental progress. The carbon footprint of construction projects could\
+    \ be reduced in their various phases \u2013 conceptual, design and construction.\
+    \ This paper talks about ways to reduce the carbon footprint of projects during\
+    \ the construction phase using the case study of the development of an 11-storey\
+    \ high-rise building with two basements. The earth retaining and stabilizing structure\
+    \ (ERSS) used diaphragm walls as a retention system with a top-down construction\
+    \ method to facilitate basement construction. A soil improvement block, using\
+    \ two techniques, deep soil mixing (DSM) and Jet Grouting (JG), is constructed\
+    \ below the final excavation level to provide lateral support and stiffness to\
+    \ the retention system. The original design uses CEM I Ordinary Portland Cement\
+    \ (OPC) to produce cement grout in DSM and JG works. To lower the carbon footprint\
+    \ of the solution, the project team followed the carbon hierarchy. A low-carbon\
+    \ replacement for cement, namely ground granulated blast furnace slag (GGBS),\
+    \ is adopted as an alternative. An alternative cement CEM III/A, with 60-65% of\
+    \ OPC replaced with GGBS, is used while complying with the original engineering\
+    \ requirement - unconfined compressive strength (UCS) and stiffness modulus (E)\
+    \ of the DSM columns. In addition, a larger diameter DSM mixing tool is deployed,\
+    \ reducing the resources needed compared with the original smaller diameter. As\
+    \ a result, overall project carbon emissions are reduced by 7% compared to budget\
+    \ carbon emissions. This paper discusses the details of carbon emissions savings\
+    \ and operation aspects that helped achieve carbon reduction."
+  keywords:
+    default:
+      keywords:
+        subject: Carbon reduction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-21'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8172247
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8172246
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Selvaraju-S.:
+    individualname: Selvaraju, S.
+    role: creator
+    organization: Keller Foundations
+    url: ''
+  Tang-C.:
+    individualname: Tang, C.
+    role: creator
+    organization: Keller Foundations
+    url: ''
+  Raj-D.:
+    individualname: Raj, D.
+    role: creator
+    organization: Keller Foundations
+    url: ''
+content_info: {}

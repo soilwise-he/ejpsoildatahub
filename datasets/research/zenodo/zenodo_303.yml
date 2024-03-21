@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hopkins_1909
+  dataseturi: https://doi.org/10.1177/000271620903300312
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Conservation and Preservation of Soil Fertility
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Conservation and Preservation of Soil Fertility
+    url: http://dx.doi.org/10.1177/000271620903300312
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hopkins-C.-G.:
+    individualname: Hopkins, C. G.
+    role: creator
+  Hopkins-Cyril-G.:
+    individualname: Hopkins, Cyril G.
+    role: creator
+  SAGE-Publications:
+    individualname: SAGE Publications
+    role: creator
+content_info: {}

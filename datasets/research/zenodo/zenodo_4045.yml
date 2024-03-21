@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1039623
+  dataseturi: https://doi.org/10.5281/zenodo.1039623
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Estimation On The Radiological Level Of Natural Occurring Radionuclides Present
+    In Flooded Soil Samples In Kaduna North, Nigeria
+  abstract: 'The background radiation of the areas was collected at random for each
+    point using a rados survey meter. The detectors (two rados survey meter were used)
+    were placed 1 meter above the ground with the operator positioned a few meters
+    away. Three (3) readings were taking from each detector in other to reduce error
+    or reach accuracy in obtaining the background readings from each randomly selected
+    point where soil samples were later collected.
+
+
+    In the current study, the concentration levels of naturally occurring radioactive
+    materials (NORMs) of 40K, 232Th, and 238U in the surface soil samples of selected
+    areas in kigo road new extension Kaduna north, Kaduna in Nigeria were studied.
+    The collected soil samples were analyzed by means of gamma-ray spectrometry. The
+    mean activity concentrations of the natural occurring radionuclides of  226Ra,
+    232Th and 40K in the soil samples were estimated to be 62, 78.35, 227.17 Bq/kg
+    respectively for kigo road new extension respectively. Radium equivalent activity,
+    absorbed dose rate, annual effective dose equivalent were also calculated for
+    assessment of radiological risk. External hazard value (Hex) is between 0.3163
+    and 0.9557 and Internal hazard value is between 0.4462 and 1.1618. The worldwide
+    average activity concentrations of 226Ra, 232Th and 40K in soil samples from various
+    studies around the world have values of 37, 30 and 400 Bq/kg respectively [UNSCEAR,
+    2000]. The values compared well with published data from UNSCEAR shows Ra-226,
+    Th-232 from the location are well above the standards while K-40 below the risk
+    value.'
+  keywords:
+    default:
+      keywords:
+        subject: Norms; Gamma-Ray Spectrometry; Sodium Iodide (Nai) Detector; Radium
+          Equivalent Activity; Annual Effective Dose Equivalent; Radiation Hazard
+          Indices.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1039623
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1039622
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.M.-Gyuk:
+    individualname: P.M. Gyuk
+    role: creator
+    organization: ''
+    url: ''
+  J.O.-Anaegbu:
+    individualname: J.O. Anaegbu
+    role: creator
+    organization: ''
+    url: ''
+  H.O.-Aboh:
+    individualname: H.O. Aboh
+    role: creator
+    organization: ''
+    url: ''
+  R.-Daniel:
+    individualname: R. Daniel
+    role: creator
+    organization: ''
+    url: ''
+  A.-Aruwa:
+    individualname: A. Aruwa
+    role: creator
+    organization: ''
+    url: ''
+  B.-Ahmadu:
+    individualname: B. Ahmadu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

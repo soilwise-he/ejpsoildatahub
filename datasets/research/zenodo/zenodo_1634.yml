@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Selmants_2010
+  dataseturi: https://doi.org/10.1890/09-0243.1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Phosphorus and soil development: Does the Walker and Syers model apply to
+    semiarid ecosystems?'
+  abstract: "&lt;p&gt;The Walker and Syers model of phosphorus (P) transformations\
+    \ during pedogenesis is widely accepted for the development of humid ecosystems,\
+    \ but long-term P dynamics of more arid ecosystems remain poorly understood. We\
+    \ tested the Walker and Syers model in semiarid pi\xF1on\u2013juniper woodlands\
+    \ by measuring soil P fractions under tree canopies and in intercanopy spaces\
+    \ along a well-constrained, \u223C3000 ka (1 ka = 1000 years) volcanic substrate\
+    \ age gradient in northern Arizona, USA. The various pools of soil P behaved largely\
+    \ as predicted; total soil P and primary mineral P declined consistently with\
+    \ substrate age, labile inorganic P increased early in soil development and then\
+    \ declined at later stages, and organic phosphorus increased consistently across\
+    \ the chronosequence. Within each site, soils under tree canopies tended to have\
+    \ higher concentrations of labile and intermediately available P fractions compared\
+    \ to intercanopy soils. However, the degree of spatial heterogeneity conferred\
+    \ by tree islands was moderated by the stage of soil development. In contrast,\
+    \ tree islands had no influence on within-site distribution of more recalcitrant\
+    \ soil P pools, which appear to be controlled solely by the stage of pedogenesis.\
+    \ Coincident with declines in total P, primary mineral P, and labile inorganic\
+    \ P, we found that phosphatase enzyme activity increased with substrate age; a\
+    \ result consistent with greater ecosystem-level P demand on older, more highly\
+    \ weathered substrates. Our results suggest that, compared to humid climates,\
+    \ reduced inputs of water, energy, and acidity to semiarid ecosystems slow the\
+    \ rate of change in P fractions during pedogenesis, but the overall pattern remains\
+    \ consistent with the Walker and Syers model. Furthermore, our data imply that\
+    \ pedogenic change may be an important factor controlling the spatial distribution\
+    \ of labile P pools in semiarid ecosystems. Taken together, these data should\
+    \ both broaden and unify terrestrial ecosystem development theory.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Phosphorus and soil development: Does the Walker and Syers model apply
+      to semiarid ecosystems?'
+    url: http://dx.doi.org/10.1890/09-0243.1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Selmants-Paul-C:
+    individualname: Selmants, Paul C
+    role: creator
+  Hart-Stephen-C:
+    individualname: Hart, Stephen C
+    role: creator
+  Selmants-Paul-C.:
+    individualname: Selmants, Paul C.
+    role: creator
+  Hart-Stephen-C.:
+    individualname: Hart, Stephen C.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

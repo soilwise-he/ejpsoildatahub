@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10529815
+  dataseturi: https://doi.org/10.5281/zenodo.10529815
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Experimental study on lateral moisture migration of soil under artificial
+    freezing conditions
+  abstract: "Abstract In this paper, the pollution clays under different freezing\
+    \ temperatures were studied by artificial freezing tests, and the power consumption,\
+    \ the amount of liquid recharging during freezing, the amount of liquid recharging\
+    \ during freezing, and the variation rules of the temperature field and water\
+    \ field during freezing were obtained. And we get the following conclusion: (1)\
+    \ The temperature of the part within 5cm of the frozen plate decreases rapidly\
+    \ and greatly, with a temperature decrease of 31.1\u2103 and a negative temperature\
+    \ value, while the temperature of the part far from the frozen plate decreases\
+    \ slowly and with a small amplitude, which can be generally divided into the rapid\
+    \ cooling stage, slow cooling stage and overall stability stage. (2) Within 10cm\
+    \ of the frozen plate, most of the water in the soil samples exists in the form\
+    \ of ice crystals, and its volumetric water content decreases by 13.63%. In the\
+    \ range beyond 10cm of the frozen plate, with the increase of the distance between\
+    \ the TDR moisture collector and the frozen plate, the decrease of water content\
+    \ becomes smaller and smaller, and the volumetric water content at the furthest\
+    \ distance from the frozen plate decreases by 1.2%. (3) In the static state, after\
+    \ the saturated water replenishment process of 483h, the total water replenishment\
+    \ inside the soil tank is 22.9L; Under freezing conditions, after 423h freezing\
+    \ water replenishment process, the total water replenishment inside the soil tank\
+    \ is 30.23L. By studying the water migration of soil under freezing conditions,\
+    \ the water can enter into the soil and contact the soil to a greater extent,\
+    \ to make a basic analysis for the restoration of heavy metal contaminated soil\
+    \ by the freeze-thaw leaching method."
+  keywords:
+    default:
+      keywords:
+        subject: Artificial freezing, Contaminated clay soil, Temperature gradient,
+          Water replenishment, Water migration
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-30'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10529815
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10529814
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Du-dongdong:
+    individualname: Du dongdong
+    role: creator
+    organization: School of Safety Science and Engineering, Henan Polytechnic University,
+      Jiaozuo Henan 454100, China
+    url: ''
+content_info: {}

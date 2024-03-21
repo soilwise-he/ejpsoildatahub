@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3236002
+  dataseturi: https://doi.org/10.5281/zenodo.3236002
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effects of Organic and Inorganic Fertilizers on Rice Nutrients and Soil
+    Properties in Taungoo University Campus
+  abstract: Agricultural systems are a major factor affecting human health. Soil is
+    one of the important factors for successful cropping in agriculture. The objective
+    of this research was to investigate the effects of control, organic and inorganic
+    fertilizers on soil properties and rice nutrients at Taungoo University Farm.
+    The experiment comprised three treatments viz., control (without fertilizer),
+    organic farming (organic manures including paddy and black gram straw, cow dung)
+    and conventional farming (chemical fertilizers including N, P, K). Soil samples
+    were collected before and after paddy cultivation and analyzed to study the changes
+    in soil properties as influenced by organic farming. Increase in physicochemical
+    properties (moisture, organic carbon, humus), nutrients (N, P, K) and decrease
+    in Fe, Mg contents were noticed in the soil under organic farming when compared
+    to conventional and control farming after paddy cultivation. The nutritional values
+    of the collected rice samples from organic, conventional and control farming such
+    as moisture, ash, fat, fiber and protein were determined by AOAC methods. Mineral
+    contents of rice samples such as K, Na, Ca, Mg and Fe were determined by atomic
+    absorption spectrophotometer. A substantial increase in protein, fiber and decrease
+    in fat were observed in the rice under organic farming. In the above context,
+    it was observed that organic fertilizer caused better quality, safety and nutrition
+    of rice as well as richer soil health.
+  keywords:
+    default:
+      keywords:
+        subject: nutritional values and mineral contents of rice
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-05-31'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3236002
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3236001
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nay-Thwe-Kyi:
+    individualname: Nay Thwe Kyi
+    role: creator
+  Kyaw-Zan-Aung:
+    individualname: Kyaw Zan Aung
+    role: creator
+    organization: ''
+    url: ''
+  Kyi-Nay-Thwe:
+    individualname: Kyi, Nay Thwe
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

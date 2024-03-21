@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3473105
+  dataseturi: https://doi.org/10.5281/zenodo.3473105
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'DETERMINATION OF THE URANIUM CONTENT IN SOME SOIL SAMPLES FROM AJAOKUTA,
+    KOGI STATE: NIGERIA'
+  abstract: "This work present the Uranium (238U) content in soil samples collected\
+    \ in Ajaokuta from some villages was been determined. The measurement of the soil\
+    \ Uranium activity concentration were made using a multi\u2013channel pulse height\
+    \ analyzer (Camberra series 10 plus) coupled to a 76.2mm x 76.2mm NaI (TI) scintillation\
+    \ detector. 2.93) The mean Uranium content in the analyzed samples was found to\
+    \ be (44.26 Bq/kg which is higher than the world mean value of 35Bq/kg. The results\
+    \ were in good agreement with others for soils from region which is considered\
+    \ as normal or slightly high in radioactivity level."
+  keywords:
+    default:
+      keywords:
+        subject: Uranium; Soil Samples; Ajaokuta; Gamma Ray Spectrometry.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-10-08'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3473105
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3473104
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aruwa-Arome:
+    individualname: Aruwa Arome
+    role: creator
+    organization: Department of Science Laboratory, Federal Polytechnic, Idah, Nigeria
+    url: ''
+  Philibus-Musa-Gyuk:
+    individualname: Philibus Musa Gyuk
+    role: creator
+    organization: Department of Physics, Kaduna State University, Kaduna, Nigeria
+    url: ''
+  Achor-Mathias-Ogwo:
+    individualname: Achor Mathias Ogwo
+    role: creator
+    organization: Department of Science Laboratory, Federal Polytechnic, Idah, Nigeria
+    url: ''
+  Isah-Suleiman:
+    individualname: Isah Suleiman
+    role: creator
+    organization: Department of Science Laboratory, Federal Polytechnic, Idah, Nigeria
+    url: ''
+content_info: {}

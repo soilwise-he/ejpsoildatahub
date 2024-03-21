@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7961616
+  dataseturi: https://doi.org/10.5281/zenodo.7961616
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Why grazing and soil matter for dry grassland diversity: New insights from
+    multigroup structural equation modeling of micro-patterns'
+  abstract: 'This is the published version of the paper by Martin et al. 2022, Why
+    grazing and soil matter for dry grassland diversity: New insights from multigroup
+    structural equation modeling of micro-patterns. Frontiers in Ecology and Evolution'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7961616
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7961615
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gabrielle-Martin:
+    individualname: Gabrielle Martin
+    role: creator
+  Anouk-Courtial:
+    individualname: Anouk Courtial
+    role: creator
+  Alexandre-Genin:
+    individualname: "Alexandre G\xE9nin"
+    role: creator
+  Herve-Ramone:
+    individualname: "Herv\xE9 Ramone"
+    role: creator
+  Thierry-Dutoit:
+    individualname: Thierry Dutoit
+    role: creator
+  Martin-Gabrielle:
+    individualname: Martin, Gabrielle
+    role: ''
+    organization: "Laboratoire EDB \xC9volution and Diversit\xE9 Biologique UMR 5174,\
+      \ Universit\xE9 Toulouse 3 Paul Sabatier, UPS, CNRS, IRD, Universit\xE9 de Toulouse,\
+      \ Toulouse, France"
+    url: ''
+  Courtial-Anouk:
+    individualname: Courtial, Anouk
+    role: ''
+    organization: "Institut M\xE9diterran\xE9en de Biodiversit\xE9 et d'Ecologie marine\
+      \ et continentale (IMBE), Univ Avignon, Aix Marseille Univ, CNRS, IRD, IUT site\
+      \ Agroparc, Avignon, France"
+    url: ''
+  Genin-Alexandre:
+    individualname: "G\xE9nin, Alexandre"
+    role: ''
+    organization: Copernicus Institute of Sustainable Development, Utrecht University,
+      Utrecht, Netherlands
+    url: https://orcid.org/0000-0002-3333-1338
+  Ramone-Herve:
+    individualname: "Ramone, Herv\xE9"
+    role: ''
+    organization: "Institut M\xE9diterran\xE9en de Biodiversit\xE9 et d'Ecologie marine\
+      \ et continentale (IMBE), Univ Avignon, Aix Marseille Univ, CNRS, IRD, IUT site\
+      \ Agroparc, Avignon, France"
+    url: ''
+  Dutoit-Thierry:
+    individualname: Dutoit, Thierry
+    role: ''
+    organization: "Institut M\xE9diterran\xE9en de Biodiversit\xE9 et d'Ecologie marine\
+      \ et continentale (IMBE), Univ Avignon, Aix Marseille Univ, CNRS, IRD, IUT site\
+      \ Agroparc, Avignon, France"
+    url: ''
+content_info: {}

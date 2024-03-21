@@ -1,0 +1,184 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10409631
+  dataseturi: https://doi.org/10.5281/zenodo.10409631
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Technical report on aligned definitions and indicators characterizing agricultural
+    soil threats and ecosystem services in various scales - EJP Soil SERENA Deliverable
+    1.2
+  abstract: "The purpose of SERENA\xB4s task 1.2 is to align research-based definitions\
+    \ of soil policy concepts, soil threats, ecosystem services and relevant indicators\
+    \ amongst end-users representing administration, decision makers and farmers from\
+    \ various European countries and pedo-climatic conditions. To communicate definitions\
+    \ and indicators to stakeholders and gather their opinions, an online questionnaire\
+    \ was developed and widely spread around European soil experts. The agreement\
+    \ of participants with proposed definitions and indicator allocations was demanded\
+    \ and the possibility for text comments was provided. The results showed a high\
+    \ level of agreement with the proposed definitions, only a few were rated distinctively\
+    \ lower than the average and therefore chosen for reformulation. As an interesting\
+    \ pattern, it was observed that rather new terms such as Ecosystem Services or\
+    \ Bundles were rated worse than more established ones. The text comments revealed\
+    \ rather clear and consistent critics and proposals for improvement, which were\
+    \ implemented in a set of new terminology."
+  keywords:
+    default:
+      keywords:
+        subject: Soil Science
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-20'
+    available: '2023-12-01'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10409631
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10409630
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Federal-Agency-for-Water-Management-AT--IUNG-PL:
+    individualname: Federal Agency for Water Management, AT & IUNG, PL
+    role: creator
+  Weninger-Thomas:
+    individualname: Weninger, Thomas
+    role: creator
+    organization: Federal Agency for Water Management Austria
+    url: 0000-0001-9004-4426
+  Ramler-David:
+    individualname: Ramler, David
+    role: creator
+    organization: Federal Agency for Water Management Austria
+    url: 0000-0003-4833-0351
+  Bondi-Giulia:
+    individualname: Bondi, Giulia
+    role: creator
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-8896-0262
+  Asins-Velis-Sabina:
+    individualname: Asins-Velis, Sabina
+    role: creator
+    organization: "Centro de Investigaciones sobre Desertificaci\xF3n"
+    url: 0000-0001-5496-3943
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: creator
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+  Assenato-Francesca:
+    individualname: Assenato, Francesca
+    role: creator
+    organization: ''
+    url: ''
+  Astover-Alar:
+    individualname: Astover, Alar
+    role: creator
+    organization: ''
+    url: 0000-0002-8924-6925
+  Bispo-Antonio:
+    individualname: Bispo, Antonio
+    role: creator
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: ''
+  Boruvka-Lubos:
+    individualname: Boruvka, Lubos
+    role: creator
+    organization: ''
+    url: ''
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: creator
+    organization: ''
+    url: ''
+  Calzolari-Costanza:
+    individualname: Calzolari, Costanza
+    role: creator
+    organization: ''
+    url: 0000-0002-2126-9290
+  Castanheira-Nadia:
+    individualname: Castanheira, Nadia
+    role: creator
+    organization: ''
+    url: ''
+  COUSIN-Isabelle:
+    individualname: COUSIN, Isabelle
+    role: creator
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: 0000-0002-6238-5757
+  van-den-Elsen-Erik:
+    individualname: van den Elsen, Erik
+    role: creator
+    organization: Wageningen University & Research
+    url: 0000-0001-5409-9761
+  Fioramonti-Veronica:
+    individualname: Fioramonti, Veronica
+    role: creator
+    organization: ''
+    url: ''
+  Foldal-Cecilie:
+    individualname: Foldal, Cecilie
+    role: creator
+    organization: Austrian Research Centre for Forests
+    url: ''
+  Hessel-Rudi:
+    individualname: Hessel, Rudi
+    role: creator
+    organization: Wageningen Environmental Research
+    url: 0000-0002-1859-309X
+  Kadziuliene-Zydre:
+    individualname: Kadziuliene, Zydre
+    role: creator
+    organization: ''
+    url: ''
+  Kuuk-Liia:
+    individualname: Kuuk, Liia
+    role: creator
+    organization: ''
+    url: ''
+  Molina-Maria-J:
+    individualname: Molina, Maria J
+    role: creator
+    organization: ''
+    url: ''
+  Montagne-David:
+    individualname: Montagne, David
+    role: creator
+    organization: ''
+    url: 0000-0003-4735-4618
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: creator
+    organization: ''
+    url: 0000-0003-1997-4473
+  Pindral-Sylwia:
+    individualname: Pindral, Sylwia
+    role: creator
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0002-1065-8004
+  Ungaro-Fabrizio:
+    individualname: Ungaro, Fabrizio
+    role: creator
+    organization: ''
+    url: 0000-0003-0116-6611
+  Klimkowicz-Pawlas-Agnieszka:
+    individualname: Klimkowicz-Pawlas, Agnieszka
+    role: creator
+    organization: Institute of Soil Science and Plant Cultivation
+    url: ''
+content_info: {}

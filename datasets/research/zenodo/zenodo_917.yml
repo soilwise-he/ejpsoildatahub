@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Meidl_2021
+  dataseturi: https://doi.org/10.3897/mycokeys.81.66249
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil fungal communities of ectomycorrhizal dominated woodlands across West
+    Africa
+  abstract: '&lt;p&gt;Forests and woodlands in the West African Guineo-Sudanian transition
+    zone contain many tree species that form symbiotic interactions with ectomycorrhizal
+    (ECM) fungi. These fungi facilitate plant growth by increasing nutrient and water
+    uptake and include many fruiting body-forming fungi, including some edible mushrooms.
+    Despite their importance for ecosystem functioning and anthropogenic use, diversity
+    and distribution of ECM fungi is severely under-documented in West Africa. We
+    conducted a broad regional sampling across five West African countries using soil
+    eDNA to characterize the ECM as well as the total soil fungal community in gallery
+    forests and savanna woodlands dominated by ECM host tree species. We subsequently
+    sequenced the entire ITS region and much of the LSU region to infer a phylogeny
+    for all detected soil fungal species. Utilizing a long read sequencing approach
+    allows for higher taxonomic resolution by using the full ITS region, while the
+    highly conserved LSU gene allows for a more accurate higher-level assignment of
+    species hypotheses, including species without ITS-based taxonomy assignments.
+    We detect no overall difference in species richness between gallery forests and
+    woodlands. However, additional gallery forest plots and more samples per plot
+    would have been needed to firmly conclude this pattern. Based on both abundance
+    and richness, species from the families Russulaceae and Inocybaceae dominate the
+    ECM fungal soil communities across both vegetation types. The community structure
+    of both total soil fungi and ECM fungi was significantly influenced by vegetation
+    types and showed strong correlation within plots. However, we found no significant
+    difference in fungal community structure between samples collected adjacent to
+    different host tree species within each plot. We conclude that within plots, the
+    fungal community is structured more by the overall ECM host plant community than
+    by the species of the individual host tree that each sample was collected from.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - biodiversity
+      - eDNA
+      - fungal community
+      - gallery forest
+      - Guineo-Sudanian woodlands
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil fungal communities of ectomycorrhizal dominated woodlands across West
+      Africa
+    url: http://dx.doi.org/10.3897/mycokeys.81.66249
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Meidl-Peter:
+    individualname: Meidl, Peter
+    role: creator
+  Furneaux-Brendan:
+    individualname: Furneaux, Brendan
+    role: creator
+  Tchan-Kassim-I.:
+    individualname: Tchan, Kassim I.
+    role: creator
+  Kluting-Kerri:
+    individualname: Kluting, Kerri
+    role: creator
+  Ryberg-Martin:
+    individualname: Ryberg, Martin
+    role: creator
+  Guissou-Marie-Laure:
+    individualname: Guissou, Marie-Laure
+    role: creator
+  Soro-Bakary:
+    individualname: Soro, Bakary
+    role: creator
+  Traore-Aissata:
+    individualname: "Traor\xE9, A\xEFssata"
+    role: creator
+  Konomou-Gbamon:
+    individualname: Konomou, Gbamon
+    role: creator
+  Yorou-Nourou-S.:
+    individualname: Yorou, Nourou S.
+    role: creator
+  Rosling-Anna:
+    individualname: Rosling, Anna
+    role: creator
+content_info: {}

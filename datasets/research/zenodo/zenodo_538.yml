@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cowie_1919
+  dataseturi: https://doi.org/10.1017/s0021859600004731
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Decomposition of cyanamide and dicyanodiamide in the soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Decomposition of cyanamide and dicyanodiamide in the soil
+    url: http://dx.doi.org/10.1017/s0021859600004731
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cowie-G.-A.:
+    individualname: Cowie, G. A.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

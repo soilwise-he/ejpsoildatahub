@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Baker_2017
+  dataseturi: https://doi.org/10.2134/jeq2016.09.0337
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Vertical Stratification of Soil Phosphorus as a Concern for Dissolved Phosphorus
+    Runoff in the Lake Erie Basin
+  abstract:
+  - '&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;During the re-eutrophication of Lake Erie, dissolved reactive phosphorus
+    (DRP) loading and concentrations to the lake have nearly doubled, while particulate
+    phosphorus (PP) has remained relatively constant. One potential cause of increased
+    DRP concentrations is P stratification, or the buildup of soil-test P (STP) in
+    the upper soil layer (&lt;5 cm). Stratification often accompanies no-till and
+    mulch-till practices that reduce erosion and PP loading, practices that have been
+    widely implemented throughout the Lake Erie Basin. To evaluate the extent of P
+    stratification in the Sandusky Watershed, certified crop advisors were enlisted
+    to collect stratified soil samples (0&ndash;5 or 0&ndash;2.5 cm) alongside their
+    normal agronomic samples (0&ndash;20 cm) (n = 1758 fields). The mean STP level
+    in the upper 2.5 cm was 55% higher than the mean of agronomic samples used for
+    fertilizer recommendations. The amounts of stratification were highly variable
+    and did not correlate with agronomic STPs (Spearman&rsquo;s r = 0.039, p = 0.178).
+    Agronomic STP in 70% of the fields was within the buildup or maintenance ranges
+    for corn (Zea mays L.) and soybeans [Glycine max (L.) Merr.] (0&ndash;46 mg kg&minus;1
+    Mehlich 3 P). The cumulative risks for DRP runoff from the large number of fields
+    in the buildup and maintenance ranges exceeded the risks from fields above those
+    ranges. Reducing stratification by a one-time soil inversion has the potential
+    for larger and quicker reductions in DRP runoff risk than practices related to
+    drawing down agronomic STP levels. Periodic soil inversion and mixing, targeted
+    by stratified STP data, should be considered a viable practice to reduce DRP loading
+    to Lake Erie.&lt;/p&gt;'
+  - This work was supported by the Great Lakes Protection Fund (Grant 833). We thank
+    the area CCAs and farmers who cooperated in this study, as well as the many individuals
+    who served on our advisory committee, including representatives from state, province,
+    and federal agencies (from both Canada and the United States), local soil and
+    water conservation districts, fertilizer dealers and manufacturers, and environmental
+    organizations.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Vertical Stratification of Soil Phosphorus as a Concern for Dissolved Phosphorus
+      Runoff in the Lake Erie Basin
+    url: http://dx.doi.org/10.2134/jeq2016.09.0337
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  David-B.-Baker:
+    individualname: David B. Baker
+    role: creator
+  Laura-T.-Johnson:
+    individualname: Laura T. Johnson
+    role: creator
+  Remegio-B.-Confesor:
+    individualname: Remegio B. Confesor
+    role: creator
+  John-P.-Crumrine:
+    individualname: John P. Crumrine
+    role: creator
+  Baker-David-B.:
+    individualname: Baker, David B.
+    role: creator
+  Johnson-Laura-T.:
+    individualname: Johnson, Laura T.
+    role: creator
+  Confesor-Remegio-B.:
+    individualname: Confesor, Remegio B.
+    role: creator
+  Crumrine-John-P.:
+    individualname: Crumrine, John P.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

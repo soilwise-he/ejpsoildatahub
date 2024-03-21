@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Piles_2022
+  dataseturi: https://doi.org/10.1109/TGRS.2021.3057928
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Autocorrelation Metrics to Estimate Soil Moisture Persistence From Satellite
+    Time Series: Application to Semiarid Regions'
+  abstract: '&lt;p&gt;Satellite-derived soil moisture (SM) products have become an
+    important information source for the study of land surface processes in hydrology
+    and land monitoring. Characterizing and estimating soil memory and persistence
+    from satellite observations is of paramount relevance, and has deep implications
+    in ecology, water management, and climate modeling. In this work, we address the
+    problem of SM persistence estimation from microwave sensors using several autocorrelation
+    metrics that, unlike traditional approaches, build on accurate estimates of the
+    autocorrelation function from nonuniformly sampled time series. We show how the
+    choice of the autocorrelation estimator can have a dramatic impact on the SM persistence
+    metrics derived thereof, particularly given the nonuniform nature of satellite
+    observations, yet this fact has been overlooked to a large extent in literature.
+    We give empirical evidence of performance using ground-based SM measurements,
+    as well as L-band Soil Moisture and Ocean Salinity (SMOS) and C-band [Advanced
+    Microwave Scanning Radiometer-2 (AMSR2), Advanced Scatterometer (ASCAT)] remotely
+    sensed SM data. Experiments along transects allow us to scrutinize the inter-method
+    consistency and the spatial-temporal characteristics of autocorrelation estimators.
+    This motivates the introduction of novel measures of spatial-temporal autocorrelation
+    and allows us to retrieve improved persistence estimates. Results over the Iberian
+    Peninsula indicate the SM persistence patterns captured by L- and C-band microwave
+    sensors over semiarid regions exhibit spatially concurrent patterns of persistence
+    and support their combination in long-term data records. We conclude that accounting
+    for the nonuniform nature of the satellite time series using robust autocorrelation
+    estimations allows providing improved measures and spatial descriptions of SM
+    persistence.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Advanced Microwave Scanning Radiometer-2 (AMSR2)
+      - Advanced Scatterometer (ASCAT)
+      - autocorrelation
+      - e-folding time
+      - Least Absolute Shrinkage and Selection Operator (LASSO)
+      - Lomb-Scargle periodogram
+      - microwave sensors
+      - persistence
+      - soil moisture
+      - Soil Moisture and Ocean Salinity (SMOS)
+      - spatial-temporal
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Autocorrelation Metrics to Estimate Soil Moisture Persistence From Satellite
+      Time Series: Application to Semiarid Regions'
+    url: http://dx.doi.org/10.1109/TGRS.2021.3057928
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Piles:
+    individualname: M. Piles
+    role: creator
+  J.-Munoz-Mari:
+    individualname: "J. Mu\xF1oz-Mar\xED"
+    role: creator
+  A.-Guerrero-Curieses:
+    individualname: A. Guerrero-Curieses
+    role: creator
+  G.-Camps-Valls:
+    individualname: G. Camps-Valls
+    role: creator
+  J.L.-Rojo-Alvarez:
+    individualname: "J.L. Rojo-\xC1lvarez"
+    role: creator
+  Piles-Maria:
+    individualname: Piles, Maria
+    role: creator
+  Munoz-Mari-Jordi:
+    individualname: Munoz-Mari, Jordi
+    role: creator
+  Guerrero-Curieses-Alicia:
+    individualname: Guerrero-Curieses, Alicia
+    role: creator
+  Camps-Valls-Gustau:
+    individualname: Camps-Valls, Gustau
+    role: creator
+  Rojo-Alvarez-Jose-Luis:
+    individualname: Rojo-Alvarez, Jose Luis
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

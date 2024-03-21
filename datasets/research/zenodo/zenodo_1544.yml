@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HOWARD_1920
+  dataseturi: https://doi.org/10.1097/00010694-192001000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE REACTION OF THE SOIL AS INFLUENCED BY THE DECOMPOSITION OF GREEN MANURES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE REACTION OF THE SOIL AS INFLUENCED BY THE DECOMPOSITION OF GREEN MANURES
+    url: http://dx.doi.org/10.1097/00010694-192001000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Howard-L.-P.:
+    individualname: Howard, L. P.
+    role: creator
+  HOWARD-L.-P.:
+    individualname: HOWARD, L. P.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

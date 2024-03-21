@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.1109/SIIG2018.001
+  dataseturi: https://doi.org/10.1109/SIIG2018.001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Pemetaan Tingkat Bahaya Erosi Menggunakan Metode RUSLE (Revised Universal
+    Soil Loss Equation) dan SIG di Sub DAS Kali Progo Hulu
+  abstract: '&lt;p&gt;Kali Progo Hulu Sub-watershed is one of the areas that are vulnerable
+    to erosion that lead to land degradation. The existence of the change of uncontrolled
+    land management, high rainfall factor and slope steepness factor, are the parameters
+    that trigger the erosion in this sub-watershed. Erosion is a process of releasing
+    and transporting rock mass naturally from one place to another by a carrying force
+    on the soil surface, which in actual acquisition of data in the field requires
+    time, cost and energy. RUSLE (Revised Universal Soil Loss Equation) is one of
+    the erosion models that can be used to predict erosion by considering the parameters
+    of rainfall erosivity, soil erodibility, slope gradient and length, crop management,
+    and land conservation practices. This research aims to model erosion and map its
+    vulnerability using the RUSLE method in Kali Progo Hulu Sub-watershed. The maps
+    depicting the extent of erosion (EA) are determined by the RUSLE model using rainfall
+    erosivity factor (R), soil erodibility factor (K), length and slope factor (LS),
+    vegetation management (C) and land conservation practices (P). Each factor is
+    made in a thematic map and performed by spatial analysis using GIS that is scoring,
+    overlay (with intersect tools), and by query (EA = R x K x LS x C x P) to formulate
+    data analysis results into map of Erosion Risk Level. Based on the result of RUSLE
+    erosion modelling in 2016, it was found that the erosion risk level in Kali Progo
+    Hulu Sub-watershed was 178,432 Ton/Ha/year, of which 41.37% (13.019,930 Ha) of
+    the total area was included in the category of &quot;Very Light&quot; erosion;
+    9.54% (3.001,419 Ha) &quot;Light weight&quot;; 17.77% (5.593,480 Ha) &quot;Moderate&quot;;
+    19.40 (6.104,411 Ha) &quot;Heavy&quot;; and 11.93% (3.754,301 Ha) &quot;Very Heavy&quot;.
+    Keywords&mdash; Erosion, Sub-watershed, Kali Progo Hulu, RUSLE, GIS.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Erosion
+      - Sub-watershed
+      - Kali Progo Hulu
+      - RUSLE
+      - GIS.
+  status: ''
+  language: ind
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Santosa-Purnama-Budi:
+    individualname: Santosa, Purnama Budi
+    role: creator
+  Rassarandi-Farouki-Dinda:
+    individualname: Rassarandi, Farouki Dinda
+    role: creator
+  Harintaka-Harintaka:
+    individualname: Harintaka, Harintaka
+    role: creator
+content_info: {}

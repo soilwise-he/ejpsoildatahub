@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1130669
+  dataseturi: https://doi.org/10.5281/zenodo.1130669
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Local Soil Conditions On Optimal Load Factors For Seismic Design
+    Of Buildings
+  abstract: Optimal load factors (dead, live and seismic) used for the design of buildings
+    may be different, depending of the seismic ground motion characteristics to which
+    they are subjected, which are closely related to the type of soil conditions where
+    the structures are located. The influence of the type of soil on those load factors,
+    is analyzed in the present study. A methodology that is useful for establishing
+    optimal load factors that minimize the cost over the life cycle of the structure
+    is employed; and as a restriction, it is established that the probability of structural
+    failure must be less than or equal to a prescribed value. The life-cycle cost
+    model used here includes different types of costs. The optimization methodology
+    is applied to two groups of reinforced concrete buildings. One set (consisting
+    on 4-, 7-, and 10-story buildings) is located on firm ground (with a dominant
+    period Ts=0.5 s) and the other (consisting on 6-, 12-, and 16-story buildings)
+    on soft soil (Ts=1.5 s) of Mexico City. Each group of buildings is designed using
+    different combinations of load factors. The statistics of the maximums inter-story
+    drifts (associated with the structural capacity) are found by means of incremental
+    dynamic analyses. The buildings located on firm zone are analyzed under the action
+    of 10 strong seismic records, and those on soft zone, under 13 strong ground motions.
+    All the motions correspond to seismic subduction events with magnitudes M=6.9.
+    Then, the structural damage and the expected total costs, corresponding to each
+    group of buildings, are estimated. It is concluded that the optimal load factors
+    combination is different for the design of buildings located on firm ground than
+    that for buildings located on soft soil.
+  keywords:
+    default:
+      keywords:
+        subject: type of soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-04'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1130669
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1130668
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Miguel-A.-Orellana:
+    individualname: Miguel A. Orellana
+    role: creator
+  Sonia-E.-Ruiz:
+    individualname: Sonia E. Ruiz
+    role: creator
+  Juan-Bojorquez:
+    individualname: "Juan Boj\xF3rquez"
+    role: creator
+  Orellana-Miguel-A.:
+    individualname: Orellana, Miguel A.
+    role: ''
+    organization: ''
+    url: ''
+  Ruiz-Sonia-E.:
+    individualname: Ruiz, Sonia E.
+    role: ''
+    organization: ''
+    url: ''
+  Bojorquez-Juan:
+    individualname: "Boj\xF3rquez, Juan"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

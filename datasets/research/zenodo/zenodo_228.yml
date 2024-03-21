@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8351604
+  dataseturi: https://doi.org/10.5281/zenodo.8351604
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Quality Analysis and Crop Recommendation
+  abstract: Analyzing the qualities of the soil to determine<br> whether it is suitable
+    for supporting plant growth is<br> known as soil quality analysis. It involves
+    assessing many<br> elements, including texture, organic matter content, pH<br>
+    level, and nutrient content. This evaluation assists in<br> locating any soil
+    imbalances or inadequacies that may<br> have an impact on crop productivity. The
+    process of<br> recommending acceptable crops to grow based on the<br> findings
+    of soil analysis and other pertinent parameters is<br> known as crop recommendation.
+    It fits the unique<br> requirements of various crops with the soil characteristics<br>
+    existing on a certain farm or field. By choosing the most<br> suitable crops for
+    the existing soil conditions, the objective<br> is to maximize crop yields and
+    reduce the chance of crop<br> failure.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Moisture, Sensors, Nitrogen, Phosphorus, Potassium, Web Application.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8351604
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8351603
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thanushree-T.:
+    individualname: Thanushree, T.
+    role: creator
+    organization: ''
+    url: ''
+  Shreya-Lokannavar:
+    individualname: Shreya Lokannavar
+    role: creator
+  Vidya-J.:
+    individualname: Vidya, J.
+    role: creator
+    organization: ''
+    url: ''
+  Sirisha-K.-R.:
+    individualname: Sirisha K., R.
+    role: creator
+    organization: ''
+    url: ''
+  Shushma-B.-Malipatil:
+    individualname: Shushma B. Malipatil
+    role: creator
+    organization: ''
+    url: ''
+  Lokannavar-Shreya:
+    individualname: Lokannavar, Shreya
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

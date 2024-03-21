@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LIPMAN_1920
+  dataseturi: https://doi.org/10.1097/00010694-192002000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE LIME FACTOR IN PERMANENT SOIL IMPROVEMENT II. ROTATIONS WITH LEGUMES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE LIME FACTOR IN PERMANENT SOIL IMPROVEMENT II. ROTATIONS WITH LEGUMES
+    url: http://dx.doi.org/10.1097/00010694-192002000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lipman-J.-G.:
+    individualname: Lipman, J. G.
+    role: creator
+  Blair-A.-W.:
+    individualname: Blair, A. W.
+    role: creator
+  LIPMAN-J.-G.:
+    individualname: LIPMAN, J. G.
+    role: creator
+  BLAIR-A.-W.:
+    individualname: BLAIR, A. W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

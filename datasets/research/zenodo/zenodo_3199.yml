@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6516150
+  dataseturi: https://doi.org/10.5281/zenodo.6516150
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: High Soil Erosion Potential Areas and Their Prioritization for Rehabilitation
+    using a Modified Relative Erosion Potential Index In the Upper Bued River Watershed,
+    Tuba, Benguet, Philippines.
+  abstract: Evaluation of Soil Erosion Potential Measures indicates the suitability
+    of using a rescaled Relative Erosion Potential Index (over USLE, RUSLE and MUSLE)
+    in the Upper Blue River Watershed. 500 x 500m cell raster coding of average slope
+    (in %, from quadrant search), land cover, and porosity (derived from soil type)
+    enabled simple multiplication of average rainfall of the rainiest month, average
+    slope, WRI-supplied values for soil type and land cover/use which gives rise to
+    the Relative Erosion Potential (REP) index. Rescaling (from 0 to 1 for minimum
+    and maximum) of the REP index facilitated statistical classification of the rescaled
+    REP cell scores, resulting in the identification of 12 areas warranting priority
+    work for rehabilitation. These 12 areas are marked by steep to very steep slopes
+    (all &gt;50%), grassland cover, and are dominated by porous soil types. Six of
+    these areas, in order of priority, are within the watershed, namely Camp 6, NE
+    Camp 5, SE PMA, NW Camp 4, East Camp 3, and NE Sto. Tomas areas. The other six
+    areas lie outside of the watershed; Philex North, Philex Minesite, NW Sto. Tomas,
+    Banget are mostly within the Philex mining operations where reforestation is ongoing.
+    The Saddle and Acupan Areas are astride the Philex Road. Vegetative measures,
+    such as tree species, especially those endemic to the area and suited to high
+    elevation, steep slopes, thin, calcareous, lateritic or acidic soils are recommended.
+    Vines and creeping plants, including bamboo and rattan which will hold and protect
+    the soil from direct rainfall impact, retain moisture, provide organic matter,
+    retard runoff, and provide products for domestic consumption and commercial use
+    are also recommended. Simple engineering measures at smaller scales for runoff
+    control such as check damns, wattling, fascines and slope protection such as riprapping
+    are recommend if proven to be cost-effective relative to the value of the downstream
+    sites to be protected. The methodology, as well as results of this study, can
+    be improved with updated land cover data and consideration of soil loss potential
+    due to mass movement. Results of this study are recommended to be disseminated
+    and discussed with relevant stakeholders to hasten progress in mitigating soil
+    loss in the area.<br>
+  keywords:
+    default:
+      keywords:
+        subject: Blue River Watershed
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2003-06-18'
+    publication: '2003'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6516150
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6516149
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Flores-Ramon-Antonio-L.:
+    individualname: Flores, Ramon Antonio L.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Noguerales_2021
+  dataseturi: https://doi.org/10.1111/mec.16275
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Community metabarcoding reveals the relative role of environmental filtering
+    and spatial processes in metacommunity dynamics of soil microarthropods across
+    a mosaic of montane forests
+  abstract: '&lt;p&gt;Disentangling the relative role of environmental filtering and
+    spatial processes in driving metacommunity structure across mountainous regions
+    remains challenging, as the way we quantify spatial connectivity in topographically
+    and environmentally heterogeneous landscapes can influence our perception of which
+    process predominates. More empirical data sets are required to account for taxon-
+    and context-dependency, but relevant research in understudied areas is often compromised
+    by the taxonomic impediment. Here we used haplotype-level community DNA metabarcoding,
+    enabled by stringent filtering of amplicon sequence variants (ASVs), to characterize
+    metacommunity structure of soil microarthropod assemblages across a mosaic of
+    five forest habitats on the Troodos mountain range in Cyprus. We found similar
+    &beta; diversity patterns at ASV and species (OTU, operational taxonomic unit)
+    levels, which pointed to a primary role of habitat filtering resulting in the
+    existence of largely distinct metacommunities linked to different forest types.
+    Within-habitat turnover was correlated to topoclimatic heterogeneity, again emphasizing
+    the role of environmental filtering. However, when integrating landscape matrix
+    information for the highly fragmented&nbsp;&lt;em&gt;Quercus alnifolia&lt;/em&gt;&nbsp;habitat,
+    we also detected a major role of spatial isolation determined by patch connectivity,
+    indicating that stochastic and niche-based processes synergistically govern community
+    assembly. Alpha diversity patterns varied between ASV and OTU levels, with OTU
+    richness decreasing with elevation and ASV richness following a longitudinal gradient,
+    potentially reflecting a decline of genetic diversity eastwards due to historical
+    pressures. Our study demonstrates the utility of haplotype-level community metabarcoding
+    for characterizing metacommunity structure of complex assemblages and improving
+    our understanding of biodiversity dynamics across mountainous landscapes worldwide.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - amplicon sequence variants
+      - circuit theory
+      - Cyprus
+      - habitat connectivity
+      - habitat filtering
+      - operational taxonomic units
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Community metabarcoding reveals the relative role of environmental filtering
+      and spatial processes in metacommunity dynamics of soil microarthropods across
+      a mosaic of montane forests
+    url: http://dx.doi.org/10.1111/mec.16275
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Noguerales-Victor:
+    individualname: "Noguerales, V\xEDctor"
+    role: creator
+  Meramveliotakis-Emmanouil:
+    individualname: Meramveliotakis, Emmanouil
+    role: creator
+  Castro-Insua-Adrian:
+    individualname: "Castro\u2010Insua, Adri\xE1n"
+    role: creator
+  Andujar-Carmelo:
+    individualname: "And\xFAjar, Carmelo"
+    role: creator
+  Arribas-Paula:
+    individualname: Arribas, Paula
+    role: creator
+  Creedy-Thomas-J.:
+    individualname: Creedy, Thomas J.
+    role: creator
+  Overcast-Isaac:
+    individualname: Overcast, Isaac
+    role: creator
+  Morlon-Helene:
+    individualname: "Morlon, H\xE9l\xE8ne"
+    role: creator
+  Emerson-Brent-C.:
+    individualname: Emerson, Brent C.
+    role: creator
+  Vogler-Alfried-P.:
+    individualname: Vogler, Alfried P.
+    role: creator
+  Papadopoulou-Anna:
+    individualname: Papadopoulou, Anna
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

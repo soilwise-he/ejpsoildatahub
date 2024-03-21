@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.3390/ land11060774
+  dataseturi: https://doi.org/10.3390/ land11060774
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Investigating plant response to soil characteristics and slope positions
+    in a small catchment
+  abstract: "&lt;p&gt;Methods enabling stakeholders to receive information on plant\
+    \ stress in agricultural settings&lt;/p&gt;&lt;p&gt;in a timely manner can help\
+    \ mitigate a possible decrease in plant productivity. The present work&lt;/p&gt;&lt;p&gt;aims\
+    \ to study the soil\u2013plant interaction using field measurements of plant reflectance,\
+    \ soil water&lt;/p&gt;&lt;p&gt;content, and selected soil physical and chemical\
+    \ parameters. Particular emphasis was placed on&lt;/p&gt;&lt;p&gt;sloping transects.\
+    \ We further compared ground- and Sentinel-2 satellite-based Normalized Vegetation&lt;/p&gt;&lt;p&gt;Index\
+    \ (NDVI) time series data in different land use types. The Photochemical Reflectance\
+    \ Index (PRI)&lt;/p&gt;&lt;p&gt;and NDVI were measured concurrently with calculating\
+    \ the fraction of absorbed photochemically&lt;/p&gt;&lt;p&gt;active radiation\
+    \ (fAPAR) and leaf area index (LAI) values of three vegetation types (a grassland,&lt;/p&gt;&lt;p&gt;three\
+    \ vineyard sites, and a cropland with maize). Each land use site had an upper\
+    \ and a lower&lt;/p&gt;&lt;p&gt;study point of a given slope. The NDVI, fAPAR,\
+    \ and LAI averaged values were the lowest for&lt;/p&gt;&lt;p&gt;the grassland\
+    \ (0.293, 0.197, and 0.51, respectively), which showed the highest signs of water\
+    \ stress.&lt;/p&gt;&lt;p&gt;Maize had the highest NDVI values (0.653) among vegetation\
+    \ types. Slope position affected NDVI,&lt;/p&gt;&lt;p&gt;PRI, and fAPAR values\
+    \ significantly for the grassland and cropland (p &lt; 0.05), while the soil water&lt;/p&gt;&lt;p&gt;content\
+    \ (SWC) was different for all three vineyard sites (p &lt; 0.05). The strongest\
+    \ connections were&lt;/p&gt;&lt;p&gt;observed between soil physical and chemical\
+    \ parameters and NDVI values for the vineyard samples&lt;/p&gt;&lt;p&gt;and the\
+    \ selected soil parameters and PRI for the grassland. Measured and satellite-retrieved\
+    \ NDVI&lt;/p&gt;&lt;p&gt;values of the different land use types were compared,\
+    \ and strong correlations (r = 0.761) between&lt;/p&gt;&lt;p&gt;the methods were\
+    \ found. For the maize, the satellite-based NDVI values were higher, while for\
+    \ the&lt;/p&gt;&lt;p&gt;grassland they were slightly lower compared to the field-based\
+    \ measurements. Our study indicated&lt;/p&gt;&lt;p&gt;that incorporating Sentinel-derived\
+    \ NDVI can greatly improve the value of field monitoring and&lt;/p&gt;&lt;p&gt;provides\
+    \ an opportunity to extend field research in more depth. The present study further\
+    \ highlights&lt;/p&gt;&lt;p&gt;the close relations in the soil\u2013plant\u2013\
+    water system, and continuous monitoring can greatly help in&lt;/p&gt;&lt;p&gt;developing\
+    \ site-specific climate change mitigating methods.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zsigmond-Tibor:
+    individualname: Zsigmond, Tibor
+    role: creator
+  Braun-Peter:
+    individualname: "Braun, P\xE9ter"
+    role: creator
+  Meszaros-Janos:
+    individualname: "M\xE9sz\xE1ros, J\xE1nos"
+    role: creator
+  Waltner-Istvan:
+    individualname: "Waltner, Istv\xE1n"
+    role: creator
+  Horel-Agota:
+    individualname: "Horel, \xC1gota"
+    role: creator
+content_info: {}

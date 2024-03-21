@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Annuar_2022
+  dataseturi: https://doi.org/10.12928/telkomnika.v20i1.22463
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Investigation of temperature gradient between ambient air and  soil to power
+    up wireless sensor network device using a  thermoelectric generator
+  abstract: "&lt;p&gt;This paper proposes a study of an energy harvesting system for\
+    \ powering wireless sensor network (WSN) devices. The thermal energy harvesting\
+    \ system used is based on the thermal energy source between ambient air at the\
+    \ soil surface with five depth levels. Measurement was taken for 46 days in a\
+    \ garden area located in Melaka, Malaysia. A feasibility study of soil temperature\
+    \ measurement to obtain a temperature gradient can be used for harvesting by using\
+    \ thermoelectric generators (TEG) modules. Then, the efficiency of TEG with several\
+    \ different configurations based on temperature gradient data has been tested\
+    \ in the laboratory. The results revealed that the depth of soil 6 cm between\
+    \ sensors 1 and 3 will gave the best representation of level average temperature\
+    \ different around 1 \u2103. Based on the temperature gradient data, the combination\
+    \ of three TEG SP1848 in a series connection with DC-DC step-up circuit DC1664\
+    \ will produce an optimum voltage output of about 3 V. This output voltage is\
+    \ enough to operate low power IoT device derived from thermal energy.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Energy harvesting
+      - Internet of thing
+      - Soil depth
+      - Soil temperature
+      - Thermal energy
+      - Thermoelectric
+      - Wireless sensor network
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Investigation of temperature gradient between ambient air and  soil to power
+      up wireless sensor network device using a  thermoelectric generator
+    url: http://dx.doi.org/10.12928/telkomnika.v20i1.22463
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khalil-Azha-Mohd-Annuar:
+    individualname: Khalil Azha Mohd Annuar
+    role: creator
+  Ramizi-Mohamed:
+    individualname: Ramizi Mohamed
+    role: creator
+  Yushaizad-Yusof:
+    individualname: Yushaizad Yusof
+    role: creator
+  Annuar-Khalil-Azha-Mohd:
+    individualname: Annuar, Khalil Azha Mohd
+    role: creator
+  Mohamed-Ramizi:
+    individualname: Mohamed, Ramizi
+    role: creator
+  Yusof-Yushaizad:
+    individualname: Yusof, Yushaizad
+    role: creator
+  Universitas-Ahmad-Dahlan:
+    individualname: Universitas Ahmad Dahlan
+    role: creator
+content_info: {}

@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6815593
+  dataseturi: https://doi.org/10.5281/zenodo.6815593
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The processed dataset for manuscript entitled "Soil moisture-vegetation interaction
+    from near-global in-situ soil moisture measurements"
+  abstract: "<strong>Data description</strong> The data in the .csv file has been\
+    \ applied to analyze the distribution patterns of SM-LAI anomaly correlation.\
+    \ It contains processed soil moisture data from the ISMN dataset and processed\
+    \ LAI data from MODIS observation. Each .csv file contains data date and time\
+    \ series in all grid cells (latitude/longitude), the missing LAI data is due to\
+    \ the missing data of in-situ SM data. The spatial resolution of the data is 500\
+    \ m (43200\xD786400), with temporal resolutions of 8 days during 2000-2015. <strong>Data-use</strong>\
+    \ Please cite the following paper as a description of data usage: --------------------------------------------------------------------------------------------------------------------------------\
+    \ Li, S., &amp; Sawada, Y. (2022). Soil moisture-vegetation interaction from near-global\
+    \ in-situ soil moisture measurements. Environmental Research Letters, 17 (11).\
+    \ https://doi.org/10.1088/1748-9326/ac9c1f --------------------------------------------------------------------------------------------------------------------------------"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-07-11'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6815593
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1088/1748-9326/ac9c1f
+    type: WWW:LINK
+    title: IsSourceOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.5735424
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shuping-Li:
+    individualname: Shuping Li
+    role: creator
+  Yohei-Sawada:
+    individualname: Yohei Sawada
+    role: creator
+  Li-Shuping:
+    individualname: Li, Shuping
+    role: ''
+    organization: The University of Tokyo
+    url: https://orcid.org/0000-0001-8936-0114
+  Sawada-Yohei:
+    individualname: Sawada, Yohei
+    role: ''
+    organization: The University of Tokyo
+    url: ''
+content_info: {}

@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Boken_2016
+  dataseturi: https://doi.org/10.1109/tiar.2016.7801210
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Potential of soil \xE2\u20AC\u201Dmoisture-estimating technology for monitoring\
+    \ crop yields and assessing drought impacts-case studies in the United States"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Potential of soil \xE2\u20AC\u201Dmoisture-estimating technology for monitoring\
+      \ crop yields and assessing drought impacts-case studies in the United States"
+    url: http://dx.doi.org/10.1109/tiar.2016.7801210
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Boken-Vijendra-K.:
+    individualname: Boken, Vijendra K.
+    role: creator
+  Boken-Vijendra-K:
+    individualname: Boken, Vijendra K
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

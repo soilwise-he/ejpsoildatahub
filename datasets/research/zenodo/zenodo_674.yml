@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8216508
+  dataseturi: https://doi.org/10.5281/zenodo.8216508
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Temporal and Spatial Variability of the Soil Macropore Tortuosity of Marshland
+    Soils in Northern Germany as Influenced by Soil Management Including Liming
+  abstract: "The soil oxygen diffusion coefficient (Ds) was determined for structured\
+    \ topsoil (0.1 m) and subsoil (0.3 m) samples of a clayey and a silty marshland\
+    \ soil, classified as Haplic Gleysol. The undisturbed soil samples were equilibrated\
+    \ to a soil matric potential equal to -6 kPa, excavated 7, 12, and \u226524 months\
+    \ after liming with a double chamber system. No lime, and either limestone (CaCO3)\
+    \ or quicklime (CaO) was incorporated each in two intensities into the ploughed\
+    \ topsoils at two sampling sites. In combination with the values of the airfilled\
+    \ and total porosities, and with the help of a linear fitting factor, f, measured\
+    \ gas diffusion coefficients were fitted to the Millington-Quirk (MQ) tortuosity\
+    \ model to better match simulated and measured Ds values. Seven months after lime\
+    \ application, the f\u2013values ranged between 0.013 and 0.500, indicating a\
+    \ more tortuous pore systems than predicted by the MQ model (f = 1). The f\u2013\
+    values increased continuously with time or were highest 12 to \u226524 months\
+    \ after CaO application for the topsoils. For each subsoil, the values were in\
+    \ the same order of magnitude after 7 and 12 months and increased \u226524 months\
+    \ after lime application. The results show, that the soil macropore tortuosity\
+    \ as reflected by the f\u2013value is highly dynamic at the time and spatial domains.\
+    \ The direct effects of liming on the f\u2013values cannot be determined due to\
+    \ several interactions between liming and biotic, abiotic, and management-induced\
+    \ soil aggregate formation processes. The results indicate that the f\u2013 values\
+    \ increased with liming and that lime-induced soil structural changes are not\
+    \ spatially restricted to the topsoil layer where the lime had been applied."
+  keywords:
+    default:
+      keywords:
+        subject: arable soil; gas transport; Millington-Quirk; Pore connectivity;
+          diffusivity, lime treatment
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8216508
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8216507
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Haas-Christoph:
+    individualname: Haas, Christoph
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, University of Kiel
+    url: ''
+  Horn-Rainer:
+    individualname: Horn, Rainer
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, University of Kiel
+    url: ''
+content_info: {}

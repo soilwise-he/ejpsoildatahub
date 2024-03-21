@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MACINTIRE_1919
+  dataseturi: https://doi.org/10.1097/00010694-191911000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE LIBERATION OF NATIVE SOIL POTASSIUM INDUCED BY DIFFERENT CALCIC AND MAGNESIC
+    MATERIALS, AS MEASURED BY LYSIMETER LEACHINGS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE LIBERATION OF NATIVE SOIL POTASSIUM INDUCED BY DIFFERENT CALCIC AND
+      MAGNESIC MATERIALS, AS MEASURED BY LYSIMETER LEACHINGS
+    url: http://dx.doi.org/10.1097/00010694-191911000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Macintire-W.-H.:
+    individualname: Macintire, W. H.
+    role: creator
+  MACINTIRE-W.-H.:
+    individualname: MACINTIRE, W. H.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

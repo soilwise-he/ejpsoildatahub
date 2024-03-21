@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4590192
+  dataseturi: https://doi.org/10.5281/zenodo.4590192
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Preprint
+identification:
+  title: 'Preprint: Topographic Wetness Index as a proxy for soil moisture: the importance
+    of flow-routing algorithm and grid resolution'
+  abstract: "The Topographic Wetness Index (TWI) is a commonly used proxy for soil\
+    \ moisture. The predictive capability of TWI is influenced by the flow-routing\
+    \ algorithm and the resolution of the Digital Elevation Model (DEM) that TWI is\
+    \ derived from. Here, we examine the predictive capability of TWI using 11 flow-routing\
+    \ algorithms at DEM resolutions 1 - 30 m. We analyze the relationship between\
+    \ TWI and field-quantified soil moisture using statistical modelling methods and\
+    \ 5200 study plots with over 46 000 soil moisture measurements. In addition, we\
+    \ test the sensitivity of the flow-routing algorithms against vertical height\
+    \ errors in DEM at different resolutions. The results reveal that the overall\
+    \ predictive capability of TWI was modest. The highest R2 (23.7%) was reached\
+    \ using a multiple-flow-direction algorithm at 2 m resolution. In addition, the\
+    \ test of sensitivity against height errors revealed that the multiple-flow-direction\
+    \ algorithms were also more robust against DEM errors than single-flow-direction\
+    \ algorithms. The results provide field-evidence indicating that at its best TWI\
+    \ is a modest proxy for soil moisture and its predictive capability is influenced\
+    \ by the flow-routing algorithm and DEM resolution. Thus, we encourage careful\
+    \ evaluation of algorithms and resolutions when using TWI as a proxy for soil\
+    \ moisture. Riihim\xE4ki, Kemppinen, Kopeck\xFD &amp; Luoto (Preprint). Topographic\
+    \ Wetness Index as a proxy for soil moisture: the importance of flow-routing algorithm\
+    \ and grid resolution. Zenodo. Riihim\xE4ki, Kemppinen, Kopeck\xFD &amp; Luoto\
+    \ (2021). Data from: Topographic Wetness Index as a proxy for soil moisture: the\
+    \ importance of flow-routing algorithm and grid resolution. Zenodo."
+  keywords:
+    default:
+      keywords:
+        subject: Grid resolution
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-16'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4590192
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4590184
+    type: WWW:LINK
+    title: Documents
+  r1:
+    url: https://doi.org/10.5281/zenodo.4590191
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Riihimaki-Henri:
+    individualname: "Riihim\xE4ki, Henri"
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0002-5727-6492
+  Kemppinen-Julia:
+    individualname: Kemppinen, Julia
+    role: creator
+    organization: University of Oulu
+    url: https://orcid.org/0000-0001-7521-7229
+  Kopecky-Martin:
+    individualname: "Kopeck\xFD, Martin"
+    role: creator
+    organization: Institute of Botany of the Czech Academy of Sciences
+    url: https://orcid.org/0000-0001-5958-7027
+  Luoto-Miska:
+    individualname: Luoto, Miska
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0001-6203-5143
+content_info: {}

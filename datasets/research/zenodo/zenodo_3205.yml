@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.399065
+  dataseturi: https://doi.org/10.5281/zenodo.399065
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Informational Technology For Model Operation Of The List And Collapses Of
+    The Base Of The Building Because Of Influence Of The Water Saturation Of The Soil
+  abstract: "Results of a research on clarification of regularities of a list and\
+    \ collapse of the base the building depending on the degree of a water saturation\
+    \ of the layered soil basis received by information technology are given in the\
+    \ article: computer modelling of the VAT by means of MKE on the basis of the model\
+    \ of the inclined and laminated massif of Zh. S. Erzhanov, Sh. M. Aitaliyev, Zh.\
+    \ K. Masanov. Problem definition is proved by the analysis of mass collapses of\
+    \ houses of the whole residential district \u201CBesoba\u201D of the city of Karaganda\
+    \ of Kazakhstan. Ephyra of deformation of the base and buildings depending on\
+    \ the direction, volume and places of penetration of filtration waters into the\
+    \ soil basis with numerical data are shown.\n\nThe detailed analysis of results\
+    \ of researches is stated."
+  keywords:
+    default:
+      keywords:
+        subject: crack
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-03-15'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.399065
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Baimakhan-A.:
+    individualname: Baimakhan, A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10167508
+  dataseturi: https://doi.org/10.5281/zenodo.10167508
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of pesticide residues in soil substrates on the biology cycle of
+    Aedes aegypti from three different setting zones in Benin
+  abstract: "In order to evaluate the effects of insecticides residues in soil substrates\
+    \ on the biology cycle of Aedes aegypti, we conducted a study in three ecological\
+    \ zones: urban areas (Dandji, southern Benin with few agriculture activities),\
+    \ peri urban areas (Awaya, central of Benin with agriculture practices), and forests\
+    \ (Kaoura, northern Benin with few agriculture activities). These areas were chosen\
+    \ because they provided an ideal environment for the development of Aedes aegypti.\
+    \ The purpose of this study is to look for insecticide residues that may have\
+    \ detrimental impacts on the biology cycle of A. aegypti. Indirect bioassays were\
+    \ used to investigate the factors affecting mosquito larvae's ability to develop\
+    \ normally at breeding sites, their rate of growth, and their ability to produce\
+    \ an adequate number of larvae. Due to the absence of an HPLC equipment for the\
+    \ direct detection of pesticide residues in samples, A. aegypti larvae at breeding\
+    \ sites were reconstituted using water and soil samples obtained at each study\
+    \ site. A comparison of the larval growth in test breeding locations was made\
+    \ using the reference strain SBE as a control. The different bioassays demonstrate\
+    \ the existence of inhibitory elements on test materials. In control samples,\
+    \ larval development was observed to be normal. However, when the breeding sites\
+    \ were established with just a few grams of soil samples from the three study\
+    \ sites, it was found that the A. aegypti eggs had a poor hatching rate, along\
+    \ with sluggish larval development and a low production of adult mosquitoes from\
+    \ hatched eggs. The findings of this study indicate that toxic substances that\
+    \ prevent A. aegypti eggs from hatching and larvae from growing are most likely\
+    \ leftover pesticides from agricultural operations. In order to quantify the toxic\
+    \ factors likely to affect the biology parameters of A. aegypti cited above, these\
+    \ results must be validated using HPLC techniques.\npublished by the \_Journal\
+    \ of Biodiversity and Environmental Sciences (JBES)\n\_"
+  keywords:
+    default:
+      keywords:
+        subject: Benin
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-01-06'
+    available: '2023-01-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10167508
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10167507
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  International-Network-for-Natural-Sciences-|-INNSpub:
+    individualname: International Network for Natural Sciences | INNSpub
+    role: creator
+  Yadouleton-Anges:
+    individualname: Yadouleton, Anges
+    role: creator
+    organization: "Ecole Normale Sup\xE9rieure de Natitingou, Universit\xE9 Nationale\
+      \ des Sciences, Technologies, Ing\xE9nierie et Math\xE9matiques (UNSTIM), B\xE9\
+      nin"
+    url: ''
+  Sanoussi-Falilath:
+    individualname: Sanoussi, Falilath
+    role: Researcher
+    organization: "Laboratoire des Fi\xE8vres H\xE9morragiques Virales et des Arbovirus\
+      \ du B\xE9nin"
+    url: ''
+  Badou-Yvette:
+    individualname: Badou, Yvette
+    role: Researcher
+    organization: "Laboratoire des Fi\xE8vres H\xE9morragiques Virales et des Arbovirus\
+      \ du B\xE9nin"
+    url: ''
+  Hounkanrin-Gildas:
+    individualname: Hounkanrin, Gildas
+    role: Researcher
+    organization: "Laboratoire des Fi\xE8vres H\xE9morragiques Virales et des Arbovirus\
+      \ du B\xE9nin"
+    url: ''
+  Tchibozo-Carine:
+    individualname: Tchibozo, Carine
+    role: Researcher
+    organization: "Laboratoire des Fi\xE8vres H\xE9morragiques Virales et des Arbovirus\
+      \ du B\xE9nin"
+    url: ''
+  Agbanrin-Ramziyath:
+    individualname: Agbanrin, Ramziyath
+    role: Researcher
+    organization: "Centre de Recherche Entomologique de Cotonou, B\xE9nin"
+    url: ''
+  Adewumi-Praise:
+    individualname: Adewumi, Praise
+    role: Researcher
+    organization: "Laboratoire des Fi\xE8vres H\xE9morragiques Virales et des Arbovirus\
+      \ du B\xE9nin"
+    url: ''
+  Baba-Moussa-Lamine:
+    individualname: Baba-Moussa, Lamine
+    role: Researcher
+    organization: "Laboratoire de Biologie ET de Typage Mol\xE9culaire en Microbiologie,\
+      \ D\xE9partement de Biochimie ET de Biologie Cellulaire, Facult\xE9 des Sciences\
+      \ ET Techniques, Universit\xE9 d'Abomey-Calavi, Cotonou, Benin"
+    url: ''
+content_info: {}

@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1107409
+  dataseturi: https://doi.org/10.5281/zenodo.1107409
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessing The Potential Of A Waste Material For Cement Replacement And The
+    Effect Of Its Fineness In Soft Soil Stabilisation
+  abstract: This paper represents the results of experimental work to investigate
+    the suitability of a waste material (WM) for soft soil stabilisation. In addition,
+    the effect of particle size distribution (PSD) of the waste material on its performance
+    as a soil stabiliser was investigated. The WM used in this study is produced from
+    the incineration processes in domestic energy power plant and it is available
+    in two different grades of fineness (coarse waste material (CWM) and fine waste
+    material (FWM)). An intermediate plasticity silty clayey soil with medium organic
+    matter content has been used in this study. The suitability of the CWM and FWM
+    to improve the physical and engineering properties of the selected soil was evaluated
+    dependant on the results obtained from the consistency limits, compaction characteristics
+    (optimum moisture content (OMC) and maximum dry density (MDD)); along with the
+    unconfined compressive strength test (UCS). Different percentages of CWM were
+    added to the soft soil (3, 6, 9, 12 and 15%) to produce various admixtures. Then
+    the UCS test was carried out on specimens under different curing periods (zero,
+    7, 14, and 28 days) to find the optimum percentage of CWM. The optimum and other
+    two percentages (either side of the optimum content) were used for FWM to evaluate
+    the effect of the fineness of the WM on UCS of the stabilised soil. Results indicated
+    that both types of the WM used in this study improved the physical properties
+    of the soft soil where the index of plasticity (IP) was decreased significantly.
+    IP was decreased from 21 to 13.64 and 13.10 with 12% of CWM and 15% of FWM respectively.
+    The results of the unconfined compressive strength test indicated that 12% of
+    CWM was the optimum and this percentage developed the UCS value from 202kPa to
+    500kPa for 28 days cured samples, which is equal, approximately 2.5 times the
+    UCS value for untreated soil. Moreover, this percentage provided 1.4 times the
+    value of UCS for stabilized soil-CWA by using FWM which recorded just under 700kPa
+    after 28 days curing.
+  keywords:
+    default:
+      keywords:
+        subject: and unconfined compressive strength.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-06-04'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1107409
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1107408
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hassnen-M.-Jafer:
+    individualname: Hassnen M. Jafer
+    role: creator
+    organization: ''
+    url: ''
+  W.-Atherton:
+    individualname: W. Atherton
+    role: creator
+    organization: ''
+    url: ''
+  F.-Ruddock:
+    individualname: F. Ruddock
+    role: creator
+    organization: ''
+    url: ''
+  E.-Loffil:
+    individualname: E. Loffil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

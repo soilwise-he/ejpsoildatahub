@@ -1,0 +1,197 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.25674-so94iss1id178
+  dataseturi: https://doi.org/10.25674/so94iss1id178
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Global monitoring of soil animal communities using a common methodology
+  abstract: "Potapov, Anton M., Sun, Xin, Barnes, Andrew D., Briones, Maria J. I.,\
+    \ Brown, George G., Cameron, Erin K., Chang, Chih-Han, Cortet, J\xE9r\xF4me, Eisenhauer,\
+    \ Nico, Franco, Andr\xE9 L.C., Fujii, Saori, Geisen, Stefan, Gongalsky, Konstantin\
+    \ B., Guerra, Carlos, Haimi, Jari, Handa, I. Tanya, Janion-Scheepers, Charlene,\
+    \ Karaban, Kamil, Lindo, Zo\xEB, Mathieu, J\xE9r\xF4me, Moreno, Mar\xEDa Laura,\
+    \ Murvanidze, Maka, Nielsen, Uffe N., Scheu, Stefan, Schmidt, Olaf, Schneider,\
+    \ Clement, Seeber, Julia, Tsiafouli, Maria A., Tuma, Jiri, Tiunov, Alexei V.,\
+    \ Zaitsev Frank Ashwood, Andrey S., Callaham, Mac, Wall, Diana H. (2022): Global\
+    \ monitoring of soil animal communities using a common methodology. Soil Organisms\
+    \ 94 (1): 55-68, DOI: 10.25674/so94iss1id178, URL: http://dx.doi.org/10.25674/so94iss1id178"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.25674/so94iss1id178
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Potapov-Anton-M.:
+    individualname: Potapov, Anton M.
+    role: creator
+    organization: ''
+    url: ''
+  Sun-Xin:
+    individualname: Sun, Xin
+    role: creator
+    organization: ''
+    url: ''
+  Barnes-Andrew-D.:
+    individualname: Barnes, Andrew D.
+    role: creator
+    organization: ''
+    url: ''
+  Briones-Maria-J.-I.:
+    individualname: Briones, Maria J. I.
+    role: creator
+    organization: ''
+    url: ''
+  Brown-George-G.:
+    individualname: Brown, George G.
+    role: creator
+    organization: ''
+    url: ''
+  Cameron-Erin-K.:
+    individualname: Cameron, Erin K.
+    role: creator
+    organization: ''
+    url: ''
+  Chang-Chih-Han:
+    individualname: Chang, Chih-Han
+    role: creator
+    organization: ''
+    url: ''
+  Cortet-Jerome:
+    individualname: "Cortet, J\xE9r\xF4me"
+    role: creator
+    organization: ''
+    url: ''
+  Eisenhauer-Nico:
+    individualname: Eisenhauer, Nico
+    role: creator
+    organization: ''
+    url: ''
+  Franco-Andre-L.C.:
+    individualname: "Franco, Andr\xE9 L.C."
+    role: creator
+    organization: ''
+    url: ''
+  Fujii-Saori:
+    individualname: Fujii, Saori
+    role: creator
+    organization: ''
+    url: ''
+  Geisen-Stefan:
+    individualname: Geisen, Stefan
+    role: creator
+    organization: ''
+    url: ''
+  Gongalsky-Konstantin-B.:
+    individualname: Gongalsky, Konstantin B.
+    role: creator
+    organization: ''
+    url: ''
+  Guerra-Carlos:
+    individualname: Guerra, Carlos
+    role: creator
+    organization: ''
+    url: ''
+  Haimi-Jari:
+    individualname: Haimi, Jari
+    role: creator
+    organization: ''
+    url: ''
+  Handa-I.-Tanya:
+    individualname: Handa, I. Tanya
+    role: creator
+    organization: ''
+    url: ''
+  Janion-Scheepers-Charlene:
+    individualname: Janion-Scheepers, Charlene
+    role: creator
+    organization: ''
+    url: ''
+  Karaban-Kamil:
+    individualname: Karaban, Kamil
+    role: creator
+    organization: ''
+    url: ''
+  Lindo-Zoe:
+    individualname: "Lindo, Zo\xEB"
+    role: creator
+    organization: ''
+    url: ''
+  Mathieu-Jerome:
+    individualname: "Mathieu, J\xE9r\xF4me"
+    role: creator
+    organization: ''
+    url: ''
+  Moreno-Maria-Laura:
+    individualname: "Moreno, Mar\xEDa Laura"
+    role: creator
+    organization: ''
+    url: ''
+  Murvanidze-Maka:
+    individualname: Murvanidze, Maka
+    role: creator
+    organization: ''
+    url: ''
+  Nielsen-Uffe-N.:
+    individualname: Nielsen, Uffe N.
+    role: creator
+    organization: ''
+    url: ''
+  Scheu-Stefan:
+    individualname: Scheu, Stefan
+    role: creator
+    organization: ''
+    url: ''
+  Schmidt-Olaf:
+    individualname: Schmidt, Olaf
+    role: creator
+    organization: ''
+    url: ''
+  Schneider-Clement:
+    individualname: Schneider, Clement
+    role: creator
+  Seeber-Julia:
+    individualname: Seeber, Julia
+    role: creator
+  Tsiafouli-Maria-A.:
+    individualname: Tsiafouli, Maria A.
+    role: creator
+  Tuma-Jiri:
+    individualname: Tuma, Jiri
+    role: creator
+  Tiunov-Alexei-V.:
+    individualname: Tiunov, Alexei V.
+    role: creator
+  Zaitsev-Frank-Ashwood-Andrey-S.:
+    individualname: Zaitsev Frank Ashwood, Andrey S.
+    role: creator
+  Callaham-Mac:
+    individualname: Callaham, Mac
+    role: creator
+  Wall-Diana-H.:
+    individualname: Wall, Diana H.
+    role: creator
+content_info: {}

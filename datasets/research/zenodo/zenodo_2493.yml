@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: T__1922
+  dataseturi: https://doi.org/10.2307/2255750
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The Soils of Blakeney Point: A Study of Soil Reaction and Succession in
+    Relation to the Plant Covering.'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The Soils of Blakeney Point: A Study of Soil Reaction and Succession in
+      Relation to the Plant Covering.'
+    url: http://dx.doi.org/10.2307/2255750
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.-A.-G.:
+    individualname: T., A. G.
+    role: creator
+  Salisbury-E.-J.:
+    individualname: Salisbury, E. J.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

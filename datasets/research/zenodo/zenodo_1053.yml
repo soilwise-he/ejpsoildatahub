@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6324517
+  dataseturi: https://doi.org/10.5281/zenodo.6324517
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Background Movement Effects in Tracer-diffusion in Pure and Soil Systems
+  abstract: "Department of Agricultural Chemistry &amp;. Soil Science. Bidhan Chandra\
+    \ Krishi Viswavidyalaya, Kalyani-741 235 <em>Manuscript received 6 July 1984,\
+    \ accepted 29 October 1985</em> Tracer-diffusion experiments in pure and soil\
+    \ systems have been conducted in order to provide an experimental test of the\
+    \ predictions regarding ionic (background) movement in tracer\xB7 diffusion. The\
+    \ effect of valency of tracer cation on such background movement has also been\
+    \ investigated, and the results agree, at a qualitative level, with those predicted\
+    \ theoretically."
+  keywords:
+    default:
+      keywords:
+        subject: background
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1985-10-31'
+    publication: '1985'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6324517
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6324516
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Miss-S.-BANDYOPADHYAY:
+    individualname: (Miss) S. BANDYOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

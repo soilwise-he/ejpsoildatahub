@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6961690
+  dataseturi: https://doi.org/10.5281/zenodo.6961690
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of mining tailing waste on properties of cement stabilized black cotton
+    soil
+  abstract: "In most cases, not all available materials for road construction do meet\
+    \ the nominal requirements, as such; stabilization becomes necessary. This study\
+    \ presents the results of a laboratory experiments carried out to assess the effect\
+    \ of mining tailing waste (MTW) as an admixture to ordinary Portland cement (OPC)\
+    \ stabilized Black Cotton Soil (BCS). The MTW was obtained from a tin mining site\
+    \ in Bukuru, Jos South LGA of Plateau State, Nigeria, while the BCS was obtained\
+    \ along Kanawa-Jauro-Gotel road, in Yemaltu-Deba, Gombe, Nigeria. The specimens\
+    \ were prepared by admixing the four blends of OPC stabilized BCS (using 0, 4,\
+    \ 6, and 8% OPC) with stepped percentage of MTW(0, 5, 10, 15 and 20%) by dry weight\
+    \ of BCS. Atterberg\u2019s limits, Sieve analysis, Compaction, soaked California\
+    \ Bearing Ratio (CBR) and Unconfined Compressive Strength (UCS) test were carried\
+    \ out on the natural and stabilized BCS. The BCS classifies A \u2013 7 \u2013\
+    \ 6 (40) and CH (high plasticity clay) according to the American Association of\
+    \ State Highway and Transport Officials (AASHTO M 145-2012) and the Unified Soil\
+    \ Classification System (ASTM D 2487-2011), respectively. Addition of MTW to OPC\
+    \ stabilized BCS affected the compaction characteristics and improved both the\
+    \ soaked CBR, and the UCS. The optimum blend was achieved with 20% MTW admixed\
+    \ to BCS stabilized with 8% OPC which gave a 4-days soaked CBR value of 35% and\
+    \ a 7 days cured UCS value of 1273 kN/m2. This satisfies the sub-base requirements\
+    \ of the Nigerian general specifications. Thus, this study recommends the use\
+    \ of 20% MTW with 8% OPC for BCS stabilization."
+  keywords:
+    default:
+      keywords:
+        subject: Black Cotton Soil; California Bearing Ratio; Mining Tailing Waste;
+          Plasticity Index; Unconfined Compressive Strength
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6961690
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6961689
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aliyu-Abubakar:
+    individualname: Aliyu Abubakar
+    role: creator
+    organization: Department of Civil Engineering, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+  Ibrahim-Ikara-Abdulkarim:
+    individualname: Ibrahim Ikara Abdulkarim
+    role: creator
+  Sa'eed-Yusuf-Umar:
+    individualname: Sa'eed Yusuf Umar
+    role: creator
+    organization: Department of Civil Engineering, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+  Abdulkarim-Ibrahim-Ikara:
+    individualname: Abdulkarim, Ibrahim Ikara
+    role: ''
+    organization: Department of Civil Engineering, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+content_info: {}

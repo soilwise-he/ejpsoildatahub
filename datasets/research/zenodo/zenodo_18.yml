@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Marbut_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010009x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Classification
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Classification
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010009x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marbut-Curtis-F.:
+    individualname: Marbut, Curtis F.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

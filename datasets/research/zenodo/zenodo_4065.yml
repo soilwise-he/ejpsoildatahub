@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1125971
+  dataseturi: https://doi.org/10.5281/zenodo.1125971
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'A Statistical Model For The Geotechnical Parameters Of Cement-Stabilised
+    Hightown''S Soft Soil: A Case Stufy Of Liverpool, Uk'
+  abstract: This study investigates the effect of two important parameters (length
+    of curing period and percentage of the added binder) on the strength of soil treated
+    with OPC. An intermediate plasticity silty clayey soil with medium organic content
+    was used in this study. This soft soil was treated with different percentages
+    of a commercially available cement type 32.5-N. laboratory experiments were carried
+    out on the soil treated with 0, 1.5, 3, 6, 9, and 12% OPC by the dry weight to
+    determine the effect of OPC on the compaction parameters, consistency limits,
+    and the compressive strength. Unconfined compressive strength (UCS) test was carried
+    out on cement-treated specimens after exposing them to different curing periods
+    (1, 3, 7, 14, 28, and 90 days). The results of UCS test were used to develop a
+    non-linear multi-regression model to find the relationship between the predicted
+    and the measured maximum compressive strength of the treated soil (qu). The results
+    indicated that there was a significant improvement in the index of plasticity
+    (IP) by treating with OPC; IP was decreased from 20.2 to 14.1 by using 12% of
+    OPC; this percentage was enough to increase the UCS of the treated soil up to
+    1362 kPa after 90 days of curing. With respect to the statistical model of the
+    predicted qu, the results showed that the regression coefficients (R2) was equal
+    to 0.8534 which indicates a good reproducibility for the constructed model.
+  keywords:
+    default:
+      keywords:
+        subject: multi-regression model.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-06-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1125971
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1125970
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hassnen-M.-Jafer:
+    individualname: Hassnen M. Jafer
+    role: creator
+    organization: ''
+    url: ''
+  Khalid-S.-Hashim:
+    individualname: Khalid S. Hashim
+    role: creator
+  W.-Atherton:
+    individualname: W. Atherton
+    role: creator
+    organization: ''
+    url: ''
+  Ali-W.-Alattabi:
+    individualname: Ali W. Alattabi
+    role: creator
+  Hashim-Khalid-S.:
+    individualname: Hashim, Khalid S.
+    role: ''
+    organization: ''
+    url: ''
+  Alattabi-Ali-W.:
+    individualname: Alattabi, Ali W.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

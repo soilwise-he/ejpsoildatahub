@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7527765
+  dataseturi: https://doi.org/10.5281/zenodo.7527765
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of Organic and Inorganic Fertilizers on Microbial Populations at Various
+    Altitudes of Nepal in Paddy Field Soil Systems
+  abstract: Soil microbes are important in processes such as soil aggregate formation,
+    nitrogen cycling, compound breakdown, and other transformations. Understanding
+    how microorganisms react to chemical and organic fertilizers is critical for long-term
+    agricultural intensification. Soil samples were collected from three distinct
+    ecological sites of Nepal including terai (Parwanipur), mid-hills (Pakhribas),
+    and high hills (Jumla) during winter seasons for period of three years 2017, 2018,
+    and 2019. Sandy loam soils of Agricultural Research Farm, NARC, were used to assess
+    the effects of compost and inorganic fertilizers on microbial dynamics in the
+    continuous rice wheat cropping system. The results showed that the farmyard manure-treated
+    plot had the highest microbial population counts (fungal and bacterial) in all
+    years, followed by the inorganically treated plot and the control at all locations.
+    The Pakhribas location had the highest bacterial and fungal population across
+    all treatments. A significant change in fungal population was observed between
+    treatments and experimental sites. Across all treatments, the Jumla location had
+    the lowest fungus population and Pakhribas had the highest.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-01-12'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7527765
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7527764
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saraswoti-Kandel:
+    individualname: Saraswoti Kandel
+    role: creator
+    organization: ''
+    url: ''
+  Pratiksha-Sharma:
+    individualname: Pratiksha Sharma
+    role: creator
+    organization: ''
+    url: ''
+  Suraj-Chaudhary:
+    individualname: Suraj Chaudhary
+    role: creator
+  Chaudhary-Suraj:
+    individualname: Chaudhary, Suraj
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

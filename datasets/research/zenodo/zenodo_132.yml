@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6327128
+  dataseturi: https://doi.org/10.5281/zenodo.6327128
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spatio-temporal prediction of soil moisture using soil maps, topographic
+    indices and SMAP retrievals
+  abstract: "The work presented looks at methods to model field measured spatio-temporal\
+    \ variations of soil moisture content (SMC, [%vol]) \u2013 a crucial factor for\
+    \ soil strength and thus trafficability. We incorporated large-scaled maps of\
+    \ soil characteristics, high-resolution topographic information \u2013 depth-to-water\
+    \ (DTW) and topographic wetness index \u2013 and openly available temporal soil\
+    \ moisture retrievals provided by the NASA Soil Moisture Active Passive mission.\
+    \ Time-series measurements of SMC were captured at six study sites across Europe.\
+    \ These data were then used to develop linear models, a generalized additive model,\
+    \ and the machine learning algorithms Random Forest (RF) and eXtreme Gradient\
+    \ Boosting (XGB). The models were trained on a randomly selected 10% subset of\
+    \ the dataset."
+  keywords:
+    default:
+      keywords:
+        subject: trafficability prediction, forest operations, machine learning, precision
+          forestry, eXtreme Gradient Boosting, Soil Moisture Active Passive
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-02-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6327128
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5691526
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schonauer-Marian:
+    individualname: "Sch\xF6nauer, Marian"
+    role: creator
+    organization: "University of G\xF6ttingen, G\xF6ttingen, Germany"
+    url: https://orcid.org/0000-0003-2179-2898
+  Prinz-Robert:
+    individualname: Prinz, Robert
+    role: creator
+    organization: Natural Resources Institute Finland (Luke), Helsinki, Finland
+    url: https://orcid.org/0000-0002-1593-6974
+  Vaatainen-Kari:
+    individualname: "V\xE4\xE4t\xE4inen, Kari"
+    role: creator
+    organization: Natural Resources Institute Finland (Luke), Helsinki, Finland
+    url: https://orcid.org/0000-0002-6886-0432
+  Astrup-Rasmus:
+    individualname: Astrup, Rasmus
+    role: creator
+    organization: "Norwegian Institute of Bioeconomy Research (NIBIO), \xC5s, Norway"
+    url: ''
+  Pszenny-Dariusz:
+    individualname: Pszenny, Dariusz
+    role: creator
+    organization: "Warsaw University of Life Sciences \u2013 SGGW, Warsaw, Poland"
+    url: https://orcid.org/0000-0002-1645-8900
+  Lindeman-Harri:
+    individualname: Lindeman, Harri
+    role: creator
+    organization: Natural Resources Institute Finland (Luke), Helsinki, Finland
+    url: ''
+  Jaeger-Dirk:
+    individualname: Jaeger, Dirk
+    role: creator
+    organization: "University of G\xF6ttingen, G\xF6ttingen, Germany"
+    url: ''
+content_info: {}

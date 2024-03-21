@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6780126
+  dataseturi: https://doi.org/10.5281/zenodo.6780126
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of Environmental Variables on Carbon Mineralization in Diverse
+    Soil Management Systems Under Maize Cropping in Kwara State, Nigeria
+  abstract: "Understanding the influence of agricultural soil management practices\
+    \ on soil processes and the environment is vital for sustainable food production.\
+    \ Therefore, this study evaluated the impact of soil temperature and moisture\
+    \ on soil organic carbon mineralisation under synthetic (NPK) and organic (biochar)\
+    \ amendments in a maize cropping system in Ilorin, Southern Guinea Savanna of\
+    \ Nigeria. The objectives were to determine the C mineralisation and C sequestering\
+    \ potential under each amendment and assess how precipitation amounts and soil\
+    \ temperature influence carbon mineralisation. Two soil types (Anthrodensic Ustorthent\
+    \ and Typic Ustorthent) were used, and four treatments (control, NPK, biochar+NPK,\
+    \ and biochar) replicated thrice were laid out in completely randomised design\
+    \ on each soil. Soil respiration was measured in-situ by the alkali absorption\
+    \ method. Data collected was subjected to analysis of variance procedure for complete\
+    \ randomized design to determine significant differences in treatment means, correlation\
+    \ and regression analyses were also carried out to test the relationships amongst\
+    \ experimental factors and variable responses. Results showed that evaluated nutrient\
+    \ management options did not significantly influence C mineralisation. C mineralisation,\
+    \ however, differed between soils, with Typic Ustorthent having higher organic\
+    \ carbon (OC), total CO2 emission (82.35 mg) and mean CO2 emission rates (1.18\
+    \ mg m -2 d -1 ). Correlation analysis showed differing relationships between\
+    \ soil temperature and C mineralisation under the different treatments and soils,\
+    \ with significant positive correlation (r=0.44; p= \u2264 0.05) recorded only\
+    \ under sole biochar treatment in the Typic Ustorthent. Rainfall amounts had no\
+    \ significant correlation with C mineralisation"
+  keywords:
+    default:
+      keywords:
+        subject: C mineralisation, C sequestration, Entisols, rainfall, temperature,
+          SOC
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-29'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6780126
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6780125
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Isimikalu-Theophilus-Olufemi:
+    individualname: Isimikalu, Theophilus Olufemi
+    role: creator
+    organization: Department of Agronomy, Faculty of Agriculture, University of Ilorin,
+      Ilorin
+    url: ''
+  Olaniyan-John-Olajide:
+    individualname: Olaniyan, John Olajide
+    role: creator
+    organization: Department of Agronomy, Faculty of Agriculture, University of Ilorin,
+      Ilorin
+    url: ''
+  Alasinrin-Sikiru-Yusuf:
+    individualname: Alasinrin, Sikiru Yusuf
+    role: creator
+    organization: Department of Agronomy, Faculty of Agriculture, University of Ilorin,
+      Ilorin
+    url: ''
+  Wahab-Adesina-Abudlkabir:
+    individualname: Wahab, Adesina Abudlkabir
+    role: creator
+    organization: Department of Crop Production, College of Agriculture, Kwara State
+      University
+    url: ''
+  Salifu-Ufedo-Meshach:
+    individualname: Salifu, Ufedo Meshach
+    role: creator
+    organization: Department of Horticultural and Landscape Technology, School of
+      Agricultural Technology
+    url: ''
+content_info: {}

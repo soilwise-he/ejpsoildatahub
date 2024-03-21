@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4282251
+  dataseturi: https://doi.org/10.5281/zenodo.4282251
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Utilization of Salt Water Cord Grass Fibres for Stabilizing Kuttanad Soil
+  abstract: The process of stabilizing soil has been practiced by our ancestors from
+    time immortal and is continuing now also. Soil stabilization deals with different
+    methods done for modifying the engineering properties of soil. In this work, properties
+    of Kuttanad soil is improved by using Saltwater cord grass fibres of 2cm length
+    and mean diameter 0.07cm. The tests performed include compaction and UCS tests.
+    In order to stabilize soil, amount of fibre is kept constant as 0.5% and varying
+    lime contents (2%, 4%, 6% &amp; 8%) is added to soil. The optimum lime content
+    was 6%. The longevity of fibres is also evaluated by subjecting it to continuous
+    immersion in water and lime solution.
+  keywords:
+    default:
+      keywords:
+        subject: Kuttanad soil, salt water cord grass, lime, UCS test, longevity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-20'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4282251
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4282250
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Divyaprasad-S.P.:
+    individualname: Divyaprasad, S.P.
+    role: creator
+    organization: P.G. Student, Department of Civil Engineering, Sarabhai Institute
+      of Science & Technology, Thiruvanthapuram, Kerela, India.
+    url: ''
+  Sunil-J.:
+    individualname: Sunil, J.
+    role: creator
+    organization: Associate Professor, Department of Civil Engineering, Sarabhai Institute
+      of Science & Technology, Thiruvanthapuram, Kerela, India.
+    url: ''
+  Vishnu-P.B.:
+    individualname: Vishnu, P.B.
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Sarabhai Institute
+      of Science & Technology, Thiruvanthapuram, Kerela, India.
+    url: ''
+content_info: {}

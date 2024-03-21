@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4519075
+  dataseturi: https://doi.org/10.5281/zenodo.4519075
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Species-specific effects of biocrust-forming lichens on soil properties under
+    simulated climate change are driven by functional traits
+  abstract: "Biocrusts are key drivers of ecosystem functioning in drylands, yet our\
+    \ understanding of how climate change will affect the chemistry of biocrust-forming\
+    \ species and their impacts on carbon (C) and nitrogen (N) cycling is still very\
+    \ limited. Using a manipulative experiment conducted with common biocrust-forming\
+    \ lichens with distinct morphology and chemistry (<em>Buellia zoharyi, Diploschistes\
+    \ diacapsis</em>, <em>Psora decipiens</em> and <em>Squamarina lentigera</em>),\
+    \ we evaluated changes in lichen total and isotopic C and N and several soil C\
+    \ and N variables after 50 months of simulated warming and rainfall reduction.\
+    \ Climate change treatments reduced \u03B4<sup>13</sup>C and C:N ratio in <em>B.\
+    \ zoharyi</em>, and increased \u03B4<sup>15</sup>N in <em>S. lentigera</em>. Lichens\
+    \ had species-specific effects on soil dissolved organic N (DON), , \u03B2-glucosidase\
+    \ and acid phosphatase activity regardless of climate change treatments, while\
+    \ these treatments changed how lichens affected several soil properties regardless\
+    \ of biocrust species. Changes in thallus \u03B4<sup>13</sup>C, N and C:N drove\
+    \ species-specific effects on DON, , \u03B2-glucosidase and acid phosphatase activity.\
+    \ Our findings indicate that warmer and drier conditions will alter the chemistry\
+    \ of biocrust-forming lichens, affecting soil nutrient cycling, and emphasize\
+    \ their key role as modulators of climate change impacts in dryland soils."
+  keywords:
+    default:
+      keywords:
+        subject: soil fertility
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    available: '2021-06-12'
+    accepted: '2020-12-12'
+    issued: '2020'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4519075
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4519074
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Laura-Concostrina-Zubiri:
+    individualname: Laura Concostrina-Zubiri
+    role: creator
+  Enrique-Valencia:
+    individualname: Enrique Valencia
+    role: creator
+  Victoria-Ochoa:
+    individualname: Victoria Ochoa
+    role: creator
+  Beatriz-Gozalo:
+    individualname: Beatriz Gozalo
+    role: creator
+  Betty-J.-Mendoza:
+    individualname: Betty J. Mendoza
+    role: creator
+  Fernando-T.-Maestre:
+    individualname: Fernando T. Maestre
+    role: creator
+  Concostrina-Zubiri-Laura:
+    individualname: Concostrina-Zubiri, Laura
+    role: ''
+    organization: Universidad Rey Juan Carlos
+    url: https://orcid.org/0000-0001-7781-6030
+  Valencia-Enrique:
+    individualname: Valencia, Enrique
+    role: ''
+    organization: Universidad Rey Juan Carlos
+    url: https://orcid.org/0000-0003-3359-0759
+  Ochoa-Victoria:
+    individualname: Ochoa, Victoria
+    role: ''
+    organization: Universidad de Alicante
+    url: https://orcid.org/0000-0002-2055-2094
+  Gozalo-Beatriz:
+    individualname: Gozalo, Beatriz
+    role: ''
+    organization: Universidad de Alicante
+    url: ''
+  Mendoza-Betty-J.:
+    individualname: Mendoza, Betty J.
+    role: ''
+    organization: Universidad Rey Juan Carlos
+    url: https://orcid.org/0000-0003-1149-7801
+  Maestre-Fernando-T.:
+    individualname: Maestre, Fernando T.
+    role: ''
+    organization: 0000-0002-7434-4856
+    url: https://orcid.org/0000-0002-7434-4856
+content_info: {}

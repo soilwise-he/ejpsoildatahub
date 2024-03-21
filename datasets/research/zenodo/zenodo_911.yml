@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pechlivani_2023
+  dataseturi: https://doi.org/10.3390/mi14091698
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: IoT-Based Agro-Toolbox for Soil Analysis and Environmental Monitoring
+  abstract: '&lt;p&gt;The agricultural sector faces numerous challenges in ensuring
+    optimal soil health and environmental conditions for sustainable crop production.
+    Traditional soil analysis methods are often time-consuming and labor-intensive,
+    and provide limited real-time data, making it challenging for farmers to make
+    informed decisions. In recent years, Internet of Things (IoT) technology has emerged
+    as a promising solution to address these challenges by enabling efficient and
+    automated soil analysis and environmental monitoring. This paper presents a 3D-printed
+    IoT-based Agro-toolbox, designed for comprehensive soil analysis and environmental
+    monitoring in the agricultural domain. The toolbox integrates various sensors
+    for both soil and environmental measurements. By deploying this tool across fields,
+    farmers can continuously monitor key soil parameters, including pH levels, moisture
+    content, and temperature. Additionally, environmental factors such as ambient
+    temperature, humidity, intensity of visible light, and barometric pressure can
+    be monitored to assess the overall health of agricultural ecosystems. To evaluate
+    the effectiveness of the Agro-toolbox, a case study was conducted in an aquaponics
+    floating system with rocket, and benchmarking was performed using commercial tools
+    that integrate sensors for soil temperature, moisture, and pH levels, as well
+    as for air temperature, humidity, and intensity of visible light. The results
+    showed that the Agro-toolbox had an acceptable error percentage, and it can be
+    useful for agricultural applications.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: IoT-Based Agro-Toolbox for Soil Analysis and Environmental Monitoring
+    url: http://dx.doi.org/10.3390/mi14091698
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Eleftheria-Maria-Pechlivani:
+    individualname: Eleftheria Maria Pechlivani
+    role: creator
+  Athanasios-Papadimitriou:
+    individualname: Athanasios Papadimitriou
+    role: creator
+  Sotirios-Pemas:
+    individualname: Sotirios Pemas
+    role: creator
+  Georgios-Ntinas:
+    individualname: Georgios Ntinas
+    role: creator
+  Dimitrios-Tzovaras:
+    individualname: Dimitrios Tzovaras
+    role: creator
+  Pechlivani-Eleftheria-Maria:
+    individualname: Pechlivani, Eleftheria Maria
+    role: creator
+  Papadimitriou-Athanasios:
+    individualname: Papadimitriou, Athanasios
+    role: creator
+  Pemas-Sotirios:
+    individualname: Pemas, Sotirios
+    role: creator
+  Ntinas-Georgios:
+    individualname: Ntinas, Georgios
+    role: creator
+  Tzovaras-Dimitrios:
+    individualname: Tzovaras, Dimitrios
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

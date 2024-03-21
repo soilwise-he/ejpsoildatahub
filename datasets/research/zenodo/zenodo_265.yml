@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Livingston_1906
+  dataseturi: https://doi.org/10.1111/j.1949-8594.1906.tb02859.x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: PARAFFINED WIRE POTS FOR SOIL CULTURES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: PARAFFINED WIRE POTS FOR SOIL CULTURES
+    url: http://dx.doi.org/10.1111/j.1949-8594.1906.tb02859.x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Livingston-B.-E.:
+    individualname: Livingston, B. E.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

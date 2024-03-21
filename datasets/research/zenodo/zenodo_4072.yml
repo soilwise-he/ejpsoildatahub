@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1055355
+  dataseturi: https://doi.org/10.5281/zenodo.1055355
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effectiveness Of Mineral Fertilization Of Winter Wheat By Nitrogen In
+    The Soil And Climatic Conditions In The Cr
+  abstract: 'The basis of examines is survey of 500 in the years
+
+    2002-2010, which was selected according to homogeneity of land
+
+    cover and where 1090 revenues were evaluated. For achieved yields
+
+    of winter wheat is obtained multicriterial regression function
+
+    depending on the major factors influencing the consumption of
+
+    nitrogen. The coefficient of discrimination of the established model is
+
+    0.722. The increase in efficiency of fertilization is involved in supply
+
+    of organic nutrients, tillage, soil pH, past weather, the humus content
+
+    in the subsoil and grain content to 0.001 mm. The decrease in
+
+    efficiency was mainly influenced by the total dose of mineral
+
+    nitrogen, although it was divided into multiple doses, the proportion
+
+    loamy particles up to 0.01 mm, rainy, or conversely dry weather
+
+    during the vegetation. The efficiency of nitrogen was found to be the
+
+    smallest on undeveloped soils and the highest on chernozem and
+
+    alluvial soils.'
+  keywords:
+    default:
+      keywords:
+        subject: regression model
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-11-23'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1055355
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1055354
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vaclav-Voltr:
+    individualname: "V\xE1clav Voltr"
+    role: creator
+  Jan-Lestina:
+    individualname: "Jan Le\u0161tina"
+    role: creator
+  Voltr-Vaclav:
+    individualname: "Voltr, V\xE1clav"
+    role: ''
+    organization: ''
+    url: ''
+  Lestina-Jan:
+    individualname: "Le\u0161tina, Jan"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

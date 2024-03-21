@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Langella_2020
+  dataseturi: https://doi.org/10.1002/ldr.3628
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil Monitor: an internet platform to challenge soil sealing in Italy'
+  abstract: '&lt;p&gt;This work proposes a new type of web-based geospatial decision
+    support system&mdash;called Soil Monitor&mdash;which provides a multidisciplinary
+    operational tool useful for a multi-stakeholder community to challenge soil sealing.
+    Various technological and technical features of Soil Monitor are presented and
+    discussed with particular reference to the combination of WebGIS with on-the-fly
+    geospatial processing based on GPU computing, specifically designed to allow real-time
+    requests. In addition, we present three quantitative analysis of soil sealing
+    at three different scales. The study at national level illustrated that the type
+    of land use strongly affected soil-sealing dynamics. Indeed, the class&nbsp;&lt;em&gt;complex
+    cultivation pattern&lt;/em&gt;&nbsp;resulted the most fragile land use while&nbsp;&lt;em&gt;forests&lt;/em&gt;&nbsp;resulted
+    the most resilient one. The study at province level illustrated the key importance
+    of having on-the-fly the map of rural fragmentation for any Italian province.
+    This map&mdash;quantifying the landscape integrity of the rural and natural areas&mdash;enables
+    to better locate both new green corridors or new urban developments minimizing
+    the environmental impact of human activities. The study at municipality level
+    demonstrated the importance of quantifying a pool of spatial planning indicators
+    and illustrated that (a) the largest urban dispersion occurs in hilly touristic
+    municipalities close to the sea, (b) the increase in soil sealing in rural sites
+    is not related to population growth. As a result, Soil Monitor is deemed useful
+    both to support decision making at different spatial scales and to raise awareness
+    in people, professionals, and experts of other fields. Keywords soil sealing,
+    geospatial decision support system, compute unified device architecture, graphical
+    processing unit computing, urban planning.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - CUDA
+      - geospatial decision support system
+      - GPU computing
+      - soil sealing
+      - urban planning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil Monitor: an internet platform to challenge soil sealing in Italy'
+    url: http://dx.doi.org/10.1002/ldr.3628
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Langella-Giuliano:
+    individualname: Langella, Giuliano
+    role: creator
+  Basile-Angelo:
+    individualname: Basile, Angelo
+    role: creator
+  Giannecchini-Simone:
+    individualname: Giannecchini, Simone
+    role: creator
+  Moccia-D.-Francesco:
+    individualname: Moccia D., Francesco
+    role: creator
+  Mileti-Florindo-A:
+    individualname: Mileti, Florindo A
+    role: creator
+  Munafo-Michele:
+    individualname: "Munaf\xF3, Michele"
+    role: creator
+  Pinto-Francesco:
+    individualname: Pinto, Francesco
+    role: creator
+  Terribile-Fabio:
+    individualname: Terribile, Fabio
+    role: creator
+  Moccia-Francesco-D.:
+    individualname: Moccia, Francesco D.
+    role: creator
+  Mileti-Florindo-A.:
+    individualname: Mileti, Florindo A.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

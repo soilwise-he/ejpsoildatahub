@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2659891
+  dataseturi: https://doi.org/10.5281/zenodo.2659891
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Mass Loss Reduction during Rainfalls by Reinforcing the Slopes with
+    the Surficial Confinement
+  abstract: "Soil confinement systems serve as effective solutions to any erosion\
+    \ control project. Various confinements systems, namely triangular, circular and\
+    \ rectangular with the size of 50, 100, and 150 mm, and with a depth of 10 mm,\
+    \ were embedded in soil samples at slope angle of 60\xB0. The observed soil mass\
+    \ losses for the confined soil systems were much smaller than those from unconfined\
+    \ system. As a result, the size of confinement and rainfall intensity have a direct\
+    \ effect on the soil mass loss. The triangular and rectangular confinement systems\
+    \ showed the lowest and highest soil loss masses, respectively. The slopes also\
+    \ failed much faster in the unconfined system than in the confined slope."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-06-05'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2659891
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2659890
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ramli-Nazir:
+    individualname: Ramli Nazir
+    role: creator
+    organization: ''
+    url: ''
+  Hossein-Moayedi:
+    individualname: Hossein Moayedi
+    role: creator
+  Moayedi-Hossein:
+    individualname: Moayedi, Hossein
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

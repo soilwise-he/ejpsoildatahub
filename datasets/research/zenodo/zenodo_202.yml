@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SCALES_1922
+  dataseturi: https://doi.org/10.1021/ie50145a025
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Tyndallmeter Reading of Soil Dispersoids
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Tyndallmeter Reading of Soil Dispersoids
+    url: http://dx.doi.org/10.1021/ie50145a025
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Scales-F.-M.:
+    individualname: Scales, F. M.
+    role: creator
+  Marsh-Franklin-W.:
+    individualname: Marsh, Franklin W.
+    role: creator
+  SCALES-F.-M.:
+    individualname: SCALES, F. M.
+    role: creator
+  MARSH-FRANKLIN-W.:
+    individualname: MARSH, FRANKLIN W.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

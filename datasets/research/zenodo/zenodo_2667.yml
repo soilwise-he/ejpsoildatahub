@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4040965
+  dataseturi: https://doi.org/10.5281/zenodo.4040965
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Methods for Determining Soil Contamination by Oil and Petroleum Products
+    and Indicator Plants in the North of Caspian Sea
+  abstract: "<em>In accordance with the Law\u201D On environmental protection \u201C\
+    and \" the plan of comprehensive measures to improve the environmental situation\
+    \ in the Republic of Azerbaijan (for 2006-2010)\", as well as a program on the\
+    \ scientific topic, revealed methods for studying soil contamination with oil\
+    \ and petroleum products on the Northern coast of the Caspian Sea and on the basis\
+    \ of this were studied plants-indicators.<br> Since the second half of the XX\
+    \ century, anthropogenic factors and technogenic impacts on the environment have\
+    \ been increasing in our country, as well as in the area of oil fields, oil products,\
+    \ mineralized water, etc. negatively affect vegetation in the zone of oil production,\
+    \ as well as due to waste pollution, soil fertility is degraded, and vegetation\
+    \ is subjected to digression.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: formation, association, dominant, subdominant, indicator
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4040965
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4040964
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Elshad-Machnun-Gurbanov:
+    individualname: Elshad Machnun Gurbanov
+    role: creator
+  Humira-Zafar-Huseynova:
+    individualname: Humira Zafar Huseynova
+    role: creator
+    organization: ''
+    url: ''
+  Shahin-Ibad-Ibrahimov:
+    individualname: Shahin Ibad Ibrahimov
+    role: creator
+  Gurbanov-Elshad-Machnun:
+    individualname: Gurbanov, Elshad Machnun
+    role: ''
+    organization: ''
+    url: ''
+  Ibrahimov-Shahin-Ibad:
+    individualname: Ibrahimov, Shahin Ibad
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

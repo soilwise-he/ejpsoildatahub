@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4647006
+  dataseturi: https://doi.org/10.5281/zenodo.4647006
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study of the influence of a Bioabsorbent derived from Orange Peel on a filtering
+    soil using seawater irrigation by capillarity
+  abstract: "<strong>Abstract\u2014</strong> The effect of rain on our planet has\
+    \ been the most important meteorological phenomena to be reproduced by humans.\
+    \ It has been vital for the hydration of the soil, making it possible for agriculture\
+    \ to prosper and progress. However, the great secret of irrigation is in the ground,\
+    \ in the water tables and aquifers that store and manage water, storing every\
+    \ drop of rain and distributing the water through the underground river basins,\
+    \ indirectly irrigating everything, from the mountain to the sea, making the cultivation\
+    \ of crops possible. This means that the type of soil is as important as the water\
+    \ supply. Irrigation for agriculture has always simulated rainfall; therefore,\
+    \ it has copied irrigation from above and has focused on the soil drainage capacity.\
+    \ From this point of view, saline water is not beneficial for this activity, but\
+    \ it may be the only source of irrigation water for arid regions, especially in\
+    \ developing countries, where there\u2019s a scarcity of water and the population\
+    \ is rapidly growing. Storing irrigation water for both agriculture and the increasing\
+    \ population is necessary for the developing country\u2019s prosperity. The use\
+    \ of seawater applied to irrigation is not a new technique, there\u2019s evidence\
+    \ that proves that in 1719 the Sestao\u2019s Carmelite monks, located in Vizcaya,\
+    \ made use of this practice. When considering the possibility of irrigation without\
+    \ desalination, always through capillarity systems, it is essential to consider\
+    \ some critical factors, such as the substrate of the ground, the distance of\
+    \ the water table, the salt composition of the seawater, chemical reactions of\
+    \ the ground with the salts or the drainage of the ground. Modifying any of these\
+    \ parameters can cause salinization effects, loss of humidity or desertification\
+    \ of the substrate, amongst others. This study shows the influence of a bio absorbent\
+    \ obtained from the orange peel on the behaviour of a substrate based on silicon\
+    \ sand."
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-03-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4647006
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4647005
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Falco-Mariona:
+    individualname: "Falc\xF3, Mariona"
+    role: creator
+    organization: ''
+    url: ''
+  Garcia-Raurich-J:
+    individualname: "Garc\xEDa-Raurich, J"
+    role: creator
+    organization: ''
+    url: ''
+  Arnal-Oriol:
+    individualname: Arnal, Oriol
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

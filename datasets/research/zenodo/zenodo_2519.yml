@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8161690
+  dataseturi: https://doi.org/10.5281/zenodo.8161690
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of Slope on Soil Properties in The Rangeland of Southern Al-Jabal
+    Al -Akhdar Region, Northeastern Libya
+  abstract: <strong>Aims</strong>. This study was conducted on southern slope of Al-Jabal
+    Al-Akhdar, Libya to estimate some soil properties, and to study effects of slope
+    on those properties. <strong>Methods</strong>. Twelve sites were selected. Slope
+    in the study area was divided into three levels (high slope, medium slope and
+    low slope). Soil samples were collected for each site and analyzed in laboratory.
+    We applied LFA technique to assess soil surface condition. One-way ANOVA (LSD
+    test) was applied, where slope is independent factor and soil properties are dependent
+    variables. <strong>Results</strong>. The results did not show any significant
+    differences between soil properties, except for soil PH and calcium carbonate.
+    Also, there were no significant differences between the means of soil surface
+    indices except for SSCI. Our results confirmed that the effect of slope became
+    significant when its rate exceeds 10%, for this reason, most of the statistical
+    differences between soil properties means were insignificant in our study, as
+    the highest rate of slope in the study area is 7%. <strong>Conclusion</strong>.
+    It is necessary to conduct future studies to cover a larger area in the region
+    for a comprehensive understanding about soil properties at the local level, and
+    thus knowing the proper ways to maintain and benefit from it.
+  keywords:
+    default:
+      keywords:
+        subject: WII, SWECO, Medium-Slope, SSCI
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-18'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8161690
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8161689
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hameda-Moftah:
+    individualname: Hameda Moftah
+    role: creator
+    organization: Department of Environmental Sciences, Faculty of Natural Resources
+      and Environmental Sciences, Omar Almukhtar University, Albaidah, Libya.
+    url: ''
+  Sana-MuhyEl-Din:
+    individualname: Sana MuhyEl Din
+    role: creator
+  Adel-Mahmoud:
+    individualname: Adel Mahmoud
+    role: creator
+  Fathi-Lamloum:
+    individualname: Fathi Lamloum
+    role: creator
+  Alnaji-Ahmida:
+    individualname: Alnaji Ahmida
+    role: creator
+    organization: Faculty of Education, University of Derna, Derna, Libya.
+    url: ''
+  Din-Sana-MuhyEl:
+    individualname: Din, Sana MuhyEl
+    role: ''
+    organization: Department of Environmental Sciences, Faculty of Natural Resources
+      and Environmental Sciences, Omar Almukhtar University, Albaidah, Libya.
+    url: ''
+  Mahmoud-Adel:
+    individualname: Mahmoud, Adel
+    role: ''
+    organization: Department of Forestry and Rangeland, Faculty of Natural Resources
+      and Environmental Sciences, Omar Almukhtar University, Albaidah, Libya
+    url: ''
+  Lamloum-Fathi:
+    individualname: Lamloum, Fathi
+    role: ''
+    organization: Department of Natural Resources, Faculty of Natural Resources and
+      Environmental Sciences, Omar Almukhtar University, Albaidah, Libya
+    url: ''
+content_info: {}

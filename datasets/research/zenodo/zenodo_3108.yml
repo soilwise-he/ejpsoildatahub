@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4395638
+  dataseturi: https://doi.org/10.5281/zenodo.4395638
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Report on the soil zoological expeditions to Ecuador and Colombia between
+    1986 and 1993 I. List of localities and habitats of "Berlese" samples
+  abstract: "Complete lists of the sampling localities and habitats of the Hungarian\
+    \ soil zoological expeditions to Ecuador and Colombia between 1986 and 1993 are\
+    \ presented. The lists are organized according to the expedition\u2019s dates\
+    \ and apart from the locality some data on the biotopes and sampled substrates\
+    \ are also given."
+  keywords:
+    default:
+      keywords:
+        subject: Arthropods, samples, Berlese, South America, localities
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2008-01-01'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4395638
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4395637
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zicsi-Andras:
+    individualname: "Zicsi, Andr\xE1s"
+    role: creator
+    organization: Systematic Zoology Research Group of the Hungarian Academy of Sciences,
+      Budapest
+    url: ''
+  Csuzdi-Csaba:
+    individualname: Csuzdi, Csaba
+    role: creator
+    organization: Systematic Zoology Research Group of the Hungarian Academy of Sciences,
+      Budapest
+    url: https://orcid.org/0000-0002-0319-7836
+content_info: {}

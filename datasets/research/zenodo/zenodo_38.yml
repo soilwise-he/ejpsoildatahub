@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3370644
+  dataseturi: https://doi.org/10.5281/zenodo.3370644
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Numerical Analysis of Soil Slope Stabilization by Soil Nailing Technique
+  abstract: Slope instability may be a result of change in stress conditions, rise
+    in groundwater table and rainfall. Similarly, many slopes that have been stable
+    for several years can abruptly fail due to changes in geometry, weak soil shear
+    strength or as an external forces effect. Debris flows (i.e. slope failures) take
+    place without any warning and can have devastating results. So, it is vital to
+    understand the slope failure mechanism and adopt safety prevention measures. Soil
+    nailing is one of the widely used stabilization techniques for soil slopes. In
+    this study, soil nail technique is proposed to upgrade the existing slope in clay.
+    A parametric study was conducted to understand the effects of different nail diameter
+    (i.e. 25mm and 40mm) and nail inclination (i.e. 20<sup>0</sup>, 25<sup>0</sup>,
+    30<sup>0</sup>, 35<sup>0</sup> and 40<sup>0</sup>) on slope stability. Morgenstern-Price
+    (i.e. limit equilibrium) method was used to determine the factor of safety of
+    the slope. It was found that the factor of safety of the existing slope improved
+    significantly with three rows of 40mm diameter nail at inclination of 40<sup>0</sup>.
+  keywords:
+    default:
+      keywords:
+        subject: nail diameter and inclination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-12'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3370644
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3370643
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mangnejo-Dildar-Ali:
+    individualname: Mangnejo, Dildar Ali
+    role: creator
+    organization: Department of Civil Engineering Mehran University, Shaheed Zulfiqar
+      Ali Bhutto Campus Khairpur Mir's, Sindh, Pakistan dildarali72@gmail.com
+    url: ''
+  Oad-S.-J.:
+    individualname: Oad, S. J.
+    role: creator
+    organization: Department of Civil Engineering Technology, The Benazir Bhutto Shaheed
+      University of Technology and Skill Development, Pakistan shamotra@bbsutsd.edu.pk
+    url: ''
+  Kalhoro-Shahbaz-Ali:
+    individualname: Kalhoro, Shahbaz Ali
+    role: creator
+    organization: Department of Civil Engineering Mehran University, Shaheed Zulfiqar
+      Ali Bhutto Campus Khairpur Mir's, Sindh, Pakistan abbasishahbazkhan@yahoo.com
+    url: ''
+  Ahmed-S.:
+    individualname: Ahmed, S.
+    role: creator
+    organization: Department of Civil Engineering Mehran University, Shaheed Zulfiqar
+      Ali Bhutto Campus Khairpur Mir's, Sindh, Pakistan sajeelahmed16@gmail.com
+    url: ''
+  Laghari-F.-H.:
+    individualname: Laghari, F. H.
+    role: creator
+    organization: Department of Civil Engineering Mehran University, Shaheed Zulfiqar
+      Ali Bhutto Campus Khairpur Mir's, Sindh, Pakistan faizanhyder22@hotmail.com
+    url: ''
+  Siyal-Z.-A.:
+    individualname: Siyal, Z. A.
+    role: creator
+    organization: Department of Civil Engineering Mehran University, Shaheed Zulfiqar
+      Ali Bhutto Campus Khairpur Mir's, Sindh, Pakistan zameersiyal@yahoo.com
+    url: ''
+content_info: {}

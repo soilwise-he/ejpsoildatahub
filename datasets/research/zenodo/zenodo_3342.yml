@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.46995
+  dataseturi: https://doi.org/10.5281/zenodo.46995
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Stabilization Using Rock Dust And Sludge
+  abstract: The combined effects of two wastes Sludge and Rock dust on, compaction
+    characteristics, California Bearing Ratio (CBR), Shear strength parameters and
+    Swelling pressure of an expansive soil have been discussed in this project. The
+    effect of molding water content on CBR of Sludge-Rock Dust stabilized expansive
+    soil and the economy of Sludge and Rock dust stabilization has also been discussed
+  keywords:
+    default:
+      keywords:
+        subject: Expansive Soil, Sludge, Quarry Dust, Optimum moisture content (OMC),
+          California Bearing Ratio.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-03-05'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.46995
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.D.R.L.-Pavani:
+    individualname: S.D.R.L. Pavani
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

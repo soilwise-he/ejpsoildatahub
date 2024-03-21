@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Reddy_Anthay_2022
+  dataseturi: https://doi.org/10.11591/ijeecs.v26.i1.pp568-575
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An analysis on micronutrient deficiency in plant leaf and soil using digital
+    image processing
+  abstract: '&lt;p&gt;The plant requires thirteen different nutrients. The two main
+    types of nutrients are micronutrients and macronutrients. Diseases develop due
+    to deficiency of vital nutrients, resulting in colored spots on the leaves. Plant
+    development is affected by toxicity or lack of one or more of these nutrients,
+    resulting in plant death. As a result, a continuous monitoring system is necessary
+    to know the nutritional status of the plants to enhance production efficiency
+    and output. Optical image recognition-based medical technology can identify indicators
+    of inaccuracy faster than the human eye. Consequently, farmers are prepared to
+    take prompt and effective remedial action. This article investigates the nutrient
+    deficits in plants using image processing techniques.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Healthy leaf
+      - Image processing
+      - Macronutrients
+      - Micronutrients
+      - RaspberryPi 3
+      - Unhealthy leaf
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An analysis on micronutrient deficiency in plant leaf and soil using digital
+      image processing
+    url: http://dx.doi.org/10.11591/ijeecs.v26.i1.pp568-575
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anthay-Swetha-Reddy:
+    individualname: Anthay, Swetha Reddy
+    role: creator
+  Chokkalingam-Arun:
+    individualname: Chokkalingam, Arun
+    role: creator
+  Jeyashanker-Komathi-B.:
+    individualname: Jeyashanker, Komathi B.
+    role: creator
+  Natarajan-Bharathiraja:
+    individualname: Natarajan, Bharathiraja
+    role: creator
+  Reddy-Anthay-Swetha:
+    individualname: Reddy Anthay, Swetha
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

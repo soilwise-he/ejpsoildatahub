@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WATSON_1900
+  dataseturi: https://doi.org/10.1038/061515d0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Bacteriology of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Bacteriology of the Soil
+    url: http://dx.doi.org/10.1038/061515d0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Watson-Thos-T.:
+    individualname: Watson, Thos T.
+    role: creator
+  WATSON-THOS.-T.:
+    individualname: WATSON, THOS. T.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

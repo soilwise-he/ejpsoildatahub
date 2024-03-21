@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216408
+  dataseturi: https://doi.org/10.5281/zenodo.7216408
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Biodegradability and ecotoxicity of a biobased and biodegradable mulch film
+    using key organisms in soil ecosystems
+  abstract: "Biobased and biodegradable plastic mulch films are an increasingly attractive\
+    \ alternative to their conventional counterparts, with the promise of safeguarding\
+    \ the health of agricultural soils and their inhabitants through the complete\
+    \ biodegradation of the material (and consequent elimination of removal costs)\
+    \ contributing to the value of these mostly petrochemical-independent materials.\
+    \ However, these plastics' current certification processes prove themselves lacklustre\
+    \ in predicting biodegradation performance and ecotoxicological effects in natural\
+    \ settings, the relatively few studies done on the topic disputing this perceived\
+    \ environmental-friendliness. This study assessed the biodegradation of a commercially-available\
+    \ biobased and biodegradable mulch film by the soil-dwelling fungal species Penicillium\
+    \ brevicompactum, in solid culture media and locally sourced agricultural soil,\
+    \ for the duration of 15 and 28 days, as well as the ecotoxicological effects\
+    \ of microplastics from the same material on the key earthworm species Eisenia\
+    \ andrei, at environmentally-relevant concentrations ranging from 0.125 to 0.500\
+    \ grams per kilogram of soil, both in their pristine state and after UV-C radiation\
+    \ weathering. The results obtained in the biodegradation assays \u2013 mass variation,\
+    \ microscopic analysis and FTIR analysis \u2013 suggest P. brevicompactum's capability\
+    \ to accelerate the mulch film's natural biodegradation process. In the ecotoxicological\
+    \ assays, exposure to any concentration of pristine microplastics seemed to increase\
+    \ E. andrei's sensitivity to touch, had apparent adverse effects on energy reserves,\
+    \ and resulted in significant decreases in offspring numbers (upwards of 30%);\
+    \ conversely, weathered microplastics seemed to show no such negative effects,\
+    \ bar specimen sensitivity. Since the mulch film's weathering is expected to happen\
+    \ if properly used, the studied material seems to be an environmentally-friendly\
+    \ alternative, given its potential for faster biodegradation by normal soil dwellers\
+    \ and low toxicity to a key-species in the ecosystem. Notwithstanding, these findings\
+    \ highlight the shortcomings of currently applied standards, that can ignore the\
+    \ role of chronic ecotoxicological effects on naturally-occurring organisms. Also\
+    \ see: https://micro2022.sciencesconf.org/427221/document"
+  keywords:
+    default:
+      keywords:
+        subject: Soil ecotoxicology.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216408
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216407
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ferreira-Filipe-Diogo:
+    individualname: Ferreira-Filipe, Diogo
+    role: creator
+    organization: ''
+    url: ''
+  Paco-Ana:
+    individualname: "Pa\xE7o, Ana"
+    role: creator
+    organization: ''
+    url: ''
+  Natal-Da-Luz-Tiago:
+    individualname: Natal-Da-Luz, Tiago
+    role: creator
+    organization: ''
+    url: ''
+  Paulo-Sousa-Jose:
+    individualname: "Paulo Sousa, Jos\xE9"
+    role: creator
+    organization: ''
+    url: ''
+  A.-Saraiva-Jorge:
+    individualname: A. Saraiva, Jorge
+    role: creator
+    organization: ''
+    url: ''
+  C.-Duarte-Armando:
+    individualname: C. Duarte, Armando
+    role: creator
+    organization: ''
+    url: ''
+  Rocha-Santos-Teresa:
+    individualname: Rocha-Santos, Teresa
+    role: creator
+    organization: ''
+    url: ''
+  L.-Patricio-Silva-Ana:
+    individualname: "L. Patr\xEDcio Silva, Ana"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

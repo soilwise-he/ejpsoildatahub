@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6381236
+  dataseturi: https://doi.org/10.5281/zenodo.6381236
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Diffusion of Water in Soil under a Temperature Gradient
+  abstract: "Chemistry Department, Presidency College, Calcutta-700 073. Department\
+    \ of Applied Chemistry, University of Calcutta, Calcutta-700 009. A pheuomenological\
+    \ description of the process of thermal diffusion has been given. Diffusion equations\
+    \ have been developed from the thermodynamics of irreversible processes, and expressions\
+    \ for fundamental quantities U.ke the entropy\xB7 production and the dissipation\
+    \ function for a non-isothermal system have been derived from the first principles.\
+    \ These various rate equations have been shown to yield for isothermal conditions\
+    \ different forms of Darcy's law for flow of soil\xB7 water under varying degrees\
+    \ of saturation. The concept of heat of transport is also introduced, and its\
+    \ relevance in relation to soil-water interactions discussed. These various derivations\
+    \ have been followed by a short review of work done thus far to investigate thermal\
+    \ ditfusion or water (both in the liquid and the vapour phases) in soil by different\
+    \ workers."
+  keywords:
+    default:
+      keywords:
+        subject: thermal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1979-11-30'
+    publication: '1979'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6381236
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6381235
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+  M.-ADHIKARI:
+    individualname: M. ADHIKARI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

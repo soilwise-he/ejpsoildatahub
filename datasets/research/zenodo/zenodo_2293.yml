@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8394062
+  dataseturi: https://doi.org/10.5281/zenodo.8394062
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Factorial Analysis of Soil pH as a Function of Its Moisture Content and Distance
+    from Flare Point
+  abstract: "<strong>Abstract\u2014</strong> This paper presents a derived model which\
+    \ predicts the soil pH based on its soil moisture content and distance from flare\
+    \ point. The response coefficient of the soil pH to the distance from flare point\
+    \ and soil moisture content was evaluated to ascertain the viability and reliability\
+    \ of the highlighted dependence. Results of series of evaluations carried out\
+    \ indicate that the correlations between soil pH and distance from flare point\
+    \ &amp; soil moisture content as evaluated from the actual and model-predicted\
+    \ results were all \u02C3 0.88. Standard errors incurred in obtaining results\
+    \ of soil pH based on distance from flare point &amp; moisture content were 0.08\
+    \ and 0.07 &amp; 0.076 and 0.06%, as obtained from actual and model-predicted\
+    \ results respectively. The validity of the model; \u03BE = - 0.0496 \u03B2<sup>2</sup>\
+    \ \u2013 1.5 x10<sup>-7</sup>\u03D1 + 0.7122\u03B2 + 0.0003\u03D1 + 2.5408 was\
+    \ rooted on the insignificant maximum deviation of model-predicted values of soil\
+    \ pH from the corresponding actual values which was less than 1.1%. This translated\
+    \ into over 98.9% operational confidence level for the derived model as well as\
+    \ over 0.98 response coefficient of soil pH to the combined operational influence\
+    \ of distance from flare point and soil moisture content."
+  keywords:
+    default:
+      keywords:
+        subject: soil moisture content
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8394062
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8394061
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.-I.-Nwoye:
+    individualname: C. I. Nwoye
+    role: creator
+    organization: ''
+    url: ''
+  C.-N.-Nwambu:
+    individualname: C. N. Nwambu
+    role: creator
+    organization: ''
+    url: ''
+  C.-C.-Emekwisia:
+    individualname: C. C. Emekwisia
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

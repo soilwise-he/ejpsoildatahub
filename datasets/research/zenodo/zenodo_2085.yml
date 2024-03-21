@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7303294
+  dataseturi: https://doi.org/10.5281/zenodo.7303294
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Using Check Varieties to Adjust Visual Scores for Nonuniform Soil Drying
+    in Drought Resistance Field Screening
+  abstract: This article 'Using Check Varieties to Adjust Visual Scores for Nonuniform
+    Soil Drying in Drought Resistance Field Screening' appeared in the International
+    Rice Research Newsletter series, created by the International Rice Research Institute
+    (IRRI). The primary objective of this publication was to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Field Screening
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1982-08-01'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7303294
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7303293
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Supapoj-N.:
+    individualname: Supapoj, N.
+    role: creator
+    organization: ''
+    url: ''
+  Boonwite-C.:
+    individualname: Boonwite, C.
+    role: creator
+    organization: ''
+    url: ''
+  O'Toole-J.-C.:
+    individualname: O'Toole, J. C.
+    role: creator
+    organization: ''
+    url: ''
+  De-Datta-S.-K.:
+    individualname: De Datta, S. K.
+    role: creator
+    organization: ''
+    url: ''
+  Jackson-B.-R.:
+    individualname: Jackson, B. R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Field_1855
+  dataseturi: https://doi.org/10.1039/qj8550700308
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "XXVIII.\u2014Analysis of a surface-soil from the Desert of Atacama"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "XXVIII.\u2014Analysis of a surface-soil from the Desert of Atacama"
+    url: http://dx.doi.org/10.1039/qj8550700308
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Field-Frederick:
+    individualname: Field, Frederick
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

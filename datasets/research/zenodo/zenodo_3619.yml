@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1080700
+  dataseturi: https://doi.org/10.5281/zenodo.1080700
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Estimating Saturated Hydraulic Conductivity From Soil Physical Properties
+    Using Neural Networks Model
+  abstract: "Saturated hydraulic conductivity is one of the soil\nhydraulic properties\
+    \ which is widely used in environmental studies\nespecially subsurface ground\
+    \ water. Since, its direct measurement is\ntime consuming and therefore costly,\
+    \ indirect methods such as\npedotransfer functions have been developed based on\
+    \ multiple linear\nregression equations and neural networks model in order to\
+    \ estimate\nsaturated hydraulic conductivity from readily available soil\nproperties\
+    \ e.g. sand, silt, and clay contents, bulk density, and organic\nmatter. The objective\
+    \ of this study was to develop neural networks\n(NNs) model to estimate saturated\
+    \ hydraulic conductivity from\navailable parameters such as sand and clay contents,\
+    \ bulk density,\nvan Genuchten retention model parameters (i.e. r\n\u03B8 , \u03B1\
+    \ , and n) as well\nas effective porosity. We used two methods to calculate effective\n\
+    porosity: : (1) eff s FC \u03C6 =\u03B8 -\u03B8 , and (2) inf \u03C6 =\u03B8 -\u03B8\
+    \ eff s , in which s\n\u03B8 is\nsaturated water content, FC \u03B8 is water content\
+    \ retained at -33 kPa\nmatric potential, and inf \u03B8 is water content at the\
+    \ inflection point.\nTotal of 311 soil samples from the UNSODA database was divided\n\
+    into three groups as 187 for the training, 62 for the validation (to\navoid over\
+    \ training), and 62 for the test of NNs model. A commercial\nneural network toolbox\
+    \ of MATLAB software with a multi-layer\nperceptron model and back propagation\
+    \ algorithm were used for the\ntraining procedure. The statistical parameters\
+    \ such as correlation\ncoefficient (R2), and mean square error (MSE) were also\
+    \ used to\nevaluate the developed NNs model. The best number of neurons in\nthe\
+    \ middle layer of NNs model for methods (1) and (2) were\ncalculated 44 and 6,\
+    \ respectively. The R2 and MSE values of the test\nphase were determined for method\
+    \ (1), 0.94 and 0.0016, and for\nmethod (2), 0.98 and 0.00065, respectively, which\
+    \ shows that method\n(2) estimates saturated hydraulic conductivity better than\
+    \ method (1)."
+  keywords:
+    default:
+      keywords:
+        subject: Soil physical properties.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-02-24'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1080700
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1080699
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-Ghanbarian-Alavijeh:
+    individualname: B. Ghanbarian-Alavijeh
+    role: creator
+    organization: ''
+    url: ''
+  A.M.-Liaghat:
+    individualname: A.M. Liaghat
+    role: creator
+    organization: ''
+    url: ''
+  S.-Sohrabi:
+    individualname: S. Sohrabi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

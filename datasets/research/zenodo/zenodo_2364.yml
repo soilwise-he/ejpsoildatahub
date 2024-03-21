@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6610259
+  dataseturi: https://doi.org/10.5281/zenodo.6610259
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE CONDUCTOMETRIC METHOD OF DETERMINING THE SOLUBLE SALT CONTENT OF SOILS
+    FOR USE IN SOIL SURVEY WORK.
+  abstract: 'The conductivity of soil suspensions has been determined with Dionic
+    water tester. The salt content of soils may be derived from the conductivity of
+    1 : 15 suspensions by a very simple relationship, i.e., the conductivity value,
+    if divided by one thousand, gives the percentage salt content of soils. To determine
+    the total salt content of soils by the present method, the use of distilled water
+    only for making the soil suspensions is suggested as it has been shown that the
+    use of salt-containing water brings about depression in the conductivity value
+    which varies with the nature of the salts present in the water used. This conductometric
+    method of determining soluble salt content has been tested for a set of soils
+    derived from the various parts of India and the results seem to justify the adoption
+    of this method in this country for soil survey work.'
+  keywords:
+    default:
+      keywords:
+        subject: Salts
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1941-12-31'
+    publication: '1941'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6610259
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6610258
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-C.-HOON:
+    individualname: R. C. HOON
+    role: creator
+    organization: ''
+    url: ''
+  J.-K.-MALHOTRA:
+    individualname: J. K. MALHOTRA
+    role: creator
+    organization: ''
+    url: ''
+  LAKSHMI-CHAND-JAIN:
+    individualname: LAKSHMI CHAND JAIN
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

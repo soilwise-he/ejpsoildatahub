@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8030741
+  dataseturi: https://doi.org/10.5281/zenodo.8030741
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: CHARACTERISTICS OF SOIL DISTRIBUTION ON THE TERRITORY OF THE KINDZMARAULI
+    MICROZONE OF THE KVARELIS MUNICIPALITY
+  abstract: "The viticulture microzone \"Kindzmarauli\" is located in eastern Georgia,\
+    \ in Shida Kakheti, in the Kvareli administrative region, on the southern slope\
+    \ of the Caucasus Range, at the coordinates 41\xBA30' north latitude and 45\xBA\
+    50' east latitude.<br> Industrial vineyards are mainly located within 250-550\
+    \ m above sea level, on the left bank of the Alazni River. The lower part of the\
+    \ territory is occupied by the Alazna Plain, which rises to the north - passes\
+    \ into the foothills and adjoins the foothills of the Caucasus"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-12'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8030741
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8030740
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nikoloz-Sulkhanishvili:
+    individualname: Nikoloz Sulkhanishvili
+    role: creator
+  Sulkhanishvili-Nikoloz:
+    individualname: Sulkhanishvili, Nikoloz
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

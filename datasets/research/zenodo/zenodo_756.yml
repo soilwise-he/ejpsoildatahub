@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Martin_1915
+  dataseturi: https://doi.org/10.1017/s0021859600002446
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Notes on Some Methods for the Examination of Soil Protozoa
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Notes on Some Methods for the Examination of Soil Protozoa
+    url: http://dx.doi.org/10.1017/s0021859600002446
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Martin-C.-H.:
+    individualname: Martin, C. H.
+    role: creator
+  Lewin-K.-R.:
+    individualname: Lewin, K. R.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

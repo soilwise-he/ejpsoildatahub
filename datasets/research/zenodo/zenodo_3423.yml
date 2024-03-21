@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: K_2020
+  dataseturi: https://doi.org/10.35940/ijeat.C5484.029320
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Determination of Pullout Strength of Geogrid in Sandy Soil
+  abstract: '&lt;p&gt;Geogrid reinforcement of soil has been successfully used for
+    many years in a wide variety of applications. This paper presents data obtained
+    from a series of laboratory tests performed on the geogrid. The tests were conducted
+    to determine the mechanical property including the tensile strength of the geogrid
+    and its corresponding pullout test. Tests were performed to find out the effect
+    of width of geogrid on the pullout resistance. It was found that the pull-out
+    resistance of geogrid is a function of the relative density of the soil, the length
+    and the width of geogrid specimen. A mechanism of soil-geogrid interaction is
+    described and used to explain the results of&#39; the pull-out tests. A significant
+    finding is that the selection of geogrid specimen dimensions for laboratory pullout
+    tests must take into account the strain to failure of the soil and the stiffness
+    of the geogrid in order to properly represent the maximum pull-out stress that
+    will be available in field applications.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Polymer Geogrid
+      - Pull out resistance
+      - Tension test
+      - Anchorage Ratio
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Determination of Pullout Strength of Geogrid in Sandy Soil
+    url: http://dx.doi.org/10.35940/ijeat.C5484.029320
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tushita-Naidu-K:
+    individualname: Tushita Naidu K
+    role: creator
+  Rajalakshmi-R:
+    individualname: Rajalakshmi R
+    role: creator
+  Venkata-Krishnaiah-R:
+    individualname: Venkata Krishnaiah R
+    role: creator
+  Dayakar-P:
+    individualname: Dayakar P
+    role: creator
+  K-Tushita-Naidu:
+    individualname: K, Tushita Naidu
+    role: creator
+  R-Rajalakshmi:
+    individualname: R, Rajalakshmi
+    role: creator
+  R-Venkata-Krishnaiah:
+    individualname: R, Venkata Krishnaiah
+    role: creator
+  P-Dayakar:
+    individualname: P, Dayakar
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

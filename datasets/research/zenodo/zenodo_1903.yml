@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.546475
+  dataseturi: https://doi.org/10.5281/zenodo.546475
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination Of Pesticide Residues In Soil Samples Collected From Wurno
+    Irrigation Farm, Sokoto State, Nigeria
+  abstract: "<em>Pesticide residues of most commonly used classes were analysed in\
+    \ soil samples collected from Wurno irrigation field. All the 17 soil samples\
+    \ analysed were found contaminated with used pesticides (i.e dichlorvos, mevinphos,\
+    \ dimethoate, femitrothion, chlorpyrifos, endosulfan, methylparathion, profenofos,\
+    \ \u03B3HCH, DDT, dieldrin, endrin and drins), and varying degree of contaminants\
+    \ and frequency were found in the top soil. The most widely detected pesticide\
+    \ residue was DDT found in 16 samples with a mean level of 2.22 measuring a total\
+    \ of 24.10% of the detectable residue, the second most detected pesticide residue\
+    \ was chlorpyriphos, having a total of 17.04% of the detectable residue. \u03B3\
+    HCH was the third most detectable residue in the sample with a total of 14.77%\
+    \ of the detectable residue. Analysis also showed that the two fallow soil samples\
+    \ have very low levels (&lt; 1%) of the total detectable residues. </em>"
+  keywords:
+    default:
+      keywords:
+        subject: pesticides, residues, organochlorine, organophosphorus, soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-04-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.546475
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Osesua-B.A:
+    individualname: Osesua, B.A
+    role: creator
+    organization: Science Lab. Tech. Waziri Umaru Federal Poly. Birnin Kebbi, Kebbi
+      State, Nigeria
+    url: ''
+  Tsafe-A.I:
+    individualname: Tsafe, A.I
+    role: creator
+    organization: Dept. of Pure and Applied Chemistry. UDUS. Sokoto State, Nigeria.
+    url: ''
+  Birnin-Yauri-U.A:
+    individualname: Birnin-Yauri, U.A
+    role: creator
+    organization: Dept. of Pure and Applied Chemistry. UDUS. Sokoto State, Nigeria.
+    url: ''
+  Sahabi-D.M:
+    individualname: Sahabi, D.M
+    role: creator
+    organization: Dept. of Biochemistry. UDUS. Sokoto State, Nigeria.
+    url: ''
+content_info: {}

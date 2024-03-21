@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1096881
+  dataseturi: https://doi.org/10.5281/zenodo.1096881
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Statistical Assessment Of Models For Determination Of Soil \u2013 Water\
+    \ Characteristic Curves Of Sand Soils"
+  abstract: 'Characterization of the engineering behavior of<br>
+
+    unsaturated soil is dependent on the soil-water characteristic curve<br>
+
+    (SWCC), a graphical representation of the relationship between water<br>
+
+    content or degree of saturation and soil suction. A reasonable<br>
+
+    description of the SWCC is thus important for the accurate prediction<br>
+
+    of unsaturated soil parameters. The measurement procedures for<br>
+
+    determining the SWCC, however, are difficult, expensive, and timeconsuming.<br>
+
+    During the past few decades, researchers have laid a<br>
+
+    major focus on developing empirical equations for predicting the<br>
+
+    SWCC, with a large number of empirical models suggested. One of<br>
+
+    the most crucial questions is how precisely existing equations can<br>
+
+    represent the SWCC. As different models have different ranges of<br>
+
+    capability, it is essential to evaluate the precision of the SWCC<br>
+
+    models used for each particular soil type for better SWCC estimation.<br>
+
+    It is expected that better estimation of SWCC would be achieved via<br>
+
+    a thorough statistical analysis of its distribution within a particular<br>
+
+    soil class. With this in view, a statistical analysis was conducted in<br>
+
+    order to evaluate the reliability of the SWCC prediction models<br>
+
+    against laboratory measurement. Optimization techniques were used<br>
+
+    to obtain the best-fit of the model parameters in four forms of SWCC<br>
+
+    equation, using laboratory data for relatively coarse-textured (i.e.,<br>
+
+    sandy) soil. The four most prominent SWCCs were evaluated and<br>
+
+    computed for each sample. The result shows that the Brooks and<br>
+
+    Corey model is the most consistent in describing the SWCC for sand<br>
+
+    soil type. The Brooks and Corey model prediction also exhibit<br>
+
+    compatibility with samples ranging from low to high soil water<br>
+
+    content in which subjected to the samples that evaluated in this study.'
+  keywords:
+    default:
+      keywords:
+        subject: unsaturated soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-11-04'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1096881
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1096880
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-J.-Matlan:
+    individualname: S. J. Matlan
+    role: creator
+    organization: ''
+    url: ''
+  M.-Mukhlisin:
+    individualname: M. Mukhlisin
+    role: creator
+    organization: ''
+    url: ''
+  M.-R.-Taha:
+    individualname: M. R. Taha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

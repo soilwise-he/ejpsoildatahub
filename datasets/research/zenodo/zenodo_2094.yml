@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ivanchuk_2021
+  dataseturi: https://doi.org/10.15587/1729-4061.2021.230238
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Constructing a mathematical model and studying numerically the effect of
+    bio-clogging on soil filtration consolidation
+  abstract: '&lt;p&gt;Mathematical modeling and computer simulation methods have been
+    used to investigate the extent of influence exerted by bio-clogging on the dynamics
+    of excess head scattering in the soil massif. To this end, the classical equation
+    of filtration consolidation has been modified for the case of variable porosity
+    resulting from changes in the biomass. The numerical solution to the constructed
+    mathematical model in the form of a nonlinear boundary problem was derived by
+    a finite-element method. Numerical experiments were carried out and their analysis
+    was performed. Specifically, this paper shows the charts of pressure differences
+    in the soil array when neglecting bio-clogging and when estimating the effects
+    exerted by bio-clogging at specific points in time. The numerical experiments
+    demonstrated that in two years after the onset of the consolidation process in
+    the neighborhood of the lower limit of the examined soil mass with a thickness
+    of 10&nbsp;meters, excess heads fall from the initial value of 10&nbsp;m to 4&nbsp;m.
+    The greatest impact from the clogging of pores by microorganisms is revealed in
+    the neighborhood of an upper limit. At a depth of 1 m, at t=180 days, the pressure
+    difference reaches 2.4&nbsp;m. This is about 200&nbsp;% of the pressure distribution
+    without taking into account the effects of bio-clogging. Over time, the effect
+    of bacteria on the distribution of pressures in the neighborhood of the upper
+    boundary decreases. However, this effect extends to the entire soil mass, up to
+    the lower limit. Thus, at t=540 days, at the lower limit, the effect of bio-clogging
+    leads to that excess heads are 1.8 m greater than for the case of pure water filtration
+    (a relative increase of about 80&nbsp;%).&lt;/p&gt;
+
+
+    &lt;p&gt;Bio-clogging processes are intensified as a result of the development
+    of microorganisms when organic chemicals enter the porous environment. Therefore,
+    from a practical point of view, studying them is especially relevant for household
+    waste storage facilities and the stability of their soil bases. It is advisable
+    to undertake research by using the methods of mathematical modeling and computer
+    simulation&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - excess heads
+      - bio-clogging
+      - organic waste
+      - finite element method
+      - filtration consolidation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Constructing a mathematical model and studying numerically the effect of
+      bio-clogging on soil filtration consolidation
+    url: http://dx.doi.org/10.15587/1729-4061.2021.230238
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Natalia-Ivanchuk:
+    individualname: Natalia Ivanchuk
+    role: creator
+  Petro-Martyniuk:
+    individualname: Petro Martyniuk
+    role: creator
+  Olga-Michuta:
+    individualname: Olga Michuta
+    role: creator
+  Yevhenii-Malanchuk:
+    individualname: Yevhenii Malanchuk
+    role: creator
+  Hanna-Shlikhta:
+    individualname: Hanna Shlikhta
+    role: creator
+  Ivanchuk-Natalia:
+    individualname: Ivanchuk, Natalia
+    role: creator
+  Martyniuk-Petro:
+    individualname: Martyniuk, Petro
+    role: creator
+  Michuta-Olga:
+    individualname: Michuta, Olga
+    role: creator
+  Malanchuk-Yevhenii:
+    individualname: Malanchuk, Yevhenii
+    role: creator
+  Shlikhta-Hanna:
+    individualname: Shlikhta, Hanna
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6408481
+  dataseturi: https://doi.org/10.5281/zenodo.6408481
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Mapping and communicating soil contamination risk: case study of soil lead
+    in Greater Glasgow'
+  abstract: Areas with elevated levels of soil contamination need to be mapped before
+    risk can be mitigated. Effective communication of the expected risk is necessary.
+    This study predicted soil lead (Pb) concentrations using quantile regression forests,
+    an expansion of random forests, for a 200m 2 grid covering Greater Glasgow. The
+    median and 90% confidence intervals for predicted soil Pb values at grid points
+    were classified by the soil screening level they exceeded and then mapped. The
+    probability of a location exceeding a high soil Pb threshold, and any hotspots,
+    were also mapped to assist different types of end-users in decision making.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-04-02'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6408481
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6408480
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Donoghue-Sarah:
+    individualname: Donoghue, Sarah
+    role: creator
+    organization: ''
+    url: ''
+  Graham-Margaret:
+    individualname: Graham, Margaret
+    role: creator
+    organization: ''
+    url: ''
+  Marchant-Benjamin:
+    individualname: Marchant, Benjamin
+    role: creator
+    organization: ''
+    url: ''
+  Fordyce-Fiona:
+    individualname: Fordyce, Fiona
+    role: creator
+    organization: ''
+    url: ''
+  Stuart-Neil:
+    individualname: Stuart, Neil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

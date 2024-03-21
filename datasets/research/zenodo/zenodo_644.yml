@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8026162
+  dataseturi: https://doi.org/10.5281/zenodo.8026162
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Application of Geotechnics in Soil Survey and Land Evaluation
+  abstract: Extensive and reliable information on soil and land resources are prerequisites
+    for efficient and effective management planning of these vital natural resources.
+    The information on soils with regard to their nature, physico-chemical characteristics
+    and spatial distribution is of paramount importance in formulating any optimal
+    land use plan. Generation of large-scale spatial database on soil and land resources
+    by conventional method is a time consuming and highly expensive process. The application
+    of Remote Sensing Technology has been universally recognized as a highly effective
+    and inevitable tool for soil resource mapping and watershed management. Indian
+    Remote Sensing Satellite (IRS) data are being extensively used for soil resource-mapping
+    purposes. It is found to be superior over topographical map for soil mapping.
+    The Standard False Color Composite (FCC), satellite imagery on 1:50,000 scale
+    widely being used for soil resource inventory in semi-detail and reconnaissance
+    survey (Karale et al. 1991). However, with the availability of high resolution
+    PAN (5.8 m) and LISS III (23 m) data from IRS-1C/1D satellites and multispectral
+    high resolution (5.8 m) data from Resourcesat (IRS- P6) satellite , it is now
+    possible to utilize these data for large-scale soil mapping, i.e. up to 1:12,500
+    scale for village-level planning. Cartosat-1 with 2.5 m spatial resolution and
+    Cartosat-2 satellites (to be launched) with better than 1 m spatial resolution
+    will be quite useful to generate larger scale soil maps.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8026162
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8026161
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  santosh-.p-.-mane:
+    individualname: santosh .p . mane
+    role: creator
+  Dr.-Sanjay-Raosaheb-Sawate:
+    individualname: Dr. Sanjay Raosaheb Sawate
+    role: creator
+    organization: Associate Professor & Head Department of Geography, Kalikadevi Arts,
+      Commerce & Science College, Shirur Kasar Dist. Beed
+    url: ''
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1057311
+  dataseturi: https://doi.org/10.5281/zenodo.1057311
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Radioactivity Of The Agricultural Soil In Northern Province Of Serbia, Vojvodina
+  abstract: During the year 1999, Serbia (ex Yugoslavia) and their northern province,
+    Vojvodina, has been bombarded. Because of that general public believe is that
+    this region was contaminated by depleted uranium and that there is a potential
+    contaminant of agricultural products due to soil radioactivity. This paper presents
+    the repeated analysis of agricultural soil samples in Vojvodina. The same investigation
+    was carried out during the year 2001, and it was concluded that, based on the
+    gamma-spectrometric analysis of 50 soil samples taken from the region of Vojvodina,
+    there haven-t been registered any increase of radioactivity that could endanger
+    the food production. We continue with the monitoring of this region. The comparison
+    between those two sets of results is presented.
+  keywords:
+    default:
+      keywords:
+        subject: radioactivity of theagricultural soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-04-28'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1057311
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1057310
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.-Bikit:
+    individualname: I. Bikit
+    role: creator
+    organization: ''
+    url: ''
+  S.-Forkapic:
+    individualname: S. Forkapic
+    role: creator
+    organization: ''
+    url: ''
+  J.-Nikolov:
+    individualname: J. Nikolov
+    role: creator
+    organization: ''
+    url: ''
+  N.-Todorovic:
+    individualname: N. Todorovic
+    role: creator
+    organization: ''
+    url: ''
+  D.-Mrdja:
+    individualname: D. Mrdja
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

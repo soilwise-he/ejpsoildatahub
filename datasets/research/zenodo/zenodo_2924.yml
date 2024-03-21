@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: VINES_1888
+  dataseturi: https://doi.org/10.1093/aob/os-2.3.386
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: ON THE RELATION BETWEEN THE FORMATION OF TUBERCLES ON THE ROOTS OF LEGUMINOSAE
+    AND THE PRESENCE OF NITROGEN IN THE SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: ON THE RELATION BETWEEN THE FORMATION OF TUBERCLES ON THE ROOTS OF LEGUMINOSAE
+      AND THE PRESENCE OF NITROGEN IN THE SOIL
+    url: http://dx.doi.org/10.1093/aob/os-2.3.386
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vines-S.-H.:
+    individualname: Vines, S. H.
+    role: creator
+  VINES-S.-H.:
+    individualname: VINES, S. H.
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

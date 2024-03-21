@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5516994
+  dataseturi: https://doi.org/10.5281/zenodo.5516994
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Collecting gas samples for greenhouse gas analysis and soil and lysimeter
+    samples for nitrogen availability in soil
+  abstract: This SOP provides practical instructions for installing equipment to sample
+    greenhouse gases, soil and soil pore-space water in field experiment for combinable
+    crops. Data from sample analyses, in combination with agronomic data, provides
+    an assessment of nitrogen and carbon flows within crops at fixed time points and
+    could be used to, for instance, examine the effects of conventional farming methods
+    <em>vs.</em> sustainable farming methods. This methodology uses standard gas collection
+    chambers, lysimeters and sampling methods, that could allow other institutes to
+    develop gas sampling capability and produce results that are comparable with data
+    collected in other projects using this method.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-09-20'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5516994
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5516993
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Young-M.W:
+    individualname: Young, M.W
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

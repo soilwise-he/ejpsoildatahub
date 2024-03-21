@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3669232
+  dataseturi: https://doi.org/10.5281/zenodo.3669232
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Plastic Fines on Liquefaction Resistance of Sandy Soil Using Resonant
+    Column Test
+  abstract: The aim of this study is to assess the influence of plastic fines content
+    on sand-clay mixtures on maximum shear modulus and liquefaction resistance using
+    a series of resonant column tests. A high plasticity clay called bentonite was
+    added to 161 Firoozkooh sand at the percentages of 10, 15, 20, 25, 30 and 35 by
+    dry weight. The resonant column tests were performed on the remolded specimens
+    at constant confining pressure of 100 KPa and then the values of G<sub>max</sub>
+    and liquefaction resistance were investigated. The maximum shear modulus and cyclic
+    resistance ratio (CRR) are examined in terms of fines content. Based on the results,
+    the maximum shear modulus and liquefaction resistance tend to decrease within
+    the increment of fine contents.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3669232
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3669231
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-A.-Naeini:
+    individualname: S. A. Naeini
+    role: creator
+    organization: ''
+    url: ''
+  M.-Ghorbani-Tochaee:
+    individualname: M. Ghorbani Tochaee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Setyawan_2018
+  dataseturi: https://doi.org/10.12928/TELKOMNIKA.v16i5.7592
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Calibration of Geomagnetic and Soil Temperatur Sensor for Earthquake Early
+    Warning System
+  abstract: '&lt;p&gt;The study of Design of Earthquake Early Warning System for Real
+    Time Using Geomagnetism and Total Electron Content with Fuzzy Logic through competitive
+    grants scheme has obtained the prototype of the earthquake early warning system.
+    However, it still needs improvements on in the calibration of thesensor system
+    especially for MAG3110 sensor and DHT11 sensor. This calibration was done by adjusting
+    the sensor system to the existing measuring devices standards in the Physics Department
+    laboratory of the Sains Faculty Lampung University, to obtain measurement accuracyand
+    to get a good result about where and when the earthquake would occurand how strong
+    the earthquake would be. The calibration of MAG3110 sensor and DHT11 sensor obtained
+    the standard correction results, the standard deviation of MAG3110 from 3 axes,
+    namely x axis was 8.5, y axis was 2.66, and z axis was 1.9, whereas the standard
+    deviation for DH11 sensor was 0.1161.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - calibration
+      - earthquake
+      - geomagnetism
+      - total electron content
+      - fuzzy logic
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Calibration of Geomagnetic and Soil Temperatur Sensor for Earthquake Early
+      Warning System
+    url: http://dx.doi.org/10.12928/TELKOMNIKA.v16i5.7592
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dodi-Yudo-Setyawan:
+    individualname: Dodi Yudo Setyawan
+    role: creator
+  Dona-Yuliawati:
+    individualname: Dona Yuliawati
+    role: creator
+  Warsito:
+    individualname: Warsito
+    role: creator
+  Warsono:
+    individualname: Warsono
+    role: creator
+  Setyawan-Dodi-Yudo:
+    individualname: Setyawan, Dodi Yudo
+    role: creator
+  Yuliawati-Dona:
+    individualname: Yuliawati, Dona
+    role: creator
+  Warsito-Warsito:
+    individualname: Warsito, Warsito
+    role: creator
+  Warsono-Warsono:
+    individualname: Warsono, Warsono
+    role: creator
+  Universitas-Ahmad-Dahlan:
+    individualname: Universitas Ahmad Dahlan
+    role: creator
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ERDMAN_1921
+  dataseturi: https://doi.org/10.1097/00010694-192112000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF GYPSUM OF SOIL REACTION
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF GYPSUM OF SOIL REACTION
+    url: http://dx.doi.org/10.1097/00010694-192112000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Erdman-L.-W.:
+    individualname: Erdman, L. W.
+    role: creator
+  ERDMAN-L.-W.:
+    individualname: ERDMAN, L. W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

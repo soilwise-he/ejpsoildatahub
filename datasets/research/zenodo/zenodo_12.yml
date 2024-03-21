@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Simmons_2013
+  dataseturi: https://doi.org/10.1016/j.wasman.2013.01.015
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Managing compost stability and amendment to soil to enhance soil heating
+    during soil solarization
+  abstract: Soil solarization is a method of soil heating used to eradicate plant
+    pathogens and weeds that involves passive solar heating of moist soil mulched
+    (covered) with clear plastic tarp.  Various types of organic matter may be incorporated
+    into soil prior to solarization to increase biocidal activity of the treatment
+    process.  Microbial activity associated with the decomposition of soil organic
+    matter may increase soil temperatures during solarization, potentially enhancing
+    solarization efficacy.  However, the level of organic matter decomposition (stability)
+    necessary for increasing soil temperature is not well characterized, nor is it
+    known if various amendments render the soil phytotoxic to crops following solarization.  Laboratory
+    studies and a field trial were performed to determine heat generation in soil
+    amended with mature green waste compost and wheat bran during solarization. Respiration
+    was measured in amended soil samples prior to and following solarization as a
+    function of soil depth. Additionally, phytotoxicity was estimated through measurement
+    of germination and early growth of lettuce seedlings in greenhouse assays.  Amendment
+    of soil with 10% (g/g) compost (8% green waste + 2% wheat bran) containing 16.9
+    mg CO2/g dry weight organic carbon resulted in soil temperatures that were 2oC
+    to 4oC higher than soil alone. Approximately 85% of total organic carbon within
+    the amended soil was exhausted during 22 days of solarization. There was no significant
+    difference in residual respiration with soil depth down to 17.4 cm. Although freshly
+    amended soil proved highly inhibitory to lettuce seed germination and seedling
+    growth, phytotoxicity was not detected in solarized amended soil at any depth
+    tested, between 0-17.4 cm, after 22 days of field solarization.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Managing compost stability and amendment to soil to enhance soil heating
+      during soil solarization
+    url: http://dx.doi.org/10.1016/j.wasman.2013.01.015
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Simmons-Christopher-W.:
+    individualname: Simmons, Christopher W.
+    role: creator
+  Guo-Hongyun:
+    individualname: Guo, Hongyun
+    role: creator
+  Claypool-Joshua-T.:
+    individualname: Claypool, Joshua T.
+    role: creator
+  Marshall-Megan-N.:
+    individualname: Marshall, Megan N.
+    role: creator
+  Perano-Kristen-M.:
+    individualname: Perano, Kristen M.
+    role: creator
+  Stapleton-James-J.:
+    individualname: Stapleton, James J.
+    role: creator
+  VanderGheynst-Jean-S.:
+    individualname: VanderGheynst, Jean S.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

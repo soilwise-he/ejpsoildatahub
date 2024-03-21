@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Coleman_1922
+  dataseturi: https://doi.org/10.1093/infdis/31.6.556
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The distribution of spores of B. botulinus in the soil of a restricted area
+    in California. III
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The distribution of spores of B. botulinus in the soil of a restricted area
+      in California. III
+    url: http://dx.doi.org/10.1093/infdis/31.6.556
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Coleman-G.-E.:
+    individualname: Coleman, G. E.
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6510846
+  dataseturi: https://doi.org/10.5281/zenodo.6510846
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on the Effect of Different Constituents of Soil Humic Acid in the
+    Formation of Clay-humus Complexes
+  abstract: The effect of the different constituents of soil humic acid in the formation
+    of clay-humus complexes has been studied by potentiometric titrations as well
+    as by analytical methods. It has been found that simpler components of humic acid,
+    separated by ethanol extraction, viz., 'pure' humic acid and hymatomelanic acid,
+    show a greater interaction in presence of metal ions than crude humic acid. This
+    may be due to greater physical accessibility of the interacting groups and hence
+    a much easier co-ordination. The two fractions, however, are equally effective
+    in forming clay-humus complex, although their exchange capacities are different.
+  keywords:
+    default:
+      keywords:
+        subject: Humic Acid
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1964-02-29'
+    publication: '1964'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6510846
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6510845
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-C.-Sen:
+    individualname: B. C. Sen
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

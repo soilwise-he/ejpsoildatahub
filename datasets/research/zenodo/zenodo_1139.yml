@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5771322
+  dataseturi: https://doi.org/10.5281/zenodo.5771322
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Validation of a spectrophotometric method for soil adsorption study of thiophanate-methyl
+  abstract: 'Department of Chemistry, Himachal Pradesh University, Shimla-171 005,
+    Himachal Pradesh, India <em>E-mail</em> : dksharma_dk@rediffmail.com Fax : 91-177-2633014
+    <em>Manuscript received online 04 January 2012, revised 05 February 2012. accepted
+    07 February 2012</em> With a view to study the fate of thiophanate-methyl in soil
+    and the extent of surface and ground water contamination, the soil-adsorption
+    of the fungicide on four Indian soils of different soil characteristics has been
+    studied by using a batch-equilibrium method. A spectrophotometric methodology
+    based on the reaction of the fungicide with copper(n) acetate in aqueous DMF solution
+    to form yellowish green solution showing maximum absorbance at 395 om has been
+    validated for the purpose. The leaching behaviour of the fungicide in terms of
+    ground ubiquity score (GUS) has the value below 1.8, classifying thiophanate-methyl
+    as non-leaching pesticide and hence it does not represent hazard to ground water
+    contamination.'
+  keywords:
+    default:
+      keywords:
+        subject: soil adsorption study
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-10-30'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5771322
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5771321
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-K.-Sharma:
+    individualname: D. K. Sharma
+    role: creator
+    organization: ''
+    url: ''
+  Aditi-Gupta:
+    individualname: Aditi Gupta
+    role: creator
+  Rajinder-Kasbyap:
+    individualname: Rajinder Kasbyap
+    role: creator
+  Gupta-Aditi:
+    individualname: Gupta, Aditi
+    role: ''
+    organization: ''
+    url: ''
+  Kasbyap-Rajinder:
+    individualname: Kasbyap, Rajinder
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

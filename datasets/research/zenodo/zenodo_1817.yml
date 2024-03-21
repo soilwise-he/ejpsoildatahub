@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7706612
+  dataseturi: https://doi.org/10.5281/zenodo.7706612
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of GGBS and Fly Ash in Binders on Soil Stabilization for Road Construction
+  abstract: In this paper we propose a new technique of soil stabilization for road
+    construction based on using new alternative binders. The project aims to evaluate
+    the effects of alternative additive materials in soil stabilization contexts for
+    road construction. The alternative binders (slag, energy ash and bio ash as new
+    alternative road construction material) have been used to complement the traditional
+    binders (cement and lime). The project used five binders and evaluated their effects
+    on soil strength. The proposed method comprises advantages of using the alternative
+    binders which are the residual products contributing to a lower environmental
+    impact. The results have shown that only slag has significant effects on the strength
+    of the stabilized soil, while bio ash and energy ash make a marginal contribution
+    to the increase of strength. This is caused by the twofold reasons. First, the
+    effects of the amount of ashes that should reach a certain threshold with respect
+    to the total amount of binder that must be exceeded to have the effect of the
+    soil mixture. Second, the bio fly ash was stored and it was not completely fresh
+    which may have contributed to the carbonation during the storage period and results
+    in a lower hardening ability. Based on the results of the study we recommend the
+    use of bio fly ash as a supply material andfor its amount to be adjusted so the
+    storage period is not too long. This study verified the effects of slag, cement
+    and lime on stabilization of soil for road construction.
+  keywords:
+    default:
+      keywords:
+        subject: Transport Infrastructure
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7706612
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7706611
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: Swedish Transport Administration, Department of Investments, Technology
+      & Environment
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles (ULB), \xC9cole polytechnique\
+      \ de Bruxelles (Brussels Faculty of Engineering), Laboratory of Image Synthesis\
+      \ and Analysis (LISA)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

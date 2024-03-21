@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10575991
+  dataseturi: https://doi.org/10.5281/zenodo.10575991
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Pollution Load Index of Heavy Metals in Soil around the Vicinity of Automobile
+    Servicing Workshops in Bori Metropolis, Rivers State, Nigeria
+  abstract: "Abstract Heavy metals in soils are of great environmental concern. In\
+    \ order to determine the pollution load index of some heavy metal contents and\
+    \ their distribution in surface soil around the vicinity of automobile servicing\
+    \ workshops in Bori metropolis, sixteen surface soil samples were collected, prepared,\
+    \ digested and analysed for Cu, Mn, Cd, Pb, Fe, Cr and Ni\_ using atomic absorption\
+    \ spectrophotometry (AAS). In the investigated soil samples, the mean recorded\
+    \ concentrations of the heavy metals were 9.344 mg/kg for Cu, 4.867 mg/kg for\
+    \ Ni, 0.022 mg/ kg for Cd, 138.556 mg/kg for Fe, 6.856 mg/kg for Mn, 7.632 mg/kg\
+    \ for Cr and 4.889 mg/kg for Pb. The obtained results indicates that the enrichment\
+    \ factors of the measured heavy metals were 4.31, 2.79, <0.02, 1.48, 1.85, 3.85,\
+    \ and 4.29 for copper, nickel, cadmium, iron, manganese, chromium and lead respectively.\
+    \ I-geo (geo-accumulation index) values of the metals in the soils under study\
+    \ indicates that they were uncontaminated to moderately contaminated with copper\
+    \ and lead, but highly contaminated with iron and manganese and moderately polluted\
+    \ with nickel and cadmium. The investigated soil samples from the results of the\
+    \ study does not pose any challenge for agricultural and any intended use for\
+    \ now."
+  keywords:
+    default:
+      keywords:
+        subject: Heavy metals contents, automobile servicing workshop, contamination,
+          pollution etc
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-02-28'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10575991
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10575990
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nwineewii-J.-Dumka:
+    individualname: Nwineewii J. Dumka
+    role: creator
+    organization: Department of Chemistry, Faculty of Natural and Applied Sciences,
+      Ignatius Ajuru University of Education, Rumuolumeni, Port Harcourt, Nigeria
+    url: ''
+  Anate-S.-Ganiyu:
+    individualname: Anate S. Ganiyu
+    role: creator
+    organization: Department of Chemistry, Faculty of Natural and Applied Sciences,
+      Ignatius Ajuru University of Education, Rumuolumeni, Port Harcourt, Nigeria
+    url: ''
+content_info: {}

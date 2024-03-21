@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6575386
+  dataseturi: https://doi.org/10.5281/zenodo.6575386
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: NATURE OF CLAY MINERALS PRESENT IN SAKRAND SOIL
+  abstract: The chemical composition and electrochemical and viscous properties attribute
+    a predominantly illitic nature to the Sakrand clay.
+  keywords:
+    default:
+      keywords:
+        subject: Viscous Property
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1950-06-30'
+    publication: '1950'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6575386
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6575385
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-CHATTERJEE:
+    individualname: B. CHATTERJEE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

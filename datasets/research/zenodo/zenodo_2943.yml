@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10637385
+  dataseturi: https://doi.org/10.5281/zenodo.10637385
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Classification of archaeological pieces into their respective stratum by
+    a chemometric model based on the soil concentration of 25 selected elements
+  abstract: 'The aim of this work was to demonstrate that an archaeological ceramic
+    piece has remained buried underground in the same stratum for centuries without
+    being removed. For this purpose, a chemometric model based on Principal Component
+    Analysis, Soft Independent Modelling of Class Analogy and Linear Discriminant
+    Analysis classification techniques was created with the concentration of some
+    selected elements of both soil of the stratum and soil adhered to the ceramic
+    piece. Some ceramic pieces from four different stratigraphic units, coming from
+    a roman archaeological site in Alava (North of Spain), and its respective stratum
+    soils were collected. The soil adhered to the ceramic pieces was removed and treated
+    in the same way as the soil from its respective stratum. The digestion was carried
+    out following the US Environmental Pollution Agency EPA 3051A method. A total
+    of 54 elements were determined in the extracts by a rapid screening inductively
+    coupled plasma mass spectrometry method. After rejecting the major elements and
+    those which could have changed from the original composition of the soils (migration
+    or retention from/to the buried objects), the following elements (25) were finally
+    taken into account to construct the model: Li, V, Co, As, Y, Nb, Sn, Ba, La, Ce,
+    Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu, Au, Th and U. A total of 33 subsamples
+    were treated from 10 soils belonging to 4 different stratigraphic units. The final
+    model groups and discriminate them in four groups, according to the stratigraphic
+    unit, having both the stratum and soils adhered to the pieces falling down in
+    the same group.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-04-01'
+    publication: '2010'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10637385
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10637384
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Carrero-Jose-Antonio:
+    individualname: Carrero, Jose Antonio
+    role: ContactPerson
+    organization: UPV/EHU
+    url: 0000-0002-5823-7743
+  Goienaga-Naiara:
+    individualname: Goienaga, Naiara
+    role: Researcher
+    organization: UPV/EHU
+    url: ''
+  Fdez-Ortiz-de-Vallejuelo-Silvia:
+    individualname: Fdez-Ortiz de Vallejuelo, Silvia
+    role: Researcher
+    organization: UPV/EHU
+    url: ''
+  Arana-Gorka:
+    individualname: Arana, Gorka
+    role: Researcher
+    organization: UPV/EHU
+    url: ''
+  Madariaga-Juan-Manuel:
+    individualname: Madariaga, Juan Manuel
+    role: Researcher
+    organization: UPV/EHU
+    url: ''
+content_info: {}

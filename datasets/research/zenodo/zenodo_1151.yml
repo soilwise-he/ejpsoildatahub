@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7006101
+  dataseturi: https://doi.org/10.5281/zenodo.7006101
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of contour hedgerow on runoff, soil loss, and upland rice production
+  abstract: This article 'Effect of contour hedgerow on runoff, soil loss, and upland
+    rice production' appeared in the International Rice Research Notes series, created
+    by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Upland rice
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1996-08-01'
+    publication: '1996'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7006101
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7006100
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Subudhi-C.-R.:
+    individualname: Subudhi, C. R.
+    role: creator
+    organization: ''
+    url: ''
+  Pradhan-P.-C.:
+    individualname: Pradhan, P. C.
+    role: creator
+    organization: ''
+    url: ''
+  Senapati-P.-C.:
+    individualname: Senapati, P. C.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1087696
+  dataseturi: https://doi.org/10.5281/zenodo.1087696
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Biodegradation Of Polyhydroxybutyrate-Co- Hydroxyvalerate (Phbv) Blended
+    With Natural Rubber In Soil Environment
+  abstract: 'According to synthetic plastics obtained from petroleum cause some environmental
+    problems. Therefore, degradable plastics become widely used and studied for replacing
+    the synthetic plastic waste. A biopolymer of poly hydroxybutyrate-co-hydroxyvalerate
+    (PHBV) is subgroups of a main kind of polyhydroxyalkanoates (PHAs). Naturally,
+    PHBV is hard, brittle and low flexible while natural rubber (NR) is high elastic
+    latex. Then, they are blended and the biodegradation of the blended PHBV and NR
+    films were examined in soil environment. The results showed that the degradation
+    occurs predominantly in the bulk of the samples. The order of biodegradability
+    was shown as follows: PHBV&gt; PHBV/NR&gt; NR. After biodegradation, the blended
+    films were characterized by appearance analysis such as Scanning Electron Microscope
+    (SEM), Fourier transform infrared spectroscopy (FTIR) and Differential Scanning
+    Calorimetry (DSC). It was found that the biodegradation mainly occurred at the
+    polymer surface.'
+  keywords:
+    default:
+      keywords:
+        subject: natural rubber (NR).
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-01-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1087696
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1087695
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-Kuntanoo:
+    individualname: K. Kuntanoo
+    role: creator
+    organization: ''
+    url: ''
+  S.-Promkotra:
+    individualname: S. Promkotra
+    role: creator
+    organization: ''
+    url: ''
+  P.-Kaewkannetra:
+    individualname: P. Kaewkannetra
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

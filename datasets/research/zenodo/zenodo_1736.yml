@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Klamt_2002
+  dataseturi: https://doi.org/10.1002/etc.5620211206
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Prediction of soil sorption coefficients with a conductor\u2010like screening\
+    \ model for real solvents"
+  abstract: "Using a general theory for partition coefficients based on a quantum\
+    \ chemically derived conductor-like screening model for real solvents \u03C3-moment\
+    \ descriptors, the logarithmic soil sorption coefficients log KOC of a database\
+    \ of 440 compounds has been successfully correlated, achieving a standard deviation\
+    \ (root-means-squared [RMS]) of 0.62 log-units on the training set and a predictive\
+    \ RMS of 0.72 log-units on a more demanding test set. The quality of this generally\
+    \ applicable predictive approach is almost the same as that of a regression of\
+    \ log KOC with experimental log KOW values, which are the best correlations currently\
+    \ available. The error of this new predictive method is only approximately 43%\
+    \ of the error of a recently published model using a different quantum chemically\
+    \ based approach."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Prediction of soil sorption coefficients with a conductor\u2010like screening\
+      \ model for real solvents"
+    url: http://dx.doi.org/10.1002/etc.5620211206
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Klamt-Andreas:
+    individualname: Klamt, Andreas
+    role: creator
+  Eckert-Frank:
+    individualname: Eckert, Frank
+    role: creator
+  Diedenhofen-Michael:
+    individualname: Diedenhofen, Michael
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

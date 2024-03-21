@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8044941
+  dataseturi: https://doi.org/10.5281/zenodo.8044941
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Change Soil Moisture Content from 2015 to 2016 during Rainy season in the
+    Nile Basin of Ethiopia.
+  abstract: In this paper soil moisture within 0 to 10cm of depth was compared in
+    between 2015 and 2016 during Kirmet season in the Nile Basin of Ethiopia. This
+    time period was chosen to observe the impact of El-Nino event on soil moisture
+    in the basin. Kirmet is the rainy season in Ethiopia; it starts in June 1 and
+    end in September last. This season is very important for the most dominant crop
+    Teff. The Dataset FLDAS Noah Land Surface Model L4 monthly 0.1 x 0.1 degree for
+    Eastern Africa (GDAS and RFE2) V001 (FLDAS_NOAH01_A_EA_M) at GES DISC was used
+    for this study. The same dataset was collected covering Nile basin for the Kirmet
+    season (rainy) months June, July, August and September of the years 2015 and 2016.
+    To find the change in the content of soil moisture the dataset 2016 was subtracted
+    from 2015. The images representing the change were converted to point data. Finally
+    to identify statistically significant spatial clusters of high values (hot spots)
+    and low values (cold spots) Getis-Ord Gi* statistic was applied with Hot Spot
+    Analysis tool of ArcGIS. The result shows during June, July, August and September
+    Nile basin received less moisture content in the El-Nino year (2015) than the
+    year 2016 as13.0%, 15.1%, 13.3%, and 14.5% of its total area respectively with
+    99% of confidence level.
+  keywords:
+    default:
+      keywords:
+        subject: Nile basin, Soil moisture, El-Nino
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-01-26'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8044941
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8044940
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zubairul-Islam:
+    individualname: Zubairul Islam
+    role: creator
+  Islam-Zubairul:
+    individualname: Islam, Zubairul
+    role: ''
+    organization: Adigrat University
+    url: https://orcid.org/0000-0002-6591-2241
+content_info: {}

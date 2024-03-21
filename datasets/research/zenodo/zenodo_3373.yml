@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2540400
+  dataseturi: https://doi.org/10.5281/zenodo.2540400
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Oil Spillage on the Soil Properties
+  abstract: <em>The effect of oil spillage on the properties of soil are studied in
+    this work. The study site is around the vicinity of Imo River-2 flow station at
+    Owaza in Abia State of Nigeria, located East of Nkali and North of Isimiri flow
+    stations in the Niger Delta Basin. Soil samples were taken from three oil-impacted
+    areas and an unimpacted (control) area. The contaminated areas considered are
+    at the wellhead, far from the wellhead (100 metres from the wellhead) and very
+    far from the wellhead (within the flow station). Soil samples were collected at
+    surface (0-15 cm) depths. The soil properties considered were total hydrocarbon
+    content, moisture content, soil pH, electrical conductivity, total organic carbon
+    content, organic matter content, phosphorus content, potassium availability and
+    nitrate-nitrogen content. The study shows that oil spillage affects the site where
+    they occur by the reduction of the nutrients in the site (land or water)</em>.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-12-20'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2540400
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2540399
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anyadiegwu-C.I.C:
+    individualname: Anyadiegwu C.I.C
+    role: creator
+    organization: ''
+    url: ''
+  Ohia-N.P.:
+    individualname: Ohia, N.P.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

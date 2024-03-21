@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mei_2020
+  dataseturi: https://doi.org/10.1099/ijsem.0.004013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Lysinimonas yzui sp. nov., isolated from cattail root soil from mine tailings
+  abstract: 'Mei, Lijuan, Piao, Zhe, Hu, Jian, Shi, Linlin, Bai, Yanchao, Yin, Shixue
+    (2020): Lysinimonas yzui sp. nov., isolated from cattail root soil from mine tailings.
+    International Journal of Systematic and Evolutionary Microbiology 70 (3): 2003-2007,
+    DOI: 10.1099/ijsem.0.004013'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Actinobacteria
+      - Actinomycetales
+      - Microbacteriaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Lysinimonas yzui sp. nov., isolated from cattail root soil from mine tailings
+    url: http://dx.doi.org/10.1099/ijsem.0.004013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mei-Lijuan:
+    individualname: Mei, Lijuan
+    role: creator
+  Piao-Zhe:
+    individualname: Piao, Zhe
+    role: creator
+  Hu-Jian:
+    individualname: Hu, Jian
+    role: creator
+  Shi-Linlin:
+    individualname: Shi, Linlin
+    role: creator
+  Bai-Yanchao:
+    individualname: Bai, Yanchao
+    role: creator
+  Yin-Shixue:
+    individualname: Yin, Shixue
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

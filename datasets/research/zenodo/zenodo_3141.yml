@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5044541
+  dataseturi: https://doi.org/10.5281/zenodo.5044541
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Improved Runoff Simulations for a Highly Varying Soil Depth and Complex Terrain
+    Watershed in the Loess Plateau with the Community Land Model Version 5
+  abstract: This study aimed to improve runoff simulations and explore deep soil hydrological
+    processes for a watershed in the center of the Loess Plateau (LP), China. This
+    watershed, the Wuding River Basin (WRB), has very complex topography, with soil
+    depths ranging from 0 to 197 m. The hydrological model used for our simulations
+    was Community Land Model version 5 (CLM5) developed by the National Center for
+    Atmospheric Research. Actual soil depths and river channels were incorporated
+    into CLM5 to realistically represent the physical features of the WRB. Through
+    sensitivity tests, CLM5 with 150 soil layers produced the most reasonable results
+    and was adopted for this study. Our results showed that CLM5 with actual soil
+    depths significantly suppressed unrealistic variations of the simulated sub-surface
+    runoff when compared to the default simulations with a fixed soil depth of 8 m.
+    In addition, CLM5 with higher-resolution soil layering slightly improved runoff
+    simulations, but generated simulations with much smoother vertical water flows
+    that were consistent with the uniform distribution of soil textures in our study
+    watershed. The runoff simulations were further improved by the addition of river
+    channels to CLM5, where the seasonal variability of the simulated runoff was reasonably
+    captured. Moreover, the magnitude of the simulated runoff remarkably decreased
+    with increased soil evaporation by lowering the soil water content threshold,
+    which triggers surface resistance. The lowered threshold was consistent with the
+    loess soil, which has a high sand component. Such soils often generate stronger
+    soil evaporation than soils dominated by clay. Finally, with the above changes
+    in CLM5, the simulated total runoff matched very closely with observations. When
+    compared with those for the default runoff simulations, the correlation coefficient,
+    root-mean-square error, and Nash Sutcliffe coefficient for the improved simulations
+    changed dramatically from 0.02, 10.37 mm, and -12.34 to 0.62, 1.8 mm, and 0.61.
+    The results in this study provide strong physical insight for further investigation
+    of hydrological processes in complex terrain with deep soils.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-08-16'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5044541
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5044540
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jiming-Jin:
+    individualname: Jiming Jin
+    role: creator
+    organization: Yangtze University
+    url: ''
+  Lei-Wang:
+    individualname: Lei Wang
+    role: creator
+  Jie-Yang:
+    individualname: Jie Yang
+    role: creator
+  Bingcheng-Si:
+    individualname: Bingcheng Si
+    role: creator
+    organization: University of Saskatchewan
+    url: ''
+  Guo-Yue-Niu:
+    individualname: Guo-Yue Niu
+    role: creator
+    organization: The University of Arizona
+    url: ''
+  Wang-Lei:
+    individualname: Wang, Lei
+    role: ''
+    organization: Northwest A&F University
+    url: ''
+  Yang-Jie:
+    individualname: Yang, Jie
+    role: ''
+    organization: Northwest A&F University
+    url: ''
+content_info: {}

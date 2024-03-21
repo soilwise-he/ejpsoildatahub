@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5642767
+  dataseturi: https://doi.org/10.5281/zenodo.5642767
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation and identification of a bacterial strain from soil for bioremediation
+    of phenol for pollution control
+  abstract: "Department of Food Technology &amp; Biochemical Engineering, Jadavpur\
+    \ University, Kolkata-700 032, India Department of Food Processing Technology,\
+    \ Mirmadan Mohanlal Govt. Polytechnic, Plassey, Nadia-741 156, West Bengal, India\
+    \ <em>E-mail</em>: sunitapramanik@gmail.com <em>Manuscript received online 21\
+    \ December 2019, accepted 23 March 2020</em> Phenol is one of the most widely\
+    \ distributed environmental pollutant found in industrial wastewater capable of\
+    \ causing harm to flora and fauna. These hazardous compounds can be removed from\
+    \ the nature by various ways but one of the most efficient methods is bioremediation.\
+    \ In order to isolate most potent bacterial strain from soil sample, was collected\
+    \ from the hospital area and enriched regularly with 500 ppm phenol for 10 days.\
+    \ After serial dilution isolated colonies were transferred to slant. Screening\
+    \ was done to isolate most potent strain. Residual phenol concentration was estimated\
+    \ spectrophotometrically. The strain marked as P108 was found having almost 98.08%\
+    \ of phenol removal efficiency in 24 h at 37\xBAC temperature and pH 6.8. Morphological,\
+    \ Biochemical, 16S rDNA Sequence and Phylogenetic Analysis was conducted to characterize\
+    \ and identify the strain. It was found that the isolated Pseudomonas sp. P108\
+    \ strain have a significant similarity with Pseudomonas <em>otitidis</em> strain\
+    \ MCC10330. The isolated strain was acclimatized in minimal salt media (MSM) for\
+    \ about 2 months in 700 ppm phenol concentration for better efficiency."
+  keywords:
+    default:
+      keywords:
+        subject: Phylogenetic Analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-04-01'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5642767
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5642766
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Susmit-Maitra:
+    individualname: Susmit Maitra
+    role: creator
+    organization: ''
+    url: ''
+  Debapriya-Maity:
+    individualname: Debapriya Maity
+    role: creator
+    organization: ''
+    url: ''
+  Pradyut-Kundu:
+    individualname: Pradyut Kundu
+    role: creator
+    organization: ''
+    url: ''
+  Sunita-Adhikari-nee-Pramanik:
+    individualname: Sunita Adhikari (nee Pramanik)
+    role: creator
+  Sunita-Adhikari-Nee-Pramanik:
+    individualname: Sunita Adhikari (Nee Pramanik)
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

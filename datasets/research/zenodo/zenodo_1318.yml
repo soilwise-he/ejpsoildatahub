@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LG_2022
+  dataseturi: https://doi.org/10.37871/jbres1576
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Use of Nanotechnology for the Removal of Agrochemicals from Soil and Water
+  abstract: '&lt;p&gt;Agrochemical contamination is a severe problem that damages
+    the ecosystem and reduces the quality of life of the people exposed; to remedy
+    this problem, nanotechnology is an attractive bioremediation alternative for these
+    types of chemicals. This study emphasizes bioremediation actions such as investing
+    in alternatives, for example, the method of photocatalysis using Titanium Dioxide
+    (TiO2) and Zinc Oxide (ZnO), and alternatives that aid in the degradation of most
+    chemicals such as sonolyisis or ozonolysis to improve their effectiveness are
+    of great interest. In this paper, the uses of nano remediation to reduce the effects
+    of chemicals in agricultural soil were reviewed and its use is highly recommended.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Photocatalytic Nanoparticles
+      - Agrochemicals
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Use of Nanotechnology for the Removal of Agrochemicals from Soil and Water
+    url: http://dx.doi.org/10.37871/jbres1576
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Balderrama-Carmona-AP:
+    individualname: Balderrama Carmona AP
+    role: creator
+  LG-Ochoa:
+    individualname: LG, Ochoa
+    role: creator
+  Carmona-AP-Balderrama:
+    individualname: Carmona AP, Balderrama
+    role: creator
+  SciRes-Literature-LLC:
+    individualname: SciRes Literature LLC
+    role: creator
+content_info: {}

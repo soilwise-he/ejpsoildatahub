@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: S_2020
+  dataseturi: https://doi.org/10.11591/ijeecs.v19.i1.pp99-107
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Smart soil monitoring and water conservation using irrigation on technology
+  abstract: '&lt;p&gt;The conventional system of irrigation how efficient and well
+    managed it may be wastes up to 50% of the water supplied. Purpose of this paper
+    is to provide a user-oriented and standalone irrigation solution for soil monitoring
+    and water conservation, based on network of sensor. Using the input from the user
+    the system will act automatically. It not only reduce the water waste but also
+    is cost efficient and easy to operate. Different parameters like soil moisture,
+    temperature and humidity are imported in order to calculate the efficient quantity
+    of water needed. This system uses different sensors like soil moisture sensor,
+    humidity sensor and temperature sensor to take required data. In this paper, the
+    proposed project uses sensor having low power consumption reducing load overall.
+    The system also stores the input and uses it for forecasting. The concept of IoT
+    is implied in this paper. The control of motors are automated powered by solar
+    panels. The data is stored in table format. All data is accessible via internet.
+    This system can help the user to gain vital data about the fields irrespective
+    of the weather condition.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - IoT
+      - Standalone
+      - User-oriented
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Smart soil monitoring and water conservation using irrigation on technology
+    url: http://dx.doi.org/10.11591/ijeecs.v19.i1.pp99-107
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  George-Fernandez-S.:
+    individualname: George Fernandez S.
+    role: creator
+  Vijayakumar-K.:
+    individualname: Vijayakumar K.
+    role: creator
+  Kalyanasundaram-V.:
+    individualname: Kalyanasundaram V.
+    role: creator
+  Vidyasagar-S.:
+    individualname: Vidyasagar S.
+    role: creator
+  Selvakumar-K.:
+    individualname: Selvakumar K.
+    role: creator
+  Selvabharathi-D.:
+    individualname: Selvabharathi D.
+    role: creator
+  Palanisamy-R.:
+    individualname: Palanisamy R.
+    role: creator
+  Karthikeyan-D.:
+    individualname: Karthikeyan D.
+    role: creator
+  S-George-Fernandez:
+    individualname: S, George Fernandez
+    role: creator
+  K-Vijayakumar:
+    individualname: K, Vijayakumar
+    role: creator
+  V-Kalyanasundaram:
+    individualname: V, Kalyanasundaram
+    role: creator
+  S-Vidyasagar:
+    individualname: S, Vidyasagar
+    role: creator
+  K-Selvakumar:
+    individualname: K, Selvakumar
+    role: creator
+  D-Selvabharathi:
+    individualname: D, Selvabharathi
+    role: creator
+  R-Palanisamy:
+    individualname: R, Palanisamy
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hinds_1842
+  dataseturi: https://doi.org/10.1080/03745484209445366
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "LI.\u2014The Physical Agents of Temperature, Humidity, Light, and Soil,\
+    \ considered as developing Climate, and in connexion with Geographic Botany"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "LI.\u2014The Physical Agents of Temperature, Humidity, Light, and Soil,\
+      \ considered as developing Climate, and in connexion with Geographic Botany"
+    url: http://dx.doi.org/10.1080/03745484209445366
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hinds-Richard-Brinsley:
+    individualname: Hinds, Richard Brinsley
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

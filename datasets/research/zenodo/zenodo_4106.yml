@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1110341
+  dataseturi: https://doi.org/10.5281/zenodo.1110341
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effects Of Soil Chemical Characteristics On Accumulation Of Native Selenium
+    By Zea Mays Grains In Maize Belt In Kenya
+  abstract: "Selenium is an-antioxidant which is important for\nhuman health enters\
+    \ food chain through crops. In Kenya Zea mays is\nconsumed by 96% of population\
+    \ hence is a cheap and convenient\nmethod to provide selenium to large number\
+    \ of population. Several\nsoil factors are known to have antagonistic effects\
+    \ on selenium\nspeciation hence the uptake by Zea mays. There are no studies in\n\
+    Kenya that has been done to determine the effects of soil\ncharacteristics (pH,\
+    \ Tcarbon, CEC, Eh) affect accumulation of\nselenium in Zea mays grains in Maize\
+    \ Belt in Kenya. About 100 Zea mays grain samples together with 100 soil samples\n\
+    were collected from the study site put in separate labeled Ziplocs and\nwere transported\
+    \ to laboratories at room temperature for analysis.\nMaize grains were analyzed\
+    \ for selenium while soil samples were\nanalyzed for pH, Cat Ion Exchange Capacity,\
+    \ total carbon, and\nelectrical conductivity. The mean selenium in Zea mays grains\
+    \ varied from 1.82 \xB1 0.76\nmg/Kg to 11\xB10.86 mg/Kg. There was no significant\
+    \ difference\nbetween selenium levels between different grain batches {\u03C7\
+    \ (Df =76)\n= 26.04 P= 1.00} The pH levels varied from 5.43\xB1 0.58 to 5.85\xB1\
+    \n0.32. No significant correlations between selenium in grains and soil\npH (Pearson's\
+    \ correlations = - 0.143), and between selenium levels in\ngrains and the four\
+    \ (pH, Tcarbon, CEC, Eh) soil chemical\ncharacteristics {F (4,91) = 0.721 p =\
+    \ 0.579} was observed. It can be concluded that the soil chemical characteristics\
+    \ in the\nstudy site did not significantly affect the accumulation of native\n\
+    selenium in Zea mays grains."
+  keywords:
+    default:
+      keywords:
+        subject: selenium.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-10-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1110341
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1110340
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-B.-Otieno:
+    individualname: S. B. Otieno
+    role: creator
+    organization: ''
+    url: ''
+  T.-S.-Jayne:
+    individualname: T. S. Jayne
+    role: creator
+    organization: ''
+    url: ''
+  M.-Muyanga:
+    individualname: M. Muyanga
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

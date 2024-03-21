@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hearn_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010011x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Duties of the Soil Survey Inspectors
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Duties of the Soil Survey Inspectors
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010011x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hearn-W.-E.:
+    individualname: Hearn, W. E.
+    role: creator
+  Hearn-W.E.:
+    individualname: Hearn, W.E.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

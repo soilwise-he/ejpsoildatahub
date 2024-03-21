@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1407329
+  dataseturi: https://doi.org/10.5281/zenodo.1407329
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Spatial Variability Of Soil Properties In Yakurr Local Government Area, Southeast
+    Nigeria
+  abstract: "The status and spatial variability of soil properties across agrarian\
+    \ communities in Yakurr Local Government Area, Southeast Nigeria were assessed\
+    \ and soil management strategies suggested for limiting soil properties. Nine\
+    \ communities were identified within the study area and soil samples collected\
+    \ from young fallow lands measuring 40 m by 40 m at depths of 0 \u2013 20 cm and\
+    \ 20 \u2013 40 cm to represent surface and subsurface soils respectively. The\
+    \ interpolation of the area was done using the deterministic methods of inverse\
+    \ distance weighting (IDW) in ArcGIS 10.2.2 software. The soils were sandy loam\
+    \ to loamy sand with the coefficients of variation (CV) of particle sizes ranked\
+    \ as clay&gt; silt&gt; sand while soil pH ranged between 5.2 and 5.75, and organic\
+    \ matter ranged from 7.4 in Ntamkpo to 20.3 gkg<sup>-1</sup> in Idomi with CV\
+    \ of 27.54%. Total N was generally low in the soils with CV of 31.25% in the surface\
+    \ soils and 58.36% in the subsurface soils. Available P and exchangeable basic\
+    \ cations were rated low but with high CVs except for exchangeable K<sup>+</sup>\
+    \ and Na<sup>+</sup> and ranked as P&gt; Mg&gt; Ca&gt; Na&gt; K. The ECEC was\
+    \ however rated medium with CV of 23.8% in the surface soils. It was however observed,\
+    \ that ECEC and organic matter were among the most spatially variable properties\
+    \ in the area. Intensified soil tests and farmer education were suggested to control\
+    \ the use of agrochemicals while unhealthy practices such as bush burning and\
+    \ unplanned continuous cropping should be checked. The integrated use of calcitic\
+    \ and dolomitic limes with organic inputs, crop rotation and bush fallow systems\
+    \ were also advocated."
+  keywords:
+    default:
+      keywords:
+        subject: soil management
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-05-22'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1407329
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1407328
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-I.-OFEM:
+    individualname: K., I. OFEM
+    role: creator
+    organization: Department of Soil Science, University of Calabar, Cross River State,
+      Nigeria.
+    url: ''
+  V.-F.-EDIENE:
+    individualname: V., F. EDIENE
+    role: creator
+    organization: Department of Soil Science, University of Calabar, Cross River State,
+      Nigeria.
+    url: ''
+  JOHN-KINGSLEY:
+    individualname: JOHN, KINGSLEY
+    role: creator
+    organization: Department of Soil Science, University of Calabar, Cross River State,
+      Nigeria.
+    url: ''
+  A.-U.-AKPAN-IDIOK:
+    individualname: A., U. AKPAN-IDIOK
+    role: creator
+    organization: Department of Soil Science, University of Calabar, Cross River State,
+      Nigeria.
+    url: ''
+content_info: {}

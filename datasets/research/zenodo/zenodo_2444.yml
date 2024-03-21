@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7793085
+  dataseturi: https://doi.org/10.5281/zenodo.7793085
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Hardening Accelerators (X-Seed 100 BASF, PCC, LKD and SALT) as Strength-Enhancing
+    Admixture Solutions for Soil Stabilization
+  abstract: 'This study is aimed at evaluating the strength of stabilised soil collected
+    from the Port of Norvik, Stockholm, Sweden, where 350,000 m 3 of clay had to be
+    stabilized. The tests were performed in the laboratory of the Swedish Geotechnical
+    Institute (SGI). The soil was stabilised by binder mixtures using Portland cement
+    clinker (PCC) and lime and lime kiln dust (LKD). Accelerators (X-seed 100 BASF,
+    PCC, LKD and salt) were added to the soil samples for quicker stabilization. The
+    strength of the stabilised soil was assessed using resonance frequency measurements
+    of seismic P-waves by an ICP accelerometer in order to estimate the shear strength
+    of the soil and to evaluate the effects from the accelerators, binder ratios,
+    and the curing temperature on the gains in stabilization and strength. Various
+    proportions of the binders were tested, i.e.: 50/50 cement/lime and 50/50 PCC/lime.
+    The temperature was measured using a calorimeter in double experiments. The results
+    showed that the accelerators improve the strength in the stabilized specimens
+    and enhance the soil performance for engineering construction work.'
+  keywords:
+    default:
+      keywords:
+        subject: Geotechnical Engineering
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-02'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7793085
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.2478/sjce-2023-0002
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7793084
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: "Lund University, Lunds Tekniska H\xF6gskola (Faculty of Engineering),\
+      \ Division of Building Materials"
+    url: https://orcid.org/0000-0002-0577-9936
+content_info: {}

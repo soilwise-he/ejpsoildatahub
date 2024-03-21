@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5542913
+  dataseturi: https://doi.org/10.5281/zenodo.5542913
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation and characterization of phosphate solubilizing bacteria in saline
+    soil from Costal Region of Odisha
+  abstract: "The present study was conducted to isolate phosphate solubilizing bacteria\
+    \ (PSB) from rhizospheric saline soils of coastal Odisha, India and evaluated\
+    \ their phosphate solubilizing ability. Total four PSB were isolated based on\
+    \ the halo zone formation (solubilizing index 2.63-3.14) on PVK agar medium and\
+    \ were characterized based on biochemical and molecular characteristics as <em>Bacillus\
+    \ subtilis</em> (B1), <em>B. megaterium</em> (B2), <em>Sphingomonas paucimobilis</em>\
+    \ (P2) and <em>Kocuria kristinae</em> (P6). The inorganic phosphate released by\
+    \ PSB ranged from 18.532 to 38.250\xB5g/ml with decreasing the pH PVK broth up\
+    \ to 3.9. Acid phosphatase activity for PSB were recorded 84.237-98.658\xB5mol/min.\
+    \ Glucose was found to be the best carbon source for <em>B. subtilis</em>, <em>Sphingomonas\
+    \ paucimobilis</em> and <em>Kocuria kristinae</em> whereas mannitol for <em>B.\
+    \ megaterium</em>. Optimum acid phosphatase activity was observed for all the\
+    \ four PSB isolates in presence of ammonium sulphate as nitrogen source in PVK\
+    \ broth at 30oC and pH 7.0."
+  keywords:
+    default:
+      keywords:
+        subject: Phosphate solubilizing ability; Halo zone; PSB; Solubilizing index;
+          Acid phosphatase
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-09-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5542913
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5542912
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bandita-Pati:
+    individualname: Bandita Pati
+    role: creator
+    organization: Department of Botany and Biotechnology, Ravenshaw University, Cuttack
+      753003, Odisha, India.
+    url: ''
+  Sanhita-Padhi:
+    individualname: Sanhita Padhi
+    role: creator
+    organization: Department of Botany and Biotechnology, Ravenshaw University, Cuttack
+      753003, Odisha, India.
+    url: ''
+content_info: {}

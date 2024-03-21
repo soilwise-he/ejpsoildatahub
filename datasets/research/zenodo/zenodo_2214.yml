@@ -1,0 +1,117 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Siva_Subramanian_2020
+  dataseturi: https://doi.org/10.1029/2019JF005468
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "A Sequentially Coupled Catchment\u2010Scale Numerical Model for Snowmelt\u2010\
+    Induced Soil Slope Instabilities"
+  abstract: "&lt;p&gt;We propose a novel modeling strategy to study the stability\
+    \ of soil slopes under the influence of both snowmelt and rainfall at a regional\
+    \ scale. Our manuscript entitled &#39;A sequentially coupled catchment\u2010scale\
+    \ numerical model for snowmelt\u2010induced soil slope instabilities&#39; can\
+    \ be found from the following &lt;a href=\"https://doi.org/10.1029/2019JF005468\"\
+    &gt;https://doi.org/10.1029/2019JF005468&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;In the\
+    \ manuscript, first, we explain the governing mechanisms of snowmelt-induced landslides;\
+    \ then, we present our strategy along with detailed explanations of the equations\
+    \ we use. We test our model by predicting a known case study (the snowmelt-induced\
+    \ landslides of 2005 in Niigata, Japan) and obtain a reasonably good result. Along\
+    \ with the manuscript we provide additional following datasets&nbsp;as part of\
+    \ the data sharing policy of the AGU.&lt;/p&gt;\n\n&lt;ol&gt;\n\t&lt;li&gt;Aster\
+    \ imagery derived inventory of the 2005 snowmelt-induced landslides over the Imo\
+    \ basin.&lt;/li&gt;\n\t&lt;li&gt;Climate data in the study area for the period\
+    \ of October 2004 &ndash; May 2005.&lt;/li&gt;\n\t&lt;li&gt;10-m resolution Digital\
+    \ Elevation Model of the Imo basin (study area).&nbsp;&lt;/li&gt;\n&lt;/ol&gt;\n\
+    \n&lt;p&gt;Readers are free to use these data for research purposes with due credit\
+    \ to the authors of this manuscript.&nbsp;We are also willing to share additional\
+    \ details about our numerical model as on request.&nbsp;&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - snowmelt-induced landslide
+      - seasonal cold region
+      - shallow slope failure
+      - catchment-scale landslide hazard
+      - slope stability modeling
+      - GIS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "A Sequentially Coupled Catchment\u2010Scale Numerical Model for Snowmelt\u2010\
+      Induced Soil Slope Instabilities"
+    url: http://dx.doi.org/10.1029/2019JF005468
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Siva-Subramanian-Srikrishnan:
+    individualname: Siva Subramanian, Srikrishnan
+    role: creator
+  Fan-Xuanmei:
+    individualname: Fan, Xuanmei
+    role: creator
+  Yunus-Ali.-P:
+    individualname: Yunus, Ali. P
+    role: creator
+  van-Asch-Theo:
+    individualname: van Asch, Theo
+    role: creator
+  Scaringi-Gianvito:
+    individualname: Scaringi, Gianvito
+    role: creator
+  Xu-Qiang:
+    individualname: Xu, Qiang
+    role: creator
+  Dai-Lanxin:
+    individualname: Dai, Lanxin
+    role: creator
+  Ishikawa-Tatsuya:
+    individualname: Ishikawa, Tatsuya
+    role: creator
+  Huang-R:
+    individualname: Huang, R
+    role: creator
+  Siva-Subramanian-S.:
+    individualname: Siva Subramanian, S.
+    role: creator
+  Fan-X.:
+    individualname: Fan, X.
+    role: creator
+  Yunus-A.-P.:
+    individualname: Yunus, A. P.
+    role: creator
+  van-Asch-T.:
+    individualname: van Asch, T.
+    role: creator
+  Scaringi-G.:
+    individualname: Scaringi, G.
+    role: creator
+  Xu-Q.:
+    individualname: Xu, Q.
+    role: creator
+  Dai-L.:
+    individualname: Dai, L.
+    role: creator
+  Ishikawa-T.:
+    individualname: Ishikawa, T.
+    role: creator
+  Huang-R.:
+    individualname: Huang, R.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+content_info: {}

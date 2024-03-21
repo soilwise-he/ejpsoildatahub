@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Fayjaloun_2021
+  dataseturi: https://doi.org/10.3390/geosciences11060249
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Sensitivity of Earthquake Damage Estimation to the Input Data (Soil Characterization
+    Maps and Building Exposure): Case Study in the Luchon Valley, France'
+  abstract: '&lt;p&gt;This article studies the effects of the soil data and exposure
+    data of residential building inventories, as well as their spatial resolution,
+    on seismic damage and loss estimates for a given earthquake scenario. Our aim
+    is to investigate how beneficial it would be to acquire higher resolution inventories
+    at the cost of additional effort and resources. Seismic damage computations are
+    used to evaluate the relative influence of varying spatial resolution on a given
+    damage model, where other parameters were held constant. We use soil characterization
+    maps and building exposure inventories, provided at different scales from different
+    sources: the European database, a national dataset at the municipality scale,
+    and local field investigations. Soil characteristics are used to evaluate site
+    effects and to assign amplification factors to the strong motion applied to the
+    exposed areas. Exposure datasets are used to assign vulnerability indices to sets
+    of buildings, from which a damage distribution is produced (based on the applied
+    seismic intensity). The different spatial resolutions are benchmarked in a case-study
+    area which is subject to moderate-to-average seismicity levels (Luchon valley
+    in the Pyr&eacute;n&eacute;es, France). It was found that the proportion of heavily
+    damaged buildings is underestimated when using the European soil map and the European
+    building database, while the more refined databases (national/regional vs. local
+    maps) result in similar estimates for moderate earthquake scenarios. Finally,
+    we highlight the importance of pooling open access data from different sources,
+    but caution the challenges of combining different datasets, especially depending
+    on the type of application that is pursued (e.g., for risk mitigation or rapid
+    response tools).&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - damage and loss assessment
+      - site effects
+      - exposure modelling
+      - spatial resolution
+      - earthquake scenario
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Sensitivity of Earthquake Damage Estimation to the Input Data (Soil Characterization
+      Maps and Building Exposure): Case Study in the Luchon Valley, France'
+    url: http://dx.doi.org/10.3390/geosciences11060249
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rosemary-Fayjaloun:
+    individualname: Rosemary Fayjaloun
+    role: creator
+  Caterina-Negulescu:
+    individualname: Caterina Negulescu
+    role: creator
+  Agathe-Roulle:
+    individualname: "Agathe Roull\xE9"
+    role: creator
+  Samuel-Auclair:
+    individualname: Samuel Auclair
+    role: creator
+  Pierre-Gehl:
+    individualname: Pierre Gehl
+    role: creator
+  Marta-Faravelli:
+    individualname: Marta Faravelli
+    role: creator
+  Fayjaloun-Rosemary:
+    individualname: Fayjaloun, Rosemary
+    role: creator
+  Negulescu-Caterina:
+    individualname: Negulescu, Caterina
+    role: creator
+  Roull(c)-Agathe:
+    individualname: "Roull\u221A\xA9, Agathe"
+    role: creator
+  Auclair-Samuel:
+    individualname: Auclair, Samuel
+    role: creator
+  Gehl-Pierre:
+    individualname: Gehl, Pierre
+    role: creator
+  Faravelli-Marta:
+    individualname: Faravelli, Marta
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

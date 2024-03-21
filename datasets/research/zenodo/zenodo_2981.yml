@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3818108
+  dataseturi: https://doi.org/10.5281/zenodo.3818108
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Factors controlling the temporal changes of geogenic soil CO2 flux in a non-volcanic
+    and seismically inactive emission site, South Korea
+  abstract: We monitored the temporal changes of soil CO<sub>2</sub> flux at a high
+    flux point within a non-volcanic and seismically inactive region for three periods.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-05-09'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3818108
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3818107
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chan-Yeong-Kim:
+    individualname: Chan Yeong Kim
+    role: creator
+  Soonyoung-Yu:
+    individualname: Soonyoung Yu
+    role: creator
+    organization: Korea University
+    url: ''
+  Yun-Yeong-Oh:
+    individualname: Yun-Yeong Oh
+    role: creator
+    organization: Korea University
+    url: ''
+  Gitak-Chae:
+    individualname: Gitak Chae
+    role: creator
+    organization: Korea Institute of Geoscience and Mineral Resources
+    url: ''
+  Seong-Taek-Yun:
+    individualname: Seong-Taek Yun
+    role: creator
+    organization: Korea University
+    url: ''
+  Young-Jae-Shinn:
+    individualname: Young-Jae Shinn
+    role: creator
+  Kim-Chan-Yeong:
+    individualname: Kim, Chan Yeong
+    role: ''
+    organization: Korea Institute of Geoscience and Mineral Resources
+    url: ''
+  Shinn-Young-Jae:
+    individualname: Shinn, Young-Jae
+    role: ''
+    organization: Korea Institute of Geoscience and Mineral Resources
+    url: ''
+content_info: {}

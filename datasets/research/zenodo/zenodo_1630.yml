@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1084119
+  dataseturi: https://doi.org/10.5281/zenodo.1084119
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Experimental Study On Modification Of Geotechnical Properties Of Expansive
+    Soil Through Inorganic Chemicals
+  abstract: Construction of foundation and other civil engineering structures on weak
+    or soft soil involves risk due to the susceptibility of high compressive and poor
+    shear strength. In the constructions of   foundation on soft soils, the subsoil
+    needs to have adequate bearing capacity and shear strength to prevent unnecessary
+    differential settlements and shear failure of the substructure. If the bearing
+    capacity and shear strength is insufficient, it can be increased by replacing
+    good soil in place of bad soil, which involves high financial aspects or improve
+    the properties of existing soil by ground improvement techniques. There are several
+    techniques available to improve the soil properties. In this investigation, an
+    attempt has been made to study the effect of the chemicals like Sodium Carbonate
+    (Na2C03), Calcium Carbonate (CaC03), on the geotechnical properties of an expansive
+    soil. 1.25% amount of Sodium Carbonate (Na2C03) and Calcium Carbonate (CaC03)
+    is found effective in reducing the plasticity characteristics to a certain extent
+    in the tested range when mixed with soil. The pH values of soil admixed with Sodium
+    Carbonate (Na2C03) and Calcium Carbonate (CaC03) is also higher than that of the
+    untreated soil.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Stabilization, Chemicals, Sodium Carbonate (Na2C03), Calcium
+          Carbonate (CaC03), Expansive Soil, pH Value etc
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1084119
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1084118
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jitendra-Nayak*1--Tapas-Singh2:
+    individualname: Jitendra Nayak*1 & Tapas Singh2
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

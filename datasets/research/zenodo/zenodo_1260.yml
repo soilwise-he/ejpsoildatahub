@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pasquier_2021
+  dataseturi: https://doi.org/10.24349/o7z8-gXu4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Predation capacity of soil-dwelling predatory mites on two major maize pests
+  abstract: 'Pasquier, Antoine, Andrieux, Thibault, Martinez-Rodiguez, Paloma, Vercken,
+    Elodie, Ferrero, Maxime (2021): Predation capacity of soil-dwelling predatory
+    mites on two major maize pests. Acarologia 61 (3): 577-580, DOI: 10.24349/o7z8-gXu4,
+    URL: http://www1.montpellier.inrae.fr/CBGP/acarologia/article.php?id=4450'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Predation capacity of soil-dwelling predatory mites on two major maize pests
+    url: http://dx.doi.org/10.24349/o7z8-gXu4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pasquier-Antoine:
+    individualname: Pasquier, Antoine
+    role: creator
+  Andrieux-Thibault:
+    individualname: Andrieux, Thibault
+    role: creator
+  Martinez-Rodiguez-Paloma:
+    individualname: Martinez-Rodiguez, Paloma
+    role: creator
+  Vercken-Elodie:
+    individualname: Vercken, Elodie
+    role: creator
+  Ferrero-Maxime:
+    individualname: Ferrero, Maxime
+    role: creator
+  Les-Amis-d'Acarologia:
+    individualname: "Les Amis d\u2019Acarologia"
+    role: creator
+content_info: {}

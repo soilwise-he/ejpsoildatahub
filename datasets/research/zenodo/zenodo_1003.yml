@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wang_1990
+  dataseturi: https://doi.org/10.1109/36.58980
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The L-band PBMR measurements of surface soil moisture in FIFE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The L-band PBMR measurements of surface soil moisture in FIFE
+    url: http://dx.doi.org/10.1109/36.58980
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wang-James-R.:
+    individualname: Wang, James R.
+    role: creator
+  Shiue-James-C.:
+    individualname: Shiue, James C.
+    role: creator
+  Schmugge-Thomas-J.:
+    individualname: Schmugge, Thomas J.
+    role: creator
+  Engman-Edwin-T.:
+    individualname: Engman, Edwin T.
+    role: creator
+  Wang-J.R.:
+    individualname: Wang, J.R.
+    role: creator
+  Shiue-J.C.:
+    individualname: Shiue, J.C.
+    role: creator
+  Schmugge-T.J.:
+    individualname: Schmugge, T.J.
+    role: creator
+  Engman-E.T.:
+    individualname: Engman, E.T.
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

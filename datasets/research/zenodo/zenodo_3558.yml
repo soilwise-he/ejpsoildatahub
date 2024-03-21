@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3270850
+  dataseturi: https://doi.org/10.5281/zenodo.3270850
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Review : The Impact of Biochar Application in Remediation of Contaminated
+    Soil'
+  abstract: 'Biochar is the carbon rich co-product of pyrolysis or gasification of
+    biomass. In order to remediate contaminated sites, bioremediation has often been
+    employed successfully. The utilisation of biochar in such contaminated sites is
+    suggested to be an important tool to enhance remediation by governing the mobility
+    and fate of the pollutants as a soil amendment. When biochar is incorporated into
+    soil can retain nutrients and other organic compounds. Positive impacts of biochar
+    amendment on soils include: increasing soil capacity to sorb plant nutrients,
+    consequently reducing leaching losses of nutrients; decreasing soil bulk density,
+    leading to less-compacted soil conditions favorable for root growth and water
+    permeability; increasing the soil cation exchange capacity; increasing soil microbial
+    activity and diversity; increasing plant available water retention; and increasing
+    crop yields.'
+  keywords:
+    default:
+      keywords:
+        subject: soil productivity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3270850
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3270849
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Widyawati-Afrilia-Tri:
+    individualname: Widyawati, Afrilia Tri
+    role: creator
+    organization: East Kalimantan Assessment Institute for Agricultural Technology
+    url: ''
+  Amin-Muhammad:
+    individualname: Amin, Muhammad
+    role: creator
+    organization: East Kalimantan Assessment Institute for Agricultural Technology
+    url: ''
+content_info: {}

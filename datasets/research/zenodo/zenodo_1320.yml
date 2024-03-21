@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ATKINS_1921
+  dataseturi: https://doi.org/10.1038/108568c0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Hydrogen-ion Concentration of the Soil in Relation to Animal Distribution
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Hydrogen-ion Concentration of the Soil in Relation to Animal Distribution
+    url: http://dx.doi.org/10.1038/108568c0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Atkins-W.-R.-G.:
+    individualname: Atkins, W. R. G.
+    role: creator
+  ATKINS-W.-R.-G.:
+    individualname: ATKINS, W. R. G.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

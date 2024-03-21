@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3540667
+  dataseturi: https://doi.org/10.5281/zenodo.3540667
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Geotechnical Properties of Lateritic Soil at Some Selected Portions across
+    Old Ogbomoso-Ilorin Road
+  abstract: Road Network is considered very vital in the economy of any nation, especially
+    in developing ones, like Nigeria. The old Ogbomoso-Ilorin road is in a failed
+    state of which has been characterized with different form of road failures. This
+    study investigates road failure at some selected portions across old Ogbomoso-Ilorin
+    road. Digital Elevation Map and Land use map of the area were produced using Arc
+    GIS 10.3. Three laterites samples were collected from the failed portion (washout)
+    of the road for geotechnical analysis. Geotechnical properties (Sieve Analysis,
+    Liquid limit, plastic limit, plastic Index, Optimum Moisture Content (OMC), Maximum
+    Dry Density (MDD), California Bearing Ratio (soaked and unsoaked) were determined
+    on the laterites. The results were compared with Federal Ministry of Work Specification
+    for Roads. The percentage passing through sieve No. 200 for sample 1 and 3 is
+    greater than 35% and for the sample 2 is less than 35. The liquid limit, plastic
+    limit and plastic index for the laterites varied from 29-45, 20-31 and 9-17, respectively.
+    The OMC, MDD and CBR soaked and unsoaked ranged from 8.0 to 8.30%, 2.01 to 2.22g/cm3,
+    14-64% and 21-49% respectively. Laterite material from location 2 meets the specification
+    to be used as Subgrade material. The geotechnical properties of both binder and
+    wearing course materials are recommended.
+  keywords:
+    default:
+      keywords:
+        subject: http://hbrppublication.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3540667
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3540666
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Olaniyan-O.S.:
+    individualname: Olaniyan, O.S.
+    role: creator
+    organization: Department of Civil Engineering, Ladoke Akintola University of Technology,
+      Ogbomoso, Oyo State, Nigeria.
+    url: ''
+  Adisa-O.-A.:
+    individualname: Adisa O., A.
+    role: creator
+    organization: Department of Civil Engineering, Ladoke Akintola University of Technology,
+      Ogbomoso, Oyo State, Nigeria.
+    url: ''
+  Ayinde-R.B.:
+    individualname: Ayinde, R.B.
+    role: creator
+    organization: Department of Civil Engineering, Ladoke Akintola University of Technology,
+      Ogbomoso, Oyo State, Nigeria.
+    url: ''
+  Olagbemiro-B.O.:
+    individualname: Olagbemiro, B.O.
+    role: creator
+    organization: Department of Civil Engineering, Ladoke Akintola University of Technology,
+      Ogbomoso, Oyo State, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3561237
+  dataseturi: https://doi.org/10.5281/zenodo.3561237
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative Study of Lateritic soil in Mingon Area, Hlegu Township, Yangon
+    Region and Meyon Area, Kyaikhto Township, Mon State
+  abstract: Lateritic soils are found in Lower Myanmar to the south of the Bago Yoma
+    and in the Tanintharyi area, particularly near Mawlamyaing.
+  keywords:
+    default:
+      keywords:
+        subject: https://zenodo.org/deposit/3561237
+        subjectScheme: url
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-12-04'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3561237
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3561236
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hlaing-Myo-Nwe:
+    individualname: Hlaing Myo Nwe
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

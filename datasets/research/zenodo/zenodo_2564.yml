@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Diongue_2022
+  dataseturi: https://doi.org/10.1080/02626667.2022.2142474
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Evaluation of parameterisation approaches for estimating soil hydraulic parameters
+    with HYDRUS-1D in the groundnut basin of Senegal
+  abstract:
+  - '&lt;p&gt;Soil hydraulic parameters (SHPs) required as inputs for numerical models
+    are scarce in Sahelian regions. Instead, they are estimated using pedotransfer
+    functions (PTFs), but their ability to simulate soil water dynamics has not been
+    evaluated. This study aims to parameterize SHPs with seven different PTFs and
+    inverse modelling to examine their ability to simulate water fluxes in Senegal&rsquo;s
+    Groundnut basin. We used four years of field measurements of soil water content
+    (SWC) and actual evapotranspiration (ETa) under pearl millet and groundnut crop
+    rotation for model evaluation. Inverse modelling for SWC (root mean square error
+    [RMSE] &le; 0.015 cm3 cm&minus;3) and ETa (RMSE &le; 0.62 mm d&minus;1) yielded
+    the best model performance compared to PTFs (0.024&ndash;0.175 cm3 cm&minus;3
+    and 0.68&ndash;0.96 mm d&minus;1, respectively). Where field measurements are
+    lacking for inverse estimation, three of the seven tested PTFs yielded good modelling
+    results and could be used as a parsimonious approach for cultivated Sahelian soils.&nbsp;&lt;/p&gt;'
+  - https://www.tandfonline.com/doi/full/10.1080/02626667.2022.2142474
+  keywords:
+    default:
+      keywords:
+      - soil hydraulic parameters
+      - soil moisture
+      - evapotranspiration
+      - HYDRUS-1D
+      - loamy sand soil
+      - Sahelian cropping system
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Evaluation of parameterisation approaches for estimating soil hydraulic
+      parameters with HYDRUS-1D in the groundnut basin of Senegal
+    url: http://dx.doi.org/10.1080/02626667.2022.2142474
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Diongue-Djim-M.-L.:
+    individualname: Diongue, Djim M. L.
+    role: creator
+  Roupsard-Olivier:
+    individualname: Roupsard, Olivier
+    role: creator
+  Do-Frederic-C.:
+    individualname: Do, Frederic C.
+    role: creator
+  Stumpp-Christine:
+    individualname: Stumpp, Christine
+    role: creator
+  Orange-Didier:
+    individualname: Orange, Didier
+    role: creator
+  Sow-Sidy:
+    individualname: Sow, Sidy
+    role: creator
+  Jourdan-Christophe:
+    individualname: Jourdan, Christophe
+    role: creator
+  Faye-Serigne:
+    individualname: Faye, Serigne
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

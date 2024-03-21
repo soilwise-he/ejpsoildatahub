@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7962926
+  dataseturi: https://doi.org/10.5281/zenodo.7962926
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Chemical Soil Properties of Four Suburban Farms in Santiago de Cuba
+  abstract: '<strong>Context: </strong>Soil is an important resource and it is the
+    basis for agricultural forestry exploitation. The chemical properties are linked
+    to nutrient availability. Proper research of the soil chemical nature indicators
+    is needed to understand soil fertility. <strong>Aim: </strong>To evaluate the
+    behavior of some chemical properties of the soil on four suburban farms in Santiago
+    de Cuba. <strong>Methods: </strong>The soil was dug to collect samples from every
+    soil horizon. After identification, the samples were taken to the laboratories
+    of Oriente Geomining Company. The contents of calcium (Ca<sup>2+</sup>), magnesium
+    (Mg<sup>2+</sup>), aluminum (Al<sup>3+</sup>), sodium (Na<sup>+</sup>), and potassium
+    (K<sup>+</sup>) were determined, along with the cationic ratios, the pH, the effective
+    cationic exchange capacity (CICe), base saturation percentage (V), the saturation
+    associated with CICe, and the organic matter (M.O.) <strong>Results: </strong>The
+    Ca<sup>2+</sup>, Na<sup>+</sup>, and K<sup>+</sup> contents underwent a variable
+    behavior, whereas Al<sup>3+</sup> and Mg<sup>2+</sup> behaved similarly, in all
+    the cases above the soil permissibility limits. The pH was the least variable
+    property, above 7, the V value in all the cases surpassed 85%, and CICe was above
+    50 cmol.Kg<sup>-1</sup>. The Ca<sup>2+</sup>/MG<sup>2+</sup> showed a favorable
+    balance, Na<sup>+</sup> saturation was high, and the O.M. content was generally
+    low. <strong>Conclusions: </strong>The chemical properties of the farm soils analyzed
+    were a constraining factor to the development of production. Despite the potential
+    fertility and proper nutrient contents, the ratios between the elements makes
+    them so fixed in the soil in forms that cannot be assimilated by the crops.'
+  keywords:
+    default:
+      keywords:
+        subject: soil properties
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-04'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7962926
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7377473
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vargas-Batis-Belyani:
+    individualname: Vargas Batis, Belyani
+    role: creator
+    organization: University of Oriente, Department of Agronomy, Santiago de Cuba,
+      Cuba.
+    url: https://orcid.org/0000-0002-6698-1281
+  Escobar-Perea-Yatniel:
+    individualname: Escobar Perea, Yatniel
+    role: creator
+    organization: University of Oriente, Student-Scientific Team of Environmental
+      Management of Agricultural Ecosystems, Santiago de Cuba, Cuba.
+    url: https://orcid.org/0000-0002-9687-2481
+  Rodriguez-Fonseca-Rubert:
+    individualname: "Rodr\xEDguez Fonseca, Rubert"
+    role: creator
+    organization: University of Oriente, Student-Scientific Team of Environmental
+      Management of Agricultural Ecosystems, Santiago de Cuba, Cuba.
+    url: https://orcid.org/0000-0002-6032-6438
+  Ramos-Garcia-Yordi-Mauro:
+    individualname: "Ramos Garc\xEDa, Yordi Mauro"
+    role: creator
+    organization: University of Oriente, Student-Scientific Team of Environmental
+      Management of Agricultural Ecosystems, Santiago de Cuba, Cuba.
+    url: https://orcid.org/0000-0001-6282-0248
+  Rodriguez-Suarez-Ernesto-Jesus:
+    individualname: "Rodr\xEDguez Su\xE1rez, Ernesto Jes\xFAs"
+    role: creator
+    organization: University of Oriente, Student-Scientific Team of Environmental
+      Management of Agricultural Ecosystems, Crop Collection Company (EES) Santiago
+      de Cuba, Cuba.
+    url: https://orcid.org/0000-0002-7602-9913
+  Fuente-Miranda-Onelkis:
+    individualname: Fuente Miranda, Onelkis
+    role: creator
+    organization: University of Oriente, Student-Scientific Team of Environmental
+      Management of Agricultural Ecosystems, Crop Collection Company (EES) Santiago
+      de Cuba, Cuba.
+    url: https://orcid.org/0000-0002-0609-340X
+content_info: {}

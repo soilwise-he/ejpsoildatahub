@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2386633
+  dataseturi: https://doi.org/10.5281/zenodo.2386633
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: IOT BASED SOIL TESTING.
+  abstract: Soil Analysis has become an essential factor for effective cultivation.
+    There are many existing methodologies for soil testing. Earlier soil testing was
+    done in laboratories and research centers which took a lot of time and effort
+    to achieve results. In today?s world, with advancements in technology and digitization,
+    it has become possible to do soil testing using various portable sensors. With
+    the help of IoT is has become possible to connect the sensors to the internet.
+    We intend to use these sensors with IoT for performing soil testing anywhere and
+    anytime. The existing methodologies test various parameters like moisture, respiration,
+    bulk density, color texture, pH, temperature, etc. Testing various parameters
+    will be costly. Thus, the aim of this project is to provide soil testing and analysis
+    at the lowest possible cost. Analyzing a few parameters also provide the same
+    result of analysis. Thus, we use affordable yet efficient sensors for testing
+    soil parameters like pH, moisture, humidity and temperature. Performing analysis
+    is the main challenge that will be addressed in this project. The existing systems
+    used platform dependent system or hardware dependent system. Some testing methods
+    used platforms like Losant, etc. to display result in form of graphical representation
+    and then transferred readings via SMS. Some systems used hardware like Bluetooth
+    or Zigbee to transfer results to the users mobile which when connected to internet
+    uploaded the readings to the server and then gave analysis on the readings. This
+    project intends to proceed by using Raspberry Pi which will enable sensor readings
+    to be uploaded on the cloud. The system will the send the suitable crop list to
+    the user?s mobile via SMS. On comparing results of the research papers and our
+    expected output, we concluded that in our project, we need to collect the feedback
+    from the users after certain period of time so that we can validate our predictions.
+  keywords:
+    default:
+      keywords:
+        subject: International Journal of Advanced Research (IJAR)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-11-12'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2386633
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2386632
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hridesh-Shah:
+    individualname: Hridesh Shah
+    role: creator
+    organization: ''
+    url: ''
+  Dhruv-Shah:
+    individualname: Dhruv Shah
+    role: creator
+    organization: ''
+    url: ''
+  Jeet-Shah:
+    individualname: Jeet Shah
+    role: creator
+    organization: ''
+    url: ''
+  Akshat-Shah:
+    individualname: Akshat Shah
+    role: creator
+    organization: ''
+    url: ''
+  Karan-Shah:
+    individualname: Karan Shah
+    role: creator
+  KrupalVora.:
+    individualname: KrupalVora.
+    role: creator
+    organization: ''
+    url: ''
+  Shah-Karan:
+    individualname: Shah, Karan
+    role: ''
+    organization: International Journal of Advanced Research (IJAR)
+    url: ''
+content_info: {}

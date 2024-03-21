@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.198779
+  dataseturi: https://doi.org/10.5281/zenodo.198779
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Adamystis thailandensis sp. nov. (Acari: Prostigmata: Adamystidae), a new
+    species of soil mites from Thailand with a key to world species of Adamystidae'
+  abstract: 'Fuangarworn, Marut, Lekprayoon, Chariya (2010): Adamystis thailandensis
+    sp. nov. (Acari: Prostigmata: Adamystidae), a new species of soil mites from Thailand
+    with a key to world species of Adamystidae. Zootaxa 2649: 61-68, DOI: 10.5281/zenodo.198779'
+  keywords:
+    default:
+      keywords:
+        subject: Adamystidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2010-12-31'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.198779
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6495225
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.6495223
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.5281/zenodo.198780
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.5281/zenodo.198781
+    type: WWW:LINK
+    title: HasPart
+  r7:
+    url: https://doi.org/10.5281/zenodo.198782
+    type: WWW:LINK
+    title: HasPart
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fuangarworn-Marut:
+    individualname: Fuangarworn, Marut
+    role: creator
+    organization: ''
+    url: ''
+  Lekprayoon-Chariya:
+    individualname: Lekprayoon, Chariya
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

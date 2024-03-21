@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hilgard_1908
+  dataseturi: https://doi.org/10.1126/science.27.682.140
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The Soil-preferences of Certain Alpine and Subalpine Plants\n          \
+    \  . By M. L Fernald. Contr. from the Gray Herbarium. Rhodora, September, 1907.\
+    \ 44 pp."
+  abstract: v.9 (1907)
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The Soil-preferences of Certain Alpine and Subalpine Plants\n         \
+      \   . By M. L Fernald. Contr. from the Gray Herbarium. Rhodora, September, 1907.\
+      \ 44 pp."
+    url: http://dx.doi.org/10.1126/science.27.682.140
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fernald:
+    individualname: Fernald,
+    role: creator
+  Lyndon-Merritt:
+    individualname: Lyndon, Merritt
+    role: creator
+  M.-L.:
+    individualname: M. L.,
+    role: creator
+  Hilgard-E.-W.:
+    individualname: Hilgard, E. W.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

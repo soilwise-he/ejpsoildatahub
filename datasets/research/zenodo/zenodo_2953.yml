@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8092
+  dataseturi: https://doi.org/10.5281/zenodo.8092
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study Of Grass-Legume Intercropping System In Terms Of Competition Indices
+    And Monetary Advantage Index Under Acid Lateritic Soil Of India
+  abstract: Association of sabai grass (Eulaliopsis binata) and blackgram (Vigna mungo)
+    was studied under three intercropping ratios viz., 1:1, 1:2 and 3:5 for two years
+    under acid lateritic soil. Both sabai grass and blackgram were grown as sole crop
+    for comparison. It was found that leaf yield of sabai grass was significantly
+    higher in intercropping than in monoculture system with the maximum value under
+    1:2 ratio. Higher land equivalent ratio (up to 2.01) and monetary advantage index
+    (as high as US $ 207.0) was recorded under 1:2 intercropping ratio. The growth
+    and yield of blackgram were affected when intercropped with sabai grass as compared
+    to sole crop. Intercropped blackgram recorded up to 68.7% decrease in grain yield
+    when compared with sole blackgram.
+  keywords:
+    default:
+      keywords:
+        subject: Lateritic soil.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2010-11-27'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8092
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahapatra-S-C:
+    individualname: Mahapatra, S C
+    role: creator
+    organization: Rural Development Centre, Indian Institute of Technology, Kharagpur
+      721 302, West Bengal, India.
+    url: ''
+content_info: {}

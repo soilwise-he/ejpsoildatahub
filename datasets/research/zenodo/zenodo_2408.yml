@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zireeni_2023
+  dataseturi: https://doi.org/10.1016/j.envadv.2023.100447
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Influence of slurry acidification with H2SO4 on soil pH, N, P, S, and C
+    dynamics: Incubation experiment'
+  abstract: "&lt;p&gt;Acidifying slurry with sulfuric acid (H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;)\
+    \ is practiced in some countries for reducing ammonia (NH&lt;sub&gt;3&lt;/sub&gt;)\
+    \ emissions during slurry storage and spreading to land. However, knowledge on\
+    \ how the application of acidified slurry affects soil health and nutrient cycling\
+    \ is lacking. This is particularly important since acidification with H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;&nbsp;can\
+    \ substitute a sulfur (S) mineral fertilizer to increasingly S-deficient agricultural\
+    \ soils. We hypothesized that (\u2170) slurry acidification would decrease the\
+    \ soil pH over a prolonged period, and as a result (\u2171) would increase the\
+    \ extractable N, P, C and S concentrations, (\u2172) and decrease greenhouse gas\
+    \ emissions. By using laboratory mesocosms, the nutrient (C, N, P and S) dynamics\
+    \ were monitored in an arable sandy clay loam soil receiving acidified and non-acidified\
+    \ cattle slurry in a 2-month incubation. Estimations of greenhouse gas emissions\
+    \ (CO&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt;, N&lt;sub&gt;2&lt;/sub&gt;O),\
+    \ soil-pore- water components (NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;&minus;&lt;/sup&gt;,\
+    \ NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;, PO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;3&minus;&lt;/sup&gt;,\
+    \ SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2&minus;&lt;/sup&gt;, DOC, DON, pH) were\
+    \ performed on static mesocosms. In addition, a parallel set of mesocosms were\
+    \ used for soil extractions using distilled water and 0.5 M K&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;.\
+    \ There were six treatments: (1) soil (control), (2) soil&nbsp;+&nbsp;slurry,\
+    \ (3) soil&nbsp;+&nbsp;acidified slurry (with H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;,\
+    \ pH =5.5), (4) soil&nbsp;+&nbsp;HCl, (5) soil&nbsp;+&nbsp;K&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;,\
+    \ and (6) soil&nbsp;+&nbsp;K&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;&nbsp;+&nbsp;H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;.\
+    \ Our results showed that over the incubation, slurry acidification reduced soil\
+    \ pH by at least 0.4 units. Water soluble PO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;3&minus;&lt;/sup&gt;-P\
+    \ concentration was also reduced, whilst extractable DOC and NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;&mdash;&lt;/sup&gt;N\
+    \ concentrations were increased; the latter as a result of stimulated N mineralization\
+    \ in the acidification treatments (3, 4 and 6). Differences in water soluble SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;&nbsp;-S\
+    \ concentrations per treatment were not significant over time.&lt;/p&gt;\n&lt;p&gt;Slurry\
+    \ acidification did not significantly affect N&lt;sub&gt;2&lt;/sub&gt;O emissions\
+    \ but decreased net CO&lt;sub&gt;2&lt;/sub&gt;&nbsp;and CH&lt;sub&gt;4&lt;/sub&gt;&nbsp;emissions\
+    \ leading to an overall reduction in the soil's total greenhouse gas footprint\
+    \ (expressed as CO&lt;sub&gt;2&lt;/sub&gt;e). We conclude that application of\
+    \ acidified slurry to soil can reduce soil pH by at least 0.4 pH units for up\
+    \ to 2-months before it is buffered back to the pH level of the soil that received\
+    \ the non-acidified slurry. In addition to increasing organic N mineralization\
+    \ with limited impacts on P and S dynamics of the soil and the slurry.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Influence of slurry acidification with H2SO4 on soil pH, N, P, S, and C
+      dynamics: Incubation experiment'
+    url: http://dx.doi.org/10.1016/j.envadv.2023.100447
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zireeni-Yusra:
+    individualname: Zireeni, Yusra
+    role: creator
+  Jones-Davey-L.:
+    individualname: Jones, Davey L.
+    role: creator
+  Chadwick-David-R.:
+    individualname: Chadwick, David R.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

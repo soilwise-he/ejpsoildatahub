@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hall_1907
+  dataseturi: https://doi.org/10.1039/ct9079100677
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "LXIII.\u2014The interaction of ammonium salts and the constituents of the\
+    \ soil"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "LXIII.\u2014The interaction of ammonium salts and the constituents of the\
+      \ soil"
+    url: http://dx.doi.org/10.1039/ct9079100677
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hall-Alfred-Daniel:
+    individualname: Hall, Alfred Daniel
+    role: creator
+  Gimingham-Conrad-Theodore:
+    individualname: Gimingham, Conrad Theodore
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

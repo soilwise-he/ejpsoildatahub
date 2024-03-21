@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kov_cs_2018
+  dataseturi: https://doi.org/10.19040/ecocycles.v4i2.115
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Sustainable soil management in the Badacsony Wine District
+  abstract: '&lt;p&gt;Agricultural landscapes with historical hillside vineyard cultivation
+    have a touristic, economic, and environmental value in the Balaton uplands. However,
+    sustainable cultivation methods are becoming increasingly important within today&#39;s
+    adaptation to climate change impacts on these lands much exposed to erosion. Our
+    long-term field experiment compared the effects of several soil-cover methods
+    in several aspects. We recorded and examined the consequent changes in the physical
+    (soil moisture), chemical (absorbable nitrogen content), biological (enzyme activity:
+    fluorescein diacetate hydrolysis and dehydrogenase), the most probable number
+    of bacteria and fungi), and economic (yield) parameters of soils. According to
+    our results in 2017, mulching with organic plant wastes achieved the most positive
+    effect on the parameters studied and also efficiently reduced erosion in the plantation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - vineyard
+      - cover crop
+      - agricultural landscape management
+      - soil biology
+      - sustainability
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Sustainable soil management in the Badacsony Wine District
+    url: http://dx.doi.org/10.19040/ecocycles.v4i2.115
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kovacs-Barnabas:
+    individualname: "Kov\xE1cs, Barnab\xE1s"
+    role: creator
+  Varga-Peter:
+    individualname: "Varga, P\xE9ter"
+    role: creator
+  Majer-Janos:
+    individualname: "M\xE1jer, J\xE1nos"
+    role: creator
+  Nemeth-Csaba:
+    individualname: "N\xE9meth, Csaba"
+    role: creator
+  Szabo-Peter:
+    individualname: "Szab\xF3, P\xE9ter"
+    role: creator
+  Kocsis-Laszlo:
+    individualname: "Kocsis, L\xE1szl\xF3"
+    role: creator
+  Ecocycles:
+    individualname: Ecocycles
+    role: creator
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Harris_1919
+  dataseturi: https://doi.org/10.2307/2255722
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Movement and Distribution of Moisture in the Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Movement and Distribution of Moisture in the Soil.
+    url: http://dx.doi.org/10.2307/2255722
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Harris-F.-S.:
+    individualname: Harris, F. S.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

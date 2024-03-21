@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8248085
+  dataseturi: https://doi.org/10.5281/zenodo.8248085
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Phytoremediation potential of Dilang-aso (Pseudelephantopus spicatus (Juss.)
+    Rohr) in lead-contaminated soil
+  abstract: 'This study investigated <em>Pseudelephantopus spicatus</em>, a member
+    of the family Asteraceae that has not yet been explored in terms of its phytoremediation
+    potential. This study utilized two pot experiments: (1) plant tolerance to lead
+    (Pb)-contaminated soil, and (2) plant mechanism for Pb uptake. For the plant tolerance
+    experiment, plants were exposed to different lead concentrations, and the shoot
+    length, width of the largest leaf, and number of leaves were recorded. For the
+    Pb uptake experiment, <em>P. spicatus</em> plants were transplanted in polyethylene
+    bags containing 1 kg of 500 ppm Pb-treated soil, and were observed every five
+    days for 30 days. Results showed that <em>P. spicatus</em> plants in Pb-treated
+    soil had significantly shorter shoot length, smaller width of largest leaf, and
+    reduced number of leaves, as compared to the control treatment. The Pb uptake
+    of <em>P. spicatus</em> also increased with longer exposure time. However higher
+    Pb concentration was still observed in the soil (218.57 ppm) compared to the Pb
+    concentration in roots (29.49 ppm) and shoot (17.07 ppm). Thus, the <em>P. spicatus</em>
+    plant demonstrated tolerance as a Pb excluder, and may not be a good candidate
+    for phytoremediation. However, other studies may investigate whether the phytoremediation
+    potential of <em>P. spicatus</em> can be improved by observing the effects of
+    different Pb concentrations, higher time intervals, or the use of chelating agents
+    and fertilizers<br>'
+  keywords:
+    default:
+      keywords:
+        subject: translocation factor
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8248085
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8248084
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lu-Alwyn-Jan-Derrick-T.:
+    individualname: Lu, Alwyn Jan Derrick T.
+    role: creator
+    organization: Department of Chemistry, College of Science and Mathematics, University
+      of Southern Mindanao, Kabacan, Cotabato, Philippines
+    url: ''
+  Navarro-Frederick-John-B.:
+    individualname: Navarro, Frederick John B.
+    role: creator
+    organization: Department of Chemistry, College of Science and Mathematics, University
+      of Southern Mindanao, Kabacan, Cotabato, Philippines
+    url: https://orcid.org/0000-0001-7949-7088
+  Pascual-Ronald-Z.:
+    individualname: Pascual, Ronald Z.
+    role: creator
+    organization: Department of Chemistry, College of Science and Mathematics, University
+      of Southern Mindanao, Kabacan, Cotabato, Philippines; University Laboratory
+      School, University of Southern Mindanao, Kabacan, Cotabato, Philippines
+    url: ''
+  Clemen-Pascual-Lydia:
+    individualname: Clemen-Pascual, Lydia
+    role: creator
+    organization: Department of Chemistry, College of Science and Mathematics, University
+      of Southern Mindanao, Kabacan, Cotabato, Philippines
+    url: ''
+content_info: {}

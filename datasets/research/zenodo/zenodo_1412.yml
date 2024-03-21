@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1494345
+  dataseturi: https://doi.org/10.5281/zenodo.1494345
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Total and watersoluble organic matter content in soil under various methods
+    of forestry
+  abstract: "Water-base organic compounds are among the most labile fractions of soil\
+    \ organic matter. Their content are considered a sensitive indicator of soil quality\
+    \ and changes quantitatively under the influence of anthropogenic pressure. The\
+    \ objective of this paper was to evaluate the impacts of different felling systems\
+    \ on total and water extractable organic carbon content in soil. The soil samples\
+    \ were taken from 50 cm depth soil profile with 5 cm step. Total organic carbon\
+    \ (TOC), cold water extractable organic carbon (CWEOC) and hot water extractable\
+    \ organic carbon (HWEOC) contents in soil were determined. The highest TOC content\
+    \ was found in the soil under the old-growth hornbeam-oak forest: 49<strong>\u2013\
+    </strong>63 mg/ g and 12<strong>\u2013</strong> 6 mg/ g in a top 0<strong>\u2013\
+    </strong>5 cm and 0<strong>\u2013</strong>50 cm layers respectively. Gradual,\
+    \ group-selection and clear felling of hornbeam were attended by significant transformations\
+    \ of organoprofile and decrease of TOC content especially in top 15 cm layer.\
+    \ However, fractional contents of cold and hot water extractable organic carbon\
+    \ increased with depth. The results of this research indicate that among the studied\
+    \ scenarios of the forest management, gradual felling caused minimal changes of\
+    \ soil organic matters."
+  keywords:
+    default:
+      keywords:
+        subject: felling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-06-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1494345
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1494344
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.V.-Zaimenko:
+    individualname: N.V. Zaimenko
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden of National Academy of Sciences
+      of Ukraine Ukraine, 01014 Kyiv, Timiryazevska Str., 1
+    url: ''
+  O.I.-Dziuba:
+    individualname: O.I. Dziuba
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden of National Academy of Sciences
+      of Ukraine Ukraine, 01014 Kyiv, Timiryazevska Str., 1
+    url: ''
+  T.Yu.-Bedernichek:
+    individualname: T.Yu. Bedernichek
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden of National Academy of Sciences
+      of Ukraine Ukraine, 01014 Kyiv, Timiryazevska Str., 1
+    url: ''
+content_info: {}

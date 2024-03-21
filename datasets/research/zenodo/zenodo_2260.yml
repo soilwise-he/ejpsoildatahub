@@ -1,0 +1,381 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10014912
+  dataseturi: https://doi.org/10.5281/zenodo.10014912
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Report on the national and EU regulations on agricultural soil data sharing
+    and national monitoring activities
+  abstract: "EJPSOIL (https://ejpsoil.eu/) consortium works with 24 European countries,\
+    \ 20 of which are Member States. The\_work package 6 of\_EJP SOIL programme\_\
+    aims to support harmonised soil data sharing in Europe.\_The \"Report on national\
+    \ and EU regulations on agricultural soil data sharing\" reports the EU legal\
+    \ framework was performed related to the public soil data sharing policies and\
+    \ an inventory of the national transposition of the EU regulation, produced with\
+    \ the participation of 62 authors belonging to 32 institutions both research institutions\
+    \ and public bodies. A conflict of interests between public and private rights\
+    \ was evidenced because soil is a natural resource providing services for the\
+    \ public benefit (INSPIRE regulation) but is often under private property (GDPR).\
+    \ The D6.2 chapter 5 - Draft agreement for soil data sharing suggests general\
+    \ best practices to overcome the soil data sharing constraints: 1) to get the\
+    \ consent from landowners for the open disclosure of point georeferenced soil\
+    \ data, with the only exception that the consent is not required for \_data on\
+    \ emissions of pollutants into the environment, 2) to respect the intellectual\
+    \ property rights of authors, and/or an economic payment to sustain the sharing\
+    \ service of soil data and maps , and 3) to adopt a country-driven approach for\
+    \ European soil mapping which would imply involving the national soil data officers/services\
+    \ and through them the national soil data owners, with a common European methodology,\
+    \ similarly to what is adopted by the INSII network of the Global Soil Partnership.\_\
+    The \"Report on national and EU regulations on agricultural soil data sharing\"\
+    \ inventoried the institutions holding national and sub-national soil data finding\
+    \ that rarely they coincide with the competent authorities for INSPIRE implementation.\
+    \ The INSPIRE metadata portals and network services were also inventoried. Two\
+    \ model templates for soil data sharing were provided as annexed documents.\_"
+  keywords:
+    default:
+      keywords:
+        subject: GDPR
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-29'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10014912
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10014911
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fantappie-Maria:
+    individualname: "Fantappi\xE8, Maria"
+    role: WorkPackageLeader
+    organization: Agricultural Research Council
+    url: 0000-0001-6223-1099
+  Peruginelli-Ginevra:
+    individualname: Peruginelli, Ginevra
+    role: Supervisor
+    organization: National Research Council
+    url: 0000-0002-9331-4476
+  Conti-Sara:
+    individualname: Conti, Sara
+    role: Supervisor
+    organization: Institute of Legal Information Theory and Techniques
+    url: 0000-0001-8181-8565
+  Rennes-Stephanie:
+    individualname: Rennes, Stephanie
+    role: Supervisor
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: 0000-0003-1458-7773
+  Le-Bas-Christine:
+    individualname: Le Bas, Christine
+    role: Supervisor
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: 0000-0001-7111-5794
+  van-Egmond-Fenny:
+    individualname: van Egmond, Fenny
+    role: Supervisor
+    organization: Wageningen University & Research
+    url: 0000-0002-2608-9889
+  Smreczak-Bozena:
+    individualname: "Smreczak, Bo\u017Cena"
+    role: Supervisor
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0001-8972-8636
+  Wetterlind-Johanna:
+    individualname: Wetterlind, Johanna
+    role: Supervisor
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-2821-2999
+  Chenu-Claire:
+    individualname: Chenu, Claire
+    role: Supervisor
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: 0000-0001-9054-0489
+  Bispo-Antonio:
+    individualname: Bispo, Antonio
+    role: Supervisor
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: 0000-0002-6985-8385
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: Supervisor
+    organization: Vlaamse overheid, Departement Omgeving
+    url: 0000-0003-1997-4473
+  Bulens-Jandirk:
+    individualname: Bulens, Jandirk
+    role: Supervisor
+    organization: Wageningen University & Research
+    url: 0000-0003-1515-9797
+  Armolaitis-Kestutis:
+    individualname: "Armolaitis, K\u0119stutis"
+    role: DataCollector
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Assennato-Francesca:
+    individualname: Assennato, Francesca
+    role: DataCollector
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: ''
+  BAKACSI-Zsofia:
+    individualname: "BAKACSI, Zs\xF3fia"
+    role: DataCollector
+    organization: "Eotvos Lorand Tudomanyegyetem Term\xE9szettudom\xE1nyi Kar, Institute\
+      \ for Soil Science and Agricultural Chemistry, Szent Istv\xE1n Egyetem Mezogazdas\xE1\
+      g- \xE9s K\xF6rnyezettudom\xE1nyi Kar"
+    url: 0000-0002-8967-6052
+  Baumgarten-Andreas:
+    individualname: Baumgarten, Andreas
+    role: DataCollector
+    organization: Austrian Agency for Health and Food Safety
+    url: 0000-0001-7454-7592
+  Bezak-Pavol:
+    individualname: "Bez\xE1k, Pavol"
+    role: DataCollector
+    organization: National Agricultural and Food Centre
+    url: ''
+  Blomback-Karin:
+    individualname: "Blomb\xE4ck, Karin"
+    role: DataCollector
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Brenna-Stefano:
+    individualname: Brenna, Stefano
+    role: DataCollector
+    organization: Ente Regionale per i Servizi all'Agricoltura e alle Foreste
+    url: ''
+  Calouro-Fatima:
+    individualname: Calouro, Fatima
+    role: DataCollector
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: ''
+  Castanheira-Nadia:
+    individualname: Castanheira, Nadia
+    role: DataCollector
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-9276-1805
+  da-Conceicao-Goncalves-Maria:
+    individualname: da Conceicao Goncalves, Maria
+    role: DataCollector
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-5980-0294
+  Don-Axel:
+    individualname: Don, Axel
+    role: DataCollector
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0001-7046-3332
+  Feiza-Virginijus:
+    individualname: Feiza, Virginijus
+    role: DataCollector
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: 0000-0002-6213-5168
+  Forsberg-Mathiesen-Henrik:
+    individualname: Forsberg Mathiesen, Henrik
+    role: DataCollector
+    organization: Norwegian Institute of Bioeconomy Research
+    url: 0000-0003-4573-1897
+  Garcia-Carlos:
+    individualname: Garcia, Carlos
+    role: DataCollector
+    organization: Spanish National Research Council
+    url: ''
+  Gardin-Lorenzo:
+    individualname: Gardin, Lorenzo
+    role: DataCollector
+    organization: National Research Council
+    url: ''
+  Garland-Gina:
+    individualname: Garland, Gina
+    role: DataCollector
+    organization: Agroscope
+    url: 0000-0002-1657-3669
+  Gerasina-Raisa:
+    individualname: Gerasina, Raisa
+    role: Distributor
+    organization: National Research Institute for Agriculture, Food and Environment
+    url: ''
+  Haslmayr-Hans-Peter:
+    individualname: Haslmayr, Hans-Peter
+    role: Supervisor
+    organization: "AGES \u2013 Agentur f\xFCr Gesundheit und Ern\xE4hrungssicherheit"
+    url: ''
+  Higgins-Alex:
+    individualname: Higgins, Alex
+    role: DataCollector
+    organization: Agri Food and Biosciences Institute
+    url: ''
+  Houskova-Beata:
+    individualname: Houskova, Beata
+    role: DataCollector
+    organization: National Agricultural and Food Centre
+    url: ''
+  Kadziuliene-Zydre:
+    individualname: Kadziuliene, Zydre
+    role: DataCollector
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: 0000-0001-6181-5885
+  Kasparinskis-Raimonds:
+    individualname: Kasparinskis, Raimonds
+    role: DataCollector
+    organization: University of Latvia
+    url: 0000-0003-3692-1621
+  Koza-Piotr:
+    individualname: Koza, Piotr
+    role: DataCollector
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0002-0243-7631
+  Kyllmar-Katarina:
+    individualname: Kyllmar, Katarina
+    role: DataCollector
+    organization: Swedish University of Agricultural Sciences
+    url: 0000-0003-2547-2285
+  Lehtonen-Aleksi:
+    individualname: Lehtonen, Aleksi
+    role: DataCollector
+    organization: Natural Resources Institute Finland
+    url: 0000-0003-1388-0388
+  Madenoglu-Sevinc:
+    individualname: "Madeno\u011Flu, Sevin\xE7"
+    role: DataCollector
+    organization: General Directorate of Agricultural Research and Policies
+    url: 0000-0002-5012-2773
+  Nurmi-Elina:
+    individualname: Nurmi, Elina
+    role: DataCollector
+    organization: Natural Resources Institute Finland
+    url: 0000-0001-6159-7291
+  Okx-Joop:
+    individualname: Okx, Joop
+    role: DataCollector
+    organization: Wageningen University & Research
+    url: ''
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: DataCollector
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: 0000-0002-5333-5758
+  Ozcan-Hesna:
+    individualname: Ozcan, Hesna
+    role: DataCollector
+    organization: General Directorate of Agricultural Research and Policies
+    url: ''
+  PASZTOR-Laszlo:
+    individualname: "P\xC1SZTOR, L\xE1szl\xF3"
+    role: DataCollector
+    organization: Institute for Soil Science and Agricultural Chemistry
+    url: 0000-0002-1605-4412
+  Paz-Ana:
+    individualname: Paz, Ana
+    role: DataCollector
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0001-7276-8447
+  Penizek-Vit:
+    individualname: "Pen\xED\u017Eek, V\xEDt"
+    role: DataCollector
+    organization: Czech University of Life Sciences Prague
+    url: 0000-0001-6131-7608
+  Pirko-Bela:
+    individualname: "Pirko, B\xE9la"
+    role: DataCollector
+    organization: Institute for Soil Science and Agricultural Chemistry
+    url: 0000-0003-3246-5307
+  Poeplau-Christopher:
+    individualname: Poeplau, Christopher
+    role: DataCollector
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-3108-8810
+  Ruysschaert-Greet:
+    individualname: Ruysschaert, Greet
+    role: DataCollector
+    organization: Instituut voor Landbouw en Visserijonderzoek
+    url: 0000-0001-6735-0337
+  Schneider-Florian:
+    individualname: Schneider, Florian
+    role: DataCollector
+    organization: "Johann Heinrich von Th\xFCnen-Institut"
+    url: 0000-0003-3036-6284
+  Siebelec-Grzegorz:
+    individualname: Siebelec, Grzegorz
+    role: DataCollector
+    organization: Institute of Soil Science and Plant Cultivation
+    url: ''
+  Skalsky-Rastislav:
+    individualname: "Skalsk\xFD, Rastislav"
+    role: DataCollector
+    organization: National Agricultural and Food Centre
+    url: 0000-0002-0983-6897
+  Svendgard-Stokke-Siri:
+    individualname: Svendgard Stokke, Siri
+    role: DataCollector
+    organization: Norwegian Institute of Bioeconomy Research
+    url: ''
+  Svicek-Michal:
+    individualname: Svicek, Michal
+    role: DataCollector
+    organization: National Agricultural and Food Centre
+    url: ''
+  Tello-Marisa:
+    individualname: Tello, Marisa
+    role: DataCollector
+    organization: "Instituto Nacional de Investigaci\xF3n y Tecnolog\xEDa Agraria\
+      \ y Alimentaria"
+    url: ''
+  TOTH-Brigitta:
+    individualname: "T\xD3TH, Brigitta"
+    role: DataCollector
+    organization: Institute for Soil Science and Agricultural Chemistry
+    url: 0000-0003-1485-8908
+  Tulipan-Monika:
+    individualname: Tulipan, Monika
+    role: DataCollector
+    organization: "Umweltbundesamt Gesellschaft mit beschr\xE4nkter Haftung (UBA-GmbH)\
+      \ Environment Agency Austria"
+    url: ''
+  Vrscaj-Borut:
+    individualname: "Vr\u0161\u010Daj, Borut"
+    role: DataCollector
+    organization: Agricultural institute of Slovenia
+    url: 0000-0003-0850-7220
+  Van-Damme-Marleen:
+    individualname: Van Damme, Marleen
+    role: DataCollector
+    organization: Vlaams Planbureau voor Omgeving, Belgium
+    url: ''
+  Wall-David:
+    individualname: Wall, David
+    role: DataCollector
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: ''
+  Wawer-Rafal:
+    individualname: "Wawer, Rafa\u0142"
+    role: DataCollector
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0001-9266-9577
+  Wegmann-Fabio:
+    individualname: Wegmann, Fabio
+    role: DataCollector
+    organization: Federal Office for the Environment
+    url: ''
+content_info: {}

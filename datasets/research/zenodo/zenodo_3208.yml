@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4317227
+  dataseturi: https://doi.org/10.5281/zenodo.4317227
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact of the chemical properties of different soil units on the dynamics
+    of vegetal biodiversity in the Benoue National Park and its Western and Northern
+    peripheries
+  abstract: "This work aims at determining the impact of soils' chemical properties\
+    \ on the dynamics of biodiversity in the Benoue National Park (BNP) of Cameroon\
+    \ and its peripheries (surrounding hunting concessions N \xB0 1, 4, 5 and 7).\
+    \ Nine, out of the sixteen soil units encountered in the BNP were studied, because\
+    \ of their accessibility. On each of these nine soil units studied, three elementary\
+    \ plots were materialized for the collection of soil samples and for the study\
+    \ of vegetation dynamics. The chemical parameters were evaluated according to\
+    \ appropriate methods and the dynamics of the vegetation was obtained by carrying\
+    \ out a floristic inventory. Heterogeneity was observed in the chemical parameters\
+    \ of the different soil units. Soil units S5 and S6 are the most damaged regarding\
+    \ their low organic matter content (0.95 \xB1 0.78%) and (1.02 \xB1 0.33%), their\
+    \ carbon (5.53 \xB1 4.54 g.kg<sup>-1</sup>) and (5.91 \xB1 1.93 g.kg<sup>-1</sup>)\
+    \ and nitrogen (1.20 \xB1 0.45 g.kg<sup>-1</sup>) and (1.89 \xB1 0.41 g.kg<sup>-1</sup>)\
+    \ contents and a very low C/N ratio (4.72 \xB1 3.96) and (3.29 \xB1 1.37) respectively.\
+    \ These soils also have a low floristic abundance S5 (22 \xB1 0.53 individuals)\
+    \ and S6 (8 \xB1 1.86 individuals) unlike S4 which has good chemical properties,\
+    \ according to its OM (5.60 \xB1 0.83 %) and carbon (32.49 \xB1 4.79 g.kg<sup>-1</sup>)\
+    \ content, and C/N ratio (22.38 \xB1 6.84). Consequently, its floristic abundance\
+    \ (75 \xB1 1.37 individuals) and diversity (18.42 %) are considerable. These results\
+    \ show that the degree of chemical degradation varies according to soils. Elsewhere\
+    \ chemical properties of the soil influence the dynamics and sustainability of\
+    \ the biodiversity."
+  keywords:
+    default:
+      keywords:
+        subject: Benoue National Park; Degradation; Soil unit; Biodiversity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4317227
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4317226
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Narcisse-Soh-Njekeu:
+    individualname: Narcisse Soh Njekeu
+    role: creator
+  Clautilde-Megueni:
+    individualname: Clautilde Megueni
+    role: creator
+    organization: "Department of Biological Sciences, Faculty of Science, University\
+      \ of Ngaound\xE9r\xE9, Cameroon, P.O.Box 454, Ngaound\xE9r\xE9."
+    url: ''
+  Tchobsala:
+    individualname: Tchobsala
+    role: creator
+    organization: Department of Biological Sciences, Faculty of Science, University
+      of Maroua, Cameroon, P.O.Box 814, Maroua.
+    url: ''
+  Sylvain-Doua-Aoudou:
+    individualname: Sylvain Doua Aoudou
+    role: creator
+  Jean-Paul-Kevin-Mbamba-Mbamba:
+    individualname: Jean Paul Kevin Mbamba Mbamba
+    role: creator
+  Njekeu-Narcisse-Soh:
+    individualname: Njekeu, Narcisse Soh
+    role: ''
+    organization: "Department of Biological Sciences, Faculty of Science, University\
+      \ of Ngaound\xE9r\xE9, Cameroon, P.O.Box 454, Ngaound\xE9r\xE9."
+    url: ''
+  Aoudou-Sylvain-Doua:
+    individualname: Aoudou, Sylvain Doua
+    role: ''
+    organization: Department of Climatology, hydrology and pedology, University of
+      Maroua, Cameroon.
+    url: ''
+  Mbamba-Jean-Paul-Kevin-Mbamba:
+    individualname: Mbamba, Jean Paul Kevin Mbamba
+    role: ''
+    organization: Lobeke National Park, Cameroon.
+    url: ''
+content_info: {}

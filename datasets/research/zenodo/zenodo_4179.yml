@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10431977
+  dataseturi: https://doi.org/10.5281/zenodo.10431977
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Data paper
+identification:
+  title: Effect of good agricultural practices (gap) with soil amendment on production
+    potential of okra ( Abelmoschus esculentus L.) in new alluvial zone under West
+    Bengal
+  abstract: https://journalofsoilsandcrops.com/Download/DEC2023/35.pdf
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-01'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10431977
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10431976
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Modak-M-K:
+    individualname: Modak, M K
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

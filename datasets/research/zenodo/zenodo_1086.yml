@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Contin_2023
+  dataseturi: https://doi.org/10.3897/aca.6.e108043
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Salinization May Trigger Mercury Mobilisation from Contaminated Soils
+    and Sediment
+  abstract: "&lt;p&gt;Mercury (Hg) contamination of soils is a concerning issue worldwide\
+    \ due to its high toxicity and risk to human health. Source of contamination,\
+    \ chemical form and environmental conditions affect its mobility and hence bioavailability.\
+    \ Contaminated coastal soils, could potentially become hotspots of Hg re-mobilisation,\
+    \ because of simultaneous flooding and salinization caused by sea level rise as\
+    \ a consequence of climate change.&lt;/p&gt;&lt;p&gt;The aim of our work was to\
+    \ assess changes in Hg solubility in soils and sediments, with different type\
+    \ of Hg contamination, after exposure to salt and flood stresses.&lt;/p&gt;&lt;p&gt;A\
+    \ soil contaminated by mining activity (mainly cinnabar-Hg) and a sediment heavily\
+    \ contaminated by a chlor-alkali plant (mainly elemental Hg) were collected from\
+    \ North-East Italy. Mercury speciation was performed either by Thermal Desorption\
+    \ (TD) or by a Sequential Extraction Procedure (SEP) to quantify operationally\
+    \ defined binding forms (soluble, exchangeable, bound to Mn or Fe oxides, bound\
+    \ to organic matter, non-cinnabar and cinnabar Hg forms).&lt;/p&gt;&lt;p&gt;A\
+    \ bench top simulation with\_0 to 32.8 g l-1 salt solution was carried out in\
+    \ microcosms filled with\_contaminated soil or sediment, to characterize flood\
+    \ effects on Hg mobility. Soils were kept submerged for different inundation periods\
+    \ (1, 7 and 30 days). After the flooding treatment, a rain event was simulated\
+    \ using artificial rain water. Solubilised Hg of each flood and each leaching\
+    \ treatment was measured by ICP-MS.&lt;/p&gt;&lt;p&gt;Thermal desorption showed\
+    \ the presence of two main forms of Hg: organic bound Hg and HgS. The cinnabar-Hg\
+    \ peak was largely prevalent in the mine-contaminated soil, whereas the organic-bound-Hg\
+    \ peak was prevalent in the chlor-alkali contaminated sediment. This difference\
+    \ was confirmed by the liquid SEP speciation.&lt;/p&gt;&lt;p&gt;Hg mobility increased\
+    \ with increasing salinity and flooding time. The effect of salt concentration\
+    \ was more pronounced for longer flooding periods. After 1 day of inundation,\
+    \ the amount of solubilised Hg was negligible, but after 7 days flooding Hg levels\
+    \ in the highest saline solution reached up to 0.9 and 9.3 \xB5g Hg L-1 in the\
+    \ soil and in the sediment simulations, respectively. The mobility of Hg increased\
+    \ substantially after 30 days, and was about 22 times in the soil (19.8 \xB5g\
+    \ Hg L-1) and 10 times in the sediment (89.8 \xB5g Hg L-1) compared to the background\
+    \ level.&lt;/p&gt;&lt;p&gt;Our results show a potential risk of Hg re-mobilization\
+    \ from contaminated coastal soils and sediments as consequence of sea level rise\
+    \ and their consequent salinization.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Soil pollution
+      - soil flooding
+      - sea level rise
+      - solubility
+      - bioavailability
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Salinization May Trigger Mercury Mobilisation from Contaminated Soils
+      and Sediment
+    url: http://dx.doi.org/10.3897/aca.6.e108043
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Contin-Marco:
+    individualname: Contin, Marco
+    role: creator
+  Tomat-Stefano:
+    individualname: Tomat, Stefano
+    role: creator
+  Pellegrini-Elisa:
+    individualname: Pellegrini, Elisa
+    role: creator
+  De-Nobili-Maria:
+    individualname: De Nobili, Maria
+    role: creator
+  Mauri-Mara:
+    individualname: Mauri, Mara
+    role: creator
+  Horvat-Milena:
+    individualname: Horvat, Milena
+    role: creator
+content_info: {}

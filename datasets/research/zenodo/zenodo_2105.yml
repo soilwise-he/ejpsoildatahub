@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hidalgo_2022
+  dataseturi: https://doi.org/10.1016/j.eti.2022.102621
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Zero-valent iron nanoparticles and organic amendment assisted rhizoremediation
+    of mixed contaminated soil using Brassica napus
+  abstract:
+  - '&lt;p&gt;Soil is one of our most important natural resources. Regrettably, the
+    expansion of human activities has resulted in the degradation of the soil resource
+    due to contamination with a myriad of organic and inorganic compounds. The remediation
+    of mixed contaminated soils, i.e. soils contaminated with both organic compounds
+    and metals, is challenging as it requires actions to simultaneously decrease metal-induced
+    risks and organic contaminant concentrations. Here, we evaluated the effect of
+    the addition of zero-valent iron nanoparticles (nanoremediation) and organic amendments
+    (biostimulation) on the rhizoremediation, using Brassica napus plants, of soil
+    simultaneously contaminated with zinc (2500 mg kg&nbsp;&lt;sup&gt;&minus;1&lt;/sup&gt;)
+    and lindane (100 mg kg&lt;sup&gt;&minus;1&lt;/sup&gt;). We used a factorial design
+    with three factors (amendment, nZVI, plant) to evaluate the impact of the applied
+    remediation actions on lindane and extractable Zn concentrations, as well as on
+    soil health recovery as manifested by the values of different soil microbial indicators.
+    The studied microbial indicators were not negatively affected by nZVI application.
+    The application of nZVI was the most effective factor regarding the targeted reduction
+    in lindane concentration (51% average reduction in nZVI treated soils). The highest
+    reduction in extractable Zn was achieved in the presence of B. napus, nZVI and
+    organic amendments (99 and 95% reduction in horse manure-amended and sewage sludge-amended
+    soils, respectively). The combination of the three factors led to the highest
+    values of soil microbial indicators (although a significant triple interaction
+    was not observed for all parameters), especially when combined with horse manure
+    amendment: in this case, prokaryotic richness increased by 64%, respiration by
+    376%, eukaryotic abundance by 333%, and prokaryotic abundance by 437%, compared
+    to untreated soils. The combination of remediation approaches (rhizoremediation
+    with B. napus, nanoremediation with nZVI, biostimulation with organic amendments)
+    can help overcome the limitations of each individual strategy. &copy; 2022 The
+    Author(s)&lt;/p&gt;'
+  - This work was supported by the European Union through Interreg SUDOE Program (Project
+    Phy2SUDOE SOE4/P5/E1021), the Spanish Ministry of Economy, Industry, and Competitiveness
+    through NANORRIZORREM-2 (AGL2016-76592-R) and PRADA projects (PID2019-110055RB-C21
+    and PID2019-110055RB-789 C22), MCIN/AEI/10.13039/501100011033/FEDER, UE, and Consolidated
+    Research Group of the Basque Government (GV ITO18-16). JH is the recipient of
+    a predoctoral fellowship from the Spanish Ministry of Science and Innovation.
+    We sincerely thank Dr. Fernando Blanco for technical assistance.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Zero-valent iron nanoparticles and organic amendment assisted rhizoremediation
+      of mixed contaminated soil using Brassica napus
+    url: http://dx.doi.org/10.1016/j.eti.2022.102621
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hidalgo-June:
+    individualname: Hidalgo, June
+    role: creator
+  Anza-M.:
+    individualname: Anza, M.
+    role: creator
+  Epelde-Lur:
+    individualname: Epelde, Lur
+    role: creator
+  Becerril-Jose-M.:
+    individualname: "Becerril, Jos\xE9 M."
+    role: creator
+  Garbisu-Carlos:
+    individualname: Garbisu, Carlos
+    role: creator
+  Anza-Mikel:
+    individualname: Anza, Mikel
+    role: creator
+  Becerril-Jos(c)-M.:
+    individualname: "Becerril, Jos\u221A\xA9 M."
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Melnyk_2020
+  dataseturi: https://doi.org/10.15587/1729-4061.2020.209873
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil sampling when examining forests for radioactive contamination
+  abstract: '&lt;p&gt;Forest ecosystems are complex areas in terms of rehabilitation
+    of radioactively contaminated areas, so conducting an up-to-date examination of
+    these areas for radioactive contamination is relevant. The paper considers the
+    improvement of methods of soil sampling for obtaining representative materials
+    in the estimation of vertical migration of&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs in
+    the soil profile and the level of soil contamination with&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs.
+    The density of radioactive soil contamination was studied by reducing the number
+    of selected samples from 30 to 3 in the layers of 10, 20, and 30&nbsp;cm. The
+    results show that when the number of soil samples decreases, the average magnitudes
+    of soil contamination with&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs are not significantly
+    different within each analyzed layer. It was noted that at sampling in the 10-centimeter
+    layer, the studied indicator was 1.3&ndash;1.4&nbsp;times lower than in the layers
+    of 20 and 30&nbsp;cm, and there is no difference between the latter. To obtain
+    reliable levels of radioactive contamination of the territory, it is necessary
+    to perform 10-time repeated sampling in the forest soil layer of 30&nbsp;cm. At
+    a decrease in the number of soil samples from 10 to 3, the fluctuation of average
+    values of the specific activity of&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs in different
+    layers of soil profile is low. To obtain representative magnitudes of&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs
+    content in each layer of the soil profile, it is necessary to make various samplings.
+    Thus, for 4-time repeated sampling, is sufficient for all layers of forest litter,
+    and 6-time repeated sampling is enough for the humus-eluvial horizon. It is necessary
+    to perform 8-time repeated sampling for the eluvial and illuvial horizon, and
+    10-time repeated sampling for illuvial sand and parent rock. The obtained results
+    make it possible to carry out up-to-date examination of forests for radioactive
+    contamination based on the updated methodology and using the obtained data on&nbsp;&lt;sup&gt;137&lt;/sup&gt;Cs
+    migration in forest soils&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - 137Cs
+      - density of radioactive soil contamination
+      - forest ecosystems
+      - soil sampling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil sampling when examining forests for radioactive contamination
+    url: http://dx.doi.org/10.15587/1729-4061.2020.209873
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Viktoriia-Melnyk:
+    individualname: Viktoriia Melnyk
+    role: creator
+  Tatiana-Kurbet:
+    individualname: Tatiana Kurbet
+    role: creator
+  Zoia-Shelest:
+    individualname: Zoia Shelest
+    role: creator
+  Iryna-Davydova:
+    individualname: Iryna Davydova
+    role: creator
+  Melnyk-Viktoriia:
+    individualname: Melnyk, Viktoriia
+    role: creator
+  Kurbet-Tatiana:
+    individualname: Kurbet, Tatiana
+    role: creator
+  Shelest-Zoia:
+    individualname: Shelest, Zoia
+    role: creator
+  Davydova-Iryna:
+    individualname: Davydova, Iryna
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6823392
+  dataseturi: https://doi.org/10.5281/zenodo.6823392
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Critical concentration of saline water for rice cultivation on a reclaimed
+    coastal soil in Korea
+  abstract: This article 'Critical concentration of saline water for rice cultivation
+    on a reclaimed coastal soil in Korea' appeared in the International Rice Research
+    Notes series, created by the International Rice Research Institute (IRRI) to expedite
+    communication among scientists concerned with the development of improved technology
+    for rice and rice-based systems. The series is a mechanism to help scientists
+    keep each other informed of current rice research findings. The concise scientific
+    notes are meant to encourage rice scientists to communicate with one another to
+    obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Korea Republic
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2003-06-01'
+    publication: '2003'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6823392
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6823391
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Choi-W.-Y.:
+    individualname: Choi, W. Y.
+    role: creator
+    organization: ''
+    url: ''
+  Lee-K.-S.:
+    individualname: Lee, K. S.
+    role: creator
+    organization: ''
+    url: ''
+  Ko-J.-C.:
+    individualname: Ko, J. C.
+    role: creator
+    organization: ''
+    url: ''
+  Choi-S.-Y.:
+    individualname: Choi, S. Y.
+    role: creator
+    organization: ''
+    url: ''
+  Choi-D.-H.:
+    individualname: Choi, D. H.
+    role: creator
+    organization: ''
+    url: ''
+  Kim-T.-S.:
+    individualname: Kim, T. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

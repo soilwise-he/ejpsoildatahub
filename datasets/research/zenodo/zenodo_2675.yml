@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5720018
+  dataseturi: https://doi.org/10.5281/zenodo.5720018
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spectrophotometric determination of mercury(II) in environmental, soil, medicinal
+    and biological samples using 2-benzoylpyridine-4-methyl3-thiosemicarbazone (BPMT)
+  abstract: "Government Degree College (M), Anantapur-515 001, Andhra Pradesh, India\
+    \ Department of Chemistry, Sri Krishnadevaraya University, Anantapur-515 003,\
+    \ Andhra Pradesh, India <em>E-mail </em>: khussainreddy@yahoo.co.in.com <em>Manuscript\
+    \ received online 23 September 2013, revised 25 October 2013, accepted 28 October\
+    \ 2013</em> Analytical and biological applications of 2-benzoylpyridine-4-methyl-3-thiosemicarbazone\
+    \ (BPMT) are reported for the first time. The reagent (BPMT) has been synthesized\
+    \ and characterized by IR, NMR, and mass spectral data. BPMT reacts with mercury(II)\
+    \ in slightly acidic medium (pH 6.0 sodium acetate-acetic acid buffer) to form\
+    \ deep yellow coloured complex. The complex shows maximum absorbance at 410 nm.\
+    \ The molar absorptivity and Sandell\u2019s sensitivity of the method are found\
+    \ to be 4.7 \xD7 10<sup>4</sup> L mol<sup>\u20131</sup> cm<sup>\u20131</sup> and\
+    \ 0.0103 \xB5g cm<sup>\u20132</sup> of mercury(II). The composition of the complex\
+    \ is found to be 1 : 1 (M : L). The method is successfully applied to a number\
+    \ of environmental, biological, medicinal and soil samples. The results are comparable\
+    \ with those obtained by dithizone method. The proposed system has high sensitivity,\
+    \ accuracy and precision (s = 0.078 for 4 \xB5g/ml in BPMT method)."
+  keywords:
+    default:
+      keywords:
+        subject: biological and soil samples
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-05-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5720018
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5720017
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.-Saleem-Basha:
+    individualname: V. Saleem Basha
+    role: creator
+    organization: ''
+    url: ''
+  K.-Hussain-Reddy:
+    individualname: K. Hussain Reddy
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zemaili_2016
+  dataseturi: https://doi.org/10.11591/eei.v5i2.527
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Design of a Low-cost and Compact Radiometer for Spectral Acquisition of Vegetation
+    and Bare Soil
+  abstract: '&lt;p&gt;We describe, in this article, the design of a low-cost and compact
+    radiometer with five analog channels for spectral acquisition: four in the visible
+    (blue, green, red and panchromatic) and one channel in the near-infrared. This
+    small embedded system is based on an 8-bit microcontroller for automatic data
+    acquisition, calibrating, storing and serial link processing with a compatible
+    PC, through a C++ application software provided to handle and deal with the mass
+    of data collected and stored in an EEPROM. The acquisition of spectral reflectance
+    measurements of an object for different wavelengths allows the construction of
+    a characteristic curve, named spectral signature of the object. The study of the
+    spectral signatures of different types of surfaces such as water, bare ground
+    or vegetation allows their identification in remote sensing image processing,
+    and consequently, facilitates the interpretation of this kind of data, as, for
+    instance, the AVHRR data of the HRPT images acquired and freely distributed by
+    the satellite NOAA.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Radiometer
+      - Reflectance
+      - Spectral signature
+      - Embedded system
+      - 8-bit microcontroller
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Design of a Low-cost and Compact Radiometer for Spectral Acquisition of
+      Vegetation and Bare Soil
+    url: http://dx.doi.org/10.11591/eei.v5i2.527
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mokhtaria-Nawel-Zemaili:
+    individualname: Mokhtaria Nawel Zemaili
+    role: creator
+  Noureddine-Benabadji:
+    individualname: Noureddine Benabadji
+    role: creator
+  Abdelatif-Hassini:
+    individualname: Abdelatif Hassini
+    role: creator
+  Zemaili-Mokhtaria-Nawel:
+    individualname: Zemaili, Mokhtaria Nawel
+    role: creator
+  Benabadji-Noureddine:
+    individualname: Benabadji, Noureddine
+    role: creator
+  Hassini-Abdelatif:
+    individualname: Hassini, Abdelatif
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

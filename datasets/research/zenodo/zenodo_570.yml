@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yang_2018
+  dataseturi: https://doi.org/10.1099/ijsem.0.002484
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Paenibacillus shunpengii sp. nov., isolated from farmland soil
+  abstract: 'Yang, You-Jian, Zhang, Yan-Ting, Chen, Guo-Qiang, Cheng, Dan, Qiu, Ji-Guo,
+    He, Qin, He, Jian (2018): Paenibacillus shunpengii sp. nov., isolated from farmland
+    soil. International Journal of Systematic and Evolutionary Microbiology 68 (1):
+    211-216, DOI: 10.1099/ijsem.0.002484, URL: http://dx.doi.org/10.1099/ijsem.0.002484'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Firmicutes
+      - Bacilli
+      - Bacillales
+      - Paenibacillaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Paenibacillus shunpengii sp. nov., isolated from farmland soil
+    url: http://dx.doi.org/10.1099/ijsem.0.002484
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yang-You-Jian:
+    individualname: Yang, You-Jian
+    role: creator
+  Zhang-Yan-Ting:
+    individualname: Zhang, Yan-Ting
+    role: creator
+  Chen-Guo-Qiang:
+    individualname: Chen, Guo-Qiang
+    role: creator
+  Cheng-Dan:
+    individualname: Cheng, Dan
+    role: creator
+  Qiu-Ji-Guo:
+    individualname: Qiu, Ji-Guo
+    role: creator
+  He-Qin:
+    individualname: He, Qin
+    role: creator
+  He-Jian:
+    individualname: He, Jian
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LIPMAN_1916
+  dataseturi: https://doi.org/10.1097/00010694-191603000-00006
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: PRELIMINARY EXPERIMENTS ON SOME EFFECTS OF LEACHING ON THE SOIL FLORA
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: PRELIMINARY EXPERIMENTS ON SOME EFFECTS OF LEACHING ON THE SOIL FLORA
+    url: http://dx.doi.org/10.1097/00010694-191603000-00006
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lipman-C.-B.:
+    individualname: Lipman, C. B.
+    role: creator
+  Fowler-L.-W.:
+    individualname: Fowler, L. W.
+    role: creator
+  LIPMAN-C.-B.:
+    individualname: LIPMAN, C. B.
+    role: creator
+  FOWLER-L.-W.:
+    individualname: FOWLER, L. W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

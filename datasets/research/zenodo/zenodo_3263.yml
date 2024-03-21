@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5774862
+  dataseturi: https://doi.org/10.5281/zenodo.5774862
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Identification of the relationship between temporally varying land surface
+    temperature of winter season with the cover management factor of revised universal
+    soil loss equation: A case study from upper Bakreshwar river basin'
+  abstract: Identification of soil loss is a global concern as it increases the pollution
+    and sedimentation in the concerned river or reservoir. Due to sedimentation not
+    only the water storage capacity of the waterbody reduces but also the aqua life
+    gets hampered. Several studies have been done on estimation of soil erosion using
+    the revised universal soil loss equation (RUSLE). The RUSLE model shows the influence
+    of impact of rain drop energy on top soil that causes erosion. The vegetation
+    cover present on the top soil reduces the impact of raindrop energy and thus reduces
+    the soil erosion. This factor is termed as cover management factor (C). From the
+    detailed observation of satellite imageries of Bakreshwar watershed and Bakreshwar
+    dam, lots of sedimentation has been observed in the Bakreshwar dam. In this study
+    we have tried to identify the relationship (if any) between land surface temperature
+    changes with the cover management factor of upper Bakreshwar river basin over
+    a time of 30 years. The study area is located in Humid Subtropical climatic zone
+    where the summer is hot and humid and winter is mild. So a change in temperature
+    may cause a change in rainfall amount and in turn it may affect the cover management
+    factor. From the study it has been observed that negative relationship prevails
+    with temperature and cover management factor in the study area. As we are studying
+    on winter data it prevails that the vegetation cover present in high surface temperature
+    region than cold regions that can reduce the soil loss. This observation may help
+    to future modification of cover management factor in RUSLE model by incorporating
+    the land surface temperature in it.
+  keywords:
+    default:
+      keywords:
+        subject: NDVI
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-11'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5774862
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5774861
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  South-Asian-Institute-for-Advanced-Research:
+    individualname: South Asian Institute for Advanced Research
+    role: creator
+  Development-SAIARD:
+    individualname: Development (SAIARD)
+    role: creator
+  Kaushik-Ghosal:
+    individualname: Kaushik Ghosal
+    role: creator
+  Santasmita-Das-Bhattacharya:
+    individualname: Santasmita Das Bhattacharya
+    role: creator
+  Ghosal-Kaushik:
+    individualname: Ghosal, Kaushik
+    role: ''
+    organization: Indian Institute of Engineering Science And Technology, Shibpur
+    url: https://orcid.org/0000-0003-3235-0278
+  Bhattacharya-Santasmita-Das:
+    individualname: Bhattacharya, Santasmita Das
+    role: ''
+    organization: National Atlas and Thematic Mapping Organization
+    url: https://orcid.org/0000-0001-5892-5768
+content_info: {}

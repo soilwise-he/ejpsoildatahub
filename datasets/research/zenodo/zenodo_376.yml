@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Marbut_1921
+  dataseturi: https://doi.org/10.2136/sssaj1921.0361599500b120010010x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Reconnoissance of the Northern Great Plains
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Reconnoissance of the Northern Great Plains
+    url: http://dx.doi.org/10.2136/sssaj1921.0361599500b120010010x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marbut-C.-F.:
+    individualname: Marbut, C. F.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

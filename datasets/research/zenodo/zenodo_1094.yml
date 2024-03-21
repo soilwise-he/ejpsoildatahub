@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: PHIPPS_1877
+  dataseturi: https://doi.org/10.1038/017062e0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Earth-worm in Relation to the Fertility of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Earth-worm in Relation to the Fertility of the Soil
+    url: http://dx.doi.org/10.1038/017062e0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Phipps-G.-E.-O.-H.:
+    individualname: Phipps, G.-E.-O. H.
+    role: creator
+  PHIPPS-GEO.-H.:
+    individualname: PHIPPS, GEO. H.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

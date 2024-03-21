@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3566236
+  dataseturi: https://doi.org/10.5281/zenodo.3566236
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Type and Management Effects on Organic Carbon Stocks and Soil Structure
+    Quality in North Germany
+  abstract: "Improvement of carbon sequestration in soils for a more sustainable environment\
+    \ and prevention of climate change require not only knowledge about soil organic\
+    \ carbon (SOC) stocks, but also about interactions between land use and total\
+    \ amount and distribution of carbon. In North Germany (state: Schleswig-Holstein)\
+    \ about 925 soil profiles in the four dominant geological regions [Weichselian\
+    \ glacial region, the sandy outwash region (Lower \u2015Geest\u2016), the Saalian\
+    \ glacial region (Higher \u2015Geest\u2016), and the marshland with alluvial deposits]\
+    \ were sampled down to at least the 90 cm depth. Carbon content, pH, bulk density,\
+    \ and grain size distribution were analyzed for the major characteristic soil\
+    \ horizons. The four dominant geological regions possess different SOC stocks\
+    \ as well as SOC contents. The total amount of SOC stored within the representative\
+    \ soil profiles down to the 90 cm depth was analyzed for three depths: 0 \u2013\
+    \ 30, 30 \u2013 60, 60 \u2013 90 cm; for the total area of Schleswig Holstein\
+    \ (15.369 km\xB2), they summed to 244 Mt. SOC stocks, however, differed depending\
+    \ on the land use management system and clay content. Arable soils were most sensitive\
+    \ to soil deformation and the higher the clay content the less rigid they were,\
+    \ if the SOC to clay ratio were used as an index for structural quality. Grassland\
+    \ topsoils showed the highest SOC stocks and a mediate structural quality. The\
+    \ latter was highest for forest soils, which, however, had a higher SOC content\
+    \ but, at the same time, a less fertile SOC composition (litter with high C: N\
+    \ ratio). Further research on the carbon composition (labile, active, intermediate,\
+    \ or passive pools) would help to get a better insight into the role of SOC on\
+    \ soil strength and soil functions."
+  keywords:
+    default:
+      keywords:
+        subject: soil organic carbon stocks, land use management, tillage systems,
+          soil strength, SOC:clay ratio, Luvisol, Gleysol, Podzol, Cambisol, Anthrosol
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-12-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3566236
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3566235
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Horn-Rainer:
+    individualname: Horn, Rainer
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, Kiel, Germany
+    url: ''
+  Mordhorst-Anneka:
+    individualname: Mordhorst, Anneka
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, Kiel, Germany
+    url: ''
+  Fleige-Heiner:
+    individualname: Fleige, Heiner
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, Kiel, Germany
+    url: ''
+  Zimmermann-Iris:
+    individualname: Zimmermann, Iris
+    role: creator
+    organization: Institute for Plant Nutrition and Soil Science, Kiel, Germany
+    url: ''
+  Burbaum-Bernd:
+    individualname: Burbaum, Bernd
+    role: creator
+    organization: State Agency for Agriculture, Environment and Rural Areas of the
+      German Federal State Schleswig-Holstein
+    url: ''
+  Filipinski-Marek:
+    individualname: Filipinski, Marek
+    role: creator
+    organization: State Agency for Agriculture, Environment and Rural Areas of the
+      German Federal State Schleswig-Holstein
+    url: ''
+  Cordsen-Eckhard:
+    individualname: Cordsen, Eckhard
+    role: creator
+    organization: State Agency for Agriculture, Environment and Rural Areas of the
+      German Federal State Schleswig-Holstein
+    url: ''
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7677303
+  dataseturi: https://doi.org/10.5281/zenodo.7677303
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Importance of Soil Micronutrients
+  abstract: This article discusses the importance of soil micronutrients in plant
+    growth and development. Soil micronutrients such as iron, zinc, copper, manganese,
+    boron, molybdenum, and chlorine are essential for various physiological processes
+    in plants. The article highlights the functions of these micronutrients in plants,
+    ways to ensure adequate soil micronutrient levels, and their importance in agriculture.
+    The article concludes that maintaining adequate levels of soil micronutrients
+    is crucial for maintaining healthy plant growth and achieving maximum yield potential.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-03-02'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7677303
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6323480
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nasrul-I-Shaikh:
+    individualname: Nasrul I Shaikh
+    role: creator
+    organization: "Research and Development. All Vet D\xEDa\u01E5nost\xEDc Solut\xED\
+      onsPVT LTD"
+    url: ''
+  Dapinder-Singh:
+    individualname: Dapinder Singh
+    role: creator
+    organization: Department of Animal Biotechnology, College of Veterinary and Animal
+      Sciences, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana,
+      Punjab, India
+    url: ''
+content_info: {}

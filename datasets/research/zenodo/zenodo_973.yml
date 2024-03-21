@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6457125
+  dataseturi: https://doi.org/10.5281/zenodo.6457125
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Viscosity Behaviour of Natural Humic Acids Isolated from Diverse Soil Types
+  abstract: "The viscosity behaviour of humic acids isolated from five different soils\
+    \ have been studied which reveal their polyelectrolytic nature. The values of\
+    \ intrinsic viscosities of four samples are in the range of 10\xB763 to 17\xB7\
+    86 ml/gm. and that .of one sample equal to 27\xB778 ml/gm. The viscosity average\
+    \ molecular weights of the respective humic acids range from 2\xB77 x 10<sup>4</sup>\
+    \ to 1\xB746 X 10<sup>5</sup>."
+  keywords:
+    default:
+      keywords:
+        subject: nitrogen
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1970-11-30'
+    publication: '1970'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6457125
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6457124
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chhabi-Datta:
+    individualname: Chhabi Datta
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-Mukherjee:
+    individualname: S. K. Mukherjee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

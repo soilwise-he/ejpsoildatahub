@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KARRAKER_1920
+  dataseturi: https://doi.org/10.1097/00010694-192008000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF THE INITIAL MOISTURE IN A SOIL ON MOISTURE MOVEMENT
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF THE INITIAL MOISTURE IN A SOIL ON MOISTURE MOVEMENT
+    url: http://dx.doi.org/10.1097/00010694-192008000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Karraker-P.-E.:
+    individualname: Karraker, P. E.
+    role: creator
+  KARRAKER-P.-E.:
+    individualname: KARRAKER, P. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

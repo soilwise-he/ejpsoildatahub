@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1088888
+  dataseturi: https://doi.org/10.5281/zenodo.1088888
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Degradation Propensity Of Welded Mild Steel In Coastal Soil Of University
+    Of Lagos
+  abstract: 'Study on corrosion propensity of welded mild steel- bar in soil media
+    around the coastal area of University of Lagos has been carried out using gravimetric
+    method. Six (6) samples each for welded and unwelded mild steels were cut, their
+    initial weights were recorded and buried in two selected soil. The weight losses
+    of these coupons were measured at regular intervals for a period of six months
+    (180 days).
+
+
+    The corrosiveness of the soil media varied widely depending on the potency level
+    of its constituents. The results revealed that soil in the studied area have marked
+    variations in composition and contents. Soil medium with a lower pH and higher
+    chloride ion concentration aggressively attacked the coupons with the welded steel
+    coupon corroding faster than unwelded one. The medium resistivity to the flow
+    of current is another strong factor affecting corrosion rate.'
+  keywords:
+    default:
+      keywords:
+        subject: welds.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-06'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1088888
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1088887
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-O.-Adeosun:
+    individualname: S. O. Adeosun
+    role: creator
+    organization: ''
+    url: ''
+  O.-S.-Sanni:
+    individualname: O. S. Sanni
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

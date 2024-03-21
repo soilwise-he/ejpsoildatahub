@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8345341
+  dataseturi: https://doi.org/10.5281/zenodo.8345341
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Low exogenous soil C sequestration efficiency limits cropland C sequestration:
+    Global'
+  abstract: The paper conducted a literature review of published studies on SOC storage
+    changes between 1980 and 2020, ultimately obtaining BNE data for 349 published
+    studies.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-14'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8345341
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8345340
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yin-Yulong:
+    individualname: Yin Yulong
+    role: creator
+  Chen-Zhong:
+    individualname: Chen Zhong
+    role: creator
+  Gong-Hai-Qing:
+    individualname: Gong Hai Qing
+    role: creator
+  Miao-Qi:
+    individualname: Miao Qi
+    role: creator
+  Tian-Xi-Shuai:
+    individualname: Tian Xi Shuai
+    role: creator
+  Wang-Zi-Han:
+    individualname: Wang Zi Han
+    role: creator
+  Wang-Yi-Cheng:
+    individualname: Wang Yi Cheng
+    role: creator
+  Cui-Zheng-Ling:
+    individualname: Cui Zheng Ling
+    role: creator
+  Yulong-Yin:
+    individualname: Yulong, Yin
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Zhong-Chen:
+    individualname: Zhong, Chen
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Qing-Gong-Hai:
+    individualname: Qing, Gong Hai
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Qi-Miao:
+    individualname: Qi, Miao
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Shuai-Tian-Xi:
+    individualname: Shuai, Tian Xi
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Han-Wang-Zi:
+    individualname: Han, Wang Zi
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Cheng-Wang-Yi:
+    individualname: Cheng, Wang Yi
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Ling-Cui-Zheng:
+    individualname: Ling, Cui Zheng
+    role: ''
+    organization: China Agricultural University
+    url: ''
+content_info: {}

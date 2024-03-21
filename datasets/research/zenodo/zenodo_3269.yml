@@ -1,0 +1,145 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7512462
+  dataseturi: https://doi.org/10.5281/zenodo.7512462
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Development of Eco Materials and Use of TIC as New Technology to Improve
+    the Use of Water and Soil that Optimizes the Crop of Asparagus in Arid Environments
+    of the Northwest of Mexico
+  abstract: "<em>The efficient use of water and the adequate preparation of soils\
+    \ in cultivation areas of the northwestern region of the Mexican Republic, where\
+    \ the state of Baja California is located, have managed to improve the yield of\
+    \ vegetable crops based on the development of computerized technology and the\
+    \ application of an eco material such as those that have been evaluated to be\
+    \ used as pipes through which water circulates for cultivation activities. The\
+    \ applied eco material is fiberglass or also called glass wool, from crashed cars\
+    \ in the city of Mexicali and that were recycled, and with a manufacturing process\
+    \ tubes were made, creating pipes through which water circulates with controlled\
+    \ temperature for activities of crops. This type of material was used because\
+    \ it has the physicochemical property of being able to keep the water temperature\
+    \ around 25 \xB0C, which is suitable for growing vegetables such as asparagus\
+    \ in the Mexicali Valley, which is considered a zone arid To optimize the cultivation\
+    \ of asparagus, an evaluation of physicochemical factors such as pH and water\
+    \ temperature was made, as well as the amount of vital liquid per hectare for\
+    \ irrigation of asparagus, in addition to soil salinity, to obtain the best yield\
+    \ in the cultivation of this valued vegetable. To control the physicochemical\
+    \ factors mentioned, computerized technology was used with a low-cost electronic\
+    \ system and using the C language for computer control of the systems or sensors\
+    \ of the physicochemical factors of agricultural activities. The research study\
+    \ reflected an increase in the productivity of asparagus in this area of </em><em></em><em>the\
+    \ Mexican Republic and with this an action was generated to be used in cultivation\
+    \ processes in other types of regions as a comparative analysis. This investigation\
+    \ was made from 2018 to 2020. In the Covid19 pandemic was made the investigation\
+    \ with strict regulations.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Computerized technology, materials, agricultural industry, asparagus.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7512462
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7512461
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Flaviano-Sandoval-Maldonado:
+    individualname: Flaviano Sandoval Maldonado
+    role: creator
+  Silvia-Estela-Vargas:
+    individualname: Silvia Estela Vargas
+    role: creator
+  Juan-Gabriel-Lopez-Hernandez:
+    individualname: "Juan Gabriel L\xF3pez Hern\xE1ndez"
+    role: creator
+  Omar-Ramirez-Franco:
+    individualname: "Omar Ram\xEDrez Franco"
+    role: creator
+  Veronica-Arredondo-Robledo:
+    individualname: "Ver\xF3nica Arredondo Robledo"
+    role: creator
+  Rogelio-Lopez-Rodriguez:
+    individualname: "Rogelio L\xF3pez Rodr\xEDguez"
+    role: creator
+  Jose-Cupertino-Perez-Murillo:
+    individualname: "Jos\xE9 Cupertino P\xE9rez Murillo"
+    role: creator
+  Jose-Guadalupe-Pedro-Mendez:
+    individualname: "Jos\xE9 Guadalupe Pedro M\xE9ndez"
+    role: creator
+  Maldonado-Flaviano-Sandoval:
+    individualname: Maldonado, Flaviano Sandoval
+    role: ''
+    organization: "Departamento de Metalmec\xE1nica-Industrial, Tecnol\xF3gico Nacional\
+      \ de M\xE9xico, Instituto Tecnol\xF3gico de Mexicali, Mexicali, Baja California,\
+      \ M\xE9xico."
+    url: ''
+  Vargas-Silvia-Estela:
+    individualname: Vargas, Silvia Estela
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Hernandez-Juan-Gabriel-Lopez:
+    individualname: "Hern\xE1ndez, Juan Gabriel L\xF3pez"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Franco-Omar-Ramirez:
+    individualname: "Franco, Omar Ram\xEDrez"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Robledo-Veronica-Arredondo:
+    individualname: "Robledo, Ver\xF3nica Arredondo"
+    role: ''
+    organization: "Departamento de Ingenier\xEDa Industrial, Universidad Aut\xF3noma\
+      \ de Baja California, Mexicali, Baja California, M\xE9xico."
+    url: ''
+  Rodriguez-Rogelio-Lopez:
+    individualname: "Rodr\xEDguez, Rogelio L\xF3pez"
+    role: ''
+    organization: "Departamento de Ciencias, Facultad de Ingenier\xEDa y Negocios,\
+      \ Universidad Aut\xF3noma de Baja California, San Quint\xEDn, Baja California,\
+      \ M\xE9xico."
+    url: ''
+  Murillo-Jose-Cupertino-Perez:
+    individualname: "Murillo, Jos\xE9 Cupertino P\xE9rez"
+    role: ''
+    organization: "Departamento de Ciencias, Facultad de Ingenier\xEDa y Negocios,\
+      \ Universidad Aut\xF3noma de Baja California, San Quint\xEDn, Baja California,\
+      \ M\xE9xico."
+    url: ''
+  Mendez-Jose-Guadalupe-Pedro:
+    individualname: "M\xE9ndez, Jos\xE9 Guadalupe Pedro"
+    role: ''
+    organization: "Departamento de Ciencias, Facultad de Ingenier\xEDa y Negocios,\
+      \ Universidad Aut\xF3noma de Baja California, San Quint\xEDn, Baja California,\
+      \ M\xE9xico."
+    url: ''
+content_info: {}

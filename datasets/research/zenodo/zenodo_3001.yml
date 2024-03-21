@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399064
+  dataseturi: https://doi.org/10.5281/zenodo.10399064
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Growth and Yield Responses of Diverse Advanced Rice (Oryza sativa L.) Lines
+    to Sodic Soil Conditions at the Coastal Region of Kenya
+  abstract: 'In 2022 Kenya''s self-sufficiency in rice stood only about 12% despite
+    the country having a substantial amount of land suitable for rice production.
+    Majority of these potential areas are located in the two biggest irrigation schemes
+    at coastal Kenya i.e. Bura and Tana with a combined arable land of 9,600 ha. In
+    these irrigation schemes, sodic stress characterized by elevated pH and high exchangeable
+    Na+ in the soil is one of key stressing factors affecting rice growth and yield.
+    Most of the released varieties in the country are either susceptible to sodic
+    conditions and / or do not have consumer preferred grain qualities leading to
+    low adoption rate. The objective of this study was to screen and identify genotypes
+    with a combination of both tolerance to sodic soil conditions and market preferred
+    grain traits from a panel of 96 salt tolerant accessions. The plant materials
+    were evaluated under sodic soil at the Tana irrigation scheme and non-sodic soil
+    conditions at the Bura irrigation scheme in 2015 (Season 1) and 2016 (Season 2).
+    Basmati370, an aromatic variety with long slender grains and BW196 a high yielding
+    but non-aromatic variety were used as checks. Analysis of variance revealed that
+    there was a significant effect of soil environment on alkali injury score (SES)
+    and the yield. Moreover, grain yield had the highest coefficient of variation
+    (62%) under sodic soil suggesting that the trait is a good indicator of tolerant
+    genotypes. Cluster analysis of the 96 genotypes under sodic soil conditions revealed
+    four Clusters (1-4), whereby Cluster 1 genotypes maintained high yield attributed
+    to low SES score. Using principal component analysis we identified six genotypes
+    in Cluster 1 that significantly contributed to variation in PC 1 and 2. From the
+    pool of these six genotypes CSR 36 showed high grain yield and grain qualities
+    similar to those of Basmati370. Hence, the genotype is recommended for further
+    advancement and release for cultivation under sodic soil conditions in Kenya.
+    Key words: Sodic soil conditions, Kenya, principal component analysis, yield,
+    grain quality'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399064
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10399063
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Njau-Simon:
+    individualname: Njau, Simon
+    role: creator
+    organization: IRRI-Kenya, Mwea, Kenya
+    url: ''
+  Menge-Daniel:
+    individualname: Menge, Daniel
+    role: creator
+    organization: IRRI-Kenya, Nairobi, Kenya
+    url: ''
+  Panchbhai-Ajay:
+    individualname: Panchbhai, Ajay
+    role: creator
+    organization: IRRI-Kenya, Nairobi, Kenya
+    url: ''
+  Murori-Rosemary:
+    individualname: Murori, Rosemary
+    role: creator
+    organization: IRRI-Kenya, Nairobi, Kenya
+    url: ''
+content_info: {}

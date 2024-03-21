@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Knowles_1922
+  dataseturi: https://doi.org/10.1016/s0368-1742(22)80011-4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Detection of the Spores of the Bacillus Anthracis in Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Detection of the Spores of the Bacillus Anthracis in Soil
+    url: http://dx.doi.org/10.1016/s0368-1742(22)80011-4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Knowles-R.-H.:
+    individualname: Knowles, R. H.
+    role: creator
+  Knowles-R.H.:
+    individualname: Knowles, R.H.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

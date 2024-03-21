@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HARTWELL_1918
+  dataseturi: https://doi.org/10.1097/00010694-191810000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE PRESENCE OF ALUMINUM AS A REASON FOR THE DIFFERENCE IN THE EFFECTS OF
+    SO-CALLED ACID SOIL ON BARLEY AND RYE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE PRESENCE OF ALUMINUM AS A REASON FOR THE DIFFERENCE IN THE EFFECTS OF
+      SO-CALLED ACID SOIL ON BARLEY AND RYE
+    url: http://dx.doi.org/10.1097/00010694-191810000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hartwell-Burt-L.:
+    individualname: Hartwell, Burt L.
+    role: creator
+  Pember-F.-R.:
+    individualname: Pember, F. R.
+    role: creator
+  HARTWELL-BURT-L.:
+    individualname: HARTWELL, BURT L.
+    role: creator
+  PEMBER-F.-R.:
+    individualname: PEMBER, F. R.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

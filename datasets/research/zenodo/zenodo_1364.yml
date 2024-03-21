@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Magowan_1908
+  dataseturi: https://doi.org/10.1086/329444
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Toxic Effect of Certain Common Salts of the Soil on Plants
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Toxic Effect of Certain Common Salts of the Soil on Plants
+    url: http://dx.doi.org/10.1086/329444
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Magowan-Florence-N.:
+    individualname: Magowan, Florence N.
+    role: creator
+  University-of-Chicago-Press:
+    individualname: University of Chicago Press
+    role: creator
+content_info: {}

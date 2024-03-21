@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Montoya_Dominguez_2017
+  dataseturi: https://doi.org/10.17533/udea.redin.n82a10
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: One-dimensional experimental study of rainfall infiltration into unsaturated
+    soil
+  abstract: '&lt;p&gt;This paper presents experimental results obtained from tests
+    on unsaturated soil in one-dimensional columns simulating a rainfall infiltration
+    process. Six columns composed of compacted Silty Sand were prepared to study the
+    effects of the initial water&lt;br&gt;
+
+    content and rainfall intensity on the downward infiltration process. The advance
+    of the water front was monitored using sensors to measure pore water pressure
+    and volumetric water content installed at different locations along the height
+    of the Silty Sand column. The test results show that the lag time, defined as
+    the time difference from the beginning of the test to a sudden increase in the
+    volumetric water content readings, was influenced by the soil initial water content
+    and rainfall intensity; it is observed that the lag time is shorter at higher
+    initial water contents and greater rainfall intensities. The results provide insights
+    to understand the hydraulic behavior of unsaturated slopes and embankments exposed
+    to rainfall infiltration.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Unsaturated soil, initial water content, water infiltration, laboratory testing,
+        onedimensional infiltration
+      - "Suelo parcialmente saturado, contenido inicial de agua, infiltraci\xF3n de\
+        \ agua, ensayos de laboratorio, infiltraci\xF3n unidimensional"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: One-dimensional experimental study of rainfall infiltration into unsaturated
+      soil
+    url: http://dx.doi.org/10.17533/udea.redin.n82a10
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Juan-David-Montoya-Dominguez:
+    individualname: Juan David Montoya-Dominguez
+    role: creator
+  Edwin-Fabian-Gar-cia-Aristizabal:
+    individualname: "Edwin Fabi\xE1n Gar c\xEDa-Aristiz\xE1bal"
+    role: creator
+  Carlos-Alberto-Vega-Posada:
+    individualname: Carlos Alberto Vega-Posada
+    role: creator
+  Montoya-Dominguez-Juan-David:
+    individualname: Montoya-Dominguez, Juan David
+    role: creator
+  Garcia-Aristizabal-Edwin-Fabian:
+    individualname: "Garc\xEDa-Aristiz\xE1bal, Edwin Fabi\xE1n"
+    role: creator
+  Vega-Posada-Carlos-Alberto:
+    individualname: Vega-Posada, Carlos Alberto
+    role: creator
+  Universidad-de-Antioquia:
+    individualname: Universidad de Antioquia
+    role: creator
+content_info: {}

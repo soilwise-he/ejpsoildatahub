@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1084674
+  dataseturi: https://doi.org/10.5281/zenodo.1084674
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Overview Of The Factors Affecting Microbial-Induced Calcite Precipitation
+    And Its Potential Application In Soil Improvement
+  abstract: 'Microbial-induced calcite precipitation (MICP) is a
+
+    relatively green and sustainable soil improvement technique. It
+
+    utilizes biochemical process that exists naturally in soil to improve
+
+    engineering properties of soils. The calcite precipitation process is
+
+    uplifted by the mean of injecting higher concentration of urease
+
+    positive bacteria and reagents into the soil. The main objective of this
+
+    paper is to provide an overview of the factors affecting the MICP in
+
+    soil. Several factors were identified including nutrients, bacteria type,
+
+    geometric compatibility of bacteria, bacteria cell concentration,
+
+    fixation and distribution of bacteria in soil, temperature, reagents
+
+    concentration, pH, and injection method. These factors were found to
+
+    be essential for promoting successful MICP soil treatment.
+
+    Furthermore, a preliminary laboratory test was carried out to
+
+    investigate the potential application of the technique in improving the
+
+    shear strength and impermeability of a residual soil specimen. The
+
+    results showed that both shear strength and impermeability of
+
+    residual soil improved significantly upon MICP treatment. The
+
+    improvement increased with increasing soil density.'
+  keywords:
+    default:
+      keywords:
+        subject: soil improvement.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-02-22'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1084674
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1084673
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wei-Soon-Ng:
+    individualname: Wei-Soon Ng
+    role: creator
+    organization: ''
+    url: ''
+  Min-Lee-Lee:
+    individualname: Min-Lee Lee
+    role: creator
+    organization: ''
+    url: ''
+  Siew-Ling-Hii:
+    individualname: Siew-Ling Hii
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

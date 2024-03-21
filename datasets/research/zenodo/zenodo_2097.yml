@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2544511
+  dataseturi: https://doi.org/10.5281/zenodo.2544511
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Usage of analcinite for reduction of the content of phenolic compounds in
+    soil under fruit plants
+  abstract: Data about application of siliceous natural mineral analcinite in agricultural
+    industry are cited. The content of phenolic compounds under different species
+    of fruit plants is determined, the prospects of analcinite application for decreasing
+    of the content of phenol in soil are shown.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2011-09-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2544511
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2544510
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.K.-Kudrenko:
+    individualname: I.K. Kudrenko
+    role: creator
+    organization: M.M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  V.F.-Levon:
+    individualname: V.F. Levon
+    role: creator
+    organization: M.M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  N.V.-Zaimenko:
+    individualname: N.V. Zaimenko
+    role: creator
+    organization: M.M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  P.A.-Moroz:
+    individualname: P.A. Moroz
+    role: creator
+    organization: M.M. Gryshko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8113115
+  dataseturi: https://doi.org/10.5281/zenodo.8113115
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Correlations between soil sodicity and foliar symptom of wood decay of kiwifruit
+  abstract: Wood decay of kiwifruit (Actinidia deliciosa) is a relatively new disease
+    of complex etiology. This disease has gained much attention in recent years because
+    it has become widespread in kiwifruit-growing areas. Foliar symptoms of the disease
+    are associated with toxins produced by pathogens and develop presumably in response
+    to certain environmental and physiological factors. Vineyard surveys were conducted
+    over nine years in a main Italian kiwifruit growing area, to investigate a potential
+    correlation between soil sodicity and the occurrence of leaf symptoms. Greenhouse
+    trials were also carried out to evaluate physiological parameters potentially
+    associated with the symptoms, as transpiration rate, stomatal conductance, net
+    photosynthesis, and water potential of potted vines grown with different levels
+    of soil sodicity. In the vineyard trials, an increase in soil sodicity significantly
+    augmented the incidence of wood decay of kiwifruit. Higher levels of soil sodicity
+    correlated to increased transpiration and decreased water potential in plant tissues,
+    which in turn can increase toxin translocation and accumulation in the leaves.
+  keywords:
+    default:
+      keywords:
+        subject: water potential
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-08-28'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8113115
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8113114
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Osti-Fabio:
+    individualname: Osti, Fabio
+    role: creator
+    organization: Istituto di Biometeorologia del CNR
+    url: https://orcid.org/0000-0002-6748-6274
+  Di-Marco-Stefano:
+    individualname: Di Marco, Stefano
+    role: creator
+    organization: Istituto di Biometeorologia del CNR
+    url: https://orcid.org/0000-0002-2786-4277
+content_info: {}

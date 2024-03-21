@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7680107
+  dataseturi: https://doi.org/10.5281/zenodo.7680107
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Enhanced remediation of a real HCH-polluted soil by the synergetic alkaline
+    and ultrasonic activation of persulfate
+  abstract: "The desorption of hydrophobic organic compounds (HOCs) and limited mass\
+    \ transfer in soil systems is a significant challenge for efficient soil remediation\
+    \ by oxidation treatments. The utilization of sonochemistry is a promising technology\
+    \ to enhance the decontamination of HOCs-polluted soils. In this work, ultrasound\
+    \ (US) was coupled to NaOH for activating persulfate (PS) to improve the remediation\
+    \ for natural soil polluted with hexa-chlorocyclohexanes (HCHs) (\u03A3HCHs =\
+    \ 404 mg kg\u2212 1 ). Batch experiments (mass aqueous/soil ratio, VL/WS = 2)\
+    \ were performed to evaluate the effect of US on HOCs desorption and oxidation.\
+    \ Moreover, the influence of US power (0\u2013245 W, corresponding to 0\u2013\
+    91 W L-1 of US power density) and the initial oxidant concentration (CPS = 10\u2013\
+    60 g L-1) on pollutants abatement, dechlorination degree, and oxidant consumption\
+    \ have been studied. Scanning electron microscopy (SEM) images verified that the\
+    \ US facilitates the breakdown of soil aggregates, enhancing the desorption of\
+    \ trichlorobenzenes (TCBs) (generated from HCHs alkaline hydrolysis) from the\
+    \ soil. Moreover, their subsequent oxidation is favouring because of higher radical\
+    \ species concentrations and the temperature rise. An increase in the US power\
+    \ up to 165 W accelerates the production rate of radicals, improving the pollutants\u2019\
+    \ degradation. The difference between pollutant oxidation and dechlorination decreases\
+    \ with increasing US power, associated with a lower concentration of intermediate\
+    \ chlorinated compounds. In the same way, the initial oxidant concentration plays\
+    \ a fundamental role in the remediation treatment. At the selected operating conditions\
+    \ (CPS = 60 g L-1, NaOH/PS = 2, 165 W), a pollutants degradation and dechlorination\
+    \ of 0.94 and 0.74, respectively, were achieved in just 3 h of reaction time."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-02-27'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7680107
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7680104
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Checa-Fernandez-Alicia:
+    individualname: "Checa-Fern\xE1ndez, Alicia"
+    role: creator
+    organization: Universidad Complutense de Madrid
+    url: ''
+  Santos-Aurora:
+    individualname: Santos, Aurora
+    role: creator
+    organization: Universidad Complutense de Madrid
+    url: ''
+  Conte-Leandro:
+    individualname: Conte, Leandro
+    role: creator
+    organization: Universidad Complutense de Madrid
+    url: ''
+  Romero-Arturo:
+    individualname: Romero, Arturo
+    role: creator
+    organization: Universidad Complutense de Madrid
+    url: ''
+  Dominguez-Carmen:
+    individualname: "Dom\xEDnguez, Carmen"
+    role: creator
+    organization: Universidad Complutense de Madrid
+    url: ''
+content_info: {}

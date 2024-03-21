@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Babalola_2021
+  dataseturi: https://doi.org/10.3897/BDJ.9.e60245
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Revealing the active microbiome connected with the rhizosphere soil of maize
+    plants in Ventersdorp, South Africa
+  abstract: '&lt;p&gt;We conducted shotgun metagenomics sequencing of the maize rhizosphere
+    and bulk soils in Ventersdorp, South Africa. Information on the structural composition
+    and functional capabilities of microbial communities in the maize rhizosphere
+    are provided by the data. Characterising the functional potentials of rhizosphere
+    microbiomes gives an opportunity to link the microbiome to plant growth and health
+    and provides the possibility of discovering new plant-beneficial genes that could
+    enhance agricultural sustainability.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Illumina sequencing
+      - metagenomics
+      - rhizosphere
+      - maize plants
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Revealing the active microbiome connected with the rhizosphere soil of maize
+      plants in Ventersdorp, South Africa
+    url: http://dx.doi.org/10.3897/BDJ.9.e60245
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Babalola-Olubukola:
+    individualname: Babalola, Olubukola
+    role: creator
+  Molefe-Rebaona:
+    individualname: Molefe, Rebaona
+    role: creator
+  Amoo-Adenike:
+    individualname: Amoo, Adenike
+    role: creator
+content_info: {}

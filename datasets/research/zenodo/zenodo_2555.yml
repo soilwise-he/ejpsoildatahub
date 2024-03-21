@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8215773
+  dataseturi: https://doi.org/10.5281/zenodo.8215773
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Effects of Water\u2014Binder Ratio on Strength and Seismic Behavior of Stabilized\
+    \ Soil from Kongshavn, Port of Oslo"
+  abstract: "In many civil engineering problems, soil is stabilized by a combination\
+    \ of binders and water. The success of stabilization is evaluated using seismic\
+    \ tests with measured P-wave velocities. Optimization of process, laboratory testing\
+    \ and data modelling are essential to reduce the costs of the industrial projects.\
+    \ This paper reports the optimized workflow of soil stabilization through evaluated\
+    \ effects from the two factors controlling the development of strength: (1) the\
+    \ ratio between water and binder; (2) the proportions of different binders (cement/slag)\
+    \ were changed experimentally in a mixture of samples to evaluate the strength\
+    \ of soil. The experimental results show an optimal combination of 30% cement\
+    \ and 70% slag with a binder content of 120 kg/m3 and a maximum water binder ratio\
+    \ (w/b) of 5. Such proportions of mixture demonstrated effective soil stabilization\
+    \ both on a pilot test scale and on full scale for industrial works. The correlation\
+    \ between the compressive strength and relative deformation of specimens revealed\
+    \ that strength has the highest values for w/b = 5 and the lowest for w/b = 7.\
+    \ In case of high water content in soil and wet samples, the condition of a w/b\
+    \ \u2264 5 will require a higher amount of binder."
+  keywords:
+    default:
+      keywords:
+        subject: engineering
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8215773
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3390/su151512016
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.8215772
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Per-Lindh:
+    individualname: Per Lindh
+    role: creator
+  Polina-Lemenkova:
+    individualname: Polina Lemenkova
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: ''
+    organization: Lund University
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: ''
+    organization: "Universit\xE9 libre de Bruxelles"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

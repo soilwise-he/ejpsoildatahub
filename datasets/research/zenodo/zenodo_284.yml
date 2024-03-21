@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4067319
+  dataseturi: https://doi.org/10.5281/zenodo.4067319
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Estimation of Soil Loss and Ranking Priority in Implementing Soil Erosion
+    Control Measures in Sebeya Catchment, Rwanda
+  abstract: <em>Soil erosion is one of the major environmental issues causing the
+    loss of topsoil and fertility in agricultural land. Western part of Rwanda including
+    Sebeya catchment has high susceptibility to erosion leading to huge amounts of
+    soil loss and river sedimentation. The present study held to estimate the actual
+    soil loss from Sebeya catchment and its 8 sub-catchments. ArcGIS software was
+    used to delineate the catchment and its sub-catchments and for mapping all USLE
+    factors. By integrating all maps of USLE factors in GIS, the average soil loss
+    from the whole catchment area was estimated to 130.724<strong> </strong>t/ha/yr.
+    Kanzenze sub-catchment was found to be the 1<sup>st</sup> sub-catchment alarming
+    the intervention with a soil loss of 243.868 t/ha/yr while Bitenga sub-catchment
+    appears at the last rank with a soil loss of 86.922 t/ha/yr for this prioritization
+    in implementing soil erosion control measures. Therefore, the unevenly spatial
+    distribution of soil erosion rates in this study should help the agricultural
+    managers to improve their strategy in planning and implementing the soil erosion
+    control measures in Sebeya catchment.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-10-06'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4067319
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4067318
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Felicien-Majoro:
+    individualname: "F\xE9licien Majoro"
+    role: creator
+  Umaru-Garba-Wali:
+    individualname: Umaru Garba Wali
+    role: creator
+    organization: University of Rwanda, College of Science and Technology, Department
+      of Civil, Environmental and Geomatics Engineering, P.O. Box 3900, Kigali, Rwanda
+    url: ''
+  Omar-Munyaneza:
+    individualname: Omar Munyaneza
+    role: creator
+  Francois-Xavier-Naramabuye:
+    individualname: "Fran\xE7ois-Xavier Naramabuye"
+    role: creator
+    organization: University of Rwanda, College of Agriculture Science and Veterinary
+      Medicine, P.O. Box 3971, Kigali, Rwanda
+    url: ''
+  Concilie-Mukamwambali:
+    individualname: Concilie Mukamwambali
+    role: creator
+    organization: University of Rwanda, College of Education, Department of Mathematics,
+      Science and Physical Education, P.O. Box 55, Rwamagana, Rwanda
+    url: ''
+  Majoro-Felicien:
+    individualname: "Majoro, F\xE9licien"
+    role: ''
+    organization: University of Rwanda, College of Science and Technology, Department
+      of Civil, Environmental and Geomatics Engineering, P.O. Box 3900, Kigali, Rwanda
+    url: ''
+  Munyaneza-Omar:
+    individualname: Munyaneza, Omar
+    role: ''
+    organization: University of Rwanda, College of Science and Technology, Department
+      of Civil, Environmental and Geomatics Engineering, P.O. Box 3900, Kigali, Rwanda
+    url: ''
+content_info: {}

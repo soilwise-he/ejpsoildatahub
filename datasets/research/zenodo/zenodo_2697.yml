@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5600171
+  dataseturi: https://doi.org/10.5281/zenodo.5600171
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The application of multivariate statistical analysis to the analysis of characteristics
+    and assessment methods of heavy metal soil contamination
+  abstract: 'Department of Environ. Engineering &amp; Science, National Pingtung University
+    of Science and Technology, 1, Xuefu Road, Neipu Township, Pingtung County 912,
+    Taiwan <em>E-mail</em> : wcyu@mail.npust.edu.tw Department of Technology Management,
+    The Open University of Kaohsiung, No. 436, Dar-Ye North Road, Kaohsiung City 812,
+    Taiwan E-mail : singsuey@ms28.hinet.net <em>Manuscript received online 29 August
+    2016, accepted 02 October 2016</em> This research uses data from heavy metal soil
+    monitoring collected in 23 countries and cities across Taiwan by the Environmental
+    Protection Administration (EPA), Taiwan. Multivariate statistical analysis methods
+    are applied to investigate the relationships among the variables of the eight
+    major heavy metals, hoping to find the principal factors that affect soil contamination
+    and the contamination tendency in Taiwan. The discussion of relationships among
+    the eight heavy metals (i.e. chromium (Cr), Ni (nickel), Cu (copper), Zn (zinc),
+    Hg (mercury), Cd (cadmium), As (arsenic), and Pb (lead)) can reflect the difference
+    in the contaminations in affected areas and contamination level assessment models.
+    The results of the factor analysis show that the principal factors affecting the
+    contamination mechanism of the eight heavy metals can be simplified into two :
+    (1) Highly oxidizing pollutants comprised of Cr, Ni, Cu, and Zn. The loading capacity
+    order from high to low is Cr, Ni, Cu, and Zn, which corresponds to several rules
+    on the periodic table. (2) The semiconductor potential pollutant factor comprised
+    of Cd, As, and Pb. The factors, either the transition metal Cd or the typical
+    elements, As and Pb, all have something to do with the formation of a compound
+    semiconductor. The major mechanism for semiconductor formation is the metallic
+    bond. As for the cluster analysis, five clusters are first divided according to
+    the contamination characteristics. Discriminant analysis is used to classify the
+    type of a new sample with an accuracy as high as 96.87%. This means that the clustering
+    for the cluster analysis is acceptable. The research findings can serve as reference
+    material for relevant entities in the planning and application of soil remediation
+    strategies.'
+  keywords:
+    default:
+      keywords:
+        subject: soil pollution
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-02-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5600171
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5600170
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wu-Chou-Yu:
+    individualname: Wu-Chou Yu
+    role: creator
+    organization: ''
+    url: ''
+  Shu-Lung-Kuo:
+    individualname: Shu-Lung Kuo
+    role: creator
+    organization: ''
+    url: ''
+  Yi-Ching-Fu:
+    individualname: Yi-Ching Fu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

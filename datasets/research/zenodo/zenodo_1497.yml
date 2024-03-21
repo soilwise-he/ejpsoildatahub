@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8380596
+  dataseturi: https://doi.org/10.5281/zenodo.8380596
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Real-time ultrasonic water level IoT sensor for in situ permeability soil
+    tests
+  abstract: Soil permeability tests require a time series of water level measurements
+    to determine system losses, including both infiltration and evaporation. Laboratory
+    measurements of flow are standardised by international regulations such as ASTM
+    International, ISO or UNE, but field measurements are not as well described and,
+    in some cases, may require definition and specification of test conditions. This
+    is the case for geosynthetic clay liner (GCL) products, where permeability is
+    assessed by a laboratory measurement using a flexible wall permeameter as defined
+    in standard test method D 5887-04. This method is not able to evaluate the performance
+    of such products in the field and therefore cannot guarantee their ability to
+    be used for the repair of landfill liner overlays. For this reason, we have defined
+    a field test in a confined steel ring and developed a real-time ultrasonic IoT
+    device to evaluate water losses over a period. The test method was applied in
+    Mallorca (Spain) and as a result the quality of a landfill cover repair solution
+    was evaluated, the corresponding civil works were carried out and the basis for
+    future field measurements of soil permeability tests on different materials and
+    conditions was established.
+  keywords:
+    default:
+      keywords:
+        subject: Soil permeability test, Geosynthetic Clay Liner, Ultrasonic IoT
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2023-09-08'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8380596
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8328181
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pablo-Blanco-Gomez:
+    individualname: "Pablo Blanco-G\xF3mez"
+    role: creator
+  Jose-Luis-Jimenez-Garcia:
+    individualname: "Jos\xE9 Luis Jim\xE9nez-Garc\xEDa"
+    role: creator
+  Blanco-Gomez-Pablo:
+    individualname: "Blanco-G\xF3mez, Pablo"
+    role: ''
+    organization: "Vielca Ingenieros, S.A., Avda. Arag\xF3n, 17. 46010 Valencia, Spain"
+    url: https://orcid.org/0000-0001-9465-2912
+  Jimenez-Garcia-Jose-Luis:
+    individualname: "Jim\xE9nez-Garc\xEDa, Jos\xE9 Luis"
+    role: ''
+    organization: "Vielca Ingenieros, S.A., Avda. Arag\xF3n, 17. 46010 Valencia, Spain"
+    url: https://orcid.org/0000-0001-6619-9057
+content_info: {}

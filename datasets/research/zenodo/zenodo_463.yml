@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10362422
+  dataseturi: https://doi.org/10.5281/zenodo.10362422
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Different Techniques For Soil Stabilization: A Review Paper'
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-12'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10362422
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10362421
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  MKSES-Publication-Lucknow:
+    individualname: MKSES Publication Lucknow
+    role: creator
+  Rajan-Pal:
+    individualname: Rajan Pal
+    role: creator
+    organization: ''
+    url: ''
+  Shambhavi-Maurya:
+    individualname: Shambhavi Maurya
+    role: creator
+    organization: ''
+    url: ''
+  Er.-Gaurav-Srivastava:
+    individualname: Er. Gaurav Srivastava
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

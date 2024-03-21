@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GILLESPIE_1918
+  dataseturi: https://doi.org/10.1097/00010694-191809000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "HYDROGEN-ION CONCENTRATION\u2014SOIL TYPE\u2014COMMON POTATO SCAB"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "HYDROGEN-ION CONCENTRATION\u2014SOIL TYPE\u2014COMMON POTATO SCAB"
+    url: http://dx.doi.org/10.1097/00010694-191809000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gillespie-Louis-J.:
+    individualname: Gillespie, Louis J.
+    role: creator
+  Hurst-Lewis-A.:
+    individualname: Hurst, Lewis A.
+    role: creator
+  GILLESPIE-LOUIS-J.:
+    individualname: GILLESPIE, LOUIS J.
+    role: creator
+  HURST-LEWIS-A.:
+    individualname: HURST, LEWIS A.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

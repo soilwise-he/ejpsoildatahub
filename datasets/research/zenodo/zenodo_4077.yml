@@ -1,0 +1,121 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4582386
+  dataseturi: https://doi.org/10.5281/zenodo.4582386
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A preliminary study of the content and distribution of pesticide residues
+    in soil samples from the Kathmandu valley, Nepal
+  abstract: "The increasing use of pesticides for agricultural production is causing\
+    \ soil pollution problems in different parts of Nepal. Uncontaminated agricultural\
+    \ soils are of great importance as they have a direct impact on food security\
+    \ and human health. The objective of this study was to investigate the quality\
+    \ and quantity of pesticides in soil samples from districts near the capital city\
+    \ of Kathmandu, from where fruit and vegetables are brought to the city for consumption.\
+    \ A questionnaire survey was carried out in four districts around Kathmandu city\
+    \ to investigate the types of pesticides that are most commonly used in these\
+    \ districts. A total of 15 soil samples were taken at a depth of 10 cm and four\
+    \ complete soil profiles were sampled at three different depths (10 cm, 30 cm\
+    \ and 50 cm) on the farms of those who were interviewed. A total of four replicates\
+    \ of each soil sample were extracted and analyzed. The pH, soil texture and organic\
+    \ carbon content of the soil samples were analyzed to understand the general soil\
+    \ characteristics. The QuEChERS method used for the analysis of food samples was\
+    \ modified and applied to the soil samples. An HPLC-MS/MS was used for the qualification\
+    \ and quantification of the pesticide residues in the soil samples. The questionnaire\
+    \ survey revealed that carbendazim, chlorpyrifos-methyl, parathion-methyl, imidacloprid,\
+    \ metalaxyl, dimethoate, omethoate and dichlorvos were the most commonly used\
+    \ pesticides in the area studied. The chemical analysis showed that soil samples\
+    \ from all the districts except Kathmandu city were contaminated with various\
+    \ pesticides. The soil samples collected at the depth of 10 cm were found to be\
+    \ contaminated with the fungicide carbendazim and the insecticide chlorpyrifos-methyl\
+    \ at rates of up to 0.038 mg kg-1 and the systemic insecticide imidacloprid was\
+    \ found at up to 0.016 mg kg-1. !e study of soil samples taken at different depths\
+    \ (10 cm, 30 cm and 50 cm) showed that pesticides were homogenously distributed\
+    \ with soil depth. !e recovery between 77.5-112%, linearity between 0.01 mg kg^{-1}\
+    \ - 2 mg kg^{-1} with correlation factors R^2 higher than 0.99 and LOQ between\
+    \ 0.2 \xB5g kg^{-1}- 6.25 \xB5g kg^{-1} were found. Some samples were contaminated\
+    \ with parathion-methyl, a highly carcinogenic organophosphorous insecticide,\
+    \ even though these pesticides had already been banned. For the first time, this\
+    \ study provides information about soil contamination levels due to pesticides\
+    \ in Central Nepal and shows that further research and information campaigns for\
+    \ farmers are necessary."
+  keywords:
+    default:
+      keywords:
+        subject: Questionnaire Survey
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-10-26'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4582386
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4582385
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nirita-Giri:
+    individualname: Nirita Giri
+    role: creator
+  Winfried-E.H.-Blum:
+    individualname: Winfried E.H. Blum
+    role: creator
+  Axel-Mentler:
+    individualname: Axel Mentler
+    role: creator
+  Monika-Sieghardt:
+    individualname: Monika Sieghardt
+    role: creator
+  Celine-Lesueur:
+    individualname: "C\xE9line Lesueur"
+    role: creator
+  Giri-Nirita:
+    individualname: Giri, Nirita
+    role: ''
+    organization: Institute of Soil Research, University of Natural Resources and
+      Life Sciences (BOKU), Peter Jordan Strasse 82. 1190, Vienna Austria.
+    url: https://orcid.org/0000-0002-8491-8163
+  Blum-Winfried-E.H.:
+    individualname: Blum, Winfried E.H.
+    role: ''
+    organization: Institute of Soil Research, University of Natural Resources and
+      Life Sciences (BOKU), Peter Jordan Strasse 82. 1190, Vienna Austria.
+    url: https://orcid.org/0000-0002-1279-5002
+  Mentler-Axel:
+    individualname: Mentler, Axel
+    role: ''
+    organization: Institute of Soil Research, University of Natural Resources and
+      Life Sciences (BOKU), Peter Jordan Strasse 82. 1190, Vienna Austria.
+    url: https://orcid.org/0000-0002-9523-9457
+  Sieghardt-Monika:
+    individualname: Sieghardt, Monika
+    role: ''
+    organization: Institute of Forest Ecology, University of Natural Resources and
+      Life Sciences (BOKU), Peter Jordan Strasse 82. 1190, Vienna, Austria.
+    url: ''
+  Lesueur-Celine:
+    individualname: "Lesueur, C\xE9line"
+    role: ''
+    organization: Lebensmittel Vertrauen Analysen (LVA) GmbH, Magdeburggasse 10. 3400
+      Klosterneuburg, Austria.
+    url: ''
+content_info: {}

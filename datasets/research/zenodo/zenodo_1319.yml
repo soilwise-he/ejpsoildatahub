@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1239105
+  dataseturi: https://doi.org/10.5281/zenodo.1239105
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Design Of Automatic Soil Humidity Control Using Maximum Power Point Tracking
+    Controller
+  abstract: "The photovoltaic system uses the photovoltaic array as a source of electrical\
+    \ power for the direct conversion of the sun\u2019s radiation to direct current\
+    \ without any environmental hazards. The main purpose of this research is to design\
+    \ a converter with Maximum Power Point Tracker (MPPT) algorithm for any typical\
+    \ application of soil humidity control. Using this setup the major energy from\
+    \ the solar panel is used for the control of soil humidity. The design of the\
+    \ converter with MPPT together with the soil humidity control logic is presented\
+    \ in this paper. Experimental testing of the designed controller is implemented\
+    \ and evaluated for performance under laboratory environment."
+  keywords:
+    default:
+      keywords:
+        subject: adaptive controller, Adaptive filter , Analytical tool, Analytical
+          tool , Antenna , ASIC , ATSC, Authentication, Black Propagation Neural Network
+          (BPNN), BPNN, butterfly , Butterfly, cascaded integrated comb filter , Cascaded
+          Integrator Comb filters, CIC , CIM , Classification, CMOS , CMOS layout
+          , Comb , comb , comb filters , computer aided , Constant Multiplication
+          Arithmetic, converters , Converters , Decimation , decimation , decimation
+          filters , DFT , digit slicing , Digit-Slicing Multiplier-Less, Digit-Slicing
+          technique, digit-slicing technique, Digital Design, digital design , Digital
+          filter, digital filter , digital signal processing, Dipole, Discrete Cosine
+          Transform (DCT), Discrete Cosine Transform DCT, Discrete Wavelet Transform
+          DWT, DSP , electrical machine, Embedded, Embedded design , Embedded Design,
+          eye tracker, fast adder , Fast Fourier Transform, fast fourier transform
+          (FFT), Fast Fourier Transform (FFT) , FFT , filters , Filters , Floating
+          point , floating point , Floating Point , floating-point, FPGA , Global
+          System for Mobile Communication (GSM), Gm-c filter , GSM, gsm , GSM message,
+          GUI , high performance , high resolution , High resolution, high speed ,
+          High Speed , High-speed, Home automation, Home automation , IDFT, IFFT ,
+          image authentication , Image processing , inverse DFT, IR , IR sensor ,
+          Lab View , latency, linearity, LNA, Local Binary Pattern (LBP), low noise
+          amplifier, Mathematical, Maximum Power Point Tracker, MCLA , MCU , Microstrip,
+          MMIC, motor , Motor; GUI , MPPT , multiple gate transistors linearization,
+          NI, OFDM , on chip , PCA, PIC microcontroller, Pipelined digit-slicing multiplier-less
+          , Planer Dipole , Planner, prepaid power meter, Principal Component Analysis
+          (PCA), Processor , processor , quantised, quantized, radix , Radix, Radix
+          22 DIF SDF, Radix 22 DIF SDF FFT, Radix 22 DIF SDF FFT., recursive , RFID
+          , RFID system, Robot , rotary reluctance , Rotary Reluctance; Electrical
+          Machine, Rotary Reluctance; Toolbox, RS232 standard, self-biasing , Sensor
+          , Short Message Service (SMS), sigma delta , Sigma Delta A/D conversion
+          , sigma delta modulator , Signature verification , Signature Verification,
+          silterra , Simulation, smart design , smart tool , solar energy , spider
+          robot, sustainable future , Synopsys design compiler, synopsys design compiler,
+          toolbox , Touch technology , Tracking filter, transconductor , truncation
+          , Turbine, TV tuner , verilog , Verilog HDL , virtex , VLSI, VSWR, wireless
+          sensor, Xilinx
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-05-01'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1239105
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1239104
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teymourzadeh-Rozita:
+    individualname: Teymourzadeh, Rozita
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-4620-7790
+content_info: {}

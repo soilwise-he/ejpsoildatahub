@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7335741
+  dataseturi: https://doi.org/10.5281/zenodo.7335741
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE PROCESS OF SOIL SOLONTSIS UNDER THE INFLUENCE MINERALIZED WATERS
+  abstract: <em>In the soils studied by us, changes in the composition of the soil
+    absorption complex (SAC) occur mainly between three cations, such as Ca<sup>++</sup>,
+    Mg<sup>++</sup>, Na<sup>+</sup>, the radii of which differ from each other within
+    20%. According to A.E., Fersman [11], when the ion radii differ by up to 20%,
+    cations are considered interchangeable, in other words, isomorphic in the crystal
+    lattices of minerals, which is why when irrigating with mineralized water, sodium
+    ions replace Mg++ and Ca++ ions. This substitution occurs gradually and over a
+    long period the influence of mineralized waters and at a certain stage quantitatively
+    stabilizes. In order to predict the probability of the sodium cation entering
+    the SAC, and therefore the potential danger of soil alkalinization during irrigation
+    with mineralized waters, a special indicator SAR (Sodium adsorption ratio) is
+    used, which, based on Ca ++, Mg++, Na</em><em>+</em><em> data, makes it possible
+    to assess the quality of irrigation water. Our waters, both river and mineralized,
+    had a low risk of salinization and alkalinization according to this indicator,
+    and therefore, when they were used as irrigation water, they did not render the
+    soil unusable for a short period of 3-10 years, i.e. in terms of solonetzization,
+    there were no significant changes, the soils were not solonetzic and remained
+    so. But the process of solonetzization took place.</em>
+  keywords:
+    default:
+      keywords:
+        subject: cations, solonetz, absorption, mineralized waters, irrigation, adsorption,
+          cation exchange.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-11-18'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7335741
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7335740
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Iuldashev-G.-Mirzaev-U.B.-Rakhimov-A.-Khasanov-R.-Madaminov-A.-Nematov-A.-Gofurov-B.-Kadirov-M.-Tozhimatov-A.:
+    individualname: "\u042E\u043B\u0434\u0430\u0448\u0435\u0432 \u0413. \u041C\u0438\
+      \u0440\u0437\u0430\u0435\u0432 \u0423.\u0411. \u0420\u0430\u0445\u0438\u043C\
+      \u043E\u0432 \u0410. \u0425\u0430\u0441\u0430\u043D\u043E\u0432 \u0420. \u041C\
+      \u0430\u0434\u0430\u043C\u0438\u043D\u043E\u0432 \u0410. \u041D\u0435\u043C\u0430\
+      \u0442\u043E\u0432 \u0410. \u0413\u043E\u0444\u0443\u0440\u043E\u0432 \u0411\
+      . \u041A\u0430\u0434\u0438\u0440\u043E\u0432 \u041C. \u0422\u043E\u0436\u0438\
+      \u043C\u0430\u0442\u043E\u0432 \u0410."
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

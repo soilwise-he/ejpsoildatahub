@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: FURMANCZYK_2021
+  dataseturi: https://doi.org/10.14411/eje.2021.021
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'SOIL-INSECT toolbox: A new chamber for analysing the behaviour of herbivorous
+    insects and tri-trophic interactions in soil'
+  abstract: '&lt;p&gt;A chamber, named SOIL-INSECT toolbox, was developed to analyse
+    the effect of various factors on the behaviour of soil-dwelling insects. It is
+    equipped with sensors that continuously monitor the concentration of CO2 in the
+    different compartments of the chamber without disturbing the air balance in the
+    soil. The chamber can be adapted to study different stimuli, including volatile
+    compounds, both in the presence and absence of plants. The chamber was tested
+    using the larvae of Melolontha spp., which confi rmed its suitability for carrying
+    out complex studies on insect-insect and insect-plant-microbiome interactions
+    in a complex environment such as soil. The results of behavioural experiments
+    using L3 larvae of Melolontha spp. in sterilized and natural soils revealed that
+    the soil condition affected the behaviour of the larvae, likely due to its effect
+    on the soil microbiome and physicochemical characteristics.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Subterranean insects
+      - behaviour
+      - herbivory
+      - tri-trophic interactions
+      - biotest arena
+      - carbon dioxide
+      - Melolontha spp.
+      - volatile compounds
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'SOIL-INSECT toolbox: A new chamber for analysing the behaviour of herbivorous
+      insects and tri-trophic interactions in soil'
+    url: http://dx.doi.org/10.14411/eje.2021.021
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Furmanczyk-Ewa-M.:
+    individualname: Furmanczyk, Ewa M.
+    role: creator
+  Tartanus-Malgorzata:
+    individualname: Tartanus, Malgorzata
+    role: creator
+  Jozwiak-Zbigniew-B.:
+    individualname: "J\xF3\u017Awiak, Zbigniew B."
+    role: creator
+  Malusa-Eligio:
+    individualname: "Malus\xE0, Eligio"
+    role: creator
+  FURMANCZYK-Ewa-M.:
+    individualname: FURMANCZYK, Ewa M.
+    role: creator
+  TARTANUS-Malgorzata:
+    individualname: TARTANUS, Malgorzata
+    role: creator
+  JOZWIAK-Zbigniew-B.:
+    individualname: "J\xD3\u0179WIAK, Zbigniew B."
+    role: creator
+  MALUSA-Eligio:
+    individualname: "MALUS\xC1, Eligio"
+    role: creator
+  Biology-Centre-AS-CR:
+    individualname: Biology Centre, AS CR
+    role: creator
+content_info: {}

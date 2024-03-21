@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ALLISON_1918
+  dataseturi: https://doi.org/10.1097/00010694-191801000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOME AVAILABILITY STUDIES WITH AMMONIUM PHOSPHATE AND ITS CHEMICAL AND BIOLOGICAL
+    EFFECTS UPON THE SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOME AVAILABILITY STUDIES WITH AMMONIUM PHOSPHATE AND ITS CHEMICAL AND BIOLOGICAL
+      EFFECTS UPON THE SOIL
+    url: http://dx.doi.org/10.1097/00010694-191801000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Allison-F.-E.:
+    individualname: Allison, F. E.
+    role: creator
+  ALLISON-F.-E.:
+    individualname: ALLISON, F. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

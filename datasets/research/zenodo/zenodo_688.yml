@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Alway_1908
+  dataseturi: https://doi.org/10.1017/s0021859600000630
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Studies of Soil Moisture in the \u201CGreat Plains\u201D Region"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Studies of Soil Moisture in the \u201CGreat Plains\u201D Region"
+    url: http://dx.doi.org/10.1017/s0021859600000630
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alway-F.-J.:
+    individualname: Alway, F. J.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

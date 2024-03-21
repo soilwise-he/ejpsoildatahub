@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3897263
+  dataseturi: https://doi.org/10.5281/zenodo.3897263
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Preprint
+identification:
+  title: 'Assessment of soil microbial functional diversity: land use and soil properties
+    affect CLPP-MicroResp and enzymes responses'
+  abstract: "The assessment of microbial functional diversity is an important indicator\
+    \ of soil quality. Different methodological approaches are currently used; among\
+    \ them are enzyme activities (EA) and CLPP (community level physiological profile)\
+    \ techniques (e.g. MicroResp<strong>\u2122</strong>, MR). The aims of the study\
+    \ were: <strong>i</strong>) to assess the efficacy of both methods in capturing\
+    \ differences among various land use categories when different levels of selected\
+    \ explanatory variables such as, total organic carbon (TOC) and pH are considered,\
+    \ and <strong>ii</strong>) to explore, through a quantile regression approach,\
+    \ the possible relationships between each of the two methods with land use category,\
+    \ TOC and pH. The Shannon diversity index (H<strong>\u2019</strong>), calculated\
+    \ from EA and MR data, was chosen as a synthetic index deriving from the same\
+    \ mathematical model. The quantile regression model (QRM), the Kruskal-Wallis\
+    \ and Spearman rank correlation tests were performed. Enzyme activities and MicroResp\
+    \ were reliable ecological indicators to assess soil microbial functional diversity.\
+    \ No correlation was found between the diversity indexes, H<strong>\u2019</strong>EA\
+    \ and H<strong>\u2019</strong>MR; it was therefore supposed that the two methods\
+    \ may target complementary components of microbial functional diversity. Both\
+    \ methods were effective in capturing differences among various land use categories,\
+    \ in particular H<strong>\u2019</strong>MR in soils with low TOC content (&lt;\
+    \ 1.5%). Moreover, the QRM approach allowed a more detailed analysis along the\
+    \ distribution of the diversity indexes (H<strong>\u2019</strong>EA and H<strong>\u2019\
+    </strong>MR) indicating that H<strong>\u2019</strong>EA was more dependent on\
+    \ the selected variables. Moscatelli M.C., Secondi, L., Marabottini, R., Papp,\
+    \ R., Stazi, S.R., Mania, E., Marinari, S. (2018). Assessment of soil microbial\
+    \ functional diversity: land use and soil properties affect CLPP-MicroResp and\
+    \ enzymes responses. Pedobiologia, 66, 36-42. https://doi.org/10.1016/j.pedobi.2018.01.001"
+  keywords:
+    default:
+      keywords:
+        subject: soil properties
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3897263
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3897262
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Moscatelli-Maria-Cristina:
+    individualname: Moscatelli, Maria Cristina
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: https://orcid.org/0000-0002-2750-6306
+  Secondi-Luca:
+    individualname: Secondi, Luca
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Marabottini-Rosita:
+    individualname: Marabottini, Rosita
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Papp-Ruxandra:
+    individualname: Papp, Ruxandra
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Stazi-Silvia-Rita:
+    individualname: Stazi, Silvia Rita
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Mania-Elena:
+    individualname: Mania, Elena
+    role: creator
+    organization: "Universit\xE0 degli Studi di Torino"
+    url: ''
+  Marinari-Sara:
+    individualname: Marinari, Sara
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+content_info: {}

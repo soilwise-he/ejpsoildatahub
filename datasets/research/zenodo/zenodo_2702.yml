@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hnin_2019
+  dataseturi: https://doi.org/10.31142/ijtsrd21339
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seismic Analysis of Soil-Foundation Interaction under a Bridge Pier Due to
+    Chauk Earthquake Excitation of 0.12g to 0.5g
+  abstract: '&lt;p&gt;In this study, seismic analysis of soil foundation interaction
+    under a bridge pier are studied with different earthquake excitations. In 2016,
+    August 25, a magnitude of 6.8 happened near Bagan region. Pakokku Bridge, the
+    longest of the bridges over the Irrawaddy, is situated on 37.8 miles from the
+    epicentre of 2016 Chauk earthquake. That is why the safety performance of long
+    span Bridge Pakokku Bridge especially for the safety of the foundation system
+    subjected to soil foundation interaction is necessary to investigate for unexpected
+    future seismic excitation. Firstly super structural loadings on the pile cap are
+    estimated by using STAAD PRO V8i. And then, p y curves are determined by Reese
+    1974 method for the static and National Cooperative Highway Research Program NCHRP
+    for dynamic conditions. Based on the development of p y curves, theoretical ultimate
+    soil resistance pcr and pcd due to wedge and flow failure are determined to produce
+    critical depth xcr. After that, finite element software ABAQUS is used for the
+    analysis of soil foundation interaction under a bridge pier in static condition.
+    And then, the behaviour of soil foundation interaction under a bridge pier is
+    carried out due to Chauk earthquake. In this study, the behaviour of soil foundation
+    interaction such as deflections and settlements are produced. According to the
+    analysis results in static condition, it is found that the vertical and horizontal
+    displacements at the pile tip are 2.28mm and 0.14mm respectively. In dynamic condition,
+    the vertical and horizontal displacements at the pile tip are 3mm and 2.94mm are
+    found at 0.12g. After that, maximum ground acceleration of 0.5g is 14.5mm and
+    2.94mm in horizontal and vertical displacement of pile tip. Maximum shear stress
+    and strain are found out the base of the pile cap. Finally it is found that the
+    soil foundation interaction under a bridge pier during earthquake motions presented
+    in this study is reliable and reasonable with the limitation of AASHTO Standard
+    Specifications for Highway Bridges. Zin May Hnin | Nyan Myint Kyaw | Kyaw Kyaw
+    &quot;Seismic Analysis of Soil-Foundation Interaction under a Bridge Pier Due
+    to Chauk Earthquake Excitation of 0.12g to 0.5g&quot; Published in International
+    Journal of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470,
+    Volume-3 | Issue-2 , February 2019, URL: https://www.ijtsrd.com/papers/ijtsrd21339.pdf&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Civil Engineering
+      - Pakokku Bridge
+      - Soil-foundation interaction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seismic Analysis of Soil-Foundation Interaction under a Bridge Pier Due
+      to Chauk Earthquake Excitation of 0.12g to 0.5g
+    url: http://dx.doi.org/10.31142/ijtsrd21339
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zin-May-Hnin:
+    individualname: Zin May Hnin
+    role: creator
+  Nyan-Myint-Kyaw:
+    individualname: Nyan Myint Kyaw
+    role: creator
+  Kyaw-Kyaw:
+    individualname: Kyaw, Kyaw
+    role: creator
+  Hnin-Zin-May:
+    individualname: Hnin, Zin May
+    role: creator
+  Kyaw-Nyan-Myint:
+    individualname: Kyaw, Nyan Myint
+    role: creator
+  South-Asia-Management-Association:
+    individualname: South Asia Management Association
+    role: creator
+content_info: {}

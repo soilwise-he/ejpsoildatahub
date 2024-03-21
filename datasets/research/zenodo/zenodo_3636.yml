@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10691851
+  dataseturi: https://doi.org/10.5281/zenodo.10691851
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Catalytic Degradation of Pentachlorophenol Contaminated Soil using Nano Zero-Valent
+    Iron Catalyst
+  abstract: "ABSTRACT\n\nPentachlorophenol (PCP) was widely applied in the industrial\
+    \ or agricultural sector in the early days. After long-term abusive use of PCP,\
+    \ the soil became contaminated. PCP is considered an \u201Cenvironmental hormone\u201D\
+    \ in terms of toxicity identification; alkali-chlorine plants in Southern Taiwan\
+    \ are those most polluted by PCP. This study first discussed the results of functional\
+    \ group identification using Fourier-transform infrared spectroscopy (FT-IR) performed\
+    \ on three test soils. Next, it used the self-synthesized nano zero-valent iron\
+    \ to observe its particle size distribution with a field emission scanning electron\
+    \ microscope (FM-SEM). Furthermore, it conducted catalytic degradation reaction\
+    \ on three test soils contaminated by PCP, to which different percentages of the\
+    \ zero-valent iron by weight (wt%) were added, in order to explore the degradation\
+    \ efficiency of the zero-valent iron over PCP.\n\nRegarding the degradation efficiency\
+    \ of four different percentages of the zero-valent iron by weight (wt%) over PCP\
+    \ in soil, the experimental results suggest that there are slight differences\
+    \ in the degradation efficiency of different percentages of the zero-valent iron\
+    \ by weight over soil contaminated by PCP at room temperature; the reaction rate\
+    \ and degradation efficiency of the zero-valent iron over PCP in soil increase\
+    \ as the amount of added zero-valent iron increases. This is largely because the\
+    \ oxidation reaction between the zero-valent iron and PCP in soil is more significant,\
+    \ while more electrons are released, when the content of the zero-valent iron\
+    \ increases and the zero-valent iron reacts with the pollutant. Meanwhile, electrons\
+    \ received by test soils relatively increase the reaction between these soils\
+    \ and PCP in soil; they also replace the original ligands in soil, which enables\
+    \ the effective degradation of concentrations of PCP in soil. Currently, the zero-valent\
+    \ iron has been extensively applied to environmental pollution remediation, which\
+    \ is especially effective for remediation of soil and groundwater pollution control\
+    \ sites and restoration work."
+  keywords:
+    default:
+      keywords:
+        subject: pentachlorophenol, nanozero-valent iron, FT-IR, contaminated soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-30'
+    publication: '2019'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10691851
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10691850
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ching-Lin-Ho:
+    individualname: Ching-Lin Ho
+    role: creator
+    organization: Department of Technology Management, Open University of Kaohsiung,
+      Taiwan
+    url: ''
+  Shu-Lung-Kuo:
+    individualname: Shu-Lung Kuo
+    role: creator
+    organization: Department of Technology Management, Open University of Kaohsiung,
+      Taiwan
+    url: ''
+content_info: {}

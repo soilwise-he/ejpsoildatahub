@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8260773
+  dataseturi: https://doi.org/10.5281/zenodo.8260773
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Study on soil characteristics and water infiltration rates
+  abstract: "Soil infiltration refers to the soil\u2019s ability to allow water movement\
+    \ into and through the soil profile. It allows the soil to temporarily store water\
+    \ (soil moisture content), making it available for uptake by plants and soil organisms.\
+    \ The infiltration rate can be restricted by poor management. Under these conditions,\
+    \ the water does not readily enter the soil and it moves down slope as runoff\
+    \ or ponds on the surface, where it evaporates. Thus, less water is stored in\
+    \ the soil for plant growth, and plant production decreases, resulting in less\
+    \ organic matter in the soil and weakened soil structure and soil texture that\
+    \ can further decrease the infiltration rate. Runoff can cause soil erosion and\
+    \ the formation of gullies. It also carries nutrients and organic matter, which,\
+    \ together with sediment, reduce water quality in streams, rivers, and lakes.\
+    \ Excessive runoff can cause flooding, erode stream banks, and damage roads. Runoff\
+    \ from adjacent slopes can saturate soils in low areas or can create ponded areas,\
+    \ thus killing upland plants. The soil and vegetation properties that currently\
+    \ limit infiltration and the potential for increasing the infiltration rate must\
+    \ be considered in any management plan. This paper investigates the influence\
+    \ of water in the soil and its influencing factors to be studied."
+  keywords:
+    default:
+      keywords:
+        subject: Infiltration, Organic Matter, Soil Texture, Soil Structure, Soil
+          Erosion, Soil Organisms, Water Quality, Soil Moisture Content
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-05'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8260773
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8260772
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Attia-El-Gayar:
+    individualname: Attia El Gayar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

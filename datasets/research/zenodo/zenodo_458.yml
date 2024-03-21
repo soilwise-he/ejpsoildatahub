@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2585613
+  dataseturi: https://doi.org/10.5281/zenodo.2585613
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Soil Science \u2013 Science of Past, Present and Future"
+  abstract: "The present study includes a detailed analysis on the past, present and\
+    \ future of the soil science in the Bulgaria and over the world. Soil science\
+    \ entered in the cycle of scientific discipline serving practice when in 1883\
+    \ the famous Russian scientist V.V.Dokuchaev established regularities of soil\
+    \ formation. Since then it has emerged as an important branch of biological science\
+    \ and it has become a science of undoubtedly great for public importance. There\
+    \ are different periods how it was developed in Bulgaria and it the rest of the\
+    \ world. In third period is examined Vernadski\"s concept of the Noosphere and\
+    \ relationship with soil science and how \u201E\"the thoughtful layer of the planet\u201D\
+    \ can repairs the consequences of the Technosphere and Anthropocentris."
+  keywords:
+    default:
+      keywords:
+        subject: Soil science, development, periods, world schools, FAO-classification,
+          WRBSR, Noosphere, Technosphere and Anthropocentris.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-10-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2585613
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2585612
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teoharov-Metodi:
+    individualname: Teoharov, Metodi
+    role: creator
+    organization: ISSAP "N. Poushkarov"
+    url: ''
+content_info: {}

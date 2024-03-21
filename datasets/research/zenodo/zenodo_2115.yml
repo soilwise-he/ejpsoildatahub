@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4730642
+  dataseturi: https://doi.org/10.5281/zenodo.4730642
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of Management and Hillside Position on Soil Organic Carbon Stratification
+    in Mediterranean Centenary Olive Grove
+  abstract: "The short- and medium\u2014long-term effects of management and hillside\
+    \ position on soil<br> organic carbon (SOC) changes were studied in a centenary\
+    \ Mediterranean rainfed olive grove. One<br> way to measure these changes is to\
+    \ analyze the soil quality, as it assesses soil degradation degree<br> and attempts\
+    \ to identify management practices for sustainable soil use. In this context,\
+    \ the SOC<br> stratification index (SR-COS) is one of the best indicators of soil\
+    \ quality to assess the degradation<br> degree from SOC content without analyzing\
+    \ other soil properties. The SR-SOC was calculated in soil<br> profiles (horizon-by-horizon)\
+    \ to identify the best soil management practices for sustainable use. The<br>\
+    \ following time periods and soil management combinations were tested: (i) in\
+    \ the medium-long-term<br> (17 years) from conventional tillage (CT) to no-tillage\
+    \ (NT), (ii) in the short-term (2 years) from CT<br> to no-tillage with cover\
+    \ crops (NT-CC), and (iii) the effect in the short-term (from CT to NT-CC) of<br>\
+    \ different topographic positions along a hillside. The results indicate that\
+    \ the SR-SOC increased with<br> depth for all management practices. The SR-SOC\
+    \ ranged from 1.21 to 1.73 in CT0, from 1.48 to 3.01 in<br> CT1, from 1.15 to\
+    \ 2.48 in CT2, from 1.22 to 2.39 in NT-CC and from 0.98 to 4.16 in NT; therefore,\
+    \ the<br> soil quality from the SR-SOC index was not directly linked to the increase\
+    \ or loss of SOC along the<br> soil profile. This demonstrates the time-variability\
+    \ of SR-SOC and that NT improves soil quality in<br> the long-term."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-04-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4730642
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4730641
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jesus-Aguilera-Huertas:
+    individualname: "Jes\xFAs Aguilera-Huertas"
+    role: creator
+  Beatriz-Lozano-Garcia:
+    individualname: "Beatriz Lozano-Garc\xEDa"
+    role: creator
+  Manuel-Gonzalez-Rosado:
+    individualname: "Manuel Gonz\xE1lez-Rosado"
+    role: creator
+  Luis-Parras-Alcantara:
+    individualname: "Luis Parras-Alc\xE1ntara"
+    role: creator
+  Aguilera-Huertas-Jesus:
+    individualname: "Aguilera-Huertas, Jes\xFAs"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Lozano-Garcia-Beatriz:
+    individualname: "Lozano-Garc\xEDa, Beatriz"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Gonzalez-Rosado-Manuel:
+    individualname: "Gonz\xE1lez-Rosado, Manuel"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+  Parras-Alcantara-Luis:
+    individualname: "Parras-Alc\xE1ntara, Luis"
+    role: ''
+    organization: "Universidad de C\xF3rdoba"
+    url: ''
+content_info: {}

@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MATHER_1922
+  dataseturi: https://doi.org/10.1097/00010694-192205000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF LIMES CONTAINING MAGNESIUM AND CALCIUM UPON THE CHEMICAL COMPOSITION
+    OF THE SOIL AND UPON PLANT BEHAVIOR
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF LIMES CONTAINING MAGNESIUM AND CALCIUM UPON THE CHEMICAL COMPOSITION
+      OF THE SOIL AND UPON PLANT BEHAVIOR
+    url: http://dx.doi.org/10.1097/00010694-192205000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mather-William:
+    individualname: Mather, William
+    role: creator
+  MATHER-WILLIAM:
+    individualname: MATHER, WILLIAM
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

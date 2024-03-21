@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GARDNER_1921
+  dataseturi: https://doi.org/10.1097/00010694-192103000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE MOVEMENT OF SOIL MOISTURE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE MOVEMENT OF SOIL MOISTURE
+    url: http://dx.doi.org/10.1097/00010694-192103000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gardner-Willard:
+    individualname: Gardner, Willard
+    role: creator
+  Widtsoe-John-A.:
+    individualname: Widtsoe, John A.
+    role: creator
+  GARDNER-WILLARD:
+    individualname: GARDNER, WILLARD
+    role: creator
+  WIDTSOE-JOHN-A:
+    individualname: WIDTSOE, JOHN A
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

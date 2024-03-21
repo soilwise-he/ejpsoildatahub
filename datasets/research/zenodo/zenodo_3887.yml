@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126493
+  dataseturi: https://doi.org/10.5281/zenodo.1126493
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Biogas From Cover Crops And Field Residues: Effects On Soil, Water, Climate
+    And Ecological Footprint'
+  abstract: "Cover or catch crops have beneficial effects for soil, water, erosion,\
+    \ etc. If harvested, they also provide feedstock for biogas without competition\
+    \ for arable land in regions, where only one main crop can be produced per year.\
+    \ On average gross energy yields of approx. 1300 m\xB3 methane (CH<sub>4</sub>)\
+    \ ha<sup>-1</sup> can be expected from 4.5 tonnes (t) of cover crop dry matter\
+    \ (DM) in Austria. Considering the total energy invested from cultivation to compression\
+    \ for biofuel use a net energy yield of about 1000 m\xB3 CH<sub>4</sub> ha<sup>-1</sup>\
+    \ is remaining. With the straw of grain maize or Corn Cob Mix (CCM) similar energy\
+    \ yields can be achieved. In comparison to catch crops remaining on the field\
+    \ as green manure or to complete fallow between main crops the effects on soil,\
+    \ water and climate can be improved if cover crops are harvested without soil\
+    \ compaction and digestate is returned to the field in an amount equivalent to\
+    \ cover crop removal. In this way, the risk of nitrate leaching can be reduced\
+    \ approx. by 25% in comparison to full fallow. The risk of nitrous oxide emissions\
+    \ may be reduced up to 50% by contrast with cover crops serving as green manure.\
+    \ The effects on humus content and erosion are similar or better than those of\
+    \ cover crops used as green manure when the same amount of biomass was produced.\
+    \ With higher biomass production the positive effects increase even if cover crops\
+    \ are harvested and the only digestate is brought back to the fields. The ecological\
+    \ footprint of arable farming can be reduced by approx. 50% considering the substitution\
+    \ of natural gas with CH<sub>4</sub> produced from cover crops."
+  keywords:
+    default:
+      keywords:
+        subject: sustainable agriculture.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-08-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126493
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126492
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manfred-Szerencsits:
+    individualname: Manfred Szerencsits
+    role: creator
+  Christine-Weinberger:
+    individualname: Christine Weinberger
+    role: creator
+  Maximilian-Kuderna:
+    individualname: Maximilian Kuderna
+    role: creator
+  Franz-Feichtinger:
+    individualname: Franz Feichtinger
+    role: creator
+  Eva-Erhart:
+    individualname: Eva Erhart
+    role: creator
+  Stephan-Maier:
+    individualname: Stephan Maier
+    role: creator
+  Szerencsits-Manfred:
+    individualname: Szerencsits, Manfred
+    role: ''
+    organization: ''
+    url: ''
+  Weinberger-Christine:
+    individualname: Weinberger, Christine
+    role: ''
+    organization: ''
+    url: ''
+  Kuderna-Maximilian:
+    individualname: Kuderna, Maximilian
+    role: ''
+    organization: ''
+    url: ''
+  Feichtinger-Franz:
+    individualname: Feichtinger, Franz
+    role: ''
+    organization: ''
+    url: ''
+  Erhart-Eva:
+    individualname: Erhart, Eva
+    role: ''
+    organization: ''
+    url: ''
+  Maier-Stephan:
+    individualname: Maier, Stephan
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

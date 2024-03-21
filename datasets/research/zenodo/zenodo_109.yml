@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WAKSMAN_1916
+  dataseturi: https://doi.org/10.1097/00010694-191602000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE ACTINOMYCES OF THE SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE ACTINOMYCES OF THE SOIL
+    url: http://dx.doi.org/10.1097/00010694-191602000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Waksman-Selman-A.:
+    individualname: Waksman, Selman A.
+    role: creator
+  Curtis-Roland-E.:
+    individualname: Curtis, Roland E.
+    role: creator
+  WAKSMAN-SELMAN-A.:
+    individualname: WAKSMAN, SELMAN A.
+    role: creator
+  CURTIS-ROLAND-E.:
+    individualname: CURTIS, ROLAND E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

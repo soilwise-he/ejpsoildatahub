@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1083717
+  dataseturi: https://doi.org/10.5281/zenodo.1083717
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Sliding Joints And Soil-Structure Interaction
+  abstract: 'Use of a sliding joint is an effective method to
+
+    decrease the stress in foundation structure where there is a horizontal
+
+    deformation of subsoil (areas afflicted with underground mining) or
+
+    horizontal deformation of a foundation structure (pre-stressed
+
+    foundations, creep, shrinkage, temperature deformation). A
+
+    convenient material for a sliding joint is a bitumen asphalt belt.
+
+    Experiments for different types of bitumen belts were undertaken at
+
+    the Faculty of Civil Engineering - VSB Technical University of
+
+    Ostrava in 2008. This year an extension of the 2008 experiments is in
+
+    progress and the shear resistance of a slide joint is being tested as a
+
+    function of temperature in a temperature controlled room. In this
+
+    paper experimental results of temperature dependant shear resistance
+
+    are presented. The result of the experiments should be the sliding
+
+    joint shear resistance as a function of deformation velocity and
+
+    temperature. This relationship is used for numerical analysis of
+
+    stress/strain relation between foundation structure and subsoil. Using
+
+    a rheological slide joint could lead to a decrease of the reinforcement
+
+    amount, and contribute to higher reliability of foundation structure
+
+    and thus enable design of more durable and sustainable building
+
+    structures.'
+  keywords:
+    default:
+      keywords:
+        subject: subsoil horizontal deformation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-10-23'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1083717
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1083716
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Radim-Cajka:
+    individualname: Radim Cajka
+    role: creator
+  Pavlina-Mateckova:
+    individualname: Pavlina Mateckova
+    role: creator
+  Martina-Janulikova:
+    individualname: Martina Janulikova
+    role: creator
+  Marie-Stara:
+    individualname: Marie Stara
+    role: creator
+  Cajka-Radim:
+    individualname: Cajka, Radim
+    role: ''
+    organization: ''
+    url: ''
+  Mateckova-Pavlina:
+    individualname: Mateckova, Pavlina
+    role: ''
+    organization: ''
+    url: ''
+  Janulikova-Martina:
+    individualname: Janulikova, Martina
+    role: ''
+    organization: ''
+    url: ''
+  Stara-Marie:
+    individualname: Stara, Marie
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

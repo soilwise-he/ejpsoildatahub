@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5808827
+  dataseturi: https://doi.org/10.5281/zenodo.5808827
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Extraction and spectrophotometric determination of molybdenum(V) as its thiocyanate
+    complex in industrial, environmental and soil samples
+  abstract: "Department of Industrial Chemistry, Guru Nanak Khalsa College, Yamuna\
+    \ Nagar-135 001, Haryana, India Department of Chemistry, Haryana Engineering College,\
+    \ Jagadhari-135 003, Haryana, India <em>Manuscript received 26 February 2008,\
+    \ revised 15 October 2008, accepted 12 November 2008</em> A simple and rapid extractive\
+    \ spectrophotometric method for micro determination of molybdenum using thiocyanate\
+    \ as a complexing agent has been worked out for industrial, environmental and\
+    \ soil samples. The Mo<sup>v</sup>- thioqanate complex is extracted into 2,2'\
+    \ -dipyridyl in chloroform. The vermilion colour of the extract is measured at\
+    \ \u03BB<sub>max </sub>505 nm against a similarly prepared reagent blank. The\
+    \ 1 : 4 (Mo : SCN) complex is found to be ~table for more than one hour in the\
+    \ extract and obeys Beer's law over the concentration range of 0-11 \xB5g Mo ml<sup>-1</sup>.\
+    \ The molar absorptivity and Sandell's sensitivity of the proposed method are\
+    \ found to be 1.24 x 10<sup>4</sup> dm<sup>3</sup> mol<sup>-1</sup> cm<sup>-1</sup>\
+    \ and 0.0075 \xB5g Mo cm<sup>-2</sup>, respectively. A large number of cations,\
+    \ anions and complexing agents of major analytical importance such as Re<sup>vll</sup>,\
+    \ Cr<sup>lll</sup>,<sup>VI</sup>, Cu<sup>ll</sup> , Zr<sup>lv</sup>, Mn<sup>ll</sup>\
+    \ , Ni<sup>ll</sup>, Fc<sup>ll</sup>,<sup>lll</sup>, W<sup>vl</sup>, U<sup>vl</sup>,\
+    \ V<sup>v</sup> and platinum metals, sulphate, chloride, fluoride, bicarbonate,\
+    \ phosphate. tartrate and EDTA do not interfere. Only oxalate, acetate, hydrogen\
+    \ peroxide, tin, cobalt, bismuth, titanium, osmium and ruthenium interfered in\
+    \ the procedure. The method has been applied satisfactorily for the determination\
+    \ of molybdenum in varieties of samples."
+  keywords:
+    default:
+      keywords:
+        subject: sample
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-03-31'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5808827
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5808826
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Kumar:
+    individualname: A. Kumar
+    role: creator
+    organization: ''
+    url: ''
+  R.-Dass:
+    individualname: R. Dass
+    role: creator
+    organization: ''
+    url: ''
+  R.-Chaudhary:
+    individualname: R. Chaudhary
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

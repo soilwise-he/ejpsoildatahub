@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10667023
+  dataseturi: https://doi.org/10.5281/zenodo.10667023
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of panchagavya, Jivamruta and fertility levels on soil health of greengram
+    in Varanasi region
+  abstract: "A biannual trial on greengram was carried out in agriculture research\
+    \ farm of Banaras Hindu University, Varanasi during cropping year 2020-21 and\
+    \ 2021-22 to assess the consequences of Panchagavya, Jivamruta and fertility levels\
+    \ on health of soil. HUM 16 variety of moong bean was cultivated in sandy clay\
+    \ loam soil. Greengram improves soil fertility through biological nitrogen fixation\
+    \ and addition of root material. The research was carried out in split plot design\
+    \ with 3 main plot treatments (3 levels of RDF) and 4 subplot treatments (fertilizer\
+    \ control, Panchagavya, Panchagavya+ Jivamruta and Jivamruta). At the end of trial,\
+    \ Lowest pH (7.69), highest EC (0.285 dSm-1), highest SOC (0.503%), highest available\
+    \ N (195.53 kg ha-1), P (22.67 kg ha-1), K (207.74 kg ha-1), DHA (27.96 \xB5g\
+    \ TPF g-1 soil day-1), APA (64.97 \xB5g P-NP soil h-1) was found with Panchagavya\
+    \ treatment (in subplot). And Jivamruta recorded highest SMBC (348.8 \xB5g g-1\
+    \ soil). Liquid organic manures like PG and JM can reduce the use of agro-chemicals\
+    \ in greengram and maintain soil health."
+  keywords:
+    default:
+      keywords:
+        subject: Greengram, panchagavya, Jivamruta, soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-01'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10667023
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10667022
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Critykar-Jungjit:
+    individualname: Critykar, Jungjit
+    role: creator
+    organization: Banaras Hindu University
+    url: 0000-0002-6741-895X
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Veitch_1904
+  dataseturi: https://doi.org/10.1021/ja01996a005
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: COMPARISON OF METHODS FOR THE ESTIMATION OF SOIL ACIDITY.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: COMPARISON OF METHODS FOR THE ESTIMATION OF SOIL ACIDITY.
+    url: http://dx.doi.org/10.1021/ja01996a005
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Veitch-F.-P.:
+    individualname: Veitch, F. P.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

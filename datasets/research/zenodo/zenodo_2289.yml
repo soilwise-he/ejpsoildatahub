@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Johnson_1861
+  dataseturi: https://doi.org/10.2475/ajs.s2-32.95.233
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Agricultural chemistry-soil analysis; notice of the agricultural chemistry
+    of the geological surveys of Kentucky and Arkansas
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Agricultural chemistry-soil analysis; notice of the agricultural chemistry
+      of the geological surveys of Kentucky and Arkansas
+    url: http://dx.doi.org/10.2475/ajs.s2-32.95.233
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Johnson-S.-W.:
+    individualname: Johnson, S. W.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

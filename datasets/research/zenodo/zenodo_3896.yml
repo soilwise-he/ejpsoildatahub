@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1125957
+  dataseturi: https://doi.org/10.5281/zenodo.1125957
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Utilisation Of Two Types Of Fly Ashes Used As Cement Replacement In Soft
+    Soil Stabilisation
+  abstract: "This study represents the results of an experimental work using two types\
+    \ of fly ashes as a cement replacement in soft soil stabilisation. The fly ashes\
+    \ (FA1 and FA2) used in this study are by-products resulting from an incineration\
+    \ processes between 800 and 1200 \u02DAC. The stabilised soil in this study was\
+    \ an intermediate plasticity silty clayey soil with medium organic matter content.\
+    \ The experimental works were initially conducted on soil treated with different\
+    \ percentages of FA1 (0, 3, 6, 9, 12, and 15%) to identify the optimum FA1 content.\
+    \ Then FA1 was chemically activated by FA2 which has high alkalinity by blending\
+    \ the optimum content of FA1 with different portions of FA2. The improvement levels\
+    \ were evaluated dependent on the results obtained from consistency limits and\
+    \ compaction tests along with the results of unconfined compressive strength (UCS)\
+    \ tests which were conducted on specimens of soil treated with FA1 and FA2 and\
+    \ exposed to different periods of curing (zero, 7, 14, and 28 days). The results\
+    \ indicated that the FA1 and FA2 used in this study effectively improved the physical\
+    \ and geotechnical properties of the soft soil where the index of plasticity (IP)\
+    \ was decreased significantly from 21 to 13.17 with 12% of FA1; however, there\
+    \ was a slight increase in IP with the use of FA2. Meanwhile, 12% of FA1 was identified\
+    \ as the optimum percentage improving the UCS of stabilised soil significantly.\
+    \ Furthermore, FA2 was found effective as a chemical activator to FA1 where the\
+    \ UCS was improved significantly after using FA2."
+  keywords:
+    default:
+      keywords:
+        subject: unconfined compressive strength.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-06-05'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1125957
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1125956
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hassnen-M.-Jafer:
+    individualname: Hassnen M. Jafer
+    role: creator
+    organization: ''
+    url: ''
+  W.-Atherton:
+    individualname: W. Atherton
+    role: creator
+    organization: ''
+    url: ''
+  F.-Ruddock:
+    individualname: F. Ruddock
+    role: creator
+    organization: ''
+    url: ''
+  E.-Loffill:
+    individualname: E. Loffill
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

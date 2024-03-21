@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8358375
+  dataseturi: https://doi.org/10.5281/zenodo.8358375
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Approaches in heavy metal pollution treatment of soil and water
+  abstract: Approaches in heavy metal pollution treatment of soil and water. <em>Geoscience
+    2018, Short Communications of National scientific conference of the BGS with international
+    participation</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-03-14'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8358375
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8358374
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kostic-A.:
+    individualname: Kostic, A.
+    role: creator
+    organization: ''
+    url: ''
+  Rikalovic-M.:
+    individualname: Rikalovic, M.
+    role: creator
+    organization: ''
+    url: ''
+  Jelic-I.:
+    individualname: Jelic, I.
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0003-1406-2416
+content_info: {}

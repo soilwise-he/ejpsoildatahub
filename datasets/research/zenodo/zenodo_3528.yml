@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Julham_2019
+  dataseturi: https://doi.org/10.11591/ijeecs.v13.i2.pp514-520
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Development of soil moisture measurement with wireless sensor web-based concept
+  abstract: '&lt;p&gt;Measurement of soil moisture commonly by applying the soil moisture
+    sensors is to measure the condition of the ground around which is relatively not
+    wide. Therefore if applied for the large-scale, repeated measurements are required
+    in accordance with the determined point. As a result it takes time to get the
+    whole results. With the existence of wireless sensor technology then this problem
+    can be overcome. This wireless sensor system will create a network consisting
+    of nodes and server. In this study the server part is a server computer that requires
+    a web server application together with its script to display and store data, while
+    the node part is the data reader system. In the data system reader module, the
+    sensor device is required as the input that is SEN0114, the processor is a microcontroller,
+    while the wireless uses Wi-Fi module that is ESP8266. Wi-Fi topology used later
+    is infrastructure (using access points). In this research, it begins by testing
+    the sensor and then testing the data validation between the node and the server.
+    SEN0114 sensor has different value from the American Standard Method (ASM) that
+    is 0.922%. While the data validation test of the measurement result is Wi-Fi ESP8266
+    module which has a maximum distance of 14 meters toward the access points.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Input
+      - Sensor
+      - Topology
+      - Wireless
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Development of soil moisture measurement with wireless sensor web-based
+      concept
+    url: http://dx.doi.org/10.11591/ijeecs.v13.i2.pp514-520
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Julham-Julham:
+    individualname: Julham, Julham
+    role: creator
+  Adam-Hikmah-Adwin:
+    individualname: Adam, Hikmah Adwin
+    role: creator
+  Lubis-Arif-Ridho:
+    individualname: Lubis, Arif Ridho
+    role: creator
+  Lubis-Muharman:
+    individualname: Lubis, Muharman
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

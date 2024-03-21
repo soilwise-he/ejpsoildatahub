@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bitts_nszky_2015
+  dataseturi: https://doi.org/10.19040/ecocycles.v1i1.26
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Selective response of Ricinus communis seedlings to soil borne Rhizoctonia
+    infection
+  abstract:
+  - '&lt;p&gt;Seedlings of Ricinus communis tolerated soil-borne Rhizoctonia infection
+    in strain dependent manner. There was no connection revealed between pathogenicity
+    of strains and their origin or taxonomic position, however, the castor plant proved
+    to be susceptible to most strains highly pathogenic to other host plants as well.
+    Rhizoctonia zeae (teleomorph: Waitea circinata), a species new for European flora,
+    was less aggressive to R. communis as the most potent R. solani strains. The effect
+    of Rhizoctonia infection on mass accumulation of hypocotyls was more prominent
+    than that on cotyledons. The protein content and glutathione S-transferase (GST)
+    activity increased in parallel with evolution of disease syndrome. Metalaxyl,
+    an acetanilide type systemic anti-oomycete fungicide induced locally the GST activity
+    in R. communis cotyledons with 24 hours lag phase, and this induction was altered
+    in the seedlings grown in Rhizoctonia infested soil by strain dependent manner.
+    It might be concluded, that the stress response related detoxication mechanisms
+    of plants in tolerant host/parasite pairs take effect at higher level than in
+    highly susceptible relationships.&lt;/p&gt;'
+  - Ricinus, metalaxyl, susceptibility
+  keywords:
+    default:
+      keywords:
+      - Ricinus
+      - Rhizoctonia
+      - glutathione S-transferase
+      - metalaxyl
+      - susceptibility
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Selective response of Ricinus communis seedlings to soil borne Rhizoctonia
+      infection
+    url: http://dx.doi.org/10.19040/ecocycles.v1i1.26
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bittsanszky-Andras:
+    individualname: "Bitts\xE1nszky, Andr\xE1s"
+    role: creator
+  Deepak-Saligrama-A:
+    individualname: Deepak, Saligrama A
+    role: creator
+  Oros-Gyula:
+    individualname: Oros, Gyula
+    role: creator
+  Deepak-Saligrama-Adavigowda:
+    individualname: Deepak, Saligrama Adavigowda
+    role: creator
+  Ecocycles:
+    individualname: Ecocycles
+    role: creator
+content_info: {}

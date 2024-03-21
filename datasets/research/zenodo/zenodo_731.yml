@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1312205
+  dataseturi: https://doi.org/10.5281/zenodo.1312205
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metals Spatial Distribution In Soil Ecosystem Components Roadside Territories
+  abstract: 'The accumulation and spatial distribution of some heavy metals in the
+    soil is the component of the ecosystems of roadside territories.
+
+
+    The processes of accumulation and spatial distribution are considered taking into
+    account the buffer capacity of the traffic flow. Analysis of the buffer capacity
+    of soils in relation to the accumulation of heavy metals is performed using the
+    parameters of the particle size distribution, humus content, pH level. Chemical
+    methods of investigation were used, description of roadside phytocenoses was performed.
+
+
+    The analysis of the vertical and horizontal distribution of a number of heavy
+    metals is performed, which showed certain regularities, which are reflected in
+    the conclusion of the work.
+
+
+    The greatest differences between the values in the content of mobile forms of
+    heavy metals are the ones for zinc and lead.'
+  keywords:
+    default:
+      keywords:
+        subject: pollutant concentration
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-07-14'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1312205
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1312204
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Erbes-S.:
+    individualname: Erbes, S.
+    role: creator
+    organization: Katanov Khakas State University
+    url: ''
+content_info: {}

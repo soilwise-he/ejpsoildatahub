@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BURGESS_1922
+  dataseturi: https://doi.org/10.1097/00010694-192209000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "THE SOIL SOLUTION, EXTRACTED BY LIPMAN\u02BCS DIRECT-PRESSURE METHOD, COMPARED\
+    \ WITH 1: 5 WATER EXTRACTS"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "THE SOIL SOLUTION, EXTRACTED BY LIPMAN\u02BCS DIRECT-PRESSURE METHOD, COMPARED\
+      \ WITH 1: 5 WATER EXTRACTS"
+    url: http://dx.doi.org/10.1097/00010694-192209000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Burgess-Paul-S.:
+    individualname: Burgess, Paul S.
+    role: creator
+  BURGESS-PAUL-S.:
+    individualname: BURGESS, PAUL S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

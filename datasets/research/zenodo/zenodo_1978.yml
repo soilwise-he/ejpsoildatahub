@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1418659
+  dataseturi: https://doi.org/10.5281/zenodo.1418659
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Microorganic Polyfuncur Preparation On Agronomically Useful
+    Groups Of Soil Microorganisms In Maize Crops
+  abstract: "The results of the research demonstrate succession differences in the\
+    \ microbiological processes of the studied soil subtypes. At the end of the vegetation\
+    \ period, the PolyFunCur preparation at the end of the vegetation period enhances\
+    \ the activation of mineralization processes and the transition to an unstable\
+    \ state of microbocenosis of sod\u2013podzolic light loamy soil. At the same time,\
+    \ the microbocenosis of a shallow mineralized peat bog is characterized by intensive\
+    \ immobilization process and transition to a more stable state tending to the\
+    \ state of the climax system. Methods: phenological, agrochemical, microbiological."
+  keywords:
+    default:
+      keywords:
+        subject: transformation of organic matter
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-09-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1418659
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1418658
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kantsavaya-I.:
+    individualname: Kantsavaya, I.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+  Daineka-M.:
+    individualname: Daineka, M.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+  Ziablitski-K.:
+    individualname: Ziablitski, K.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+  Minina-A.:
+    individualname: Minina, A.
+    role: creator
+    organization: Skorina Gomel State University
+    url: ''
+content_info: {}

@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7475679
+  dataseturi: https://doi.org/10.5281/zenodo.7475679
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ANALYSIS OF AGRICULTURAL CHEMICAL PROPERTIES OF WESTERN TYANSHAN MOUNTAIN
+    SOIL.
+  abstract: Today, as a result of global climate change, the loss of one of the main
+    indicators of soil fertility-humus, namely, dehumification, leads to an acceleration
+    of processes such as a decrease in fertility, erosion, and desertification. According
+    to the FAO international organization, about 33% of the world's soils are subject
+    to degradation to varying degrees. The main environmental problem of nature management
+    and the effectiveness of biological resources is soil degradation. Along with
+    other soils of the continent, soils of Uzbekistan are also subject to degradation.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7475679
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7475678
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.B.Raupova-Dj.-Djuraev:
+    individualname: N.B.Raupova, Dj. Djuraev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,137 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6906222
+  dataseturi: https://doi.org/10.5281/zenodo.6906222
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Perennial alley cropping contributes to decrease soil CO2 and N2O emissions
+    and increase soil carbon sequestration in a Mediterranean almond orchard
+  abstract: "The implementation of alley cropping in orchards can be a sustainable\
+    \ strategy to increase farm productivity by crop<br> diversification and contribute\
+    \ to climate change mitigation. In this research, we evaluated the short-termeffect\
+    \ of alley<br> cropping with reduced tillage on soil CO2 and N2O emissions and\
+    \ soil total organic carbon (TOC) in an almond orchard<br> under Mediterranean\
+    \ rainfed conditions. We compared an almond monoculture with tillage in all plot\
+    \ surface (MC)<br> with almond crop with reduced tillage and growth of Capparis\
+    \ spinosa (D1) and almond crop with reduced tillage and<br> growth of Thymus hyemalis\
+    \ (D2). For two years, soil CO2 and N2O were measured, with soil sampling at the\
+    \ start and<br> end of the experimental period. Results showed that CO2 emission\
+    \ rates followed the soil temperature pattern, while<br> N2O emissions were not\
+    \ correlated with temperature nor moisture. Soil CO2 emissions were significantly\
+    \ higher in<br> MC(87mgm\u22122 h\u22121), with no significant differences between\
+    \ D1 and D2 (69mgm\u22122 h\u22121). Some peaks in CO2 effluxes<br> were observed\
+    \ after tillage operations during warm days. Soil N2Oemission rateswere not significantly\
+    \ different among<br> treatments. Cumulative CO2 and CO2 equivalent (CO2e) emissions\
+    \ were significantly highest in MC. When CO2e emissions<br> were expressed on\
+    \ a crop production basis, D2 showed the significantly lowest values (5080 g kg\u2212\
+    1) compared to<br> D1 (50,419 g kg\u22121) and MC (87,836 g kg\u22121), owing\
+    \ to the high thyme yield, additional to the almond yield. No production<br> was\
+    \ obtained for C. spinosa, since at least two more years are required. TOC did\
+    \ not change with time in MCneither<br> D1, but it significantly increased inD2\
+    \ from3.85 g kg\u22121 in 2019 to 4.62 g kg\u22121 in 2021. Thus, alley cropping\
+    \ can contribute<br> to increase the agroecosystem productivity and reduce CO2\
+    \ emissions. However, it is necessary to grow"
+  keywords:
+    default:
+      keywords:
+        subject: Caper
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-07'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6906222
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6906221
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Virginia-Sanchez-Navarro:
+    individualname: "Virginia S\xE1nchez Navarro"
+    role: creator
+  Vajihe-Shahrokh:
+    individualname: Vajihe Shahrokh
+    role: creator
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: ''
+  Silvia-Martinez-Martinez:
+    individualname: "Silvia Mart\xEDnez Mart\xEDnez"
+    role: creator
+  Jose-A.-Acosta:
+    individualname: Jose A. Acosta
+    role: creator
+  Maria-Almagro:
+    individualname: "Mar\xEDa Almagro"
+    role: creator
+  Maria-Martinez-Mena:
+    individualname: "Mar\xEDa Mart\xEDnez Mena"
+    role: creator
+  Carolina-Boix-Fayos:
+    individualname: Carolina Boix Fayos
+    role: creator
+  Elvira-Diaz-Pereira:
+    individualname: "Elvira D\xEDaz Pereira"
+    role: creator
+  Raul-Zornoza:
+    individualname: "Ra\xFAl Zornoza"
+    role: creator
+  Navarro-Virginia-Sanchez:
+    individualname: "Navarro, Virginia S\xE1nchez"
+    role: ''
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: ''
+  Martinez-Silvia-Martinez:
+    individualname: "Mart\xEDnez, Silvia Mart\xEDnez"
+    role: ''
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: ''
+  Acosta-Jose-A.:
+    individualname: Acosta, Jose A.
+    role: ''
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: ''
+  Almagro-Maria:
+    individualname: "Almagro, Mar\xEDa"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Mena-Maria-Martinez:
+    individualname: "Mena, Mar\xEDa Mart\xEDnez"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Fayos-Carolina-Boix:
+    individualname: Fayos, Carolina Boix
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Pereira-Elvira-Diaz:
+    individualname: "Pereira, Elvira D\xEDaz"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: ''
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: ''
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: PECK_2011
+  dataseturi: https://doi.org/10.11646/zootaxa.3077.1.1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Systematics, distributions and bionomics of the Catopocerini (eyeless soil
+    fungivore beetles) of North America (Coleoptera: Leiodidae: Catopocerinae)'
+  abstract: 'Peck, Stewart B., Cook, Joyce (2011): Systematics, distributions and
+    bionomics of the Catopocerini (eyeless soil fungivore beetles) of North America
+    (Coleoptera: Leiodidae: Catopocerinae) 3077. Zootaxa 3077 (1): 1-118, DOI: 10.11646/zootaxa.3077.1.1,
+    URL: https://biotaxa.org/Zootaxa/article/view/zootaxa.3077.1.1'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Insecta
+      - Coleoptera
+      - Leiodidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Systematics, distributions and bionomics of the Catopocerini (eyeless soil
+      fungivore beetles) of North America (Coleoptera: Leiodidae: Catopocerinae)'
+    url: http://dx.doi.org/10.11646/zootaxa.3077.1.1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peck-Stewart-B.:
+    individualname: Peck, Stewart B.
+    role: creator
+  Cook-Joyce:
+    individualname: Cook, Joyce
+    role: creator
+  PECK-STEWART-B.:
+    individualname: PECK, STEWART B.
+    role: creator
+  COOK-JOYCE:
+    individualname: COOK, JOYCE
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

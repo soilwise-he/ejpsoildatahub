@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6804177
+  dataseturi: https://doi.org/10.5281/zenodo.6804177
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Experiment Report: Soil Grain Size Analysis'
+  abstract: Grain size analysis is conducted to determine the particle grain size
+    present in a soil sample. The grain analysis is expressed as a percentage of the
+    total dry weight. The most commonly used methods include sieve analysis and hydrometer
+    analysis. This report presents a particle size analysis to determine the percentage
+    of grain sizes in a soil sample in accordance with the ASTM standards. The experiment
+    report concludes a sample analysis uniformly distributed after being passed through
+    Unified soil grading criteria. The experiment errors are assumed to be negligible
+    due to the small discrepancy in the two test results. The report objectives include
+    acquiring the distribution of soil particles in the sample and producing data
+    with errors less than the acceptable 2% and generating a semi-logarithmic plot.
+    The semi-logarithmic plot displays the distribution of particle sizes of the soil
+    and identifies the soil grading with the use of the graph data points.
+  keywords:
+    default:
+      keywords:
+        subject: Grain Analysis, Soil Particle size Analysis, ASTM standards,semi-logarithmic
+          plot
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-06'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6804177
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6804176
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amuga-Edwin-O.:
+    individualname: Amuga, Edwin O.
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-7879-2330
+content_info: {}

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pust_2023
+  dataseturi: https://doi.org/10.1093/zoolinnean/zlad059
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Environmental DNA metabarcoding of Danish soil samples reveals new insight
+    into the hidden diversity of eutardigrades in Denmark
+  abstract: "Pust, Frida L\xD8kkegaard, Fr\xD8slev, Tobias Guldberg, M\xD8bjerg, Reinhardt\
+    \ M\xD8bjerg Kristensen and Nadja (2024): Environmental DNA metabarcoding of Danish\
+    \ soil samples reveals new insight into the hidden diversity of eutardigrades\
+    \ in Denmark. Zoological Journal of the Linnean Society 200 (1): 20-33, DOI: 10.1093/zoolinnean/zlad059,\
+    \ URL: http://dx.doi.org/10.1093/zoolinnean/zlad059"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Environmental DNA metabarcoding of Danish soil samples reveals new insight
+      into the hidden diversity of eutardigrades in Denmark
+    url: http://dx.doi.org/10.1093/zoolinnean/zlad059
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pust-Frida-LOkkegaard:
+    individualname: "Pust, Frida L\xD8kkegaard"
+    role: creator
+  FrOslev-Tobias-Guldberg:
+    individualname: "Fr\xD8slev, Tobias Guldberg"
+    role: creator
+  MObjerg-Reinhardt-MObjerg-Kristensen-and-Nadja:
+    individualname: "M\xD8bjerg, Reinhardt M\xD8bjerg Kristensen and Nadja"
+    role: creator
+  Pust-Frida-Lokkegaard:
+    individualname: "Pust, Frida L\xF8kkegaard"
+    role: creator
+  Froslev-Tobias-Guldberg:
+    individualname: "Fr\xF8slev, Tobias Guldberg"
+    role: creator
+  Kristensen-Reinhardt-Mobjerg:
+    individualname: "Kristensen, Reinhardt M\xF8bjerg"
+    role: creator
+  Mobjerg-Nadja:
+    individualname: "M\xF8bjerg, Nadja"
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

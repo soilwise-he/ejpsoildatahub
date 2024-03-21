@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3515237
+  dataseturi: https://doi.org/10.5281/zenodo.3515237
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Trees and soil, key elements of fertility
+  abstract: "Les sols ne b\xE9n\xE9ficient d'aucune protection et subissent les plus\
+    \ grands outrages jusqu'\xE0 disparaitre totalement de la surface, pour laisser\
+    \ place \xE0 des d\xE9serts min\xE9raux...et humains. En supprimant la couverture\
+    \ v\xE9g\xE9tale du sol par la d\xE9forestation, le surpatur\xE2ge, la culture\
+    \ intensive, on l'expose \xE0 tous les dangers."
+  keywords:
+    default:
+      keywords:
+        subject: erosion
+  status: ''
+  language: fra
+  dates:
+    creation: ''
+    issued: '2019-05-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3515237
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3515236
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alain-Canet:
+    individualname: Alain Canet
+    role: creator
+  Bruno-Sirven:
+    individualname: Bruno Sirven
+    role: creator
+  Canet-Alain:
+    individualname: Canet, Alain
+    role: ''
+    organization: ''
+    url: ''
+  Sirven-Bruno:
+    individualname: Sirven, Bruno
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

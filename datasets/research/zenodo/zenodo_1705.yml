@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4065111
+  dataseturi: https://doi.org/10.5281/zenodo.4065111
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Soil Temperature Changes (1970-2019) in Uluk\u0131\u015Fla District in Turkey\
+    \ by Trend Analysis Methods"
+  abstract: "<strong>Abstract</strong> This research was carried out in the context\
+    \ of evaluating the temperatures at different soil depths observed as monthly\
+    \ between 1970-2019 in Uluk\u0131\u015Fla district of Nigde province in Turkey.\
+    \ In the study, maximum, minimum and average soil temperatures at soil depths\
+    \ of 10, 50 and 100 cm were investigated. Sperman\u2019s Rho, Mann-Kendall and\
+    \ Sen's slope method tests on soil temperature data were applied. According to\
+    \ trend analysis results; The general average of maximum soil temperatures of\
+    \ 10 cm depth was 22.0\xB0C, minimum soil temperature values were 6.9 \xB0C and\
+    \ average soil temperatures were calculated as 14,0 \xB0C. The general average\
+    \ of the maximum soil temperature values in 50 cm soil depth was calculated as\
+    \ 16.1 \xB0C, minimum soil temperature values were observed as 11.5 \xB0C. The\
+    \ general mean of average soil temperatures were determined as 13,8 \xB0C. The\
+    \ general average of the maximum soil temperature in 100 cm soil depth was determined\
+    \ as 15.4 \xB0C, minimum soil temperature values were calculated as 12.6 \xB0\
+    C, average soil temperature values were observed as 14.0 \xB0C. According to the\
+    \ changes in soil temperatures in different soil depths; It was determined that\
+    \ there was an increasing trend in maximum, average and minimum soil temperature\
+    \ values in spring, winter, autumn and summer."
+  keywords:
+    default:
+      keywords:
+        subject: ": Soil Temperature, Trend Analysis, Uluk\u0131\u015Fla District,\
+          \ Ni\u011Fde Province, Turkey"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-10-02'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4065111
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4065110
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Cuneyt-Bagdatli:
+    individualname: M. Cuneyt Bagdatli
+    role: creator
+  Yigitcan-Balli:
+    individualname: Yigitcan Balli
+    role: creator
+  Bagdatli-M.-Cuneyt:
+    individualname: Bagdatli, M. Cuneyt
+    role: ''
+    organization: Assoc. Prof. Dr.
+    url: https://orcid.org/0000-0003-0276-4437
+  Balli-Yigitcan:
+    individualname: Balli, Yigitcan
+    role: ''
+    organization: Researcher
+    url: https://orcid.org/0000-0002-3329-1698
+content_info: {}

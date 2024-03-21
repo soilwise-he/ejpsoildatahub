@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Carrasco_Letelie_2017
+  dataseturi: https://doi.org/10.7764/rcia.v44i2.1717
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Erosi\xF3n h\xEDdrica del suelo estimada para 99 cuencas uruguayas"
+  abstract: '&lt;p&gt;Soil erosion can be accelerated byagricultural intensification,
+    and the soil loss can alter the quality of water bodies. Sustainableagricultural
+    production therefore requires the management of erosion and potential waterpollution.
+    In Uruguay, where there is heavy use of soil for agriculture, there is a need
+    tocontinually develop and update erosion management policies. In this framework,
+    we estimatedthe erosion in 99 drainage basins by analyzing and managing the information
+    required (K, L, S,C and R-factors) in the universal soil loss equation (USLE)
+    and the revised universal soil lossequation (RUSLE) in a geographical information
+    system (GIS). The studied drainage basinsencompass 73% of the area of Uruguay.
+    The results include the following values: the K-factorrange from 0.0073 to 0.088
+    (t ha h)(ha MJ mm) -1 , the R-factor range from 3,547 to 9,342 (MJmm)(ha h yr)
+    -1 , the C-factor range from 0 to 0.155, the slope gradients are less than 4.3%
+    in78% of the soils, and the multiplicative products of L and S are less than 0.73
+    in 75% of thecases. The drainage basin characteristics allowed the identification
+    of 4 homogeneous regionsbased on their erosion behavior. The northern-western-southern
+    basins cluster and Sierrasdel Este basins clusters indicate the possibility of
+    managing their erosion through control ofvegetation cover, which is represented
+    by the C-factor. In general, this forecast of soil erosionby water (92.9% of the
+    soil polygons and 99.9% of the drainage basins) indicates a mean soilloss of less
+    than 7 t (ha yr) -1 corresponding to the land cover surveyed in 2011.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Erosion
+      - GIS
+      - RUSLE
+      - USLE
+      - watersheds
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Erosi\xF3n h\xEDdrica del suelo estimada para 99 cuencas uruguayas"
+    url: http://dx.doi.org/10.7764/rcia.v44i2.1717
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Carrasco-Letelier-Leonidas:
+    individualname: Carrasco-Letelier, Leonidas
+    role: creator
+  Beretta-Blanco-Andres:
+    individualname: "Beretta-Blanco, Andr\xE9s"
+    role: creator
+  Carrasco-Letelie-Leonidas:
+    individualname: Carrasco-Letelie, Leonidas
+    role: creator
+  Pontificia-Universidad-Catolica-de-Chile:
+    individualname: Pontificia Universidad Catolica de Chile
+    role: creator
+content_info: {}

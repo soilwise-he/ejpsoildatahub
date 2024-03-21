@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wheeler_1904
+  dataseturi: https://doi.org/10.1126/science.20.514.605-a
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Elisha Mitchell Scientific Society of the University of North Carolina
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Elisha Mitchell Scientific Society of the University of North Carolina
+    url: http://dx.doi.org/10.1126/science.20.514.605-a
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hilgard-E.-W.:
+    individualname: Hilgard, E. W.
+    role: creator
+  Wheeler-Alvin-S.:
+    individualname: Wheeler, Alvin S.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

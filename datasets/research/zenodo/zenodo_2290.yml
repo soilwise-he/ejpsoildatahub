@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7122537
+  dataseturi: https://doi.org/10.5281/zenodo.7122537
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Vertical Distribution of Soil Solution Nh4+-N and Grain Yield of Lowland
+    Rice with Integrated N Management
+  abstract: This article 'Vertical Distribution of Soil Solution Nh4+-N and Grain
+    Yield of Lowland Rice with Integrated N Management' appeared in the International
+    Rice Research Newsletter series, created by the International Rice Research Institute
+    (IRRI). The primary objective of this publication was to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Nitrogen Management
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1987-04-01'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7122537
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7122536
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sharma-G.-L.:
+    individualname: Sharma, G. L.
+    role: creator
+    organization: ''
+    url: ''
+  Mahapatra-B.-S.:
+    individualname: Mahapatra, B. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

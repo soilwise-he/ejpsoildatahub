@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2542361
+  dataseturi: https://doi.org/10.5281/zenodo.2542361
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of Ageing on Quality of a Liquid Organic Formulation Used to Increase
+    Soil Fertility
+  abstract: '<em>Use of chemical fertilizers and pesticides has drastically affected
+    the soil quality and also the products obtained leading to a number of diseases.
+    In order to sustain the nutrient quality of the crops, thus protecting the mankind
+    from falling prey to the disease causing chemicals retained in the crops, a system
+    of natural farming using a liquid organic formulation providing replenishment
+    to soil nutrients and natural regeneration was used.</em>
+
+
+    <em>Further, a study on influence of ageing on quality of a liquid organic formulation
+    used to increase the nutrient content and fertility of the soil was carried out
+    at Department of Pharmacognosy, KLE College of Pharmacy, Bengaluru, India. The
+    main objective was to find out the shelf life of Liquid organic formulation by
+    analyzing its physical and microbiological properties. Liquid organic formulation
+    was stored for 1, 7, 14, 21, 28, 35, 41 and 49 days. Change in colour, odour,
+    pH and microbiological activity of the soil fertility favoring organism was carefully
+    observed during the storage period. The microbial load which were large in number
+    and motile, gradually reduced during the 35 day study and later on was found non
+    motile and dead in the 41 day study. The investigation revealed the possibility
+    of storing Liquid organic formulation upto 35 days without quality and microbial
+    deterioration. So a shelf life of 35 days can be fixed for usage of the liquid
+    organic preparation.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Pharmacy-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-17'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2542361
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2542360
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Mamatha-A:
+    individualname: Dr. Mamatha A
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6673233
+  dataseturi: https://doi.org/10.5281/zenodo.6673233
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF AUTUMN WHEAT SEEDLING THICKNESS ON AGROPHYSICAL PROPERTIES OF
+    SOIL
+  abstract: <em>This article presents the results of a study on the effect of soil
+    granulation on the cultivation of winter wheat in areas prone to irrigation erosion,
+    using different methods of tillage and application of mineral fertilizers in different
+    amounts.</em>
+  keywords:
+    default:
+      keywords:
+        subject: irrigation erosion, soil, mineral fertilizers, soil granularity,
+          typical gray soil, particles, macrostructure, hectare.
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2022-06-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6673233
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6673232
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhuraev-Akmalzhon-Normukhamadovich-Alimov-Fazliddin-Makhammadali-ug'li-Ismoilov-Ortig'ali:
+    individualname: "\u0416\u045E\u0440\u0430\u0435\u0432 \u0410\u043A\u043C\u0430\
+      \u043B\u0436\u043E\u043D \u041D\u043E\u0440\u043C\u0443\u0445\u0430\u043C\u0430\
+      \u0434\u043E\u0432\u0438\u0447 \u0410\u043B\u0438\u043C\u043E\u0432 \u0424\u0430\
+      \u0437\u043B\u0438\u0434\u0434\u0438\u043D \u041C\u0430\u0445\u0430\u043C\u043C\
+      \u0430\u0434\u0430\u043B\u0438 \u045E\u0493\u043B\u0438 \u0418\u0441\u043C\u043E\
+      \u0438\u043B\u043E\u0432 \u041E\u0440\u0442\u0438\u0493\u0430\u043B\u0438"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

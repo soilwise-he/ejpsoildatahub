@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4742198
+  dataseturi: https://doi.org/10.5281/zenodo.4742198
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Interactions between agricultural management and soil biodiversity: an overview
+    of current knowledge'
+  abstract: This book presents a literature review of the soil biodiversity problems
+    of the European Farmers and the strategies developed to solve them.<br> The aspects
+    considered in this revision book are:<br> - The importance of the soil biodiversity
+    in the design of cropping systems.<br> - Crop rotation and its effect over the
+    edaphic fauna.<br> - The effect of tillage on the communities that inhabit in
+    the cultivated soils.<br> - The ability of soil fauna to regulate the proliferation
+    of pathogenic fungi related to certain crop diseases.<br> - Different types of
+    bacteria that promote plant growth.<br> - The relationship between soil contamination
+    and biodiversity.<br> - The effect of organic and synthetic fertilizers on the
+    biodiversity of the edaphic fauna.<br> - The development of alarm systems that
+    allow the early detection of pathogens.<br> - The increase in soil quality associated
+    with the use of cover crops.<br> - The use of trap crops to reduce the use of
+    pesticides while maintaining production and quality. This work was funded by the
+    European Commission Horizon 2020 project SoildiverAgro [grant agreement 817819].
+  keywords:
+    default:
+      keywords:
+        subject: book
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4742198
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4476863
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Soto-Gomez-Diego:
+    individualname: "Soto G\xF3mez, Diego"
+    role: creator
+    organization: University of Vigo
+    url: https://orcid.org/0000-0001-7439-1356
+  Fernandez-Calvino-David:
+    individualname: "Fern\xE1ndez Calvi\xF1o, David"
+    role: creator
+    organization: University of Vigo
+    url: https://orcid.org/0000-0003-0864-7039
+  Shanskiy-Merrit:
+    individualname: Shanskiy, Merrit
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: https://orcid.org/0000-0002-5689-8089
+content_info: {}

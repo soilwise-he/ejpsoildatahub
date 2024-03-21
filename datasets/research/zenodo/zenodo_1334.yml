@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7854816
+  dataseturi: https://doi.org/10.5281/zenodo.7854816
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil-ecological conditions of the north taiga flat-mound bog, Western Siberia
+  abstract: "Of particular interest in the north of Western Siberia are frozen flat-mound\
+    \ bogs. Being formed in a transitional climatic zone, on the southern front of\
+    \ the permafrost zone, these frozen peatlands may turn out to be highly reactive\
+    \ upon thawing and deliver high amounts of solutes to the hydrological network.\
+    \ A detailed study of a flat-mound bog was carried out in a key area of about\
+    \ 3 hectares (Purovsky district, Yamalo-Nenets Autonomous Okrug). The soil-ecological\
+    \ conditions of the site are described, as well as the effect of spatial heterogeneity\
+    \ on the composition and properties of soils. Using topographic mapping and photogrammetry,\
+    \ it was identified that the bog surface is characterized by distinct microtopography\
+    \ (mounds-hollows-thermokarst subsidence with a percentage areas ratio of 49:30:21,\
+    \ respectively). Small-scale variations in ecohydrological settings, microtopography,\
+    \ and vegetation affect the distribution of nutrients, organic carbon in soils,\
+    \ and DOC (dissolved organic carbon) in bog waters. The main soil types are Dystric\
+    \ Hemic Cryic Histosols and Dystric Hemic Histosols (Gelic) found on mounds and\
+    \ in subsidence, respectively. If the peat thickness decreases to 40\u201360 cm,\
+    \ then Spodic Histic Turbic Cryosols (Albic, Arenic) and Histic Turbic Cryosols\
+    \ (Albic, Arenic) form. In hollows and fens, Dystric Epifibric Histosols, Spodic\
+    \ Histic Turbic Cryosols (Arenic), and Gleyic Histic Entic Podzols (Turbic) are\
+    \ the most common. The proportion of soils with frozen peat is no more than 20%\
+    \ of the area of the key site and permafrost lies deeper, in the underlying rocks.\
+    \ It was found that carbon stocks within the key area vary from 31.1 to 91.3 kg/m<sup>2</sup>.\
+    \ The maximum values are observed in transit subsidences/hollows between mounds,\
+    \ where water is discharged. Concentrations of macro-microelements in bog waters\
+    \ vary depending on microform types. For some elements (e.g., DOC, Fe, Al, B,\
+    \ Si, Ti, V, Rb, Sb, Cs, REEs (rare earth elements), Pb, Th, U), they are approximately\
+    \ equal or 1.5\u20132 higher on the mounds. The export of DOC and other elements\
+    \ in permafrost areas is primarily controlled by the residence time of water and\
+    \ movement ways along the profile. In addition to this, the physicochemical properties\
+    \ of peat and biomass, which are also higher on mounds, influence the distribution\
+    \ and accumulation of nutrients.<br>"
+  keywords:
+    default:
+      keywords:
+        subject: Microtopography, Histosols, peatlands, bog waters, microform type,
+          frozen flat-mound bog, Yamalo-Nenets Autonomous Okrug
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-24'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7854816
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7854815
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tatiana-V.-Raudina:
+    individualname: Tatiana V. Raudina
+    role: creator
+  Georgyi-I.-Istigechev:
+    individualname: Georgyi I. Istigechev
+    role: creator
+  Sergey-V.-Loiko:
+    individualname: Sergey V. Loiko
+    role: creator
+  Raudina-Tatiana-V.:
+    individualname: Raudina, Tatiana V.
+    role: ''
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0002-8953-883X
+  Istigechev-Georgyi-I.:
+    individualname: Istigechev, Georgyi I.
+    role: ''
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0002-8387-5341
+  Loiko-Sergey-V.:
+    individualname: Loiko, Sergey V.
+    role: ''
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0003-2020-4716
+content_info: {}

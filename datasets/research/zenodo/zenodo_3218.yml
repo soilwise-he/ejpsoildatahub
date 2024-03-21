@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4660823
+  dataseturi: https://doi.org/10.5281/zenodo.4660823
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Gypsum amendment and seasonal variability: effect on soil quality, fruit
+    characteristics and toxicological responses of Cucumber (Cucumis sativus l.) in
+    the Ahafo-Kenyasi Mining Area of Ghana'
+  abstract: Depending on soil, climate and crop characteristics exposed subsoils can
+    be amended with gypsum for agricultural activities when topsoil is inadequate
+    as a result of natural and geophysical activities. To determine how exposed subsoil
+    amendment with gypsum interact with weather patterns to influence soil chemical
+    properties, cucumber growth, fruit characteristics and heavy metal concentration,
+    a two-seasonal experiment was conducted in the major and minor rainy season of
+    2020 in the Ahafo-Kenyasi Mining Area in Ghana. The experiment was laid out as
+    a 6x2 factorial arranged in randomized complete block design, consisting of 6
+    gypsum application rates (20 ton/ha, 40 ton/ha, 60 ton/ha, 80 ton/ha, 0 ton/ha
+    (subsoil control) and 0 ton/ha (topsoil control)) in two rainy seasons and replicated
+    three times. The results show that gypsum application and rainy seasons interact
+    to significantly influence soil chemical properties, cucumber growth and fruit
+    characteristics. Increasing gypsum application resulted in decreased organic carbon,
+    increased calcium, increased available P, increased exchangeable magnesium (Mg),
+    increased pH during both major and minor rainy seasons. Vine length, number of
+    leaves, number of fruits per plant and fruit weight of cucumber were increased
+    with increasing gypsum application during the minor rainy season. In spite of
+    exceeding permissible limits in soils and crops, arsenic (As), cadmium (Cd) and
+    mercury (Hg) showed similar concentrations (below 2 mg/kg) in cucumber during
+    the minor and major rainy seasons across gypsum treatments. Lead (Pb) concentration
+    in cucumber was significantly higher in the major season across treatments. There
+    was no difference in lead (Pb) concentration for treated vs untreated, and no
+    increase across the amendment range. Further studies on how heavy metals in soil
+    and plants interact with plant phytochemicals in ecosystems and living tissues
+    are recommended.
+  keywords:
+    default:
+      keywords:
+        subject: Sustainable mining; Circular economy; Gypsum; Seasonal variability;
+          Heavy metal toxicology
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-03-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4660823
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4660822
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kwaku-Onwona-Hwesofour-Asante:
+    individualname: Kwaku Onwona-Hwesofour Asante
+    role: creator
+    organization: Agency for Health and Food Security, South Suntreso, Kumasi, Ghana.
+    url: ''
+  Simon-Abugri:
+    individualname: Simon Abugri
+    role: creator
+  Nana-Sarfo-Agyemang-Derkyi:
+    individualname: Nana Sarfo Agyemang Derkyi
+    role: creator
+  Daniel-Sarfo-Akoto:
+    individualname: Daniel Sarfo Akoto
+    role: creator
+  Abugri-Simon:
+    individualname: Abugri, Simon
+    role: ''
+    organization: University of Energy and Natural Resources, Sunyani, Ghana.
+    url: ''
+  Derkyi-Nana-Sarfo-Agyemang:
+    individualname: Derkyi, Nana Sarfo Agyemang
+    role: ''
+    organization: University of Energy and Natural Resources, Sunyani, Ghana.
+    url: ''
+  Akoto-Daniel-Sarfo:
+    individualname: Akoto, Daniel Sarfo
+    role: ''
+    organization: University of Energy and Natural Resources, Sunyani, Ghana.
+    url: ''
+content_info: {}

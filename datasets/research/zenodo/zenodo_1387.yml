@@ -1,0 +1,124 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Akimov_2018
+  dataseturi: https://doi.org/10.15587/1729-4061.2018.148500
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An approximating mathematical model of interaction between a freely rotating
+    disk and soil
+  abstract: '&lt;p&gt;A generalized mathematical model of disk interaction with soil
+    was built under general assumptions regarding the mode of the disk knife motion
+    in soil, namely, in a mode of slippage, skidding or rolling without slippage and
+    skidding. Previously constructed models follow from it as particular cases at
+    certain values of parameters. However, because of computational complexity of
+    this model for the case of a freely rotating disk knife consisting in the need
+    for a preliminary numerical solution of a transcendental equation to determine
+    the mode of disk motion, the generalized mathematical model has not found wide
+    application. Therefore, an analytical two-dimensional approximation of a generalized
+    model of disk interaction with soil which is a new model of approximation type
+    was constructed on the basis of a computer experiment using the least squares
+    method.&lt;/p&gt;
+
+
+    &lt;p&gt;An explicit expression was obtained for the kinematic parameter of a
+    freely rotating disk knife which determines its mode of motion. It was established
+    that this parameter is a rational function of relative depth of the disk penetration
+    and the dimensionless dynamic coefficient characterizing soil properties. Also,
+    explicit expressions were obtained for the projections of the resultant soil reaction
+    forces acting on the blade of the disk knife and its side faces depending on the
+    data of dimensionless parameters. It has been established that the horizontal
+    component of the reaction which determines tractive resistance of the disk is
+    also a rational function of the relative penetration depth and the dimensionless
+    dynamic coefficient. It was established that the magnitude of the kinematic parameter
+    significantly affects the magnitude and direction of the resultant soil reactions
+    to the disk. The expressions obtained make it possible to significantly simplify
+    experiments to determine the resultant soil reaction forces to a freely rotating
+    disk knife and reduce their required number. These expressions make it possible
+    to carry out strength calculations of soil-cultivating working tools with disks
+    and determine their optimal parameters according to the strength criteria and
+    the minimum specific energy consumption with accuracy sufficient for engineering
+    practice. Adequacy of the obtained expressions was confirmed by comparison with
+    experimental data of the disk knife dynamometry&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - freely rotating disk
+      - interaction with soil
+      - power characteristics
+      - analytical approximation
+      - explicit expressions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An approximating mathematical model of interaction between a freely rotating
+      disk and soil
+    url: http://dx.doi.org/10.15587/1729-4061.2018.148500
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aleksandr-Akimov:
+    individualname: Aleksandr Akimov
+    role: creator
+  Yuriy-Konstantinov:
+    individualname: Yuriy Konstantinov
+    role: creator
+  Vladimir-Medvedev:
+    individualname: Vladimir Medvedev
+    role: creator
+  Petr-Mishin:
+    individualname: Petr Mishin
+    role: creator
+  Mikhail-Volkhonov:
+    individualname: Mikhail Volkhonov
+    role: creator
+  Petr-Lekomtsev:
+    individualname: Petr Lekomtsev
+    role: creator
+  Nikolai-Obolensky:
+    individualname: Nikolai Obolensky
+    role: creator
+  Gubeydulla-Yunusov:
+    individualname: Gubeydulla Yunusov
+    role: creator
+  Akimov-Aleksandr:
+    individualname: Akimov, Aleksandr
+    role: creator
+  Konstantinov-Yuriy:
+    individualname: Konstantinov, Yuriy
+    role: creator
+  Medvedev-Vladimir:
+    individualname: Medvedev, Vladimir
+    role: creator
+  Mishin-Petr:
+    individualname: Mishin, Petr
+    role: creator
+  Volkhonov-Mikhail:
+    individualname: Volkhonov, Mikhail
+    role: creator
+  Lekomtsev-Petr:
+    individualname: Lekomtsev, Petr
+    role: creator
+  Obolensky-Nikolai:
+    individualname: Obolensky, Nikolai
+    role: creator
+  Yunusov-Gubeydulla:
+    individualname: Yunusov, Gubeydulla
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

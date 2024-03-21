@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mahadevaswamy_2021
+  dataseturi: https://doi.org/10.35940/ijitee.D8438.021042
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Design and Development of Soil Moisture Sensor
+  abstract: '&lt;p&gt;Water is a very valuable and stimulating force for irrigation.
+    The Optimum usage of water is an hourly requirement. Efficient irrigation helps
+    to conserve water, increase plant yields, reduce fertilizer reliance, and improve
+    the quality of crops. Various techniques are available to measure soil moisture
+    content, both laboratory and field, including remote sensing, but the fastest
+    and better one is with the use of soil moisture sensor electronic devices. The
+    range of soil moisture sensors has its own benefits and drawbacks. The goal of
+    this work is to design and develop a module for the measurement of soil moisture
+    and temperature levels, as well as ambient temperature and humidity by using frequency
+    concepts. The sensor is made of a corrosion resistant element and it is rugged,
+    battery operated, low power and long range sensor using IoT. A &ldquo;GND BLE
+    Mobile Application (gSense100)&rdquo; has been developed, which includes everything
+    related to the BLE technology and soil moisture sensor, where the app uses BLE
+    technology to transmit all sensor values to the consumer.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - BLE
+      - BLE technology
+      - gSense100
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Design and Development of Soil Moisture Sensor
+    url: http://dx.doi.org/10.35940/ijitee.D8438.021042
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U-B-Mahadevaswamy:
+    individualname: U B Mahadevaswamy
+    role: creator
+  Meghana-N:
+    individualname: Meghana N
+    role: creator
+  Mahadevaswamy-Dr.-U-B:
+    individualname: Mahadevaswamy, Dr. U B
+    role: creator
+  N-Meghana:
+    individualname: N, Meghana
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

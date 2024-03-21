@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7359208
+  dataseturi: https://doi.org/10.5281/zenodo.7359208
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: IOT and Machine Learning Based Soil Moisture Prediction and Monitoring
+  abstract: "Agriculture plays a crucial role in the overall growth of the nation.\
+    \ Around 70% of the population is directly or indirectly dependent on irrigation,\
+    \ while about one-third of the country\u2019s (India) revenue is obtained from\
+    \ agriculture. Even so, the demand for food is increasing day by day and may continue\
+    \ to do so for decades. To solve this exceeding demand a feasible solution would\
+    \ be to use smart-farming techniques to enhance effectiveness and productivity\
+    \ and reduce manual labour, latency and overall expenses. But the farmers in the\
+    \ developing nation mainly rely on the traditional farming methods as they smart-farming\
+    \ techniques are expensive. Our paper addresses this issue of affordability by\
+    \ incorporating IoT and machine learning-based design that will help farmers monitor\
+    \ the soil quality based on the moisture content present. This paper proposes\
+    \ a system which will monitor the environmental factors using IoT and determine\
+    \ the moisture content of the soil. With the help of the data accumulated, machine\
+    \ learning is used to predict the future soil moisture. And lastly, a basic GUI\
+    \ is implemented to take environmental parameters as input and output of the soil\
+    \ moisture"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7359208
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7359207
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seema-Patil:
+    individualname: Seema Patil
+    role: creator
+  Viren-Patel:
+    individualname: Viren Patel
+    role: creator
+    organization: ''
+    url: ''
+  Shreyan-Yoge:
+    individualname: Shreyan Yoge
+    role: creator
+    organization: ''
+    url: ''
+  Sumedh-Kamble:
+    individualname: Sumedh Kamble
+    role: creator
+    organization: ''
+    url: ''
+  Harsh-Pandey:
+    individualname: Harsh Pandey
+    role: creator
+  Patil-Seema:
+    individualname: Patil, Seema
+    role: ''
+    organization: ''
+    url: ''
+  Pandey-Harsh:
+    individualname: Pandey, Harsh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

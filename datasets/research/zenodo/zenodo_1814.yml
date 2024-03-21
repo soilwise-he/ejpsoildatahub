@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4887052
+  dataseturi: https://doi.org/10.5281/zenodo.4887052
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Ionic Mobility of Cations as Affected by Redox Status of Two Different Soil
+    Textures
+  abstract: Movement of ions within the soil plays a key role in nutrient availability
+    as well as<br> soil management. Various reactions in the soil contribute to soil
+    ionic mobility and<br> consequently nutrient availability, one of which is the
+    oxidation-reduction reaction. Hence,<br> this study sets out to evaluate the effect
+    of redox status of the soil on ionic mobility of cations.<br> A 3x2x2 factorial
+    experiment was set up on two different soil types (clay loam and sandy clay<br>
+    loam), arranged in a Randomzed complete Block design (RCBD) with three replicates.
+    The<br> treatment combination involved three levels of poultry manure (0 tha-1,
+    6 tha-1 and 8 tha-1),<br> two levels of NPK 15-15-15 (0 gha-1, 200 kgha-1) and
+    two water regimes (field capacity and<br> waterlogging). Twelve treatments were
+    obtained giving rise to different redox potential.<br> Redox potential was measured
+    using a redox meter, electrical conductivity using a<br> conductivity meter; Ionic
+    mobility was calculated using the mobility equation.<br> Results from this study
+    show that ionic mobility was highest under highly reduced<br> conditions, also
+    ionic mobility was highest in sandy clay loam than clayey loam and<br> potassium
+    ion has the highest mobility while magnesium has the lowest mobility. It was<br>
+    concluded that soils can be subjected to reduction process to increase the mobility
+    of cations<br> hence there availability to plant. However care must be taken to
+    avoid the loss of highly<br> mobile ions like potassium.
+  keywords:
+    default:
+      keywords:
+        subject: ionic mobility, redox, cation, soil, nutrient availability, movement
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-06-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4887052
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4887051
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dayo-Olagbende-G.O.:
+    individualname: Dayo-Olagbende, G.O.
+    role: creator
+    organization: Department of Crop Soil and Pest Management, Federal University
+      of Technology Akure,
+    url: ''
+  Ewulo-B.S:
+    individualname: Ewulo, B.S
+    role: creator
+    organization: Department of Crop Soil and Pest Management, Federal University
+      of Technology Akure,
+    url: ''
+content_info: {}

@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2536887
+  dataseturi: https://doi.org/10.5281/zenodo.2536887
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impacts of soil carbon sequestration on life cycle greenhouse gas emissions
+    in Midwestern USA beef finishing systems
+  abstract: "Beef cattle have been identified as the largest livestock-sector contributor\
+    \ to greenhouse gas (GHG) emissions.\nUsing life cycle analysis (LCA), several\
+    \ studies have concluded that grass-finished beef systems have greater GHG\nintensities\
+    \ than feedlot-finished (FL) beef systems. These studies evaluated only one grazing\
+    \ management system\n\u2013 continuous grazing \u2013 and assumed steady-state\
+    \ soil carbon (C), to model the grass-finishing environmental\nimpact. However,\
+    \ by managing for more optimal forage growth and recovery, adaptive multi-paddock\
+    \ (AMP)\ngrazing can improve animal and forage productivity, potentially sequestering\
+    \ more soil organic carbon (SOC)\nthan continuous grazing. To examine impacts\
+    \ of AMP grazing and related SOC sequestration on net GHG\nemissions, a comparative\
+    \ LCA was performed of two different beef finishing systems in the Upper Midwest,\
+    \ USA:\nAMP grazing and FL. We used on-farm data collected from the Michigan State\
+    \ University Lake City\nAgBioResearch Center for AMP grazing. Impact scope included\
+    \ GHG emissions from enteric methane, feed\nproduction and mineral supplement\
+    \ manufacture, manure, and on-farm energy use and transportation, as well as\n\
+    the potential C sink arising from SOC sequestration. Across-farm SOC data showed\
+    \ a 4-year C sequestration rate\nof 3.59 Mg C ha\u22121 yr\u22121 in AMP grazed\
+    \ pastures. After including SOC in the GHG footprint estimates, finishing\nemissions\
+    \ from the AMP system were reduced from 9.62 to \u22126.65 kg CO2-e kg carcass\
+    \ weight (CW)\u22121\n, whereas\nFL emissions increased slightly from 6.09 to\
+    \ 6.12 kg CO2-e kg CW\u22121 due to soil erosion. This indicates that AMP\ngrazing\
+    \ has the potential to offset GHG emissions through soil C sequestration, and\
+    \ therefore the finishing phase\ncould be a net C sink. However, FL production\
+    \ required only half as much land as AMP grazing. While the SOC\nsequestration\
+    \ rates measured here were relatively high, lower rates would still reduce the\
+    \ AMP emissions relative to the FL emissions. This research suggests that AMP\
+    \ grazing can contribute to climate change mitigation\nthrough SOC sequestration\
+    \ and challenges existing conclusions that only feedlot-intensification reduces\
+    \ the\noverall beef GHG footprint through greater productivity"
+  keywords:
+    default:
+      keywords:
+        subject: Feedlot finishing
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-05-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2536887
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2536886
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Paige-L.-Stanleya:
+    individualname: Paige L. Stanleya
+    role: creator
+  Jason-E.-Rowntreea:
+    individualname: Jason E. Rowntreea
+    role: creator
+  David-K.-Beedea:
+    individualname: David K. Beedea
+    role: creator
+  Marcia-S.-DeLonge:
+    individualname: Marcia S. DeLonge
+    role: creator
+  Michael-W.-Hamm:
+    individualname: Michael W. Hamm
+    role: creator
+  Stanleya-Paige-L.:
+    individualname: Stanleya, Paige L.
+    role: ''
+    organization: ''
+    url: ''
+  Rowntreea-Jason-E.:
+    individualname: Rowntreea, Jason E.
+    role: ''
+    organization: ''
+    url: ''
+  Beedea-David-K.:
+    individualname: Beedea, David K.
+    role: ''
+    organization: ''
+    url: ''
+  DeLonge-Marcia-S.:
+    individualname: DeLonge, Marcia S.
+    role: ''
+    organization: ''
+    url: ''
+  Hamm-Michael-W.:
+    individualname: Hamm, Michael W.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

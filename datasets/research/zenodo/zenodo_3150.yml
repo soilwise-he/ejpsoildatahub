@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2544865
+  dataseturi: https://doi.org/10.5281/zenodo.2544865
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Successful introduction of the decorative species from the collection of
+    short-growing and soil-covering redivives in Donetsk Botanical Garden of the NAS
+    of Ukraine
+  abstract: "The range of tolerance to the thermal mode, contrast mode, ombromode\
+    \ and cryomode for the species from the collection of short-growing and soil-covering\
+    \ redivives of Donetsk Botanical Garden of the NAS of Ukraine has been determined.\
+    \ It has been found that in terms of the thermal mode submesotherms, mesotherms\
+    \ and macrotherms, whose area involves Western Europe, the Caucasus, Asia Minor,\
+    \ the Balkans, the Crimea, the Mediterranian, Iran and the European part of the\
+    \ former USSR, are best adapted to natural climatic conditions of the southeast\
+    \ of Ukraine; in terms of continentality the best species are hemioceanists, subcontinentalists\
+    \ and hemicontinentalists; in terms of the ombromode \u2013 subaridophytes, mesoaridophytes\
+    \ and semiaridophytes; in terms of cryomode \u2013 hemicryophytes. It has been\
+    \ suggested that suboceanists and oceanists are less well adapted to the conditions\
+    \ of the southeast of Ukraine as opposed to hemioceanists, hemicontinentals and\
+    \ subcontinentals. It follows that it is possible to anticipate successful introduction\
+    \ of redivives whose area refers to the regions of the globe with the thermal\
+    \ mode of 45 to 55 kcal\xB7cm<sup>-2</sup>\xB7year<sup>-1</sup>, the ombromode\
+    \ of \u20131600\u2026\u2013200 mm of precipitation, the cryomode of +6 to \u2013\
+    6 \xB0\u0421."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2011-06-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2544865
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2544864
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.I.-Krokhmal:
+    individualname: I.I. Krokhmal
+    role: creator
+    organization: Donetsk Botanical Gardesn, National Academy of Sciences of Ukraine,
+      Ukraine, Donetsk
+    url: ''
+  I.F.-Pirko:
+    individualname: I.F. Pirko
+    role: creator
+    organization: Donetsk Botanical Gardesn, National Academy of Sciences of Ukraine,
+      Ukraine, Donetsk
+    url: ''
+content_info: {}

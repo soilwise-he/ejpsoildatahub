@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8028566
+  dataseturi: https://doi.org/10.5281/zenodo.8028566
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Enhancement of the Bearing Capacity of Lateritic soil Using Pulverized Cow
+    Bone
+  abstract: <em>This study investigated the use of pulverized cow bone (PCB) as a
+    means of enhancing the bearing capacity of lateritic soil. A series of laboratory
+    tests were conducted, including compaction tests, soaked and unsoaked CBR tests,
+    and penetration tests on soil-PCB mixtures. The results showed that the addition
+    of PCB to lateritic soil improved the maximum dry density, decreased the optimum
+    moisture content, and increased the unsoaked and soaked CBR values of the soil.
+    The maximum unsoaked CBR value of the soil-PCB mixture was 8.39%, which was obtained
+    with a proportion of 94:6 (soil:PCB) while the maximum soaked CBR value of the
+    soil-PCB mixture was 51.8%, which was obtained with a proportion of 8% PCB. Furthermore,
+    the penetration test results revealed that the addition of PCB increased the load-bearing
+    capacity of the soil. Therefore, it can be concluded that the use of PCB as a
+    stabilizing agent has the potential to enhance the bearing capacity of lateritic
+    soil and could be a sustainable and cost-effective method for soil stabilization
+    in civil engineering applications.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Pulverized cow bone, bearing capacity, soil stabilization, maximum
+          dry density, soil improvement.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-12'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8028566
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8028565
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Etuke-J.O.-Atikpo-E.:
+    individualname: Etuke, J.O., Atikpo, E.,
+    role: creator
+  Edogun-B.O.:
+    individualname: Edogun, B.O.
+    role: creator
+  Etuke-J.O.:
+    individualname: Etuke, J.O.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1471443
+  dataseturi: https://doi.org/10.5281/zenodo.1471443
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Empirical Model Approach For The Evaluation Of Ph And Conductivity On Pollutant
+    Diffusion In Soil Environment
+  abstract: This work is aimed at developing a mathematical model equation that can
+    be used to predict the fate of contaminant in the soil environment. The mathematical
+    model was developed based on the fundamental laws of conservation and the equation
+    of continuity given asand was resolved to obtain a quadratic equation of the form
+    C(X) = DX2+vX+f. The developed equation was then used to fit the experimental
+    data that were obtained from the Physio-chemical analysis of the soil samples
+    which were obtained at various depths; within the vicinity of the H &amp; H Asphalt
+    plant Company, located at Enito 3 in Ahoada West L.G.A, River State, Nigeria.
+    The Experimental and Model results obtained from the Calculation and Simulation
+    of the developed models were compared numerically and graphically as presented
+    in this work. It was observed that there is reasonable level of agreement between
+    the three results. The polynomial of the curve was established to ascertain the
+    validity of the model; this was done for all the parameters that were analyzed.
+    From the findings the model developed can be used to predict the concentration
+    of a chemical pollutant at various depths. The reliability of the model developed
+    was established giving the fact that through this quadratic equation the diffusivity
+    (coefficient of diffusion), the water velocity and the irreversible reaction decay
+    rate could be determined.
+  keywords:
+    default:
+      keywords:
+        subject: Soil environment
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-10-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1471443
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1471442
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chukwuemeka-Peter-Ukpaka:
+    individualname: Chukwuemeka Peter Ukpaka
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

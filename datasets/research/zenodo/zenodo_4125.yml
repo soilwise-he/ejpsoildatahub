@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1057145
+  dataseturi: https://doi.org/10.5281/zenodo.1057145
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Use Of Radial Basis Function Neural Network For Bearing Pressure Prediction
+    Of Strip Footing On Reinforced Granular Bed Overlying Weak Soil
+  abstract: Earth reinforcing techniques have become useful and economical to solve
+    problems related to difficult grounds and provide satisfactory foundation performance.
+    In this context, this paper uses radial basis function neural network (RBFNN)
+    for predicting the bearing pressure of strip footing on reinforced granular bed
+    overlying weak soil. The inputs for the neural network models included plate width,
+    thickness of granular bed and number of layers of reinforcements, settlement ratio,
+    water content, dry density, cohesion and angle of friction. The results indicated
+    that RBFNN model exhibited more than 84 % prediction accuracy, thereby demonstrating
+    its application in a geotechnical problem.
+  keywords:
+    default:
+      keywords:
+        subject: strip footing.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-11-23'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1057145
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1057144
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Srinath-Shetty-K.:
+    individualname: Srinath Shetty, K.
+    role: creator
+    organization: ''
+    url: ''
+  Shivashankar-R.:
+    individualname: Shivashankar, R.
+    role: creator
+    organization: ''
+    url: ''
+  Rashmi-P.-Shetty:
+    individualname: Rashmi P. Shetty
+    role: creator
+  Shetty-Rashmi-P.:
+    individualname: Shetty, Rashmi P.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

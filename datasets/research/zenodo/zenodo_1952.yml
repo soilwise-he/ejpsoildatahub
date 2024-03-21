@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Keen_1920
+  dataseturi: https://doi.org/10.1017/s0021859600005827
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The relations existing between the soil and its water content: A R\xE9sum\xE9\
+    \ of the Subject"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The relations existing between the soil and its water content: A R\xE9\
+      sum\xE9 of the Subject"
+    url: http://dx.doi.org/10.1017/s0021859600005827
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keen-Bernard-A.:
+    individualname: Keen, Bernard A.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1079100
+  dataseturi: https://doi.org/10.5281/zenodo.1079100
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction Of Soil Exchangeable Sodium Ratio Based On Soil Sodium Adsorption
+    Ratio
+  abstract: 'Researchers have long had trouble in measurement of
+
+    Exchangeable Sodium Ratio (ESR) at salt-affected soils. this
+
+    parameter are often determined using laborious and time consuming
+
+    laboratory tests, but it may be more appropriate and economical to
+
+    develop a method which uses a more simple soil salinity index. The
+
+    aim of this study was to determine the relationship between
+
+    exchangeable sodium ratio (ESR) and sodium adsorption ratio (SAR)
+
+    in some salt-affected soils of Khuzestan plain. To this purpose, two
+
+    experimental areas (S1, S2) of Khuzestan province-IRAN were
+
+    selected and four treatments with three replications by series of
+
+    double rings were applied. The treatments were included 25cm,
+
+    50cm, 75cm and 100cm water application. The statistical results of
+
+    the study indicated that in order to predict soil ESR based on soil
+
+    SAR the linear regression model ESR=0.2048+0.0066 SAR
+
+    (R2=0.53) &amp; ESR=0.0564+0.0171 SAR (R2=0.76) can be
+
+    recommended in Pilot S1 and S2 respectively.'
+  keywords:
+    default:
+      keywords:
+        subject: saltaffectedsoils and sodium adsorption ratio.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-10-22'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1079100
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1079099
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Siosemarde:
+    individualname: M. Siosemarde
+    role: creator
+    organization: ''
+    url: ''
+  F.-Kave:
+    individualname: F. Kave
+    role: creator
+    organization: ''
+    url: ''
+  E.-Pazira:
+    individualname: E. Pazira
+    role: creator
+    organization: ''
+    url: ''
+  H.-Sedghi:
+    individualname: H. Sedghi
+    role: creator
+    organization: ''
+    url: ''
+  S.-J.-Ghaderi:
+    individualname: S. J. Ghaderi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

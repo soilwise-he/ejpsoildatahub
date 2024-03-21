@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3405727
+  dataseturi: https://doi.org/10.5281/zenodo.3405727
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Verification of Vehicular Emitted Aerosol Components in Soil Biochemical
+    Characteristics in Owerri West Local Government Area, Imo State, Nigeria.
+  abstract: "<em>The study was carried out in Avu Junction in Owerri West L.G.A. at\
+    \ graded distant from the tarred road with an average vehicular flow between 10,000\
+    \ to 12,000 per day. Soil samples were taken at the distant of 50m, 100m, 150m\
+    \ and 200m respectively. And auger soil samples were taken at the depths of 0-30\
+    \ cm and 30-45 cm accordingly. Soil factor, heavy metals and microbial populations\
+    \ were investigated at graded distances. From the result of soil factors, pH values\
+    \ indicated acidity with decreased distant from the tarred road ranging between\
+    \ 4.52 \u2013 6.32, soil temperature on the topsoil was higher than subsoil ranging\
+    \ between 19- 25 0C and 18 \u2013 22 0C and soil moisture increases with increased\
+    \ distant from the tarred road ranging between 10.00 \u2013 13.3. Heavy metal\
+    \ concentrations in the soil increased with decreased distant in the order of\
+    \ Pb &lt; Zn &lt; Ni &lt; Cu &lt; Cd. Overall results revealed that Cd in the\
+    \ soil constitutes the highest percentage of 91.7%, Ni 90.9%, Cu 90.1%, Pb. 84.7%\
+    \ and Zn. 81.7%. Significantly, higher fungi and bacterial populations were recorded\
+    \ at increased distant from the tarred road. This then called for proactive measures\
+    \ to checkmate soil contamination due to pollutants from vehicular flows. </em>"
+  keywords:
+    default:
+      keywords:
+        subject: Aerosol, Biochemical, Vehicular, Soil Factors and Heavy Metals.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-12-31'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3405727
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3405726
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.--Ubuoh-Emmanuel-Attah:
+    individualname: Dr.  Ubuoh Emmanuel Attah
+    role: creator
+    organization: PHD
+    url: ''
+content_info: {}

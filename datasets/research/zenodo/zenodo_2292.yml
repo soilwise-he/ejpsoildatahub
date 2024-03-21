@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7002630
+  dataseturi: https://doi.org/10.5281/zenodo.7002630
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Residues of Carbofuran in Soil, Rice Grain, and Straw As Affected By Rates
+    and Number of Applications
+  abstract: This article 'Residues of Carbofuran in Soil, Rice Grain, and Straw As
+    Affected By Rates and Number of Applications' appeared in the International Rice
+    Research Newsletter series, created by the International Rice Research Institute
+    (IRRI). The primary objective of this publication was to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Straw
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1980-04-01'
+    publication: '1980'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7002630
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7002629
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rao-P.-R.-M.:
+    individualname: Rao, P. R. M.
+    role: creator
+    organization: ''
+    url: ''
+  Prakasa-Rao-P.-S.:
+    individualname: Prakasa Rao, P. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

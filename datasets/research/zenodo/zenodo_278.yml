@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROBINSON_1921
+  dataseturi: https://doi.org/10.1097/00010694-192105000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'ACID SOIL STUDIES: I. A STUDY OF THE BASIC EXCHANGE BETWEEN SOIL SEPARATES
+    AND SALT SOLUTIONS'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'ACID SOIL STUDIES: I. A STUDY OF THE BASIC EXCHANGE BETWEEN SOIL SEPARATES
+      AND SALT SOLUTIONS'
+    url: http://dx.doi.org/10.1097/00010694-192105000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robinson-R.-H.:
+    individualname: Robinson, R. H.
+    role: creator
+  ROBINSON-R.-H.:
+    individualname: ROBINSON, R. H.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bhujade_2020
+  dataseturi: https://doi.org/10.35940/ijeat.C6624.049420
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Numerical Assessment of Squeezed Branch Pile in Silty Clay Soil
+  abstract: '&lt;p&gt;Squeezed Branch Pile is derived on the basis of caste in place
+    concrete pile. It has one or more branches along the pile shaft at design depth.
+    Squeezed branch piles are often used in high rise building, transmission tower
+    and in other pile foundations where anticipated uplift or vertical load may cause
+    failure. This pile is one of the excellent options of pile foundation for soft
+    soil and silty soil. The behaviour of Squeezed Branch pile is difficult to explain
+    using simple pile-soil theories or two dimensional numerical analyses because
+    of complicated geometry of pile.In the present numerical analysis, a 3D pile-soil
+    model of conventional circular pile and squeezed branch pile foundations are analysed
+    using MIDAS GTS NX finite element software to find out effectiveness of squeezed
+    branch pile over conventional pile. The aim is to study the performance of Squeezed
+    Branch Pile foundation in silty clay with respect to various parameters such as
+    types of loading, branch diameter, branch spacing and number of branches. Analysis
+    shows that the squeezed branch pile has higher vertical, lateral and uplift load
+    capacity as compared to conventional pile.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Squeezed branch pile
+      - ultimate load capacity
+      - MIDAS GTS NX software
+      - Vertical and Uplift loading.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Numerical Assessment of Squeezed Branch Pile in Silty Clay Soil
+    url: http://dx.doi.org/10.35940/ijeat.C6624.049420
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-P.-Bhujade:
+    individualname: R. P. Bhujade
+    role: creator
+  A.-I.-Dhatrak:
+    individualname: A. I. Dhatrak
+    role: creator
+  S.-W.-Thakare:
+    individualname: S. W. Thakare
+    role: creator
+  Bhujade-R.-P.:
+    individualname: Bhujade, R. P.
+    role: creator
+  Dhatrak-A.-I.:
+    individualname: Dhatrak, A. I.
+    role: creator
+  Thakare-S.-W.:
+    individualname: Thakare, S. W.
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

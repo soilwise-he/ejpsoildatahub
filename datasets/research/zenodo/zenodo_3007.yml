@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tangen_2015
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2015.06.148
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effects of land use on greenhouse gas fluxes and soil properties of wetland
+    catchments in the Prairie Pothole Region of North America
+  abstract: Wetland restoration has been suggested as policy goal with multiple environmental
+    benefits including enhancement of atmospheric carbon sequestration. However, there
+    are concerns that increased methane (CH4) emissions associated with restoration
+    may outweigh potential benefits. A comprehensive, 4-year study of 119 wetland
+    catchments was conducted in the Prairie Pothole Region of the north-central U.S.
+    to assess the effects of land use on greenhouse gas (GHG) fluxes and soil properties.Results
+    showed that the effects of land use on GHG fluxes and abiotic soil properties
+    differed with respect to catchment zone (upland, wetland), wetland classification,
+    geographic location, and year. Mean CH4 fluxes from the uplands were predictably
+    low (&lt;0.02gCH4m-2day-1), while wetland zone CH4 fluxes were much greater (&lt;0.001-3.9gCH4m-2day-1).
+    Mean cumulative seasonal CH4 fluxes ranged from roughly 0-650gCH4m-2, with an
+    overall mean of approximately 160g CH4 m-2. These maximum cumulative CH4 fluxes
+    were nearly 3 times as high as previously reported in North America. The overall
+    magnitude and variability of N2O fluxes from this study (&lt;0.0001-0.0023gN2Om-2day-1)
+    were comparable to previously reported values.Results suggest that soil organic
+    carbon is lost when relatively undisturbed catchments are converted for agriculture,
+    and that when non-drained cropland catchments are restored, CH4 fluxes generally
+    are not different than the pre-restoration baseline. Conversely, when drained
+    cropland catchments are restored, CH4 fluxes are noticeably higher. Consequently,
+    it is important to consider the type of wetland restoration (drained, non-drained)
+    when assessing restoration benefits. Results also suggest that elevated N2O fluxes
+    from cropland catchments likely would be reduced through restoration. The overall
+    variability demonstrated by this study was consistent with findings of other wetland
+    investigations and underscores the difficulty in quantifying the GHG balance of
+    wetland systems.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effects of land use on greenhouse gas fluxes and soil properties of wetland
+      catchments in the Prairie Pothole Region of North America
+    url: http://dx.doi.org/10.1016/j.scitotenv.2015.06.148
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tangen-Brian-A.:
+    individualname: Tangen, Brian A.
+    role: creator
+  Finocchiaro-Raymond-G.:
+    individualname: Finocchiaro, Raymond G.
+    role: creator
+  Gleason-Robert-A.:
+    individualname: Gleason, Robert A.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

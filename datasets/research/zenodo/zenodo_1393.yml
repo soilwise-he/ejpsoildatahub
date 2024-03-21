@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3420786
+  dataseturi: https://doi.org/10.5281/zenodo.3420786
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Archaeology and Soil Science in Flanders. Personal reflections of an archaeologist
+    anno 2019.
+  abstract: This paper presents some of the personal reflections of an archaeologist
+    who studied soil sciences at Ghent University in the 1980s. The paper focuses
+    on how soil science, amongst other sciences, gradually found its place in archaeological
+    practice in Flanders, in part thanks to opportunities and activities at Ghent
+    University between 1984 and 2005. Nowadays, the curricula/ educational programmes
+    of the universities in Flanders do not at all stimulate the interaction between
+    soil sciences and archaeology. This feels like a setback, back to the pre-1984
+    era, which is unfortunate, as earth scientists familiar with archaeology are needed
+    more than ever for archaeological fieldwork in 21<sup>st</sup> century Flanders.
+  keywords:
+    default:
+      keywords:
+        subject: soil science, archaeology, educational programmes, 1963-2019, personal
+          reflections, code of good practice
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3420786
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.3420785
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Publisher-Raakvlak-Archaeology-Monuments:
+    individualname: Publisher Raakvlak Archaeology, Monuments
+    role: creator
+  Landscapes-of-Bruges:
+    individualname: Landscapes of Bruges
+    role: creator
+  Hinterland-Belgium--www.raakvlak.be:
+    individualname: Hinterland, Belgium , www.raakvlak.be
+    role: creator
+  Pieters-Marnix:
+    individualname: Pieters, Marnix
+    role: creator
+    organization: Flanders Heritage Agency, Havenlaan 88 bus 5, B-1000 Brussel
+    url: ''
+content_info: {}

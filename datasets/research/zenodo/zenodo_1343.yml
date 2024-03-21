@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6427061
+  dataseturi: https://doi.org/10.5281/zenodo.6427061
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on Chelation of Alcohol Soluble Soil Organic Matter Fraction with
+    Metals
+  abstract: "Department of Applied Chemistry, Calcutta University <em>Received</em>\
+    \ 2 <em>July</em> 1970; <em>revised M SS received </em>13 <em>April </em>1971\
+    \ Studies were conducted to investigate the interactions between certain bivalent\
+    \ and trivalent metallic cations and alcohol soluble hymatomelanic acid (Hy.A.)\
+    \ fraction of soil humic acid isolated from alluvial soil of West Bengal by electrometric\
+    \ titrations and absorption spectroscopy. Discontinuous conductometric titrations\
+    \ showed the formation of more than one complex. Potentiometric titrations io\
+    \ presence of metallic cations indicated the formation of Hy.A-metal complexes.\
+    \ The order of the magnitude of <em>p</em>H drop of Hy.A. on addition of metallic\
+    \ cations was found to be Ni<sup>2+</sup>&lt; Zn<sup>2+</sup> &lt; Cu<sup>2+</sup>\
+    \ and Fe<sup>2+</sup> &lt; Fe<sup>3+</sup> &lt;Al<sup>3+</sup>. Absorption spectroscopy\
+    \ showed the formation of complexes of different molal com\xB7 positions at different\
+    \ <em>p</em>H values,"
+  keywords:
+    default:
+      keywords:
+        subject: Alcohol Soluble Soil Organic Matter
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1972-05-31'
+    publication: '1972'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6427061
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6427060
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-ADHIKARI:
+    individualname: M. ADHIKARI
+    role: creator
+    organization: ''
+    url: ''
+  G.-CHAKRAVORTY:
+    individualname: G. CHAKRAVORTY
+    role: creator
+    organization: ''
+    url: ''
+  G.-C.-HAZRA:
+    individualname: G. C. HAZRA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

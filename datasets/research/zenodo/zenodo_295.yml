@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HOAGLAND_1918
+  dataseturi: https://doi.org/10.1097/00010694-191805000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE CHEMICAL EFFECTS OF CaO AND CaCO3 ON THE SOIL Part I. The Effect on Soil
+    Reaction
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE CHEMICAL EFFECTS OF CaO AND CaCO3 ON THE SOIL Part I. The Effect on
+      Soil Reaction
+    url: http://dx.doi.org/10.1097/00010694-191805000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hoagland-D.-R.:
+    individualname: Hoagland, D. R.
+    role: creator
+  Christie-A.-W.:
+    individualname: Christie, A. W.
+    role: creator
+  HOAGLAND-D.-R.:
+    individualname: HOAGLAND, D. R.
+    role: creator
+  CHRISTIE-A.-W.:
+    individualname: CHRISTIE, A. W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

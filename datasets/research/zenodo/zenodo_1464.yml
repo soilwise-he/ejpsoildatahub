@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7263552
+  dataseturi: https://doi.org/10.5281/zenodo.7263552
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Working body for pre-sowing application of liquid mineral fertilizers in
+    the soil
+  abstract: To obtain high yields of crops it is necessary to create the most favorable
+    conditions for growth and development of plants and in particular their root system,
+    it is necessary to create optimal parameters of the subsoil layer of soil, where
+    the root system of plants develops, normal growth and aboveground mass. Deep and
+    strong root system reduces the dependence of plant development on weather conditions,
+    which is very important in areas of risky agriculture. Soil compaction has a detrimental
+    effect on plants, limits their productivity, reduces pores between soil particles
+    containing air and water, and causes its compaction external pressure by tractors
+    and cultivators destroys pores, roots can not properly grow in such soil, and
+    plants do not get the right amount of nutrients needed for their maximum growth.
+    Numerical studies have shown that excessive looseness and density under the seed
+    layer, as a rule, limits the penetration of plants into the soil. Their surface
+    development is highly undesirable because it leads to a deterioration in the supply
+    of plants with moisture and nutrients and adversely affects plant productivity.
+    When liquid fertilizers (ammonia water, CAS) are applied to the dense layers of
+    the soil at the rate of 0-40 kg of active substance on nitrogen, the growth of
+    the root system deep into the soil is significantly enhanced. Existing working
+    bodies for the application of liquid mineral fertilizers to the soil cannot perform
+    this task at the appropriate level. Under the influence of known flat wedges there
+    is a deformation of the soil, which always exceeds the allowable limits for the
+    subseed layer. The working body with only the minimum cutting angles and blade
+    width can satisfy the proposed requirements for deep application of liquid fertilizers
+    without a significant reduction in the density of soil composition before sowing.
+  keywords:
+    default:
+      keywords:
+        subject: root system
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2021-06-24'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7263552
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7263551
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gusarenko-N.P.:
+    individualname: Gusarenko, N.P.
+    role: creator
+    organization: Kharkiv national agrarian university named after V.V. Dokuchaiev
+    url: ''
+  Pakhuchiy-A.-N.:
+    individualname: Pakhuchiy, A. N.
+    role: creator
+    organization: Kharkiv national agrarian university named after V.V. Dokuchaiev
+    url: ''
+content_info: {}

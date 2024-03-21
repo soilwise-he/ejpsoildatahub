@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.4122-1.1000000494
+  dataseturi: https://doi.org/10.4122/1.1000000494
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Upscaling for unsaturated flow including connectivity of the soil structure
+  abstract: "Modelling of flow processes in the unsaturated zone on a large scale\
+    \ requires often \nupscaling of the flow problem. The soil parameter distribution\
+    \ is mostly not known, \nso that the upscaled problem is based on a characterization\
+    \ of the soil \nheterogeneity, which is obtained from local measurements. Effective\
+    \ flow parameters \nare therefore often derived in a stochastic framework, where\
+    \ the heterogeneity of a \nfield is quantified by its second order stochastic\
+    \ properties (the mean, variance \nand a two-point covariance model with an integral\
+    \ scale and anisotropy parameters). \nA field has to be Gaussian to be quantified\
+    \ completely by these parameters. However, \nsoil structure resembles rarely Gaussian\
+    \ fields. It has connected and isolated \nstructures of different material types.\
+    \ The connectedness of material has a large \ninfluence on the upscaled models,\
+    \ yet these properties can in general not be derived \nfrom second order stochastic\
+    \ field parameters. Therefore upscaling methods are \nneeded which take connectivity\
+    \ into account.\n\nIn this contribution we first discuss how soil connectivity\
+    \ can be quantified from \nlocal data in a reasonable way. We then discuss how\
+    \ the information about \nconnectivity can be taken into account into the upscaled\
+    \ models. This is done here \nby applying different effective medium approaches\
+    \ to derive unsaturated effective \npermeability. The methods are all derived\
+    \ assuming capillary equilibrium on the \nsmall scale. Effective parameters are\
+    \ obtained using the self-consistent approach, \nthe Maxwell approach, the differential\
+    \ effective medium approach and a generalized \npercolation approach. We compare\
+    \ the methods and discuss their advantages and \nlimits. The results obtained\
+    \ for different test fields are compared to the exact \nsolution for the effective\
+    \ parameters, derived by homogenization theory."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.4122/1.1000000494
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Neuweiler-Insa:
+    individualname: Neuweiler, Insa
+    role: creator
+    organization: ''
+    url: insa.neuweiler@iws.uni-stuttgart.de
+content_info: {}

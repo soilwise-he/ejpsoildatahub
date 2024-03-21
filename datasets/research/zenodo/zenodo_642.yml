@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6947747
+  dataseturi: https://doi.org/10.5281/zenodo.6947747
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Performance of different rice lines in Zn-deficient soil
+  abstract: This article 'Performance of different rice lines in Zn-deficient soil'
+    appeared in the International Rice Research Notes series, created by the International
+    Rice Research Institute (IRRI) to expedite communication among scientists concerned
+    with the development of improved technology for rice and rice-based systems. The
+    series is a mechanism to help scientists keep each other informed of current rice
+    research findings. The concise scientific notes are meant to encourage rice scientists
+    to communicate with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1998-09-01'
+    publication: '1998'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6947747
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6947746
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thongbai-P.:
+    individualname: Thongbai, P.
+    role: creator
+    organization: ''
+    url: ''
+  Kirk-G.-J.-D.:
+    individualname: Kirk, G. J. D.
+    role: creator
+    organization: ''
+    url: ''
+  Quijano-C.:
+    individualname: Quijano, C.
+    role: creator
+    organization: ''
+    url: ''
+  Senadhira-D.:
+    individualname: Senadhira, D.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

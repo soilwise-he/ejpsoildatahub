@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WAKSMAN_1916
+  dataseturi: https://doi.org/10.1097/00010694-191603000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: INCUBATION STUDIES WITH SOIL FUNGI
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: INCUBATION STUDIES WITH SOIL FUNGI
+    url: http://dx.doi.org/10.1097/00010694-191603000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Waksman-S.-A.:
+    individualname: Waksman, S. A.
+    role: creator
+  Cook-R.-C.:
+    individualname: Cook, R. C.
+    role: creator
+  WAKSMAN-S.-A.:
+    individualname: WAKSMAN, S. A.
+    role: creator
+  COOK-R.-C.:
+    individualname: COOK, R. C.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

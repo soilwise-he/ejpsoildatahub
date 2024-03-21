@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hering_1912
+  dataseturi: https://doi.org/10.1109/t-aiee.1912.4768470
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Discussion on ``Electrolytic Corrosion of Iron by Direct Current in Street\
+    \ Soil\u2019\u2019 (Ganz), Boston, Mass., June 25, 1912"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Discussion on ``Electrolytic Corrosion of Iron by Direct Current in Street\
+      \ Soil\u2019\u2019 (Ganz), Boston, Mass., June 25, 1912"
+    url: http://dx.doi.org/10.1109/t-aiee.1912.4768470
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hering-Carl:
+    individualname: Hering, Carl
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

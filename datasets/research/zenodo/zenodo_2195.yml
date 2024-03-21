@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399040
+  dataseturi: https://doi.org/10.5281/zenodo.10399040
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Regenerative Agriculture Practices Influences Productivity, Soil Carbon Dynamics
+    and GHG Emissions in Rice-based Cropping Systems
+  abstract: The Indo-Gangetic Plain (IGP) is characterized by high population density,
+    limited arable land, and intensive agriculture practices, posing risks to food
+    security and environmental stability. The study was conducted over three years,
+    encompassing different regenerative agriculture practices. The main plots (Conventional
+    Farming (CF-rice-wheat; no residues) and Regenerative Farming (RF-rice-wheat-mungbean;
+    50% rice residue)) and sub-plot (State Fertilizer Recommendation (SRF) and Site-Specific
+    Nutrient Management (SSNM)). The subplot was divided into Bio-input (25% reductions
+    in NPK dose) and without Bio-input. The trial was replicated three times in a
+    split-plot design. In Kharif/wet-season, Moti rice variety; in Rabi/dry and winter-season,
+    PBW-343 wheat variety, and Jayad/summer-season, Virat mungbean variety were used.
+    The productivity parameters included rice grain yield, biomass production, and
+    nutrient use efficiency. Soil carbon dynamics were evaluated by measuring different
+    organic carbon fractions and soil respiration rates. GHG emissions were estimated
+    through the MOT tool developed by the CCAFS program. Adopting RA practices increased
+    rice and wheat grain yield by 2.67% and 10.4% compared to the conventional system.
+    The system yield increased by 29.0% across the treatments after 3 years of study.
+    Biomass production also showed a similar trend, with regenerative practices leading
+    to higher biomass accumulation. Moreover, nutrient use efficiency improved under
+    both practices where the SSNM principle was followed, indicating better crop nutrient
+    utilization. Such increment might be due to a conducive rhizospheric micro-climate
+    for nutrient uptake and mobility. Soil organic carbon content in the topsoil (0-15
+    cm) increased by 4.10% in the regenerative systems (5.10 mg/kg) compared to the
+    conventional system (4.90 mg/kg). This increase in soil carbon can contribute
+    to maintaining soil fertility, moisture retention, and climate change mitigation.
+    Additionally, soil respiration rates were lower in the regenerative systems, suggesting
+    improved soil health and reduced carbon losses. Due to improved management practices,
+    emissions were significantly reduced by 8.43% and 32.7% in rice and wheat in the
+    regenerative compared to the conventional systems. Further research and promotion
+    of regenerative agriculture at the policy and farm level are warranted to facilitate
+    adoption and realize the potentials of these practices for agricultural development.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399040
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10399039
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sharma-Sheetal:
+    individualname: Sharma, Sheetal
+    role: creator
+    organization: International Rice Research Institute, India
+    url: ''
+  Maurya-Piyush-Kumar:
+    individualname: Maurya, Piyush Kumar
+    role: creator
+    organization: International Rice Research Institute, Varanasi, India
+    url: ''
+  Mishra-Ajay-Kumar:
+    individualname: Mishra, Ajay Kumar
+    role: creator
+    organization: International Rice Research Institute, Varanasi, India
+    url: ''
+content_info: {}

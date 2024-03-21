@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10110044
+  dataseturi: https://doi.org/10.5281/zenodo.10110044
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Moisture Characteristics of Humid Tropical Soils of the Southern Part
+    of Rivers State Nigeria
+  abstract: 'Soil moisture characteristics data are extremely valuable tools for describing
+    and managing water storage and flow transport in soils, as well as informing climate-smart
+    agricultural courses and practices. Saturated hydraulic conductivity (Ks), aggregate
+    size distribution, mean weight diameter (MWD), soil moisture characteristic curve
+    (SMCC) and other indices of soil structure were estimated for soils of the 8 Local
+    Government Areas (Akuku-Toru, Degema, Gokhana, Khana, Ogu-Bolo, Okrika, Oyigbo
+    and Tai) in the South of Rivers State Nigeria. Core samples were taken from across
+    the 8 LGAs in triplicates at 0-5, 5-10, 10-15 and 15-20cm depths along with bulk
+    samples at 0- 10cm and 10-20cm depths. The high spatial variability of these soils
+    of the same terrain, were evidenced in the high coefficient of variation (CV)
+    values in all parameters measured; with the exception of % of sand across all
+    areas sampled. The soils were generally sandy loam to sand. Bulk density values
+    ranged between 1.17 to 1.74gcm-3 at the 0-10cm depth, with a CV of 12.8% across
+    locations. Ks values were generally moderate (2.5x10-3 to 9.9 x 10-4 cmsec-1 )
+    with a CV of 91.8 to 109.7% across locations and depth. Degema, Okrika and Tai
+    soils had significantly higher aggregate stability as indicated by the MWD, with
+    43.5 to 46.1% of their aggregates being >3.5mm in diameter size; when compared
+    with the other locations. SMCC showed that moisture content at the field capacity
+    (50cm suction) varied significantly across both locations and depths, with CV
+    values between 49.0 to 71.0%. At the 0.1bar suction, the volumetric moisture contents
+    were in the order 0.030, 0.020, 0.020, 0.020, 0.012, 0.010, 0.010 and 0.002cm3
+    cm-3 for Gokhana, Degema, Oyigbo, Khana, Ogu-Bolo, Akuku-Toru, Tai and Okrika
+    soils, respectively. Results obtained form a baseline data of the parameters measured,
+    for management of water storage, climate smart and precision agriculture; in these
+    parts of Rivers State.
+
+    Keywords:- Soil Moisture Characteristics, Aggregate Stability, Saturated Hydraulic
+    Conductivity, CV.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-11'
+    accepted: '2023-11-11'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10110044
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10110043
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Orji-O.-A.:
+    individualname: Orji, O. A.
+    role: creator
+    organization: ''
+    url: ''
+  Iruene-T.:
+    individualname: Iruene, T.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

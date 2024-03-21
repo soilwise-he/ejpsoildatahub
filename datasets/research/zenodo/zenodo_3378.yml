@@ -1,0 +1,117 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1058737
+  dataseturi: https://doi.org/10.5281/zenodo.1058737
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Modelling Of Soil Erosion By Non Conventional Methods
+  abstract: 'Soil erosion is the most serious problem faced at
+
+    global and local level. So planning of soil conservation measures has
+
+    become prominent agenda in the view of water basin managers. To
+
+    plan for the soil conservation measures, the information on soil
+
+    erosion is essential. Universal Soil Loss Equation (USLE), Revised
+
+    Universal Soil Loss Equation 1 (RUSLE1or RUSLE) and Modified
+
+    Universal Soil Loss Equation (MUSLE), RUSLE 1.06, RUSLE1.06c,
+
+    RUSLE2 are most widely used conventional erosion estimation
+
+    methods. The essential drawbacks of USLE, RUSLE1 equations are
+
+    that they are based on average annual values of its parameters and so
+
+    their applicability to small temporal scale is questionable. Also these
+
+    equations do not estimate runoff generated soil erosion. So
+
+    applicability of these equations to estimate runoff generated soil
+
+    erosion is questionable. Data used in formation of USLE, RUSLE1
+
+    equations was plot data so its applicability at greater spatial scale
+
+    needs some scale correction factors to be induced. On the other hand
+
+    MUSLE is unsuitable for predicting sediment yield of small and large
+
+    events. Although the new revised forms of USLE like RUSLE 1.06,
+
+    RUSLE1.06c and RUSLE2 were land use independent and they have
+
+    almost cleared all the drawbacks in earlier versions like USLE and
+
+    RUSLE1, they are based on the regional data of specific area and
+
+    their applicability to other areas having different climate, soil, land
+
+    use is questionable. These conventional equations are applicable for
+
+    sheet and rill erosion and unable to predict gully erosion and spatial
+
+    pattern of rills. So the research was focused on development of nonconventional
+
+    (other than conventional) methods of soil erosion
+
+    estimation. When these non-conventional methods are combined with
+
+    GIS and RS, gives spatial distribution of soil erosion. In the present
+
+    paper the review of literature on non- conventional methods of soil
+
+    erosion estimation supported by GIS and RS is presented.'
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion modeling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-03-28'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1058737
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1058736
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ganesh-D.-Kale:
+    individualname: Ganesh D. Kale
+    role: creator
+  Sheela-N.-Vadsola:
+    individualname: Sheela N. Vadsola
+    role: creator
+  Kale-Ganesh-D.:
+    individualname: Kale, Ganesh D.
+    role: ''
+    organization: ''
+    url: ''
+  Vadsola-Sheela-N.:
+    individualname: Vadsola, Sheela N.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1175581
+  dataseturi: https://doi.org/10.5281/zenodo.1175581
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Development Of Analytical Relationships Among Engineering Properties Of Lateritic
+    Soil As Pavement Materials
+  abstract: "Laterite are soil types with the oxides of iron, aluminum, titanium,\
+    \ zircon, manganese, zinc and Quartz, they very significantly according to their\
+    \ location, climate and depth. Its use as pavement material depends on its index\
+    \ and engineering properties which are obtained experimentally in the laboratory\
+    \ or institution. Results on the strength and index properties of laterite as\
+    \ subgrade, sub base and base course material are collected from different geotechnical\
+    \ laboratories indicating the grain size distribution, Atterberg\u2019s limit,\
+    \ Compaction test and the CBR test for the lateritic soil. The obtained equations\
+    \ through the use of SPSS and Least Square regression analysis shows that there\
+    \ exist relations among the engineering properties of laterite with the former\
+    \ producing greater degree of accuracy, more flexibility and higher ease of computation.\
+    \ The application of these statistical tools in determining the engineering properties\
+    \ of lateritic soil will reduce the length of time spent obtaining these properties\
+    \ experimentally; reduction in construction cost and time spent and eliminate\
+    \ errors that are likely to occur during experiments."
+  keywords:
+    default:
+      keywords:
+        subject: Laterite, SPSS, Least-Square Regression.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-02-19'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1175581
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1175580
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Afolayan-Olaniyi-Diran:
+    individualname: Afolayan Olaniyi Diran
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

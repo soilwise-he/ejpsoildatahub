@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1167604
+  dataseturi: https://doi.org/10.5281/zenodo.1167604
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Soil Conditions On The Physiological Indices Of Costus Afer
+    Ker Gawl
+  abstract: The effect of different soil conditions on some physiological indices
+    of Costus afer was studied in two locations (Otuoke and Opolo) in Bayelsa State,
+    Nigeria. The soils physico-chemical properties as well as mineral elements and
+    phytochemical contents in leaf samples were assessed using standard procedure.
+    The descending order of mineral elements in location I were, P &gt; Ca &gt; Mg
+    &gt; K &gt; C &gt; H &gt; AI &gt;Na &gt; N, while that of location 2 were, P &gt;
+    Ca &gt; C &gt; K &gt;Al &gt;H &gt; Mg &gt; Na &gt; N. The contents of calcium,
+    magnesium, sodium, potassium, nitrogen and phosphorus in leaves of C. afer in
+    location I were significantly (P &lt; 0.05) higher than those of location 2, while
+    the iron, zinc and lead contents in leaves of the test plant in location 1 were
+    relatively higher than that of location 2. There were also marked variations in
+    phyto chemical contents in leaves of the test plant between the two locations.
+    This study indicates that soil factors have a considerable influence on the mineral
+    elements and phytochemical contents of Costus afer.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Conditions; Physiological Indices; Costus afer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1167604
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1167603
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Etukudo-Mbosowo-M:
+    individualname: Etukudo Mbosowo M
+    role: creator
+    organization: ''
+    url: ''
+  Simon-Ebinimitei-C:
+    individualname: Simon Ebinimitei C
+    role: creator
+  C-Simon-Ebinimitei:
+    individualname: C, Simon Ebinimitei
+    role: ''
+    organization: Department of Biology, Federal University Otuoke, P.M.B 126, Yenagoa,
+      Bayelsa State, Nigeria
+    url: ''
+content_info: {}

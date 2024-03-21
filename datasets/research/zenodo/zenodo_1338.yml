@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.812270
+  dataseturi: https://doi.org/10.5281/zenodo.812270
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Effect Of Integrated Nutrient Management On Some Soil Properties In Mango
+    Orchard
+  abstract: Mango orchard soils of Uttar Pradesh are generally poor in essential soil
+    nutrients and low fertility had impacted productivity as well as fruit quality.
+    Integrated nutrient management with different organic and inorganic substrates
+    may be a boon to improvement in soil processes and thereby productivity of the
+    orchards. Results from an experiment on integrated nutrient management for mango
+    orchard indicated improvement in soil properties. Improvement in soil organic
+    carbon (SOC) content (0.45%) during four years of experimentation was recorded
+    over the initial level of 0.21%. Soil moisture retention improved with organic
+    mulching. Microbial activity in the form of dehydrogenase activity was also enhanced
+    by integration of organics particularly vermicompost. Positive effect of different
+    nutrient sources on availability of NPK and DTPA-extractable micronutrients were
+    also revealed. This record was migrated from the OpenDepot repository service
+    in June, 2017 before shutting down.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-19'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.812270
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.812269
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kumar-Kailash:
+    individualname: Kumar, Kailash
+    role: creator
+    organization: ''
+    url: ''
+  Adak-Tarun:
+    individualname: Adak, Tarun
+    role: creator
+    organization: ''
+    url: ''
+  Singha-Atul:
+    individualname: Singha, Atul
+    role: creator
+    organization: ''
+    url: ''
+  Shukla-SK:
+    individualname: Shukla, SK
+    role: creator
+    organization: ''
+    url: ''
+  Singh-Vinod-Kumar:
+    individualname: Singh, Vinod Kumar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

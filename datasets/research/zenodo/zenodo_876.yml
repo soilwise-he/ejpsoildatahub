@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sanderson_1911
+  dataseturi: https://doi.org/10.2475/ajs.s4-32.189.169
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The probable influence of the soil on local atmospheric radioactivity
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The probable influence of the soil on local atmospheric radioactivity
+    url: http://dx.doi.org/10.2475/ajs.s4-32.189.169
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sanderson-J.-C.:
+    individualname: Sanderson, J. C.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3463400
+  dataseturi: https://doi.org/10.5281/zenodo.3463400
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Soil liquefaction and induced damage to structures: a case study from the
+    2012 Emilia earthquake.'
+  abstract: "A database of masonry buildings located in a number of municipalities\
+    \ struck by the 2012 Emilia earthquake has been analyzed for this work. Post seismic\
+    \ survey was carried out by the Italian Department of Civil Protection soon after\
+    \ the earthquake. The database included information on building characteristics,\
+    \ level and extent of damage to structural and non-structural components. Additionally,\
+    \ data on ground conditions and the results of in-situ tests (CPT) were collected.\
+    \ The comparative analysis of observed damage has shown evidences of the impact\
+    \ of soil liquefaction on structures. It led to the formation of unusual crack\
+    \ patterns on the structure compared to the typical inertial damage. The correlation\
+    \ between structural damage and soil liquefaction was then investigated with reference\
+    \ to an exemplificative case of study in the hamlet of San Carlo (Sant\u2019Agostino\
+    \ municipality). A simplified procedure for estimating liquefactioninduced building\
+    \ settlement was applied, obtaining an estimated settlement compatible with the\
+    \ observed damage."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    available: '2020-07-19'
+    accepted: '2019-07-19'
+    issued: '2019'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3463400
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3463399
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Caputo-Pietro:
+    individualname: Caputo, Pietro
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Chiaradonna-Anna:
+    individualname: Chiaradonna, Anna
+    role: creator
+    organization: University of Napoli Federico II
+    url: https://orcid.org/0000-0001-6002-7369
+  Di-Ludovico-Marco:
+    individualname: Di Ludovico, Marco
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Bilotta-Emilio:
+    individualname: Bilotta, Emilio
+    role: creator
+    organization: University of Napoli Federico II
+    url: https://orcid.org/0000-0002-3185-2738
+  Prota-Andrea:
+    individualname: Prota, Andrea
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Flora-Alessandro:
+    individualname: Flora, Alessandro
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Martelli-Luca:
+    individualname: Martelli, Luca
+    role: creator
+    organization: Emilia Romagna Region
+    url: ''
+content_info: {}

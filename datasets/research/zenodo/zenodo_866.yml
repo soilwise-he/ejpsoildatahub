@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Anderson_1920
+  dataseturi: https://doi.org/10.1021/ie50127a013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Solid Phases Obtained by the Evaporation of Certain Soil Extracts.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Solid Phases Obtained by the Evaporation of Certain Soil Extracts.
+    url: http://dx.doi.org/10.1021/ie50127a013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anderson-M.-S.:
+    individualname: Anderson, M. S.
+    role: creator
+  Fry-William-H.:
+    individualname: Fry, William H.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

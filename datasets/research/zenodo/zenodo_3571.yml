@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Drosos_2012
+  dataseturi: https://doi.org/10.1016/j.soildyn.2012.06.003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Constitutive model for soil amplification of ground shaking: Parameter calibration,
+    comparisons, validation'
+  abstract: "A phenomenological constitutive model developed by Gerolymos and Gazetas\
+    \ (2005) for the one-dimensional nonlinear ground response analysis of soil deposits\
+    \ is modified, calibrated, and verified in this paper. The small number of parameters\
+    \ renders the model easily implemented, yet powerful, able of efficiently reproducing\
+    \ the nonlinear hysteretic behavior of various soils and simultaneously generating\
+    \ realistic shear modulus reduction and damping ratio curves. Model is calibrated\
+    \ against three sets of widely-used published G-\u03B3 / \u03BE-\u03B3 curves\
+    \ and a library of parameter values is assembled for utilization of the new model\
+    \ to analyze 1-D seismic soil response problems. The model and the explicit finite\u2013\
+    difference code for the integration of the wave equations necessary to obtain\
+    \ the dynamic response of soil deposits are then validated against more sophisticated\
+    \ constitutive models and numerical tools, and experimental data from centrifuge\
+    \ tests. The sufficiently close agreement of calculated results and experimental\
+    \ measurements gives confidence for the use of the proposed model."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Constitutive model for soil amplification of ground shaking: Parameter
+      calibration, comparisons, validation'
+    url: http://dx.doi.org/10.1016/j.soildyn.2012.06.003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Drosos-Vassilis:
+    individualname: Drosos, Vassilis
+    role: creator
+  Gerolymos-Nikolaos:
+    individualname: Gerolymos, Nikolaos
+    role: creator
+  Gazetas-George:
+    individualname: Gazetas, George
+    role: creator
+  Drosos-Vasileios-A.:
+    individualname: Drosos, Vasileios A.
+    role: creator
+  Gerolymos-Nikos:
+    individualname: Gerolymos, Nikos
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

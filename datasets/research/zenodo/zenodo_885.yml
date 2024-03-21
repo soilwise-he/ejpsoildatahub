@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ibrahim_2021
+  dataseturi: https://doi.org/10.3390/rs13214195
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Sentinel-2 Recognition of Uncovered and Plastic Covered Agricultural Soil
+  abstract: '&lt;p&gt;Medium resolution satellite data, such as Sentinel-2 of the
+    Copernicus programme, offer&lt;br&gt;
+
+    great new opportunities for the agricultural sector, and provide insights on soil
+    surface characteristics&lt;br&gt;
+
+    and their management. Soil monitoring requires a high-quality dataset of uncovered
+    and plastic&lt;br&gt;
+
+    covered agricultural soil. We developed a methodology to identify uncovered soil
+    pixels in agricultural&lt;br&gt;
+
+    parcels during seedbed preparation and considered the impacts of clouds and shadows,&lt;br&gt;
+
+    vegetation cover, and artificial covers, such as those of greenhouses and plastic
+    mulch films. We&lt;br&gt;
+
+    preserved the spatial and temporal integrity of parcels in the process and analysed
+    spectral anomalies&lt;br&gt;
+
+    and their sources. The approach is based on freely available tools, namely Google
+    Earth Engine&lt;br&gt;
+
+    and R Programming packages. We tested the methodology on the northern region of
+    Belgium,&lt;br&gt;
+
+    which is characterised by small, fragmented parcels. We selected a period between
+    mid-April to&lt;br&gt;
+
+    end-May, when active agricultural management practices leave the soil bare in
+    preparation for the&lt;br&gt;
+
+    main cropping season. The spectral angle mapper was used to identify soil covered
+    by non-plastic&lt;br&gt;
+
+    greenhouses or temporary soil covers, such as plastic mulch films. The effect
+    of underlying soil on&lt;br&gt;
+
+    temporary covers was considered. The retrogressive plastic greenhouse index was
+    used for detecting&lt;br&gt;
+
+    plastic greenhouses. The result was a high quality dataset of potential bare uncovered
+    agricultural&lt;br&gt;
+
+    soil that allows further soil surface characterisation. This offered an improved
+    understanding of the&lt;br&gt;
+
+    use of artificial covers, their spatial distribution, and their corresponding
+    crops during the considered&lt;br&gt;
+
+    period. Artificial covers occurred most frequently in maize parcels. The approach
+    resulted in&lt;br&gt;
+
+    precision values exceeding 0.9 for the detection of temporary covers and non-plastic
+    greenhouses&lt;br&gt;
+
+    and a sensitivity value exceeding 0.95 for non-plastic and plastic greenhouses.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil
+      - agriculture
+      - Sentinel-2
+      - artificial cover
+      - plastic mulch
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Sentinel-2 Recognition of Uncovered and Plastic Covered Agricultural Soil
+    url: http://dx.doi.org/10.3390/rs13214195
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ibrahim-E.:
+    individualname: Ibrahim, E.
+    role: creator
+  Gobin-A.:
+    individualname: Gobin, A.
+    role: creator
+  Ibrahim-Elsy:
+    individualname: Ibrahim, Elsy
+    role: creator
+  Gobin-Anne:
+    individualname: Gobin, Anne
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

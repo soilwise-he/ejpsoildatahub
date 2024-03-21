@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4421291
+  dataseturi: https://doi.org/10.5281/zenodo.4421291
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Morpho-anatomical characteristics and antimicrobial activity of crude extract
+    of Tephrosia villosa (L.) Pers. growing on sandy soil of Phan Thiet City, Binh
+    Thuan Province, Vietnam
+  abstract: "<em>Tephrosia villosa</em> (L.) Pers. is an herb species distributed\
+    \ mainly in arid sandy lands of the South Central Coast of Vietnam, including\
+    \ Binh Thuan province. The existing Vietnamese folk remedies have mentioned the\
+    \ medicinal effects of this herb in the treatment of edema and diabetes. Documents\
+    \ available in Vietnam provided only basic information on the morphology of this\
+    \ species. Therefore, this study aimed to investigate the morphological and anatomical\
+    \ characteristics of stems, leaves and roots of the plants in the analysis of\
+    \ relation to climatic conditions of the region. Antibacterial activity was initially\
+    \ studied as a basis for subsequent pharmacological studies. The crude ethanolic\
+    \ extracts were tested for inhibitory against <em>Pseudomonas aeruginosa</em>\
+    \ and <em>Staphylococcus aureus</em> by agar well diffusion method. The results\
+    \ showed that the plants had formed the morpho-anatomical characteristics to adapt\
+    \ to strong wind, strong light, high temperature, and dry sandy soils of the region.\
+    \ The ability to inhibit the two mentioned bacteria via the diameters of the halo\
+    \ was 10.8 \u2013 12.7 mm, respectively. The recommendation was to continue to\
+    \ study the anatomical characteristics of the primary roots to complete the data\
+    \ and further investigate the antibacterial and antifungal activities of extracts\
+    \ of <em>Tephrosia villosa</em>."
+  keywords:
+    default:
+      keywords:
+        subject: Agar well diffusion; Binh Thuan province; Ethanolic extract; Morpho-anatomical
+          characteristics; Tephrosia villosa
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4421291
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4421290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pham-Thi-Nga:
+    individualname: Pham Thi Nga
+    role: creator
+    organization: Faculty of Biology, HCMC University of Education, 280 An Duong Vuong
+      Street, Ward 4, District 5, Ho Chi Minh City.
+    url: ''
+  Nguyen-Thi-Anh-Linh:
+    individualname: Nguyen Thi Anh Linh
+    role: creator
+    organization: Faculty of Biology, HCMC University of Education, 280 An Duong Vuong
+      Street, Ward 4, District 5, Ho Chi Minh City.
+    url: ''
+  Pham-Van-Ngot:
+    individualname: Pham Van Ngot
+    role: creator
+    organization: Faculty of Biology, HCMC University of Education, 280 An Duong Vuong
+      Street, Ward 4, District 5, Ho Chi Minh City.
+    url: ''
+  Dang-Thi-Ngoc-Thanh:
+    individualname: Dang Thi Ngoc Thanh
+    role: creator
+  Thanh-Dang-Thi-Ngoc:
+    individualname: Thanh, Dang Thi Ngoc
+    role: ''
+    organization: Faculty of Natural Science Pedagogy, Sai Gon University, 273 An
+      Duong Vuong Street, Ward 3, District 5, Ho Chi Minh City, Vietnam
+    url: ''
+content_info: {}

@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Galloza_2013
+  dataseturi: https://doi.org/10.1109/igarss.2013.6723523
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Application of remote sensing observations as APEX model input for estimating
+    soil erosion
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Application of remote sensing observations as APEX model input for estimating
+      soil erosion
+    url: http://dx.doi.org/10.1109/igarss.2013.6723523
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Galloza-M.-S.:
+    individualname: Galloza, M. S.
+    role: creator
+  Engel-B.:
+    individualname: Engel, B.
+    role: creator
+  Crawford-M.:
+    individualname: Crawford, M.
+    role: creator
+  Heathman-G.:
+    individualname: Heathman, G.
+    role: creator
+  Williams-J.-R.:
+    individualname: Williams, J. R.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

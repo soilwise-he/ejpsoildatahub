@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1076756
+  dataseturi: https://doi.org/10.5281/zenodo.1076756
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Development Of A Neural Network Based Algorithm For Multi-Scale Roughness
+    Parameters And Soil Moisture Retrieval
+  abstract: 'The overall objective of this paper is to retrieve soil
+
+    surfaces parameters namely, roughness and soil moisture related to
+
+    the dielectric constant by inverting the radar backscattered signal
+
+    from natural soil surfaces.
+
+    Because the classical description of roughness using statistical
+
+    parameters like the correlation length doesn''t lead to satisfactory
+
+    results to predict radar backscattering, we used a multi-scale
+
+    roughness description using the wavelet transform and the Mallat
+
+    algorithm. In this description, the surface is considered as a
+
+    superposition of a finite number of one-dimensional Gaussian
+
+    processes each having a spatial scale. A second step in this study
+
+    consisted in adapting a direct model simulating radar backscattering
+
+    namely the small perturbation model to this multi-scale surface
+
+    description. We investigated the impact of this description on radar
+
+    backscattering through a sensitivity analysis of backscattering
+
+    coefficient to the multi-scale roughness parameters.
+
+    To perform the inversion of the small perturbation multi-scale
+
+    scattering model (MLS SPM) we used a multi-layer neural network
+
+    architecture trained by backpropagation learning rule. The inversion
+
+    leads to satisfactory results with a relative uncertainty of 8%.'
+  keywords:
+    default:
+      keywords:
+        subject: Neural networks and Fractals.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2008-05-23'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1076756
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1076755
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  L.-Bennaceur-Farah:
+    individualname: L. Bennaceur Farah
+    role: creator
+    organization: ''
+    url: ''
+  I.-R.-Farah:
+    individualname: I. R. Farah
+    role: creator
+    organization: ''
+    url: ''
+  R.-Bennaceur:
+    individualname: R. Bennaceur
+    role: creator
+    organization: ''
+    url: ''
+  Z.-Belhadj:
+    individualname: Z. Belhadj
+    role: creator
+    organization: ''
+    url: ''
+  M.-R.-Boussema:
+    individualname: M. R. Boussema
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

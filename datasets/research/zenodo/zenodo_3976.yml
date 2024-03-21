@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1087712
+  dataseturi: https://doi.org/10.5281/zenodo.1087712
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Omf Application Rates On Post Field Soil Fertility Status Under
+    Pawpaw (Carica Papaya L.) Varieties
+  abstract: "Field study was conducted to determine the post field soil fertility\
+    \ status responses of pawpaw (<em>Carica papaya </em>L.) var. homestead selection\
+    \ and sunrise-solo orchards to organo-mineral fertilizer (OMF) rates applied at\
+    \ 10, 20 40 t/ha where both the zero t/ha OMF and NPK 15:15:15 at 50 g/plant/month\
+    \ served as control. The result showed that all pawpaw orchards treated with OMF\
+    \ rates recorded significantly (p\u22640.01) higher % P, % K, Na and % organic\
+    \ matter in soil compared to applied NPK which recorded lower Na. However, while\
+    \ orchards plated with sole pawpaw were higher in soil bulk density (SBD), orchards\
+    \ with homestead mixture were lower in SBD and significantly lower % organic matter\
+    \ compared to obtainable under sunrise crop mixture which recorded lower Na and\
+    \ Mg. In conclusion, as a result of loosening effect on soil particles, the homestead\
+    \ pawpaw probably due to more rooting activities as well as the addition of organic\
+    \ fertilizer to soils both had significant influence leading to lower SBD."
+  keywords:
+    default:
+      keywords:
+        subject: soil fertility status.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-09-29'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1087712
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1087711
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O.-O.-Olubode:
+    individualname: O. O. Olubode
+    role: creator
+    organization: ''
+    url: ''
+  I.-O.-O.-Aiyelaagbe:
+    individualname: I. O. O. Aiyelaagbe
+    role: creator
+    organization: ''
+    url: ''
+  J.-G.-Bodunde:
+    individualname: J. G. Bodunde
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

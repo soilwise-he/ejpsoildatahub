@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Crehore_1879
+  dataseturi: https://doi.org/10.1056/nejm187909111011120
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Flushing of Soil-Pipes and Traps
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Flushing of Soil-Pipes and Traps
+    url: http://dx.doi.org/10.1056/nejm187909111011120
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Crehore-C.-F.:
+    individualname: Crehore, C. F.
+    role: creator
+  Massachusetts-Medical-Society:
+    individualname: Massachusetts Medical Society
+    role: creator
+content_info: {}

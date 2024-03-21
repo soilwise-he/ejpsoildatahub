@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Moallemi_Mahboubi_Bakhtiari_Rezaiy_Manalo_2020
+  dataseturi: https://doi.org/10.22034/jcema.2020.105455
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seismic Performance of Concrete Reservoirs Considering Soil-Structure-Fluid
+    Interaction under Near- and Far-Field Seismic Excitations
+  abstract: '&lt;p&gt;The vulnerability of fluid reservoirs in recent earthquakes
+    and locating of Iran in the Alpine-Himalayan seismic belt and the frequent occurrence
+    of destructive earthquakes, as well as the existence of various faults in our
+    country, results in the safe design and analysis of these structures. Seismic
+    excitations in the near range of the fault have different properties compared
+    to the far fault seismic excitations, such as high-frequency content, long periodic
+    pulses in speed-time history, etc. in the near-fault seismic excitations. Therefore,
+    in the present study, the seismic performance of concrete reservoirs was evaluated
+    by considering soil-structure-fluid interaction under near- and far-fault earthquakes.
+    For this purpose, the finite element method was used for numerical simulation
+    by Abacus software. The nonlinear behavior of the bed and the concrete were modeled
+    with the behavioral models of Mohr-Coulomb and damaged plastic concrete, respectively.
+    The Euler&ndash;Lagrange element was used to introduce the hydrodynamic pressure
+    of the reservoir fluid and infinite element was used to prevent reflection of
+    seismic waves and earthquake energy loss in the boundary around the bed. After
+    analyzing the boundary distance sensitivity and dimensional analysis of the elements
+    while validating the simulation of parametric studies, the present study was conducted
+    for variables such as earthquake frequency contents, field earthquake, reservoir
+    geometry, and different bed hardness and practical results were presented by comparing
+    the results.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Concrete reservoir
+      - Seismic excitations
+      - Far-field
+      - Near-field
+      - Modeling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seismic Performance of Concrete Reservoirs Considering Soil-Structure-Fluid
+      Interaction under Near- and Far-Field Seismic Excitations
+    url: https://doi.org/10.22034/jcema.2020.105455
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reza-Moallemi:
+    individualname: Reza Moallemi
+    role: creator
+  Behnam-Mahboubi:
+    individualname: Behnam Mahboubi
+    role: creator
+  Parham-Bakhtiari:
+    individualname: Parham Bakhtiari
+    role: creator
+  Reza-Rezaiy:
+    individualname: Reza Rezaiy
+    role: creator
+  Olafurd-Manalo:
+    individualname: Olafurd Manalo
+    role: creator
+  Moallemi-Reza:
+    individualname: Moallemi, Reza
+    role: creator
+  Mahboubi-Behnam:
+    individualname: Mahboubi, Behnam
+    role: creator
+  Bakhtiari-Parham:
+    individualname: Bakhtiari, Parham
+    role: creator
+  Rezaiy-Reza:
+    individualname: Rezaiy, Reza
+    role: creator
+  Manalo-Olafurd:
+    individualname: Manalo, Olafurd
+    role: creator
+  PenPub:
+    individualname: PenPub
+    role: creator
+content_info: {}

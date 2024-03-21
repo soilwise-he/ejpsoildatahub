@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6469922
+  dataseturi: https://doi.org/10.5281/zenodo.6469922
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Electrometric Titrations of Fulvic Acids from Soil Humus
+  abstract: Fulvic acids isolated from four different soils were subjected to electrometric
+    titrations, both conductometric and potentiometric, with caustic soda in presence
+    and absence of sodium chloride. Baryta alone was also used for titration. On the
+    basis of the breaks and inflexions in the titration curves the functional groups
+    of the fulvic acids could be estimated. The fulvic acids from Palampur, Dehra
+    Dun, and Jodhpur differed from that from Chinsura in having two breaks in the
+    conductometric titration curves instead of three in the latter. The potentiometric
+    titrations did not show significant variations. The titration curves of fulvic
+    acids were compared with those of succinic, phthalic and salicylic acids as model
+    substances. The base exchange capacities calculated from titrations with caustic
+    soda, as also baryta varied from 690 to 1300 m.e./100 g for the different fulvic
+    acids.
+  keywords:
+    default:
+      keywords:
+        subject: Fulvic Acids
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1968-07-31'
+    publication: '1968'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6469922
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6469921
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chhabi-Datta:
+    individualname: Chhabi Datta
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-Mukherjee:
+    individualname: S. K. Mukherjee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

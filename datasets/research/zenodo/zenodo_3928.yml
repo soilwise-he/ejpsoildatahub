@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10498164
+  dataseturi: https://doi.org/10.5281/zenodo.10498164
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Study of Soil Vulnerability to Water Erosion in the Kissane Watershed by
+    the Improved Bouyoucos Method
+  abstract: "Abstract Water erosion is one of the major environmental and agricultural\
+    \ problems affecting the Thi\xE8s plateau and more particularly the village of\
+    \ Kissane. The study of this phenomenon requires the understanding and characterization\
+    \ of the textural and structural components of the soil. Knowing that the relative\
+    \ combination of sand, silt and clay in a soil is considered to have an impact\
+    \ on erosion resistance, this present study relates the composition of the soil\
+    \ to a risk assessment index erosion \"EIROM\". Thus, the objectives set are first\
+    \ of all to determine the erosion risk assessment index, then to classify the\
+    \ degree of soil erodibility and finally to produce a vulnerability map of the\
+    \ soil erosion risks in Kissane watershed. To do this, a field campaign was carried\
+    \ to take soils samples from different horizons followed by treatment in the laboratory.\n\
+    \nBqsed on the Bouyoucos index results, we calculated the EIROM risk assessment\
+    \ index for each soil sample taken in the study area. After a classification of\
+    \ the degree of erodibility according to the 'ROM' scale, we identified three\
+    \ (3) classes of vulnerability to water erosion: low risk areas (53.4%), moderate\
+    \ risk areas (44.9%) and very high risk areas (1.7%). These results made it possible\
+    \ to draw up an erosion risk assessment map to guide the various possible soil\
+    \ conservation intervention actions."
+  keywords:
+    default:
+      keywords:
+        subject: Water erosion - Kissane - Bouyoucos index - EIROM index - Erodibility
+          - Vulnerability
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-01-31'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10498164
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10498163
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mamadou-Lamine-LO:
+    individualname: Mamadou Lamine LO
+    role: creator
+    organization: "Laboratoire des Sciences et Technologies de l'Eau et de l'Environnement\
+      \ (LASTEE) Ecole Polytechnique de Thi\xE8s (EPT) BP A10, Thi\xE8s-S\xE9n\xE9\
+      gal"
+    url: ''
+  Mouhamadou-Masseck-FALL:
+    individualname: Mouhamadou Masseck FALL
+    role: creator
+    organization: "Laboratoire des Sciences et Technologies de l'Eau et de l'Environnement\
+      \ (LASTEE) Ecole Polytechnique de Thi\xE8s (EPT) BP A10, Thi\xE8s-S\xE9n\xE9\
+      gal."
+    url: ''
+  Ababacar-FALL:
+    individualname: Ababacar FALL
+    role: creator
+    organization: "Laboratoire des Sciences et Technologies de l'Eau et de l'Environnement\
+      \ (LASTEE) Ecole Polytechnique de Thi\xE8s (EPT) BP A10, Thi\xE8s-S\xE9n\xE9\
+      gal."
+    url: ''
+  Ibrahima-DIAO:
+    individualname: Ibrahima DIAO
+    role: creator
+    organization: "Laboratoire des Sciences et Technologies de l'Eau et de l'Environnement\
+      \ (LASTEE) Ecole Polytechnique de Thi\xE8s (EPT) BP A10, Thi\xE8s-S\xE9n\xE9\
+      gal."
+    url: ''
+content_info: {}

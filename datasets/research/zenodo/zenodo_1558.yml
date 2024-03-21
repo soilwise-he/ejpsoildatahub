@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3591053
+  dataseturi: https://doi.org/10.5281/zenodo.3591053
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: To Study the Effect of Use of Geosynthetics Fibres in Sub grade Soil
+  abstract: 'Reinforcements and separation are the two functions of Geosynthetics
+    in which pavement system is used in geogrids. The apertures are used in the products
+    of geogrids.These products are mostly in large size and due to this,they are not
+    used for getting separation of different materials. Gradation has main function
+    to separate two different materials. Still, in theoretically geogrids can also
+    give some separation mathods, but in a limited amount. In pavements, geogrids
+    used separation method which is a secondary function or we can say it is use for
+    some sepration of different materials and in reinforcement, geogrids used the
+    primary function in pavements and geogrid used to improve the mechanically properties
+    of engineering like M25 Grade Concrete. The reinforcement mechanisms associated
+    withgeogrids. Er. Kapil Soni | Er. Sunil Kumar | Er. Vikram "To Study the Effect
+    of Use of Geosynthetics Fibres in Sub grade Soil" Published in International Journal
+    of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470, Volume-3
+    | Issue-5 , August 2019, URL: https://www.ijtsrd.com/papers/ijtsrd26479.pdf'
+  keywords:
+    default:
+      keywords:
+        subject: 'FOS: Civil engineering'
+        schemeUri: http://www.oecd.org/science/inno/38235147.pdf
+        subjectScheme: Fields of Science and Technology (FOS)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-12'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3591053
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3591052
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Er.-Kapil-Soni:
+    individualname: Er. Kapil Soni
+    role: creator
+    organization: ''
+    url: ''
+  Er.-Sunil-Kumar:
+    individualname: Er. Sunil Kumar
+    role: creator
+    organization: ''
+    url: ''
+  Er.-Vikram:
+    individualname: Er. Vikram
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

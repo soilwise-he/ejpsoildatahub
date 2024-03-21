@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1293337
+  dataseturi: https://doi.org/10.5281/zenodo.1293337
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Investigation On Groundwater, Soil And Vegetation Quality With Special Reference
+    To Heavy Metals Around Vrishabhavathi Valley, Bangalore
+  abstract: 'In this study an investigation on groundwater, soil and vegetation quality
+    with special reference to heavy metal around Vrishabhavathi valley, Bangalore
+    was done. Total 35 number of groundwater samples are taken from the Vrishabhavathi
+    valley at Kengeri, Bangalore, and studied for physicochemical parameters, heavy
+    metals like copper, chromium, nickel. 8 numbers of soil samples are taken analyzed
+    for heavy metals (Cu, Cr, Ni) by mehlich-1 extraction method, vegetation samples
+    (Fenugreek leafs, Amaranthus leafs, Mint leafs, Spinach leafs, Radish) which are
+    grown in the Vrishabhavathi wastewater are analyzed for heavy metals by using
+    AAS (Atomic Absorption Spectrophotometer) at Environmental Engineering Laboratory,
+    BMSCE, Bangalore. Concentrations obtained for each of the samples were compared
+    with the BIS is: 10500, 2012 for drinking water quality standard limits. All the
+    concentrations of above analyzed samples like physicochemical parameters i.e.
+    TDS, Conductivity, pH, Alkalinity, Calcium, Magnesium, Chloride, Nitrate, Hardness,
+    and heavy metals i.e. Copper, Nickel, Chromium, are represented spatially  by
+    using the specialized software called GIS (Geographic Information System) which
+    represents the concentrations of each of the parameters spatially with respect
+    to their sampling locations.'
+  keywords:
+    default:
+      keywords:
+        subject: Heavy metals, Distribution, Migration, Vegetation, Groundwater, Soil.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-06-20'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1293337
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1293336
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vinay-N-V*-C-R-Ramakrishnaiah:
+    individualname: Vinay N V*, C R Ramakrishnaiah
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

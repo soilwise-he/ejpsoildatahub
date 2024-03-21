@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216717
+  dataseturi: https://doi.org/10.5281/zenodo.7216717
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Alteration potential of Propylene microplastic on soil toxicity: impact
+    of organic matter and aging of microplastics'
+  abstract: 'Plastics occupy a large place in our daily life products and have also
+    brought various environmental problems with their widespread use. Polypropylene
+    (PP) is the dominant plastics that is used in the products. Cadmium and nickel
+    occur in agricultural lands like microplastics and pose risk. The application
+    of biosolids as organic fertilizers can lead to microplastics and heavy metals
+    reaching agricultural lands. While microplastics are toxic on their own, due to
+    their small size, high surface area, and hydrophobicity; they become more toxic
+    to the environment as they are combined with metals that contribute to the bioaccessibility
+    of the heavy metal. Also, aging causes the modification of surface characteristics
+    and results a change in physicochemical properties and ecotoxicological effect
+    of microplastics. This is the first study examining the ecotoxic effects of Cd
+    and Ni metals on E. crypticus in the presence of PP microplastic, UV-aged PP microplastic,
+    and biosolid application. The results show that the presence of aged PP microplastics
+    in Ni EC50 is found 52 mg/L, and reproductive toxicity is found 75 mg/L of virgin
+    PP and Ni together. Also, the combined toxicity of virgin PP + Cd is 139 mg/L
+    and EC50 value of aged PP+Cd is found 122 mg/L. Also, it is proven that biosolid
+    addition decreases toxicity for Cd and Ni sets together with PP microplastic.
+    It has been suggested that the size of the microplastics may be appropriate for
+    ingestion by the organism that increased toxicity with aged PP MPs and heavy metals
+    together. The surface area of microplastic increases with aging, and this rough
+    surface area also contributes to the increase in the adsorption capacity. The
+    results of this study can support the rewarding strategies to accelerate the studies
+    to understand possible ecotoxic effects of aged MPs with heavy metals in different
+    ecosystems. Also see: https://micro2022.sciencesconf.org/426990/document'
+  keywords:
+    default:
+      keywords:
+        subject: soil ecotoxicology
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216717
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216716
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ozturk-Irem:
+    individualname: Ozturk, Irem
+    role: creator
+    organization: ''
+    url: ''
+  Ulutug-Fatma-Cansu:
+    individualname: "Ulutu\u011F Fatma, Cansu"
+    role: creator
+    organization: ''
+    url: ''
+  Topuz-Emel:
+    individualname: Topuz, Emel
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

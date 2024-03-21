@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1130743
+  dataseturi: https://doi.org/10.5281/zenodo.1130743
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Characterization And Optimization Of Culture Conditions For Sulphur Oxidizing
+    Bacteria After Isolation From Rhizospheric Mustard Soil, Decomposing Sites And
+    Pit House
+  abstract: Sulphur oxidizing bacteria (SOB) have marked their significant role in
+    perspectives of maintaining healthy environment as researchers from all over the
+    world tested and apply these in waste water treatment plants, bioleaching of heavy
+    metals, deterioration of bridge structures, concrete and for bioremediation purposes,
+    etc. Also, these SOB are well adapted in all kinds of environment ranging from
+    normal soil, water habitats to extreme natural sources like geothermal areas,
+    volcanic eruptions, black shale and acid rock drainage (ARD). SOB have been isolated
+    from low pH environment of anthropogenic origin like acid mine drainage (AMD)
+    and bioleaching heaps, hence these can work efficiently in different environmental
+    conditions. Besides having many applications in field of environment science,
+    they may be proven to be very beneficial in area of agriculture as sulphur is
+    the fourth major macronutrients required for the growth of plants. More amount
+    of sulphur is needed by pulses and oilseed crops with respect to the cereal grains.
+    Due to continuous use of land for overproduction of more demanding sulphur utilizing
+    crops and without application of sulphur fertilizers, its concentration is decreasing
+    day by day, and thus, sulphur deficiency is becoming a great problem as it affects
+    the crop productivity and quality. Sulphur is generally found in soils in many
+    forms which are unavailable for plants (cannot be use by plants) like elemental
+    sulphur, thiosulphate which can be taken up by bacteria and converted into simpler
+    forms usable by plants by undergoing a series of transformations. So, keeping
+    the importance of sulphur in view for various soil types, oilseed crops and role
+    of microorganisms in making them available to plants, we made an effort to isolate,
+    optimize, and characterize SOB. Three potential strains of bacteria were isolated,
+    namely SSF7, SSA21, and SSS6, showing sulphate production of concentration, i.e.
+    2.268, 3.102, and 2.785 mM, respectively. Also, these were optimized for various
+    culture conditions like carbon, nitrogen source, pH, temperature, and incubation
+    time, and characterization was also done.
+  keywords:
+    default:
+      keywords:
+        subject: sulphate production.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1130743
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1130742
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Suman-Chaudhary:
+    individualname: Suman Chaudhary
+    role: creator
+  Rinku-Dhanker:
+    individualname: Rinku Dhanker
+    role: creator
+    organization: ''
+    url: ''
+  Tanvi:
+    individualname: Tanvi
+    role: creator
+    organization: ''
+    url: ''
+  Sneh-Goyal:
+    individualname: Sneh Goyal
+    role: creator
+  Chaudhary-Suman:
+    individualname: Chaudhary, Suman
+    role: ''
+    organization: ''
+    url: ''
+  Goyal-Sneh:
+    individualname: Goyal, Sneh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

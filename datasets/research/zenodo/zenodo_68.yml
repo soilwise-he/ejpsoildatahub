@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hamsun_1921
+  dataseturi: https://doi.org/10.1097/00005053-192111000-00052
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Growth of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Growth of the Soil
+    url: http://dx.doi.org/10.1097/00005053-192111000-00052
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hamsun-Knut-1859-1952:
+    individualname: Hamsun, Knut 1859-1952
+    role: creator
+  Hamsun-Knut:
+    individualname: Hamsun, Knut
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

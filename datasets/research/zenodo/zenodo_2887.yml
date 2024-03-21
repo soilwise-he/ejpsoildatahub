@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10675767
+  dataseturi: https://doi.org/10.5281/zenodo.10675767
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Degradation of organic pollutants combining plasma discharges generated
+    within soil with TiO2 and ZnO catalysts: Comparative analysis, optimization and
+    mechanisms'
+  abstract: "An advantageous plasma-catalytic setup was developed and applied towards\
+    \ the degradation of trifluralin in soil. For the first time, TiO2\_and ZnO catalysts\
+    \ were compared when employed in conjunction with micro-discharges generated directly\
+    \ into the interconnected soil channels. In the presence of catalysts, a significant\
+    \ increase in degradation efficiency was observed; after 5\_min, trifluralin degradation\
+    \ increased from 66.5% (plasma alone) to 94.2% and 93% with the addition of TiO2\_\
+    and ZnO, respectively. In terms of degradation kinetics, TiO2\_was a slightly\
+    \ superior catalyst compared to ZnO whereas both catalysts performed better under\
+    \ oxygen than in air atmosphere. Compared to plasma alone, the plasma-catalytic\
+    \ treatment considerably increased (\u223C3fold) the process energy efficiency.\
+    \ Moreover, the inhibitory effect of soil moisture was less pronounced during\
+    \ TiO2\_plasma-catalysis where a reduction of\_\u223C19% in pollutant degradation\
+    \ was observed at 5\_wt% soil moisture compared to a\_\u223C54% reduction during\
+    \ plasma alone. The addition of TiO2\_and ZnO resulted in a significant increase\
+    \ in NO2\_concentration and a noticeable reduction in O3 generation associated\
+    \ with an increase of certain plasma species concentration and the generation\
+    \ of additional and more active ROS, respectively. Liquid chromatography (UPLC/MS)\
+    \ data at the early stages of the trifluralin degradation revealed similar intermediates\
+    \ and degradation processes between plasma-alone and plasma-catalysis. The present\
+    \ effort supports the potential of future implementation of a plasma-catalytic\
+    \ soil remediation method being a rapid, highly efficient, low energy demanding\
+    \ and green method."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-01'
+    publication: '2023'
+  rights: cc-by-nc-nd-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10675767
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.seppur.2023.124119
+    type: WWW:LINK
+    title: IsVersionOf
+  r1:
+    url: https://doi.org/10.5281/zenodo.10675766
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Elsevier:
+    individualname: Elsevier
+    role: creator
+  Hatzisymeon-M.:
+    individualname: Hatzisymeon, M.
+    role: creator
+    organization: ''
+    url: ''
+  Daletou-M.K.:
+    individualname: Daletou, M.K.
+    role: creator
+    organization: ''
+    url: ''
+  Rassias-G.:
+    individualname: Rassias, G.
+    role: creator
+    organization: ''
+    url: ''
+  Aggelopoulos-Christos:
+    individualname: Aggelopoulos, Christos
+    role: ContactPerson
+    organization: ''
+    url: 0000-0002-3112-3420
+content_info: {}

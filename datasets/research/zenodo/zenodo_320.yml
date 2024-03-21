@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6678120
+  dataseturi: https://doi.org/10.5281/zenodo.6678120
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECT OF SIDERATES ON SOIL AGROCHEMICAL PROPERTIES
+  abstract: <em>The article describes the influence of green manure of agricultural
+    crops on the amount of humus and mobile nutrients in the soil under the conditions
+    of typical gray soils of the Samarkand region. According to the results obtained,
+    the use of green peas and amaranth plants as green manures on typical irrigated
+    gray soils has a positive effect on the amount of humus and mobile nutrients in
+    the soil and increases their amount.</em>
+  keywords:
+    default:
+      keywords:
+        subject: siderat, amaranth, blue peas, cotton, good luck variety, ammonium
+          nitrogen, nitrate nitrogen, humus, mobile phosphorus.
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2022-06-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6678120
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6678119
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Egamberdiev-Sherdor-Kamilovich-Nematov-Khurshid-Mamadullaevich-Tokh'irov-Alpomish-Odilboi-ug'li:
+    individualname: "\u042D\u0433\u0430\u043C\u0431\u0435\u0440\u0434\u0438\u0435\u0432\
+      \ \u0428\u0435\u0440\u0434\u043E\u0440 \u041A\u0430\u043C\u0438\u043B\u043E\u0432\
+      \u0438\u0447, \u041D\u0435\u043C\u0430\u0442\u043E\u0432 \u0425\u0443\u0440\u0448\
+      \u0438\u0434 \u041C\u0430\u043C\u0430\u0434\u0443\u043B\u043B\u0430\u0435\u0432\
+      \u0438\u0447, ,\u0422\u043E\u04B3\u0438\u0440\u043E\u0432 \u0410\u043B\u043F\
+      \u043E\u043C\u0438\u0448 \u041E\u0434\u0438\u043B\u0431\u043E\u0439 \u045E\u0493\
+      \u043B\u0438"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

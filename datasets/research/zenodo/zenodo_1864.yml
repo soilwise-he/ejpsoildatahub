@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5899696
+  dataseturi: https://doi.org/10.5281/zenodo.5899696
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Understanding the mineralogy and geochemistry of Chang'E-5 soil and implications
+    for its geological significances
+  abstract: <strong>Here we present the mineralogical and chemical data sources of
+    Apollo, Luna, and Chang'E-5 (CE-5) missions. All the data are complied from previous
+    studies. More reference details can be found in each excel files.</strong> <strong>Table
+    S1 Modal mineralogy of Apollo and CE-5 soils</strong> <strong>Table S2 Bulk chemical
+    data of lunar soils from Apollo, Luna, and CE-5 missions</strong> <strong>Table
+    S3 Bulk siderophile elements concentration data of lunar soils from Apollo, Luna,
+    and CE-5 missions</strong> <strong>Table S4 Estimated bulk chemical compositions
+    of CE-5 mare basalt clasts</strong>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    available: '2022-06-30'
+    accepted: '2022-01-25'
+    issued: '2022'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5899696
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5899695
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fu-Xiaohui:
+    individualname: Fu, Xiaohui
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-8818-7345
+  Yin-Chengxiang:
+    individualname: Yin, Chengxiang
+    role: creator
+    organization: ''
+    url: ''
+  Jolliff-Bradley-L.:
+    individualname: Jolliff, Bradley L.
+    role: creator
+    organization: ''
+    url: ''
+  Zhang-Jiang:
+    individualname: Zhang, Jiang
+    role: creator
+    organization: ''
+    url: ''
+  Chen-Jian:
+    individualname: Chen, Jian
+    role: creator
+    organization: ''
+    url: ''
+  Ling-Zongcheng:
+    individualname: Ling, Zongcheng
+    role: creator
+    organization: ''
+    url: ''
+  Zhang-Feng:
+    individualname: Zhang, Feng
+    role: creator
+    organization: ''
+    url: ''
+  Liu-Yang:
+    individualname: Liu, Yang
+    role: creator
+    organization: ''
+    url: ''
+  Zou-Yongliao:
+    individualname: Zou, Yongliao
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

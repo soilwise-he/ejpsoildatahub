@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10400856
+  dataseturi: https://doi.org/10.5281/zenodo.10400856
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Elevated CO2 concentration alleviates the negative effect of vapor pressure
+    deficit and soil drought on juvenile poplar growth
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10400856
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10400855
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Orsag-Matej:
+    individualname: "Ors\xE1g, Mat\u011Bj"
+    role: creator
+    organization: Czech Academy of Sciences, Global Change Research Institute
+    url: 0000-0003-4289-5933
+  Berhongaray-Gonzalo:
+    individualname: Berhongaray, Gonzalo
+    role: creator
+    organization: "ICiAgro Litoral (UNL-CONICET), Facultad de Ciencias Agrarias \u2013\
+      \ Universidad Nacional del Litoral"
+    url: 0000-0002-3662-8583
+  Fischer-Milan:
+    individualname: Fischer, Milan
+    role: creator
+    organization: Czech Academy of Sciences, Global Change Research Institute
+    url: 0000-0002-7841-9317
+  Klem-Karel:
+    individualname: Klem, Karel
+    role: creator
+    organization: Czech Academy of Sciences, Global Change Research Institute
+    url: 0000-0002-6105-0429
+  Ceulemans-Reinhart:
+    individualname: Ceulemans, Reinhart
+    role: creator
+    organization: University of Antwerp
+    url: ''
+  King-S.-John:
+    individualname: King, S., John
+    role: creator
+    organization: North Carolina State University
+    url: ''
+  Hlavacova-Marcela:
+    individualname: "Hlav\xE1\u010Dov\xE1, Marcela"
+    role: creator
+    organization: Czech Academy of Sciences, Global Change Research Institute
+    url: 0000-0003-3585-8499
+  Trnka-Miroslav:
+    individualname: Trnka, Miroslav
+    role: creator
+    organization: Czech Academy of Sciences, Global Change Research Institute
+    url: ''
+content_info: {}

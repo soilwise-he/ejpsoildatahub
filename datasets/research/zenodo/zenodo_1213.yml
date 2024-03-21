@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Scales_1920
+  dataseturi: https://doi.org/10.1021/ie50124a013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Boric Acid Modification of the Kjeldahl Method for Crop and Soil Analysis
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Boric Acid Modification of the Kjeldahl Method for Crop and Soil Analysis
+    url: http://dx.doi.org/10.1021/ie50124a013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Scales-F.-M.:
+    individualname: Scales, F. M.
+    role: creator
+  Harrison-A.-P.:
+    individualname: Harrison, A. P.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

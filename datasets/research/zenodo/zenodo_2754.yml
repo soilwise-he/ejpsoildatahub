@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30832
+  dataseturi: https://doi.org/10.5281/zenodo.30832
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of Soil Quality Indexes For The Habitat Conditions Variability
+    Assessment In The Forestry Rehabilitated Former Mining Spoil Banks
+  abstract: "According to Polish law, all former mining areas, whether for coal or\
+    \ other minerals should be rehabilitated. This paper analyses the possibility\
+    \ of using of indexes of Soil Trophy (ITGL) and Site Soil (SIG) to describe variability\
+    \ in the \u201CBe\u0142chat\xF3w\u201D Brown Coal Mine dumping grounds for mining\
+    \ subsidence, which have been reclaimed for forestry. Research was conducted in\
+    \ four substrate variants forming the soil bedrock being created of: nutrient-rich,\
+    \ sandy clay Quaternary (NWL on the inside spoil bank) and clay silt (NZL on the\
+    \ outside spoil bank), as well as poorer Quaternary sandy (NWG on the inside spoil\
+    \ bank) and acidic Miocene sands after neutralisation by bog lime (NZG on the\
+    \ outside spoil bank). Based on the values calculated for the tested indicators,\
+    \ a site assessment was carried out according to the scale drawn up for \u201C\
+    natural\u201D conditions. It was confirmed that concerning these two indicators\
+    \ tested on the mine\u2019s spoil banks that the ITGL index reflected the soil\
+    \ variability better because the partial indicators valuation was based on the\
+    \ other soil properties and data transformation than the SIG. However, for a better\
+    \ description of the habitats which are forming in these conditions, it would\
+    \ be preferable to modify the partial indicators assessments described by these\
+    \ indexes based on the variability of post-mining soil properties."
+  keywords:
+    default:
+      keywords:
+        subject: Soil Trophism Index
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-03-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30832
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pietrzykowski-Marcin:
+    individualname: Pietrzykowski, Marcin
+    role: creator
+    organization: "University of Agriculture, Faculty of Forestry, Department of Forest\
+      \ Ecology, Al. 29 Listopada 46, 31-425 Krak\xF3w, Poland"
+    url: ''
+  Pajak-Marek:
+    individualname: "Paj\u0105k, Marek"
+    role: creator
+    organization: "University of Agriculture, Faculty of Forestry, Department of Forest\
+      \ Ecology, Al. 29 Listopada 46, 31-425 Krak\xF3w, Poland"
+    url: ''
+  Krzaklewski-Wojciech:
+    individualname: Krzaklewski, Wojciech
+    role: creator
+    organization: "University of Agriculture, Faculty of Forestry, Department of Forest\
+      \ Ecology, Al. 29 Listopada 46, 31-425 Krak\xF3w, Poland"
+    url: ''
+content_info: {}

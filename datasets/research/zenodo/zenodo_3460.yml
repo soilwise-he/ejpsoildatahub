@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Beal_1912
+  dataseturi: https://doi.org/10.1038/scientificamerican02101912-130
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: How the Scientific Farmer Fertilizes his Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: How the Scientific Farmer Fertilizes his Soil
+    url: http://dx.doi.org/10.1038/scientificamerican02101912-130
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Beal-W.-H.:
+    individualname: Beal, W. H.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

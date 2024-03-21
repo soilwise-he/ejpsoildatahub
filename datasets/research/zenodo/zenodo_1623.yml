@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4467328
+  dataseturi: https://doi.org/10.5281/zenodo.4467328
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of raft thickness and soil modulus on frequency and amplitude of building
+    frame
+  abstract: The paper presents the limited study on the evaluation of the response
+    of the dynamic soil structure interaction analysis of a two storeyed building
+    frame resting on raft foundation using finite element method. The components of
+    the building frame such as beams, columns and slabs along with the raft are modeled
+    using 20 noded isoparametric continuum elements. The soil surrounding the foundation
+    is modeled in the simplified manner using discrete independent springs. The interface
+    of soil and raft has been accounted for by incorporating 16 node interface elements
+    in the modeling. Further, the components of the superstructure and substructure
+    are treated to behave in the linear elastic manner whereas the soil media is idealized
+    to behave in the non-linear manner. The effect of raft thickness and soil modulus
+    is evaluated on the dynamic response of the frame. The response is considered
+    in terms of the frequency and amplitude. The result indicates that the dynamic
+    loading and SSI has a considerable effect on the response of the structure.
+  keywords:
+    default:
+      keywords:
+        subject: Building frame; Raft foundation; Non-linear springs; Dynamic response;
+          Amplitude; Frequency
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4467328
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4467327
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Suroshe-Digambar-Ramchandra:
+    individualname: Suroshe Digambar Ramchandra
+    role: creator
+    organization: Department of Civil Engineering Datta Meghe College of Engineering
+      Sector-3, Airoli, Navi Mumbai-400708.
+    url: ''
+  Chore-Hemant-Sharad:
+    individualname: Chore Hemant Sharad
+    role: creator
+    organization: "Department of Civil Engineering, Dr. B. R. Ambedkar National Institute\
+      \ of Technology Jalandhar \u2013 144011"
+    url: ''
+content_info: {}

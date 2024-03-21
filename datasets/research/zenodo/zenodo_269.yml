@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Blackman_1914
+  dataseturi: https://doi.org/10.2307/2255373
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Wilting Coefficient of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Wilting Coefficient of the Soil
+    url: http://dx.doi.org/10.2307/2255373
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Blackman-V.-H.:
+    individualname: Blackman, V. H.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

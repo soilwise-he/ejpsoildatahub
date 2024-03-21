@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Vorobeichik_2022
+  dataseturi: https://doi.org/10.3897/BDJ.10.e76968
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Diversity and abundance of soil macroinvertebrates along a contamination
+    gradient in the Central Urals, Russia
+  abstract: '&lt;p&gt;Since the late 1980s, long-term monitoring of terrestrial ecosystems
+    in metal-contaminated areas near the Middle Ural Copper Smelter has been carried
+    out in the Central Urals. As a part of these monitoring programmes, the data on
+    species diversity, community composition and abundance of soil macroinvertebrates
+    continue to be gathered.&lt;/p&gt;&lt;p&gt;The dataset (available from the GBIF
+    network at https://www.gbif.org/dataset/61e92984-382b-4158-be6b-e391c7ed5a64)
+    includes a 2004 census for soil macroinvertebrates of spruce-fir forests along
+    a pollution gradient in the Central Urals. The dataset describes soil macrofauna''s
+    abundance (the number of individuals per sample, i.e. the density) and community
+    structure (list of supraspecific taxa, list of species for most abundant taxa
+    and supraspecific taxa or species abundance). Seventeen sampling plots differed
+    in the levels of toxic metal (Cu, Zn, Pb, Cd and Fe) soil contamination from air
+    emissions of the Middle Ural Copper Smelter (heavily polluted, moderately polluted
+    and unpolluted areas). The dataset consists of 340 sampling events (= samples
+    corresponding to upper and lower layers of the 170 soil monoliths) and 64658 rows
+    (2907 and 61751 for non-zero and zero density of taxa, respectively). Arachnida
+    (Araneae and Opiliones), Carabidae (imagoes), Elateridae (larvae), Chilopoda,
+    Diplopoda, Gastropoda, Staphylinidae (imagoes) and Lumbricidae were identified
+    to species level. In contrast, Mermithida, Enchytraeidae, Lepidoptera larvae,
+    Diptera larvae, Hemiptera, Hymenoptera and some other insects were identified
+    to family or order levels. In total, 8430 individuals of soil macroinvertebrates
+    were collected in two soil layers (organic and organic-mineral horizons), including
+    1046 Arachnida (spiders and harvestmen), 45 Carabidae, 300 Elateridae, 529 Myriapoda,
+    741 Gastropoda, 437 Staphylinidae, 623 Lumbricidae and 4709 other invertebrates.
+    The presence-absence data on each taxon are provided for each sampling event.
+    An overwhelming majority of such absences can be interpreted as "pseudo-absences"
+    at the scale of sampling plots or study sites. The dataset contains information
+    helpful for long-term ecotoxicological monitoring of forest ecosystems and contributes
+    to studying soil macrofauna diversity in the Urals.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil macrofauna
+      - earthworms
+      - millipedes
+      - centipedes
+      - spiders
+      - harvestmen
+      - wireworms
+      - ground beetles
+      - rove beetles
+      - molluscs
+      - species diversity
+      - population density
+      - community composition
+      - resistance
+      - forest litter
+      - industrial pollution
+      - heavy metals
+      - copper smelter
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Diversity and abundance of soil macroinvertebrates along a contamination
+      gradient in the Central Urals, Russia
+    url: http://dx.doi.org/10.3897/BDJ.10.e76968
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Vorobeichik-Evgenii:
+    individualname: Vorobeichik, Evgenii
+    role: creator
+  Nesterkov-Alexey:
+    individualname: Nesterkov, Alexey
+    role: creator
+  Ermakov-Alexander:
+    individualname: Ermakov, Alexander
+    role: creator
+  Zolotarev-Maxim:
+    individualname: Zolotarev, Maxim
+    role: creator
+  Grebennikov-Maxim:
+    individualname: Grebennikov, Maxim
+    role: creator
+content_info: {}

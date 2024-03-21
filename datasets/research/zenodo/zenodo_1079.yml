@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398440
+  dataseturi: https://doi.org/10.5281/zenodo.10398440
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: An assessment of rice straw-based composting with urea and soil
+  abstract: Rice is one of the primary crops in many Asian countries. However, the
+    management of rice straw remains a challenge in Asia where burning rice straw
+    is the popular practice among farmers. Rice straw burning have a lot of consequences
+    such as loss of nutrients and biodiversity, soil degradation, air pollution, and
+    harmful to human health. Composting rice straw is a potential alternative method.
+    To optimize the composting process, mixing straw with nitrogen-rich material such
+    as cattle and poultry manure is necessary. However, the availability of animal
+    manure can be a challenge in some areas, so alternative materials can be used
+    like Urea and soil. In this study, composting rice straw in combination with soil
+    and urea was investigated. Three beds with mixed ratios (50:50, 70:30 and 70:30)
+    of rice straw and soil was used. The solution consists of water, urea, superphosphate,
+    potassium, molasses, and liquid inoculant was added to the compost bed to achieve
+    a moisture content of 60%. The beds were turned or mixed every 7 days up to 45
+    days. When the composting process was completed, the result show that the temperature
+    of the bed during the composting process remained above 550C during the 2nd week,
+    continuously, and the highest temperature reached 64.30C on the 9th and 10th days.
+    The particle size passing through the sieve (5mm, 10mm) is 45.4% to 66.2 %. The
+    weight loss ranged from 41.2 kg (29.4 %); 29.1 kg (29.1 %); 30.7 kg (30.7 %).
+    The pH achieved neutral levels of 7.04; 7.16; 7.26 on the 45 days. The C/N ratio
+    of three beds where 12.2; 11.9; 11.3, respectively. The total density of microorganisms
+    remained at a stable level from 1x 108 cfu/g of input to 109 cfu/g of output.
+    The results showed the feasibility of rice straw treatment via in-situ composting
+    combined with soil and urea. This is a practice that assists the farmers in utilizing
+    the available rice straw to make compost which contributes to circular rice production.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398440
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398439
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cam-Thi-Tran-Nhung:
+    individualname: Cam Thi Tran Nhung
+    role: creator
+    organization: International Rice Research Institute, Can Tho, Vietnam
+    url: ''
+  Sandro-Joseph:
+    individualname: Sandro Joseph
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+  Van-Nguyen-Hieu:
+    individualname: Van Nguyen Hieu
+    role: creator
+    organization: Tien Giang University, My Tho, Vietnam
+    url: ''
+  Thanh-Nguyen-Nghi:
+    individualname: Thanh Nguyen Nghi
+    role: creator
+    organization: Nong Lam University, Ho Chi Minh, Vietnam
+    url: ''
+  Van-Nguyen-Hung:
+    individualname: Van Nguyen Hung
+    role: creator
+    organization: International Rice Research Institute, Ha Noi, Vietnam
+    url: ''
+content_info: {}

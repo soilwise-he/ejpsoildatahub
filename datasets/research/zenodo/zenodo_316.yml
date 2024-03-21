@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8024181
+  dataseturi: https://doi.org/10.5281/zenodo.8024181
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE IMPACT OF ECOLOGY ON THE SOIL
+  abstract: '<em>Soil biology is a new science that emerged as part of the sciences
+    of biology and soil science. In addition to studying the subjects of microbiology,
+    biochemistry, algology, mycology, soil zoology and protistology, this science
+    deals with the science of genetic soil science: the origin of the soil, the formation
+    of the soil profile.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Anthropogenic, Erosion, autotroph, osmotroph.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8024181
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8024181
+    type: WWW:LINK
+    title: IsCitedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.8024180
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mulkamalova-Ozoda:
+    individualname: Mulkamalova Ozoda
+    role: creator
+    organization: 3rd year student, "TIQXMMI" MTU Karshin Institute of Irrigation
+      and Agrotechnology
+    url: ''
+content_info: {}

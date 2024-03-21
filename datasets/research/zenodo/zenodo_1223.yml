@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4568260
+  dataseturi: https://doi.org/10.5281/zenodo.4568260
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Cellulosimicrobium funkei: A Novel Bacterium in Potassium Solubilization
+    from Soil in Bangalore'
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> Potassium (K) is a very\
+    \ essential element needed by plants for healthy growth and good yield. Most soils\
+    \ have abundance of potassium underneath in rock as insoluble forms that are unavailable\
+    \ for plant use. This research was carried out to join in the search to unearth\
+    \ microorganisms from the rhizosphere soil that are able to act on the mineral\
+    \ containing substances, solubilizing them to release the needed soluble form\
+    \ of the potassium for plant use. An isolate, which was characterized and identified\
+    \ to be Cellulosimicrobium funkei, showed significant solubilization on feldspar\
+    \ (a potassium containing compound) supplemented media. It is novel for potassium\
+    \ solubilization. The amount of potassium released by the isolate in comparison\
+    \ to reference cultures varied but favourably compared with the reference cultures.\
+    \ In glucose amended broth, solubilization was: Cellulosimicrobium funkei 7.04mg/l,\
+    \ Enterobacter hormaechei 7.15 mg/l and 6.91mg/l for Aspergillus terreus. Urea\
+    \ supplemented broth: Cellulosimicrobium funkei 5.45mg/l, Enterobacter hormaechei\
+    \ 5.38mg/l and Aspergillus terreus 6.33mg/l. KCl supplemented broth: Cellulosimicrobium\
+    \ funkei 10.23mg/l, Enterobacter hormaechei 8.05mg/l and Aspergillus terreus 9.11mg/l.\
+    \ For temperature, the cultures solubilized best at these respective temperatures:\
+    \ Cellulosimicrobium funkei 27<sup>o</sup>C, Enterobacter hormaechei 35<sup>o</sup>C\
+    \ and Aspergillus terreus 30<sup>o</sup>C. P<sup>H</sup> was 7.5 for Cellulosimicrobium\
+    \ funkei, 8 for Enterobacter hormaechei and for 7.5 for Aspergillus terreus. When\
+    \ they were now cultured using the combination of the above parameters Cellulosimicrobium\
+    \ funkei, Enterobacter hormaechei and Aspergillus terreus gave a maximum yield\
+    \ of 7.24mg/l, 7.03mg/l and 6.81mg/l of solubilized potassium respectively. This\
+    \ means that the isolate Cellulosimicrobium funkei yielded more solubilized potassium\
+    \ from feldspar than the reference cultures and could therefore be a better potassium\
+    \ solubilizer."
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-02-28'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4568260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4568259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Titus-Matthew:
+    individualname: Titus Matthew
+    role: creator
+  Srividya-Shivakumar:
+    individualname: Srividya Shivakumar
+    role: creator
+    organization: ''
+    url: ''
+  Matthew-Titus:
+    individualname: Matthew, Titus
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

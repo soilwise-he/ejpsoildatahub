@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GORTNER_1916
+  dataseturi: https://doi.org/10.1097/00010694-191612000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'THE ORGANIC MATTER OF THE SOIL: II. A STUDY OF CARBON AND NITROGEN IN SEVENTEEN
+    SUCCESSIVE EXTRACTS; WITH SOME OBSERVATIONS ON THE NATURE OF THE BLACK PIGMENT
+    OF THE SOIL'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'THE ORGANIC MATTER OF THE SOIL: II. A STUDY OF CARBON AND NITROGEN IN SEVENTEEN
+      SUCCESSIVE EXTRACTS; WITH SOME OBSERVATIONS ON THE NATURE OF THE BLACK PIGMENT
+      OF THE SOIL'
+    url: http://dx.doi.org/10.1097/00010694-191612000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gortner-Ross-Aiken:
+    individualname: Gortner, Ross Aiken
+    role: creator
+  GORTNER-ROSS-AIKEN:
+    individualname: GORTNER, ROSS AIKEN
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

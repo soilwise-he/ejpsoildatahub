@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8090399
+  dataseturi: https://doi.org/10.5281/zenodo.8090399
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Integrating Remote Sensing and Landscape Characteristics to Estimate Soil
+    Salinity Using Machine Learning Methods: A Case Study from Southern Xinjiang,
+    China'
+  abstract: 'Soil salinization, one of the most severe global land degradation problems,
+    leads to the loss of arable land and declines in crop yields. Monitoring the distribution
+    of salinized soil and degree of salinization is critical for management, remediation,
+    and utilization of salinized soil; however, there is a lack of thorough assessment
+    of various data sources including remote sensing and landscape characteristics
+    for estimating soil salinity in arid and semi-arid areas. The overall goal of
+    this study was to develop a framework for estimating soil salinity in diverse
+    landscapes by fusing information from satellite images, landscape characteristics,
+    and appropriate machine learning models. To explore the spatial distribution of
+    soil salinity in southern Xinjiang, China, as a case study, we obtained 151 soil
+    samples in a field campaign, which were analyzed in laboratory for soil electrical
+    conductivity. A total of 35 indices including remote sensing classifiers (11),
+    terrain attributes (3), vegetation spectral indices (8), and salinity spectral
+    indices (13) were calculated or derived and correlated with soil salinity. Nine
+    were used to model and estimate soil salinity using four predictive modelling
+    approaches: partial least squares regression (PLSR), convolutional neural network
+    (CNN), support vector machine (SVM) learning, and random forest (RF). Testing
+    datasets were divided into vegetation-covered and bare soil samples and were used
+    for accuracy assessment. The RF model was the best regression model in this study,
+    with R<sup>2</sup> = 0.75, and was most effective in revealing the spatial characteristics
+    of salt distribution. Importance analysis and path modeling of independent variables
+    indicated that environmental factors and soil salinity indices including digital
+    elevation model (DEM), B10, and green atmospherically resistant vegetation index
+    (GARI) showed the strongest contribution in soil salinity estimation. This showed
+    a great promise in the measurement and monitoring of soil salinity in arid and
+    semi-arid areas from the integration of remote sensing, landscape characteristics,
+    and using machine learning model.'
+  keywords:
+    default:
+      keywords:
+        subject: predictive mapping
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-16'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8090399
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090398
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nan-Wang:
+    individualname: Nan Wang
+    role: creator
+  Jie-Xue:
+    individualname: Jie Xue
+    role: creator
+  Jie-Peng:
+    individualname: Jie Peng
+    role: creator
+  Asim-Biswas:
+    individualname: Asim Biswas
+    role: creator
+  Yong-He:
+    individualname: Yong He
+    role: creator
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: ''
+    organization: ''
+    url: ''
+  Xue-Jie:
+    individualname: Xue, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Peng-Jie:
+    individualname: Peng, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Biswas-Asim:
+    individualname: Biswas, Asim
+    role: ''
+    organization: ''
+    url: ''
+  He-Yong:
+    individualname: He, Yong
+    role: ''
+    organization: ''
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

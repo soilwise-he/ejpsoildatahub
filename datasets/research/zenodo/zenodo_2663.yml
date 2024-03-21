@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6164716
+  dataseturi: https://doi.org/10.5281/zenodo.6164716
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A New Spectrophotometric Determination of O, O-Diethyl o-p nitrophenyl thiophosphate
+    (Parathion) Residues in Plant Materials and Soil
+  abstract: Department of Chemistry, Ravishankar University, Raipur-492 010 <em>Manuscript
+    received 20 May 1988, revised 3 October 1988, accepted 23 February 1989</em> A
+    New Spectrophotometric Determination of <em>O</em>, O-Diethyl o-p nitrophenyl
+    thiophosphate (Parathion) Residues in Plant Materials and Soil
+  keywords:
+    default:
+      keywords:
+        subject: Sulphamic acid
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1989-05-31'
+    publication: '1989'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6164716
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6164715
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  JAISHREE-RAJU:
+    individualname: JAISHREE RAJU
+    role: creator
+    organization: ''
+    url: ''
+  V.-K-GUPTA:
+    individualname: V. K GUPTA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

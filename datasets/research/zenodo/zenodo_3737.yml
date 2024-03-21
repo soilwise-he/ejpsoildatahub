@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1085401
+  dataseturi: https://doi.org/10.5281/zenodo.1085401
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Avicelase Production By A Thermophilic Geobacillus Stearothermophilus Isolated
+    From Soil Using Sugarcane Bagasse
+  abstract: "Studies were carried out on the comparative study of the production of\
+    \ Avicelase enzyme using sugarcane bagasse-SCB in two different statuses (i.e.\
+    \ treated and untreated SCB) by thermophilic Geobacillus stearothermophilus at\
+    \ 50\xBAC. Only four thermophilic bacterial isolates were isolated and assayed\
+    \ for Avicelase production using UntSCB and TSCB. Only one isolate selected as\
+    \ most potent and identified as G. stearothermophilus used in this study. A specific\
+    \ endo-\u03B2-1,4-D-glucanase (Avicelase EC 3.2.1.91) was partially purified from\
+    \ a thermophilic bacterial strain was isolated from different soil samples when\
+    \ grown on cellulose enrichment SCB substrate as the sole carbon source. Results\
+    \ shown that G. stearothermophilus was the better Avicelase producer strain. Avicelase\
+    \ had an optimum pH and temperature 7.0 and 50\xBAC for both UntSCB and TSCB and\
+    \ exhibited good pH stability between \"5-8\" and \"4-9\", however, good temperature\
+    \ stability between (30-80\xBAC) for UntSCB and TSCB, respectively. Other factors\
+    \ affecting the production of Avicelase were compared (i.e. SCB concentration,\
+    \ inoculum size and different incubation periods), all results observed and obtained\
+    \ were revealed that the TSCB was exhibited maximal enzyme activity in comparison\
+    \ with the results obtained from UntSCB, so, the TSCB was enhancing the Avicelase\
+    \ production."
+  keywords:
+    default:
+      keywords:
+        subject: Sugarcane bagasse
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-09-24'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1085401
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1085400
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-A.-Makky:
+    individualname: E. A. Makky
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

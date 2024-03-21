@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.163095
+  dataseturi: https://doi.org/10.5281/zenodo.163095
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Spatial Identification And Classification Of Soil Erosion Prone Zones Using\
+    \ Remote Sensing &amp; Gis Integrated \u2018Rusle\u2019 Model And \u2018Sateec\
+    \ Gis System\u2019"
+  abstract: "Soil erosion by water is pronounced critical problem in Himalayan regions\
+    \ due to anthropogenic pressure on its mountainous landscape. Its assessment and\
+    \ mapping of erosion prone areas are very essential for soil conservation and\
+    \ watershed management. The purpose of this study is to investigate the spatial\
+    \ distribution of average annual soil erosion in Ton Watershed (a sub-basin of\
+    \ Asan watershed) using Remote Sensing and GIS integrated \u2018RUSLE\u2019 Model\
+    \ and GIS based Hydrological Model of \u2018SATEEEC GIS system\u2019 in Dehradun\
+    \ district of Uttarakhand state. Remote sensing and GIS technologies were used\
+    \ to prepare required input layers in the form of Rain Erosivity factor (R), soil\
+    \ erodability factor( K), Length and steepness of Slope factors (LS), crop management\
+    \ factors ( C) and support practice factor ( P) to utilize in RUSLE and SATEEC\
+    \ GIS Models. One of the advantages of using SATEEC GIS system is no additional\
+    \ input data, other than those for RUSLE are required to operate the system. Vulnerability\
+    \ to soil erosion risk in the watershed revealed that 24.16 percent of area from\
+    \ RUSLE model, and 20.21 percent of area from SATEEC GIS system was in high soil\
+    \ erosion risk zone. Very low risk of erosion was observed at 68.18 percent and\
+    \ 57.12 percent of areas from SATEEC GIS system and RUSLE model respectively."
+  keywords:
+    default:
+      keywords:
+        subject: RUSLE, SATEEC GIS System, R-factor, LS-factor, Soil Erosion, ArcGIS.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-10-25'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.163095
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Narasayya-Kamuju*:
+    individualname: Narasayya Kamuju*
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

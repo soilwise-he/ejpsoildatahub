@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8157837
+  dataseturi: https://doi.org/10.5281/zenodo.8157837
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of biochar-mediated treatments on the enhancement of soil acidity,
+    crop performance and soil properties
+  abstract: Biochar, a carbon-rich material derived from biomass pyrolysis, has gained
+    considerable attention as a soil amendment for improving soil fertility and crop
+    productivity. One of the key benefits of biochar is its ability to mediate soil
+    acidity, influencing soil pH and buffering capacity. Biochar can act as a liming
+    agent, raising soil pH in acidic soils, or as an acidifying agent, lowering pH
+    in alkaline soils, through its alkaline or acidic functional groups, respectively.
+    This property makes biochar a versatile tool for managing soil acidity in different
+    agricultural systems. The application of biochar to acidic soils can enhance crop
+    performance by improving nutrient availability, reducing toxic metal concentrations,
+    and promoting microbial activity. Biochar can also increase the cation exchange
+    capacity (CEC) of soils, leading to improved nutrient retention and reduced leaching
+    losses. Furthermore, biochar-mediated enhancement of soil pH can promote the dissolution
+    of minerals and the release of essential plant nutrients, such as phosphorus,
+    calcium, and magnesium, which are often limited in acidic soils. Apart from influencing
+    soil acidity and crop performance, biochar can also improve other soil properties.
+    Biochar can enhance soil water holding capacity, reduce soil erosion, and increase
+    aggregate stability, thereby improving soil structure and fertility. Biochar can
+    also sequester carbon in the soil, contributing to climate change mitigation by
+    reducing greenhouse gas emissions. In this review, we summarize the current state
+    of knowledge on the effects of biochar on soil acidity, crop performance, and
+    soil properties. Overall, biochar-mediated enhancement of soil acidity can have
+    profound positive effects on crop performance and soil properties, making it a
+    promising soil amendment for sustainable agriculture.
+  keywords:
+    default:
+      keywords:
+        subject: Biochar, soil acidity, heavy metals, mechanism, soil properties,
+          crop performance
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-19'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8157837
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8157836
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shubham-SIngh:
+    individualname: Shubham SIngh
+    role: creator
+  Sanjay-Swami:
+    individualname: Sanjay Swami
+    role: creator
+  Jyotim-Gogoi:
+    individualname: Jyotim Gogoi
+    role: creator
+    organization: Central Agricultural University, Imphal
+    url: ''
+  Gayatri-Prahlad-Turkar:
+    individualname: Gayatri Prahlad Turkar
+    role: creator
+  Deepak-Kumar-Dwivedi:
+    individualname: Deepak Kumar Dwivedi
+    role: creator
+  Basant-Tamang:
+    individualname: Basant Tamang
+    role: creator
+    organization: Central Agricultural University, Imphal
+    url: ''
+  Santanu-Kaushik-Borah:
+    individualname: Santanu Kaushik Borah
+    role: creator
+    organization: Central Agricultural University, Imphal
+    url: ''
+  SIngh-Shubham:
+    individualname: SIngh, Shubham
+    role: ''
+    organization: Central Agricultural University, Imphal
+    url: https://orcid.org/0009-0008-8962-5416
+  Swami-Sanjay:
+    individualname: Swami, Sanjay
+    role: ''
+    organization: Central Agricultural University, Imphal
+    url: https://orcid.org/0000-0001-8961-4671
+  Turkar-Gayatri-Prahlad:
+    individualname: Turkar, Gayatri Prahlad
+    role: ''
+    organization: Acharya Narendra Deva University Of Agriculture And Technology,
+      Ayodhya
+    url: ''
+  Dwivedi-Deepak-Kumar:
+    individualname: Dwivedi, Deepak Kumar
+    role: ''
+    organization: Central Agricultural University, Imphal
+    url: ''
+content_info: {}

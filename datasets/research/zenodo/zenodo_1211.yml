@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: PETER_1916
+  dataseturi: https://doi.org/10.1097/00010694-191610000-00005
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: ON THE DISTRIBUTION OF PHOSPHORUS IN A VERTICAL SECTION OF BLUEGRASS SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: ON THE DISTRIBUTION OF PHOSPHORUS IN A VERTICAL SECTION OF BLUEGRASS SOIL
+    url: http://dx.doi.org/10.1097/00010694-191610000-00005
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peter-Alfred-M.:
+    individualname: Peter, Alfred M.
+    role: creator
+  PETER-ALFRED-M.:
+    individualname: PETER, ALFRED M.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

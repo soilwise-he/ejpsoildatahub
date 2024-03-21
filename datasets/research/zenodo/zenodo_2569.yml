@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7663652
+  dataseturi: https://doi.org/10.5281/zenodo.7663652
+  datestamp: ''
+  hierarchylevel: peerreview
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Long-term variation and migration of soil moisture in thick man-made vadose
+    zone considering ground-atmosphere interaction
+  abstract: The data for the manuscript " Long-term variation and migration of soil
+    moisture in thick man-made vadose zone considering ground-atmosphere interaction"
+    are presented, which include the field monitoring data, the numerically estimated
+    data. and the data required for the numerical model. The climate data over 70
+    years are collected from the China Meteorological Data Service Center.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-02-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7663652
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7605334
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xiaokun-Hou:
+    individualname: Xiaokun Hou
+    role: creator
+    organization: Institute of Geology and Geophysics,Chinese Academy of Sciences
+    url: ''
+  Shengwen-Qi:
+    individualname: Shengwen Qi
+    role: creator
+    organization: Institute of Geology and Geophysics,Chinese Academy of Sciences
+    url: ''
+  Yongtang-Yu:
+    individualname: Yongtang Yu
+    role: creator
+    organization: Northwest Institue for Engineering Design & Research
+    url: ''
+  Tonglu-Li:
+    individualname: Tonglu Li
+    role: creator
+    organization: Chang'an University
+    url: ''
+  Songfeng-Guo:
+    individualname: Songfeng Guo
+    role: creator
+    organization: Institute of Geology and Geophysics,Chinese Academy of Sciences
+    url: ''
+  Jingyuan-Cao:
+    individualname: Jingyuan Cao
+    role: creator
+    organization: Northwest Institue for Engineering Design & Research
+    url: ''
+  Jianmin-Zhu:
+    individualname: Jianmin Zhu
+    role: creator
+    organization: Northwest Institue for Engineering Design & Research
+    url: ''
+content_info: {}

@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6400764
+  dataseturi: https://doi.org/10.5281/zenodo.6400764
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Organic Matter on Capillarity Control and Seepage Loss
+  abstract: Department of Applied Chemistry, Calcutta University <em>Manuscript received
+    2 September 1974; revised 4 April 1075; accepted 4 April 1975</em> Seepage causes
+    water logging and the irrigable land becomes useless for cultivation specially
+    in regions where there is chance of increase of son salinity, This may be minimised
+    to some extent by application of humic acid, a son organic matter, which imparts
+    water repellency to soil and exerts influence on capillarity.
+  keywords:
+    default:
+      keywords:
+        subject: hydroxyl group
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1975-07-31'
+    publication: '1975'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6400764
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6400763
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-ADHIKARI:
+    individualname: M. ADHIKARI
+    role: creator
+    organization: ''
+    url: ''
+  G.-CHAKRABARTI:
+    individualname: G. CHAKRABARTI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

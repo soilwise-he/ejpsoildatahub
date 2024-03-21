@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4925615
+  dataseturi: https://doi.org/10.5281/zenodo.4925615
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: The Effects of Biochar and Farm Yard Manure on Soil Properties and Crop Growth
+    in the Himalayan Agroforestry System
+  abstract: Many parts of South Asia are facing agricultural land degradation and
+    reduced productivity while the population continues to grow and demand for food
+    is ever-increasing. This paper presents the results of research specifically focused
+    on application of biochar and Farm Yard Manure (FYM) at 5t/ha and 20t/ha, respectively
+    as an amendment on degraded soil in a coffee agroforestry system of the mid-hills
+    in the Nepal Himalaya. The study showed that there were significant (P&lt;0.05)
+    positive effects on soil chemical properties, crop growth (height) and crop productivity.
+    In particular, the soil pH and SOM increased significantly, while other soil properties
+    were not significantly improved. Also, plant growth increased dramatically with
+    application of biochar, however, crop yields showed only slight increases. It
+    is suggested that biochar applied at low rates along with FYM generally has immediate
+    positive effects on the vegetative growth of plants, however, soil properties
+    and overall crop yields may take a longer time to show improvement. Soil biophysical
+    and chemical quality is critically important for sustaining the crop productivity
+    and protecting the environment.
+  keywords:
+    default:
+      keywords:
+        subject: crop yield
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-03'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4925615
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4925614
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  Deepak-K.-Gautam:
+    individualname: Deepak K. Gautam
+    role: creator
+  Roshan-M.-Bajracharya:
+    individualname: Roshan M. Bajracharya
+    role: creator
+  Bishal-K.-Sitaula:
+    individualname: Bishal K. Sitaula
+    role: creator
+    organization: Department of International Environment and Development Studies
+      (Noragric), Norwegian University of Life Sciences (NMBU), P.O.Box 5001, N-1432
+      As, Norway.
+    url: ''
+  Gautam-Deepak-K.:
+    individualname: Gautam, Deepak K.
+    role: ''
+    organization: Nepal Agroforestry Foundation (NAF), P.O.Box 9594, Amarawatimarg
+      35, Koteshwor, Kathmandu, Nepal & Department of Environmental Science and Engineering,
+      Kathmandu University, P.O.Box 6250, Dhulikhel, Nepal.
+    url: ''
+  Bajracharya-Roshan-M.:
+    individualname: Bajracharya, Roshan M.
+    role: ''
+    organization: Department of Environmental Science and Engineering, Kathmandu University,
+      P.O.Box 6250, Dhulikhel, Nepal.
+    url: ''
+content_info: {}

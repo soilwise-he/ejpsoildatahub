@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tracy_1904
+  dataseturi: https://doi.org/10.1126/science.19.488.738
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Influence of Climate and Soil on the Transmitting Power of Seeds
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Influence of Climate and Soil on the Transmitting Power of Seeds
+    url: http://dx.doi.org/10.1126/science.19.488.738
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tracy-W.-W.:
+    individualname: Tracy, W. W.
+    role: creator
+  Tracy-Will-W.:
+    individualname: Tracy, Will W.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

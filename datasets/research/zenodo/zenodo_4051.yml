@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1215711
+  dataseturi: https://doi.org/10.5281/zenodo.1215711
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Identification Of Suitable Soil Parameters For The Growth Of Brackishwater
+    Aquaculture In Thiruvallur District Using Remote  Sensing And Gis
+  abstract: "This paper is study on a identification of suitable soil parameters for\
+    \ the growth of brackish water aquaculture in Thiruvallur district using remote\
+    \ sensing and GIS. The present study area is located in the North Eastern part\
+    \ of Tamil Nadu between 12\xB015\u2019 and 13\xB015' North and79\xB015' and80\xB0\
+    20' East. The base map was created from Survey of India top sheet 1972. The soil\
+    \ map was generated from IRS P6, LISS IV 2011satellite image (scale 1:50000) thematic\
+    \ map and the soil details is obtained from geological survey of India. Using\
+    \ visual interpretation keys, the various types of soil features were identified\
+    \ like as Entisols, Inceptisols, Alfisols, settlement, vertisols, Pondicherry,\
+    \ Reserve forest miscellaneous, etc. The best suitable soil was analysed to give\
+    \ the weight age parameters based on the overlay analysis."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-04-09'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1215711
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1215710
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-K.-Shunmugapriya:
+    individualname: Dr. K. Shunmugapriya
+    role: creator
+    organization: ''
+    url: ''
+  P.-Prasath:
+    individualname: P. Prasath
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-S.-Sureshbabu:
+    individualname: Dr. S. Sureshbabu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

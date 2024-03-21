@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: STILES_1911
+  dataseturi: https://doi.org/10.1097/00007611-191102000-00009
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOME UNDERLYING CAUSES OF THE EXISTENCE OF SOIL POLLUTION IN THE RURAL DIETRICTS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOME UNDERLYING CAUSES OF THE EXISTENCE OF SOIL POLLUTION IN THE RURAL DIETRICTS
+    url: http://dx.doi.org/10.1097/00007611-191102000-00009
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stiles-Wardell:
+    individualname: Stiles, Wardell
+    role: creator
+  STILES-WARDELL:
+    individualname: STILES, WARDELL
+    role: creator
+  Southern-Medical-Association:
+    individualname: Southern Medical Association
+    role: creator
+content_info: {}

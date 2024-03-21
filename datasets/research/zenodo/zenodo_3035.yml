@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7559056
+  dataseturi: https://doi.org/10.5281/zenodo.7559056
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF NATURAL AND CLIMATIC CONDITIONS OF THE RYAZAN REGION ON THE
+    STRENGTH AND DEFORMATION PROPERTIES OF THE SOIL OF THE ROADBED
+  abstract: The article deals with factors affecting the coating, such as force effects,
+    physical and mechanical characteristics, climatic conditions. It is known that
+    the subgrade soil changes its strength and deformation characteristics at different
+    humidity. Therefore, it is necessary to take into account changes in the state
+    of the soil base under conditions of seasonal fluctuations in temperature and
+    humidity. It is determined that climatic factors have a significant impact on
+    the stress-strain state of non-rigid pavements, and the strength of soils in the
+    foundations of pavements changes throughout the year depending on changes in their
+    humidity, which, in turn, is related to temperature. During thaw periods, moisture
+    accumulates intensively under the coating, which leads to a decrease in its resistance.
+  keywords:
+    default:
+      keywords:
+        subject: soil, subgrade, force impacts, physical and mechanical characteristics,
+          climatic conditions
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-01-22'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7559056
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7559055
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.V.-Troshkin:
+    individualname: A.V. Troshkin
+    role: creator
+    organization: ''
+    url: ''
+  A.S.-Barmin:
+    individualname: A.S. Barmin
+    role: creator
+    organization: ''
+    url: ''
+  N.A.-Antonenko:
+    individualname: "N.\u0410. Antonenko"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

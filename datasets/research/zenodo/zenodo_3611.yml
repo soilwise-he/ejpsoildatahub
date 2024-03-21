@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Saiz_2006
+  dataseturi: https://doi.org/10.1007/s11104-006-9052-0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seasonal and spatial variability of soil respiration in four Sitka spruce
+    stands
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seasonal and spatial variability of soil respiration in four Sitka spruce
+      stands
+    url: http://dx.doi.org/10.1007/s11104-006-9052-0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saiz-Gustavo:
+    individualname: Saiz, Gustavo
+    role: creator
+  Green-Carly:
+    individualname: Green, Carly
+    role: creator
+  Butterbach-Bahl-Klaus:
+    individualname: Butterbach-Bahl, Klaus
+    role: creator
+  Kiese-Ralf:
+    individualname: Kiese, Ralf
+    role: creator
+  Avitabile-Valerio:
+    individualname: Avitabile, Valerio
+    role: creator
+  Farrell-Edward-P.:
+    individualname: Farrell, Edward P.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

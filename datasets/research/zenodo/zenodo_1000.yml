@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ringeval_2014
+  dataseturi: https://doi.org/10.1002/2014gb004842
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Contribution of anthropogenic phosphorus to agricultural soil fertility and
+    food production
+  abstract: "Agricultural intensification over the last few decades has been accompanied\
+    \ by the extensive use of anthropogenic phosphorus (P) derived from mined phosphate\
+    \ rock. Given the increasing scarcity of P resources, accurate estimates of the\
+    \ reliance of agriculture on anthropogenic P are required. Here we propose a modeling\
+    \ approach for assessing the contribution of anthropogenic P to agricultural soil\
+    \ fertility and food production. We performed computations at country level, and\
+    \ France was chosen as a typical western European country with intensive agriculture.\
+    \ Four soil P pools were identified based on their bioavailability (labile versus\
+    \ stable) and origin (anthropogenic versus natural). Pool evolution between 1948\
+    \ and 2009 was estimated by combining international databases and a simple biogeochemical\
+    \ model. An optimization procedure demonstrated the necessity of representing\
+    \ a stable P pool capable of replenishing the labile pool within 14 to 33 years\
+    \ in order to match country-scale observations. Mean simulated P pool sizes for\
+    \ 2009 (0\u201335 cm soil horizon) were 146, 616, 31, and 156 kgP/ha for natural\
+    \ stable, anthropogenic stable, natural labile, and anthropogenic labile pools,\
+    \ respectively. We found that, on average, 82% (min-max: 68\u201391%) of soil\
+    \ P (sum of labile and above defined stable) in that year was anthropogenic. The\
+    \ temporal evolution of this contribution is directly related to the integral\
+    \ of chemical fertilizer use over time, starting from 1948. The contribution of\
+    \ anthropogenic P to food production was similar at 84% (min-max: 72\u201391%),\
+    \ which is greater than budget-based estimates (~50\u201360%) commonly reported\
+    \ in the literature. By focusing on soil fertility and food production, this study\
+    \ provides a quantitative estimation of human perturbations of the P cycle in\
+    \ agroecosystems."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Contribution of anthropogenic phosphorus to agricultural soil fertility
+      and food production
+    url: http://dx.doi.org/10.1002/2014gb004842
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ringeval-B.:
+    individualname: Ringeval, B.
+    role: creator
+  Nowak-B.:
+    individualname: Nowak, B.
+    role: creator
+  Nesme-T.:
+    individualname: Nesme, T.
+    role: creator
+  Delmas-M.:
+    individualname: Delmas, M.
+    role: creator
+  Pellerin-S.:
+    individualname: Pellerin, S.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+content_info: {}

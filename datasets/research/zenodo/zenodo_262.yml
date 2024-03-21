@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cannon_1917
+  dataseturi: https://doi.org/10.1126/science.45.1156.178
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Ecological Significance of Soil Aeration
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Ecological Significance of Soil Aeration
+    url: http://dx.doi.org/10.1126/science.45.1156.178
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cannon-W.-A.:
+    individualname: Cannon, W. A.
+    role: creator
+  Free-E.-E.:
+    individualname: Free, E. E.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

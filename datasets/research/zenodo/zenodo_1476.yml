@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10540021
+  dataseturi: https://doi.org/10.5281/zenodo.10540021
+  datestamp: ''
+  hierarchylevel: conferenceproceeding
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Fly ash & Microbes on Strength properties of Subgrade soil for
+    Pavements
+  abstract: 'Abstract: This work investigates the utilization of microbial-induced
+    calcite precipitation (MICP) treatment to improve the stability of soil by introducing
+    Class F fly ash and Bacillus subtilis microbes. Various experiments were carried
+    out using soil that was readily available in the vicinity area. The primary tasks
+    consisted of mixing fly ash and subsequently utilizing varying quantities of fly-ash.
+    The experiment involved the incorporation of fly ash at varying ratios, specifically
+    5%, 10%, 15%, 20%, 25%, and 30%.The soil''s characteristics are influenced by
+    the presence of fly ash, as evidenced by the following tests: reduction in liquid
+    limit, increase in UCC and CBR values, analysis of soil compaction under high
+    pressure, measurement of unconfined compressive strength (UCC) at various time
+    intervals (0, 3, 7, 14, and 21 days), and assessment of California bearing ratio
+    (CBR) for soil samples with varying amounts of fly ash. The most favorable results
+    are obtained by integrating 25% fly ash into the soil, surpassing all other quantities.
+    Following the introduction of Bacillus subtilis C4nc8 bacteria, the OMC is blended
+    with a mixture consisting of 25% fly ash and soil. In addition, it is shown that
+    the optimal values for CBR (2.2 times higher than that of soil) and UCC (6.5 times
+    higher than that of pure soil) are attained by blending soil with 25% fly ash
+    and microorganisms. Ultimately, the addition of soil, 25% fly ash, and microorganisms
+    has been discovered to significantly improve the CBR strength of the subgrade.
+
+
+    Keywords: Fly ash, clayey sand, microbes, ucc, cbr.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10540021
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10519333
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thokalapudi-suresh:
+    individualname: Thokalapudi suresh
+    role: creator
+    organization: Department of Civil Engineering Sri Venkateswara University College
+      of Engineering India-517501
+    url: ''
+  K.Bhavitha:
+    individualname: K.Bhavitha
+    role: creator
+    organization: Department of Civil Engineering Sri Venkateswara University College
+      of Engineering India-517501
+    url: ''
+  Ch.Sudharani:
+    individualname: Ch.Sudharani
+    role: creator
+    organization: Department of Civil Engineering Sri Venkateswara University College
+      of Engineering India-517501
+    url: ''
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126275
+  dataseturi: https://doi.org/10.5281/zenodo.1126275
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Electrokinetic Remediation Of Uranium Contaminated Soil By Ion Exchange Membranes
+  abstract: The contamination of significant quantities of soils and sediments with
+    uranium and other actinide elements as a result of nuclear activity poses many
+    environmental risks. The electrokinetic process is one of the most promising remediation
+    techniques for sludge, sediment, and saturated or unsaturated soils contaminated
+    with heavy metals and radionuclides. However, secondary waste is a major concern
+    for soil contaminated with nuclides. To minimize the generation of secondary wastes,
+    this study used the anion and cation exchange membranes to improve the performance
+    of the experimental apparatus. Remediation experiments of uranium-contaminated
+    soil were performed with different agents. The results show that using acetic
+    acid and EDTA as chelating agents clearly enhances the migration ability of the
+    uranium. The ion exchange membranes (IEMs) used in the experiments not only reduce
+    secondary wastes, but also, keep the soil pH stable.
+  keywords:
+    default:
+      keywords:
+        subject: uranium.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126275
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126274
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Z.-H.-Shi:
+    individualname: Z. H. Shi
+    role: creator
+    organization: ''
+    url: ''
+  T.-J.-Dou:
+    individualname: T. J. Dou
+    role: creator
+    organization: ''
+    url: ''
+  H.-Zhang:
+    individualname: H. Zhang
+    role: creator
+    organization: ''
+    url: ''
+  H.-X.-Huang:
+    individualname: H. X. Huang
+    role: creator
+    organization: ''
+    url: ''
+  N.-Zeng:
+    individualname: N. Zeng
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

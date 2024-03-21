@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2551116
+  dataseturi: https://doi.org/10.5281/zenodo.2551116
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Behavior of Clay Soil under the Effect of Cyclic Loading
+  abstract: The behavior of soil appropriate to earthquake and maritime problems may
+    studied by performing alternating cyclic simple shear and triaxial tests. The
+    main purpose of this present research is to evaluate the strength reduction of
+    saturated untrained clay soils under direct shear cyclic stress. The test results
+    revealed that such reduction exists and it increased with increasing cyclic stress
+    amplitude, confining pressure, the number of loading cycles and with decreasing
+    sample thickness. The results indicate that there is a lower limit to the cyclic
+    stress ratio below which cyclic loading has a negligible effect on clay softening.
+    It is observed also that the direct cyclic strength is greater than the triaxial
+    cyclic strength which conforms to the published results.eng
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2551116
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2551115
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmad-J.-Dabdab:
+    individualname: Ahmad J. Dabdab
+    role: creator
+  Dabdab-Ahmad-J.:
+    individualname: Dabdab, Ahmad J.
+    role: ''
+    organization: Associate professor, Department of Civil Engineering, Philadelphia
+      University, Jordan
+    url: ''
+content_info: {}

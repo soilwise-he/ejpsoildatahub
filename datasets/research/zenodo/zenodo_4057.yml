@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1089637
+  dataseturi: https://doi.org/10.5281/zenodo.1089637
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Pond Ash And Rbi Grade 81 On Properties Of Subgrade Soil And Base
+    Course Of Flexible Pavement
+  abstract: 'This paper deals with use of pond ash and RBI Grade 81 for improvement
+    in CBR values of clayey soil and grade-III materials used for base course of flexible
+    pavement. The pond ash is a thermal power plant waste and RBI Grade 81 is chemical
+    soil stabilizer. The geotechnical properties like Maximum Dry Density (MDD), Optimum
+    Moisture Content (OMC), Unconfined Compressive Strength (UCS), CBR value and Differential
+    Free Swell (DFS) index of soil are tested in the laboratory for different mixes
+    of soil, pond ash and RBI Grade 81 for different proportions. The mixes of grade-III
+    material, pond ash and RBI Grade 81 tested for CBR test. From the study it is
+    found that the geotechnical properties of clayey soil are improved significantly,
+    if pond ash added with RBI Grade 81. The optimum mix recommended for subgrade
+    is soil: pond ash: RBI Grade 81 in proportions of 76:20:4. The CBR value of grade-III
+    base course treated with 20% pond ash and 4% RBI Grade 81 is increased by 125.93%
+    as compared to untreated grade-III base course.'
+  keywords:
+    default:
+      keywords:
+        subject: "RBI Grade 81\u2122."
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-11-01'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1089637
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1089636
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-M.-Patil:
+    individualname: B. M. Patil
+    role: creator
+    organization: ''
+    url: ''
+  K.-A.-Patil:
+    individualname: K. A. Patil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

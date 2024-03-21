@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7001073
+  dataseturi: https://doi.org/10.5281/zenodo.7001073
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Farmyard Manure Application on Yield and Soil Fertility in Rice-Wheat
+    Rotation
+  abstract: This article 'Effect of Farmyard Manure Application on Yield and Soil
+    Fertility in Rice-Wheat Rotation' appeared in the International Rice Research
+    Notes series, created by the International Rice Research Institute (IRRI) to expedite
+    communication among scientists concerned with the development of improved technology
+    for rice and rice-based systems. The series is a mechanism to help scientists
+    keep each other informed of current rice research findings. The concise scientific
+    notes are meant to encourage rice scientists to communicate with one another to
+    obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Rotations
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1994-06-01'
+    publication: '1994'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7001073
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7001072
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Brar-B.-S.:
+    individualname: Brar, B. S.
+    role: creator
+    organization: ''
+    url: ''
+  Dhillon-N.-S.:
+    individualname: Dhillon, N. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

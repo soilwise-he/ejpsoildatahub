@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1315422
+  dataseturi: https://doi.org/10.5281/zenodo.1315422
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Fines On Liquefaction Susceptibility Of Sandy Soil
+  abstract: Investigation of liquefaction susceptibility of materials that have been
+    used in embankments, slopes, dams, and foundations is very essential. Many catastrophic
+    geo-hazards such as flow slides, declination of foundations, and damage to earth
+    structure are associated with static liquefaction that may occur during abrupt
+    shearing of these materials. Many artificial backfill materials are mixtures of
+    sand with fines and other composition. In order to provide some clarifications
+    and evaluations on the role of fines in static liquefaction behaviour of sand
+    sandy soils, the effect of fines on the liquefaction susceptibility of sand was
+    experimentally examined in the present work over a range of fines content, relative
+    density, and initial confining pressure. The results of an experimental study
+    on various sand-fines mixtures are presented. Undrained static triaxial compression
+    tests were conducted on saturated Perth sand containing 5% bentonite at three
+    different relative densities (10, 50, and 90%), and saturated Perth sand containing
+    both 5% bentonite and slag (2%, 4%, and 6%) at single relative density 10%. Undrained
+    static triaxial tests were performed at three different initial confining pressures
+    (100, 150, and 200 kPa). The brittleness index was used to quantify the liquefaction
+    potential of sand-bentonite-slag mixtures. The results demonstrated that the liquefaction
+    susceptibility of sand-5% bentonite mixture was more than liquefaction susceptibility
+    of clean sandy soil. However, liquefaction potential decreased when both of two
+    fines (bentonite and slag) were used. Liquefaction susceptibility of all mixtures
+    decreased with increasing relative density and initial confining pressure.
+  keywords:
+    default:
+      keywords:
+        subject: slag.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1315422
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1315421
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ayad-Salih-Sabbar:
+    individualname: Ayad Salih Sabbar
+    role: creator
+    organization: ''
+    url: ''
+  Amin-Chegenizadeh:
+    individualname: Amin Chegenizadeh
+    role: creator
+  Hamid-Nikraz:
+    individualname: Hamid Nikraz
+    role: creator
+  Chegenizadeh-Amin:
+    individualname: Chegenizadeh, Amin
+    role: ''
+    organization: ''
+    url: ''
+  Nikraz-Hamid:
+    individualname: Nikraz, Hamid
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

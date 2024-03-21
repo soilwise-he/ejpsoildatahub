@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5094729
+  dataseturi: https://doi.org/10.5281/zenodo.5094729
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Georeferenced Spanish Soil Profile Database (SODES)-Metadata
+  abstract: The Georeferenced Spanish Soil Profile Database (SODES) contains soil
+    information and data values for 1683 georereferenced soil profiles, compiled from
+    an extensive bibliographic review. SODES allows the characterisation of the different
+    peninsular Spanish soil types and is a suitable tool for assessments and decision
+    making purposes dealing with different issues.
+  keywords:
+    default:
+      keywords:
+        subject: soil datasets
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-19'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5094729
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5094729
+    type: WWW:LINK
+    title: IsReferencedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.5094728
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Trueba-Cristina:
+    individualname: Trueba, Cristina
+    role: creator
+    organization: CIEMAT
+    url: ''
+  Garcia-Puerta-Blanca:
+    individualname: Garcia-Puerta, Blanca
+    role: creator
+    organization: CIEMAT
+    url: ''
+  Millan-Rocio:
+    individualname: Millan, Rocio
+    role: creator
+    organization: CIEMAT
+    url: ''
+  Schimd-Thomas:
+    individualname: Schimd, Thomas
+    role: creator
+    organization: CIEMAT
+    url: ''
+  Lago-Carmen:
+    individualname: Lago, Carmen
+    role: creator
+    organization: CIEMAT
+    url: ''
+  Montero-Milagros:
+    individualname: Montero, Milagros
+    role: creator
+    organization: CIEMAT
+    url: ''
+content_info: {}

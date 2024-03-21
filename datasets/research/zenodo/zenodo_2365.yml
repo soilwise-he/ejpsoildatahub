@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3274342
+  dataseturi: https://doi.org/10.5281/zenodo.3274342
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Working paper
+identification:
+  title: 'LandGIS: global soil and vegetation mapping using legacy field observations
+    and state-of-the-art Machine Learning'
+  abstract: "In 2018 the OpenGeoHub Foundation released a web mapping system called\
+    \ \"LandGIS\" (available at https://openlandmap.org) which is envisaged as \u201C\
+    an OpenStreetMap-type system\u201D for land-related environmental data. The system\
+    \ hosts global, moderate to fine spatial resolution data (250m to 1km), and is\
+    \ intended for eventual production and provision of farm-scale data (100 m to\
+    \ 30 m) and beyond. It also comes with a basic API (https://landgisapi.opengeohub.org)\
+    \ that already allows OpenGeoHub to serve business and developers. LandGIS was\
+    \ produced jointly with the help of EnvirometriX Ltd (data sets / spatial prediction\
+    \ framework) and GILab Ltd (web-mapping services and client development and REST\
+    \ API functionality). This document outlines basic philosophy behind the OpenLandMap.org\
+    \ and why do we think world needs such a system. For more info please also refer\
+    \ to the Medium article \"Everybody has a right to know what's happening with\
+    \ the planet: towards a global commons\"."
+  keywords:
+    default:
+      keywords:
+        subject: LandGIS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-09'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3274342
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3274341
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hengl-Tomislav:
+    individualname: Hengl, Tomislav
+    role: creator
+    organization: OpenGeoHub
+    url: https://orcid.org/0000-0002-9921-5129
+  Wheeler-Ichsani:
+    individualname: Wheeler, Ichsani
+    role: creator
+    organization: OpenGeoHub
+    url: https://orcid.org/0000-0002-9425-9157
+  MacMillan-Robert-A.:
+    individualname: MacMillan, Robert A.
+    role: creator
+    organization: OpenGeoHub
+    url: https://orcid.org/0000-0001-9063-3634
+content_info: {}

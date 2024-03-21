@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Grant_2014
+  dataseturi: https://doi.org/10.1109/icgpr.2014.6970406
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Maxwell-wagner-sillars, adsorbed water, and free-water dielectric relaxations
+    within a hydrated arid-zone calcic soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Maxwell-wagner-sillars, adsorbed water, and free-water dielectric relaxations
+      within a hydrated arid-zone calcic soil
+    url: http://dx.doi.org/10.1109/icgpr.2014.6970406
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Grant-S.-A.:
+    individualname: Grant, S. A.
+    role: creator
+  Arcone-S.-A.:
+    individualname: Arcone, S. A.
+    role: creator
+  Boitnott-G.-E.:
+    individualname: Boitnott, G. E.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

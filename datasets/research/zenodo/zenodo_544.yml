@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.4122-1.1000000563
+  dataseturi: https://doi.org/10.4122/1.1000000563
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spatial Scaling of Soil Moisture, Evapotranspiration, and Leakage
+  abstract: "An outstanding issue in ecohydrological modeling is scaling nonlinear\
+    \ plant-level \ninteractions among soil, vegetation, and water to larger spatial\
+    \ scales.  Spatial \nheterogeneity in precipitation and vegetation exert significant\
+    \ control on scaling \nproperties, especially in water-limited ecosystems.  Computational\
+    \ results indicate \nthat relationships between spatially averaged variables controlling\
+    \ soil-moisture \ndynamics are non-unique at larger averaging scales, even when\
+    \ unique, non-hysteretic \nrelationships are defined at the plant level.  The\
+    \ complexity of these relationships \nevolves with increasing averaging area based\
+    \ on the characteristics of the spatial \nheterogeneity.  Through detail simulation\
+    \ studies, we can identify a threshold scale \nfor soil moisture, evapotranspiration,\
+    \ and leakage beyond which the non-unique \nrelationships will vary only slowly\
+    \ as averaging area becomes larger.  The threshold \nscale, which is analogous\
+    \ to the concept of a representative elementary area, \nenables identification\
+    \ of a large-scale relationship that is meaningful with respect \nto the characteristics\
+    \ of the system.\n\nWe use numerical simulations to assess the effects of storm\
+    \ spatial structure, \nrainfall intensity and frequency, and soil and vegetation\
+    \ characteristics on \nthreshold-scale values of the relevant variables.  Results\
+    \ are generalized by \nrelating the threshold scales to a dimensionless group\
+    \ of parameters that includes \nlength scales characteristic of the heterogeneity\
+    \ and the model's resolution.  We \nthen evaluate how the computationally derived\
+    \ non-unique relationships relate to \nanalytical approaches to obtain spatially\
+    \ averaged functional relationships.  \nSpecific comparison of empirically obtained\
+    \ upscaled functions (based on the non-\nunique relationships) with the so-called\
+    \ statistical dynamic approach provides \nguidelines to account for spatial heterogeneity\
+    \ in soil, plant, and climate systems."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.4122/1.1000000563
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Puma-Michael:
+    individualname: Puma, Michael
+    role: creator
+    organization: ''
+    url: mpuma@princeton.edu
+  Celia-Michael:
+    individualname: Celia, Michael
+    role: creator
+    organization: ''
+    url: celia@princeton.edu
+  Rodriguez-Iturbe-Ignacio:
+    individualname: Rodriguez-Iturbe, Ignacio
+    role: creator
+    organization: ''
+    url: irodrigu@princeton.edu
+  Nordbotten-Jan:
+    individualname: Nordbotten, Jan
+    role: creator
+    organization: ''
+    url: jnordbot@princeton.edu
+  Guswa-Andrew:
+    individualname: Guswa, Andrew
+    role: creator
+    organization: ''
+    url: aguswa@email.smith.edu
+content_info: {}

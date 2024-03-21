@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126303
+  dataseturi: https://doi.org/10.5281/zenodo.1126303
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Bamboo Chips In Cemented Sand Soil On Permeability And Mechanical
+    Properties In Triaxial Compression
+  abstract: Cement utilization to improve the properties of soil is a well-known method
+    applied in field. However, its addition in large quantity must be controlled.
+    This study presents utilization of natural and environmental-friendly material
+    mixed with small amount of cement content in soil improvement, i.e. bamboo chips.
+    Absorbability, elongation, and flatness ratio of bamboo chips were examined to
+    investigate and understand the influence of its characteristics in the mixture.
+    Improvement of dilation behavior as a problem of loose and poorly graded sand
+    soil is discussed. Bamboo chips are able to improve the permeability value that
+    affects the dilation behavior of cemented sand soil. It is proved by the stress
+    path as the result of triaxial compression test in the undrained condition. The
+    effect of size and content variation of bamboo chips, as well as the curing time
+    variation are presented and discussed.<br>
+  keywords:
+    default:
+      keywords:
+        subject: triaxial compression.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-03'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126303
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126302
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sito-Ismanti:
+    individualname: Sito Ismanti
+    role: creator
+    organization: ''
+    url: ''
+  Noriyuki-Yasufuku:
+    individualname: Noriyuki Yasufuku
+    role: creator
+  Yasufuku-Noriyuki:
+    individualname: Yasufuku, Noriyuki
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

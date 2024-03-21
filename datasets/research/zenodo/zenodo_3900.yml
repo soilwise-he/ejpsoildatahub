@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1088702
+  dataseturi: https://doi.org/10.5281/zenodo.1088702
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Different Tillage Systems On Soil Properties And Production On
+    Wheat, Maize And Soybean Crop
+  abstract: 'Soil tillage systems can be able to influence soil compaction, water
+    dynamics, soil temperature and crop yield. These processes can be expressed as
+    changes of soil microbiological activity, soil respiration and sustainability
+    of agriculture. Objectives of this study were: 1 - to assess the effects of tillage
+    systems (Conventional System (CS), Minimum Tillage (MT), No-Tillage (NT)) on soil
+    compaction, soil temperature, soil moisture and soil respiration and 2- to establish
+    the effect of the changes on the production of wheat, maize and soybean. Five
+    treatments were installed: CS-plough; MT-paraplow, chisel, rotary grape; NT-direct
+    sowing. The study was conducted on an Argic-Stagnic Faeoziom. The MT and NT applications
+    reduce or completely eliminate the soil mobilization, due to this; soil is compacted
+    in the first year of application. The degree of compaction is directly related
+    to soil type and its state of degradation. The state of soil compaction diminished
+    over time, tending toward a specific type of soil density. Soil moisture was higher
+    in NT and MT at the time of sowing and in the early stages of vegetation and differences
+    diminished over time. Moisture determinations showed statistically significant
+    differences. The MT and NT applications reduced the thermal amplitude in the first
+    15cm of soil depth and increased the soil temperature by 0.5-2.2<sup>0</sup>C.
+    Water dynamics and soil temperature showed no differences on the effect of crop
+    yields. The determinations confirm the effect of soil tillage system on soil respiration;
+    the daily average was lower at NT (315-1914 mmoli m<sup>-2</sup>s<sup>-1</sup>)
+    and followed by MT (318-2395 mmoli m<sup>-2</sup>s<sup>-1</sup>) and is higher
+    in the CS (321-2480 mmol m<sup>-2</sup>s<sup>-1</sup>). Comparing with CS, all
+    the four conservation tillage measures decreased soil respiration, with the best
+    effects of no-tillage. Although wheat production at MT and NT applications, had
+    no significant differences soybean production was significantly affected from
+    MT and NT applications. The differences in crop yields are recorded at maize and
+    can be a direct consequence of loosening, mineralization and intensive mobilization
+    of soil fertility.'
+  keywords:
+    default:
+      keywords:
+        subject: yield.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-03'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1088702
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1088701
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-I.-Moraru:
+    individualname: P. I. Moraru
+    role: creator
+    organization: ''
+    url: ''
+  T.-Rusu:
+    individualname: T. Rusu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

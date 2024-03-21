@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kibria_2022
+  dataseturi: https://doi.org/10.11591/eei.v11i3.3554
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Internet of things based automated agriculture system for irrigating soil
+  abstract: '&lt;p&gt;This work describes the design of an internet of things (IoT)-based
+    prototype system for outdoor agriculture farmland that employs low-cost sensors
+    for detecting basic agriculture parameters such as soil moisture level, air temperature,
+    and air humidity to irrigate the farmland automatically and manually while tracing
+    the water volume. Therefore, since the water requirement varies according to plant
+    type and plant growth stages, this research focuses on a feature where user can
+    adjust the soil moisture level from software according to the plant type and age
+    stages so that a suitable moisture level can be maintained for plants. Apart from
+    that, the system also has a feature to adjust the temperature threshold limit
+    from the application software so that when the temperature sensor value exceeds
+    the respective threshold limits, it sprinkles the water for a limited time so
+    that plants are not damaged due to overheating. Google sheets is used for cloud
+    storage, and Wi-Fi is used to send data to the cloud using the HTTP protocol.
+    The Blynk application software is used to monitor and control purposes.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Blynk application
+      - Internet of things
+      - IoT cloud storage
+      - Microcontroller
+      - Smart agriculture
+      - Smart irrigation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Internet of things based automated agriculture system for irrigating soil
+    url: http://dx.doi.org/10.11591/eei.v11i3.3554
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Md.-Goalm-Kibria:
+    individualname: Md. Goalm Kibria
+    role: creator
+  Mohamad-Tarmizi-Abu-Seman:
+    individualname: Mohamad Tarmizi Abu Seman
+    role: creator
+  Kibria-Md.-Golam:
+    individualname: Kibria, Md. Golam
+    role: creator
+  Seman-Mohamad-Tarmizi-Abu:
+    individualname: Seman, Mohamad Tarmizi Abu
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

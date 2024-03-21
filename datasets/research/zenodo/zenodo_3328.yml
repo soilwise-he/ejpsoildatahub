@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2663185
+  dataseturi: https://doi.org/10.5281/zenodo.2663185
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Bearing Capacity of Sulphuric Acid Content Soil
+  abstract: Tests were conducted to determine the property of soil with variation
+    of H2SO4 content for soils under different stage. The soils had varying amounts
+    of plasticity's ranging from low to high plasticity. The unsaturated soil behavior
+    was investigated for different conditions, covering a range of compactive efforts
+    and water contents. The soil characteristic curves were more sensitive to changes
+    in compaction effort than changes in compaction water content. In this research
+    paper two types of water (Ground water Ph =7.9, Turbidity= 13 ppm; Cl =2.1mg/l
+    and surface water Ph =8.65; Turbidity=18.5; Cl=1mg/l) were selected of Bhilai
+    Nagar, State-Chhattisgarh, India which is mixed with a certain type of soil. Results
+    shows that by the presence of ground water day by day the particles are becoming
+    coarser in 7 days thereafter its size reduces; on the other hand by the presence
+    of surface water the courser particles are disintegrating, finer particles are
+    accumulating and also the dry density is reduces. Plasticity soils retained the
+    smallest water content and the highest plasticity soils retained the highest water
+    content at a specified suction. In addition, soil characteristic for soils to
+    be compacted in the laboratory and in the field are still under process for analyzing
+    the bearing capacity. The bearing capacity was reduced 2 to 3 times in the presence
+    of H2SO4.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-05-21'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2663185
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2663184
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-N.-Khare:
+    individualname: R. N. Khare
+    role: creator
+    organization: ''
+    url: ''
+  J.-P.-Sahu:
+    individualname: J. P. Sahu
+    role: creator
+    organization: ''
+    url: ''
+  Rajesh-Kumar-Tamrakar:
+    individualname: Rajesh Kumar Tamrakar
+    role: creator
+  Tamrakar-Rajesh-Kumar:
+    individualname: Tamrakar, Rajesh Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

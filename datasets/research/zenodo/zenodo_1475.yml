@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garcia_2020
+  dataseturi: https://doi.org/10.3329/ijarit.v10i1.48099
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A novel method to test for lead contamination in soil around US schools
+  abstract: '&lt;p&gt;It has been rumored that soils around schools in the US are
+    contaminated with lead, which is known to be harmful to children, and is known
+    to inhibit plant growth. The purpose of this study is to investigate the growth
+    of plants in soil sampled from US schools to see if decreased plant growth can
+    indicate lead contamination before testing is done. After comparing the time until
+    germination, height, and root length of radishes grown in soil from the surrounding
+    area of the school to that of those grown in uncontaminated soil, we found that
+    radishes grown in soil from schools germinated at a rate 38% slower than radishes
+    grown in uncontaminated soil (HR = 0.62, 95% CI 0.33-1.2, Ptrend = 0.13). The
+    mean radish heights between the two groups were also found to be significantly
+    different (p = 0.12). Decreased plant growth may serve as an indicator for soil
+    contamination before other laboratory tests are done. It is recommended that further
+    testing for lead and other toxins should be conducted on the soil of the surrounding
+    area, and larger studies with multiple species of plants should be conducted to
+    see if these trends could be applied to the general plant population around schools.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Lead
+      - Germination
+      - Growth
+      - Height
+      - Root length
+      - Contamination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A novel method to test for lead contamination in soil around US schools
+    url: http://dx.doi.org/10.3329/ijarit.v10i1.48099
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H-Garcia:
+    individualname: H Garcia
+    role: creator
+  R-Palacio:
+    individualname: R Palacio
+    role: creator
+  Garcia-H:
+    individualname: Garcia, H
+    role: creator
+  Palacio-R:
+    individualname: Palacio, R
+    role: creator
+  Bangladesh-Journals-Online-JOL:
+    individualname: Bangladesh Journals Online (JOL)
+    role: creator
+content_info: {}

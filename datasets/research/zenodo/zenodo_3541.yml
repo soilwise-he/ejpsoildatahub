@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Priya_2020
+  dataseturi: https://doi.org/10.35940/ijeat.D8436.049420
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Predictive Analysis of IoT Enabled Garden Soil Requirements using Web Services
+  abstract: '&lt;p&gt;Smart gardening plays a key role in both supply and distribution
+    of water to the plants. Plants play a key role in providing habitat and food for
+    wild animals, human beings and regulate the water cycle. The important parameters
+    for the quality and productivity of a plant growth are soil temperature, soil
+    moisture, nutrients, humidity and Potential of Hydrogen (PH). Soil moisture is
+    the main factor which is most the effective reliable way to increase yielding.
+    The main aim of the present research work, is to sense the essentials and fulfil
+    the needs of the plants. For the real time practice there are five different garden
+    zones such as Patio, Front yard, Back yard, Balcony and Terrace. Switch is used
+    to operate the solenoid valve which is instructed by the web server in communication
+    with the cloud data base. By physical verification and plant requirements a time
+    interval of 4 min was set in the cloud data base. Internet of things (IOT) and
+    cloud computing are two complementary technologies which were merged with the
+    application specific hardware design enriched with smart sensors collectively
+    provides the data which is stored in cloud. The data stored in the cloud database
+    is accessed using the web services. Feedback system which is used to send and
+    receive the data that can be used for the analysis of requirements.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - G-Switch
+      - Solenoid
+      - Drip irrigation
+      - Web Server.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Predictive Analysis of IoT Enabled Garden Soil Requirements using Web Services
+    url: http://dx.doi.org/10.35940/ijeat.D8436.049420
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-Ojeswini-Sesi-Priya:
+    individualname: K. Ojeswini Sesi Priya
+    role: creator
+  P.V.S.S.-Rashmika:
+    individualname: P.V.S.S. Rashmika
+    role: creator
+  K.-Jamal:
+    individualname: K. Jamal
+    role: creator
+  R.-Indu-Sree:
+    individualname: R. Indu Sree
+    role: creator
+  T.N.S.-Kruthika:
+    individualname: T.N.S. Kruthika
+    role: creator
+  Priya-Ms.-K.-Ojeswini-Sesi:
+    individualname: Priya, Ms. K. Ojeswini Sesi
+    role: creator
+  Rashmika-Ms.-P.V.S.S.:
+    individualname: Rashmika, Ms. P.V.S.S.
+    role: creator
+  Jamal-Mr.-K.:
+    individualname: Jamal, Mr. K.
+    role: creator
+  Sree-Ms.-R.-Indu:
+    individualname: Sree, Ms. R. Indu
+    role: creator
+  Kruthika-Ms.-T.N.S:
+    individualname: Kruthika, Ms. T.N.S
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

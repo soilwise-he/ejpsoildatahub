@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1108454
+  dataseturi: https://doi.org/10.5281/zenodo.1108454
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Dynamic Soil-Structure Interaction Analysis Of Reinforced Concrete Buildings
+  abstract: 'The objective of this paper is to evaluate the effects of
+
+    soil-structure interaction (SSI) on the modal characteristics and on
+
+    the dynamic response of current structures. The objective is on the
+
+    overall behaviour of a real structure of five storeys reinforced
+
+    concrete (R/C) building typically encountered in Algeria. Sensitivity
+
+    studies are undertaken in order to study the effects of frequency
+
+    content of the input motion, frequency of the soil-structure system,
+
+    rigidity and depth of the soil layer on the dynamic response of such
+
+    structures. This investigation indicated that the rigidity of the soil
+
+    layer is the predominant factor in soil-structure interaction and its
+
+    increases would definitely reduce the deformation in the R/C
+
+    structure. On the other hand, increasing the period of the underlying
+
+    soil will cause an increase in the lateral displacements at story levels
+
+    and create irregularity in the distribution of story shears. Possible
+
+    resonance between the frequency content of the input motion and soil
+
+    could also play an important role in increasing the structural
+
+    response.'
+  keywords:
+    default:
+      keywords:
+        subject: soil-structure interaction.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-08-04'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1108454
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1108453
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdelhacine-Gouasmia:
+    individualname: Abdelhacine Gouasmia
+    role: creator
+    organization: ''
+    url: ''
+  Abdelhamid-Belkhiri:
+    individualname: Abdelhamid Belkhiri
+    role: creator
+    organization: ''
+    url: ''
+  Allaeddine-Athmani:
+    individualname: Allaeddine Athmani
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

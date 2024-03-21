@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8002474
+  dataseturi: https://doi.org/10.5281/zenodo.8002474
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A global estimate of monthly vegetation and soil fractions from spatio-temporally
+    adaptive spectral mixture analysis during 2001-2022
+  abstract: "This dataset is an example of global estimates of monthly vegetation\
+    \ and soil fractions using spatio-temporally adaptive spectral mixture analysis.\
+    \ Due to the database capacity limitation, we uploaded a part of the dataset (2001,\
+    \ 2005, 2010, 2015, and 2020), which is a month-by-month export of the data, according\
+    \ to the grid of longitude 60\xB0 and Latitude 50\xB0. Since the dataset for each\
+    \ year includes 216 files, named as 'SMA_year_(month-1)_gridid.tif', like 'SMA_2001_0_0.tif'\
+    \ These datasets of other years can be exported from GEE by our code or achieved\
+    \ by request from authors. Here is a schematic of global girds 65N 2 5 8 11 14\
+    \ 17 15N 1 4 7 10 13 16 35S 0 3 6 9 12 15 -150W -90W -30W 30E 90E 150E"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8002474
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8002473
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Qiangqiang-sun:
+    individualname: Qiangqiang sun
+    role: creator
+  Qiangqiang-Sun:
+    individualname: Qiangqiang Sun
+    role: ''
+    organization: China Agricultural University
+    url: ''
+content_info: {}

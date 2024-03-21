@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7884262
+  dataseturi: https://doi.org/10.5281/zenodo.7884262
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOME ENGINEERING PROPERTIES OF UDZUNGWA SCARP SOIL
+  abstract: The Udzungwa scarp is prone to landslide, slope instability, and severe
+    erosion brought about by several interrelated factors like rainfall, soil geological
+    formation, geomorphological feature of the slope and gross engineering properties
+    of the soil available within the scarp. In this paper, some engineering properties
+    of soil available within the scarp are discussed. Various soil engineering characteristics,
+    erosion, and slope stability problems are pinpointed and discussed. This paper
+    is based on the study carried out during pre-construction, construction, and post-construction
+    investigation of 16 Km of Kihansi Dam Access road, which is traversing the Udzungwa
+    escarpment.
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion, land slide, mica in soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-08-11'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7884262
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7884261
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Maregesi-Gerald:
+    individualname: Maregesi, Gerald
+    role: creator
+    organization: Advanced Engineering Solutions
+    url: 0000-0001-7260-2076
+content_info: {}

@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4318716
+  dataseturi: https://doi.org/10.5281/zenodo.4318716
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application of Growth Regulators and Saprophytic Fungi Trichoderma viride
+    Pers ex Fr. to Improve the Sanitary Condition of the Soil under Pepper Crops
+  abstract: The article presents studies of the effect of the microbiological preparation
+    "Trichodermine", bio-organic fertilizers and growth regulators based on humic
+    acids "Nagro", "Stimix", "BioLife" and mineral fertilizers (NPK) on the biological
+    activity of the soil, the degree of disease caused by Alternaria capsici-annui
+    Savul &amp; Sandu and the yield of pepper in the field. It was found that the
+    differences in the indicator "Biological Activity of the Soil" depend on the number
+    of microorganisms, the composition (species diversity) and the percentage of the
+    main Micromycetes. Organic products help to optimize soil health and reduce the
+    total content of fungal colonies, and in the composition of Micromycetes, the
+    fungus Trichoderma sp. is more common. When mineral fertilizers are applied, the
+    number of fungal pathogens and toxin producers increases. A higher total yield
+    was obtained in the variants with biological treatment. The yield increase is
+    from 9% to 29%.
+  keywords:
+    default:
+      keywords:
+        subject: vegetable production, biological activity of the soil, resistance
+          to diseases
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-12'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4318716
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4318715
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Georgieva-Olga:
+    individualname: Georgieva, Olga
+    role: creator
+    organization: Maritsa Vegetable Crops Research Institute
+    url: ''
+  Karadzhova-Natalia:
+    individualname: Karadzhova, Natalia
+    role: creator
+    organization: Maritsa Vegetable Crops Research Institute
+    url: ''
+content_info: {}

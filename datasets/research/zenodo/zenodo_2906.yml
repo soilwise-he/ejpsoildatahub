@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7417642
+  dataseturi: https://doi.org/10.5281/zenodo.7417642
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Long-term effects of Piliostigma reticulatum (DC) Hochst' densities on soil
+    water status and carbon stock in Burkina Faso's northern Sudanian
+  abstract: "Paper published in the 5th World Congress on Agroforestry 17-20 July\
+    \ 2022, Qu\xE9bec, Canada."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: fra
+  dates:
+    creation: ''
+    issued: '2022-12-09'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7417642
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7417641
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gnissien-Moussa:
+    individualname: Gnissien, Moussa
+    role: creator
+    organization: "Laboratoire d'Etude et de Recherche sur la Fertilit\xE9 du Sol,\
+      \ Universit\xE9 Nazi Boni, Burkina Faso"
+    url: ''
+  Coulibaly-Kalifa:
+    individualname: Coulibaly, Kalifa
+    role: creator
+    organization: "Laboratoire d'Etude et de Recherche sur la Fertilit\xE9 du Sol,\
+      \ Universit\xE9 Nazi Boni, Burkina Faso"
+    url: ''
+  Barro-Moussa:
+    individualname: Barro, Moussa
+    role: creator
+    organization: "Laboratoire d'Etude et de Recherche sur la Fertilit\xE9 du Sol,\
+      \ Universit\xE9 Nazi Boni, Burkina Faso"
+    url: ''
+  Douzet-Jean-Marie:
+    individualname: Douzet, Jean Marie
+    role: creator
+    organization: UPR AIDA, CIRAD, Ouagadougou, Burkina Faso
+    url: ''
+  Cournac-Laurent:
+    individualname: Cournac, Laurent
+    role: creator
+    organization: "Universit\xE9 de Montpellier, IRD, CIRAD, INRAE, Institut Agro,\
+      \ Montpellier France"
+    url: ''
+  Nacro-Hassan-B.:
+    individualname: Nacro, Hassan B.
+    role: creator
+    organization: "Laboratoire d'Etude et de Recherche sur la Fertilit\xE9 du Sol,\
+      \ Universit\xE9 Nazi Boni, Burkina Faso"
+    url: ''
+content_info: {}

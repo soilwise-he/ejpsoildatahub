@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4040969
+  dataseturi: https://doi.org/10.5281/zenodo.4040969
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Different Soil Amendments and season on root quality, shelf life
+    and profitability of carrot (Daucus carota L.)
+  abstract: '<em>The objective for the study was to determine the effect of different
+    rates of soil amendment and season on root quality, shelf life and profitability
+    of carrot (Daucus carota L.) production in the transitional zone of Ghana. The
+    experiment was laid out in a 10 x 2 factorial with treatments arranged in Randomized
+    Complete Block Design (RCBD). The factors were ten different rates of soil amendments
+    and two seasons</em><em>. The soil amendments used were: control (T<sub>1</sub>),
+    </em><em>5 ton/ha poultry manure </em><em>(T<sub>2</sub>), </em><em>45-45-45 kg/ha
+    NPK,</em><em> (T<sub>3</sub>), </em><em>5 ton/ha compost</em><em> (T<sub>4</sub>),
+    </em><em>7.5 ton/ha compost</em><em> (T<sub>5</sub>), </em><em>10 ton/ha compost</em><em>
+    (T<sub>6</sub>), </em><em>50 % NPK + 2.5 ton/ha compost</em><em> (T<sub>7</sub>),
+    </em><em>50 % NPK + 3.75 ton/ha compost</em><em> (T<sub>8</sub>), </em><em>50
+    % NPK + 5 ton/ha compost</em><em> (T<sub>9</sub>) and </em><em>50 % NPK + 2.5
+    ton/ha poultry manure </em><em>(T<sub>10</sub>). The seasons were major and minor.
+    There were four replications. </em><em>All data collected were subjected to analysis
+    of variance (ANOVA) using GENSTAT Version 11.1 (2008). The application of 7.5
+    ton/ha compost significantly showed greatest values for beta carotene, root cracking
+    and total soluble solid. The control treatment had significantly the longest shelf
+    life than the amended treatments. High (P &lt; 0.05) cost of production was observed
+    among carrot plants supplied with 10 ton/ha compost while the profit obtained
+    was highest (P &lt; 0.05) in the application of 7.5 ton/ha compost. With respect
+    to season, weight loss of carrots at 15 DAH was significantly (P &lt; 0.05) higher
+    in the major rainy season. The minor rainy season recorded the highest levels
+    of vitamin C. The highest profit margin was observed in the major rainy season.
+    This study concludes that 7.5 ton/ha compost promote bigger roots, root quality
+    and maximize profit.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Beta-carotene, vitamin C, root cracking, shrink carrots, profit margin
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4040969
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4040968
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Patrick-Atta-Poku-Snr:
+    individualname: Patrick Atta Poku Snr
+    role: creator
+  Joseph-Sarkodie-Addo:
+    individualname: Joseph Sarkodie-Addo
+    role: creator
+  Vincent-Logah:
+    individualname: Vincent Logah
+    role: creator
+  Clement-Gyeabour-Kyere:
+    individualname: Clement Gyeabour Kyere
+    role: creator
+  Snr-Patrick-Atta-Poku:
+    individualname: Snr, Patrick Atta Poku
+    role: ''
+    organization: ''
+    url: ''
+  Sarkodie-Addo-Joseph:
+    individualname: Sarkodie-Addo, Joseph
+    role: ''
+    organization: ''
+    url: ''
+  Logah-Vincent:
+    individualname: Logah, Vincent
+    role: ''
+    organization: ''
+    url: ''
+  Kyere-Clement-Gyeabour:
+    individualname: Kyere, Clement Gyeabour
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

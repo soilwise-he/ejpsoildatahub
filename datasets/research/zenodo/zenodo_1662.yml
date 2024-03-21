@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wang_2013
+  dataseturi: https://doi.org/10.1109/igarss.2013.6723539
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Research on dynamic evolution of soil salinization in Tianjin costal area
+    using remote sensing
+  abstract: Soil Salinization is one of the most devastating land degradation in agriculture
+    and environment all around the world. The salinization classification map composed
+    of four stages of salinity can be generated using remote sensing technology. In
+    this paper we propose a semi-supervised procedure for dynamic evolution monitoring
+    of soil salinization in Tianjin costal area based on the use of Landsat data.
+    The trends and extents of soil salinization for a period from 1989 to 2009 are
+    investigated every 10 years. Compared with traditional 2-D spectral space of NIR-R
+    bands, the results reveals that highly saline soils can be easily differentiated
+    in NDVI-Brightness 2-D spectral space, which is a powerful tool for exploring
+    salinization information in Landsat data. Mapping and monitoring soil salinization
+    changes in arid and semi-arid regions by means of remote sensing is effective
+    for producing detailed and accurate land degradation information.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Research on dynamic evolution of soil salinization in Tianjin costal area
+      using remote sensing
+    url: http://dx.doi.org/10.1109/igarss.2013.6723539
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wang-Jun:
+    individualname: Wang, Jun
+    role: creator
+  Li-Zhoujing:
+    individualname: Li, Zhoujing
+    role: creator
+  Qin-Xuebin:
+    individualname: Qin, Xuebin
+    role: creator
+  Yang-Xiucheng:
+    individualname: Yang, Xiucheng
+    role: creator
+  Qin-Qiming:
+    individualname: Qin, Qiming
+    role: creator
+  Zhang-Ning:
+    individualname: Zhang, Ning
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

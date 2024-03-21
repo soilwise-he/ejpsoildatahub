@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7317344
+  dataseturi: https://doi.org/10.5281/zenodo.7317344
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Dynamic characteristics of the working bodies of cultivators during the intensified
+    process of soil cultiva-tion
+  abstract: The article discusses a laboratory experimental study of the oscillations
+    of the S-shaped stand of the cultivator working body in order to determine its
+    main parameters during the implementation of the soil loosening process. The studies
+    carried out made it possible to obtain results by which it is possible to track
+    the nature of changes in the main indicators of the loosening process, which is
+    accompanied by deformations of the elastic strut of the working body and have
+    a vibration nature, which determines the process of soil cultivation by oscillatory
+    working bodies, such as acceleration, angular velocities, Euler orientation angles,
+    efforts resistance forces, displacement of the end of the rack, spectral density
+    of vibration accelerations and spectral density of traction. The expediency of
+    using stochastic approaches has been substantiated while ensuring a sufficient
+    level of reliability indicators of the elastic struts of the working bodies of
+    tillage aggregates at the design stage. 93 m/s to 2.5 m/s. The presence of oscillations
+    characterized by the difference between the force of resistance to the movement
+    of the working body before the destruction (loosening) of the soil and the force
+    of resistance to the movement of the organ during loosening is recorded, which
+    confirms the use of a stepwise two-stage model of changing the resistance forces.
+    The possibility of sudden failures of the cultivator rack as a result of the impact
+    of obstacles located on the working trajectory of the organs of the tillage aggregates
+    has been substantiated. Under the action of an extreme load in laboratory conditions,
+    a sharp increase in the deformation of the strut relative to the operating mode
+    by 6.5 times was recorded.
+  keywords:
+    default:
+      keywords:
+        subject: spectral density of traction
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2021-08-28'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7317344
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7317343
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alfyorov-A.-I.:
+    individualname: Alfyorov, A. I.
+    role: creator
+    organization: Kharkiv Petro Vasylenko National Technical University of Agriculture
+    url: https://orcid.org/0000-0002-0357-3141
+content_info: {}

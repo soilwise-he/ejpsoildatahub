@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1315457
+  dataseturi: https://doi.org/10.5281/zenodo.1315457
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assemblage Of Nest Soil Bacteria And Evaluate The Antibacterial Activity
+    Of Carpenter Ant (Camponotus Compressus) Mandibular Extracts Against Selective
+    Gram Staining Bacteria
+  abstract: "The present study was under taken to explore the assemblage of ant nest\
+    \ soil microbes and potential of mandibular gland extraction of carpenter ant\
+    \ Camponotus compressus. The microbial assemblages in nest soil from different\
+    \ habitats like Grasslands, Shola forest, Wattle plantation, Pine and Tea plantations\
+    \ were investigated. Among the isolated microbes from the nest soil bacteria,\
+    \ Staphylococcus aeureus was robust in three sites of the study area. Disc diffusion\
+    \ method was used to evaluate the antimicrobial activity of mandibular gland extraction\
+    \ against two robust microbial strains like S. aeureus and Escherichia coli. The\
+    \ result revealed that the maximum zone of inhibition was observed against the\
+    \ S. aeureus in both 10 \u03BCl and 20 \u03BCl of the mandibular sample and the\
+    \ minimum in gram negative bacteria Escherichia coli. The presences of mandibular\
+    \ gland proved have good capability more than commercially available antimicrobial\
+    \ products to kill or inhibit the growth of microbes inside the nests."
+  keywords:
+    default:
+      keywords:
+        subject: 10.5281/zenodo.1315457
+        subjectScheme: doi
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-07-19'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1315457
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1315456
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-Mohana:
+    individualname: P. Mohana
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

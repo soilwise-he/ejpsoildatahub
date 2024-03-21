@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4288747
+  dataseturi: https://doi.org/10.5281/zenodo.4288747
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Hidden heterogeneity and co-occurrence networks of soil prokarytotic communities
+    revealed at the scale of individual soil aggregates
+  abstract: Two Excel data files complementing information on the sequence variants
+    of 16S rRNA genes reported in the associated publication in Microbiology Open
+  keywords:
+    default:
+      keywords:
+        subject: microbial ecology, environmental microbiology, soil microbiology,
+          microbial communities, soil DNA, soil aggregates, network analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-20'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4288747
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4282475
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Christoph-Tebbe:
+    individualname: Christoph Tebbe
+    role: creator
+  Marton-Szoboszlay:
+    individualname: "M\xE1rton Szoboszlay"
+    role: creator
+  Tebbe-Christoph:
+    individualname: Tebbe, Christoph
+    role: ''
+    organization: "Th\xFCnen Institut f\xFCr Biodiversit\xE4t"
+    url: https://orcid.org/0000-0003-4861-0214
+  Szoboszlay-Marton:
+    individualname: "Szoboszlay, M\xE1rton"
+    role: ''
+    organization: "Th\xFCnen Institut f\xFCr Biodiversit\xE4t"
+    url: ''
+content_info: {}

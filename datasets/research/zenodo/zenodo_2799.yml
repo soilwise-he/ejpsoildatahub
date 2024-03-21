@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sheludchenko_2019
+  dataseturi: https://doi.org/10.15587/1729-4061.2019.182507
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Graph-analytical optimization of the transverse vertical cross-section of
+    a contact zone between soil and an elastic wheeled mover
+  abstract: '&lt;p&gt;The intensification of agricultural production under modern
+    conditions implies the use of super-powerful mobile technical means, which leads
+    to an increase in the levels of technogenic impact on soil and, consequently,
+    deteriorates its fertility. Therefore, the most acute issue related to current
+    agricultural production is aimed at resolving the task on improving the operational
+    indicators of wheeled running systems of mobile technical means. This necessitates
+    an analytical study into the processes of soil deformation under the elastic motors
+    of mobile wheeled agricultural machinery.&lt;/p&gt;
+
+
+    &lt;p&gt;We have proposed a procedure of the graph-analytical step-by-step modeling
+    of the process of soil deformation under pneumatic tires of mobile agricultural
+    equipment taking into consideration the changing shape of an elastic tire sheath.
+    Using appropriate graphic models makes it possible to explore, in stages, the
+    process of soil compaction inside the profile of the track it formed. It has been
+    found that in the contact area &laquo;deformed soil &ndash; the surface of an
+    elastic wheeled mover of the mobile vehicle&raquo; the highest level of compaction
+    is observed in the soil layer, which is directly in contact with the elastic mover.
+    The depth of the recompacted soil layer on the &laquo;track bottom&raquo; depends
+    on the dimensions of a tire of the wheeled mover and does not exceed the value
+    of 0.075 width of the tire. The highest soil compaction level is observed in the
+    area directly adjacent to the gauge. It has been established that the most dangerous
+    design of a pneumatic tire, in terms of soil overcompaction in the track, is the
+    shape of an elastic tire sheath that is described by the curve of the Cassini
+    oval with four points of inflection. We have outlined distinctive features of
+    recommendations to determine the operational values of tire working pressure depending
+    on specific physical-mechanical and agro-technological properties of soil and
+    the character of performed technological operations&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil compaction
+      - elastic deformer
+      - field of pressure forces
+      - nonlinearity of soil deformation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Graph-analytical optimization of the transverse vertical cross-section of
+      a contact zone between soil and an elastic wheeled mover
+    url: http://dx.doi.org/10.15587/1729-4061.2019.182507
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bogdan-Sheludchenko:
+    individualname: Bogdan Sheludchenko
+    role: creator
+  Egidijus-Sarauskis:
+    individualname: Egidijus Sarauskis
+    role: creator
+  Gennadii-Golub:
+    individualname: Gennadii Golub
+    role: creator
+  Savelii-Kukharets:
+    individualname: Savelii Kukharets
+    role: creator
+  Oleksandr-Medvedskyi:
+    individualname: Oleksandr Medvedskyi
+    role: creator
+  Viacheslav-Chuba:
+    individualname: Viacheslav Chuba
+    role: creator
+  Andrii-Zabrodskyi:
+    individualname: Andrii Zabrodskyi
+    role: creator
+  Sheludchenko-Bogdan:
+    individualname: Sheludchenko, Bogdan
+    role: creator
+  Sarauskis-Egidijus:
+    individualname: Sarauskis, Egidijus
+    role: creator
+  Golub-Gennadii:
+    individualname: Golub, Gennadii
+    role: creator
+  Kukharets-Savelii:
+    individualname: Kukharets, Savelii
+    role: creator
+  Medvedskyi-Oleksandr:
+    individualname: Medvedskyi, Oleksandr
+    role: creator
+  Chuba-Viacheslav:
+    individualname: Chuba, Viacheslav
+    role: creator
+  Zabrodskyi-Andrii:
+    individualname: Zabrodskyi, Andrii
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

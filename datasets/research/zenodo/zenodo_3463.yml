@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1337059
+  dataseturi: https://doi.org/10.5281/zenodo.1337059
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Semi-Cylindrical Capacitive Sensor Used For Soil Moisture Measurement
+  abstract: Differing from the structure of traditional parallel plate capacitive
+    sensor a semi cylindrical capacitive sensor has been introduced in this present
+    work to measure the soil moisture conveniently. Here, the numerical analysis method
+    to evaluate the capacitance from the semi-cylindrical capacitive sensor is analyzed
+    and discussed. The changes of capacitance with the variation of soil moisture
+    obtained linear in the nano farad range (nF) and which converted into voltage
+    variation by using proper signal conditioning circuit. Experimental results depict
+    the satisfactory performance of the sensor for measurement of soil moisture in
+    the range of 0 to 70%. We investigated the linearity of 4% of FSO and sensitivity
+    of 70 mV/unit percentage changes in soil moisture level (DB).
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-01-05'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1337059
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1337058
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Subir-Das:
+    individualname: Subir Das
+    role: creator
+  Tuhin-Subhra-Sarkar:
+    individualname: Tuhin Subhra Sarkar
+    role: creator
+    organization: ''
+    url: ''
+  Badal-Chakraborty:
+    individualname: Badal Chakraborty
+    role: creator
+    organization: ''
+    url: ''
+  Das-Subir:
+    individualname: Das, Subir
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5524407
+  dataseturi: https://doi.org/10.5281/zenodo.5524407
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: An Experimental Study on Strength and Compressibility Response of Plastic
+    Fibre Reinforced Soil
+  abstract: Rapid growth in industrialization and urbanization, leads to an increasing
+    scarcity of lands which is intending to utilize the available lands even though
+    it is problematic in nature. Problematic nature of soils leads to high plasticity
+    characteristics, low shear strength and high swell shrinkage characteristics.
+    These soils can be used for construction purposes only after adopting suitable
+    ground improvement techniques. On the other side huge volume of wastes from daily
+    life resulting in disposal problems and soil contamination and health issues.
+    In geotechnical view point plastic is a fibrous material that used for reinforcing
+    the soil is commonly known and it also influences the compaction and consolidation
+    behavior of that reinforced soil. View of the above, the present study is experimented
+    to study the feasibility of highly compressible clayey soil treated with HDPE
+    fiber in three aspect ratios (AR = l/b), 2(10x5mm), 4(10x2.5mm), 8(10x1.25mm)
+    at four different percentages 0.00, 0.25, 0.50, 1.00 by dry weight of soil. The
+    stabilized soil properties to be characterized by California bearing ratio test
+    (CBR), Unconfined Compression Test (UCC) and Consolidation Test.
+  keywords:
+    default:
+      keywords:
+        subject: Plastic bottle fibre, compression index, coefficient of volume change,
+          coefficient of consolidation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-09-23'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5524407
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5524406
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.Letcham:
+    individualname: K.Letcham
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Solamalai
+      College of Engineering, Madurai, Tamil Nadu, India.
+    url: ''
+  R.Manickavasagam:
+    individualname: R.Manickavasagam
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Solamalai
+      College of Engineering, Madurai, Tamil Nadu, India.
+    url: ''
+  T.Nirmala-Devi:
+    individualname: T.Nirmala Devi
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Solamalai
+      College of Engineering, Madurai, Tamil Nadu, India.
+    url: ''
+  G.Kalies:
+    individualname: G.Kalies
+    role: creator
+    organization: Department of Civil Engineering, Solamalai College of Engineering,
+      Madurai, Tamil Nadu, India.
+    url: ''
+content_info: {}

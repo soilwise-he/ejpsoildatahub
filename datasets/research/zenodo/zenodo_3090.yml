@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10708154
+  dataseturi: https://doi.org/10.5281/zenodo.10708154
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Towards a roadmap for EU Agricultural Soil Management - Guidelines for work
+    package 2 task 2.3 Identification of barriers and opportunities by scenario development
+  abstract: "The European Joint Program SOIL aims to create an integrated framework\
+    \ for soil research in Europe, tosupport harmonization of capacity, capability\
+    \ and knowledge for all Member States (MS), in order to enableall countries to\
+    \ use the knowledge on soil to face the global challenges. The program objective\
+    \ is to reducethe fragmentation of research to enhance agricultural soils potential\
+    \ to contribute to climate changeadaptation and mitigation, while preserving productivity\
+    \ and environmental functions.The soil knowledge has to be developed, shared and\
+    \ transferred, stored and organised, and applied, and task2.3 activity aims to\
+    \ identify barriers to and opportunities for the enhancement of knowledge \u2013\
+    \ development,sharing and transfer, organization and storage, application - on\
+    \ agricultural soils.\n\nOutput of task 2.3 will contribute to the definition\
+    \ of the roadmap, a key tool to support strategic decisionmaking for science,\
+    \ policy and implementation issues.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-05'
+    publication: '2020'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10708154
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10708153
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Farina-Roberta:
+    individualname: Farina, Roberta
+    role: creator
+    organization: ''
+    url: ''
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: creator
+    organization: ''
+    url: ''
+  Piccini-Chiara:
+    individualname: Piccini, Chiara
+    role: creator
+    organization: ''
+    url: ''
+  Vanino-Silvia:
+    individualname: Vanino, Silvia
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

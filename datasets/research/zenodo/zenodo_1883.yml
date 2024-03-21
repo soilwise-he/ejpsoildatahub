@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5808625
+  dataseturi: https://doi.org/10.5281/zenodo.5808625
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'New records of soil dwelling mites of the superfamily Pygmephoroidea (Acari:
+    Heterostimatina) from northern Iran'
+  abstract: 'Following a short-term faunistic study on soil inhabiting heterostigmatic
+    mites (Acari: Prostigmata: Heterostigmata), during springwinter 2019, in Gorgan,
+    Golestan Province, northern Iran, a total of six species from five genera of two
+    families were identified. Among them Promicrodispus pumilis (Sevastianov, 1975)
+    and Premicrodispus montanus Khaustov, 2006 are new records for mite fauna of Iran.
+    The genus Promicrodispus Khaustov, 2017 is recorded for the first time for the
+    mite fauna of Iran. Moreover, Pre. akermanae (Sevastianov &amp; Al Douri, 1988),
+    Paramicrodispus scarabidophilus Hajiqanbar &amp; Rahiminejad, 2012, Pygmodispus
+    (Allodispus) latisternus Paoli, 1911 and Scutacarus sphaeroideus Karafiati, 1959
+    were collected from soil in the sampling sites. The world distribution of the
+    mites is reviewed.'
+  keywords:
+    default:
+      keywords:
+        subject: Iran
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-07-05'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5808625
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5808624
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vahid-Rahiminejad:
+    individualname: Vahid Rahiminejad
+    role: creator
+  Sarina-Seyedein:
+    individualname: Sarina Seyedein
+    role: creator
+  Ahmad-Nadimi:
+    individualname: Ahmad Nadimi
+    role: creator
+  Rahiminejad-Vahid:
+    individualname: Rahiminejad, Vahid
+    role: ''
+    organization: Department of Plant Protection, Faculty of Plant Production, Gorgan
+      University of Agricultural Science and Natural Resource, Golestan, Iran.
+    url: ''
+  Seyedein-Sarina:
+    individualname: Seyedein, Sarina
+    role: ''
+    organization: Department of Plant Protection, Faculty of Plant Production, Gorgan
+      University of Agricultural Science and Natural Resource, Golestan, Iran.
+    url: ''
+  Nadimi-Ahmad:
+    individualname: Nadimi, Ahmad
+    role: ''
+    organization: Department of Plant Protection, Faculty of Plant Production, Gorgan
+      University of Agricultural Science and Natural Resource, Golestan, Iran.
+    url: ''
+content_info: {}

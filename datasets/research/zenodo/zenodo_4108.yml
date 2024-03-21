@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ANEES_2019
+  dataseturi: https://doi.org/10.33073/pjm-2019-021
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: In situ Impact of the Antagonistic Fungal Strain, Trichoderma gamsii T30
+    on the Plant Pathogenic Fungus, Rhizoctonia solani in Soil
+  abstract: "AbstractRhizoctonia solani is a soil-borne fungus causing a wide range\
+    \ of plants diseases. Trichoderma gamsii strain T30 has previously been reported\
+    \ as antagonistic against R. solani. Although there are a few studies about the\
+    \ influence of Trichoderma strains on the R. solani density in a pathosystem in\
+    \ the presence of plant hosts, this report for the first time comprehensively\
+    \ describes in situ effects of a T. gamsii strain on the population density of\
+    \ R. solani in the soil microcosmic conditions. The population dynamics of R.\
+    \ solani were followed in the autoclaved and non-autoclaved soils in artificially\
+    \ prepared microcosms up to day 25 after co-inoculation with T. gamsii in the\
+    \ variable ratios (R1/T1; R1/T0.1; R1/T0.01 of R. solani/T. gamsii). The population\
+    \ density of R. solani was evaluated by qPCR. In the autoclaved soil, target DNA\
+    \ copies of R. solani increased in the control samples from 1 \xD7 105 to 6.5\
+    \ \xD7 106. At R1/T0.01, the number of target DNA copies were not significantly\
+    \ changed until day 11; however, it decreased by around five times at day 25.\
+    \ At R1/T0.1 and R1/T1, the number of DNA copies was reduced to 2.1 \xD7 106 and\
+    \ 7.6 \xD7 105 at day 11, respectively and the reduction was as much as 17 times\
+    \ at day 25. In the non-autoclaved soil, the number of the fungal cells decreased\
+    \ at day 25 whether inoculated or not with Trichoderma indicating a general suppression\
+    \ by the soil microbiome. In brief, T. gamsii significantly inhibited the growth\
+    \ of R. solani in the soil in situ and there was a general suppressive effect\
+    \ of the natural microbiome."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: In situ Impact of the Antagonistic Fungal Strain, Trichoderma gamsii T30
+      on the Plant Pathogenic Fungus, Rhizoctonia solani in Soil
+    url: http://dx.doi.org/10.33073/pjm-2019-021
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  RHA-EUI-SHIK:
+    individualname: RHA, EUI SHIK
+    role: creator
+  ANEES-MUHAMMAD:
+    individualname: ANEES, MUHAMMAD
+    role: creator
+  ABID-MUHAMMAD:
+    individualname: ABID, MUHAMMAD
+    role: creator
+  CHOHAN-SOBIA:
+    individualname: CHOHAN, SOBIA
+    role: creator
+  JAMIL-MUHAMMAD:
+    individualname: JAMIL, MUHAMMAD
+    role: creator
+  AHMED-NADEEM:
+    individualname: AHMED, NADEEM
+    role: creator
+  ZHANG-LIXIN:
+    individualname: ZHANG, LIXIN
+    role: creator
+  Polish-Society-of-Microbiologists:
+    individualname: Polish Society of Microbiologists
+    role: creator
+content_info: {}

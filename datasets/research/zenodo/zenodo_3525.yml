@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1036625
+  dataseturi: https://doi.org/10.5281/zenodo.1036625
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metals In Soil And Vegetables And Their Effect On Health
+  abstract: "The present study was carried out to assess heavy metals Cadmium (Cd),\
+    \ Lead (Pb), copper (Cu), zinc (Zn), Chromium (Cr) and Nickel (Ni) levels in vegetables\
+    \ like Cauliflower (Brassica oleracea var. botrytis), Cabbage (Brassica oleracea),\
+    \ Carrot (Daucus carota), Brinjal (Solanum melongena), Spinach (Spinacia oleracea)\
+    \ and Radish (Raphanus sativus) irrigated with domestic wastewater. The vegetable\
+    \ samples were randomly collected from the farmlands irrigated with domestic wastewater\
+    \ around the Hisar district. Spinach, cabbage, brinjal and carrot accumulated\
+    \ higher Cd (1.30\xB10.31 mg kg-1), Pb (4.23\xB10.32 mg kg-1), Cu (1.42\xB10.25\
+    \ mg kg-1), Zn (3.4\xB10.28 mg kg-1), Cr (1.16\xB10.11 mg kg-1) and Ni (2.45\xB1\
+    0.86 mg kg-1) respectively. Transfer Factor (TF) of Cd, Pb, Cu, Zn, Cr and Ni\
+    \ are more in spinach (0.0306), cabbage (0.4448), spinach (0.2642), cauliflower\
+    \ (0.2494), carrot (0.0764) and spinach (0.7469) respectively. The health risk\
+    \ assessment has been calculated followed by Estimated Daily Intake Metal (EDIM)\
+    \ and Estimated Health Risk Index (EHRI). The present study highlights that both\
+    \ adults and children consuming vegetables grown in wastewater irrigated soils\
+    \ accumulate significant amount of these metals. However, the values of these\
+    \ metals were lesser than recommended maximum tolerable levels proposed by the\
+    \ FAO/WHO (1999)."
+  keywords:
+    default:
+      keywords:
+        subject: Daily Intake; Heavy Metals; Plant Uptake; Risk Assessment; Reference
+          Dose; EDIM; EHRI.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1036625
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1036624
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jitender-Pal:
+    individualname: Jitender Pal
+    role: creator
+    organization: ''
+    url: ''
+  Mukal-Bishnoi:
+    individualname: Mukal Bishnoi
+    role: creator
+    organization: ''
+    url: ''
+  Mandeep-Kaur:
+    individualname: Mandeep Kaur
+    role: creator
+  Kaur-Mandeep:
+    individualname: Kaur, Mandeep
+    role: ''
+    organization: Department of Environmental Science and Engineering,Guru Jambheshwar,
+      University of Science and Technology, Hisar (Haryana) 125001, India
+    url: ''
+content_info: {}

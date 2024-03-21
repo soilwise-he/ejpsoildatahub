@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hofmann_1885
+  dataseturi: https://doi.org/10.1038/scientificamerican01241885-7558asupp
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Underground Water ad the Moisture of the Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Underground Water ad the Moisture of the Soil
+    url: http://dx.doi.org/10.1038/scientificamerican01241885-7558asupp
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hofmann-Fr.:
+    individualname: Hofmann, Fr.
+    role: creator
+  Hofmann-FR.:
+    individualname: Hofmann, FR.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

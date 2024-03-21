@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3841641
+  dataseturi: https://doi.org/10.5281/zenodo.3841641
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Sustainable source analysis process of soil heavy metal pollution combining
+    with PMF analysis method and database system
+  abstract: 'The repository contains : - Data used for PMF analysis - Software installation
+    package used for data management of soil heavy metal Please, contact H. Jiang
+    (gentlemanjianghu@foxmail.com) for additional information.'
+  keywords:
+    default:
+      keywords:
+        subject: Data for PMF analysis and installpackge of database platform of soil
+          heavy metal
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2020-05-24'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3841641
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3841640
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hu-jiang:
+    individualname: Hu jiang
+    role: creator
+  Hu-Jiang-Fa-Cheng-Yi-Zhe-Wang-Qiang-Qiang-Cheng-Cheng-Xia-Wang-Ting-Wang-Yi-Ping-Zhang:
+    individualname: Hu Jiang, Fa-Cheng Yi, Zhe Wang, Qiang-Qiang Cheng, Cheng-Xia
+      Wang, Ting Wang, Yi-Ping Zhang
+    role: creator
+  Jiang-Hu:
+    individualname: Jiang, Hu
+    role: ''
+    organization: School of Environment and Resource, Southwest University of Science
+      and Technology, Mianyang, China
+    url: ''
+content_info: {}

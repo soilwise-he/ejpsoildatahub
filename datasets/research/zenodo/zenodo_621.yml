@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dewangan_2018
+  dataseturi: https://doi.org/10.31142/ijtsrd18489
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Classification Using Image Processing and Modified SVM Classifier
+  abstract: '&lt;p&gt;Recently the use of soil classification has gained more and
+    more importance and recent direction in research works indicates that image classification
+    of images for soil information is the preferred choice. Various methods for image
+    classification have been developed based on different theories or models. In this
+    study, three of these methods Maximum Likelihood classification MLC , Sub pixel
+    classification SP and Support Vector machine SVM are used to classify a soil image
+    into seven soil classes and the results compared. MLC and SVM are hard classification
+    methods but SP is a soft classification. Hardening of soft classifications for
+    accuracy determination leads to loss of information and the accuracy may not necessary
+    represent the strength of class membership. Therefore, in the comparison of the
+    methods, the top 20 compositions per soil class of the SP were used instead. Results
+    from the classification, indicated that output from SP was generally poor although
+    it performs well with soils such as forest that are homogeneous in character.
+    Of the two hard classifiers, SVM gave a better output than MLC. Priyanka Dewangan
+    | Vaibhav Dedhe &quot;Soil Classification Using Image Processing and Modified
+    SVM Classifier&quot; Published in International Journal of Trend in Scientific
+    Research and Development (ijtsrd), ISSN: 2456-6470, Volume-2 | Issue-6 , October
+    2018, URL: https://www.ijtsrd.com/papers/ijtsrd18489.pdf&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Electronics & Communication Engineering
+      - Soil Classification
+      - Image Processing
+      - Support Vector Machine
+      - SVM
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Classification Using Image Processing and Modified SVM Classifier
+    url: http://dx.doi.org/10.31142/ijtsrd18489
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Priyanka-Dewangan:
+    individualname: Priyanka Dewangan
+    role: creator
+  Vaibhav-Dedhe:
+    individualname: Vaibhav Dedhe
+    role: creator
+  Dewangan-Priyanka:
+    individualname: Dewangan, Priyanka
+    role: creator
+  Dedhe-Vaibhav:
+    individualname: Dedhe, Vaibhav
+    role: creator
+  South-Asia-Management-Association:
+    individualname: South Asia Management Association
+    role: creator
+content_info: {}

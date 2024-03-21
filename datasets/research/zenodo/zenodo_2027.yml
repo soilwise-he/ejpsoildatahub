@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8350626
+  dataseturi: https://doi.org/10.5281/zenodo.8350626
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Calibration of the SMAP soil moisture retrieval algorithm to reduce bias
+    over the Amazon rainforest
+  abstract: "Soil moisture (SM) is crucial for the Earth's ecosystem, impacting climate\
+    \ and vegetation health. Obtaining in-situ observations of SM is labor-intensive\
+    \ and complex, particularly in remote and densely vegetated regions like the Amazon\
+    \ rainforest. NASA's Soil Moisture Active and Passive (SMAP) mission, utilizing\
+    \ an L-band radiometer, aims to monitor global SM. While it has been validated\
+    \ in areas with low Vegetation Water Content (VWC) (&lt; 5 kg/m\xB2), its efficiency\
+    \ in the Amazon, which has dense canopies and high VWC (&gt; 10 kg/m\xB2), is\
+    \ uncertain due to scarce in-situ measurements. This study validates and analyzes\
+    \ SMAP data in the Amazon, employing the single-channel algorithm (SCA) and adjusting\
+    \ vegetation optical depth (\u03C4) and single scattering albedo (\u03C9), two\
+    \ key vegetation parameters. It incorporates in-situ SM observations from three\
+    \ old-growth rainforest locations: Tambopata (Southwest Amazon), Manaus (Central\
+    \ Amazon), and Caxiuana (Eastern Amazon). There were substantial discrepancies\
+    \ between SMAP and in-situ data. However, using calibrated \u03C4 and \u03C9 values,\
+    \ characterized by a lower \u03C4, results in better agreement with in situ measurements.\
+    \ The study emphasizes the pressing need for innovative methodologies to accurately\
+    \ assess SM in high VWC regions like the Amazon using SMAP data."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-15'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8350626
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8350625
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cho-Kyeungwoo:
+    individualname: Cho, Kyeungwoo
+    role: creator
+    organization: Georgia Institute of Technology
+    url: ''
+  Negron-Juarez-Robinson:
+    individualname: "Negr\xF3n-Ju\xE1rez, Robinson"
+    role: creator
+    organization: Lawrence Berkeley National Laboratory
+    url: ''
+  Colliander-Andreas:
+    individualname: Colliander, Andreas
+    role: creator
+    organization: Jet Propulsion Laboratory, California Institute of Technology
+    url: ''
+  Cosio-Eric:
+    individualname: Cosio, Eric
+    role: creator
+    organization: Pontifical Catholic University of Peru
+    url: ''
+  Salinas-Norma:
+    individualname: Salinas, Norma
+    role: creator
+    organization: Pontifical Catholic University of Peru
+    url: ''
+  de-Araujo-Alessandro:
+    individualname: "de Ara\xFAjo, Alessandro"
+    role: creator
+    organization: "Embrapa, Amaz\xF4nia Oriental"
+    url: ''
+  Chambers-Jefferey:
+    individualname: Chambers, Jefferey
+    role: creator
+    organization: Lawrence Berkeley Laboratory
+    url: ''
+  Wang-Jingfeng:
+    individualname: Wang, Jingfeng
+    role: creator
+    organization: Georgia Institute of Technology
+    url: ''
+content_info: {}

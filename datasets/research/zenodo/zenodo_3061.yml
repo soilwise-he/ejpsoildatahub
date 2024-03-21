@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629960
+  dataseturi: https://doi.org/10.5281/zenodo.2629960
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of dose and period of sewage sludge application on soil, tree and
+    pasture components in a Pinus radiata D. Don silvopastoral system
+  abstract: "The adequate use of sewage sludge in silvopastoral systems could enhance\
+    \ positive \n elationships between pasture and trees to increase farm incomes\
+    \ at medium, short and long term. The main aspects related to adequate sewage\
+    \ sludge use as a fertiliser are dose and timing of application, once heavy metal\
+    \ concentrations have been taken into account. This paper aims to evaluate the\
+    \ date and dose of sewage sludge applications on soil (KCl pH,\nsoil organic matter),\
+    \ pasture production and tree growth after the establishment of a \n ilvopastoral\
+    \ system with Pinus radiata D. Don developed on sandy soils with an initial pH\
+    \ of 5. It is concluded that the contribution of sewage sludge does not modify\
+    \ the soil conditions in a consistent manner, but cause detectable edaphic improvements\
+    \ depending on the climatic conditions, the results of which are manifested in\
+    \ enhancement of pasture and trees. The application of high doses of sewage sludge\
+    \ is the best option within those studied, as tree growth and pasture production\
+    \ tend to be increased. There are no clear effects with regard to the date of\
+    \ application, but if the desire is to increase pasture production during the\
+    \ spring season, the sewage sludge will be applied in the first of the application\
+    \ dates, whereas the greatest growth in the diameter of trees is produced in the\
+    \ plots fertilised in February, although\nthe date of application does not appear\
+    \ to have a clear effect on their growth in height."
+  keywords:
+    default:
+      keywords:
+        subject: Waste
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-02-17'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629960
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629959
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Rigueiro-Rodriguez:
+    individualname: "A. Rigueiro-Rodr\xEDguez"
+    role: creator
+    organization: ''
+    url: ''
+  S.-Castro:
+    individualname: S. Castro
+    role: creator
+    organization: ''
+    url: ''
+  M.-R.-Mosquera-Losada:
+    individualname: M. R. Mosquera-Losada
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

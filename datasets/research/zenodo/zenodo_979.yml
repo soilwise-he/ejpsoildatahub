@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7851454
+  dataseturi: https://doi.org/10.5281/zenodo.7851454
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Laboratory Tests Based Strength Evaluation of Alluvial Soil: A Case Study'
+  abstract: "<em>This article represents an analysis of alluvial soil behaviour using\
+    \ laboratory tests where samples being collected from different parts of Khulna,\
+    \ Bangladesh. Bangladesh is a riverine country and 80% of soil in Bangladesh is\
+    \ alluvial. Especially, the Khulna region stands on the Gangetic alluvial soil\
+    \ track that poses a challenge to the foundation engineers. Determination of shear\
+    \ strength parameters comprising of cohesion (c) and internal friction angle (\u03A6\
+    ) plays a vital role in soil mechanics. These parameters are often used in quantification\
+    \ of soil strength and thereby play an important role in designing the foundation.\
+    \ In this study, direct shear tests and triaxial tests have been conducted to\
+    \ investigate the shear strength parameters of alluvial soil. Four soil samples\
+    \ were collected from four distinct locations (Rupsha-22\u02DA47\u201958.01\u201D\
+    \ N, 89\u02DA34\u201945.82\u201D E; Boyra-22\u02DA50\u201930.33\u201D N, 89\u02DA\
+    32\u2019.63\u201D E; Sonadanga-22\u02DA49\u20197\u201D.00\u201D N, 89\u02DA32\u2019\
+    47.07\u201D E; Fulbarigate 22\u02DA53\u201956.90\u201D N89\u02DA32\u201947.07\u201D\
+    \ E) of Khulna. Test results show a significant change in the value of the internal\
+    \ friction angle of the soil samples while its shear strength parameter is measured\
+    \ by a direct shear test compared to triaxial testing on the undisturbed specimen.\
+    \ Whereas, the discrepancy of results is less significant for samples in remoulded\
+    \ conditions. The disparity of shear strength results obtained by different test\
+    \ methods has been explained by analyzing soil sample structure at different states.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Direct shear test; Triaxial test; Angle of internal friction; Soil
+          profile.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-21'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7851454
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7851453
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Md.-Ikramul-Hoque:
+    individualname: Md. Ikramul Hoque
+    role: creator
+    organization: Faculty of Civil Engineering Technology, Universiti Malaysia Pahang,
+      Gambang, Pahang, Malaysia
+    url: ''
+  Muzamir-Hasan:
+    individualname: Muzamir Hasan
+    role: creator
+    organization: Faculty of Civil Engineering Technology, Universiti Malaysia Pahang,
+      Gambang, Pahang, Malaysia.
+    url: ''
+  Md.-Tareq-Hossain-Khondoker:
+    individualname: Md. Tareq Hossain Khondoker
+    role: creator
+    organization: Department of BECM, Khulna University of Engineering and Technology,
+      Khulna, Bangladesh.
+    url: ''
+content_info: {}

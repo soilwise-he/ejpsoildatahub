@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1060639
+  dataseturi: https://doi.org/10.5281/zenodo.1060639
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Developing Pedotransfer Functions For Estimating Some Soil Properties Using
+    Artificial Neural Network And Multivariate Regression Approaches
+  abstract: Study of soil properties like field capacity (F.C.) and permanent wilting
+    point (P.W.P.) play important roles in study of soil moisture retention curve.
+    Although these parameters can be measured directly, their measurement is difficult
+    and expensive. Pedotransfer functions (PTFs) provide an alternative by estimating
+    soil parameters from more readily available soil data. In this investigation,
+    70 soil samples were collected from different horizons of 15 soil profiles located
+    in the Ziaran region, Qazvin province, Iran. The data set was divided into two
+    subsets for calibration (80%) and testing (20%) of the models and their normality
+    were tested by Kolmogorov-Smirnov method. Both multivariate regression and artificial
+    neural network (ANN) techniques were employed to develop the appropriate PTFs
+    for predicting soil parameters using easily measurable characteristics of clay,
+    silt, O.C, S.P, B.D and CaCO3. The performance of the multivariate regression
+    and ANN models was evaluated using an independent test data set. In order to evaluate
+    the models, root mean square error (RMSE) and R2 were used. The comparison of
+    RSME for two mentioned models showed that the ANN model gives better estimates
+    of F.C and P.W.P than the multivariate regression model. The value of RMSE and
+    R2 derived by ANN model for F.C and P.W.P were (2.35, 0.77) and (2.83, 0.72),
+    respectively. The corresponding values for multivariate regression model were
+    (4.46, 0.68) and (5.21, 0.64), respectively. Results showed that ANN with five
+    neurons in hidden layer had better performance in predicting soil properties than
+    multivariate regression.
+  keywords:
+    default:
+      keywords:
+        subject: Pedotransfer functions.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-12-29'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1060639
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1060638
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fereydoon-Sarmadian:
+    individualname: Fereydoon Sarmadian
+    role: creator
+    organization: ''
+    url: ''
+  Ali-Keshavarzi:
+    individualname: Ali Keshavarzi
+    role: creator
+  Keshavarzi-Ali:
+    individualname: Keshavarzi, Ali
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

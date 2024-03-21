@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1063250
+  dataseturi: https://doi.org/10.5281/zenodo.1063250
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Resistivity Structure And Its Implication On The Pole Grid Resistance
+    For Transmission Lines
+  abstract: 'High Voltage (HV) transmission lines are widely
+
+    spread around residential places. They take all forms of shapes:
+
+    concrete, steel, and timber poles. Earth grid always form part of the
+
+    HV transmission structure, whereat soil resistivity value is one of the
+
+    main inputs when it comes to determining the earth grid
+
+    requirements. In this paper, the soil structure and its implication on
+
+    the electrode resistance of HV transmission poles will be explored. In
+
+    Addition, this paper will present simulation for various soil structures
+
+    using IEEE and Australian standards to verify the computation with
+
+    CDEGS software. Furthermore, the split factor behavior under
+
+    different soil resistivity structure will be presented using CDEGS
+
+    simulations.'
+  keywords:
+    default:
+      keywords:
+        subject: Touch Voltage.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-01-28'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1063250
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1063249
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Nassereddine:
+    individualname: M. Nassereddine
+    role: creator
+    organization: ''
+    url: ''
+  J.-Rizk:
+    individualname: J. Rizk
+    role: creator
+    organization: ''
+    url: ''
+  G.-Nasserddine:
+    individualname: G. Nasserddine
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

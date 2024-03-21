@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7969257
+  dataseturi: https://doi.org/10.5281/zenodo.7969257
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: 'FACTSHEET - EU Soil Mission Living Labs and Lighthouses for Soil Health:
+    Agricultural Land Use'
+  abstract: "Livings Labs and Lighthouses are key to accelerating the adoption of\
+    \ sustainable practices by users and developing solutions adapted to local conditions.\
+    \ The factsheet <em>EU Soil Mission Living Labs and Lighthouses for Soil Health:\
+    \ <strong>Agricultural Land Use </strong></em>is part of a series of five factsheets\
+    \ which provide clear information on what the Living Labs and Lighthouses are\
+    \ and their role in the EU Mission \u2018A Soil Deal for Europe\u2019. The factsheet\
+    \ \u201CFunding Opportunities\u201D provides a bird\u2019s-eye view of the types\
+    \ of Living Labs, the criteria to identify the Lighthouses and the actions supporting\
+    \ the development of the Living Labs across Europe. The other four factsheets\
+    \ focus on each type of Living Lab that will be funded, which are categorised\
+    \ under specific land use: Agricultural, Forestry, (Post)Industrial, Urban."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7969257
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7969256
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Munkholm-Lars:
+    individualname: Munkholm, Lars
+    role: creator
+    organization: Aarhus University
+    url: ''
+  ten-Damme-Loraine:
+    individualname: ten Damme, Loraine
+    role: creator
+    organization: Aarhus University
+    url: ''
+  Couture-Isabelle:
+    individualname: Couture, Isabelle
+    role: Editor
+    organization: ENoLL (European Network of Living Labs)
+    url: ''
+  Cavallo-Dolinda:
+    individualname: Cavallo, Dolinda
+    role: Editor
+    organization: ENoLL (European Network of Living Labs)
+    url: ''
+content_info: {}

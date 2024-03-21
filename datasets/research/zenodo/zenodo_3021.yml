@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Liu_2019
+  dataseturi: https://doi.org/10.24349/acarologia/20194308
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Changes in a soil microarthropod community in the vicinity of dominant tree
+    species under trampling management at the Safari Zoological Center, Israel
+  abstract: 'Liu, Rentao, Meller, Roy, Steinberger, Yosef (2019): Changes in a soil
+    microarthropod community in the vicinity of dominant tree species under trampling
+    management at the Safari Zoological Center, Israel. Acarologia 59 (1): 33-45,
+    DOI: 10.24349/acarologia/20194308'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Changes in a soil microarthropod community in the vicinity of dominant tree
+      species under trampling management at the Safari Zoological Center, Israel
+    url: http://dx.doi.org/10.24349/acarologia/20194308
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Liu-Rentao:
+    individualname: Liu, Rentao
+    role: creator
+  Meller-Roy:
+    individualname: Meller, Roy
+    role: creator
+  Steinberger-Yosef:
+    individualname: Steinberger, Yosef
+    role: creator
+  Les-Amis-d'Acarologia:
+    individualname: "Les Amis d\u2019Acarologia"
+    role: creator
+content_info: {}

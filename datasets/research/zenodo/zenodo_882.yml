@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tint_2018
+  dataseturi: https://doi.org/10.31142/ijtsrd12747
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Liquefaction Potential Maps for Earthquake Events in Yangon, Myanmar
+  abstract: '&lt;p&gt;The soil liquefaction is one of the main topics of geotechnical
+    engineering associated with the strong earthquakes. The study area has been selected
+    in Yangon City because it is most populated density area and located near the
+    active faults and the rivers. The main objective of study is the development of
+    liquefaction potential maps as a prominent feature for site planners and decision
+    makers to reduce loss of lives. The borehole data including ground water table,
+    Standard Penetration Test SPT , blow counts, wet density and fine content etc.
+    have been collected from the 530 representative sites in Yangon City. The safety
+    factor of soil liquefaction is evaluated by using National Center of Earthquake
+    Engineering Research NCEER Method 1997 . The Liquefaction Potential Index LPI
+    is proposed by Luna and Frost Method 1998 to predict the potential of liquefaction
+    at sites. The proposed liquefaction potential map is analyzed by using Geographic
+    Information Software. The development of liquefaction potential maps is associated
+    with 1 , 2 , 5 , 10 and 20 of probabilities of exceedance in 50 years. Zar Lee
+    Tint | Nyan Myint Kyaw | Kyaw Kyaw &quot;Soil Liquefaction Potential Maps for
+    Earthquake Events in Yangon, Myanmar&quot; Published in International Journal
+    of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470, Volume-2
+    | Issue-3 , April 2018, URL: https://www.ijtsrd.com/papers/ijtsrd12747.pdf&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Civil Engineering
+      - Liquefaction potential index
+      - Geographic information system (GIS)
+      - Yangon City
+      - Liquefaction potential map
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Liquefaction Potential Maps for Earthquake Events in Yangon, Myanmar
+    url: http://dx.doi.org/10.31142/ijtsrd12747
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zar-Lee-Tint:
+    individualname: Zar Lee Tint
+    role: creator
+  Nyan-Myint-Kyaw:
+    individualname: Nyan Myint Kyaw
+    role: creator
+  Kyaw-Kyaw:
+    individualname: Kyaw, Kyaw
+    role: creator
+  Tint-Zar-Lee:
+    individualname: Tint, Zar Lee
+    role: creator
+  Kyaw-Nyan-Myint:
+    individualname: Kyaw, Nyan Myint
+    role: creator
+  South-Asia-Management-Association:
+    individualname: South Asia Management Association
+    role: creator
+content_info: {}

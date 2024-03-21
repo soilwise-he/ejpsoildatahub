@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Arn__2023
+  dataseturi: https://doi.org/10.3390/agronomy13092369
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Drip Irrigation Soil-Adapted Sector Design and Optimal Location of Moisture
+    Sensors: A Case Study in a Vineyard Plot'
+  abstract: '&lt;p&gt;To optimise sector design in drip irrigation systems, a two-stage
+    procedure is presented and applied in a commercial vineyard plot. Soil apparent
+    electrical conductivity (ECa) mapping and soil purposive sampling are the two
+    stages on which the proposal is based. Briefly, ECa data to wet bulb depth provided
+    by the VERIS 3100 soil sensor were mapped before planting using block ordinary
+    kriging. Looking for simplicity and practicality, only two ECa classes were delineated
+    from the ECa map (k-means algorithm) to delimit two potential soil classes within
+    the plot with possible different properties in terms of potential soil water content
+    and/or soil water regime. Contrasting the difference between ECa classes (through
+    discriminant analysis of soil properties at different systematic sampling locations),
+    irrigation sectors were then designed in size and shape to match the previous
+    soil zoning. Taking advantage of the points used for soil sampling, two of these
+    locations were finally selected as candidates to install moisture sensors according
+    to the purposive soil sampling theory. As these two spatial points are expectedly
+    the most representative of each soil class, moisture information in these areas
+    can be taken as a basis for better decision-making for vineyard irrigation management.
+    &copy; 2023 by the authors.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - ECa soil sensor
+      - irrigation sector design
+      - irrigation zoning
+      - moisture sensors location
+      - soil sampling
+      - vine crop
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Drip Irrigation Soil-Adapted Sector Design and Optimal Location of Moisture
+      Sensors: A Case Study in a Vineyard Plot'
+    url: http://dx.doi.org/10.3390/agronomy13092369
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arno-Jaume:
+    individualname: "Arn\xF3, Jaume"
+    role: creator
+  Uribeetxebarria-Asier:
+    individualname: Uribeetxebarria, Asier
+    role: creator
+  Llorens-Jordi:
+    individualname: Llorens, Jordi
+    role: creator
+  Escola-Alexandre-A.:
+    individualname: "Escol\xE0, Alexandre A."
+    role: creator
+  Rosell-Polo-Joan-R.:
+    individualname: Rosell-Polo, Joan R.
+    role: creator
+  Gregorio-Eduard:
+    individualname: Gregorio, Eduard
+    role: creator
+  Martinez-Casasnovas-Jose-A.:
+    individualname: "Mart\xEDnez-Casasnovas, Jos\xE9 A."
+    role: creator
+  Escola-Alexandre:
+    individualname: "Escol\xE0, Alexandre"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

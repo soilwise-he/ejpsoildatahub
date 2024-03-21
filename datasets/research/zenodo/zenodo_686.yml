@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10641488
+  dataseturi: https://doi.org/10.5281/zenodo.10641488
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ROLE OF HUMUS SUBSTANCES IN THE SOIL-PLANT SYSTEM
+  abstract: The article presents the results of experimental studies of the composition
+    and nature of humic acids isolatedfrom agricultural waste. It has been established
+    that the use of vermitechnology makes it possible to obtain themost condensed
+    humic acids. The maximum amount of carboxyl groups (COOH) is contained in humic
+    acidsisolated from vermicompost, and the minimum in humic acids extracted from
+    cattle manure. The functional groupsof fulvic acids are dominated by phenolic
+    hydroxyls. The total number of functional groups of fulvic acids isalmost 2 times
+    greater than that of humic acids
+  keywords:
+    default:
+      keywords:
+        subject: biohumus, migration, humic acid, fulvic acid, optical density, manure,
+          vermitechnology.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-02-09'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10641488
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10641487
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Sciences-of-Europe:
+    individualname: Sciences of Europe
+    role: creator
+  Sainova-G.:
+    individualname: Sainova G.
+    role: creator
+    organization: ''
+    url: ''
+  Khozhakhmet-S.:
+    individualname: Khozhakhmet S.
+    role: creator
+    organization: ''
+    url: ''
+  Akbasova-A.:
+    individualname: Akbasova A.
+    role: creator
+    organization: ''
+    url: ''
+  Azikhanova-D.:
+    individualname: Azikhanova D.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

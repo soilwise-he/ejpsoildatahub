@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6523414
+  dataseturi: https://doi.org/10.5281/zenodo.6523414
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ANTIOXIDANT PROPERTIES OF SOYBEAN SEEDLINGS GROWN IN DIFFERENT SOIL TYPES
+  abstract: The purpose of this work was to assess change in antioxidant ability and
+    accumulation of antioxidants in soybean seedlings, as well as some morphological
+    parameters (plant height, shoot and root mass) during abiotic stress. Activity
+    of antioxidant enzymes [superoxide dismutase (SOD; EC 1.15.1.1) and peroxidases
+    (GPX-guaiacol peroxidase and PPX-pyrogallol peroxidase, EC 1.11.1.7)], phenylalanine
+    ammonia lyase (PAL; EC 4.3.1.5), as well as content of non-enzymatic antioxidants
+    (total phenolics, tannins and flavonoids) were analyzed in leaves of soybean seedlings
+    grown in different soil types [mollic vertisol (humic); calcic chernozem (calcic)
+    and haplic fluvisol (calcaric)]. Seedlings grown in fluvisol had significantly
+    higher activity of SOD (7.5-8.6%) and PAL (39.2-43.0%) in leaves, as well as total
+    phenolics and tannins content (8.1-80.7%) in comparison to those grown in chernozem
+    and vertisol. However, soybean grown in chernozem had the most favourable conditions
+    for growth and the highest total flavonoids content (2.3 mg rutin g-1 dry weight).
+    Regardless the difference in response to higher and lower level of soil fertility,
+    soybean seedlings grown in vertisol and fluvisol had similar morphological properties,
+    which showed the great ability of their antioxidant<br> systems to acclimate to
+    change in soil quality.
+  keywords:
+    default:
+      keywords:
+        subject: soil types
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-12-15'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6523414
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6523413
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  BILJANA-KIPROVSKI:
+    individualname: BILJANA KIPROVSKI
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg Dositeja Obradovi\u0107\
+      a 8, 21000 Novi Sad, Serbia"
+    url: ''
+  DORDE-MALENCIC:
+    individualname: "\u0110OR\u0110E MALEN\u010CI\u0106"
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg Dositeja Obradovi\u0107\
+      a 8, 21000 Novi Sad, Serbia"
+    url: ''
+  VLADIMIR-CIRIC:
+    individualname: "VLADIMIR \u0106IRI\u0106"
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg Dositeja Obradovi\u0107\
+      a 8, 21000 Novi Sad, Serbia"
+    url: ''
+  MILAN-POPOVIC:
+    individualname: "MILAN POPOVI\u0106"
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg Dositeja Obradovi\u0107\
+      a 8, 21000 Novi Sad, Serbia"
+    url: ''
+content_info: {}

@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.812274
+  dataseturi: https://doi.org/10.5281/zenodo.812274
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Spatio-Temporal Variations In Soil Moisture And Soil Temperature Under High
+    Density Guava Orchard System
+  abstract: "The knowledge and understanding of the spatio-temporal variability of\
+    \ soil water content and soil temperature is of great importance for determining\
+    \ a soil sampling strategy, for understanding and modeling of water and nutrient\
+    \ movement, and for many other investigations associated with the water and nutrient\
+    \ management in high density plantations. Keeping this in view, seasonal variations\
+    \ in soil moisture and soil temperature were monitored during 2011 at active root\
+    \ zone depth of 15 cm at 0.5 and 1.0 m away from tree trunk in twenty years old\
+    \ guava cultivar Allahabad Safeda planted at four different spacings (1.5 \xD7\
+    3.0, 3.0 \xD73.0, 3.0 \xD7 6.0 and 6.0 \xD7 6.0 m). In-situ soil moisture dynamics\
+    \ over space and time scale existed in the high density guava orchard ecosystem\
+    \ and the variability was mainly governed by the climatic factors particularly\
+    \ rainfall, evaporation, temperature and wind speed. Lower moisture retention\
+    \ was observed in higher density as compared to low density plantation because\
+    \ of the root zone competition in closely spaced plants. Temporal variations in\
+    \ soil temperature was also revealed. This record was migrated from the OpenDepot\
+    \ repository service in June, 2017 before shutting down."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-19'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.812274
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.812273
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adak-Tarun:
+    individualname: Adak, Tarun
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-Kailash:
+    individualname: Kumar, Kailash
+    role: creator
+    organization: ''
+    url: ''
+  Singha-Atul:
+    individualname: Singha, Atul
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

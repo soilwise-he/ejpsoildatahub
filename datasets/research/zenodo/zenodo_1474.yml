@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ou_2019
+  dataseturi: https://doi.org/10.1099/ijsem.0.003356
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Dyella dinghuensis sp. nov. and Dyella choica sp. nov., isolated from forest
+    soil
+  abstract: 'Ou, Fang-hong, Gao, Zeng-hong, Chen, Mei-hong, Bi, Jie-yi, Qiu, Li-hong
+    (2019): Dyella dinghuensis sp. nov. and Dyella choica sp. nov., isolated from
+    forest soil. International Journal of Systematic and Evolutionary Microbiology
+    69 (5): 1496-1503, DOI: 10.1099/ijsem.0.003356, URL: http://dx.doi.org/10.1099/ijsem.0.003356'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Proteobacteria
+      - Gammaproteobacteria
+      - Xanthomonadales
+      - Xanthomonadaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Dyella dinghuensis sp. nov. and Dyella choica sp. nov., isolated from forest
+      soil
+    url: http://dx.doi.org/10.1099/ijsem.0.003356
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ou-Fang-hong:
+    individualname: Ou, Fang-hong
+    role: creator
+  Gao-Zeng-hong:
+    individualname: Gao, Zeng-hong
+    role: creator
+  Chen-Mei-hong:
+    individualname: Chen, Mei-hong
+    role: creator
+  Bi-Jie-yi:
+    individualname: Bi, Jie-yi
+    role: creator
+  Qiu-Li-hong:
+    individualname: Qiu, Li-hong
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

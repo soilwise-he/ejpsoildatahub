@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5566446
+  dataseturi: https://doi.org/10.5281/zenodo.5566446
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Towards revealing the global diversity and community assembly of soil eukaryotes
+  abstract: "Soil fungi, protists, and animals (i.e., the eukaryome) play a critical\
+    \ role in key ecosystem functions in terrestrial ecosystems. Yet, we lack a holistic\
+    \ understanding of the processes shaping the global distribution of the eukaryome.\
+    \ We conducted a molecular analysis of 193 composite soil samples spanning the\
+    \ world\u2019s major biomes. Our analysis showed that the importance of selection\
+    \ processes was higher in the community assemblage of smaller-bodied and wider\
+    \ niche breadth organisms. Soil pH and mean annual precipitation were the primary\
+    \ determinants of the community structure of eukaryotic microbes and animals,\
+    \ respectively. We further found contrasting latitudinal diversity patterns and\
+    \ strengths for soil eukaryotic microbes and animals. Our results point to a potential\
+    \ link between body size and niche breadth of soil eukaryotes and the relative\
+    \ effect of ecological processes and environmental factors in driving their biogeographic\
+    \ patterns."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-10-13'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5566446
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5566429
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Farzad-Aslani:
+    individualname: Farzad Aslani
+    role: creator
+    organization: University of Tartu
+    url: 0000-0003-0485-9800
+content_info: {}

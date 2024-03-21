@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2579182
+  dataseturi: https://doi.org/10.5281/zenodo.2579182
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Manure, Soil Organic Matter and Soil Fertility
+  abstract: "Higher content of soil organic matter can greatly reduce the difficulties\
+    \ of a good crop production system. Content of organic matter in the majority\
+    \ of Bulgarian soils is very low which is evident from the results of soil survey\
+    \ and the data from mass chemical soil tests \u2013 nearly 60% of studied soils\
+    \ are with humus content lower than 2.5%. The organic fertilization has direct\
+    \ effect on supplying humic substances in soil. On the basis of some Bulgarian\
+    \ soil types, it is shown the inclusion of organic fertilizers into the fraction\
+    \ of humic acids. A pot experiment and a small field study with Haplic Chernozems\
+    \ show an increase into the fraction of free humic acids and those bound with\
+    \ monovalent cations and mobile R2O3 oxides."
+  keywords:
+    default:
+      keywords:
+        subject: soil organic matter, nitrogen, fertilization, humic acids, Haplic
+          Chernozems
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-04-28'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2579182
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2579181
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Petkova-Zdravka:
+    individualname: Petkova, Zdravka
+    role: creator
+    organization: ISSAP "N. Poushkarov"
+    url: ''
+content_info: {}

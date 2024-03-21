@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4733606
+  dataseturi: https://doi.org/10.5281/zenodo.4733606
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact of 2-years practice of organic coffee farming on soil arthropod diversity
+  abstract: "Organic farming has been recommended by many experts in the world because\
+    \ of its positive ecological impacts such as increasing biodiversity. In Indonesia,\
+    \ the practice of organic farming is very widespread, including in smallholder\
+    \ coffee plantations. This study was intended to determine the impact of the organic\
+    \ farming system applied by smallholder coffee farmers for 2 years on soil arthropod\
+    \ diversity. On the two coffee farmlands, the conventional and organics (1 ha\
+    \ each), 10 plots of 5 x 20 meters were set and in each of these plots 5 sampling\
+    \ points were defined for collecting soil arthropods using pit-fall technique.\
+    \ The analysis of arthropod diversity in the two fields was quantified using the\
+    \ Shannon-Wiener diversity index model. The results showed that the two compared\
+    \ coffee farming systems had the same index of diversity (H ') and evenness (E).\
+    \ However, statistical tests using the Hutcheson t-test revealed that the variance\
+    \ in diversity of arthropods in organic coffee farms was significantly higher\
+    \ than in conventional ones (\u03B1 &lt;0.001). Therefore, it can be concluded\
+    \ that the practice of organic coffee farming, although in a short time, has been\
+    \ able and potent to increase the population and/or diversity of soil animals."
+  keywords:
+    default:
+      keywords:
+        subject: Conventional farming; Organic farming; Organic coffee plantation;
+          Soil arthropods diversity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-04-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4733606
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4733605
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohammad-Kanedi:
+    individualname: Mohammad Kanedi
+    role: creator
+  Suratman:
+    individualname: Suratman
+    role: creator
+    organization: Department of Biology, Faculty of Math and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Nismah-Nukmal:
+    individualname: Nismah Nukmal
+    role: creator
+    organization: Department of Biology, Faculty of Math and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Siti-Ardiyanti:
+    individualname: Siti Ardiyanti
+    role: creator
+    organization: Department of Biology, Faculty of Math and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+  Kanedi-Mohammad:
+    individualname: Kanedi, Mohammad
+    role: ''
+    organization: Department of Biology, Faculty of Math and Sciences, University
+      of Lampung, Bandar Lampung, Indonesia.
+    url: ''
+content_info: {}

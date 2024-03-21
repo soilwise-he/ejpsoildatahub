@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8354471
+  dataseturi: https://doi.org/10.5281/zenodo.8354471
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Fertility Analysis using IoT
+  abstract: Soil is crucial for economic and social<br> development as it provides
+    the foundation for plant growth<br> and life cycle. Agriculture heavily relies
+    on resources like<br> land and fertilizer to produce food. However, the National<br>
+    Academy of Agricultural Sciences (NAAS) reports that the<br> annual soil loss
+    rate in India is about 15.35 tonnes per<br> hectare, which leads to the loss of
+    5.37 to 8.4 million tonnes<br> of nutrients. This is due to intensive agricultural
+    practices<br> that cause nutrient imbalance and soil depletion,<br> exacerbated
+    by a lack of awareness about soil health. The<br> declining soil health is one
+    of the reasons for stagnant or<br> decreasing crop yields, which will likely worsen
+    in the<br> future.<br> To address this issue, this project aims to use IoT<br>
+    technology to test different types of soil and determine their<br> macronutrient
+    (NPK) and micronutrient values. The<br> measured nutrient values are compared
+    to a dataset of healthy soil samples' ideal nutrient values using an easy-to-<br>
+    use interface that displays pictorial representations. The farmer receives a detailed
+    soil report that compares the<br> soil's micro and macro nutrient values to the
+    ideal values,<br> much like a soil health report card.
+  keywords:
+    default:
+      keywords:
+        subject: Agriculture, Arduino UNO, Internet Of Things[IOT], Macronutrient,
+          Micronutrient, Nitrogen Phosphorus Potassium [NPK], Soil Health, Soil HealthReport
+          Card.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-18'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8354471
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8354470
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ch.-Sudarshan-Reddy:
+    individualname: Ch. Sudarshan Reddy
+    role: creator
+    organization: ''
+    url: ''
+  Amulya-Dasari:
+    individualname: Amulya Dasari
+    role: creator
+    organization: ''
+    url: ''
+  Grace-Meghna:
+    individualname: Grace Meghna
+    role: creator
+  S.-Lekhana:
+    individualname: S. Lekhana
+    role: creator
+    organization: ''
+    url: ''
+  S.-Shriya:
+    individualname: S. Shriya
+    role: creator
+    organization: ''
+    url: ''
+  Meghna-Grace:
+    individualname: Meghna, Grace
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

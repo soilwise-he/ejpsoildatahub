@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2531836
+  dataseturi: https://doi.org/10.5281/zenodo.2531836
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Estimation of Soil Erosion in Gandamanur Watershed Using Geospatial Technology
+  abstract: Soil erosion is one of the critical environmental problems and a major
+    threat to many natural resources. Stream bank erosion is a kind of water erosion,
+    in which soil is removed by the runoff flowing over the sides of the stream coming
+    from the areas or by undercutting of soil below the water surface from the stream
+    section. Quantitative analysis of soil loss and description of erosion prone areas
+    are essential for conservation programme. The present study focuses on estimation
+    of soil erosion in Gandamanur watershed of Theni District. The soil loss values
+    estimated for Gandamanur watershed ranges from 0 to 219.7 ton/ hec /yr with an
+    average of 2.53 t/ha/yr (metric ton per hectare per year). High soil erosion found
+    in steep slopes and streams. Integrated Remote sensing and GIS technology is applied
+    for prepare various thematic layers of Revised Universal Soil Loss Equation (RUSLE)
+    which is used to estimate the soil erosion at watershed level.
+  keywords:
+    default:
+      keywords:
+        subject: Remote sensing, Gandamanur watershed, Soil erosion, RUSLE, GIS.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-12-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2531836
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2531835
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.Poongodi:
+    individualname: S.Poongodi
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-R.Rajkumar:
+    individualname: Dr. R.Rajkumar
+    role: creator
+    organization: ''
+    url: ''
+  Dr.R.S.Suja-Rose:
+    individualname: Dr.R.S.Suja Rose
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7560012
+  dataseturi: https://doi.org/10.5281/zenodo.7560012
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: COEFFICIENTS OF UTILIZATION OF NITROGEN, PHOSPHORUS AND POTASSIUM FROM THE
+    SOIL AND FERTILIZERS BY WINTER WHEAT AND BARLEY IN THE CONDITIONS OF IRRIGATION
+  abstract: "In the irrigated soils of winter wheat and barley the problem of the\
+    \ degree of absorption of nutrient elements from the soil and fertilizers is observed.\
+    \ In the conditions of field experiments (2020-2022) the coefficient of the utilization\
+    \ of nitrogen from the soil (CUS) by wheat and barley varied from 44,4 to 54,4%,\
+    \ P2O5 \u2013 26,3-31,5 and K2O - 4,9-6,1%. Coefficients of the utilization from\
+    \ mineral fertilizers (CUF) by the investigated plants were: nitrogen \u2013 49,6-82,8;\
+    \ P2O5 \u2013 29,4-38,4 and K2O - 56,4-74,6%, and from semi-rotten manure and\
+    \ biohumus \u2013 54,3- 70,4; 25,8-43,0 and 33,5-141,1%, respectively. The balance\
+    \ coefficients of the utilization of nutrient elements by the investigated crops\
+    \ in fertilized variants are higher than 100%, which explains the deficiency of\
+    \ the applied doses of organic-mineral fertilizers (N120P80K90), as a result of\
+    \ which in these farms the deficit of nitrogen, phosphorus and potassium deepens\
+    \ and is accompanied by gradual dehumufication of the soil."
+  keywords:
+    default:
+      keywords:
+        subject: winter wheat and barley, organic-mineral fertilizers, biological
+          removal of nitrogen, phosphorus and potassium, CUS and CUF, balance coefficients.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-01-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7560012
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7560011
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Harutyunyan-S.:
+    individualname: Harutyunyan, S.
+    role: creator
+    organization: ''
+    url: ''
+  Ghazaryan-G.:
+    individualname: Ghazaryan, G.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

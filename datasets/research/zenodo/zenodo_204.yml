@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hopkins_1904
+  dataseturi: https://doi.org/10.1126/science.19.485.626
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Present Status of Soil Investigation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Present Status of Soil Investigation
+    url: http://dx.doi.org/10.1126/science.19.485.626
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hopkins-C.-G.:
+    individualname: Hopkins, C. G.
+    role: creator
+  Hopkins-Cyril-G.:
+    individualname: Hopkins, Cyril G.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

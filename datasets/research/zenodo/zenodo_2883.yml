@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10685237
+  dataseturi: https://doi.org/10.5281/zenodo.10685237
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Degradation of organic pollutants combining plasma discharges generated
+    within soil with TiO2 and ZnO catalysts: Comparative analysis, optimization and
+    mechanisms'
+  abstract: 'An advantageous cold atmospheric plasma setup in which micro-discharges
+    are generated directly into the interconnected soil channels was combined for
+    the first time with TiO2 and ZnO catalysts towards the degradation of trifluralin.
+    In the presence of these catalysts, a significant increase of the degradation
+    efficiency and rate was observed for both TiO2 and ZnO, with TiO2 being a slightly
+    superior catalyst compared to ZnO. The dominance of reactive oxygen species (ROS)
+    over reactive nitrogen species (RNS) was determined by using different plasma
+    gases whereas the inhibitory effect of soil humidity in the degradation process
+    was also confirmed, although less pronounced in the presence of catalysts. The
+    detection of plasma species in the gas phase and the exhaust gases revealed that
+    the presence of TiO2 and ZnO resulted in a significant increase in NO2 concentration
+    and a noticeable reduction in O3 generation compared to the plasma alone process
+    associated with an increase of certain plasma species concentration and the generation
+    of additional and more active ROS, respectively. Liquid chromatography (UPLC/MS)
+    data at the early stages of the degradation process in the presence and absence
+    of the photocatalysts provided insight into the mechanisms and intermediates involved
+    in the degradation of trifluralin in soil under plasma co-operative catalysis.
+    Finally, the significance of the method in the context of energy efficiency was
+    exemplified. Inclusion of a catalyst in our system resulted in a ~3fold increase
+    in energy efficiency. The present effort supports the potential of future implementation
+    of a plasmacatalytic-based soil remediation method being a rapid, highly efficient,
+    low energy demanding and green method.Keywords: Plasmacatalysis; Dielectric barrier
+    discharge; Cold plasma; Photocatalysts; Trifluralin degradation; Soil remediation.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-13'
+    submitted: '2023-03-13'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10685237
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10675766
+    type: WWW:LINK
+    title: IsObsoletedBy
+  r1:
+    url: https://doi.org/10.1016/j.seppur.2023.124119
+    type: WWW:LINK
+    title: IsObsoletedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.10685236
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Elsevier:
+    individualname: Elsevier
+    role: creator
+  Aggelopoulos-Christos:
+    individualname: Aggelopoulos, Christos
+    role: ContactPerson
+    organization: FORTH Institute of Chemical Engineering Sciences
+    url: 0000-0002-3112-3420
+  M.-Hatzisymeon-M.:
+    individualname: M. Hatzisymeon, M.
+    role: Researcher
+    organization: University of Patras
+    url: ''
+  Deletou-M.K.:
+    individualname: Deletou, M.K.
+    role: Researcher
+    organization: ICE-HT FORTH
+    url: ''
+  Rassias-G.:
+    individualname: Rassias, G.
+    role: Researcher
+    organization: University of Patras
+    url: ''
+content_info: {}

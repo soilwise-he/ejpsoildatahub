@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465515
+  dataseturi: https://doi.org/10.5281/zenodo.3465515
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Investigation into the Settlement of a Case Study Building on Liquefiable
+    Soil in Adapazari, Turkey
+  abstract: "This paper investigates the key parameters that influenced the settlement\
+    \ of a case study building on liquefiable soil in Adapazari (Turkey) during the\
+    \ 1999 Kocaeli earthquake. Ground movements in Adapazari caused large devastation,\
+    \ largely attributed to liquefaction of low plasticity silty soil layers underneath\
+    \ buildings on shallow foundations. The case study soil profile was well characterized\
+    \ by in-situ testing as well as laboratory tests from the Adapazari area. This\
+    \ allowed several different estimates of the building settlement to be obtained\
+    \ through different methods and through a variation in upper and lower bound estimates\
+    \ of the soil parameters. The different methods and different soil properties\
+    \ resulted in a wide range of estimates from 0.004 m to 1.6 m for the building\
+    \ settlement, compared to the observed in-situ value of 0.9 m. Even though the\
+    \ results were varied, the estimation of the liquefied strength of the soil appeared\
+    \ to be a key parameter for the settlement of the case study building. A detailed\
+    \ study with the PLAXIS finite-element software and UBC3D-PLM constitutive model,\
+    \ provided a consistent estimate of the final settlement of 0.9 m compared to\
+    \ the in-situ value. However, the limitation due to the enforced \u2018undrained\u2019\
+    \ conditions during the dynamic phase of the analyses may have resulted in an\
+    \ inaccurate simulation of the pore water pressure and subsequently could have\
+    \ influenced the estimation of settlement. The modeling of the liquefaction settlements\
+    \ under free-field conditions was also considerably less than the re-consolidation\
+    \ settlements that were obtained through simplified procedures, suggesting that\
+    \ the re-consolidation settlement under the foundation was not modelled accurately.\
+    \ The present paper focuses on the assessment of the settlements due to earthquake-induced\
+    \ liquefaction as part of the research being conducted within the European project\
+    \ LIQUEFACT"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-06-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465515
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465514
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Quintero-J.:
+    individualname: Quintero, J.
+    role: creator
+    organization: Univ. of Porto
+    url: ''
+  Saldanha-S.:
+    individualname: Saldanha, S.
+    role: creator
+    organization: Univ. of Porto
+    url: ''
+  Millen-M.:
+    individualname: Millen, M.
+    role: creator
+    organization: Univ. of Porto
+    url: ''
+  Fonseca-A.-V.:
+    individualname: Fonseca, A. V.
+    role: creator
+    organization: Univ. of Porto
+    url: ''
+  Sargin-S.:
+    individualname: Sargin, S.
+    role: creator
+    organization: Istanbul University - Cerrahpasa
+    url: ''
+  Oztoprak-S.:
+    individualname: Oztoprak, S.
+    role: creator
+    organization: Istanbul University - Cerrahpasa
+    url: ''
+  Kelesoglu-M.-K.:
+    individualname: Kelesoglu, M. K.
+    role: creator
+    organization: Istanbul University - Cerrahpasa
+    url: ''
+content_info: {}

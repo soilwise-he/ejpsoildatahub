@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8388606
+  dataseturi: https://doi.org/10.5281/zenodo.8388606
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'A comprehensive review on rice (Oryza sativa l.): organic and inorganic
+    sources with zinc on yield attributes and soil health'
+  abstract: Zinc (Zn) deficiency is a common nutritional disorder that adversely affects
+    human health as well as one of the major abiotic factors limiting rice productivity
+    globally. Studies of Zn dynamics and management in rice soils are crucial because
+    rice is a staple food for people in many nations. As a result of climate change,
+    growers are being forced to give up the traditional activity of transplanting
+    rice into flooded soils and replace it with water-saving techniques like aerobic
+    rice culture and alternative wetting and drying systems. Plant development and
+    growth depend on nutrients. In order investigate the role of nutrients, nutrient
+    deficiency, and toxicity in rice, prior works have been evaluated over this review.
+    Rice plants require both macronutrients and micronutrients. Each nutrient has
+    a different character and is involved in various kinds of plant metabolic processes.
+    The disease tolerance or pathogen resistance of plants is influenced by nutrients.
+    Conditions of nutrient toxicity and deficiency interfere with normal plant growth
+    and show identifiable symptoms. Plants require all the essential nutrients in
+    the right proportions for optimum development, growth, and production. The management
+    of its integrated nutrients has many advantages for improving soil fertility and
+    long-term crop productivity. For sustainable and higher rice production, the knowledge
+    provided in this review article will be helpful to rice growers and researchers.
+  keywords:
+    default:
+      keywords:
+        subject: Yield
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-01'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8388606
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8388605
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kumar-U:
+    individualname: Kumar U
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-R:
+    individualname: Kumar R
+    role: creator
+    organization: ''
+    url: ''
+  Yadav-R:
+    individualname: Yadav R
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

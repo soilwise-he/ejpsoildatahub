@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8321242
+  dataseturi: https://doi.org/10.5281/zenodo.8321242
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Cement Stabilization for Improved Soil Performance: A Case Study of Ogume
+    Clay Soil in the Niger-Delta Region, Nigeria'
+  abstract: '<em>This research investigates the use of stabilized sub-bases in coastal
+    road construction. Three sample categories were examined: untreated soil, soil
+    stabilized with 5% cement, and soil stabilized with 8% cement. The study focuses
+    on cement stabilization due to its suitability and availability. CBR (California
+    Bearing Ratio) tests were conducted on the natural sub-grade material, revealing
+    low CBR values that indicated insufficient strength to withstand traffic loads
+    without deformation. However, the addition of varying percentages of cement as
+    a stabilizer resulted in a significant strength increase. CBR values improved
+    from 15% for natural soil to 27%, 33%, 50%, and 86% for cement percentages of
+    5.0%, 5.5%, 6.0%, and 6.5% respectively. Sieve analysis showed reduced fines content
+    in the stabilized materials compared to the non-stabilized ones. Compaction tests
+    demonstrated increased Maximum Dry Density (MDD) and Optimum Moisture Content
+    (OMC) for the stabilized materials. The liquid limit (LL) was zero, and the Plasticity
+    Index (PI) indicated non-plastic behavior for all samples. The results highlight
+    the positive impact of sand-cement stabilization on road construction materials
+    in coastal areas, significantly improving their strength. The study emphasizes
+    the importance of determining the appropriate stabilizer amount through laboratory
+    testing and implementing robust construction techniques to ensure consistent strength
+    in the road. CBR tests on the stabilized soil samples met the requirements for
+    sub-base materials (CBR value of 30%) and base-course materials (CBR value of
+    80%) with higher cement percentages. The minimum cement percentages to meet these
+    CBR requirements were found to be 5.36% and 6.48% respectively</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Stabilized sub-bases, Road construction, Sub-grade material, Cement
+          stabilization
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-06'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8321242
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8321241
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alumona-Chris-Owamah-Hilary-Atikpo-Eguakhide-Sunny-Chukwuyem-Ikpeseni:
+    individualname: Alumona Chris, Owamah Hilary, Atikpo Eguakhide, Sunny Chukwuyem
+      Ikpeseni
+    role: creator
+  Alumona-Chris-Owamah-Hilary:
+    individualname: Alumona Chris, Owamah Hilary
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

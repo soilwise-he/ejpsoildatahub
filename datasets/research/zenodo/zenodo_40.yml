@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GREAVES_1922
+  dataseturi: https://doi.org/10.1021/ie50147a028
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Soil Solution
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Soil Solution
+    url: http://dx.doi.org/10.1021/ie50147a028
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Greaves-J.-E.:
+    individualname: Greaves, J. E.
+    role: creator
+  Hirst-C.-T.:
+    individualname: Hirst, C. T.
+    role: creator
+  GREAVES-J.-E.:
+    individualname: GREAVES, J. E.
+    role: creator
+  HIRST-C.-T.:
+    individualname: HIRST, C. T.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

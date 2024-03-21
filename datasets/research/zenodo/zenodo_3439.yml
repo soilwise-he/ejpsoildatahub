@@ -1,0 +1,130 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2660307
+  dataseturi: https://doi.org/10.5281/zenodo.2660307
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of Drought on Microbial Activity in Rhizosphere, Soil Hydrophobicity
+    and Leaching of Mineral Nitrogen from Arable Soil Depending on Method of Fertilization
+  abstract: 'This work presents the first results from the long-term laboratory experiment
+    dealing with impact of drought on soil properties. Three groups of the treatment
+    (A, B and C) with different regime of irrigation were prepared. The soil water
+    content was maintained at 70 % of soil water holding capacity in group A, at 40
+    % in group B. In group C, soil water regime was maintained in the range of wilting
+    point. Each group of the experiment was divided into three variants (A1 = B1,
+    C1; A2 = B2, C2 etc.) with three repetitions: Variants A1 (B1, C1) were controls
+    without addition of another fertilizer. Variants A2 (B2, C2) were fertilized with
+    mineral nitrogen fertilizer DAM 390 (0.140 Mg of N per ha) and variants A3 (B3,
+    C3) contained 45 g of Cp per a pot. The significant differences (ANOVA, P&lt;0.05)
+    in the leaching of mineral nitrogen and values of saturated hydraulic conductivity
+    (Ksat) were found. The highest values of Ksat were found in variants (within each
+    group) with addition of compost (A3, B3, C3). Conversely, the lowest values of
+    Ksat were found in variants with addition of mineral nitrogen. Low values of Ksat
+    indicate an increased level of hydrophobicity in individual groups of the experiment.
+    Moreover, all variants with compost addition showed lower amount of mineral nitrogen
+    leaching and high level of microbial activity than variants without. This decrease
+    of mineral nitrogen leaching was about 200 % in comparison with the control variant
+    and about 300 % with variant, where mineral nitrogen was added. Based on these
+    results, we can conclude that changes of soil water content directly have impact
+    on microbial activity, soil hydrophobicity and loss of mineral nitrogen from the
+    soil.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-08-25'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2660307
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2660306
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jakub-Elbl:
+    individualname: Jakub Elbl
+    role: creator
+  Lukas-Plosek:
+    individualname: "Luk\xE1\u0161 Plo\u0161ek"
+    role: creator
+    organization: ''
+    url: ''
+  Antonin-Kintl:
+    individualname: "Anton\xEDn Kintl"
+    role: creator
+  Jaroslav-Hynst:
+    individualname: "Jaroslav Hyn\u0161t"
+    role: creator
+  Sona-Javorekova:
+    individualname: "So\u0148a Javorekov\xE1"
+    role: creator
+    organization: ''
+    url: ''
+  Jaroslav-Zahora:
+    individualname: "Jaroslav Z\xE1hora"
+    role: creator
+  Libor-Kalhotka:
+    individualname: Libor Kalhotka
+    role: creator
+  Olga-Urbankova:
+    individualname: "Olga Urb\xE1nkov\xE1"
+    role: creator
+  Ivana-Charousova:
+    individualname: "Ivana Charousov\xE1"
+    role: creator
+  Elbl-Jakub:
+    individualname: Elbl, Jakub
+    role: ''
+    organization: ''
+    url: ''
+  Kintl-Antonin:
+    individualname: "Kintl, Anton\xEDn"
+    role: ''
+    organization: ''
+    url: ''
+  Hynst-Jaroslav:
+    individualname: "Hyn\u0161t, Jaroslav"
+    role: ''
+    organization: ''
+    url: ''
+  Zahora-Jaroslav:
+    individualname: "Z\xE1hora, Jaroslav"
+    role: ''
+    organization: ''
+    url: ''
+  Kalhotka-Libor:
+    individualname: Kalhotka, Libor
+    role: ''
+    organization: ''
+    url: ''
+  Urbankova-Olga:
+    individualname: "Urb\xE1nkov\xE1, Olga"
+    role: ''
+    organization: ''
+    url: ''
+  Charousova-Ivana:
+    individualname: "Charousov\xE1, Ivana"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

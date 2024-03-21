@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2540501
+  dataseturi: https://doi.org/10.5281/zenodo.2540501
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: Effects of lime and sewage sludge on the relationship between tree cover
+    and pasture production in a silvopastoral system on acid soil
+  abstract: 'Agroforestry systems include sustainable land management techniques that
+    are promoted
+
+    by the EU (Council Regulation 1698/2005) and are considered by farmers of different
+
+    European countries as a management system to implement. Silvopastoral production
+    systems
+
+    depend on forest species development and tree density established, but also on
+    soil
+
+    fertilization management practices, which may modify the tree-pasture relationship.
+    Pinus
+
+    radiata is broadly used in the Atlantic biogeographic region of Spain and it is
+    a fast-growing
+
+    species with a very dense canopy that could limit pasture production if planted
+    at a high
+
+    density. One of the main factors limiting pasture productivity on forestlands,
+    especially at
+
+    early plantation stages, is the low soil fertility, making it necessary to add
+    products to overcome
+
+    the acidity of the soils and the low nutrient availability. The aim of this study
+    was to
+
+    evaluate the relationship between tree cover and pasture production in a Pinus
+    radiata stand
+
+    developed on a very acid soil. The results obtained showed a negative linear relationship
+
+    between litterfall biomass and pasture production and positive relationship between
+    litterfall
+
+    biomass and tree height.'
+  keywords:
+    default:
+      keywords:
+        subject: light
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-06-03'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2540501
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2540500
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cuina-Cotarelo-R.:
+    individualname: "Cui\xF1a-Cotarelo, R."
+    role: creator
+    organization: ''
+    url: ''
+  Mosquera-Losada-M.R.-and-Rigueiro-Rodriguez-A.:
+    individualname: "Mosquera-Losada M.R. and Rigueiro-Rodr\xEDguez A."
+    role: creator
+  M.R.-Mosquera-Losada:
+    individualname: M.R., Mosquera-Losada
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10397958
+  dataseturi: https://doi.org/10.5281/zenodo.10397958
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of regenerative agriculture practices on productivity, GHG emissions,
+    and soil C sequestration in tropical rice-based cropping systems
+  abstract: A long term experiment (LTE) comparing two rice cropping systems, rice-rice
+    (R-R) and maize-rice (M-R), was used to assess the productivity, global warming
+    potential (GWP), and soil organic carbon (SOC) of these systems under tropical
+    conditions. Regenerative agriculture practices, namely, crop rotation (R-R, M-R),
+    non-tillage (tilled, non-tilled), and returning of residues (with residue, without
+    residue) were practiced for nine years with two crops per year. Soil submergence
+    with rice and drier conditions with maize creates different biogeochemical conditions
+    which makes them unique. The LTE monitored the productivity and SOC of R-R and
+    M-R cropping systems for eighteen cropping seasons, and GHG emissions were measured
+    on the ninth year when the system was relatively more stable. System productivity
+    was not affected by returning residues and non-tillage, but it was significantly
+    higher in M-R than R-R system in no residue plots regardless of tillage. The GWP,
+    however, was not affected by non-tillage or cropping system when residue was not
+    returned, but M-R was significantly higher than R-R system in plus residue plots
+    regardless of tillage. The SOC generally decreased in all treatments over nine
+    years of the same treatment, but the highest SOC in the first 15 cm topsoil was
+    found in non-tilled R-R with residue returned (25,201 kg C ha-1) and lowest in
+    non-tilled M-R without residue (17,612kg C ha-1). In this study, the R-M had higher
+    productivity, but R-R cropping system was more sustainable, in terms of SOC and
+    GWP. It shows that rotating flooded rice with non-flooded maize resulted in lower
+    SOC, and using maize residue in a flooded rice crop resulted in higher GWP. Non-tillage
+    has no significant effect on productivity and SOC when applied to only one of
+    the two crops in a year. Residue incorporation contributed in SOC maintenance
+    but increased GWP in all treatments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10397958
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10397957
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Angeles-Olivyn:
+    individualname: Angeles, Olivyn
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+  Chivenge-Pauline:
+    individualname: Chivenge, Pauline
+    role: creator
+    organization: African Plant Nutrition Institute (APNI)
+    url: ''
+  Romasanta:
+    individualname: Romasanta
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+  Ryan-Rogelio:
+    individualname: Ryan Rogelio
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+  Sander:
+    individualname: Sander
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+  Bjoern-Ole:
+    individualname: Bjoern Ole
+    role: creator
+    organization: African Plant Nutrition Institute (APNI)
+    url: ''
+content_info: {}

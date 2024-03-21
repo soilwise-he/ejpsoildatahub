@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4310971
+  dataseturi: https://doi.org/10.5281/zenodo.4310971
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Carbon sequestration and soil properties in forests of Nepal
+  abstract: Forest soils are important for nutrient cycling and development of forest
+    vegetation. The importance of forests of Nepal in carbon storage is globally recognized.
+    In this context, this study reports the findings of systematic analyses of the
+    published journal articles in the past fifty years of Nepal on forest soils of
+    Nepal. It is found that restoration of the degraded forest land is important for
+    maintaining forest soil properties and carbon storage. Socioeconomic factors such
+    as population reduction, promoting off-farm employment and economic incentives
+    are important to reverse forest land degradation.
+  keywords:
+    default:
+      keywords:
+        subject: Carbon, forest, Nepal, soil, 1970-2020
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-08'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4310971
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4310970
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gandhiv-KAFLE:
+    individualname: Gandhiv KAFLE
+    role: creator
+    organization: Faculty of Forestry, Agriculture and Forestry University, Hetauda,
+      Nepal
+    url: ''
+content_info: {}

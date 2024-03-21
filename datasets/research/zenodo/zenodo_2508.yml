@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bohorquez_2023
+  dataseturi: https://doi.org/10.3390/app13052882
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Nature-Based Solutions for Flood Mitigation and Soil Conservation in a Steep-Slope
+    Olive-Orchard Catchment (Arquillos, SE Spain)
+  abstract: '&lt;p&gt;The frequency and magnitude of flash floods in the olive orchards
+    of southern Spain have increased because of climate change and unsustainable olive-growing
+    techniques. Affected surfaces occupy &gt;85% of the rural regions of the Upper
+    Guadalquivir Basin. Dangerous geomorphic processes record the increase of runoff,
+    soil loss and streamflow through time. We report on ripple/dune growth over a
+    plane bed on overland flows, deep incision of ephemeral gullies in olive groves
+    and rock-bed erosion in streams, showing an extraordinary sediment transport capacity
+    of sub-daily pluvial floods. We develop a novel method to design optimal solutions
+    for natural flood management and erosion risk mitigation. We adopt physical-based
+    equations and build a whole-system model that accurately reproduces the named
+    processes. The approach yields the optimal targeted locations of nature-based
+    solutions (NbSs) for active flow-control by choosing the physical-model parameters
+    that minimise the peak discharge and the erosion-prone area, maximising the soil
+    infiltration capacity. The sub-metric spatial resolution used to resolve microtopographic
+    features of terrains/NbS yields a computational mesh with millions of cells, requiring
+    a Graphics Processing Unit (GPU) to run massive numerical simulations. Our study
+    could contribute to developing principles and standards for agricultural-management
+    initiatives using NbSs in Mediterranean olive and vineyard orchards.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Nature-Based Solutions for Flood Mitigation and Soil Conservation in a Steep-Slope
+      Olive-Orchard Catchment (Arquillos, SE Spain)
+    url: http://dx.doi.org/10.3390/app13052882
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bohorquez-Patricio:
+    individualname: Bohorquez, Patricio
+    role: creator
+  Perez-Latorre-Francisco-Jose:
+    individualname: "P\xE9rez-Latorre, Francisco Jos\xE9"
+    role: creator
+  Gonzalez-Planet-Inmaculada:
+    individualname: "Gonz\xE1lez-Planet, Inmaculada"
+    role: creator
+  Jimenez-Melero-Raquel:
+    individualname: "Jim\xE9nez-Melero, Raquel"
+    role: creator
+  Parra-Gema:
+    individualname: Parra, Gema
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6877849
+  dataseturi: https://doi.org/10.5281/zenodo.6877849
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Estimation of Soil Loss Rate Using RUSLE Model Integrated with GIS and Remote
+    Sensing Techniques The Case of Wama Watershed, Western Ethiopia
+  abstract: "One of Ethiopia's most problematic issues is soil loss due to degradation\
+    \ and erosion. Estimating the quantity of soil loss at the watershed level is\
+    \ required to solve this problem. However, in many catchments (watersheds) in\
+    \ Ethiopia, specific up-to-date information is still lacking. The goal of this\
+    \ study was to use model estimates and GIS to investigate the nature, extent,\
+    \ and rate of soil loss in the watershed. The Revised Universal Soil Loss Equation\
+    \ (RUSLE) was used in conjunction with satellite remote sensing and geographic\
+    \ information systems(GIS) as a useful tool for conservation planning. Mean annual\
+    \ precipitation, digital soil map, digital elevation model, LULC map, and slope\
+    \ steepness were used to determine the RUSLE parameters. The result showed that\
+    \ the potential annual soil loss of the watershed ranges from 0 to 53200.7t/ha/year\
+    \ and the mean annual soil loss rate is 357ton/ha/year. The study area was classified\
+    \ into five severity classes as, Low (0 \u2013 15 t h<sup>-1</sup> yr<sup>-1</sup>),\
+    \ Moderate (15.1 \u2013 35 t h<sup>-1</sup> yr<sup>-1</sup>), High ((35.1 \u2013\
+    \ 50 t h<sup>-1</sup> yr<sup>-1</sup>), Very High (50.1 \u2013 75 t h<sup>-1</sup>\
+    \ yr<sup>-1</sup>) and Severe (&gt;75 t h<sup>-1</sup> yr<sup>-1</sup>). Moreover,\
+    \ the total annual soil loss in the study area was 13400000 tons from 3344.Km<sup>2</sup>.\
+    \ According to the study result, an area that covers 62% (2074.82 sqr. km) of\
+    \ the watershed have low soil loss which indicated more than half of the area\
+    \ has low soil loss while 38% (1269.58 sqr. km) of the watershed has severe to\
+    \ moderate soil loss. As a result, governments, non-governmental organizations,\
+    \ and communities in the watershed should concentrate on implementing soil and\
+    \ water conservation measures that will assist to alleviate the situation. The\
+    \ integration of the RUSLE model and geographic information systems platforms\
+    \ are also presented in this study as a strong and relevant strategy for estimating\
+    \ and monitoring the geographical rate of soil loss distribution for sustainable\
+    \ soil resource management."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-07-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6877849
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6877848
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dawit-Girma-Burayu:
+    individualname: Dawit Girma Burayu
+    role: creator
+    organization: Wolkite University, Wolkite, Ethiopia
+    url: ''
+content_info: {}

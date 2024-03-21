@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4555919
+  dataseturi: https://doi.org/10.5281/zenodo.4555919
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of foliar spray with some safety materials on growth, productivity
+    and tuber quality of potato under sandy soil conditions
+  abstract: Two field experiment were carried out during the two successive summer
+    seasons of 2018 and 2019 at Private Farm, Belbies Distrect, Sharkia Governorate,
+    Egypt, to study the effect of foliar spray with some safety materials (salicylic
+    acid, ascorbic acid, folic acid and cyanocolamin) on growth productivity and tuber
+    quality of potato (<em>Solanum tuberosum </em>L<em>.</em>) cv. Spunta grown in
+    loamy sandy soil. Spraying potato plant with Vit. B<sub>12</sub>, FA, Vit. C and
+    SA at different levels single or in combinations increased dry weight of shoots
+    / plant and leaf area compared to control. Spraying with Vit. B<sub>12</sub>,
+    FA, Vit. C and SA in combination at 100 mg / l of each increased average tuber
+    number / plant, yield / plant, marketable yield and total yield / fad as well
+    as protein content in tubers. Spraying with with Vit. B12 at 150 mg / l or FA
+    at 150 mg / l or Vit. C at 200 mg / l increased DM% and starch content in tubers.
+    From this experiment, it could be concluded that, spraying with Vit. B<sub>12</sub>,
+    FA, Vit. C and SA in combination at 100 mg / l of each increased yield / plant,
+    marketable yield and total yield / fad as well as protein content in tubers, whereas
+    spraying with Vit. C alone at 200 mg / l increased DM% and starch content in tubers.
+  keywords:
+    default:
+      keywords:
+        subject: potato (Solanum tuberosum.), SA, Vit C, Vit B9, Vit B12, growth productivity
+          and tuber quality.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-02-22'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4555919
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4555918
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Asem-A.-S.-A.-Hassan:
+    individualname: Asem, A. S. A. Hassan
+    role: creator
+    organization: Hort. Dept., Fac. Agric., Zagazig University, Egypt
+    url: ''
+  M.H.-El-Sawah:
+    individualname: M.H. El Sawah
+    role: creator
+    organization: Hort. Dept., Fac. Agric., Zagazig University, Egypt
+    url: ''
+  A.-Bardisi:
+    individualname: A. Bardisi
+    role: creator
+    organization: Hort. Dept., Fac. Agric., Zagazig University, Egypt
+    url: ''
+  Sabreen-Kh.-Ibraheim:
+    individualname: Sabreen, Kh. Ibraheim
+    role: creator
+    organization: Hort. Dept., Fac. Agric., Zagazig University, Egypt
+    url: ''
+content_info: {}

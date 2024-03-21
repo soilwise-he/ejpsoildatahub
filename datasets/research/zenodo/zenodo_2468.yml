@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nasta_2021
+  dataseturi: https://doi.org/10.1016/j.ejrh.2021.100903
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Evaluation of pedotransfer functions for predicting soil hydraulic properties:
+    A voyage from regional to field scales across Europe'
+  abstract: '&lt;p&gt;Study region: Europe. A total of 660, 522, and 4940 soil samples
+    belonging to GRIZZLY, HYPRES,&lt;br&gt;
+
+    and EU-HYDI databases, respectively, were used for parametric evaluation.&lt;br&gt;
+
+    Study focus: The soil water retention and hydraulic conductivity functions are
+    crucial input information&lt;br&gt;
+
+    for land surface models. Determining these functions by using direct methods is&lt;br&gt;
+
+    hampered by excessive time and unaffordable costs required for field activities
+    and laboratory&lt;br&gt;
+
+    analyses. Pedotransfer functions (PTFs) are widely-used indirect techniques enabling
+    soil hydraulic&lt;br&gt;
+
+    properties to be predicted by using easily-retrievable soil information. In a
+    parametric&lt;br&gt;
+
+    evaluation, the predictive capability of PTFs is examined by comparing measured
+    and estimated&lt;br&gt;
+
+    soil water retention parameters and saturated hydraulic conductivity. Yet information
+    about the&lt;br&gt;
+
+    performance of PTFs for specific modeling applications is mandatory to evaluate
+    PTF effectiveness&lt;br&gt;
+
+    in greater depth. This approach is commonly defined as functional evaluation.&lt;br&gt;
+
+    New hydrological insights for the region: The best performing four PTFs selected
+    in the parametric&lt;br&gt;
+
+    evaluations are tested under two functional evaluations. The first encompasses
+    a spatial interpolation&lt;br&gt;
+
+    with a geostatistical technique, whereas the second employs Hydrus-1D to simulate
+    the&lt;br&gt;
+
+    water balance components along an experimental transect. Our results reinforce
+    and integrate the&lt;br&gt;
+
+    insights of previous studies about the use of a PTF, and highlight the ability,
+    or inability, of this&lt;br&gt;
+
+    technique to adequately reproduce the observed spatial variability of soil hydraulic
+    properties&lt;br&gt;
+
+    and simulated water fluxes.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Evaluation of pedotransfer functions for predicting soil hydraulic properties:
+      A voyage from regional to field scales across Europe'
+    url: http://dx.doi.org/10.1016/j.ejrh.2021.100903
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nasta-Paolo:
+    individualname: Nasta, Paolo
+    role: creator
+  Szabo-Brigitta:
+    individualname: "Szab\xF3, Brigitta"
+    role: creator
+  Romano-Nunzio:
+    individualname: Romano, Nunzio
+    role: creator
+  Nasta-P.:
+    individualname: Nasta, P.
+    role: creator
+  Szab>=-B.:
+    individualname: "Szab\u221A\u2265, B."
+    role: creator
+  Romano-N.:
+    individualname: Romano, N.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

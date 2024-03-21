@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: van_Zyl
+  dataseturi: https://doi.org/10.1109/igarss.2003.1293790
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Quantitative analysis of SMEX\xE2\u20AC\u212202 AIRSAR data for soil moisture\
+    \ inversion"
+  abstract: In July 2002, the AIRSAR system flew several data acquisition flights
+    during the SMEX'02 field experiment in Iowa. The test site was chosen specifically
+    because of the varying vegetation cover to allow more quantitative testing of
+    the radar inversion algorithms under these conditions. Field conditions were generally
+    favorable for this experiment, and data were acquired during an initial dry period,
+    followed by a wet period after significant rain, and again followed by a drier
+    period. This paper discusses in detail the characteristics of the AIRSAR data
+    acquired, and provides an initial quantitative assessment of the accuracy of the
+    radar algorithm under these vegetated conditions.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Quantitative analysis of SMEX\xE2\u20AC\u212202 AIRSAR data for soil moisture\
+      \ inversion"
+    url: http://dx.doi.org/10.1109/igarss.2003.1293790
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  van-Zyl-J.-J.:
+    individualname: van Zyl, J. J.
+    role: creator
+  Njoku-E.-G.:
+    individualname: Njoku, E. G.
+    role: creator
+  Jackson-T.-J.:
+    individualname: Jackson, T. J.
+    role: creator
+  van-Zyl-J.J.:
+    individualname: van Zyl, J.J.
+    role: creator
+  Njoku-E.G.:
+    individualname: Njoku, E.G.
+    role: creator
+  Jackson-T.J.:
+    individualname: Jackson, T.J.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

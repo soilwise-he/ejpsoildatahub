@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GORDON_1922
+  dataseturi: https://doi.org/10.1097/00010694-192207000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: INFLUENCE OF SOIL COLLOIDS ON AVAILABILITY OF SALTS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: INFLUENCE OF SOIL COLLOIDS ON AVAILABILITY OF SALTS
+    url: http://dx.doi.org/10.1097/00010694-192207000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gordon-Neil-E.:
+    individualname: Gordon, Neil E.
+    role: creator
+  Starkey-E.-B.:
+    individualname: Starkey, E. B.
+    role: creator
+  GORDON-NEIL-E.:
+    individualname: GORDON, NEIL E.
+    role: creator
+  STARKEY-E.-B.:
+    individualname: STARKEY, E. B.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

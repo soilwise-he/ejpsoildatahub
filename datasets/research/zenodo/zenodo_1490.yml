@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7557972
+  dataseturi: https://doi.org/10.5281/zenodo.7557972
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Impact of Heavy Metals on the Soil in Calabar Metropolis Lemna Area
+  abstract: 'Soil samples were collected from the dumpsite soil located at Lemna Road,
+    Calabar Municipality, Cross River State, Nigeria to investigate the speciation
+    and bioavailability of some trace metals namely: iron, cadmium, copper, zinc and
+    lead. Extract from the soil were obtained by sequential extraction. This involved
+    Acid extractable fraction, Oxidisable fraction, Reducible fraction and Residual
+    fraction. These fraction were then analyzed for Pb, Cd, Cu, Fe and Zn using acetylene
+    flame atomic absorption spectrophometer. The results obtained, showed that the
+    metals occurred with the following percentage bioavailability: Fe (33.57%), Zn
+    (43.59%), Cd (67.23%), Cu (82.98%) and Lead (69.96%). Acid extractable 5.57% reducible
+    fraction accounted for over 9.33% of the total fractions, metal bound to residual
+    and oxidisable fraction accounted for 10.90% and 13.05% respectively. Fe has the
+    highest distribution in all the fractions followed by Zn while Cd has the least
+    in all the fractions. The results of these findings indicates that the trace metals
+    with exception of Cd were readily bioavailable in the dumpsite soil therefore,
+    phytoremediation is advocated.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-01-22'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7557972
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7557971
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Udie-Linus-Ugbong:
+    individualname: Udie Linus Ugbong
+    role: creator
+    organization: ''
+    url: ''
+  Offiong-Effanga-Offiong:
+    individualname: Offiong Effanga Offiong
+    role: creator
+    organization: ''
+    url: ''
+  Etuk-Marvelous-Christopher:
+    individualname: Etuk Marvelous Christopher
+    role: creator
+    organization: ''
+    url: ''
+  Anjorin-Ayodele-Ebenezer:
+    individualname: Anjorin Ayodele Ebenezer
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

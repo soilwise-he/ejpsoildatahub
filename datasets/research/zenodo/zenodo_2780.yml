@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.895477
+  dataseturi: https://doi.org/10.5281/zenodo.895477
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Characterizing The Spatial Variability Of Soil Properties And Crop Yield
+    Using High-Resolution Remote Sensing Image And Ground-Based Data
+  abstract: 'Site-specific management practices offer a strategy to optimize agronomic
+    inputs if the causes for spatial and temporal variability in crop yield are understood,
+    and can be related to one or more field properties. The objectives of this study
+    are to: (i) determine the suitable methodology for predicting soil properties
+    and crop yield at high-spatial-resolution by evaluating various machine-learning
+    algorithms, and (ii) identify the relationships between crop yield, soil and topographic
+    properties. The analyses will be based on four soil properties (soil organic carbon,
+    potassium, soil cation exchange capacity and magnesium), and maize (<em>Zea mays</em>
+    L.) yield data from a maize-soybean (<em>Glycine max</em>) rotation field in central
+    Ohio, USA. Topographic properties including slope, aspect, roughness, terrain
+    ruggedness index, topographic position index, and flow direction were derived
+    from a high-spatial-resolution (1 m) digital elevation model data. Soil and vegetation
+    indices were derived from a high-spatial-resolution (0.30 m) multispectral bare-soil
+    aerial image. Soil properties were estimated at high-spatial-resolution by integrating
+    field-collected soil samples, topographic properties, and spectral information
+    (individual spectral bands and indices) derived from multispectral aerial image.
+    Continuous maize yield estimates were then predicted by integrating aforementioned
+    data.  Multiple linear regression (LM) and two machine-learning algorithms, including
+    random forest (RF) and neural network (NN), were investigated to evaluate and
+    identify the method that best characterized the relationships between bare-soil
+    multispectral image, soil properties and crop yield. Comparison of models for
+    estimating soil properties and crop yield demonstrated that soil organic carbon
+    and crop yield can be predicted using bare-soil multispectral image with higher
+    accuracy using the RF model. The LM model predicted soil cation exchange capacity
+    and magnesium with higher accuracy, and NN performed better in estimating potassium.
+    Based on the analyses of importance of variables across the three models for maize
+    yield prediction, variables including red and green spectral bands, and soil indices
+    derived from bare-soil multispectral image, and cation exchange capacity were
+    found to be the five most significant predictors influencing maize yield estimates.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.895477
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.895476
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khanal-S:
+    individualname: Khanal, S
+    role: creator
+    organization: Department of Food, Agricultural and Biological Engineering, Ohio
+      State University
+    url: ''
+  Fulton-J:
+    individualname: Fulton, J
+    role: creator
+    organization: Department of Food, Agricultural and Biological Engineering, Ohio
+      State University
+    url: ''
+  Klopfenstein-A:
+    individualname: Klopfenstein, A
+    role: creator
+    organization: Department of Food, Agricultural and Biological Engineering, Ohio
+      State University
+    url: ''
+  Douridas-N:
+    individualname: Douridas, N
+    role: creator
+    organization: Farm Science Review, Ohio State University
+    url: ''
+  Shearer-S:
+    individualname: Shearer, S
+    role: creator
+    organization: Department of Food, Agricultural and Biological Engineering, Ohio
+      State University
+    url: ''
+content_info: {}

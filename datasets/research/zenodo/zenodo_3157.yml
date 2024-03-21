@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216844
+  dataseturi: https://doi.org/10.5281/zenodo.7216844
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF STRUCTURING AGENT AND HERBICIDE ON SOIL HUMIDITY AND STATE OF
+    WEEDS ON THE WESTERN AND SOUTHERN SLOPES OF THE CHATKAL RIDGE IN UZBEKISTAN
+  abstract: '<em>This article describes the effect of soil structure formers and herbicide
+    on soil moisture and on the state of weeds when creating forest plantations on
+    different mountain slopes of the Chatkal Range.</em> <em>From the experiments,
+    it was found that the structurizers used in the experiment of 2 types of structure-forming
+    agents in the hottest summer period (July-August), when there was a complete absence
+    of precipitation, contributed to an increase in soil moisture in the root layer
+    of plants </em> <em>2-4% higher than the wilting moisture, which was observed
+    in the control variant.</em> <em>In 2017, during the same period, the coverage
+    of the terrace canvas with herbage was: treated with polyameliorant 46.6%, treated
+    with CMC - 51.6%, and not treated (in control) - 59.3%.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Soil structure formers, CMC, polyameliorant, herbicide, Hurricane-forte,
+          ravine, mudflows, wilting moisture, terrace, soil crust, soil moisture,
+          physical evaporation, weeds, grass cover design.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-10-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216844
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216843
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mamutov-Bakhram-Khozhaniiazovich:
+    individualname: "\u041C\u0430\u043C\u0443\u0442\u043E\u0432 \u0411\u0430\u0445\
+      \u0440\u0430\u043C \u0425\u043E\u0436\u0430\u043D\u0438\u044F\u0437\u043E\u0432\
+      \u0438\u0447"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

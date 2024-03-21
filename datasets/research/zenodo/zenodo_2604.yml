@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ashby_1907
+  dataseturi: https://doi.org/10.1017/s0021859600000988
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Some Observations on the Assimilation of Atmospheric Nitrogen by a Free\
+    \ Living Soil Organism.\u2014Azotobacter Chroococcum of Beijerinck"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Some Observations on the Assimilation of Atmospheric Nitrogen by a Free\
+      \ Living Soil Organism.\u2014Azotobacter Chroococcum of Beijerinck"
+    url: http://dx.doi.org/10.1017/s0021859600000988
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ashby-S.-F.:
+    individualname: Ashby, S. F.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

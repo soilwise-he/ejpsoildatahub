@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6059870
+  dataseturi: https://doi.org/10.5281/zenodo.6059870
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Data from: Technosol rehabilitation strategies drive soil physico-chemical
+    properties and fauna diversity on a former coking plant area'
+  abstract: "The original data used to make the figures in our paper, which include:\
+    \ soil physico-chemical properties, soil fauna collected in the barber traps,\
+    \ soil macrofauna collected with the TSBF method and soil mesofauna community.<br>\
+    \ Funding provided by the french \"Minist\xE8re de l\u2019Enseignement Sup\xE9\
+    rieur et de la Recherche et de l\u2019Innovation\u201D with a three-year doctoral\
+    \ scholarship."
+  keywords:
+    default:
+      keywords:
+        subject: Community
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-02-13'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6059870
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6059869
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Colombini-Gabin:
+    individualname: Colombini Gabin
+    role: creator
+    organization: "Universit\xE9 de Lorraine, INRAE, LSE, F-54000 Nancy, France"
+    url: ''
+  Watteau-Francoise:
+    individualname: "Watteau Fran\xE7oise"
+    role: creator
+    organization: "Universit\xE9 de Lorraine, INRAE, LSE, F-54000 Nancy, France"
+    url: ''
+  Auclerc-Apolline:
+    individualname: Auclerc Apolline
+    role: creator
+    organization: "Universit\xE9 de Lorraine, INRAE, LSE, F-54000 Nancy, France"
+    url: ''
+content_info: {}

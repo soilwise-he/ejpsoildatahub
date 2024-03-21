@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Luzuriaga_2020
+  dataseturi: https://doi.org/10.1093/aobpla/plaa020
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Effect of aridity on species assembly in gypsum drylands: a response mediated
+    by the soil affinity of species'
+  abstract: '&lt;p&gt;Previous studies found that plant communities on infertile soils
+    are relatively resistant to climatic variation due to stress tolerance adaptations.
+    However, the species assemblies in gypsum soil habitats require further investigation.
+    Thus, we considered the following questions. (1) Do harsher arid conditions determine
+    the characteristics of the species that form plant assemblages? (2) Is the selection
+    of the species that assemble in arid conditions mediated by their ability to grow
+    on gypsum soils? (3) Is the selection of species that assemble in harsher conditions
+    related to phylogenetically conserved functional traits? Perennial plant communities
+    were analysed in 89 gypsum-soil sites along a 400 km climate gradient from the
+    central to southeastern Iberian Peninsula. Each local assemblage was analysed
+    in 30&nbsp;&times; 30 m plots and described based on taxonomic, functional (soil
+    plant affinity) and phylogenetic parameters. The mean maximum temperatures in
+    the hottest month, mean annual precipitation and their interaction terms were
+    used as surrogates for the aridity conditions in generalized linear models. In
+    the hottest locations, the gypsophily range narrowed and the mean gypsophily increased
+    at the community level, thereby suggesting the filtering of species and the dominance
+    of soil specialists in the actual plant assemblies. Drier sites had higher taxonomic
+    diversity. The species that formed the perennial communities were close in evolutionary
+    terms at the two ends of the aridity gradient. The mean maximum temperatures in
+    the hottest month had the main abiotic filtering effect on perennial plant communities,
+    which was mediated by the ability of species to grow on gypsum soils, and thus
+    gypsum specialists dominated the species assemblies in the hottest locations.
+    In contrast, the perennial communities on gypsum soils were relatively resistant
+    to changes in precipitation. Our findings suggest that the warmer environmental
+    conditions predicted by global change models will favour gypsum specialists over
+    generalists.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Aridity gradient
+      - assembly rules
+      - community weighted mean (CWM)
+      - edaphic endemism
+      - functional diversity
+      - gypsum soil
+      - Mediterranean
+      - phylogenetic diversity
+      - semiarid
+      - soil affinity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Effect of aridity on species assembly in gypsum drylands: a response mediated
+      by the soil affinity of species'
+    url: http://dx.doi.org/10.1093/aobpla/plaa020
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Luzuriaga-Arantzazu L.:
+    individualname: "Luzuriaga, Arantzazu\_L."
+    role: creator
+  Ferrandis-Pablo:
+    individualname: Ferrandis, Pablo
+    role: creator
+  Flores-Joel:
+    individualname: Flores, Joel
+    role: creator
+  Escudero-Adrian:
+    individualname: "Escudero, Adri\xE1n"
+    role: creator
+  Luzuriaga-Arantzazu-L:
+    individualname: Luzuriaga, Arantzazu L
+    role: creator
+  Escudero-Adridegn:
+    individualname: "Escudero, Adri\u221A\xB0n"
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

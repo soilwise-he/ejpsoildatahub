@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1088828
+  dataseturi: https://doi.org/10.5281/zenodo.1088828
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Leaching Of Mineral Nitrogen And Phosphate From Rhizosphere Soil Stressed
+    By Drought And Intensive Rainfall
+  abstract: This work presents the first results from the long-term experiment, which
+    is focused on the impact of intensive rainfall and long period of drought on microbial
+    activities in soil. Fifteen lysimeters were prepared in the area of our interest.
+    This area is a protection zone of underground source of drinking water. These
+    lysimeters were filed with topsoil and subsoil collected in this area and divided
+    into two groups. These groups differ in fertilization and amount of water received
+    during the growing season. Amount of microbial biomass and leaching of mineral
+    nitrogen and phosphates were chosen as main indicators of microbial activities
+    in soil. Content of mineral nitrogen and phosphates was measured in soil solution,
+    which was collected from each lysimeters. Amount of microbial biomass was determined
+    in soil samples that were taken from the lysimeters before and after the long
+    period of drought and intensive rainfall.
+  keywords:
+    default:
+      keywords:
+        subject: Precipitation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-04'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1088828
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1088827
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.-Elbl:
+    individualname: J. Elbl
+    role: creator
+    organization: ''
+    url: ''
+  J.-K.-Friedel:
+    individualname: J. K. Friedel
+    role: creator
+    organization: ''
+    url: ''
+  J.-Zahora:
+    individualname: "J. Z\xE1hora"
+    role: creator
+    organization: ''
+    url: ''
+  L.-Plosek:
+    individualname: "L. Plo\u0161ek"
+    role: creator
+    organization: ''
+    url: ''
+  A.-Kintl:
+    individualname: A. Kintl
+    role: creator
+    organization: ''
+    url: ''
+  J.-Prichystalova:
+    individualname: "J. P\u0159ichystalov\xE1"
+    role: creator
+    organization: ''
+    url: ''
+  J.-Hynst:
+    individualname: "J. Hyn\u0161t"
+    role: creator
+    organization: ''
+    url: ''
+  L.-Dostalova:
+    individualname: "L. Dost\xE1lov\xE1"
+    role: creator
+    organization: ''
+    url: ''
+  K.-Zakoutska:
+    individualname: "K. Z\xE1koutsk\xE1"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

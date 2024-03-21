@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KHUNA_2023
+  dataseturi: https://doi.org/10.11646/phytotaxa.612.1.2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Penicillium thailandense (Aspergillaceae, Eurotiales), a new species isolated
+    from soil in northern Thailand
+  abstract: 'Khuna, Surapong, Kumla, Jaturong, Thitla, Tanapol, Hongsanan, Sinang,
+    Lumyong, Saisamorn, Suwannarach, Nakarin (2023): Penicillium thailandense (Aspergillaceae,
+    Eurotiales), a new species isolated from soil in northern Thailand. Phytotaxa
+    612 (1): 33-45, DOI: 10.11646/phytotaxa.612.1.2, URL: http://dx.doi.org/10.11646/phytotaxa.612.1.2'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Fungi
+      - Ascomycota
+      - Eurotiomycetes
+      - Eurotiales
+      - Aspergillaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Penicillium thailandense (Aspergillaceae, Eurotiales), a new species isolated
+      from soil in northern Thailand
+    url: http://dx.doi.org/10.11646/phytotaxa.612.1.2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khuna-Surapong:
+    individualname: Khuna, Surapong
+    role: creator
+  Kumla-Jaturong:
+    individualname: Kumla, Jaturong
+    role: creator
+  Thitla-Tanapol:
+    individualname: Thitla, Tanapol
+    role: creator
+  Hongsanan-Sinang:
+    individualname: Hongsanan, Sinang
+    role: creator
+  Lumyong-Saisamorn:
+    individualname: Lumyong, Saisamorn
+    role: creator
+  Suwannarach-Nakarin:
+    individualname: Suwannarach, Nakarin
+    role: creator
+  KHUNA-SURAPONG:
+    individualname: KHUNA, SURAPONG
+    role: creator
+  KUMLA-JATURONG:
+    individualname: KUMLA, JATURONG
+    role: creator
+  THITLA-TANAPOL:
+    individualname: THITLA, TANAPOL
+    role: creator
+  HONGSANAN-SINANG:
+    individualname: HONGSANAN, SINANG
+    role: creator
+  LUMYONG-SAISAMORN:
+    individualname: LUMYONG, SAISAMORN
+    role: creator
+  SUWANNARACH-NAKARIN:
+    individualname: SUWANNARACH, NAKARIN
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7878897
+  dataseturi: https://doi.org/10.5281/zenodo.7878897
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spatial heterogeneity of soil acidity properties in peatlands of Western
+    Siberia
+  abstract: 'The formation of significant amounts of low molecular weight (LMW) water-soluble
+    organic compounds, which are highly reactive compounds of a non-specific nature,
+    is a feature of the biogeocenoses of the North. Soil acidity, which in turn depends
+    on LMW organic acids content, regulates the migration ability of compounds in
+    landscapes and the bioavailability of nutrients. With an increase in the active
+    layer thickness of peat soils in Western Siberia in the course of climate warming,
+    new portions of LMW water-soluble organic compounds will enter, which will be
+    quickly processed by microorganisms into CH<sub>4</sub> and CO<sub>2</sub>. Five
+    key sites were considered, located within thawed oligotrophic, frozen mound and
+    polygonal bogs. The analysis of zonal patterns of acidity changes in the waters
+    of peat soils indicates an increase in the pH in the series: northern taiga&lt;forest
+    tundra&lt;southern tundra. A feature of the most acidic soils of the northern
+    taiga is the high content of low molecular weight organic acids, the accumulation
+    of which is determined by the species diversity of the vegetation cover and high
+    humidity. The decrease in the content of acids in the soils of the southern tundra
+    is due to changes in climatic conditions and, accordingly, the quality and quantity
+    of organic material involved in the processes of mineralization and humification.
+    Relationships between the pH of the soil solution and such parameters as the specific
+    conductivity, the content of dissolved organic carbon, and the specific UV-absorbency
+    (SUVA<sub>245</sub>) were revealed. Comparison of the acidity indices of peat
+    soils of the zonal series of the European Northeast with similar ones obtained
+    for the study area of Western Siberia showed that, at the same values of actual
+    acidity, the exchangeable acidity values of peat soils of Western Siberia are
+    slightly lower.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil acidity, zonal patterns, Histosols, soil waters, frozen mound
+          and polygonal bogs, Western Siberia Lowland
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7878897
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7878896
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raudina-Tatiana-V.:
+    individualname: Raudina, Tatiana V.
+    role: creator
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0002-8953-883X
+  Istigechev-Georgyi-I.:
+    individualname: Istigechev, Georgyi I.
+    role: creator
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0002-8387-5341
+  Loiko-Sergey-V.:
+    individualname: Loiko, Sergey V.
+    role: creator
+    organization: National Research Tomsk State University, 36 Lenin Ave., Tomsk,
+      634050, Russia
+    url: https://orcid.org/0000-0003-2020-4716
+content_info: {}

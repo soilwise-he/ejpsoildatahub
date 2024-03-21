@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: RUSSELL_1918
+  dataseturi: https://doi.org/10.1038/101061a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: '(1) The Rural Teacher and his Work in Community Leadership, in School Administration,
+    and in Mastery of the School Subjects (2) The Chemistry of Farm Practice (3) Soil
+    Biology: Laboratory Manual (4) A Laboratory Manual in Farm Machinery (5) Late
+    Cabbage from Seed until Harvest, also Seed Raising'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: '(1) The Rural Teacher and his Work in Community Leadership, in School Administration,
+      and in Mastery of the School Subjects (2) The Chemistry of Farm Practice (3)
+      Soil Biology: Laboratory Manual (4) A Laboratory Manual in Farm Machinery (5)
+      Late Cabbage from Seed until Harvest, also Seed Raising'
+    url: http://dx.doi.org/10.1038/101061a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Russell-E.-J.:
+    individualname: Russell, E. J.
+    role: creator
+  RUSSELL-E.-J.:
+    individualname: RUSSELL, E. J.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

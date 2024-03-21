@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6619831
+  dataseturi: https://doi.org/10.5281/zenodo.6619831
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: AN INVESTIGATION ON THE SOIL AND PEAT HUMIC ACIDS. PART II. OXIDATION WITH
+    HYDROGEN PEROXIDE, HOT ALKALI AND CHLORINE DIOXIDE SOLUTION.
+  abstract: A humic acid from peat and another from an Assam tea soil were oxidised
+    by various strengths of H<sub>2</sub>O<sub>2 </sub>both as pure acid and as the
+    Ca salt. They were also subjected to a method of degradation similar to that used
+    by Freudenberg in connection with lignin. Products of the same nature were isolated.
+    The acids were also<em> </em>oxidised by ClO<sub>2</sub> and oxalic and butyric
+    acids detected in the products.
+  keywords:
+    default:
+      keywords:
+        subject: Chlorine
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1940-12-31'
+    publication: '1940'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6619831
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6619830
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-C.-ESH:
+    individualname: G. C. ESH
+    role: creator
+    organization: ''
+    url: ''
+  S.-S.-GUHA-SIRCAR:
+    individualname: S. S. GUHA-SIRCAR
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

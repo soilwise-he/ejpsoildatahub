@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7441286
+  dataseturi: https://doi.org/10.5281/zenodo.7441286
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of Strength-Enhancing Admixtures on Stabilization of Expansive Soil
+    by Addition of Alternative Binders
+  abstract: In this study, the stabilization process is introduced to a clayey expansive
+    soil collected in southern Sweden. The tests examined strength parameters of expansive
+    soil stabilized by different binders using combination of both traditional binders
+    (cement and lime) and alternative materials (slag Merit 5000, fly ash from SCA
+    Lilla Edet and fly ash from coal combustion, ISO certified). The practical goal
+    was to find a binder mixture that is optimized for soil stabilization with respect
+    to technical properties of stabilizing agent as an inert ballast material. The
+    strength of soil stabilized by various binders was examined by velocity of the
+    P-waves propagating through specimens. The results show that introducing slag
+    Merit 5000 as an admixture to cement and lime is an effective approach in enhancing
+    strength properties in weak soil, which increases bearing capacity of soil for
+    planned construction works. The results also shown that a mixture of lime and
+    bio ash yields a better effect in the stabilization of a clay. Soil stabilized
+    with cement, cement/slag and lime/slag becomes resistant to freeze-thaw cycles,
+    which is crucial for construction of roads and building foundations.
+  keywords:
+    default:
+      keywords:
+        subject: Construction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-14'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7441286
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.2478/cee-2022-0067
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7305097
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Per-Lindh:
+    individualname: Per Lindh
+    role: creator
+  Polina-Lemenkova:
+    individualname: Polina Lemenkova
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: ''
+    organization: Lund University
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: ''
+    organization: "Universit\xE9 Libre de Bruxelles, \xC9cole polytechnique de Bruxelles\
+      \ (Brussels Faculty of Engineering)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

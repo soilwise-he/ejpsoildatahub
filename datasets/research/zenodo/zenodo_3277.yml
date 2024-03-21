@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10258525
+  dataseturi: https://doi.org/10.5281/zenodo.10258525
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Plant Soil \u6D59\u5927\u8521\u5723\u51A0\u7B49:\u975E\u635F\u4F24\u5FAE\
+    \u6D4B\u6280\u672F\u53D1\u73B0Al\u80C1\u8FEB\u81F4\u78F7\u9178\u6839\u5916\u6392\
+    \u2191\u4E3A\u63A2\u7A76\u5927\u9EA6\u9002\u5E94Al\u80C1\u8FEB\u7684\u78F7\u4EE3\
+    \u8C22\u8FDB\u5316\u673A\u5236\u63D0\u4F9B\u8BC1\u636E"
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-30'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10258525
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10258524
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  'Zhong Guan Cun NMTChan Ye Lian Meng ':
+    individualname: "\u4E2D\u5173\u6751NMT\u4EA7\u4E1A\u8054\u76DF"
+    role: creator
+  'Zhong Guan Cun NMTChan Ye Lian Meng Bian Ji Bu ':
+    individualname: "\u4E2D\u5173\u6751NMT\u4EA7\u4E1A\u8054\u76DF\u7F16\u8F91\u90E8"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

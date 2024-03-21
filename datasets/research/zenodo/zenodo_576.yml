@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5794695
+  dataseturi: https://doi.org/10.5281/zenodo.5794695
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Porosity and Water Infiltration as Influenced by Tillage Practices on
+    Federal University of Agriculture Abeokuta, Ogun State, Nigeria Soil
+  abstract: "Frequency and intensity of Interaction of machine with soil have great\
+    \ effect and manipulate the physical and hydraulic properties of soil. The effects\
+    \ of agricultural management practices on soil physical parameters aid the effective\
+    \ sustainability of soils. In this study, three tillage methods common to the\
+    \ study area on porosity and water infiltration were assessed. Tillage treatments\
+    \ include zero tillage (Plot covered with vegetation (conservation tillage)),\
+    \ disc plough (ploughing to the depth of 16 cm, conventional tillage (CT)) and\
+    \ disc harrow (harrowing to a depth of 16 cm, conventional tillage (CT)). Porosity\
+    \ was determined by the core method, water infiltration by the double-ring infiltrometer\
+    \ and hydraulic conductivity from the steady state flow rate. Based on the result\
+    \ obtained there was no significant difference between the zero tillage and disc\
+    \ plough tillage while there was significant difference between the zero tillage\
+    \ and disc harrow tillage. More so, there was significant difference between the\
+    \ plough tillage and harrow tillage. Based on analysis and comparison of results,\
+    \ it\u2019s indicated high soil sorptivity, porosity and infiltration capacity\
+    \ values for zero tillage follow by disc plough tillage and disc harrow tillage\
+    \ respectively. The bulk density decreased with depth for all the tillage practice\
+    \ while moisture content and porosity increased with depth for all the tillage\
+    \ practices. Furthermore, it has been found that porosity decreased in the order\
+    \ disc harrow tillage (49.90 %) follow by disc plough tillage (42.62%) and zero\
+    \ tillage (41.17 %) respectively. Meanwhile, infiltration capacity increased in\
+    \ the order zero tillage (24.40 cm/hr) follow by disc plough tillage (32.30 cm/hr)\
+    \ and disc harrow tillage (39.40 cm/hr). It was also observed that there was positive\
+    \ correlation between the infiltration capacity and porosity. The infiltration\
+    \ capacity increased with porosity."
+  keywords:
+    default:
+      keywords:
+        subject: Soil porosity, Water infiltration, Tillage practices, bulk density
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-04-11'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5794695
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5794694
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kifilideen-L.-Osanyinpeju:
+    individualname: Kifilideen L. Osanyinpeju
+    role: creator
+  Pius-O.O.-Dada1:
+    individualname: Pius O.O. Dada1
+    role: creator
+  Osanyinpeju-Kifilideen-L.:
+    individualname: Osanyinpeju, Kifilideen L.
+    role: ''
+    organization: Federal University of Agriculture, Abeokuta Ogun State
+    url: https://orcid.org/0000-0002-8995-7559
+  Dada1-Pius-O.O.:
+    individualname: Dada1, Pius O.O.
+    role: ''
+    organization: Federal University of Agriculture, Abeokuta Ogun State
+    url: ''
+content_info: {}

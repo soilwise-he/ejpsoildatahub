@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1076826
+  dataseturi: https://doi.org/10.5281/zenodo.1076826
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Electroremediation Of Cu-Contaminated Soil
+  abstract: This study investigated the removal efficiency of electrokinetic remediation
+    of copper-contaminated soil at different combinations of enhancement reagents
+    used as anolyte and catholyte. Sodium hydroxide (at 0.1, 0.5, and 1.0 M concentrations)
+    and distilled water were used as anolyte, while lactic acid (at 0.01, 0.1, and
+    0.5 M concentrations), ammonium citrate (also at 0.01, 0.1, and 0.5 M concentrations)
+    and distilled water were used as catholyte. A continuous voltage application (1.0
+    VDC/cm) was employed for 240 hours for each experiment. The copper content of
+    the catholyte was determined at the end of the 240-hour period. Optimization was
+    carried out with a Response Surface Methodology - Optimal Design, including F
+    test, and multiple comparison method, to determine which pair of anolyte-catholyte
+    was the most significant for the removal efficiency. "1.0 M NaOH" was found to
+    be the most significant anolyte while it was established that lactic acid was
+    the most significant type of catholyte to be used for the most successful electrokinetic
+    experiments. Concentrations of lactic acid should be at the range of 0.1 M to
+    0.5 M to achieve maximum percent removal values.
+  keywords:
+    default:
+      keywords:
+        subject: soil remediation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-01-23'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1076826
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1076825
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Darius-Jay-R.-Bongay:
+    individualname: Darius Jay R. Bongay
+    role: creator
+  Roberto-L.-Ngo:
+    individualname: Roberto L. Ngo
+    role: creator
+  Bongay-Darius-Jay-R.:
+    individualname: Bongay, Darius Jay R.
+    role: ''
+    organization: ''
+    url: ''
+  Ngo-Roberto-L.:
+    individualname: Ngo, Roberto L.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

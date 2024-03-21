@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7750948
+  dataseturi: https://doi.org/10.5281/zenodo.7750948
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The state of agrocenosises and hayfield meadows in farm units of Prialeisk
+    soil and climate zone (Altai Krai)
+  abstract: This paper presents the results of the estimation of agrocenoses and hayfield
+    meadows of Prialeisk soil and climate zone in Altai krai. For the period 2001-2021
+    there is a pronounced trend for increasing yields in almost all crops. The exception
+    includes only permanent grasses for green feed which is explained by aridization
+    of the climate and the established agrotechnology in recent decades. Data analysis
+    shows that planting acreages have decreased for such crops as spring wheat (from
+    107.3 thousand ha in 2001 to 59.7 thousand ha in 2021), oat (from 8.6 thousand
+    ha in 2001 to 6.2 thousand ha in 2021) and permanent grasses (from 15.4 thousand
+    ha in 2001 to 4.8 thousand ha in 2021). When estimating the monitoring areas with
+    agrocenoses on the water index calculated using Sentinel-2 data it was identified
+    that for sainfoin, linen, sunflower, lucerne and corn the range of NDWI values
+    ranged from -0.2 to 0.4. Whereas they were drought tolerant crops, stress was
+    insignificant. Hayland haylages as forage lands did not have any negative index
+    values. For oat and soy, the index indicators were lower, the values ranged from
+    -0.2 to 0.25. A value range for wheat varied from -0.2 to 0.3. Buckwheat was rich
+    in phytomass and the NDWI value range was from -0.1 to 0.45. That gave evidence
+    of the sufficient water availability of the crop. Agrocenoses productivity depended
+    on the level of the area moistening and the soil and climate conditions were fairly
+    homogeneous on the selected territories as correlation between ARVI and NDWI values
+    was 0.9. According to the satellite data the most productive ones were oat crops
+    with sainfoin and buckwheat.
+  keywords:
+    default:
+      keywords:
+        subject: biologization of agriculture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7750948
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7750947
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ovcharova-Natalia:
+    individualname: Ovcharova, Natalia
+    role: creator
+    organization: Altai State University
+    url: ''
+  Silantieva-Marina:
+    individualname: Silantieva, Marina
+    role: creator
+    organization: Altai State University
+    url: ''
+  Zhukova-Elena:
+    individualname: Zhukova, Elena
+    role: creator
+    organization: Katanov Khakass State University
+    url: ''
+  Sokolova-Ludmila:
+    individualname: Sokolova, Ludmila
+    role: creator
+    organization: Altai State University
+    url: ''
+  Elesova-Natalia:
+    individualname: Elesova, Natalia
+    role: creator
+    organization: Altai State University
+    url: ''
+  Riabtsev-Vadim:
+    individualname: Riabtsev, Vadim
+    role: creator
+    organization: LLC "Zolotaia osen"
+    url: ''
+  Zakrevskiy-Aleksandr:
+    individualname: Zakrevskiy, Aleksandr
+    role: creator
+    organization: LLC "Zolotaia osen"
+    url: ''
+content_info: {}

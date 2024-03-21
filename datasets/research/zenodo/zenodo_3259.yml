@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wright_1915
+  dataseturi: https://doi.org/10.1103/physrev.5.459
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Variation with Meteorological Conditions of the Amount of Radium Emanation
+    in the Atmosphere, in the Soil Gas, and in the air Exhaled from the Surface of
+    the Ground, at Manila
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Variation with Meteorological Conditions of the Amount of Radium Emanation
+      in the Atmosphere, in the Soil Gas, and in the air Exhaled from the Surface
+      of the Ground, at Manila
+    url: http://dx.doi.org/10.1103/physrev.5.459
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wright-J.-R.:
+    individualname: Wright, J. R.
+    role: creator
+  Smith-O.-F.:
+    individualname: Smith, O. F.
+    role: creator
+  American-Physical-Society-APS:
+    individualname: American Physical Society (APS)
+    role: creator
+content_info: {}

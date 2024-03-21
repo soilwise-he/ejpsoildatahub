@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: A_Hamoodi_2020
+  dataseturi: https://doi.org/10.11591/eei.v9i3.1736
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Automated irrigation system based on soil moisture using arduino board
+  abstract: '&lt;p&gt;In recent years, the best system of irrigation is studied by
+    reducing the wasted amount of water and electricity. Automatic irrigation is the
+    use of a device to operate irrigation structures so the change of flow of water
+    from one bay, or set of bays, to another can occur in the absence of the irrigator.
+    In this work, automatic control system of solar irrigation implemented practically
+    using arduino board. This photovoltaic (PV) system is applied in the garden of
+    Engineering Technical College-Mosul (city in Iraq). PV system can be adjusted
+    by many regions in Iraq where it planned to connect on small part of land. Irrigation
+    process is controlled depending on moisture sensor that connected to sense the
+    soil moisture and giving data to arduino read pin. According to the program that
+    uploaded to arduino, DC pump can be controlled as ON-state or OFF-state as respect
+    to the soil moisture percentage ratio. Finally, the practical results are approximately
+    similar to that obtained from proteus arduino simulator.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Arduino
+      - Automatic control system
+      - DC water pump
+      - Moisture sensor
+      - Solar irrigation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Automated irrigation system based on soil moisture using arduino board
+    url: http://dx.doi.org/10.11591/eei.v9i3.1736
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Safwan-A.-Hamoodi:
+    individualname: Safwan A. Hamoodi
+    role: creator
+  Ali-N.-Hamoodi:
+    individualname: Ali N. Hamoodi
+    role: creator
+  Ghanim-M.-Haydar:
+    individualname: Ghanim M. Haydar
+    role: creator
+  A.-Hamoodi-Safwan:
+    individualname: A. Hamoodi, Safwan
+    role: creator
+  N.Hamoodi-Ali:
+    individualname: N.Hamoodi, Ali
+    role: creator
+  M.Haydar-Ghanim:
+    individualname: M.Haydar, Ghanim
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

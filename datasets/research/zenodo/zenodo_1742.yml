@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6466304
+  dataseturi: https://doi.org/10.5281/zenodo.6466304
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of Sustainable and Environmentally Friendly Stabilization of Cohesionless
+    Sandy Soil for Transportation Infrastructure
+  abstract: Ordinary Portland cement (OPC) is generally used to stabilize cohesionless
+    sandy soils that are often found in coastal areas. Due to its high carbon footprint,
+    many studies are being conducted to identify a suitable green alternative for
+    stabilizing cohesionless soils. Previous studies have shown that partially replacing
+    OPC with waste materials such as nano-silica and coal waste reduces the overall
+    carbon footprint without significantly impacting the performance. Geopolymer (GP)
+    received a lot of attention in the past few decades owing to its similar properties
+    to that of OPC yet with a lower carbon footprint. This study investigated the
+    feasibility of stabilizing cohesionless sandy soils with metakaolin-based GP.
+    Engineering and characterization tests such as shrinkage, strength, pH, scanning
+    electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDS) were performed
+    to evaluate various characteristics of the stabilized mixes with different dosages
+    of geopolymer and relate them to microstructural changes. Notably, GP-treated
+    soils did not deteriorate during the durability tests, whereas the OPC-treated
+    soil only retained about 75% of its strength. This is an indication that GP could
+    be a better choice than OPC in coastal areas where cohesionless soils often experience
+    heavy rainfall and flooding. Overall, an optimum dosage of GP improved both the
+    mechanical properties and durability of cohesionless soils.
+  keywords:
+    default:
+      keywords:
+        subject: Geopolymer, cohesionless soils, pavements, sustainability, infrastructure,
+          stabilization
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-08-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6466304
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6466303
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Miladin-Radovic:
+    individualname: Miladin Radovic
+    role: creator
+  Anand-J.-Puppala:
+    individualname: Anand J. Puppala
+    role: creator
+  Surya-Sarat-Chandra-Congress:
+    individualname: Surya Sarat Chandra Congress
+    role: creator
+  Jungyeon-Jang:
+    individualname: Jungyeon Jang
+    role: creator
+    organization: ''
+    url: ''
+  Oscar-Huang:
+    individualname: Oscar Huang
+    role: creator
+  Radovic-Miladin:
+    individualname: Radovic, Miladin
+    role: ''
+    organization: Texas A&M University
+    url: ''
+  Puppala-Anand-J.:
+    individualname: Puppala, Anand J.
+    role: ''
+    organization: Texas A&M University
+    url: ''
+  Congress-Surya-Sarat-Chandra:
+    individualname: Congress, Surya Sarat Chandra
+    role: ''
+    organization: Texas A&M University
+    url: ''
+  Huang-Oscar:
+    individualname: Huang, Oscar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

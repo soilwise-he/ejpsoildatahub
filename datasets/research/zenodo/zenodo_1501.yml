@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4284596
+  dataseturi: https://doi.org/10.5281/zenodo.4284596
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Bioremediation potentials of chicken droppings on crude oil polluted soil
+    from automobile workshop
+  abstract: "The bioremediation properties of chicken droppings on crude oil contaminated\
+    \ soil from automobile workshop in Keffi Nasarawa State of Nigeria were evaluated.\
+    \ Two experimental treatment (T1 and T2) with 10% and 30% chicken dropping addition\
+    \ to the contaminated soil were set up. A control (T3) was also set up consisting\
+    \ of contaminated soil only. The set up design was left for a period of 4 weeks\
+    \ during which the total heterotrophic bacteria (THB) count, total petroleum hydrocarbon\
+    \ degraded and gas chromatography and mass spectroscopy (GCMS) identification\
+    \ of the residue hydrocarbon after remediation were carried out. Soil samples\
+    \ remediated with 30% CD had significantly (p&lt;0.05) the highest THB in the\
+    \ range of 6.45 x 10<sup>7</sup> -11.23 x 10<sup>7</sup> when compared with those\
+    \ remediated with 10 % CD (5.34 x 10<sup>7</sup> -8.36 x 10<sup>7</sup>). The\
+    \ non-remediated control had the least THB count of 3.45 \xD710<sup>7</sup> CFU/g.\
+    \ There was a rapid and progressive reduction in the total petroleum hydrocarbon\
+    \ during remediation in all the soil bio-remediated with 30% chicken droppings\
+    \ compared to that of un-remediated soil. Automobile contaminated soil from Anguwan\
+    \ Kwara are more susceptible to remediation had the highest TPH degraded of 22,\
+    \ 39, 44 and 57.04%, at the end of the days 7, 14, 21 and 28 days respectively.\
+    \ GCMS revealed a total of 12,14,8,9 and 17 residual hydrocarbons in soil samples\
+    \ from Keffi Garage, New Keffi Hotel, Angwan Kwara, High Court and Angwan Tanko\
+    \ automobile workshops respectively after remediation with 30% chicken droppings\
+    \ while non-remediated soil recorded 22 residual hydrocarbons. The research shows\
+    \ that chicken droppings enhanced bioremediation of crude oil contaminated soil\
+    \ from automobile workshops."
+  keywords:
+    default:
+      keywords:
+        subject: Automobile workshops; Bioremediation; Chicken droppings; Total heterotrophic
+          bacteria
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4284596
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4284595
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Makut-Danladi-Makwin:
+    individualname: Makut Danladi Makwin
+    role: creator
+    organization: Department of Microbiology, Nasarawa State University, P.M.B. 2022,
+      Keffi, Nigeria.
+    url: ''
+  Majekodunmi-Olasumbo-Opemipo:
+    individualname: Majekodunmi Olasumbo Opemipo
+    role: creator
+    organization: Department of Microbiology, Nasarawa State University, P.M.B. 2022,
+      Keffi, Nigeria.
+    url: ''
+content_info: {}

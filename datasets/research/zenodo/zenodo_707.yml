@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5770107
+  dataseturi: https://doi.org/10.5281/zenodo.5770107
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'GEMAS: Geochemistry of European agricultural and grazing land soil'
+  abstract: The project Geochemical Mapping of Agricultural and grazing land Soil
+    (GEMAS) was carried out in 33 European countries (5.6 million km<sup>2</sup>)
+    with an average sampling density of 1 site per 2500 km<sup>2</sup>. The main objective
+    was to assess the chemical quality of productive soils. All collected soil samples
+    were prepared in the same laboratory, and subsequently analysed for the same suite
+    of elements and physicochemical parameters in the same laboratory following a
+    strict quality control procedure. Data interpretation revealed that few soil samples
+    reach element concentrations where toxicity may become of concern. However, more
+    than 10% of samples contain such low element concentrations that deficiency for
+    optimum plant growth and animal health may be a much larger issue warranting attention.
+  keywords:
+    default:
+      keywords:
+        subject: Geoscience
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5770107
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5770106
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Demetriades-Alecos:
+    individualname: Demetriades, Alecos
+    role: creator
+    organization: Institute of Geology and Mineral Exploration, Athens, Hellenic Republic
+    url: https://orcid.org/0000-0002-9343-7433
+  Reimann-Clemens:
+    individualname: Reimann, Clemens
+    role: creator
+    organization: Geological Survey of Norway, Trondheim, Norway
+    url: ''
+  Birke-Manfred:
+    individualname: Birke, Manfred
+    role: creator
+    organization: "Bundesanstalt f\xFCr Geowissenschaften und Rohstoffe, Hannover,\
+      \ Germany"
+    url: ''
+  Negrel-Philippe:
+    individualname: "N\xE9grel, Philippe"
+    role: creator
+    organization: "BRGM, Orl\xE9ans"
+    url: ''
+  Ladenberger-Anna:
+    individualname: Ladenberger, Anna
+    role: creator
+    organization: Geological Survey of Sweden, Uppsala, Sweden
+    url: ''
+  Tarvainen-Timo:
+    individualname: Tarvainen, Timo
+    role: creator
+    organization: Geological Survey of Finland, Espoo, Finland
+    url: ''
+  Sadeghi-Martiya:
+    individualname: Sadeghi, Martiya
+    role: creator
+    organization: Geological Survey of Sweden, Uppsala, Sweden
+    url: ''
+content_info: {}

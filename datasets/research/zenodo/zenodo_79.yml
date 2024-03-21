@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10400222
+  dataseturi: https://doi.org/10.5281/zenodo.10400222
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOIL REMEDIATION BY PHYTOREMEDIATION
+  abstract: 'The paper deals with modern methods of phytoremediation: phytoextraction,
+    phytostabilization, phytolatilization and rhizofiltration. The article presents
+    the criteria for selecting plant species for the implementation ofphytoremediation
+    methods. The advantages and limitations of using phytoremediation methods for
+    soil purification from heavy metals are analyzed. The article proves the effectiveness
+    of implementing natural methods of soilremediation, which is especially important
+    for the post-war restoration of Ukrainian soils.'
+  keywords:
+    default:
+      keywords:
+        subject: soils, pollution, heavy metals, phytoremediation, environmental hazard,
+          environmental protection measures.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10400222
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10400221
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  POLISH-JOURNAL-OF-SCIENCE:
+    individualname: POLISH JOURNAL OF SCIENCE
+    role: creator
+  Rybalova-O.:
+    individualname: Rybalova O.
+    role: creator
+    organization: ''
+    url: ''
+  Bryhada-O.:
+    individualname: Bryhada O.
+    role: creator
+    organization: ''
+    url: ''
+  Ilyinskiy-O.:
+    individualname: Ilyinskiy O.
+    role: creator
+    organization: ''
+    url: ''
+  Matsak-A.:
+    individualname: "Matsak \u0410."
+    role: creator
+    organization: ''
+    url: ''
+  Chorns-K.:
+    individualname: Chorns K.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

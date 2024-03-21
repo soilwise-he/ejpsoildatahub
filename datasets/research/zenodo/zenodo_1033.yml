@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2587107
+  dataseturi: https://doi.org/10.5281/zenodo.2587107
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Changes in Biomass Accumulation and Soil Properties After Fertilization of
+    Ryegrass
+  abstract: "A containers experiment was carried out in four variants with fertilization\
+    \ of ryegrass: 1th and 2nd trials, with the addition of 1ml and 5ml of organic\
+    \ fertilizer \u201CSiapton\u201D and 3th and 4th trials: a combination of Siapton\
+    \ (0.5 ml fertilizer in 50 ml of water ) with the mineral fertilizer \"Kristalon\"\
+    \ in quantity of 0.5 and 2 grams respectively. There was used also a control.\
+    \ It is accounted a higher accumulation of organic matter (content of C% and N%)\
+    \ in leaves of ryegrass after fertilizing in comparison with the control. Accumulation\
+    \ of dry matter also is higher in fertilized variants (27.09 \xF7 37.62) compared\
+    \ to the control (25.99g). This difference is not confirmed and does not recorded\
+    \ in relation to the roots of ryegrass. Acidification of soils is changed towards\
+    \ a higher pH (5.5 \xF7 6.4) in fertilized variants in comparison with the control\
+    \ (pH = 5.2). The humus composition was studied by the method of Kononova - Belchikova,\
+    \ but apparent differences were not accounted in relation to the use of organic\
+    \ and mineral fertilizers. The content of humic acids extracted with pyrophosphate\
+    \ calculated according the weight of soil samples is lowest in control (1.02%),\
+    \ where the content of fulvic acids is high (0.40%)."
+  keywords:
+    default:
+      keywords:
+        subject: organic mass, dry weight, humic and fulvic acids
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-12-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2587107
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2587106
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kachova-Vania:
+    individualname: Kachova, Vania
+    role: creator
+    organization: Forest Research Institute, Bulgarian Academy of Sciences
+    url: ''
+content_info: {}

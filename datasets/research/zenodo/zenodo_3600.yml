@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1131507
+  dataseturi: https://doi.org/10.5281/zenodo.1131507
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Performance Of Axially Loaded Single Pile Embedded In Cohesive Soil With
+    Cavities
+  abstract: The stability of a single model pile located adjacent to a continuous
+    cavity was studied. This paper is an attempt to understand the behaviour of axially
+    loaded single pile embedded in clayey soil with the presences of cavities. The
+    performance of piles located in such soils was studied analytically. A verification
+    analysis was carried out on available studies to assess the ability of analytical
+    model to correctly interpret the system behaviour. The study was adopted by finite
+    element program (PLAXIS). The study included many cases; in each case, there is
+    a critical value in which the presence of cavities has shown minimum effect on
+    the pile performance. Figures including the load carrying capacity of pile with
+    the affecting factors are presented. These figures provide beneficial information
+    for pile design constructed close to underground cavities. It was concluded that
+    the load carrying capacity of the pile is reduced by the presence of the cavity
+    within the soil mass. This reduction varies according to the size and location
+    of cavity.
+  keywords:
+    default:
+      keywords:
+        subject: ultimate capacity.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-06-04'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1131507
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1131506
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-A.-Al-Jazaairry:
+    individualname: Ali A. Al-Jazaairry
+    role: creator
+  Tahsin-T.-Sabbagh:
+    individualname: Tahsin T. Sabbagh
+    role: creator
+  Al-Jazaairry-Ali-A.:
+    individualname: Al-Jazaairry, Ali A.
+    role: ''
+    organization: ''
+    url: ''
+  Sabbagh-Tahsin-T.:
+    individualname: Sabbagh, Tahsin T.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

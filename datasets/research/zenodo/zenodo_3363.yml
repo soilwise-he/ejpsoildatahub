@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1124571
+  dataseturi: https://doi.org/10.5281/zenodo.1124571
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Simulation Of Soil-Pile Interaction Of Steel Batter Piles Penetrated In Sandy
+    Soil Subjected To Pull-Out Loads
+  abstract: "Superstructures like offshore platforms, tall buildings, transition towers,\
+    \ skyscrapers and bridges are normally designed to resist compression, uplift\
+    \ and lateral forces from wind waves, negative skin friction, ship impact and\
+    \ other applied loads. Better understanding and the precise simulation of the\
+    \ response of batter piles under the action of independent uplift loads is a vital\
+    \ topic and an area of active research in the field of geotechnical engineering.\
+    \ This paper investigates the use of finite element code (FEC) to examine the\
+    \ behaviour of model batter piles penetrated in dense sand, subjected to pull-out\
+    \ pressure by means of numerical modelling. The concept of the Winkler Model (beam\
+    \ on elastic foundation) has been used in which the interaction between the pile\
+    \ embedded depth and adjacent soil in the bearing zone is simulated by nonlinear\
+    \ p-y curves. The analysis was conducted on different pile slenderness ratios\
+    \ (lc\u2044d) ranging from 7.5, 15.22 and 30 respectively. In addition, the optimum\
+    \ batter angle for a model steel pile penetrated in dense sand has been chosen\
+    \ to be 20\xB0 as this is the best angle for this simulation as demonstrated by\
+    \ other researcher published in literature. In this numerical analysis, the soil\
+    \ response is idealized as elasto-plastic and the model piles are described as\
+    \ elastic materials for the purpose of simulation. The results revealed that the\
+    \ applied loads affect the pullout pile capacity as well as the lateral pile response\
+    \ for dense sand together with varying shear strength parameters linked to the\
+    \ pile critical depth. Furthermore, the pile pull-out capacity increases with\
+    \ increasing the pile aspect ratios."
+  keywords:
+    default:
+      keywords:
+        subject: pull-out capacity.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-04-04'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1124571
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1124570
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ameer-A.-Jebur:
+    individualname: Ameer A. Jebur
+    role: creator
+  William-Atherton:
+    individualname: William Atherton
+    role: creator
+  Rafid-M.-Alkhaddar:
+    individualname: Rafid M. Alkhaddar
+    role: creator
+    organization: ''
+    url: ''
+  Edward-Loffill:
+    individualname: Edward Loffill
+    role: creator
+  Jebur-Ameer-A.:
+    individualname: Jebur, Ameer A.
+    role: ''
+    organization: ''
+    url: ''
+  Atherton-William:
+    individualname: Atherton, William
+    role: ''
+    organization: ''
+    url: ''
+  Loffill-Edward:
+    individualname: Loffill, Edward
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Peter_1894
+  dataseturi: https://doi.org/10.1021/ja02109a013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Changes in Official Methods of Soil and Ash Analysis.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Changes in Official Methods of Soil and Ash Analysis.
+    url: http://dx.doi.org/10.1021/ja02109a013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peter-Alfred-M.:
+    individualname: Peter, Alfred M.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

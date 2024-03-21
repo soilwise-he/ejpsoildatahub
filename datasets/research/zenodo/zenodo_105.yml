@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4297824
+  dataseturi: https://doi.org/10.5281/zenodo.4297824
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Malting Sludges as Soil Amendment
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>Residual\
+    \ sludge that results from the treatment of malt house effluents produced during\
+    \ the malting of barley in malt house (Argentina) was evaluated to determine its\
+    \ fertilising potential and capability for improving soil as a way to reuse or\
+    \ recycle this material. The Cabildo soil (Southwest of Buenos Aires Province),\
+    \ of the typic Argiustoll subgroup had a sandy clay-loam texture and was tested\
+    \ in this field experiments. This soil plots (4 m<sup>2</sup>) were amended with\
+    \ equivalent malting sludges doses of 5, 15, and 25 Mg/ha. When biosolids, like\
+    \ malting sludges, are incorporated as an amendment, many micronutrients are provided.\
+    \ Chemical properties of the soil, particularly the pH, EC (Electrical Conductivity)\
+    \ and Cation Exchange Capacity (CEC), were improved. Dactylis glomerata L. were\
+    \ utilised as growing crop (forage) in this field test, productivity ( Dry matter)\
+    \ and quality (protein %) gave results following 0,205 kg/m<sup>2 </sup>and 11.94\
+    \ % at control in comparison with 0,4 kg/m<sup>2 </sup>and 15.15 % of amended\
+    \ soil. Calcium concentration in grasses was significantly different for control\
+    \ (4651 mg/kg<sup>-1</sup>) in comparison with high sludge dose (8907 mg/kg<sup>-1</sup>),\
+    \ the same trend was found with micronutrients like Copper and Molybdenum. This\
+    \ result from field test indicate that this residual sludge constitutes a suitable\
+    \ amendment for agricultural soils, increasing quality and productivity of Dactylis\
+    \ glomerata L and improving several soil properties.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Forage
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4297824
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4297823
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Campana-D.H.:
+    individualname: "Campa\xF1a, D.H."
+    role: creator
+    organization: ''
+    url: ''
+  Airasca-A.:
+    individualname: Airasca, A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

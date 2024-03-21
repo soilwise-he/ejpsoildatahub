@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7405954
+  dataseturi: https://doi.org/10.5281/zenodo.7405954
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: HYDROGEL AND ORGANIC CARBON SOIL
+  abstract: <em>All over the world, including around the Aral region, the problem
+    of strengthening mobile sands from wind erosion and preventing their rise into
+    the atmosphere by creating a strong surface crust is urgent. One of the important
+    promising directions in this area is the use of cheap, easily accessible local
+    raw materials in mobile soil and sand dispersions. When forming a structure in
+    mobile sands and soil dispersions, the choice of reinforcing polymer reagents
+    and the determination of aspects of their structure formation becomes important.
+    Of particular importance is the study of the effect of polymer hydrogels on soil
+    organic carbon.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Hydrogel, soil organic carbon, polymers, absorbents.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-12-06'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7405954
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7405953
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.Dauletova:
+    individualname: J.Dauletova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

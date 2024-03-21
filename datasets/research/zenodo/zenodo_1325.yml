@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Stockwell_1884
+  dataseturi: https://doi.org/10.1016/s0140-6736(02)12981-3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE LATE MR. MIDDLETON AND THE INFLUENCE OF DAMP SOIL ON PHTHISIS.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE LATE MR. MIDDLETON AND THE INFLUENCE OF DAMP SOIL ON PHTHISIS.
+    url: http://dx.doi.org/10.1016/s0140-6736(02)12981-3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stockwell-Frederick:
+    individualname: Stockwell, Frederick
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

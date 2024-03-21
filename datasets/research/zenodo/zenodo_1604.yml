@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.26018
+  dataseturi: https://doi.org/10.5281/zenodo.26018
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'A Survey Of The Ants Of The Soil Fauna In Surinam (Hymenoptera: Formicidae).'
+  abstract: xBio:D Automated Upload
+  keywords:
+    default:
+      keywords:
+        subject: Camponotini
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1961-12-31'
+    publication: '1961'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.26018
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kempf-W.-W.:
+    individualname: Kempf, W. W.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

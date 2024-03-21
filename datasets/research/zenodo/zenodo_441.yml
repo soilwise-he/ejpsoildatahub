@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jodidi_1913
+  dataseturi: https://doi.org/10.1016/s0016-0032(13)91144-3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The behavior of acid amides in the soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The behavior of acid amides in the soil
+    url: http://dx.doi.org/10.1016/s0016-0032(13)91144-3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jodidi-Samuel-L.:
+    individualname: Jodidi, Samuel L.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

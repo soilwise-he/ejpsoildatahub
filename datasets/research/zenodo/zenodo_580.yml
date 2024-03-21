@@ -1,0 +1,114 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Adamo_2021
+  dataseturi: https://doi.org/10.1016/j.soilbio.2021.108320
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil physico-chemical properties have a greater effect on soil fungi than
+    host species in Mediterranean pure and mixed pine forests
+  abstract: '&lt;p&gt;Soil fungi are fundamental drivers of forest ecosystem processes.
+    Soil physico-chemical parameters and vegetation features such as host type or
+    stand structure can affect soil fungal communities. However, there is a lack of
+    comprehensive studies describing the relative importance of niche processes (soil
+    physico-chemistry and forest structural drivers) versus neutral processes (geographical
+    distance) driving soil fungal community assemblages, especially in less-studied
+    drought-prone ecosystems such as Mediterranean forests. In this study, we performed
+    Pacific Biosciences sequencing of internal transcribed spacer 2 amplicons to characterize
+    the soil fungal community composition and diversity of 42 forests dominated by
+    either pure &lt;em&gt;Pinus nigra&lt;/em&gt;,&lt;em&gt; Pinus halepensis &lt;/em&gt;or&lt;em&gt;
+    Pinus sylvestris &lt;/em&gt;or a &lt;em&gt;P. nigra&ndash;P. halepensis &lt;/em&gt;or&lt;em&gt;
+    P. nigra&ndash;P. sylvestris &lt;/em&gt;mixture. Our specific aims were to identify
+    and disentangle the relative importance of the main soil type and the spatial
+    and forest structural factors that accounted for the greatest proportion of fungal
+    community variation along a regional gradient in the Mediterranean Pre-Pyrenees.
+    Soil parameters accounted for the greatest significant proportion of the total
+    variance in the overall fungal community (25%), and in the mycorrhizal (23%) and
+    saprotrophic (22%) communities, while geographical distance accounted for 14%
+    of the variance in the overall fungal community, 7% in the mycorrhizal and 22%
+    in the saprotrophic communities. Conversely, forest structure did not significantly
+    affect the soil fungal community, and fungal composition and diversity did not
+    differ significantly among the pine hosts. Moreover, pH, followed by P and the
+    C:N ratio explained the largest differences in the composition of the overall
+    fungal community and in the mycorrhizal fungal community. By contrast, the largest
+    proportion of differences in saprotrophic composition were explained by geographical
+    distance, closely followed by the C:N ratio and N. Our results show that, in Mediterranean
+    pine forests, soil parameters are the most important driving forces shaping soil
+    fungal communities at the regional scale given that ectomycorrhizal and saprotrophic
+    fungi were more influenced by soil physico-chemical tolerances or geographical
+    distance than by &lt;em&gt;Pinus &lt;/em&gt;species or forest structural variables.
+    Finally, P content in soils also emerged as a significant factor driving differences
+    in mycorrhizal communities.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - DNA metabarcoding
+      - community composition
+      - ectomycorrhizal fungi
+      - saprotrophic fungi
+      - fungal diversity
+      - pH
+      - N
+      - P
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil physico-chemical properties have a greater effect on soil fungi than
+      host species in Mediterranean pure and mixed pine forests
+    url: http://dx.doi.org/10.1016/j.soilbio.2021.108320
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Irene-Adamo:
+    individualname: Irene Adamo
+    role: creator
+  Carles-Castano:
+    individualname: "Carles Casta\xF1o"
+    role: creator
+  Jose-Antonio-Bonet:
+    individualname: Jose Antonio Bonet
+    role: creator
+  Carlos-Colinas:
+    individualname: Carlos Colinas
+    role: creator
+  Juan-Martinez-de-Aragon:
+    individualname: "Juan Mart\xEDnez de Arag\xF3n"
+    role: creator
+  Josu-G.-Alday:
+    individualname: Josu G. Alday
+    role: creator
+  Adamo-Irene:
+    individualname: Adamo, Irene
+    role: creator
+  Castano-Carles:
+    individualname: "Casta\xF1o, Carles"
+    role: creator
+  Bonet-Jose-Antonio:
+    individualname: "Bonet, Jos\xE9 Antonio"
+    role: creator
+  Colinas-Carlos:
+    individualname: Colinas, Carlos
+    role: creator
+  Martinez-de-Aragon-Juan:
+    individualname: "Mart\xEDnez de Arag\xF3n, Juan"
+    role: creator
+  Alday-Josu-G.:
+    individualname: Alday, Josu G.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

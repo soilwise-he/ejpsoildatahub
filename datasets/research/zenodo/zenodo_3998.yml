@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10454335
+  dataseturi: https://doi.org/10.5281/zenodo.10454335
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Long-term contrasting tillage in Cambisol: effect on water-stable aggregates,
+    macropore network and soil chemical properties'
+  abstract: 'The aggregate stability of the soil is subject to theinfluence of anthropogenic
+    factors and is of great interest all overthe world. The research aimed to quantify
+    the correlations betweensoil organic carbon, total nitrogen, total phosphorus,
+    and totalpotassium, soil macropore parameters and water-stable aggregatesunder
+    no-tillage and conventional tillage in Cambisol. The contentof water-stable aggregates
+    and macroporosity tended to increasein the following order: conventional tillage
+    (returned residues)< conventional tillage (removed residues) < no-tillage (removedresidues)
+    < no-tillage (returned residues) in both fertilizations.The relationships between
+    total nitrogen and various soil factorswere investigated: soil organic carbon
+    (r = 0.65, p < 0.05), totalphosphorus (r = 0.65, p < 0.05), were statistically
+    significant. Soilorganic carbon and total nitrogen were positively correlated
+    withwater-stable aggregates (r = 0.81, p < 0.01 and r = 0.68, p < 0.05,respectively),
+    whereas the relationship between total potassiumand water-stable aggregates was
+    negative. The relationshipbetween total phosphorus and water-stable aggregates
+    (r = 0.62,p < 0.05) was positive. The soil chemical properties, macroporesand
+    water-stable aggregates that were averaged across theresidues and fertilizations
+    were higher in no-tillage than in conventionaltillage. Soil organic carbon, total
+    nitrogen and totalphosphorus all had a positive direct influence on the formation
+    ofwater-stable aggregates under different tillage conditions. Sinceour results
+    are largely based on correlations, the mechanismsof interaction between the soil
+    chemical properties, water-stableaggregates and the formation of pores in the
+    soil need to beexplored further in future investigations.'
+  keywords:
+    default:
+      keywords:
+        subject: soil organic carbon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10454335
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10454334
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kochiieru-Mykola:
+    individualname: Kochiieru, Mykola
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Feiziene-Dalia:
+    individualname: Feiziene, Dalia
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Lamorski-Krzysztof:
+    individualname: Lamorski, Krzysztof
+    role: creator
+    organization: Institute of Agrophysics, Polish Academy of Sciences
+    url: ''
+  Deveikyte-Irena:
+    individualname: Deveikyte, Irena
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Seibutis-Vytautas:
+    individualname: Seibutis, Vytautas
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Pranaitiene-Simona:
+    individualname: Pranaitiene, Simona
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+  Feiza-Virginijus:
+    individualname: Feiza, Virginijus
+    role: creator
+    organization: Lithuanian Research Centre for Agriculture and Forestry
+    url: ''
+content_info: {}

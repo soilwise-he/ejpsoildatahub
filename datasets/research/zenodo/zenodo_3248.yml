@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10669635
+  dataseturi: https://doi.org/10.5281/zenodo.10669635
+  datestamp: ''
+  hierarchylevel: peerreview
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Dataset and R wokflow used in the manuscript "Between vs. within-species
+    variation in plant-soil feedback relates to different functional traits, but exudate
+    variability is involved at both scales"
+  abstract: "Here we provide the experimental data and the R workflow used to obtain\
+    \ the results presented in the manuscript \"Between vs. within-species variation\
+    \ in plant-soil feedback relates to different functional traits, but exudate variability\
+    \ is involved at both scales\". We investigated the relationship between plant-soil\
+    \ feedback (PSF) and several plant functional traits encompassing various aspects\
+    \ of growth, root properties and root exudate variability. The investigation was\
+    \ conducted at two diversity scales: between-species (12 species) and within-species\
+    \ (20 Festuca rubra genotypes). We found that the traits associated with PSF variation\
+    \ substantially differed between interspecific and intraspecific levels,\_ but\
+    \ root exudation was involved at both scales."
+  keywords:
+    default:
+      keywords:
+        subject: interspecific vs. intraspecific
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024'
+    publication: '2024'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10669635
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/1365-2435.14548
+    type: WWW:LINK
+    title: IsDescribedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.8370315
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yacine-Youssef:
+    individualname: Yacine Youssef
+    role: creator
+    organization: ''
+    url: 0000-0003-0185-0755
+  Eliska-Kutakova:
+    individualname: "Eli\u0161ka Ku\u0165\xE1kov\xE1"
+    role: creator
+    organization: ''
+    url: 0000-0003-1442-2848
+  Dina-in-'t-Zandt:
+    individualname: Dina in 't Zandt
+    role: creator
+    organization: ''
+    url: 0000-0001-6487-0273
+  Veroslava-Hadincova:
+    individualname: "V\u011Broslava Hadincov\xE1"
+    role: creator
+    organization: ''
+    url: 0000-0002-3825-1919
+  Jaroslav-Semerad:
+    individualname: "Jaroslav Semer\xE1d"
+    role: creator
+    organization: ''
+    url: 0000-0002-6470-183X
+  Tomas-Cajthaml:
+    individualname: "Tom\xE1\u0161 Cajthaml"
+    role: creator
+    organization: ''
+    url: 0000-0002-3393-1333
+  Zuzana-Munzbergova:
+    individualname: "Zuzana M\xFCnzbergov\xE1"
+    role: creator
+    organization: ''
+    url: 0000-0002-4026-6220
+content_info: {}

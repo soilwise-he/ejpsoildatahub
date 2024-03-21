@@ -1,0 +1,122 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6379481
+  dataseturi: https://doi.org/10.5281/zenodo.6379481
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Effect of N Fertilizer Application Timing on Wheat Yield on Chernozem
+    Soil
+  abstract: "The challenges of the global food supply and environment conservation\
+    \ require ongoing scientific observations of soil-to-plant and plant-to-environment\
+    \ interactions with the aim of improving agriculture resource management. This\
+    \ study included observations of winter wheat yield and biomass of four varieties\
+    \ over three consecutive growing seasons and four site-year cases to assess the\
+    \ effects of nitrogen (N) fertilization rate and time of application on grain\
+    \ yield and biomass. For different wheat varieties, the full factorial design\
+    \ was performed, where factorial combinations of year, location, fall and spring\
+    \ N applications were laid out in a randomized complete block design. The N rate\
+    \ significantly influenced grain yield and biomass production efficiency. The\
+    \ time of N application had a highly significant effect on grain yield, biomass\
+    \ and NUE traits. The N rate of 120 kg ha<sup>\u22121</sup> was recognized as\
+    \ a breakpoint over which the grain yield and biomass showed a downtrend. N application\
+    \ in the fall had a significantly higher impact on grain yield and biomass compared\
+    \ to spring N application. The major contribution of wheat variability production\
+    \ belongs to seasonal climate circumstances (&lt;85%) and consequential intrinsic\
+    \ soil properties. The average difference of grain yield between varieties was\
+    \ 15.75%, and 12% of biomass, respectively."
+  keywords:
+    default:
+      keywords:
+        subject: nitrogen fertilization; yield response; design of experiment (DoE);
+          NUE
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-14'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6379481
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6379480
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marko-M.-Kostic:
+    individualname: "Marko M. Kosti\u0107"
+    role: creator
+  Aristotelis-C.-Tagarakis:
+    individualname: Aristotelis C. Tagarakis
+    role: creator
+  Natasa-Ljubicic:
+    individualname: "Nata\u0161a Ljubi\u010Di\u0107"
+    role: creator
+  Dragana-Blagojevic:
+    individualname: "Dragana Blagojevi\u0107"
+    role: creator
+  Mirjana-Radulovic:
+    individualname: "Mirjana Radulovi\u0107"
+    role: creator
+  Bojana-Ivosevic:
+    individualname: "Bojana Ivo\u0161evi\u0107"
+    role: creator
+  Dusan-Rakic:
+    individualname: "Du\u0161an Raki\u0107"
+    role: creator
+  Kostic-Marko-M.:
+    individualname: "Kosti\u0107, Marko M."
+    role: ''
+    organization: Faculty of Agriculture, University of Novi Sad, 21000 Novi Sad,
+      Serbia
+    url: https://orcid.org/0000-0001-9446-994X
+  Tagarakis-Aristotelis-C.:
+    individualname: Tagarakis, Aristotelis C.
+    role: ''
+    organization: Center for Research and Technology Hellas-CERTH, Institute for Bio-Economy
+      and Agri-Technology-iBO, 6th km Charilaou-Thermi Rd, GR 57001 Thessaloniki,
+      Greece; a.tagarakis@certh.g
+    url: https://orcid.org/0000-0001-5743-625X
+  Ljubicic-Natasa:
+    individualname: "Ljubi\u010Di\u0107, Nata\u0161a"
+    role: ''
+    organization: BioSense Institute, University of Novi Sad, 21000 Novi Sad, Serbia;
+    url: https://orcid.org/0000-0001-5982-9401
+  Blagojevic-Dragana:
+    individualname: "Blagojevi\u0107, Dragana"
+    role: ''
+    organization: BioSense Institute, University of Novi Sad, 21000 Novi Sad, Serbia;
+    url: https://orcid.org/0000-0002-6812-9113
+  Radulovic-Mirjana:
+    individualname: "Radulovi\u0107, Mirjana"
+    role: ''
+    organization: BioSense Institute, University of Novi Sad, 21000 Novi Sad, Serbia;
+    url: https://orcid.org/0000-0001-6429-1845
+  Ivosevic-Bojana:
+    individualname: "Ivo\u0161evi\u0107, Bojana"
+    role: ''
+    organization: BioSense Institute, University of Novi Sad, 21000 Novi Sad, Serbia;
+    url: https://orcid.org/0000-0002-6832-1893
+  Rakic-Dusan:
+    individualname: "Raki\u0107, Du\u0161an"
+    role: ''
+    organization: Faculty of Agriculture, University of Novi Sad, 21000 Novi Sad,
+      Serbia
+    url: https://orcid.org/0000-0002-6942-4421
+content_info: {}

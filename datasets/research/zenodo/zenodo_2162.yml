@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gibson_1880
+  dataseturi: https://doi.org/10.1017/s0370164600043844
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "3. On the Composition of \u201CReh,\u201D an Efflorescence on the Soil of\
+    \ certain Districts of India"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "3. On the Composition of \u201CReh,\u201D an Efflorescence on the Soil\
+      \ of certain Districts of India"
+    url: http://dx.doi.org/10.1017/s0370164600043844
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gibson-J.:
+    individualname: Gibson, J.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

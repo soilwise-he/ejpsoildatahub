@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10119922
+  dataseturi: https://doi.org/10.5281/zenodo.10119922
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'A soil population of Lithobius tricuspis Meinert in a Mediterranean forest
+    (Chilopoda, Lithobiomorpha: Lithobiidae)'
+  abstract: 'Serra, Antoni, Miquel, Carme (2003): A soil population of Lithobius tricuspis
+    Meinert in a Mediterranean forest (Chilopoda, Lithobiomorpha: Lithobiidae). African
+    Invertebrates 44 (1): 253-264, DOI: http://doi.org/10.5281/zenodo.10119922'
+  keywords:
+    default:
+      keywords:
+        subject: Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2003-08-31'
+    publication: '2003'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10119922
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10119924
+    type: WWW:LINK
+    title: HasPart
+  r1:
+    url: https://doi.org/10.5281/zenodo.10119926
+    type: WWW:LINK
+    title: HasPart
+  r2:
+    url: https://doi.org/10.5281/zenodo.10119930
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.10119932
+    type: WWW:LINK
+    title: HasPart
+  r9:
+    url: https://doi.org/10.5281/zenodo.10119921
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Serra-Antoni:
+    individualname: Serra, Antoni
+    role: creator
+    organization: ''
+    url: ''
+  Miquel-Carme:
+    individualname: Miquel, Carme
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

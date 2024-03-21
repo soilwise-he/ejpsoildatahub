@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5770174
+  dataseturi: https://doi.org/10.5281/zenodo.5770174
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'A US Perspective on Soil Pollution: Observations, Conclusions, and Recommendations'
+  abstract: "Soil is our gateway to civilization. We depend on our soil for vegetation,\
+    \ habitats, landscape, food, fiber, animal feed, wildlife, water and air quality,\
+    \ employment, cultural engagement, and our civilization\u2019s construction and\
+    \ physical construction. However, our once natural soils have largely morphed\
+    \ into anthropogenic or man-altered soil due to agriculture or construction processes.\
+    \ We are heavily regulated by \u201Ccommand and control\u201D legislation and\
+    \ regulation, \u201Cpolluter pays\u201D policies, and somewhat influenced by information,\
+    \ education, outreach, public opinion, media, and environmental initiatives and\
+    \ litigation. These focus more on runoff and underground waters than on soil,\
+    \ and are often spotty, inconsistent, unenforced, and neglected. Besides information\
+    \ on commonly used methods, with a focus on MONA, and regulation in the United\
+    \ States, I offer observations and recommendations from the perspective of an\
+    \ advisor working in the US context."
+  keywords:
+    default:
+      keywords:
+        subject: Geoscience
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5770174
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5770173
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Popkin-Barney-Paul:
+    individualname: Popkin, Barney Paul
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

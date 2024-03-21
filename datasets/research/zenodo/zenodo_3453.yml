@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3345257
+  dataseturi: https://doi.org/10.5281/zenodo.3345257
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prospect of Phosphate Solubilizing Microorganisms for Acid Sulphate Soil
+    Bioremediation
+  abstract: <strong>ABSTRACT</strong> <br> Acid sulphate soil (ASS) have a large distribution
+    in the world (107-108 ha) and in<br> Indonesia (6.71x 106 ha). ASS characterized
+    by high concentration of Al3+ and Fe2+ ions<br> and also high acidity resulted
+    pyrite oxidation. The presence of these ions and lowering<br> of pH causes some
+    problem such as loss of agricultural productivity and environmental<br> damage.
+    To improve agriculture productivity, ASS requires remediation to minimize of<br>
+    Fe and Al activity and to increase soil pH. One of remediation techniques is<br>
+    microorganisms use (bioremediation). Bioremediation is a process that using living<br>
+    organisms to decrease toxic elements. Phosphate solubilizing microorganisms (PSM)<br>
+    remediate metal-contaminant in soil through decreasing metal toxicity by transforming<br>
+    metal species into immobile form. Some compounds which are excreted PSM and play
+    a<br> role in remediation are organic acid, exopoly saccharides and fosfatase
+    enzyme. Organic<br> acids and fosfatase enyme inactivate Al3+ and Fe2+ through
+    the process of chelate and<br> precipitate respectively. Absorption of H+ from
+    solution by exopolysaccharides increase<br> soil pH. Another mechanisms remediation
+    by PSM is its accumulation of metal<br> contaminated in cell surface. Decreasing
+    of Al3+ and Fe2+ activity and acidity can<br> increase agricultural productivity.
+    This review is an effort to emphasize how PSM can<br> be used to remediate acid
+    sulphate soil dominated by Al, Fe and SO42-.
+  keywords:
+    default:
+      keywords:
+        subject: phosphate solubilizing microorganisms
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-11'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3345257
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3332771
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yuli-Lestari:
+    individualname: Yuli Lestari
+    role: creator
+  Mukhlis:
+    individualname: Mukhlis
+    role: creator
+    organization: Indonesian Swampland Agriculture Research Institute (ISARI), Banjarbaru
+    url: ''
+  Lestari-Yuli:
+    individualname: Lestari, Yuli
+    role: ''
+    organization: Indonesian Swampland Agriculture Research Institute (ISARI), Banjarbaru
+    url: ''
+content_info: {}

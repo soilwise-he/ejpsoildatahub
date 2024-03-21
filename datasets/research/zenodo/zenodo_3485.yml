@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1100260
+  dataseturi: https://doi.org/10.5281/zenodo.1100260
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Respiration Rate Of Laurel-Leaved And Cryptomeria Japonica Forests
+  abstract: "We assessed the ecology of the organic and mineral soil<br>\nlayers of\
+    \ laurel-leaved (BB-1) and Cryptomeria japonica (BB-2 and Pw)<br>\nforests in\
+    \ the Kasugayama Hill Primeval Forest (Nara, Japan). The soil<br>\nrespiration\
+    \ rate was higher in the deeper horizons (F and H) of organic<br>\nlayers than\
+    \ in those of mineral soil layers, suggesting organic layers<br>\nmay be where\
+    \ active microbial metabolism occurs. Respiration rates in<br>\nthe soil of BB-1,\
+    \ BB-2 and Pw forests were closely similar at 5 and 10\xB0C.<br>\nHowever, the\
+    \ soil respiration rate increased in proportion to<br>\ntemperatures of 15\xB0\
+    C or above. We therefore consider the activity of<br>\nsoil microorganisms to\
+    \ markedly decrease at temperatures below 10\xB0C.<br>\nAt a temperature of 15\xB0\
+    C or above, the soil respiration rate in the BB-1<br>\norganic layers was higher\
+    \ than in those of the BB-2 and Pw organic<br>\nlayers, due to differences in\
+    \ forest vegetation that appeared to<br>\ninfluence several salient soil properties,\
+    \ particularly pH and the carbon<br>\n(C) and nitrogen (N) content of the F and\
+    \ H horizons."
+  keywords:
+    default:
+      keywords:
+        subject: soil respiration rate.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-03-02'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1100260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1100259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ayuko-Itsuki:
+    individualname: Ayuko Itsuki
+    role: creator
+  Sachiyo-Aburatani:
+    individualname: Sachiyo Aburatani
+    role: creator
+  Itsuki-Ayuko:
+    individualname: Itsuki, Ayuko
+    role: ''
+    organization: ''
+    url: ''
+  Aburatani-Sachiyo:
+    individualname: Aburatani, Sachiyo
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

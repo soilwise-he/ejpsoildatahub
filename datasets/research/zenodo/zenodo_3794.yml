@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1072812
+  dataseturi: https://doi.org/10.5281/zenodo.1072812
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental Investigation On Excess Pore Water Pressure In Soft Soil-Foundations
+    Under Minor Shocks
+  abstract: In this study, shaking table tests are performed to investigate the behavior
+    of excess pore water pressure in different soft soil-foundations of soil-structure
+    interaction (SSI) system. The variation of the behaviors under cycled minor shock
+    is observed. Moreover, The generation and variation mechanism of excess pore water
+    pressure under earthquake excitation in different soft soilfoundations are analyzed
+    and discussed.
+  keywords:
+    default:
+      keywords:
+        subject: SSI system.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-02-20'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1072812
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1072811
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhiying-Zhang:
+    individualname: Zhiying Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Chongdu-Cho:
+    individualname: Chongdu Cho
+    role: creator
+    organization: ''
+    url: ''
+  Qiang-Pan:
+    individualname: Qiang Pan
+    role: creator
+  Xilin-Lu:
+    individualname: Xilin Lu
+    role: creator
+    organization: ''
+    url: ''
+  Pan-Qiang:
+    individualname: Pan, Qiang
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

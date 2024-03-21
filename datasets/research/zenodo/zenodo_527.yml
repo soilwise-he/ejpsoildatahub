@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6780334
+  dataseturi: https://doi.org/10.5281/zenodo.6780334
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 112 Years Since the Foundation of Soil Science and 110 Years Since the Foundation
+    of the Soil Institute in Bulgaria
+  abstract: Historical soil science is called to analyze and evaluate realistically
+    and critically the role of important dates and discoveries that determine the
+    further development of soil science. Of particular importance for soil science
+    is the first scientific and fundamental work of N. Pushkarov "Formation of the
+    soil", published 112 years ago. With the present work an analysis of the natural
+    and philosophical-dialectical interpretations of his work related to the genesis
+    of the soil is made. Pushkarov applies the genetic approach to the study of soils
+    and refutes the so-called. agro-geological (geological) approach, which dominated
+    at that time in world soil science. He makes an accurate and objective general
+    assessment of the factors and conditions of soil formation and proves new knowledge
+    of methodical and fundamental nature, which is applied in further research in
+    the country. At the same time, facts are presented about the soil science or agro-geological
+    section established by him in 1911, which performs the tasks for soil-cartographic
+    research formulated by him. All this gives grounds to conclude that in 1909 N.
+    Pushkarov laid the foundations of soil science in Bulgaria, and in 1911 he established
+    a scientific-administrative unit (scientific organization at the section level)
+    and laid the foundations of the Institute of Soil Science.
+  keywords:
+    default:
+      keywords:
+        subject: Nikola Pushkarov, soil science, soil science section, genetic approach,
+          genesis, agro-geological bias, analysis and evaluation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-29'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6780334
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6780333
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teoharov-Metodi:
+    individualname: Teoharov, Metodi
+    role: creator
+    organization: '"N.Poushkarov" Institute of Soil Science, Agrotechnologies and
+      Plant Protection,'
+    url: ''
+content_info: {}

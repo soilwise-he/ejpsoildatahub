@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4304978
+  dataseturi: https://doi.org/10.5281/zenodo.4304978
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Characterization and role of pendimethalin catabolizing bacteria isolated
+    from agricultural soil in Bauchi, Bauchi state
+  abstract: "The characterization and role of pendimethalin catabolizing bacteria\
+    \ isolated in three agricultural soils in Bauchi state. Analyses of physico-chemical\
+    \ parameters were carried out to further understand the soil environmental conditions\
+    \ of the sampling sites. Aerobic heterotrophic counts on the sampling sites for\
+    \ six (6) weeks were conducted and revealed increase of bacterial counts across\
+    \ the weeks; with the first week having low bacterial count of 104.333(\xD710<sup>5</sup>\
+    \ cfu/g) while week six (6) had the highest bacterial counts of 202.5(\xD710<sup>5</sup>\
+    \ cfu/g). Among the sampling sites: B1 and B2 had the lowest bacterial count compared\
+    \ to B3. This is as a result of the effects of herbicides accumulation in the\
+    \ soil. Bacterial abundance across the sampling sites showed high percentage of\
+    \ occurrence of <em>Bacillus sp., Pseudomonas sp., Morganella sp.</em>at (14.25%)\
+    \ each; when compared to <em>Streptococcus sp</em>. and <em>Proteus sp.</em>at\
+    \ (4.29%). The isolation of pendimethalin utilizing bacteria was conducted by\
+    \ enrichment cycle using mineral salt media containing pendimethalin (mg/ml) as\
+    \ a sole carbon source. Utilization patterns of pendimethalin degrading potentials\
+    \ of bacterial strains was determined via growth, utilization patterns and higher\
+    \ performance liquid chromatography analysis. Growth and utilization was monitored\
+    \ using spectrophotometer at 600 nm. <em>Bacillus sp. </em>and bacterial consortia\
+    \ showed high level of wavelengths at 0.424 and 0.481 respectively. High performance\
+    \ liquid chromatography analysis was conducted for 72 hours based on the peak\
+    \ reduction of standard pendimethalin and observed was a decrease in the area\
+    \ of the peak. <em>Bacillus sp., Pseudomonas sp</em>. revealed the highest rate\
+    \ of pendimethalin metabolism after 72 hours. Based on this research, indigenous\
+    \ microorganisms can be used for decontamination of agricultural soil. The Nigerian\
+    \ government and farmers at large should be careful on the type herbicides used\
+    \ for agricultural practices. For it affects soil microorganisms and crops."
+  keywords:
+    default:
+      keywords:
+        subject: Pendimethalin; Agricultural soil; Catabolizing bacteria; Crops
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-12-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4304978
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4304977
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wali-Mu'azzam-Mu'azu:
+    individualname: Wali Mu'azzam Mu'azu
+    role: creator
+  Ibrahim-Yusuf-Okpanachi:
+    individualname: Ibrahim Yusuf Okpanachi
+    role: creator
+  Umar-Ahmad-Faruq:
+    individualname: Umar Ahmad Faruq
+    role: creator
+  Tahir-Fatimah:
+    individualname: Tahir Fatimah
+    role: creator
+  Mu'azu-Wali-Mu'azzam:
+    individualname: Mu'azu, Wali Mu'azzam
+    role: ''
+    organization: Department of Biological Science, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+  Okpanachi-Ibrahim-Yusuf:
+    individualname: Okpanachi, Ibrahim Yusuf
+    role: ''
+    organization: Department of Botany, University of Lagos, Nigeria.
+    url: ''
+  Faruq-Umar-Ahmad:
+    individualname: Faruq, Umar Ahmad
+    role: ''
+    organization: Department of Biological Science, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+  Fatimah-Tahir:
+    individualname: Fatimah, Tahir
+    role: ''
+    organization: Department of Biological Science, Abubakar Tafawa Balewa University,
+      Bauchi, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091968
+  dataseturi: https://doi.org/10.5281/zenodo.8091968
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Code and Data: Optimized Stochastic Representation of Soil States Model
+    Uncertainty of WRF (v4.2) in the Ensemble Data Assimilation System'
+  abstract: 'We provide the code, data, namelists, and verification scripts used to
+    describe the manuscript of "Optimizing Stochastic Perturbation of Soil States
+    Model Uncertainty of WRF (v.2) in the Ensemble Data Assimilation System: A Case
+    Study of Parameter Estimation". - CODE directory includes the Weather Research
+    and Forecasting model (WRF) v4.2 and WPS Preprocessing System (WPS) v4.2, Genetic
+    Algorithm (GA) v1.7a, and Community Gridpoint Statistical Interpolation (GSI)
+    v3.7 and Ensemble Kalman filter v1.3 (GSI/EnKF) system. - DATA directory includes
+    the initial and boundary conditions for WRF simulation, the assimilated Prepared
+    Binary Universal Form for the Representation of meteorological data (PrepBUFR),
+    and the Global Land Data Assimilation System (GLDAS) Noah Land Surface Model L4
+    3 hourly 0.25 x 0.25 degree V2.1 for soil state verification. - NAMELISTS directory
+    includes the namelistes of GA, WPS, and WRF used to optimized soil temperature
+    and soil moisture perturbations. - VERF directory includes the scripts to plot
+    the figures in the manuscript.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-02-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091968
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7622133
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sujeong-Lim:
+    individualname: Sujeong Lim
+    role: creator
+  Seon-Ki-Park:
+    individualname: Seon Ki Park
+    role: creator
+  Claudio-Cassardo:
+    individualname: Claudio Cassardo
+    role: creator
+  Lim-Sujeong:
+    individualname: Lim, Sujeong
+    role: ''
+    organization: Ewha Womans University
+    url: https://orcid.org/0000-0002-5720-8238
+  Park-Seon-Ki:
+    individualname: Park, Seon Ki
+    role: ''
+    organization: Ewha Womans University
+    url: https://orcid.org/0000-0002-8538-911X
+  Cassardo-Claudio:
+    individualname: Cassardo, Claudio
+    role: ''
+    organization: University of Turin
+    url: https://orcid.org/0000-0001-5212-3211
+content_info: {}

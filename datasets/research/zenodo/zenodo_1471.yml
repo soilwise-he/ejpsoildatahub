@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10466057
+  dataseturi: https://doi.org/10.5281/zenodo.10466057
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Numerical Study of Pile-Soil Interaction in Groups under OC and NC Condition
+  abstract: This paper presents ground settlement analyses of pile foundation system
+    using three-dimensional (3D) finite element approach.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-07'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10466057
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10466056
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Universitas-Katolik-Parahyangan:
+    individualname: Universitas Katolik Parahyangan
+    role: creator
+  Arafianto-Aflizal:
+    individualname: Arafianto, Aflizal
+    role: creator
+    organization: Universitas Katolik Parahyangan
+    url: 0000-0002-8017-0485
+  Rahardjo-Paulus-Pramono:
+    individualname: Rahardjo, Paulus Pramono
+    role: creator
+    organization: Universitas Katolik Parahyangan
+    url: ''
+content_info: {}

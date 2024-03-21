@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pringle_1902
+  dataseturi: https://doi.org/10.1016/s0033-3506(02)80155-x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The relation of soil pollution to endemic conditions
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The relation of soil pollution to endemic conditions
+    url: http://dx.doi.org/10.1016/s0033-3506(02)80155-x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pringle-A.-M.-N.:
+    individualname: Pringle, A. M. N.
+    role: creator
+  Pringle-A.M.N.:
+    individualname: Pringle, A.M.N.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

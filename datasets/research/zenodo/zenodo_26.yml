@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7038386
+  dataseturi: https://doi.org/10.5281/zenodo.7038386
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Soil Sentinel
+  abstract: Publication from the Healthy Soils project outlining soils research through
+    the Scottish Government Rural and Environment Science and Analytical Services
+    (RESAS) funded Strategic Research Programme. The Soil Sentinel will be published
+    very 4 months throughout the project duration, 2022-2027.
+  keywords:
+    default:
+      keywords:
+        subject: Soil; research; healthy soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7038386
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7038385
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Loades-Kenneth:
+    individualname: Loades, Kenneth
+    role: creator
+    organization: The James Hutton Institute
+    url: https://orcid.org/0000-0003-2415-3549
+  Hargreaves-Paul:
+    individualname: Hargreaves, Paul
+    role: creator
+    organization: SRUC
+    url: ''
+  Neilson-Roy:
+    individualname: Neilson, Roy
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+  Wilkinson-Mark:
+    individualname: Wilkinson, Mark
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+  Hawes-Cathy:
+    individualname: Hawes, Cathy
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+  Valentine-Tracy:
+    individualname: Valentine, Tracy
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+  Holden-Nicola:
+    individualname: Holden, Nicola
+    role: creator
+    organization: SRUC
+    url: ''
+  Artz-Rebekka:
+    individualname: Artz, Rebekka
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+  Brierley-Jennie:
+    individualname: Brierley, Jennie
+    role: creator
+    organization: The James Hutton Institute
+    url: ''
+content_info: {}

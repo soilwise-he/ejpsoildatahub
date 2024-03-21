@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8068767
+  dataseturi: https://doi.org/10.5281/zenodo.8068767
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: 'MACSUR SciPol Policy Brief 2: Synergies and Trade offs between Soil Improving
+    Management, Climate Change Mitigation and Agri Food Productivity'
+  abstract: "The health of our soil is fundamental to the delivery of essential ecosystem\
+    \ services; agricultural productivity, food security and environmental welfare\
+    \ ( e.g. ecological integrity and conservation, crop nutrition, carbon sequestration\
+    \ (balancing) and animal welfare etc.). Moreover, soils are an integral part of\
+    \ developing agricultural policies, e.g. UK Agricultural Bill, 2020; Environmental\
+    \ Land Management Scheme. This policy brief delivers the output of the UK \u2018\
+    Capturing the Potential of Soil\u2019 workshop (held on 23 March 2021) which focused\
+    \ on the link between soil health, primarily soil organic carbon, and productivity.\
+    \ Emphasis is placed on the research challenges to improve soil health, the implementation\
+    \ priorities that must be held and the potential co-benefits could be. The MACSUR\
+    \ SciPol knowledge forum is a pilot exercise initiated by the Joint Programming\
+    \ Initiative for Agriculture, Food Security and Climate Change (FACCE JPI) to\
+    \ bring science and policy actors together for the strategic design of climate\
+    \ change adaptation and mitigation solutions in the agri-food sector in Europe.\
+    \ This policy brief contributes to this mission by providing evidence-based information\
+    \ to policy for achieving carbon neutrality by 2050, adapting to climate change\
+    \ and understanding synergies and trade-offs in achieving these targets."
+  keywords:
+    default:
+      keywords:
+        subject: soil health
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-24'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8068767
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8068766
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McGuire-Ryan:
+    individualname: McGuire, Ryan
+    role: creator
+    organization: Queen's University Belfast
+    url: ''
+  Scollan-Nigel:
+    individualname: Scollan, Nigel
+    role: creator
+    organization: Queen's University Belfast
+    url: ''
+  Foyer-Christine:
+    individualname: Foyer, Christine
+    role: creator
+    organization: University of Birmingham
+    url: ''
+  Spadavecchia--Luke:
+    individualname: Spadavecchia,  Luke
+    role: creator
+  Spadavecchia-Luke:
+    individualname: Spadavecchia, Luke
+    role: ''
+    organization: The Department for the Environment, Food and Rural Affairs, London
+    url: ''
+  te-Boekhorst-Dorri:
+    individualname: te Boekhorst, Dorri
+    role: Editor
+    organization: Wageningen University and Research/FACCE-JPI Secretariat
+    url: ''
+content_info: {}

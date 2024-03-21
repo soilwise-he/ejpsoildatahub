@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5638099
+  dataseturi: https://doi.org/10.5281/zenodo.5638099
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Assessment of efficacy of clayey soil as liner material in retarding sub-surface
+    leaching of chromium
+  abstract: Department of Civil Engineering, National Institute of Technology (NIT)
+    Durgapur, Durgapur-713 209, West Bengal, India <em>E-mail:</em> sumantaxpl@gmail.com
+    <em>Manuscript received online 27 January 2019, accepted 14 March 2019</em> Cr<sup>VI</sup>
+    is considered as one of the priority pollutant emanated mainly from the wastewater
+    discharge of the tannery industries. In the present research work, batch and column
+    adsorption studies were performed to evaluate the Cr<sup>VI</sup> adsorptive potential
+    of the clayey soil. The batch adsorption test results indicate the optimum Cr<sup>VI</sup>
+    removal efficiency at a soil dose of 200 g/L with an initial solute concentration
+    of 5 mg/L at an equilibrium reaction time of 12 h and optimum pH level of 7.0.
+    The maximum chromium removal efficiency was achieved at 76%. The hydrodynamic
+    parameters estimated through tracer studies and CXTFIT modeling were used as input
+    parameters in numerical modeling of Cr<sup>VI</sup> migration through clay soil
+    using HYDRUS-1D solute transport software to assess the efficacy of the soil as
+    primary liner material in chromium laden waste containment structures.
+  keywords:
+    default:
+      keywords:
+        subject: HYDRUS-1D solute transport software
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-04-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5638099
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5638098
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sumanta-Rakshit:
+    individualname: Sumanta Rakshit
+    role: creator
+    organization: ''
+    url: ''
+  Supriya-Pal:
+    individualname: Supriya Pal
+    role: creator
+    organization: ''
+    url: ''
+  Soumya-Bhattacharya:
+    individualname: Soumya Bhattacharya
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

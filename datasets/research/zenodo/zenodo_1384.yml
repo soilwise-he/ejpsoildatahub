@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Smith_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010008x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: To What Extent Does the Soil Type Indicate Agricultural Value and Fertilizer
+    Requirements?
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: To What Extent Does the Soil Type Indicate Agricultural Value and Fertilizer
+      Requirements?
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010008x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Smith-R.-S.:
+    individualname: Smith, R. S.
+    role: creator
+  Smith-R.S.:
+    individualname: Smith, R.S.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

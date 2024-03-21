@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2667575
+  dataseturi: https://doi.org/10.5281/zenodo.2667575
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: THE EVALUATION OF NITROGEN FIXATION ACTIVITY OF SOIL CYANOBACTERIA VIA REDUCTION
+    ASSAY AND REAL TIME- PCR
+  abstract: This work was financed by the Vice Chancellor of Alzahra University.
+  keywords:
+    default:
+      keywords:
+        subject: Cyanobacteria, NifH Gene, Nitrogen Fixation, Real-time Polymerase
+          Chain Reaction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-05'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2667575
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2667574
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zahra-Hojjati-Bonab:
+    individualname: Zahra Hojjati Bonab
+    role: creator
+  Parisa-Mohammadi:
+    individualname: Parisa Mohammadi
+    role: creator
+  Ezzat-Asgarani:
+    individualname: Ezzat Asgarani
+    role: creator
+    organization: ''
+    url: ''
+  Nassim-Ghorbanmehr:
+    individualname: Nassim Ghorbanmehr
+    role: creator
+  Bonab-Zahra-Hojjati:
+    individualname: Bonab, Zahra Hojjati
+    role: ''
+    organization: Alzahra University
+    url: ''
+  Mohammadi-Parisa:
+    individualname: Mohammadi, Parisa
+    role: ''
+    organization: Alzahra University
+    url: https://orcid.org/0000-0002-1459-3287
+  Ghorbanmehr-Nassim:
+    individualname: Ghorbanmehr, Nassim
+    role: ''
+    organization: Alzahra University
+    url: ''
+content_info: {}

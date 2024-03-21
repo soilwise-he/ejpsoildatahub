@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10551720
+  dataseturi: https://doi.org/10.5281/zenodo.10551720
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Crucial Role of Insects as Soil Pollinators
+  abstract: "This abstract provides a concise overview of the article exploring the\
+    \ emerging concept of insects as soil pollinators. The adaptations and mechanisms\
+    \ that facilitate soil pollination are discussed, shedding light on the unique\
+    \ strategies evolved by both plants and insects in this hidden ecosystem. The\
+    \ implications for conservation and the potential paradigm shift in our understanding\
+    \ of plant reproduction make this exploration of insects as soil pollinators a\
+    \ captivating avenue for further research and consideration in ecological studies.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-22'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10551720
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10551719
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  trends-in-Agriculture-Science:
+    individualname: trends in Agriculture Science
+    role: creator
+  Surya-Prakash-S:
+    individualname: Surya Prakash S
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

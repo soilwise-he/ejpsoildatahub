@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3345296
+  dataseturi: https://doi.org/10.5281/zenodo.3345296
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil CO2 and N2O Emissions Affected by Ameliorant Types and NPK Fertilizer
+    Rates under Chili Cultivation on Peatlands
+  abstract: '<strong>ABSTRACT </strong> The use of peatlands for agriculture often
+    causes controversy on Indonesia and allegedly increases greenhouse gas emissions
+    caused by fertilization. Ameliorants are often used on peatland to increase productivity.
+    The effects of ameliorant on GHG emissions depends on the characteristics of ameliorants.
+    Determination of the type of ameliorant and the appropriate rate of NPK fertilizer
+    is needed to mitigate CO2 and N2O emissions for red chili cultivation on peatland.
+    This research was carried out on peatland in the village of Kalampangan, Sebangau
+    District, Kodya Palangkaraya, Indonesia from June to October 2017. The treatments
+    given were: Factor I; the types of ameliorant material (A1;100% cow manure, A2;
+    50% cow manure + 50% biochar A3; 50% cow manure + 50% compost from weed in situ;
+    A4; 50% cow manure + 50% ash from weeds in situ), Factor II; the rate of NPK fertilizer
+    (D0; No NPK, D1; 50% of recommended dose; D2; 100% of recommended dose, D3; 150%
+    recommended dose). The treatments were arranged in a factorial randomized block
+    design (RBD), with three replications. Recommended rates of urea (N), SP-36 (P2O5),
+    and KCl (K2O) were 100-200-120 kg/ha. Observation variables include soil pH, soil
+    Eh, water contents, soil CO2 and N2O emissions were measured using closed chamber
+    at the vegetative phase (1st month), the initial generative phase (2nd month),
+    and the end of generative phase (3rd month), meanwhile the ground water level
+    was measured using a Micro-GC gas chromatography (GC) every week during the course
+    of this research. The results showed that CO2 emission were more influenced by
+    the type of ameliorant than the fertilizer dose, while N2O emission was more influenced
+    by NPK fertilizer rates. The lowest CO2 emission was observed from the application
+    of 50% cow manure + 50% compost from weed in situ, which could reduce CO2 emissions
+    up to 40% (1709 kg/ha/season) of the control treatment (100% cow manure) (3731
+    kg/ha/season). The highest N2O emissions were shown by ameliorant A3 (50% cow
+    manure + 50% compost from weed in situ) at dosage NPK 150% from recommendation
+    (1,31kg/ha/season) and the lowest shown by ameliorant A4 (50% cow manure + 50%
+    ash from weeds in situ) at no NPK fertilization (0.32 kg/ha/season). The recommended
+    treatment is the treatment of ameliorant 50% cow manure + 50% compost from weed
+    in situ at 100% NPK rate.'
+  keywords:
+    default:
+      keywords:
+        subject: NPK fertilizer dose
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-08'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3345296
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3271594
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Eni-Maftuah:
+    individualname: Eni Maftuah
+    role: creator
+    organization: Indonesian Swampland Agriculture Research Institute (ISARI)
+    url: ''
+  Hendri-Sosiawan:
+    individualname: Hendri Sosiawan
+    role: creator
+  A.-Wihardjaka:
+    individualname: A. Wihardjaka
+    role: creator
+    organization: Indonesian Agricultural Environment Research Institute
+    url: ''
+  Sosiawan-Hendri:
+    individualname: Sosiawan, Hendri
+    role: ''
+    organization: Indonesian Swampland Agriculture Research Institute (ISARI)
+    url: ''
+content_info: {}

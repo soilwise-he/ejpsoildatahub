@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091190
+  dataseturi: https://doi.org/10.5281/zenodo.8091190
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Soil Health Evaluation of Farmland Based on Functional Soil Management\u2014\
+    A Case Study of Yixing City, Jiangsu Province, China"
+  abstract: Given that farmland serves as a strategic resource to ensure national
+    food security, blind emphasis on the improvement of food production capacity can
+    lead to soil overutilization and impair other soil functions. Hence, the evaluation
+    of soil health (SH) should comprehensively take soil productivity and ecological
+    environmental effects into account. In this study, five functions from the perspective
+    of functional soil management were summarized, including primary productivity,
+    provision and cycling of nutrients, the provision of functional and intrinsic
+    biodiversity, water purification and regulation, and carbon sequestration and
+    regulation. For each soil function, in view of the natural and ameliorable conditions
+    affecting SH, basic indicators were selected from the two aspects of inherent
+    and dynamic properties, and restrictive indicators were chosen considering the
+    external properties or environmental elements, with the minimum limiting factor
+    method coupled with weighted linear model. The new evaluation system was tested
+    and verified in Yixing City, China. The healthy and optimally functional soils
+    were concentrated in the northeast and mid-west of Yixing City, whereas unhealthy
+    soils were predominant in the south and around Taihu Lake. The main limitations
+    to SH improvement included cation exchange capacity, nutrient elements, and soluble
+    carbon. The SH evaluation method was verified using the crop performance validation
+    method, and a positive correlation was noted between food production stability
+    index and soil health index, indicating that the evaluation system is reasonable.
+  keywords:
+    default:
+      keywords:
+        subject: sustainable soil management
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-24'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091190
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8091189
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rui-Zhao:
+    individualname: Rui Zhao
+    role: creator
+  Kening-Wu:
+    individualname: Kening Wu
+    role: creator
+    organization: ''
+    url: ''
+  Zhao-Rui:
+    individualname: Zhao, Rui
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

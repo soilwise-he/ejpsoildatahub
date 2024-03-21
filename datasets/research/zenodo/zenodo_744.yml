@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6406107
+  dataseturi: https://doi.org/10.5281/zenodo.6406107
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Fluometuron residues in some fodder crops and soil
+  abstract: Indian Grassland &amp; Fodder Research Institute, Jhansi, U.P. <em>Manuscript
+    received 9 August, 1976, accepted 30 December 1976</em> Determination of Fluometuron
+    residues in some fodder crops and soil.
+  keywords:
+    default:
+      keywords:
+        subject: hydrolvtic products
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1977-05-31'
+    publication: '1977'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6406107
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6406106
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-K.-GUPTA:
+    individualname: R. K. GUPTA
+    role: creator
+    organization: ''
+    url: ''
+  T.-R.-DUTTA:
+    individualname: T. R. DUTTA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

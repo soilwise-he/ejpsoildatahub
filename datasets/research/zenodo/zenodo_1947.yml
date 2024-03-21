@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SWANSON_1919
+  dataseturi: https://doi.org/10.1097/00010694-191907000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: EFFECT OF ALFALFA ON THE FERTILITY ELEMENTS OF THE SOIL IN COMPARISON WITH
+    GRAIN CROPS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: EFFECT OF ALFALFA ON THE FERTILITY ELEMENTS OF THE SOIL IN COMPARISON WITH
+      GRAIN CROPS
+    url: http://dx.doi.org/10.1097/00010694-191907000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Swanson-C.-O.:
+    individualname: Swanson, C. O.
+    role: creator
+  Latshaw-W.-L.:
+    individualname: Latshaw, W. L.
+    role: creator
+  SWANSON-C.-O.:
+    individualname: SWANSON, C. O.
+    role: creator
+  LATSHAW-W.-L.:
+    individualname: LATSHAW, W. L.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

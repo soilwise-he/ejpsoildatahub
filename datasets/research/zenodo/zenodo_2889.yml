@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7619283
+  dataseturi: https://doi.org/10.5281/zenodo.7619283
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE INFLUENCE OF SOIL RETAINING NITROGEN-FIXING BACTERIA AND THE APPLICATION
+    OF FOSSTIM-3 BIO FERTILIZER ON QUALITY INDICATORS OF SOYBEAN
+  abstract: In this article, it is stated that different differences were found between
+    the soil containing the bacteria and the bacillus subtilis bs-26 bacteria on the
+    changes in the quality parameters of the soybean grain.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-02-08'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7619283
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7619282
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jahangir-Khamdamov-Usmanalievich:
+    individualname: Jahangir Khamdamov Usmanalievich
+    role: creator
+  Usmanalievich-Jahangir-Khamdamov:
+    individualname: Usmanalievich, Jahangir Khamdamov
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

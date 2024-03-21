@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Young_1895
+  dataseturi: https://doi.org/10.1017/s008045680003283x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "XXXIV.\u2014The Chemical and Bacteriological Examination of Soil, with special\
+    \ reference to the Soil of Graveyards"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "XXXIV.\u2014The Chemical and Bacteriological Examination of Soil, with\
+      \ special reference to the Soil of Graveyards"
+    url: http://dx.doi.org/10.1017/s008045680003283x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Young-James-Buchanan:
+    individualname: Young, James Buchanan
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

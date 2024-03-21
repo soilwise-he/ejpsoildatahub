@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1110039
+  dataseturi: https://doi.org/10.5281/zenodo.1110039
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of Micro-Tunneling Technique To Rectify Tilted Structures Constructed
+    On Cohesive Soil
+  abstract: "Foundation differential settlement and supported\nstructure tilting are\
+    \ an occasionally occurred engineering problem.\nThis may be caused by overloading,\
+    \ changes in ground soil properties\nor unsupported nearby excavations. Engineering\
+    \ thinking points\ndirectly toward the logic solution for such problem by uplifting\
+    \ the\nsettled side. This can be achieved with deep foundation elements\nsuch\
+    \ as micro-piles and macro-piles\u2122, jacked piers, and helical piers,\njet\
+    \ grouted mortar columns, compaction grout columns, cement\ngrouting or with chemical\
+    \ grouting, or traditional pit underpinning\nwith concrete and mortar. Although,\
+    \ some of these techniques offer\neconomic, fast and low noise solutions, many\
+    \ of them are quite the\ncontrary. For tilted structures, with the limited inclination,\
+    \ it may be much\neasier to cause a balancing settlement on the less-settlement\
+    \ side\nwhich shall be done carefully in a proper rate. This principal has been\n\
+    applied in Leaning Tower of Pisa stabilization with soil extraction\nfrom the\
+    \ ground surface. In this research, the authors attempt to\nintroduce a new solution\
+    \ with a different point of view. So, the\nmicro-tunneling technique is presented\
+    \ in here as an intended ground\ndeformation cause. In general, micro-tunneling\
+    \ is expected to induce\nlimited ground deformations. Thus, the researchers propose\
+    \ to apply\nthe technique to form small size ground unsupported holes to produce\n\
+    the target deformations. This shall be done in four phases: 1.\nApplication of\
+    \ one or more micro-tunnels, regarding the existing\ndifferential settlement value,\
+    \ under the raised side of the tilted\nstructure. 2. For each individual tunnel,\
+    \ the lining shall be pulled out\nfrom both sides (from jacking and receiving\
+    \ shafts) in the slow rate.\n3. If required, according to calculations and site\
+    \ records, an additional\nsurface load can be applied on the raised foundation\
+    \ side. 4. Finally, a\nstrengthening soil grouting shall be applied for stabilization\
+    \ after\nadjustment. A finite element based numerical model is presented to simulate\n\
+    the proposed construction phases for different tunneling positions and\ntunnels\
+    \ group. For each case, the surface settlements are calculated\nand induced plasticity\
+    \ points are checked. These results show the\nimpact of the suggested procedure\
+    \ on the tilted structure and its\nfeasibility. Comparing results also show the\
+    \ importance of the\nposition selection and tunnels group gradual effect. Thus,\
+    \ a new\nengineering solution is presented to one of the structural and\ngeotechnical\
+    \ engineering challenges."
+  keywords:
+    default:
+      keywords:
+        subject: tilted structures.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-10-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1110039
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1110038
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yasser-R.-Tawfic:
+    individualname: Yasser R. Tawfic
+    role: creator
+  Mohamed-A.-Eid:
+    individualname: Mohamed A. Eid
+    role: creator
+  Tawfic-Yasser-R.:
+    individualname: Tawfic, Yasser R.
+    role: ''
+    organization: ''
+    url: ''
+  Eid-Mohamed-A.:
+    individualname: Eid, Mohamed A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

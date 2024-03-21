@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7476595
+  dataseturi: https://doi.org/10.5281/zenodo.7476595
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil-Foundation-Structure Interaction Effects on urban scale Vulnerability
+    Assessment
+  abstract: Urban-scale seismic risk assessment is of paramount importance to identify
+    the impact of future earthquakes in cities, to assist national authorities in
+    risk mitigations policies as well as after seismic event emergency management.
+    To date, a seismic risk assessment framework at a large scale is assessed considering
+    a portfolio of fixed-base structures. It is rather clear that when structures
+    rest on soft soil profiles the interaction between the soil, foundation, and structure
+    (SSI) may arise. Including SSI effects in the city-scale vulnerability analysis
+    may be challenging due to the high exposure concentration and complexity of the
+    whole interacting system not to mention the limited amount of data on the foundation
+    building inventory. For this reason, large-scale analyses are commonly carried
+    out applying existing fragility curves which generally neglect SSI and may have
+    been assessed for different soil conditions. A novel simplified methodology is
+    proposed in this study to calculate fragility functions of structures considering
+    the influence of SSI and local site-effects, suitable for large-scale application.
+    An improved taxonomy defines the resulting fragility functions introducing the
+    averaged shear-wave velocity in the top 30 m (VS,30) as a proxy for the site and
+    SSI effects. The outcomes of the methodological framework are adopted to estimate
+    the risk in terms of damages incurred by the most popular building classes of
+    Thessaloniki, Northern Greece for the Thessaloniki 1978, Mw 6.5 historical earthquake.
+    The main findings reported herein demonstrate that the conventional way of performing
+    risk analysis may lead affect the seismic risk estimates by a substantial margin.
+  keywords:
+    default:
+      keywords:
+        subject: urban risk assessment
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-07-05'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7476595
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7476594
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chiara-Amendola:
+    individualname: Chiara Amendola
+    role: creator
+  Dimitris-Pitilakis:
+    individualname: Dimitris Pitilakis
+    role: creator
+  Amendola-Chiara:
+    individualname: Amendola, Chiara
+    role: ''
+    organization: Aristotle University of Thessaloniki
+    url: https://orcid.org/0000-0001-8149-6391
+  Pitilakis-Dimitris:
+    individualname: Pitilakis, Dimitris
+    role: ''
+    organization: Aristotle University of Thessaloniki
+    url: https://orcid.org/0000-0001-7363-3667
+content_info: {}

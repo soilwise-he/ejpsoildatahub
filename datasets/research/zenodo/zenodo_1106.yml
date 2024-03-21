@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Truog_1916
+  dataseturi: https://doi.org/10.1021/i500008a600
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Active and Latent Soil Activity vs. Immediate and Continued Lime Requirement
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Active and Latent Soil Activity vs. Immediate and Continued Lime Requirement
+    url: http://dx.doi.org/10.1021/i500008a600
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Truog-E.:
+    individualname: Truog, E.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

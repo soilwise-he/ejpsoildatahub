@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1130475
+  dataseturi: https://doi.org/10.5281/zenodo.1130475
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Identifying Dynamic Structural Parameters Of  Soil-Structure System Based
+    On Data Recorded During Strong Earthquakes
+  abstract: "In many applied engineering problems, structural analysis is usually\
+    \ conducted by assuming a rigid bed, while imposing the effect of structure bed\
+    \ flexibility can affect significantly on the structure response. This article\
+    \ focuses on investigation and evaluation of the effects arising from considering\
+    \ a soil-structure system in evaluation of dynamic characteristics of a steel\
+    \ structure with respect to elastic and inelastic behaviors. The recorded structure\
+    \ acceleration during Taiwan\u2019s strong Chi-Chi earthquake on different floors\
+    \ of the structure was our evaluation criteria. The respective structure is an\
+    \ eight-story steel bending frame structure designed using a displacement-based\
+    \ direct method assuring weak beam - strong column function. The results indicated\
+    \ that different identification methods i.e. reverse Fourier transform or transfer\
+    \ functions, is capable to determine some of the dynamic parameters of the structure\
+    \ precisely, rather than evaluating all of them at once (mode frequencies, mode\
+    \ shapes, structure damping, structure rigidity, etc.). Response evaluation based\
+    \ on the input and output data elucidated that the structure first mode is not\
+    \ significantly affected, even considering the soil-structure interaction effect,\
+    \ but the upper modes have been changed. Also, it was found that the response\
+    \ transfer function of the different stories, in which plastic hinges have occurred\
+    \ in the structure components, provides similar results."
+  keywords:
+    default:
+      keywords:
+        subject: displacement-based design.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1130475
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1130474
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vahidreza-Mahmoudabadi:
+    individualname: Vahidreza Mahmoudabadi
+    role: creator
+    organization: ''
+    url: ''
+  Omid-Bahar:
+    individualname: Omid Bahar
+    role: creator
+  Mohammad-Kazem-Jafari:
+    individualname: Mohammad Kazem Jafari
+    role: creator
+  Bahar-Omid:
+    individualname: Bahar, Omid
+    role: ''
+    organization: ''
+    url: ''
+  Jafari-Mohammad-Kazem:
+    individualname: Jafari, Mohammad Kazem
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

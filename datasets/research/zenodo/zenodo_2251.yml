@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6026710
+  dataseturi: https://doi.org/10.5281/zenodo.6026710
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of Forest and Rangeland on Interception, Evapotranspiration, Soil
+    Moisture and Ground water, Infiltration-a review
+  abstract: "Land use types and practices significantly influence hydrological properties.\
+    \ The hydrological properties like interception, infiltration, soil moisture and\
+    \ evapotranspiration varies with vegetation cover, topography, climatic conditions\
+    \ and soil properties. These properties don\u2019t have exact value for all areas\
+    \ i.e. they can have different values under same vegetation cover. The purpose\
+    \ of the study was to understand the effects of forest and rangeland/grasslands\
+    \ on various hydrological properties like interception, evapotranspiration, infiltration,\
+    \ soil moisture and ground water recharge. Interception and evapotranspiration\
+    \ were higher from woody vegetation due to aerodynamics roughness of trees in\
+    \ promoting increased evaporation in wet condition that the rate of evapotranspiration\
+    \ losses from forests and grassland were 1400 \xB1 100 mm yr\u22121 and 950 \xB1\
+    \ 50 mm yr\u22121 respectively. Soil moisture was found higher in area with small\
+    \ bulk density and higher abundance of pore spaces that some studies found moisture\
+    \ under grassland twice that under forest and some found higher moisture on forest\
+    \ with good management practices than in grassland. Ground water was found increased\
+    \ when forests were converted to rangelands; groundwater recharge would increase\
+    \ by 7.8 \xB1 12.6%. Well managed forest land with coarse medium texture soil\
+    \ has higher infiltration capacity than grassland and bare ground. Study found\
+    \ mean cumulative infiltration 33.47 cm in forest and 8.4 cm in grassland. Different\
+    \ vegetation structure and their management practices impacts soil, climate and\
+    \ water cycle differently. So, it is very important to understand which vegetation\
+    \ type can be used in particular area. This study will help to understand the\
+    \ hydrological influence of woody and herbaceous plants and helps in practicing\
+    \ better land use practice in water related disaster vulnerable areas."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-02-09'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6026710
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6026709
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yamuna-Paudel:
+    individualname: Yamuna Paudel
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

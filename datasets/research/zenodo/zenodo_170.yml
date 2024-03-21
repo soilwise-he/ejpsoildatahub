@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7067234
+  dataseturi: https://doi.org/10.5281/zenodo.7067234
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: District wise soil fertility mapping from Soil Health Card data using GIS
+    in Meghalaya
+  abstract: Soil fertility maps, namely soil acidity, salinity, organic carbon, available
+    phosphorus, and potassium were generated using Geographic Information System from
+    grid-wise soil health data collected from SHC Portal. The study revealed that
+    soils of all districts of Meghalaya are non-saline. The soils of all districts
+    of the State (except two districts of Jaintia hills ) are mostly slightly acidic
+    with the highest area in West Garo Hills and South West Garo Hills that cover
+    the entire districts whereas the moderately acidic soils are more abundant in
+    East Jaintia Hills and West Jaintia Hills districts that cover 97.06% and 85.56%
+    area respectively. The strongly acidic and neutral soils are found in very negligible
+    areas. All districts of Jaintia Hills and Khasi hills are rich in organic carbon
+    covering 99% area. More than 54% of areas of the districts of Meghalaya have medium
+    available phosphorus and the highest area is found in North Garo hills (91%).
+    Available phosphorus is high in 35% of soils of East Khasi hills followed by South
+    West Khasi Hills (19.89%) and West Khasi Hills (16.12%) district. Availability
+    of potassium is low in &gt;66% areas of 6 districts (South West Khasi Hills and
+    all five districts of Garo hills) whereas &gt; 52% areas of 5 district of Jaintia
+    Hills and Khasi hills (except South West Khasi hills) are medium in available
+    potassium. Soils of Ri-bhoi, East Jaintia Hills, West Khasi Hills, and East Khasi
+    Hills districts contain high available potassium covering 19.91%, 17.76%, 10.97%,
+    and 7.54% area, respectively.
+  keywords:
+    default:
+      keywords:
+        subject: Soil fertility, Soil Health Card, GIS, Meghalaya
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-01'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7067234
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7067233
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pratibha-Thakuria-Das:
+    individualname: Pratibha Thakuria Das
+    role: creator
+  Bipul-Saikia:
+    individualname: Bipul Saikia
+    role: creator
+    organization: ''
+    url: ''
+  Tangwa-Lakiang:
+    individualname: Tangwa Lakiang
+    role: creator
+    organization: ''
+    url: ''
+  R.M.Majaw:
+    individualname: R.M.Majaw
+    role: creator
+    organization: ''
+    url: ''
+  Ian-B.Saiborne:
+    individualname: Ian B.Saiborne
+    role: creator
+  Das-Pratibha-Thakuria:
+    individualname: Das, Pratibha Thakuria
+    role: ''
+    organization: ''
+    url: ''
+  B.Saiborne-Ian:
+    individualname: B.Saiborne, Ian
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

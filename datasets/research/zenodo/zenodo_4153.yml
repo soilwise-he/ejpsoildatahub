@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1083081
+  dataseturi: https://doi.org/10.5281/zenodo.1083081
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Hazards Assessment Of Radon Exhalation Rate And Radium Content In The Soil
+    Samples In Iraqi Kurdistan Using Passive And Active Detecting Methods
+  abstract: 'This study aims to assess the environmental hazards
+
+    from radon exhalation rate in the soil samples in selected locations in
+
+    Iraqi Kurdistan, using passive (CR-39NTDs) and active (RAD7)
+
+    detecting method. Radon concentration, effective radium content and
+
+    radon exhalation rate were estimated in soil samples that collected at
+
+    the depth level of 30 cm inside 124 houses. The results show that the
+
+    emanation rate for radon gas was variation from location to other,
+
+    depending on the geological formation. Most health risks come from
+
+    emanation of radon and its daughter due to its contribution for indoor
+
+    radon, so the results showed that there is a linear relationship
+
+    between the ratio of soil and indoor radon concentration (CSoil Rn222/
+
+    Cindoor Rn222) and the effective radium content in soil samples. The
+
+    results show that radon concentration has high and low values in
+
+    Hajyawa city and Er. Tyrawa Qr, respectively. A comparison
+
+    between our results with that mentioned in international reports was
+
+    done.'
+  keywords:
+    default:
+      keywords:
+        subject: Iraqi Kurdistan.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-10-25'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1083081
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1083080
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Asaad-H.-Ismail:
+    individualname: Asaad H. Ismail
+    role: creator
+  Mohamad-S.-Jaafar:
+    individualname: Mohamad S. Jaafar
+    role: creator
+  Ismail-Asaad-H.:
+    individualname: Ismail, Asaad H.
+    role: ''
+    organization: ''
+    url: ''
+  Jaafar-Mohamad-S.:
+    individualname: Jaafar, Mohamad S.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

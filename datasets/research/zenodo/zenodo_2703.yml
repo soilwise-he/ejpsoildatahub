@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30747
+  dataseturi: https://doi.org/10.5281/zenodo.30747
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination Of The Best Canopy Gap Area On The Basis Of Soil Characteristics
+    Using The Analytical Hierarchy Process (Ahp)
+  abstract: "The assessment of canopy gap areas on the basis of soil characteristics\
+    \ in forest ecosystems could be one of benefit points for management of forests.\
+    \ This research was conducted in 20 ha areas of Experimental Forest Station of\
+    \ Tarbiat Modares University that is located in a temperate forest of Mazandaran\
+    \ province in the north of Iran. Twenty one canopy gaps with different areas were\
+    \ found in studied areas and classified as small (85.12 m2), medium (325.21 m2),\
+    \ large (512.11 m2) and very large (723.85 m2) gaps. These areas classes of canopy\
+    \ gaps were assessed with respect to nine criteria (soil pH, carbon to nitrogen\
+    \ ratio, cation exchange capacity, phosphorus, potassium, calcium, nitrogen mineralization,\
+    \ microbial respiration and earthworm\u2019s biomass). Soil samples (0\u2013 45\
+    \ cm depth from the gap center and edge positions) were measured in the laboratory.\
+    \ The Analytical Hierarchy Process (AHP) was used for assessment of canopy gap\
+    \ areas. This method is widely used the Multiple Criteria Decision Support (MCDS)\
+    \ method and perhaps the most popular in many fields, including natural resource\
+    \ management, especially in forest sciences. Results of AHP indicate that the\
+    \ maximum of local priority belongs to small areas of canopy gaps when considering\
+    \ all soil characteristics. However, medium, large and very large canopy gap areas\
+    \ have priorities, respectively. The calculated overall priority showed that with\
+    \ respect to considered criterias, small and medium gap areas have higher, more\
+    \ ideal condition in comparison to large and very large areas. AHP results emphasise\
+    \ that considering soil characteristics canopy gap areas should be less than 400\
+    \ m2 in Hyrcanian forests of Iran. Also, AHP can be introduced as an effective\
+    \ instrument in decision-making processes for investment planning and prioritization\
+    \ in compliance with environmental regulations."
+  keywords:
+    default:
+      keywords:
+        subject: Iran
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2009-03-01'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30747
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kooch-Yahya:
+    individualname: Kooch, Yahya
+    role: creator
+    organization: Tarbiat Modares University, 46417-76489, Noor, Mazandaran, Iran,
+    url: ''
+  Hosseini-Seyed-Mohsen:
+    individualname: Hosseini, Seyed Mohsen
+    role: creator
+    organization: Tarbiat Modares University, 46417-76489, Noor, Mazandaran, Iran
+    url: ''
+  Mohammadi-Jahangard:
+    individualname: Mohammadi, Jahangard
+    role: creator
+    organization: Shahrekord University of Medical Sciences, Teheran, Ir
+    url: ''
+  Hojjati-Seyed-Mohammad:
+    individualname: Hojjati, Seyed Mohammad
+    role: creator
+    organization: Sari Agricultural Sciences and Natural Resources University, Sari,
+      Mazandaran, Iran
+    url: ''
+content_info: {}

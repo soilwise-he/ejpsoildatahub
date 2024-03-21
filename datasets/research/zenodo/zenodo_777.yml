@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5081148
+  dataseturi: https://doi.org/10.5281/zenodo.5081148
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Moisture Modulates Soil Reservoirs of Active DNA and RNA Viruses
+  abstract: The R codes and Source data ('SourceData.zip') used to plot the main and
+    supplementary figures in the manuscript titled 'Moisture Modulates Soil Reservoirs
+    of Active DNA and RNA Viruses'. 'CuratedDatabase.zip' contains the curated DNA
+    viral database, lysogenic marker database (i.e. integrase and excisionase) and
+    viral structural protein database (i.e. capsid, envelope and tail) used and described
+    in the main text.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-07-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5081148
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4925591
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wu-Ruonan:
+    individualname: Wu, Ruonan
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: https://orcid.org/0000-0001-9466-4462
+  Davison-Michelle:
+    individualname: Davison, Michelle
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Gao-Yuqian:
+    individualname: Gao, Yuqian
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Nicora-Carrie:
+    individualname: Nicora, Carrie
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Mcdermott-Jason:
+    individualname: Mcdermott, Jason
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Burnum-Johnson-Kristin:
+    individualname: Burnum-Johnson, Kristin
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Hofmockel-Kirsten:
+    individualname: Hofmockel, Kirsten
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+  Jansson-Janet:
+    individualname: Jansson, Janet
+    role: creator
+    organization: Pacific Northwest National Laboratory
+    url: ''
+content_info: {}

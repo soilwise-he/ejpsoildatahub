@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6318428
+  dataseturi: https://doi.org/10.5281/zenodo.6318428
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Lime and Organic Matter Additions on Inorganic N-Transformation
+    in Soil
+  abstract: Depaitment of Agricultural Chemistry and Soil Science, Bidhan Chandra
+    Krishi Viswavidyalaya, Kalyani-741 235<strong> </strong> <em>Manuscript received
+    1 September 1982, revised 4 September 1984, accepted 18 January 1985</em> Comparatively
+    higher amount of clay-fixed ammonium and lower amount of exchangeable ammonium
+    were observed in the limed over the uniimed soil. Whereas, much lower amount of
+    clay-fixed ammonium was observed in the starch added limed than in the corresponding
+    unlimed soil. Irrespective of liming, magnitude of fixed ammonium in the starch
+    added soil was much less than either the rice straw or no organic matter treated
+    soil. It is suggested that the heterotrophic microbes utilised a considerable
+    amount of fixed ammonium from the soil resulting a decrease in its amount under
+    limed condition.
+  keywords:
+    default:
+      keywords:
+        subject: Experimental
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1985-02-28'
+    publication: '1985'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6318428
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6318427
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DIPANKAR-SAHA:
+    individualname: DIPANKAR SAHA
+    role: creator
+    organization: ''
+    url: ''
+  ASIT-K.-MUKHOPADHYAY:
+    individualname: ASIT K. MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

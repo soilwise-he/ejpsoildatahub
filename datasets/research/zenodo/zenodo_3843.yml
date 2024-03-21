@@ -1,0 +1,121 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1108400
+  dataseturi: https://doi.org/10.5281/zenodo.1108400
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Support Vector Regression For Retrieval Of Soil Moisture Using Bistatic Scatterometer
+    Data At X-Band
+  abstract: 'An approach was evaluated for the retrieval of soil
+
+    moisture of bare soil surface using bistatic scatterometer data in the
+
+    angular range of 200 to 700 at VV- and HH- polarization. The
+
+    microwave data was acquired by specially designed X-band (10
+
+    GHz) bistatic scatterometer. The linear regression analysis was done
+
+    between scattering coefficients and soil moisture content to select the
+
+    suitable incidence angle for retrieval of soil moisture content. The 250
+
+    incidence angle was found more suitable. The support vector
+
+    regression analysis was used to approximate the function described
+
+    by the input output relationship between the scattering coefficient and
+
+    corresponding measured values of the soil moisture content. The
+
+    performance of support vector regression algorithm was evaluated by
+
+    comparing the observed and the estimated soil moisture content by
+
+    statistical performance indices %Bias, root mean squared error
+
+    (RMSE) and Nash-Sutcliffe Efficiency (NSE). The values of %Bias,
+
+    root mean squared error (RMSE) and Nash-Sutcliffe Efficiency
+
+    (NSE) were found 2.9451, 1.0986 and 0.9214 respectively at HHpolarization.
+
+    At VV- polarization, the values of %Bias, root mean
+
+    squared error (RMSE) and Nash-Sutcliffe Efficiency (NSE) were
+
+    found 3.6186, 0.9373 and 0.9428 respectively.'
+  keywords:
+    default:
+      keywords:
+        subject: NSE.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-08-02'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1108400
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1108399
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dileep-Kumar-Gupta:
+    individualname: Dileep Kumar Gupta
+    role: creator
+    organization: ''
+    url: ''
+  Rajendra-Prasad:
+    individualname: Rajendra Prasad
+    role: creator
+  Pradeep-Kumar:
+    individualname: Pradeep Kumar
+    role: creator
+  Varun-Narayan-Mishra:
+    individualname: Varun Narayan Mishra
+    role: creator
+    organization: ''
+    url: ''
+  Ajeet-Kumar-Vishwakarma:
+    individualname: Ajeet Kumar Vishwakarma
+    role: creator
+    organization: ''
+    url: ''
+  Prashant-Kumar-Srivastava:
+    individualname: Prashant Kumar Srivastava
+    role: creator
+  Prasad-Rajendra:
+    individualname: Prasad, Rajendra
+    role: ''
+    organization: ''
+    url: ''
+  Kumar-Pradeep:
+    individualname: Kumar, Pradeep
+    role: ''
+    organization: ''
+    url: ''
+  Srivastava-Prashant-Kumar:
+    individualname: Srivastava, Prashant Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7151240
+  dataseturi: https://doi.org/10.5281/zenodo.7151240
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The effect of soil pH on a carbohydrate level of tomato fruits (Lycopersicum
+    esculentum Mill.) from bobo and Sidera villages
+  abstract: Soil pH has an effect not only on the growth and production of tomatoes
+    but also has an influence on sugar metabolism. How the pH influences a production
+    and the change of the sugar is still unknown. Therefore, this study aims to determine
+    the effect of the soil pH on the carbohydrate content of tomatoes in Bobo and
+    Sidera villages. The method used was quasi-experiment because the researchers
+    did not randomly select tomatoes for the experimental group and the control group,
+    but the researchers used tomato plants in the two villages that have the differences
+    in the pH of the soil. The data obtained were analyzed using ANAVA assisted by
+    XL STAT 2017 program. The results showed that the soil pH affected the carbohydrate
+    content of tomato fruit found in Bobo and Sidera Villages. The pH of the soil
+    in Sidera Village was lower than the pH found in the village of Bobo.
+  keywords:
+    default:
+      keywords:
+        subject: Effect; Carbohydrate; Sugar; Soil pH; Tomato
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7151240
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7151239
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Astija:
+    individualname: Astija
+    role: creator
+    organization: "Biology Education Study Program in Teacher Training and Education\
+      \ Tadulako University, Palu, Central Sulawesi \u2013 94119."
+    url: ''
+  Anggy-Rizky-Januarista:
+    individualname: Anggy Rizky Januarista
+    role: creator
+    organization: "Biology Education Study Program in Teacher Training and Education\
+      \ Tadulako University, Palu, Central Sulawesi \u2013 94119."
+    url: ''
+  Vita-Indri-Febriani:
+    individualname: Vita Indri Febriani
+    role: creator
+  Lestari-MP-Alibasyah:
+    individualname: Lestari MP Alibasyah
+    role: creator
+    organization: "Biology Education Study Program in Teacher Training and Education\
+      \ Tadulako University, Palu, Central Sulawesi \u2013 94119."
+    url: ''
+  Febriani-Vita-Indri:
+    individualname: Febriani, Vita Indri
+    role: ''
+    organization: "Biology Education Study Program in Teacher Training and Education\
+      \ Tadulako University, Palu, Central Sulawesi \u2013 94119."
+    url: ''
+content_info: {}

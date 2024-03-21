@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Feng_2015
+  dataseturi: https://doi.org/10.1109/igarss.2015.7326195
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The effects of haze on the measured soil reflectance and drought monitoring
+    models based on spectral feature space
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The effects of haze on the measured soil reflectance and drought monitoring
+      models based on spectral feature space
+    url: http://dx.doi.org/10.1109/igarss.2015.7326195
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Feng-Haixia:
+    individualname: Feng, Haixia
+    role: creator
+  Wang-Liming:
+    individualname: Wang, Liming
+    role: creator
+  Zhu-Lin:
+    individualname: Zhu, Lin
+    role: creator
+  Shao-Shanshan:
+    individualname: Shao, Shanshan
+    role: creator
+  Meng-Xiangjun:
+    individualname: Meng, Xiangjun
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

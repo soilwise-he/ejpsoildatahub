@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10516151
+  dataseturi: https://doi.org/10.5281/zenodo.10516151
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spatial and temporal variations of soil microbial respiration under native
+    and exotic tree species
+  abstract: "Different tree species can directly or indirectly affect soil conditions.\_\
+    \_ They influence soil microbial diversity and abundance and hence soil respiration.\
+    \ Trees and soil respiration have a complex relationship that is poorly understood,\
+    \ as does the seasonal and spatial variation that naturally occurs in them. This\
+    \ study was therefore conducted to evaluate soil respiration processes under two\
+    \ native tree species, Msuku (Uapaca kirkiana) and Mtondo (Julbernardia paniculata),\_\
+    and one introduced tree species, Malaina (Gmelina arborea). In 2019 (March and\
+    \ October), soil samples were taken at 0.5m, 1.5m, 2.5 m, and 3.5m intervals from\
+    \ the trunks of the chosen tree species at depths of 0\u201310 cm and 10\u2013\
+    20 cm. Using the alkali absorption method, soil respiration was assessed. The\
+    \ findings demonstrated that respiration decreased with the increase in horizontal\
+    \ distance from the trunk of both indigenous species. On the contrary, soil respiration\
+    \ increased with the increase in horizontal distances from the trunks of introduced\
+    \ tree species. The findings also demonstrated that respiration was higher at\
+    \ 0\u201310 cm than at 10\u201320 cm soil depths in both March and October under\
+    \ all three tree species. The higher microbial soil respiration in the surface\
+    \ layer could be attributed to better soil aeration, as opposed to the sub-surface\
+    \ soil. Furthermore, soil respiration was higher for soils collected in March\
+    \ than soils collected in October, probably because March is associated with the\
+    \ rainy season in which soil moisture content is higher than October. It can be\
+    \ concluded that different tree species strongly influence spatial and vertical\
+    \ soil respiration differently. This calls for proper selection of tree species\
+    \ to be utilised in agroforestry. \n\nTherefore, knowledge of nutrient uptake\
+    \ of various tree species and the influence of tree species on soil processes,\
+    \ but also microbial population effects on nutrient cycling linked to various\
+    \ tree species is essential."
+  keywords:
+    default:
+      keywords:
+        subject: Variations
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10516151
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10516150
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nyirenda-Lameck-Davie:
+    individualname: Nyirenda, Lameck Davie
+    role: creator
+    organization: Faculty of Animal Science and Agricultural Technology, Silpakorn
+      University, Phetchaburi IT Campus, Cha-Am, Phetchaburi 76120, Thailand
+    url: ''
+  Majamanda-James:
+    individualname: Majamanda, James
+    role: creator
+    organization: Faculty of Science, University of Malawi, Department of Biological
+      Sciences, P.O. Box 280,  Zomba, Malawi
+    url: ''
+  Khalif-Anas:
+    individualname: Khalif, Anas
+    role: creator
+    organization: Faculty of Animal Science and Agricultural Technology, Silpakorn
+      University, Phetchaburi IT Campus, Cha-Am, Phetchaburi 76120, Thailand
+    url: ''
+  Kanjanamaneesathian-Mana:
+    individualname: Kanjanamaneesathian, Mana
+    role: creator
+    organization: Faculty of Animal Science and Agricultural Technology, Silpakorn
+      University, Phetchaburi IT Campus, Cha-Am, Phetchaburi 76120, Thailand
+    url: ''
+content_info: {}

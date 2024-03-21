@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1315935
+  dataseturi: https://doi.org/10.5281/zenodo.1315935
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Study Of Combined Mechanical And Chemical Stabilisation Of Fine Grained
+    Dredge Soil Of River Jhelum
+  abstract: 'After the recent devastating flood in Kashmir in 2014, dredging of the
+    local water bodies, especially Jhelum River has become a priority for the government.
+    Local government under the project name of ''Comprehensive Flood Management Programme''
+    plans to undertake an increase in discharge of existing flood channels by removal
+    of encroachments and acquisition of additional land, dredging and other works
+    of the water bodies. The total quantity of soil to be dredged will be 16.15 lac
+    cumecs. Dredged soil is a major component that would result from the project which
+    requires disposal/utilization. This study analyses the effect of cement and sand
+    on the engineering properties of soil. The tests were conducted with variable
+    additions of sand (10%, 20% and 30%), whereas cement was added at 12%. Samples
+    with following compositions: soil-cement (12%) and soil-sand (30%) were tested
+    as well. Laboratory experiments were conducted to determine the engineering characteristics
+    of soil, i.e., compaction, strength, and CBR characteristics. The strength characteristics
+    of the soil were determined by unconfined compressive strength test and direct
+    shear test. Unconfined compressive strength of the soil was tested immediately
+    and for a curing period of seven days. CBR test was performed for unsoaked, soaked
+    (worst condition- 4 days) and cured (4 days) samples.'
+  keywords:
+    default:
+      keywords:
+        subject: flood.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1315935
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1315934
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adnan-F.-Sheikh:
+    individualname: Adnan F. Sheikh
+    role: creator
+  Fayaz-A.-Mir:
+    individualname: Fayaz A. Mir
+    role: creator
+    organization: ''
+    url: ''
+  Sheikh-Adnan-F.:
+    individualname: Sheikh, Adnan F.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

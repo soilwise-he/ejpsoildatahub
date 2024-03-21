@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lala_2021
+  dataseturi: https://doi.org/10.35940/ijitee.A9585.1111121
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Performance of Building with Basements Under Seismic Excitation Considering
+    Soil Structure Interaction
+  abstract: '&lt;p&gt;In modern construction, there is a trend to go deeper below
+    the grade level in terms of basements which can be utilized for parking, shopping
+    malls or a combination of both. In such cases, dynamic soil properties have a
+    significant effect of activating dynamic soil structure interaction phenomenon
+    during earthquake. Here in present study an effort is made to study the behavior
+    of a building by varying five and three number of basements considering dynamic
+    soil structure interaction. Issues like influence zone to be considered for dynamic
+    soil structure interaction, behavior of building with basements under different
+    water level conditions for two different types of layered soil and their comparison
+    with fixed based structure for a real-life structure is dealt with. It is observed
+    that dynamic soil structure interaction can significantly change the behavior
+    and also the failure pattern of the building and hence it is recommended to perform
+    dynamic soil structure interaction for building with multiple basements.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Basements
+      - Dynamic soil structure interaction
+      - layered soil
+      - multiple underground stories
+      - Nonlinear direct integration time history.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Performance of Building with Basements Under Seismic Excitation Considering
+      Soil Structure Interaction
+    url: http://dx.doi.org/10.35940/ijitee.A9585.1111121
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdullah-Lala:
+    individualname: Abdullah Lala
+    role: creator
+  Toshif-Patel:
+    individualname: Toshif Patel
+    role: creator
+  Ravi-Karkar:
+    individualname: Ravi Karkar
+    role: creator
+  Jigar-Sevalia:
+    individualname: Jigar Sevalia
+    role: creator
+  Lala-Abdullah:
+    individualname: Lala, Abdullah
+    role: creator
+  Patel-Toshif:
+    individualname: Patel, Toshif
+    role: creator
+  Karkar-Ravi:
+    individualname: Karkar, Ravi
+    role: creator
+  Sevalia-Dr.-Jigar:
+    individualname: Sevalia, Dr. Jigar
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

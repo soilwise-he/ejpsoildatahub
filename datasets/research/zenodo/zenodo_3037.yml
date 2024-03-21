@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sarafov_2018
+  dataseturi: https://doi.org/10.3897/jbgs.2018.39.4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil-geographic Study in the Area of Iron Age Pits Sanctuary and a Middle
+    Ages Settlement near the Kaptain Andreevo Railway Station
+  abstract: 'This paper presents the results of soil investigation in the archaeological
+    site 27 near the settlement Kapitan Andreevo (SE Bulgaria). The following soil
+    types are recognized: Fluvisols, Vertisols, Luvisols and Planosols. Their spatial
+    distribution is closely related to the Pliocene facial surface that consists of
+    erosion, abrasion and accumulative deposits in the region and presents a transitional
+    zone in the investigated archaeological area.These circumstances depend on the
+    terrain and climate conditions over thousands of years and have determined the
+    mosaic nature of the three soil types. The results support the archaeological
+    investigation in the study area and were additionally filled with GIS-based analysis
+    of the Digital Terrain Model (DTM) using open software GRASS GIS.'
+  keywords:
+    default:
+      keywords:
+      - Soil Types
+      - Fluvisols
+      - Vertisols
+      - Luvisols and Planosols
+      - Kapitan Andreevo
+      - GIS
+      - Digital Terrain Model (DTM)
+      - GRASS GIS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil-geographic Study in the Area of Iron Age Pits Sanctuary and a Middle
+      Ages Settlement near the Kaptain Andreevo Railway Station
+    url: http://dx.doi.org/10.3897/jbgs.2018.39.4
+    type: www
+contact:
+  Bulgarian-Geographical-Society:
+    individualname: Bulgarian Geographical Society
+    role: creator
+  Sarafov-Alexandar:
+    individualname: Sarafov, Alexandar
+    role: creator
+  Tcherkezova-Emilia:
+    individualname: Tcherkezova, Emilia
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

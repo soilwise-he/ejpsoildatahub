@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7984994
+  dataseturi: https://doi.org/10.5281/zenodo.7984994
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECT OF AUTUMN WHEAT AND REPEAT CROPS ON THE AGROPHYSIC PROPERTIES
+    OF THE SOIL
+  abstract: Winter wheat repeated crops significantly affect the growth, development
+    and yield of agricultural crops. As a result of the conducted research, it is
+    shown that winter wheat and repeated oilseeds accumulating a huge amount of organic
+    substances during the growing season positively affect the agrophysical properties
+    of the soil, which contribute to the growth, development and increase of cotton
+    yields in comparison with the control.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7984994
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7984993
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.Tadjiev-K.M.Tadjiev:
+    individualname: M.Tadjiev, K.M.Tadjiev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

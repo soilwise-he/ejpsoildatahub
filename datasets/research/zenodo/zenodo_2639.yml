@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7239909
+  dataseturi: https://doi.org/10.5281/zenodo.7239909
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Investigate the Impact of Large Ungulates on Forest Land with Regard to Soil
+    Hydrology in Central and Eastern Europe
+  abstract: "The study of impact of large ungulates on forest land with regard to\
+    \ soil hydrology was conducted in two locations in central and eastern Europe.\
+    \ The study aimed to investigate the impact of large ungulates on forest soils,\
+    \ as produced by trampling or hoof action, with respect to soil hydrology. Samples\
+    \ for determination of water retention were taken from three kinds of plots representing\
+    \ different sites with different degrees of animal disturbnace (high disturbance,\
+    \ intermediate, and undisturbed conditions). From each plot, several soil samples\
+    \ were taken from two depths (0\u20135 cm and 5\u201310 cm). Water infiltration\
+    \ measurements were conducted for determining soil hydraulic conductivity. The\
+    \ data used for evaluating soil water retention and soil hydraulic conductivity\
+    \ were analyzed through the ANOVAwith Duncan\u2019s multiple range test and Wilcoxon\
+    \ matched pair test at P&lt;0.05 and P&lt;0.1, respectively. The mean hydraulic\
+    \ conductivity (2, 77.10-2 cm day-1) in the high disturbed area was significantly\
+    \ lower than (3,88.10-2 cm day-1) in the undisturbed area. Water retention significantly\
+    \ lower in the disturbed sites than undisturbed, except in the plot Topo\u013E\
+    \u010Dianky Bison Park, it is higher in the disturbed site."
+  keywords:
+    default:
+      keywords:
+        subject: large ungulates, water retention, hydraulic conductivity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-10-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7239909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7239908
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.M.A.Adam:
+    individualname: A.M.A.Adam
+    role: creator
+    organization: ''
+    url: ''
+  V.Pichler:
+    individualname: V.Pichler
+    role: creator
+    organization: ''
+    url: ''
+  M.Homolak:
+    individualname: M.Homolak
+    role: creator
+    organization: ''
+    url: ''
+  LatifaA.A.Altigani:
+    individualname: Latifa,A.A.Altigani
+    role: creator
+  Latifa-A.A.Altigani:
+    individualname: Latifa, A.A.Altigani
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

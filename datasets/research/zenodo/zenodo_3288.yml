@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1100192
+  dataseturi: https://doi.org/10.5281/zenodo.1100192
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Response Of Buildings With Soil-Structure Interaction With Varying Soil Types
+  abstract: 'Over the years, it has been extensively established that<br>
+
+    the practice of assuming a structure being fixed at base, leads to gross<br>
+
+    errors in evaluation of its overall response due to dynamic loadings<br>
+
+    and overestimations in design. The extent of these errors depends on<br>
+
+    a number of variables; soil type being one of the major factor. This<br>
+
+    paper studies the effect of Soil Structure Interaction (SSI) on multistorey<br>
+
+    buildings with varying under-laying soil types after proper<br>
+
+    validation of the effect of SSI. Analysis for soft, stiff and very stiff<br>
+
+    base soils has been carried out, using a powerful Finite Element<br>
+
+    Method (FEM) software package ANSYS v14.5. Results lead to<br>
+
+    some very important conclusions regarding time period, deflection<br>
+
+    and acceleration responses.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil-Structure Interaction.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-03-03'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1100192
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1100191
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shreya-Thusoo:
+    individualname: Shreya Thusoo
+    role: creator
+  Karan-Modi:
+    individualname: Karan Modi
+    role: creator
+  Rajesh-Kumar:
+    individualname: Rajesh Kumar
+    role: creator
+  Hitesh-Madahar:
+    individualname: Hitesh Madahar
+    role: creator
+    organization: ''
+    url: ''
+  Thusoo-Shreya:
+    individualname: Thusoo, Shreya
+    role: ''
+    organization: ''
+    url: ''
+  Modi-Karan:
+    individualname: Modi, Karan
+    role: ''
+    organization: ''
+    url: ''
+  Kumar-Rajesh:
+    individualname: Kumar, Rajesh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mann_1799
+  dataseturi: https://doi.org/10.1080/14786449908677083
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: I. On the gradual changes in temperature and soil which take place in different
+    climates, with an enquiry into the cause of those changes
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: I. On the gradual changes in temperature and soil which take place in different
+      climates, with an enquiry into the cause of those changes
+    url: http://dx.doi.org/10.1080/14786449908677083
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mann-Abbe:
+    individualname: "Mann, Abb\xE9"
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

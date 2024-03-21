@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8269412
+  dataseturi: https://doi.org/10.5281/zenodo.8269412
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Predicting rut depth with soil moisture estimates from ERA5-Land and in-situ
+    measurements
+  abstract: "Preprint: Predicting rut depth with soil moisture estimates from ERA5-Land\
+    \ and in-situ measurements Authors: Marian Sch\xF6nauer, Anneli M. \xC5gren, Klaus\
+    \ Katzensteiner, Florian Hartsch, Paul Arp, Simon Drollinger, Dirk Jaeger"
+  keywords:
+    default:
+      keywords:
+        subject: reanalysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-08-21'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8269412
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8269411
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schonauer-Marian:
+    individualname: "Sch\xF6nauer, Marian"
+    role: creator
+    organization: "Department of Forest Work Science and Engineering, University of\
+      \ G\xF6ttingen, G\xF6ttingen, Germany"
+    url: https://orcid.org/0000-0003-2179-2898
+  Agren-Anneli-M.:
+    individualname: "\xC5gren, Anneli M."
+    role: creator
+    organization: "Department of Forest Ecology and Management, Swedish University\
+      \ of Agricultural Sciences, Ume\xE5, Sweden"
+    url: https://orcid.org/0000-0002-6758-3971
+  Katzensteiner-Klaus:
+    individualname: Katzensteiner, Klaus
+    role: creator
+    organization: Institute of Forest Ecology, University of Natural Resources and
+      Life Sciences, Vienna, Vienna, Austria
+    url: https://orcid.org/0000-0003-0534-8391
+  Hartsch-Florian:
+    individualname: Hartsch, Florian
+    role: creator
+    organization: "Department of Forest Work Science and Engineering, University of\
+      \ G\xF6ttingen, G\xF6ttingen, Germany"
+    url: ''
+  Arp-Paul:
+    individualname: Arp, Paul
+    role: creator
+    organization: Forestry and Environmental Management, University of New Brunswick,
+      New Brunswick, Canada
+    url: https://orcid.org/0000-0001-6411-7994
+  Drollinger-Simon:
+    individualname: Drollinger, Simon
+    role: creator
+    organization: "Department of Physical Geography, University of G\xF6ttingen, G\xF6\
+      ttingen, Germany"
+    url: https://orcid.org/0000-0002-4912-2629
+  Jaeger-Dirk:
+    individualname: Jaeger, Dirk
+    role: creator
+    organization: "Department of Forest Work Science and Engineering, University of\
+      \ G\xF6ttingen, G\xF6ttingen, Germany"
+    url: https://orcid.org/0000-0003-3642-2937
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10379739
+  dataseturi: https://doi.org/10.5281/zenodo.10379739
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analyzing Electrical Capacitive Methods of Soil Moisture Sensor Using ANOVA
+    Test
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-14'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10379739
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10379738
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Winata-Fajar:
+    individualname: Winata, Fajar
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Prihatmanto-Ary-Setijadi:
+    individualname: Prihatmanto, Ary Setijadi
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Yusuf-Rahadian:
+    individualname: Yusuf, Rahadian
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Kharisma-Rizky:
+    individualname: Kharisma, Rizky
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Sukoco-Agus:
+    individualname: Sukoco, Agus
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Pratama-Vitradisa:
+    individualname: Pratama, Vitradisa
+    role: creator
+    organization: Unversitas Mayasari Bakti
+    url: ''
+  Darmakusuma-Reza:
+    individualname: Darmakusuma, Reza
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: ''
+  Budiyono-Agus:
+    individualname: Budiyono, Agus
+    role: creator
+    organization: Institut Teknologi Bandung
+    url: 0000-0002-1337-9684
+content_info: {}

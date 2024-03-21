@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3339582
+  dataseturi: https://doi.org/10.5281/zenodo.3339582
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: "Activity of the compost Bio Vegetal\xAE in containing the soil-borne pathogen\
+    \ Verticillium dahliae Kleb."
+  abstract: "<em>Verticillium dahliae</em> Kleb. is a widely distributed soilborne\
+    \ pathogen, causing vascular wilt diseases in over 400 host plants and resulting\
+    \ in severe damage annually in different parts of the world. The pathogen survives\
+    \ in the soil for many years by producing<br> melanised, thick-walled resting\
+    \ structures, called microsclerotia, which are resistant to environmental extremes\
+    \ and remain associated with organic and soil particles. The disease is difficult\
+    \ to control, due to production of microsclerotia and the localization of the\
+    \ pathogen within the xylem vessels during its parasitic phase. In the past, the\
+    \ control of Verticillium wilt has relied on soil fumigation, but the use of methyl\
+    \ bromide, the main soil fumigant, was banned due to its devastating impact on\
+    \ the environment and soil living organisms. Currently, control is based mainly\
+    \ on preventive methods, and integrated disease management strategy. Among the\
+    \ different means available, the application of compost shows less or null detrimental\
+    \ impact on the environment. Besides the suppressive effect against plant diseases,\
+    \ composts improve soil health and structure, and stimulate the growth of soil\
+    \ microbiota. Bio Vegetal\xAE is a fertilizer already available on the market\
+    \ and used as soil improver. Its source matrices are organic municipal wastes\
+    \ and green pruning residues, whose composting process is triggered by mesophilic\
+    \ and thermophilic microorganisms.<br> The objective of this work was to evaluate\
+    \ the activity of the commercial compost Bio Vegetal\xAE on the soil-borne pathogen\
+    \ <em>V. dahliae</em>, by <em>in vitro</em> tests, on conidia and on microsclerotia,\
+    \ and <em>in vivo</em> experiments, using both soil with and without host plants<br>\
+    \ (tomato and/or olive). Inoculum density of <em>V. dahliae</em> microsclerotia\
+    \ occurring in the soil treated with Bio Vegetal\xAE at different doses, either\
+    \ transplanted or not with tomato or olives, showed significantly lower values\
+    \ as compared to the untreated control. Similarly, results from i<em>n vitro</em>\
+    \ test indicate a significant reduction of microslcerotia germination in the treatments\
+    \ amended with filter-sterilized aqueous extract of the compost Bio Vegetal. Further\
+    \ researches are in progress to determine the effect of Bio Vegetal\xAE on the\
+    \ soil microbial community."
+  keywords:
+    default:
+      keywords:
+        subject: compost, organic municipal waste, pruning residues, Verticillium
+          dahliae
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-09-11'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3339582
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3339581
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nigro-F.:
+    individualname: Nigro, F.
+    role: creator
+    organization: "Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti,\
+      \ Universit\xE0 degli Studi di Bari - Aldo Moro"
+    url: ''
+  Parente-P.:
+    individualname: Parente, P.
+    role: creator
+    organization: "Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti,\
+      \ Universit\xE0 degli Studi di Bari - Aldo Moro"
+    url: ''
+  Pascazio-S.:
+    individualname: Pascazio, S.
+    role: creator
+    organization: Tersan Puglia SpA
+    url: ''
+  Sion-V.:
+    individualname: Sion, V.
+    role: creator
+    organization: "Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti,\
+      \ Universit\xE0 degli Studi di Bari - Aldo Moro"
+    url: ''
+  Antelmi-I.:
+    individualname: Antelmi, I.
+    role: creator
+    organization: "Dipartimento di Scienze del Suolo, della Pianta e degli Alimenti,\
+      \ Universit\xE0 degli Studi di Bari - Aldo Moro"
+    url: ''
+content_info: {}

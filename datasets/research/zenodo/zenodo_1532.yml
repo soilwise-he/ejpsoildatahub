@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8353297
+  dataseturi: https://doi.org/10.5281/zenodo.8353297
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EXPLORING STREPTOMYCES BIOAGENTS FOR IMPROVING OF SOIL FERTILITY AND PLANT
+    PROTECTION FROM PATHOGENS
+  abstract: <em>Streptomyces species isolated from soil and rhizosphere of wild and
+    crop plants were screened in vitro and in vivo experiments for antibacterial,
+    antifungal, growth-promoting activities and for producing the volatile and phosphorus
+    solubilizing metabolites. </em>
+  keywords:
+    default:
+      keywords:
+        subject: rhizosphere, Streptomyces bacteria, biocontrol agent, bioinoculant
+          in organic production
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-17'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8353297
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8353296
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tinatin-Doolotkeldieva-Saykal-Bobusheva-Baarkul-Bekturganova:
+    individualname: Tinatin Doolotkeldieva, Saykal Bobusheva, Baarkul Bekturganova
+    role: creator
+  Tinatin-Doolotkeldieva-Saykal-Bobusheva:
+    individualname: Tinatin Doolotkeldieva, Saykal Bobusheva
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

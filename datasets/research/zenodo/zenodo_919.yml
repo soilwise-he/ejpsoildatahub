@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10706428
+  dataseturi: https://doi.org/10.5281/zenodo.10706428
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project milestone
+identification:
+  title: Identification of the optimal soil-crop association/agronomic practice pairs
+  abstract: "This\_milestone has the objective to provide an overview of the optimal\
+    \ soil-crop association/agronomic practice pairs among all those tested by the\
+    \ different partners in the Case Study (CS). The identification of the optimal\
+    \ pairs has been done in strict collaboration with the responsible of each CSs.\
+    \ To summarize the results and allow for a comprehensive evaluation, the same\
+    \ set of criteria was used for all the CSs, namely: yield (t/ha), gross margin\
+    \ (Euros/ha or Euros/tons), soil organic carbon (g/kg), and total nitrogen (g/kg)\
+    \ as exemplary of ecosystem services. With the aim to facilitate the reading of\
+    \ the document, the diversification is reported by country. \n\nEvaluation of\
+    \ the diversified cropping systems showed that in many cases the introduction\
+    \ of new crops in rotation in arable land or intercropped as cover crops in permanent\
+    \ crops improved not only environmental aspects related to SOC and Total N concentration,\
+    \ but also economic aspects related to the gross margin.\n\nIn general, is important\
+    \ to find a trade-off between the environmental and economic factors by selecting\
+    \ the right crops to be used for diversification.\n\n\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-11-22'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10706428
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10706427
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Farina-Roberta:
+    individualname: Farina, Roberta
+    role: creator
+    organization: ''
+    url: ''
+  Vanino-Silvia:
+    individualname: Vanino, Silvia
+    role: creator
+    organization: ''
+    url: ''
+  Di-Bene-Claudia:
+    individualname: Di Bene, Claudia
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

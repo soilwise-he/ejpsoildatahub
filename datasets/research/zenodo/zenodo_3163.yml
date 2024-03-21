@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gibert_2022
+  dataseturi: https://doi.org/10.1016/j.jenvman.2022.115965
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Removal of nitrate and pesticides from groundwater by nano zero-valent iron
+    injection pulses under biostimulation and bioaugmentation scenarios in continuous-flow
+    packed soil columns
+  abstract: '&lt;p&gt;This study evaluates the NO3&minus; removal from groundwater
+    through Heterotrophic Denitrification (HDN) (promoted by the addition of acetate
+    and/or an inoculum rich in denitrifiers) and Abiotic Chemical Nitrate Reduction
+    (ACNR) (promoted by pulse injection of zerovalent iron nanoparticles (nZVI)).
+    HDN and ACNR were applied, separately or combined, in packed soil column experiments
+    to complement the scarce research on pulse-injected nZVI in continuous-flow systems
+    mimicking a Well-based Denitrification Barrier. Together with NO3&minus;, the
+    removal of two common pesticides (dieldrin and lindane) was evaluated. Results
+    showed that total NO3&minus; removal (&gt;97%) could be achieved by either bioestimulation
+    with acetate (converting NO3&minus; to N2(g) via HDN) or by injecting nZVI (removing
+    NO3&minus; via ACNR). In the presence of nZVI, NO3&minus; was partially converted
+    to N2(g) and to a lower extent NO2&minus;, with unreacted NO3&minus; being likely
+    adsorbed onto Fe-(oxy)hydroxides. Combination of both HDN and ACNR resulted in
+    even a higher NO3&minus; removal (&gt;99%). Interestingly, nZVI did not seem to
+    pose any toxic effect on denitrifiers. These results showed that both processes
+    can be alterned or combined to take advantage of the benefits of each individual
+    process while overcoming their disadvantages if applied alone. With regard to
+    the target pesticides, the removal was high for dieldrin (&gt;93%) and moderate
+    for lindane (38%), and it was not due to biodegradation but to adsorption onto
+    soil. When nZVI was applied, the removal increased (generally &gt;91%) due to
+    chemical degradation by nZVI and/or adsorption onto formed Fe-(oxy)hydroxides.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Denitrification
+      - Abiotic chemical nitrate reduction
+      - Nano zero-valent iron
+      - Injection pulse
+      - Column experiments
+      - Pesticides
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Removal of nitrate and pesticides from groundwater by nano zero-valent iron
+      injection pulses under biostimulation and bioaugmentation scenarios in continuous-flow
+      packed soil columns
+    url: http://dx.doi.org/10.1016/j.jenvman.2022.115965
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gibert-Oriol:
+    individualname: Gibert, Oriol
+    role: creator
+  Sanchez-Damian:
+    individualname: "S\xE1nchez, Dami\xE1n"
+    role: creator
+  Cortina-Jose-Luis:
+    individualname: "Cortina, Jos\xE9 Luis"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

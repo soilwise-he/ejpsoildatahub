@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tseganeh_2022
+  dataseturi: https://doi.org/10.1155/2022/9186567
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Prediction of Subgrade Strength from Index Properties of Expansive Soil Stabilized
+    with Bagasse Ash and Calcined Termite Clay Powder Using Artificial Neural Network
+    and Regression
+  abstract: '&lt;p&gt;When moisture levels fluctuate, expansive soils lose a large
+    amount of volume. During the rainy and dry seasons, this type of soil expands
+    and contracts, respectively. As a result, such problematic soils should be avoided
+    or appropriately managed when encountered as subgrade materials. The strength
+    of the subgrade is measured in terms of its California Bearing Ratio (CBR) value
+    which is tiresome, uneconomical, and time-consuming to determine in the laboratory.
+    The present study investigated the effect of bagasse ash (BA) and calcined termite
+    clay powder (CTCP) on the strength, index, and microstructural properties of expansive
+    soil. Laboratory tests such as Atterberg&rsquo;s limits, particle size analysis,
+    moisture-density relationship, and CBR tests were performed on the highly expansive
+    soil and blended with 3%, 5%, 7%, 9%, and 11% bagasse ash (BA), and 5%, 10%, 15%,
+    20%, and 25% CTCP separately and in combination. In addition, the microstructural
+    properties of the raw, highly expansive soil and the soil stabilized with the
+    optimum BA-CTCP combination were analyzed using the Scanning Electron Microscopy
+    (SEM) machine. Soaked CBR prediction models were also developed using multiple
+    linear regression (MLR) and artificial neural networks (ANNs) from the BA fraction
+    (BAF), CTCP fraction (CTCPF), liquid limit (LL), plasticity index (PI), optimum
+    moisture content (OMC), and maximum dry density (MDD). The soil under study was
+    very weak, having a CBR value of 2.2% and a group index (GI) of 64.37 (reported
+    as 20), and highly expansive with a PI of 51.61% and LL of 104.32%. The addition
+    of both BA and CTCP separately and in combination resulted in the reduction of
+    PI and increased the strength of the soil under study. As compared with the individual
+    effect, the combined effect of BA and CTCP was quite significant. The free-swell
+    index test result determined the optimum BA and CTCP combination; a 72.5% reduction
+    was observed when blended with a combination of 9% BA and 20% CTCP. Thus, 9% BA
+    and 20% CTCP compositions could be the optimum percentage combination to stabilize
+    the highly expansive soil under study. The PI was decreased by 85.75%, and the
+    CBR became 5.5 times greater when it was stabilized with 11% BA + 25% CTCP. The
+    SEM micrographs showed that the morphology and fabric of the control specimen
+    (raw soil) were significantly changed when the soil was stabilized with the optimum
+    BA-CTCP combination (9% BA + 20% CTCP). The MLR prediction model was less efficient
+    and accurate than the ANN model.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Expansive soil
+      - Index properties
+      - Artificial Neural Network
+      - Regression
+      - Bagasse Ash
+      - Calcined Termite Clay Powder
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Prediction of Subgrade Strength from Index Properties of Expansive Soil
+      Stabilized with Bagasse Ash and Calcined Termite Clay Powder Using Artificial
+      Neural Network and Regression
+    url: http://dx.doi.org/10.1155/2022/9186567
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tseganeh-Asefachew-Belete:
+    individualname: Tseganeh, Asefachew Belete
+    role: creator
+  Quezon-Emer-Tucay:
+    individualname: Quezon, Emer Tucay
+    role: creator
+  Hindawi-Limited:
+    individualname: Hindawi Limited
+    role: creator
+content_info: {}

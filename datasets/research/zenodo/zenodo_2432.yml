@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10204354
+  dataseturi: https://doi.org/10.5281/zenodo.10204354
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Climatic and soil integrant that drive forest tree species diversity and
+    distribution across cross-river state, Nigeria
+  abstract: "Awareness of the ecological needs of forest tree species is a necessity\
+    \ for effective and tenable forest management, conservation and restoration. Our\
+    \ study used the modified Whittaker sampling method to assess the diversity and\
+    \ distribution of forest tree species at twenty-two forest sites across northern,\
+    \ central, and southern Cross River State, Nigeria, and to analyse climatic and\
+    \ soil integrant that drive the diversity and distribution of tree species in\
+    \ forests. Only tree species with dbh \u2265 30 cm were identified and recorded.\
+    \ Tree species occurrence points were also marked using Global Positioning System\
+    \ (GPS) software. Maximum Entropy (MaxEnt) species distribution model and principal\
+    \ component analysis (PCA) for each zone were used to study climate and soil integrant\
+    \ that drive forest tree species diversity and distribution, respectively. The\
+    \ results of the survey revealed a great diversity of tree species in the forests,\
+    \ as 398 species belonging to 64 families were recorded. The maxEnt model established\
+    \ six climatic integrants that drive forest tree species diversity and distribution\
+    \ across Cross River State. These are 'BIO 3 \u2013 isothermality', 'BIO 4 - temperature\
+    \ seasonality', 'BIO 7 - annual temperature range', 'BIO 12 - annual precipitation',\
+    \ 'BIO 16 - precipitation of wettest quarter', and BIO 17 - precipitation of driest\
+    \ quarter. PCA revealed that the soil in the northern zone had seven main integrants\
+    \ (iron, Available Phosphorus, manganese, exchangeable cations, silicon, Hydrogen\
+    \ ion and organic matter); ten in the central zone (zinc, organic matter, iron,\
+    \ Total Nitrogen, Sodium, boron, clay, soil pH, exchangeable acids and silicon);\
+    \ and nine in the southern zone (sand, silt, Organic Carbon, Manganese, Hydrogen\
+    \ ion, Calcium, cation exchangeable capacity, Potassium and clay) that drive species\
+    \ diversity and distribution. Our findings can be used as rudimentary details\
+    \ for managing forest and ecosystem preservation at all levels and, characteristically,\
+    \ for forest conservation across Cross River State, Nigeria.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-24'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10204354
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10204353
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ishoro-Akwaji-Patrick:
+    individualname: Ishoro Akwaji, Patrick
+    role: creator
+    organization: ''
+    url: ''
+  Nicholas-Oden-Glory:
+    individualname: Nicholas Oden, Glory
+    role: creator
+    organization: ''
+    url: ''
+  Owojoku-Onah-Dough:
+    individualname: Owojoku Onah, Dough
+    role: creator
+    organization: ''
+    url: ''
+  Ita-Okon-Ekeng:
+    individualname: Ita Okon, Ekeng
+    role: creator
+    organization: ''
+    url: ''
+  Bashie-Ajikah-Linus:
+    individualname: Bashie Ajikah, Linus
+    role: creator
+    organization: ''
+    url: ''
+  Awam-Mowang-Dominic:
+    individualname: Awam Mowang, Dominic
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

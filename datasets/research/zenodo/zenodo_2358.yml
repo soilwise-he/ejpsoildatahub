@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROBBINS_1920
+  dataseturi: https://doi.org/10.1097/00010694-192009000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF CERTAIN ENVIRONMENTAL CONDITIONS ON THE RATE OF DESTRUCTION
+    OF VANILLIN BY A SOIL BACTERIUM
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF CERTAIN ENVIRONMENTAL CONDITIONS ON THE RATE OF DESTRUCTION
+      OF VANILLIN BY A SOIL BACTERIUM
+    url: http://dx.doi.org/10.1097/00010694-192009000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robbins-William-J.:
+    individualname: Robbins, William J.
+    role: creator
+  Massey-A.-B.:
+    individualname: Massey, A. B.
+    role: creator
+  ROBBINS-WILLIAM-J.:
+    individualname: ROBBINS, WILLIAM J.
+    role: creator
+  MASSEY-A.-B.:
+    individualname: MASSEY, A. B.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

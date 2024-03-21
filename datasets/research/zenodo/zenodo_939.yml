@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465628
+  dataseturi: https://doi.org/10.5281/zenodo.3465628
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Soil-foundation modelling for vulnerability assessment of buildings in liquefied
+    soils
+  abstract: Recent events have demonstrated that earthquake-induced liquefaction can
+    result in significant structural damage and human casualties. The consideration
+    of soil liquefaction has primarily been the domain of geotechnical engineering;
+    however, recent studies have shown a strong interaction between liquefaction-development
+    and the superstructure loads. Not only does liquefaction lead to a change in the
+    shaking demands on the superstructure, it also changes the flexibility of the
+    soil-foundation-structure system. Meanwhile, the high static shear forces from
+    the foundation loads can result in a reduction or increase in pore pressure development.
+    This strong soil-liquefaction-foundation-structure interaction (SLFSI) is a challenge
+    for both geotechnical and structural engineers. This paper develops an efficient
+    numerical procedure for the vulnerability assessment of buildings with shallow
+    foundations to the combined impacts of seismic shaking and liquefaction. The approach
+    quantifies settlement and soil stiffness as time series to allow SLFSI to be considered
+    in structural modelling in a simplified manner. The time series are developed
+    through a combination of finite difference fully-coupled effective-stress modelling
+    in FLAC and through analytical and empirical expressions based on key parameters.
+    The framework is used to assess the vulnerability of a 3-storey reinforced concrete
+    frame building to liquefaction and ground shaking.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    available: '2020-06-17'
+    accepted: '2019-06-17'
+    issued: '2019'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465628
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465627
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Millen-Maxim:
+    individualname: Millen, Maxim
+    role: creator
+    organization: CONSTRUCT, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Quintero-Julieth:
+    individualname: Quintero, Julieth
+    role: creator
+    organization: CONSTRUCT-GEO, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Panico-Fabrizio:
+    individualname: Panico, Fabrizio
+    role: creator
+    organization: CONSTRUCT, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Pereira-N.:
+    individualname: Pereira, N.
+    role: creator
+    organization: CONSTRUCT, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Romao-Xavier:
+    individualname: "Rom\xE3o, Xavier"
+    role: creator
+    organization: CONSTRUCT, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Viana-da-Fonseca-Antonio:
+    individualname: "Viana da Fonseca, Ant\xF3nio"
+    role: creator
+    organization: CONSTRUCT-GEO, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: https://orcid.org/0000-0002-9896-1410
+content_info: {}

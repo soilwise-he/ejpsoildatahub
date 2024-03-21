@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5642669
+  dataseturi: https://doi.org/10.5281/zenodo.5642669
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Removal of fluoride from drinking water by adsorption on Zr-treated laterite
+    soil using response surface methodology
+  abstract: 'Department of Chemical Engineering, University of Calcutta, 92, Acharya
+    Prafulla Chandra Road, Kolkata-700 009, India E-mail : bmandal20@yahoo.co.in <em>Manuscript
+    received 15 November 2017, revised 09 March 2018, accepted 13 March 2018</em>
+    A study on the adsorption of fluoride was conducted using Zr-treated laterite
+    soil as adsorbent. X-Ray Diffraction analysis (XRD) and Fourier Transform Infrared
+    Spectroscopy (FTIR) were used to characterize the treated laterite soil as adsorbent.
+    Response surface methodology (RSM) was employed to investigate the effect of different
+    operating parameters namely, adsorbent dose, initial concentrations of fluoride
+    and contact time on the uptake of fluoride from aqueous solution. A two level
+    three factor (2<sup>3</sup> ) central composite design (CCD) was used for determining
+    the optimum experimental conditions and interactions of process variables. The
+    optimum adsorbent dose, initial concentrations of fluoride and contact time were
+    found to be 2.93 g/L, 40 mg/L and 88.5 min respectively. Fluoride removal was
+    96.32% at the optimum combination of process parameters. This adsorbent can hence
+    be suggested as an appropriate material for the removal of fluoride.'
+  keywords:
+    default:
+      keywords:
+        subject: process parameters
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-03-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5642669
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5642668
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Barnali-Mandal:
+    individualname: Barnali Mandal
+    role: creator
+  Sattar-Mallick:
+    individualname: Sattar Mallick
+    role: creator
+  Mandal-Barnali:
+    individualname: Mandal, Barnali
+    role: ''
+    organization: ''
+    url: ''
+  Mallick-Sattar:
+    individualname: Mallick, Sattar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

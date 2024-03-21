@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2545882
+  dataseturi: https://doi.org/10.5281/zenodo.2545882
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 2D versus 3D predictive soil mapping
+  abstract: 'The data here were originally posted to facilitate timely and transparent
+    peer review. The final public data release with formal metadata is now available
+    from at the following location: Nauman, T.W. and Duniway, M.C., 2019, Predictive
+    maps of 2D and 3D surface soil properties and associated uncertainty for the Upper
+    Colorado River Basin, USA: U.S. Geological Survey data release, https://doi.org/10.5066/P9YBAKC2.
+    Associated publication: Nauman, T. W., and Duniway, M. C., 2019, Relative prediction
+    intervals reveal larger uncertainty in 3D approaches to predictive digital soil
+    mapping of soil properties with legacy data: Geoderma, v. 347, p. 170-184. https://doi.org/10.1016/j.geoderma.2019.03.037
+    The raster layers in this dataset are the model predictions of various soil properties
+    being created as prototype maps for more quantitative natural resource management.
+    They are the model outputs for the paper currently accepted in the journal Geoderma
+    entitled: "Relative prediction intervals reveal larger uncertainty in 3D approaches
+    to predictive digital soil mapping of soil properties with legacy data". Data
+    are provided in a beta version for review purposes only. These data are preliminary
+    or provisional and are subject to revision. They are being provided to meet the
+    need for timely best science. The data have not received final approval by the
+    U.S. Geological Survey (USGS) and are provided on the condition that neither the
+    USGS nor the U.S. Government shall be held liable for any damages resulting from
+    the authorized or unauthorized use of the data. The final US Geological Survey
+    data release is available online: Nauman, T.W. and Duniway, M.C., 2019, Predictive
+    maps of 2D and 3D surface soil properties and associated uncertainty for the Upper
+    Colorado River Basin, USA: U.S. Geological Survey data release, https://doi.org/10.5066/P9YBAKC2.
+    The files are named in groups of 2-4 with the .tif file being the base raster
+    grid and the other fields being supporting files used by various GIS software.
+    The naming convention starts with the soil property abbreviation as follows and
+    association with 2D or 3D approaches as follows: SOC_00cm_logK = 2D % wt soil
+    organic carbon oc_0_cm = 3D % wt soil organic carbon sand_f_vf_psa_00cm = 2D %
+    fine + very fine sands sand_f_vf_psa_0_cm = 3D % fine + very fine sands ph_h2o_0_cm
+    = 3D 1:1 soil pH in water ph_h2o_2D_00cm = 2D 1:1 soil pH in water EC_2D_00cm
+    = 2D 1:2 water soil electrical conductivity ec_12pre_0_cm = 3D 1:2 water soil
+    electrical conductivity The next abbreviation is QRF indicating that the model
+    was a quantile regression forest. The end of the filename can have several different
+    formats: _QRF: This is the soil property prediction raster. _QRF_95PI_h: This
+    is the upper 95% Prediction Interval raster. _QRF_95PI_l: This is the lower 95%
+    Prediction Interval raster. QRF_95PI_relwidth: This is the 95% relative prediction
+    interval raster that normalizes the width of the prediction interval to the original
+    observation set used to train the QRF model. _bt after any of the file names simply
+    means that the layer was back-transformed from a layer in transformed units (e.g.
+    log).'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-11'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2545882
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1458272
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Travis-Nauman:
+    individualname: Travis Nauman
+    role: creator
+  Nauman-Travis:
+    individualname: Nauman, Travis
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0001-8004-0608
+content_info: {}

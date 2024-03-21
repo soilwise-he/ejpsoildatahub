@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3953326
+  dataseturi: https://doi.org/10.5281/zenodo.3953326
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: INVESTIGATION OF AMMONIUM THIOSULFATE, SODIUM THIOSULFATE AND 1,2,4-TRIAZOLE
+    (UREASE INHIBITORS) ON THE ACTIVITY OF UREASE IN WHEAT SOIL OF FAISALABAD, SHEIKHUPURA
+    AND GUJRANWALA REGION
+  abstract: "This paper describes the inhibition effect of different urease inhibitors\
+    \ i.e. Ammonium Thiosulfate, Sodium Thiosulfate and 1,2,4-Triazole on the activity\
+    \ of urease enzyme in wheat soil of 3 different districts of Punjab, Pakistan.\
+    \ Urease is a nickel dependent metalloenzyme that is involved in the hydrolysis\
+    \ of urea, forming Carbon dioxide and ammonia. Urea hydrolysis leads to the excessive\
+    \ nitrogen loss in the form of ammonia volatilization. Main purpose of the study\
+    \ was to check the potential of different blended inhibitors (Ammonium Thiosulfate\
+    \ + Sodium Thiosulfate + 1,2,4-Triazole) on the activity of urease and to overcome\
+    \ the loss of nitrogen. For this purpose, soil samples were collected from three\
+    \ different districts of Punjab i.e. Faisalabad, Sheikhupura and Gujranwala. The\
+    \ whole work was divided into two phases. During phase \u2160, the effect of different\
+    \ inhibitors on the activity of urease was determined. Kinetic behavior of urease\
+    \ enzyme in the presence and absence of urease inhibitors was evaluated in phase\
+    \ \u2161. The data acquired was statistically analyzed by using two-way ANOVA.\
+    \ Kinetic study of urease enzyme was carried out to evaluate the effect of temperature,\
+    \ pH, incubation time and substrate concentration on the activity of enzyme."
+  keywords:
+    default:
+      keywords:
+        subject: Ammonium Thiosulfate Sodium Thiosulfate 1 2 4-Triazole Urease inhibitors
+          Urease Faisalabad Sheikhupura Gujranwala
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-06-16'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3953326
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3953325
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahnoor-Qayyum-Khan--Khalil-Ur-Rahman--Irha-Basit--Safoora-Shabbir:
+    individualname: Mahnoor Qayyum Khan , Khalil-Ur-Rahman , Irha Basit , Safoora
+      Shabbir
+    role: creator
+  Ayesha-Aziz--Rabia-Azam--Hoda-Zahoor--Marium-Hayat--Saba-Maruiam-and-Usman-Ghani:
+    individualname: Ayesha Aziz , Rabia Azam , Hoda Zahoor , Marium Hayat , Saba Maruiam
+      and Usman Ghani
+    role: creator
+  Mahnoor-Qayyum-Khan-Khalil-Ur-Rahman:
+    individualname: Mahnoor Qayyum Khan, Khalil-Ur-Rahman
+    role: ''
+    organization: Department of Biochemistry, University of Agriculture, Faisalabad,
+      Pakistan.
+    url: ''
+  Ayesha-Aziz-Rabia-Azam:
+    individualname: Ayesha Aziz, Rabia Azam
+    role: ''
+    organization: Department of Biochemistry, Government College University, Faisalabad,
+      Pakistan.
+    url: ''
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8045977
+  dataseturi: https://doi.org/10.5281/zenodo.8045977
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil micronutrients and their functions
+  abstract: Most of the nutrients required for plant growth come from the soil. But
+    to some extent, this nutrient requirement of crops can be meet by chemical fertilizers,
+    green manures, manures, compost, crop rotation, inclusion of leguminous crops
+    etc. It is necessary to have scientific information about the quantity, form,
+    availability of major nutrients in the soil and also the method, quantity, etc.
+    of chemical fertilizers. A total of 17 different nutrients are required for proper
+    growth of crops. An element is essential if a plant cannot complete its life cycle
+    without it, if no other element can perform the same function, and if it is directly
+    involved in nutrition. An essential nutrient required by the plant in large amounts
+    is called a macronutrient, while one required in very small amounts is termed
+    a micronutrient. Missing or inadequate supplies of nutrients adversely affect
+    plant growth, leading to stunted growth, slow growth, chlorosis, or cell death.
+    About half the essential nutrients are micronutrients such as boron, chlorine,
+    manganese, iron, zinc, copper, molybdenum, nickel, silicon, and sodium. These
+    nutrients are secondary nutrients and called as micronutrients. The present research
+    topic gathers several studies that focus on the beneficial role of micronutrients
+    in plant nutrition, while aiming at the same time to set the borderlines between
+    excessive use and deficiencies in plant development.
+  keywords:
+    default:
+      keywords:
+        subject: Micronutrients, Roles, Deficiencies and Management.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8045977
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8045976
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dighe-P.K:
+    individualname: Dighe P.K
+    role: creator
+    organization: College of Agriculture, Loni.,
+    url: ''
+  Ghadge-A.G:
+    individualname: Ghadge A.G
+    role: creator
+    organization: College of Agriculture, Loni.,
+    url: ''
+  Pulate-S.L:
+    individualname: Pulate S.L
+    role: creator
+    organization: College of Agriculture, Loni.,
+    url: ''
+  Deokar-V.T:
+    individualname: Deokar V.T
+    role: creator
+    organization: College of Agriculture, Loni.,
+    url: ''
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Osman_2018
+  dataseturi: https://doi.org/10.1099/ijsem.0.002455
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Pontibacter brevis sp. nov., isolated from rhizosphere soil of Tamarix ramosissima
+  abstract: 'Osman, Ghenijan, Gao, Yan, Wang, Ning, Mahmud, Otkur, Sun, Jian, Zhang,
+    Tao, Zhan, Faqiang, Zhang, Zhidong, Lou, Kai (2018): Pontibacter brevis sp. nov.,
+    isolated from rhizosphere soil of Tamarix ramosissima. International Journal of
+    Systematic and Evolutionary Microbiology 68 (1): 81-86, DOI: 10.1099/ijsem.0.002455,
+    URL: http://dx.doi.org/10.1099/ijsem.0.002455'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Bacteroidetes
+      - Cytophagia
+      - Cytophagales
+      - Cytophagaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Pontibacter brevis sp. nov., isolated from rhizosphere soil of Tamarix ramosissima
+    url: http://dx.doi.org/10.1099/ijsem.0.002455
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Osman-Ghenijan:
+    individualname: Osman, Ghenijan
+    role: creator
+  Gao-Yan:
+    individualname: Gao, Yan
+    role: creator
+  Wang-Ning:
+    individualname: Wang, Ning
+    role: creator
+  Mahmud-Otkur:
+    individualname: Mahmud, Otkur
+    role: creator
+  Sun-Jian:
+    individualname: Sun, Jian
+    role: creator
+  Zhang-Tao:
+    individualname: Zhang, Tao
+    role: creator
+  Zhan-Faqiang:
+    individualname: Zhan, Faqiang
+    role: creator
+  Zhang-Zhidong:
+    individualname: Zhang, Zhidong
+    role: creator
+  Lou-Kai:
+    individualname: Lou, Kai
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

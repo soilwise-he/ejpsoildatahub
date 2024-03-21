@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Anastasopoulos_2009
+  dataseturi: https://doi.org/10.1007/s10518-009-9145-2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil failure can be used for seismic protection of structures
+  abstract: "A new seismic design philosophy is illuminated, taking advantage of soil\
+    \ \u201Cfailure\u201D to protect the superstructure. Instead of over-designing\
+    \ the foundation to ensure that the loading stemming from the structural inertia\
+    \ can be \u201Csafely\u201D transmitted onto the soil (as with conventional capacity\
+    \ design), and then reinforce the superstructure to avoid collapse, why not do\
+    \ exactly the opposite by intentionally under-designing the foundation to act\
+    \ as a \u201Csafety valve\u201D ? The need for this \u201Creversal\u201D stems\
+    \ from the uncertainty in predicting the actual earthquake motion, and the necessity\
+    \ of developing new more rational and economically efficient earthquake protection\
+    \ solutions. A simple but realistic bridge structure is used as an example to\
+    \ illustrate the effectiveness of the new approach. Two alternatives are compared\
+    \ : one complying with conventional capacity design, with over-designed foundation\
+    \ so that plastic \u201Chinging\u201D develops in the superstructure ; the other\
+    \ following the new design philosophy, with under-designed foundation, \u201C\
+    inviting\u201D the plastic \u201Chinge\u201D into the soil. Static \u201Cpushover\u201D\
+    \ analyses reveal that the ductility capacity of the new design concept is an\
+    \ order of magnitude larger than of the conventional design : the advantage of\
+    \ \u201Cutilising\u201D progressive soil failure. The seismic performance of the\
+    \ two alternatives is investigated through nonlinear dynamic time history analyses,\
+    \ using an ensemble of 29 real accelerograms. It is shown that the performance\
+    \ of both alternatives is totally acceptable for moderate intensity earthquakes,\
+    \ not exceeding the design limits. For large intensity earthquakes, exceeding\
+    \ the design limits, the performance of the new design scheme is proven advantageous,\
+    \ not only avoiding collapse but hardly suffering any inelastic structural deformation.\
+    \ It may however experience increased residual settlement and rotation : a price\
+    \ to pay that must be properly assessed in design."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil failure can be used for seismic protection of structures
+    url: http://dx.doi.org/10.1007/s10518-009-9145-2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anastasopoulos-Ioannis:
+    individualname: Anastasopoulos, Ioannis
+    role: creator
+  Gazetas-George:
+    individualname: Gazetas, George
+    role: creator
+  Loli-Marianna:
+    individualname: Loli, Marianna
+    role: creator
+  Apostolou-Marios:
+    individualname: Apostolou, Marios
+    role: creator
+  Gerolymos-Nikolaos:
+    individualname: Gerolymos, Nikolaos
+    role: creator
+  Anastasopoulos-I.:
+    individualname: Anastasopoulos, I.
+    role: creator
+  Gazetas-G.:
+    individualname: Gazetas, G.
+    role: creator
+  Loli-M.:
+    individualname: Loli, M.
+    role: creator
+  Apostolou-M.:
+    individualname: Apostolou, M.
+    role: creator
+  Gerolymos-N.:
+    individualname: Gerolymos, N.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

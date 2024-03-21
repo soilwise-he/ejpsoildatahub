@@ -1,0 +1,134 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bosch_2011
+  dataseturi: https://doi.org/10.1016/j.jglr.2011.03.004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Application of the Soil and Water Assessment Tool for six watersheds of
+    Lake Erie: Model parameterization and calibration'
+  abstract:
+  - '&lt;p&gt;&lt;strong&gt;ABSTRACT&lt;/strong&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;The Soil and Water Assessment Tool (SWAT), a physically-based watershed-scale
+    model, holds promise as a&lt;br&gt;
+
+    means to predict tributary sediment and nutrient loads to the Laurentian Great
+    Lakes. In the present study,&lt;br&gt;
+
+    model performance is compared across six watersheds draining into Lake Erie to
+    determine the applicability&lt;br&gt;
+
+    of SWAT to watersheds of differing characteristics. After initial model parameterization,
+    the Huron, Raisin,&lt;br&gt;
+
+    Maumee, Sandusky, Cuyahoga, and Grand SWAT models were calibrated (1998&ndash;2001)
+    and confirmed, or&lt;br&gt;
+
+    validated (2002&ndash;2005), individually for stream water discharge, sediment
+    loads, and nutrient loads (total P,&lt;br&gt;
+
+    soluble reactive P, total N, and nitrate) based on available datasets. SWAT effectively
+    predicted hydrology and&lt;br&gt;
+
+    sediments across a range of watershed characteristics. SWAT estimation of nutrient
+    loads was weaker&lt;br&gt;
+
+    although still satisfactory at least two-thirds of the time across all nutrient
+    parameters and watersheds. SWAT&lt;br&gt;
+
+    model performance was most satisfactory in agricultural and forested watersheds,
+    and was less so in&lt;br&gt;
+
+    urbanized settings. Model performance was influenced by the availability of observational
+    data with high&lt;br&gt;
+
+    sampling frequency and long duration for calibration and confirmation evaluation.
+    In some instances, it&lt;br&gt;
+
+    appeared that parameter adjustments that improved calibration of hydrology negatively
+    affected subsequent&lt;br&gt;
+
+    sediment and nutrient calibration, suggesting trade-offs in calibrating for hydrologic
+    vs. water quality model&lt;br&gt;
+
+    performance. Despite these considerations, SWAT accurately predicted average stream
+    discharge, sediment&lt;br&gt;
+
+    loads, and nutrient loads for the Raisin, Maumee, Sandusky, and Grand watersheds
+    such that future use of&lt;br&gt;
+
+    these SWAT models for various scenario testing is reasonable and warranted.&lt;/p&gt;'
+  - 'We are grateful to the following people for their insight related to this work:
+    Steve Davis, Tim Hunter, Les Ober, Jim Selegean, Michael Winchell, and Tom VanWagner.
+    Comments by reviewers on an earlier draft substantially improved the manuscript.
+    This is publication 10-003 of the EcoFore Lake Erie project, funded by the NOAA
+    Center for Sponsored Coastal Ocean Research under award NA07OAR4320006. This work
+    was performed under the authority of Section 516(e) of the Water Resources Development
+    Act of 1996 through additional funding by the United States Army Corps of Engineers.'
+  keywords:
+    default:
+      keywords:
+      - SWAT
+      - great lakes
+      - nutrients
+      - sediments
+      - catchment
+      - model confirmation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Application of the Soil and Water Assessment Tool for six watersheds of
+      Lake Erie: Model parameterization and calibration'
+    url: http://dx.doi.org/10.1016/j.jglr.2011.03.004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nathan-S.-Bosch:
+    individualname: Nathan S. Bosch
+    role: creator
+  J.-David-Allan:
+    individualname: J. David Allan
+    role: creator
+  David-M.-Dolan:
+    individualname: David M. Dolan
+    role: creator
+  Haejin-Han:
+    individualname: Haejin Han
+    role: creator
+  R.-Peter-Richards:
+    individualname: R. Peter Richards
+    role: creator
+  Bosch-Nathan-S.:
+    individualname: Bosch, Nathan S.
+    role: creator
+  Allan-J.-David:
+    individualname: Allan, J. David
+    role: creator
+  Dolan-David-M.:
+    individualname: Dolan, David M.
+    role: creator
+  Han-Haejin:
+    individualname: Han, Haejin
+    role: creator
+  Richards-R.-Peter:
+    individualname: Richards, R. Peter
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

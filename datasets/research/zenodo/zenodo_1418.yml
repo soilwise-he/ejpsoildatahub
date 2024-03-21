@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5533074
+  dataseturi: https://doi.org/10.5281/zenodo.5533074
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of different doses of deltamethrine on soil microbial density and
+    crop growth
+  abstract: The effects of agrochemicals pollution on soil nutrients, soil microbes
+    as well as plants cultivated on the soil were studied. Insecticide and herbicide
+    were used to impact on the soil samples across concentration gradients. Bean and
+    maize seeds were planted in separate experiments to monitor the effects of the
+    agrochemicals on the plants. The microbial diversity and the physicochemical characteristics
+    of the soil before and after pollution were determined using standard methods.
+    Chlorophyll contents of the leaves were also determined after planting. Results
+    indicated that bacterial isolates such as <em>Enterococcus sp</em> 54(40%), <em>Staphylococcus</em>
+    sp 8(13%), <em>Bacillus sp</em> 46(34%) and <em>Micrococcus sp</em> 15(11%) and
+    fungal isolates such as <em>Penicillium sp</em> 41(34%), <em>Saccharomyces sp</em>
+    67(56%), Yeast sp 4(3%), <em>Geotrichum sp</em> 6 (5%) and <em>Aspergillus sp</em>
+    1(1.8%) were recovered from treated and untreated soil with the percentages representing
+    after planting. From the results, the herbicide treated soils indicated that the
+    Total Heterotrophic Bacterial Count (THBC) increased after cultivation while the
+    Total Heterotrophic Fungal Count (THFC) decreased after cultivation. On the other
+    hand, the insecticides treated soils recorded a general decrease in THFC and THBC
+    after cultivation. The total nitrogen (TN) and available phosphorus (AP) had no
+    significant differences before and after planting while the exchangeable potassium
+    (EP) had significant increase recorded after planting. Plants generally had poor
+    growth characteristics recorded by stem girth and length, as well as chlorophyll
+    content.
+  keywords:
+    default:
+      keywords:
+        subject: Agrochemicals; Microbial density; Crop yield; Deltamethrine
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-09-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5533074
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5533073
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Akien-Alli-IJ:
+    individualname: Akien-Alli IJ
+    role: creator
+    organization: Science Laboratory Technology, School of Applied Sciences, Kenule
+      Saro-Wiwa Polytechnic, Bori, Rivers State, Nigeria.
+    url: ''
+  Dokubo-KO:
+    individualname: Dokubo, KO
+    role: creator
+    organization: Department of Microbiology, Federal University of Technology, Owerri,
+      Imo State, Nigeria.
+    url: ''
+  Otali-CC:
+    individualname: Otali CC
+    role: creator
+    organization: Department of Microbiology, Federal University of Technology, Owerri,
+      Imo State, Nigeria.
+    url: ''
+  Braide-W:
+    individualname: Braide W
+    role: creator
+    organization: Department of Microbiology, Federal University of Technology, Owerri,
+      Imo State, Nigeria.
+    url: ''
+content_info: {}

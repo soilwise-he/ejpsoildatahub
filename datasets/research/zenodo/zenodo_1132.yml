@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7064320
+  dataseturi: https://doi.org/10.5281/zenodo.7064320
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: An improved subgrid channel model with distributed soil moisture tracking
+    routine
+  abstract: This repository contains the code of the improved sub-grid channel model,
+    and all the test parameter files used in the paper. Also the Green-Ampt infiltration
+    model is included to track the soil moisture dynamics.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-09'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7064320
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7064319
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Youtong-Rong:
+    individualname: Youtong Rong
+    role: creator
+    organization: ''
+    url: ''
+  Paul-Bates:
+    individualname: Paul Bates
+    role: creator
+  Jeffrey-Neal:
+    individualname: Jeffrey Neal
+    role: creator
+  Bates-Paul:
+    individualname: Bates, Paul
+    role: ''
+    organization: ''
+    url: ''
+  Neal-Jeffrey:
+    individualname: Neal, Jeffrey
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

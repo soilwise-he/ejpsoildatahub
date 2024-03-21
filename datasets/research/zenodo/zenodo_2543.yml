@@ -1,0 +1,153 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6072392
+  dataseturi: https://doi.org/10.5281/zenodo.6072392
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Monitoring The Content of Heavy Metals in The Soil and Wines from Different
+    Wine-Growing Areas of Romania
+  abstract: "Determination of heavy metals in soil and wine is very important for\
+    \ wine quality and consumer health, but at the same time it is a complementary\
+    \ tool for differentiating wines according to their geographical origin. In this\
+    \ work, soils and ten brands of wines originated from four major wine-growing\
+    \ areas of Romania (Ia\u015Fi, Babadag, \u015Etef\u0103ne\u015Fti and Blaj) were\
+    \ considered for performing a multielement (Cr, Ni, Cu, As, Pb, Hg, V, Sr, Mn,\
+    \ Zn, Fe) investigation in order to assess regional specificity. Heavy metals\
+    \ found in the investigated wines were below the limits imposed by European standards\
+    \ (O.I.V.) the elements concentrations following the trend: Zn&gt;Fe&gt;Mn&gt;Sr&gt;Ni&gt;Cr&gt;Cu&gt;Pb&gt;V&gt;Hg&gt;As.\
+    \ For the soils analyzed, the heavy metals content was found to be below the maximum\
+    \ permitted limit, except for Cu (135.45 mg/kg) from the Ia\u015Fi vineyard, which\
+    \ was at the permitted limit. The high values obtained for copper may be the result\
+    \ of different treatments with the Bordelaise solution for the vine. The elements\
+    \ CA, Mn and Hg observed from the research that they are predominantly of natural\
+    \ origin. Based on our results, a distinction has been made between wines according\
+    \ to their geographical origin, considering that the specific elements of discrimination\
+    \ Sr, Pb, and Ni for the Stef\u0103nesti vineyard (Muntenia region), Cr and Hg\
+    \ for the Babadag vineyard (Dobrogea region), Sr and V for the Ia\u015Fi vineyard\
+    \ (region of Moldova), respectively Fe and Zn for the Blaj vineyard (Transilvania\
+    \ region)."
+  keywords:
+    default:
+      keywords:
+        subject: Wine, soil, heavy metals, ICP-MS, HR-CS-AAS, wine-growing area
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2022-02-14'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6072392
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6072391
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Petronela-Anca-Onache:
+    individualname: Petronela Anca Onache
+    role: creator
+  Roxana-Elena-Ionete:
+    individualname: Roxana Elena Ionete
+    role: creator
+  Andreea-Maria-Iordache:
+    individualname: Andreea Maria Iordache
+    role: creator
+  Alina-Florea:
+    individualname: Alina Florea
+    role: creator
+  Dorin-Ioan-Sumedrea:
+    individualname: Dorin Ioan Sumedrea
+    role: creator
+  Marina-Iliescu:
+    individualname: Marina Iliescu
+    role: creator
+  Doina-Damian:
+    individualname: Doina Damian
+    role: creator
+  Razvan-Filimon:
+    individualname: "R\u0103zvan Filimon"
+    role: creator
+    organization: "Research Station and Development for Viticulture and Vinification\
+      \ Ia\u015Fi, Romania, Str Mihail Sadoveanu no. 48, 700489"
+    url: ''
+  Ovidiu-TITA:
+    individualname: "Ovidiu TI\u0162A"
+    role: creator
+  Andrei-Tanase:
+    individualname: Andrei Tanase
+    role: creator
+  Onache-Petronela-Anca:
+    individualname: Onache, Petronela Anca
+    role: ''
+    organization: "National Research and Development Institute for Biotechnology in\
+      \ Horticulture Stefanesti - Arges, Romania, Street Bucuresti-Pitesti no 37,\
+      \ 117715/ Lucian Blaga\" Sibiu University, Romania, Str. Ion Ra\u0163iu, No.5-7,\
+      \ 550012"
+    url: ''
+  Ionete-Roxana-Elena:
+    individualname: Ionete, Roxana Elena
+    role: ''
+    organization: "National Research and Development Institute for Cryogenics and\
+      \ Isotopic Technologies \u2013 ICSI Rm. Valcea, R\xE2mnicu V\xE2lcea, Romania,\
+      \ Street Uzinei no 4, 240050"
+    url: ''
+  Iordache-Andreea-Maria:
+    individualname: Iordache, Andreea Maria
+    role: ''
+    organization: Research and Development Station for Viticulture and Vinification
+      Blaj, Romania, Str Gh.Baritiu, No2, 515400, Alba County
+    url: ''
+  Florea-Alina:
+    individualname: Florea, Alina
+    role: ''
+    organization: National Research and Development Institute for Biotechnology in
+      Horticulture Stefanesti - Arges, Romania, Street Bucuresti-Pitesti no 37, 117715
+    url: ''
+  Sumedrea-Dorin-Ioan:
+    individualname: Sumedrea, Dorin Ioan
+    role: ''
+    organization: National Research and Development Institute for Biotechnology in
+      Horticulture Stefanesti - Arges, Romania, Street Bucuresti-Pitesti no 37, 117715
+    url: ''
+  Iliescu-Marina:
+    individualname: Iliescu, Marina
+    role: ''
+    organization: Research and Development Station for Viticulture and Vinification
+      Blaj, Romania, Str Gh.Baritiu, No2, 515400, Alba County
+    url: ''
+  Damian-Doina:
+    individualname: Damian, Doina
+    role: ''
+    organization: "Research Station and Development for Viticulture and Vinification\
+      \ Ia\u015Fi, Romania, Str Mihail Sadoveanu no. 48, 700489"
+    url: ''
+  TITA-Ovidiu:
+    individualname: "TI\u0162A, Ovidiu"
+    role: ''
+    organization: "Lucian Blaga\" Sibiu University, Romania, Str. Ion Ra\u0163iu,\
+      \ No.5-7, 550012"
+    url: ''
+  Tanase-Andrei:
+    individualname: Tanase, Andrei
+    role: ''
+    organization: National Research and Development Institute for Biotechnology in
+      Horticulture Stefanesti - Arges, Romania, Street Bucuresti-Pitesti no 37, 117715
+    url: ''
+content_info: {}

@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: JOHNSTONE_1892
+  dataseturi: https://doi.org/10.1038/046517a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Passage of Granite Rock into Fertile Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Passage of Granite Rock into Fertile Soil
+    url: http://dx.doi.org/10.1038/046517a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Johnstone-Alexander:
+    individualname: Johnstone, Alexander
+    role: creator
+  JOHNSTONE-ALEXANDER:
+    individualname: JOHNSTONE, ALEXANDER
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

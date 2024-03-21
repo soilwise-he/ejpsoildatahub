@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2597941
+  dataseturi: https://doi.org/10.5281/zenodo.2597941
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: ISOLATION AND IDENTIFICATION OF SOME RHIZOBIAL BACTERIA FROM FABA BEAN PLANTS
+    UNDER EGYPTIAN SOIL CONDITIONS.
+  abstract: Legumes are the most important source of human food and forage. Legumes
+    are able to provide the benefits of nitrogen fixation thanks to a strain of soil
+    bacteria. Faba bean is the most important food legume. Moreover, it plays an important
+    role in sustaining the productivity of the farming system through fixation of
+    atmospheric nitrogen. Sixteen rhizobial isolates were collected from the root
+    nodules in various locations under different soil conditions. Data indicated that
+    most of the obtained isolates were superior compared to reference strains used.
+    All rhizobial isolates tested were fast growing on YEMA medium, non-capsulated,
+    short rods, Gram negative and motile. Cell size ranged from 1 to 4 mm. According
+    to various NaCl Concentrations (from 0.0 to 6.5%), most of the tested isolates
+    have a positive growth up to 4.5%, but both isolates K-ISORH7 and K-ISORH15 gave
+    good growth at 6.0% NaCl Concentration. The most potent isolates were K-ISORH7
+    and K-ISORH15 which recorded highest number of nodules (172, 188) for faba bean
+    variety V1 and (122,125) for V2, nodules dry weight (597, 607) mg per plant for
+    V1 and (395 ,607) mg per plant with V2 ,in the same order as compares to all tested
+    isolates and strains. It took the same trend for the rest of parameters. Genetically,
+    according to 16S rRNA sequence, isolates were identified as Rhizobium sp. By 100%
+    similarity with HR7(KM276562) and strain SEMIA 439 (MH236581) for K-ISORH7 and
+    K-ISORH15 respectively with accession numbers LC431741 and LC431742 in the same
+    order.
+  keywords:
+    default:
+      keywords:
+        subject: Behaviour determinant factor health seeking.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-02-05'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2597941
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2597940
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zeinat-M.-Kamel:
+    individualname: Zeinat M. Kamel
+    role: creator
+    organization: ''
+    url: ''
+  Mahmoud-M.-Nassef:
+    individualname: Mahmoud M. Nassef
+    role: creator
+  Kholod-I.-Khalifa.:
+    individualname: Kholod I. Khalifa.
+    role: creator
+    organization: ''
+    url: ''
+  Nassef-Mahmoud-M.:
+    individualname: Nassef, Mahmoud M.
+    role: ''
+    organization: Microbiolody department, Soil, Water and Environment Research Institute,
+      Agricultural Research Center, Giza, Egypt.
+    url: ''
+content_info: {}

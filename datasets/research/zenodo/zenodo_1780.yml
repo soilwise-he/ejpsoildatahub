@@ -1,0 +1,41 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kelley_1914
+  dataseturi: https://doi.org/10.1021/ja02179a025
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE ORGANIC NITROGEN OF HAWAIIAN SOILS. II. THE EFFECTS OF HEAT ON SOIL NITROGEN.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE ORGANIC NITROGEN OF HAWAIIAN SOILS. II. THE EFFECTS OF HEAT ON SOIL
+      NITROGEN.
+    url: http://dx.doi.org/10.1021/ja02179a025
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kelley-W.-P.:
+    individualname: Kelley, W. P.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

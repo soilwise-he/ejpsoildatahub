@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4334128
+  dataseturi: https://doi.org/10.5281/zenodo.4334128
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "GIS Mapping of Large Soil Groups, Current Land Use, Soil Depths and Slopes,\
+    \ Erosian in K\u0131r\u015Fehir Province of Turkey"
+  abstract: "Abstract This study was conducted within the scope of the spatial evaluation\
+    \ of the current land uses, large soil groups, soil depth and slope distributions\
+    \ and soil erosion data in K\u0131r\u015Fehir province of Turkey. In the study,\
+    \ digital soil maps produced by the Abolished General Directorate of Rural Services\
+    \ in Turkey were used. Geographical Information Systems (GIS) (Arc GIS 10.3.1)\
+    \ software was used for the spatial evaluation of soil data in the study. According\
+    \ to the spatial analysis results; Dry marginal agricultural areas with 2857.7\
+    \ km2 constitute a large part of the current land use of K\u0131r\u015Fehir Province.\
+    \ This area covers 44% of the total. When the large soil groups of K\u0131r\u015F\
+    ehir province are examined, brown soils constitute a large part of the region.\
+    \ It has been determined that brown soils correspond to 2710.4 km2 area and 41%\
+    \ of the existing area. The soil depth structure has been observed to be generally\
+    \ medium depth soils. Medium deep soils have an area of 2052.1 km2 and constitute\
+    \ 31% of the total area. As for the soil slope class, it was seen that a large\
+    \ part of the region was between the 2nd degree slope group (7-12%) and the 3rd\
+    \ degree slope group (13-20%). When the soil erosion degree was examined, it was\
+    \ seen that a large part of the region had 2nd degree erosion. Soils with 2nd\
+    \ degree erosion group constitute an area of 2294.3 km2 (35%). Sharing the digital\
+    \ land use data obtained in the study will provide significant contributions to\
+    \ the investor organizations that will invest in the region and contribute to\
+    \ agricultural production."
+  keywords:
+    default:
+      keywords:
+        subject: "Current Land Use, Large Soil Groups, Slope, Soil Depth, Spatial\
+          \ Analysis, GIS Mapping, K\u0131rsehir Province, Turkey"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-05'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4334128
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4334127
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Cuneyt-BAGDATLI:
+    individualname: "M. C\xFCneyt BA\u011EDATLI"
+    role: creator
+  Oguzhan-ARSLAN:
+    individualname: "O\u011Fuzhan ARSLAN"
+    role: creator
+  BAGDATLI-M.-Cuneyt:
+    individualname: "BA\u011EDATLI, M. C\xFCneyt"
+    role: ''
+    organization: Assoc. Prof. Dr.
+    url: https://orcid.org/0000-0003-0276-4437
+  ARSLAN-Oguzhan:
+    individualname: "ARSLAN, O\u011Fuzhan"
+    role: ''
+    organization: MSc Student
+    url: https://orcid.org/0000-0001-8885-8279
+content_info: {}

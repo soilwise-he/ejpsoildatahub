@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3593104
+  dataseturi: https://doi.org/10.5281/zenodo.3593104
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Soil Contamination on the Content of Macro and Microelements
+    and the Quality of Grass Pea Seeds (Lathyrus sativus L.)
+  abstract: 'Comparative research has been conducted to allow us to determine the
+    content of macro and microelements in the vegetative and reproductive organs of
+    grass pea and the quality of grass pea seeds, as well as to identify the possibility
+    of grass pea growth on soils contaminated by heavy metals. The experiment was
+    conducted on an agricultural field subjected to contamination from the Non-Ferrous-Metal
+    Works (MFMW) near Plovdiv, Bulgaria. The experimental plots were situated at different
+    distances of 0.5 km and 8 km, respectively, from the source of pollution. On reaching
+    commercial ripeness the grass pea plants were gathered. The composition of the
+    macro and microelements in plant materials (roots, stems, leaves, seeds), and
+    the dry matter content, sugars, proteins, fats and ash contained in the grass
+    pea seeds were determined. Translocation factors (TF) and bioaccumulation factor
+    (BCF) were also determined. The quantitative measurements were carried out through
+    inductively-coupled plasma (ICP). The grass pea plant can successfully be grown
+    on soils contaminated by heavy metals. Soil pollution with heavy metals does not
+    affect the quality of the grass pea seeds. The seeds of the grass pea contain
+    significant amounts of nutrients (K, P, Cu, Fe Mn, Zn) and protein (23.18-29.54%).
+    The distribution of heavy metals in the organs of the grass pea has a selective
+    character, which reduces in the following order: leaves &gt; roots &gt; stems
+    &gt; seeds. BCF and TF values were greater than one suggesting efficient accumulation
+    in the above ground parts of grass pea plant. Grass pea is a plant that is tolerant
+    to heavy metals and can be referred to the accumulator plants. The results provide
+    valuable information about the chemical and nutritional composition of the seeds
+    of the grass pea grown on contaminated soils in Bulgaria. The high content of
+    macro and microelements and the low concentrations of toxic elements in the grass
+    pea grown in contaminated soil make it possible to use the seeds of the grass
+    pea as animal feed.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-10-03'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3593104
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3593103
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Violina-R.-Angelova:
+    individualname: Violina R. Angelova
+    role: creator
+  Angelova-Violina-R.:
+    individualname: Angelova, Violina R.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

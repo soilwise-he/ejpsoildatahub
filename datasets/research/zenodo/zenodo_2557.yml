@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5893028
+  dataseturi: https://doi.org/10.5281/zenodo.5893028
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Assessment of heavy metal adsorption potential of lateritic soil used as
+    landfill liner material in waste containment structures
+  abstract: Deptt. of Civil Engineering, Haldia Institute of Technology, Haldia, West
+    Bengal, India Increasing soil and groundwater pollution by heavy metals through
+    anthropogenic reason is a major concern of present environment. The objective
+    of the present study was to assess the potential of lateritic soil to be used
+    as liner material in landfill, effluent drain and effluent pond particularly with
+    respect to subsurface transport of Zn &amp; Cu. In the present study, the adsorption
+    and migration of the two metals (Zn &amp; Cu) through lateritic soil were studied
+    using batch adsorption tests. The laboratory scale batch adsorption experiments
+    were performed to determine adsorption capacity of the soil by carrying out adsorption
+    isotherms and kinetic studies at different initial concentrations (0.5, 1, 5,
+    10 mg/l) of adsorbate at a fixed pH of 8 and with different adsorbent doses (5,
+    10, 20, 30 g/L) and an equilibrium contact time of 120 minutes. The soil used
+    as adsorbent in batch adsorption experiments was found to have low hydraulic conductivity
+    of 3.17x10<sup>-8</sup> cm/s, and thus suitable to be used as a liner material
+    in waste containment structures. The linear, Langmuir and Freundlich isotherm
+    models were examined for fitting with the laboratory batch adsorption experimental
+    results. The Langmuir isotherm provided best fit for Zn adsorption test data with
+    R<sup>2</sup> (co-efficient of determination)=0.922 and RMSE(root mean square
+    error) =0.000962 at a soil dose of 5.0 g/L. Similar trend was observed with Cu
+    adsorption test results with R<sup>2</sup>= 0.989, RMSE =0.000588 at a soil dose
+    of 5 g/L. The higher values of adsorption capacity (qZn =1845 mg/kg, qCu = 1796.8
+    mg/Kg) of the soil for both the metals indicate good attenuative potential of
+    the soil with respect to Cu &amp; Zn. It was concluded from the present study
+    that the lateritic soil can be used as an effective adsorbent and a barrier material
+    and can be used as a primary liner material in a waste containment structure for
+    retarding the migration of contaminants and thereby protecting the precious groundwater.
+  keywords:
+    default:
+      keywords:
+        subject: Landfill liner
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-06-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5893028
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5893027
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Shome:
+    individualname: S. Shome
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

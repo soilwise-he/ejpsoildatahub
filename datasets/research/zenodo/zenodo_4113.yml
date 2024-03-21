@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126479
+  dataseturi: https://doi.org/10.5281/zenodo.1126479
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Environment-Friendly Organic Wastes On The Properties Of Sandy
+    Soil Under Growing Zea Mays L. In Arid Regions
+  abstract: Environment-friendly organic wastes of Brewers' spent grain, a byproduct
+    of the brewing process, have recently used as soil amendment to improve soil fertility
+    and plant production. In this work, treatments of 1% (T1) and 2% (T2) of spent
+    grains, 1% (C1) and 2% (C2) of compost and mix of both sources (C1T1) were used
+    and compared to the control for growing <em>Zea mays </em>L. on sandy soil under
+    arid Mediterranean climate. Soils were previously incubated at 65% saturation
+    capacity for a month. The most relevant soil physical and chemical parameters
+    were analysed. Water holding capacity and soil organic matter (OM) increased significantly
+    along the treatments with the highest values in T2. Soil pH decreased along the
+    treatments and the lowest pH was in C1T1. Bicarbonate decreased by 69% in C1T1
+    comparing to control. Total nitrogen (TN) and available P varied significantly
+    among all treatments and T2, C1T1 and C2 treatments increased 25, 17 and 11 folds
+    in TN and 1.2, 0.6 and 0.3 folds in P, respectively related to control. Available
+    K showed the highest values in C1T1. Soil micronutrients increased significantly
+    along all treatments with the highest values in T2. After corn germination, significant
+    variation was observed in the velocity of germination coefficients (VGC) among
+    all treatments in the order of C1T1&gt;T2&gt;T1&gt;C2&gt;C1&gt;control. The highest
+    records of final germination and germination index were in C1T1 and T2. The spent
+    grains may compensate deficiencies of macro and micronutrients in newly reclaimed
+    sandy soils without adverse effects to sustain crop production with a rider that
+    excessive or continuous use need to be circumvented.
+  keywords:
+    default:
+      keywords:
+        subject: plant growth.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-08-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126479
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126478
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohamed-Rashad:
+    individualname: Mohamed Rashad
+    role: creator
+  Mohamed-Hafez:
+    individualname: Mohamed Hafez
+    role: creator
+  Mohamed-Emran:
+    individualname: Mohamed Emran
+    role: creator
+  Emad-Aboukila:
+    individualname: Emad Aboukila
+    role: creator
+  Ibrahim-Nassar:
+    individualname: Ibrahim Nassar
+    role: creator
+  Rashad-Mohamed:
+    individualname: Rashad, Mohamed
+    role: ''
+    organization: ''
+    url: ''
+  Hafez-Mohamed:
+    individualname: Hafez, Mohamed
+    role: ''
+    organization: ''
+    url: ''
+  Emran-Mohamed:
+    individualname: Emran, Mohamed
+    role: ''
+    organization: ''
+    url: ''
+  Aboukila-Emad:
+    individualname: Aboukila, Emad
+    role: ''
+    organization: ''
+    url: ''
+  Nassar-Ibrahim:
+    individualname: Nassar, Ibrahim
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

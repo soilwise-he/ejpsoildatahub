@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1039601
+  dataseturi: https://doi.org/10.5281/zenodo.1039601
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Changes In Physical-Thermal Properties Of Soil Related To Very Shallow Geothermal
+    Systems In Urban Areas
+  abstract: 'In the near future the population living in urban areas is expected to
+    increase. This worldwide trend will lead to a<br>
+
+    high concentrations of infrastructures in confined areas, whose impact on land
+    use and shallow subsurface must be<br>
+
+    well evaluated.<br>
+
+    Since shallow geothermal energy resource is becoming increasingly important as
+    renewable energy resource, due<br>
+
+    to its huge potential in providing thermal energy for residential and tertiary
+    buildings and in contributing to reduce<br>
+
+    greenhouse gas emission, the number of installed geothermal systems is expected
+    to continue to rise in the near<br>
+
+    future.<br>
+
+    However, a leading question concerns the short and long-term effect of an intensive
+    thermal use of the shallow<br>
+
+    subsurface for heat generation, cooling and thermal energy storage. From an environmental
+    and technical point of<br>
+
+    view, changes on ground temperatures can influence the physical-thermal properties
+    of soil and groundwater as<br>
+
+    well as their chemical and biological features.<br>
+
+    In this study the preliminary results of ITER Project are presented. This project,
+    funded by European Union,<br>
+
+    focuses on improving heat transfer efficiency of very shallow geothermal systems,
+    as horizontal collector systems<br>
+
+    or special forms (i.e. helix system), interesting the first 2 m of depth from
+    ground level.<br>
+
+    Given the heterogeneity of sedimentary deposits in alluvial plain and the uncertainties
+    related to the estimation<br>
+
+    of thermal parameters for unconsolidated material affected by thermal use, physical-thermal
+    parameters (i.e.<br>
+
+    moisture content, bulk density, thermal conductivity...) where determined in laboratory
+    for sand, clay and loamy<br>
+
+    sand samples. In addition, preliminary results from a field test site located
+    within an urban area will be also shown.<br>
+
+    The main aim is to improve our knowledge of heat transfer process in the soil
+    body in order (i) to create a reference<br>
+
+    database to compare subsequently the impact of temperature variations on the same
+    properties and (ii) to provide<br>
+
+    reliable data for model parameterization'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-04-22'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1039601
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1039600
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Di-Sipio-Eloisa:
+    individualname: Di Sipio, Eloisa
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: https://orcid.org/0000-0001-5573-4261
+  Bertermann-David:
+    individualname: Bertermann, David
+    role: creator
+    organization: FAU University Erlangen Nuremberg
+    url: ''
+  Psyk-Mario:
+    individualname: Psyk, Mario
+    role: creator
+    organization: REHAU AG&Co
+    url: ''
+  Popp-Thomas:
+    individualname: Popp, Thomas
+    role: creator
+    organization: Fischer Spezialbaustoffe GmbH
+    url: ''
+content_info: {}

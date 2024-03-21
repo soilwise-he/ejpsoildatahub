@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Moirana_2021
+  dataseturi: https://doi.org/10.1016/j.jfluchem.2021.109883
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The influence of fertilizers on the behavior of fluoride fractions in the
+    alkaline soil
+  abstract:
+  - '&lt;p&gt;It has been established that fluoride bioavailability in the soil is
+    defined by the form which it exists rather than the amount of total fluoride.
+    In the soil, fluoride exist in different fractions such as water soluble (Ws-F),
+    Exchangeable (Ex-F), bound to iron/manganese (Fe/Mn-F), organic matter bound (Or-F),
+    and the residual (Res-F). All of these fractions are bioavailable however to different
+    extents in an order Ws-F&gt;Ex-F&gt;Fe/Mn-F&gt;Or-F&gt;Res-F. Agricultural practices
+    such as fertilizer application alters the behavior of these fractions which further
+    affects fluoride bioavailability in the soil. This study investigated the influence
+    of the three commonly used fertilizers (Di-ammonium Phosphate (DAP), Urea, and
+    cow-manure) on the bioavailability of soil fluoride in an alkaline soil. The soil
+    was mixed with either one of the fertilizers then incubated for a period of five
+    months. All three fertilizers increased the amount of Ws-F by 7.8 &plusmn; 0.6,
+    4.1 &plusmn; 0.2, 9.6 &plusmn; 1.1 mg/kg and Fe/Mn-F by 2.24 &plusmn; 0.3, 0.44
+    &plusmn; 0.2, and 2.1 &plusmn; 0.2 mg/kg, for DAP, Urea, and manure amendments,
+    respectively, but had no impact on the amount of Or-F. All three fertilizers were
+    observed to enhance the bioavailability of fluoride in the soil by increasing
+    the amount of Ws-F. The fertilizers could have increased the bioavailability of
+    fluoride in the soil directly or indirectly through alteration of pH and the soil
+    elemental composition. The three fertilizers might not be suitable for use in
+    fluoride contaminated alkaline soils as they accelerate fluoride release and hence
+    bioavailability in the soil.&lt;/p&gt;'
+  - 'Other  funding acknowledgements: Partnership for Applied Skills in Sciences,
+    Engineering and Technology-Regional Scholarship Innovation Fund (PASET-RSIF)'
+  keywords:
+    default:
+      keywords:
+      - Total fluoride
+      - Fluoride fractions
+      - Fertilizer
+      - Soil
+      - Alkaline
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The influence of fertilizers on the behavior of fluoride fractions in the
+      alkaline soil
+    url: http://dx.doi.org/10.1016/j.jfluchem.2021.109883
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ruth-Lorivi-Moirana:
+    individualname: Ruth Lorivi Moirana
+    role: creator
+  Josephine-Mkunda:
+    individualname: Josephine Mkunda
+    role: creator
+  Revocatus-Machunda:
+    individualname: Revocatus Machunda
+    role: creator
+  Kelvin-Mtei:
+    individualname: Kelvin Mtei
+    role: creator
+  Marcos-Paradelo-Perez:
+    individualname: Marcos Paradelo Perez
+    role: creator
+  Moirana-Ruth-Lorivi:
+    individualname: Moirana, Ruth Lorivi
+    role: creator
+  Mkunda-Josephine:
+    individualname: Mkunda, Josephine
+    role: creator
+  Perez-Marcos-Paradelo:
+    individualname: Perez, Marcos Paradelo
+    role: creator
+  Machunda-Revocatus:
+    individualname: Machunda, Revocatus
+    role: creator
+  Mtei-Kelvin:
+    individualname: Mtei, Kelvin
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1123570
+  dataseturi: https://doi.org/10.5281/zenodo.1123570
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analytical And Statistical Study Of The Parameters Of Expansive Soil
+  abstract: The disorders caused by the shrinking-swelling phenomenon are prevalent
+    in arid and semi-arid in the presence of swelling clay. This soil has the characteristic
+    of changing state under the effect of water solicitation (wetting and drying).
+    A set of geotechnical parameters is necessary for the characterization of this
+    soil type, such as state parameters, physical and chemical parameters and mechanical
+    parameters. Some of these tests are very long and some are very expensive, hence
+    the use or methods of predictions. The complexity of this phenomenon and the difficulty
+    of its characterization have prompted researchers to use several identification
+    parameters in the prediction of swelling potential. This document is an analytical
+    and statistical study of geotechnical parameters affecting the potential of swelling
+    clays. This work is performing on a database obtained from investigations swelling
+    Algerian soil. The obtained observations have helped us to understand the soil
+    swelling structure and its behavior.
+  keywords:
+    default:
+      keywords:
+        subject: Swelling of clay.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-02-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1123570
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1123569
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Medjnoun:
+    individualname: A. Medjnoun
+    role: creator
+    organization: ''
+    url: ''
+  R.-Bahar:
+    individualname: R. Bahar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2586683
+  dataseturi: https://doi.org/10.5281/zenodo.2586683
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Chemical Composition of Soil Solutions of Technosols from a Coal Mine Region
+    in SouthEastern Europe.
+  abstract: The cationic and anionic composition, i.e. K + , Na+ , Ca2+, Mg2+, Cl-
+    , NO3 - , phosphates, SO4 2- and dissolved organic carbon (DOC) in soil solutions
+    of Technogenic soils (Technosols) from the area of Maritsa-Iztok coal mine basin
+    in Bulgaria was analyzed and links with overburden strata were discussed. Two
+    sites are located at the Mednikarovo village with humus and non- humus reclamation
+    under grass vegetation. The other two are situated near the village of Obruchishte
+    (non-vegetated and pine-vegetated). The sites differ in their textural composition,
+    physico-chemical and hydro-physical properties. It was found that major cations
+    and anions in the soil solutions at Mednikarovo site did not exceed the maximum
+    permissible concentration limits (MPCL) for drinking water, while in solutions
+    from the Obruchishte Technosols, composed of black clays intermixed with coal
+    ash maximum permissible concentrations of sulphate (250 mg.l -1 ), phosphate (0.5
+    mg.l-1 ), calcium (150 mg.l-1 ) and magnesium (80 mg.l-1 ) were exceeded and may
+    pose a threat to contamination of surface and sub-surface water of reclaimed soils.
+  keywords:
+    default:
+      keywords:
+        subject: chemical composition, soil solution, technogenic soils, reclamation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-07-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2586683
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2586682
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Simeonova-Tsetska:
+    individualname: Simeonova, Tsetska
+    role: creator
+    organization: ISSAPP "N. Poushkarov"
+    url: ''
+  Benkova-Maya:
+    individualname: Benkova, Maya
+    role: creator
+    organization: ISSAPP "N. Poushkarov"
+    url: ''
+  Nenova-Lyuba:
+    individualname: Nenova, Lyuba
+    role: creator
+    organization: ISSAPP "N. Poushkarov"
+    url: ''
+  Atanassova-Irena:
+    individualname: Atanassova, Irena
+    role: creator
+    organization: ISSAPP "N. Poushkarov"
+    url: ''
+content_info: {}

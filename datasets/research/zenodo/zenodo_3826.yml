@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Talbot_2018
+  dataseturi: https://doi.org/10.1080/02827581.2017.1418421
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An operational UAV-based approach for stand-level assessment of soil disturbance
+    after forest harvesting
+  abstract: '&lt;p&gt;The effectiveness of generating virtual transects on unmanned
+    aerial vehicle-derived orthomosaics&lt;/p&gt;
+
+
+    &lt;p&gt;was evaluated in estimating the extent of soil disturbance by severity
+    class. Combinations of 4&lt;/p&gt;
+
+
+    &lt;p&gt;transect lengths (5 &ndash; 50 m) and five sampling intensities (1 &ndash;
+    20 transects per ha) were used in&lt;/p&gt;
+
+
+    &lt;p&gt;assessing traffic intensity and the severity of soil disturbance on six
+    post-harvest, cut-to-length&lt;/p&gt;
+
+
+    &lt;p&gt;(CTL) clearfell sites. In total, 15% of the 33 ha studied showed some
+    trace of vehicle traffic. Of this,&lt;/p&gt;
+
+
+    &lt;p&gt;63% of was categorized as light (no visible surface disturbance). Traffic
+    intensity varied from 787 to&lt;/p&gt;
+
+
+    &lt;p&gt;1256 m ha &minus; 1 , with a weighted mean of 956 m ha &minus; 1 , approximately
+    twice the geometrical minimum&lt;/p&gt;
+
+
+    &lt;p&gt;achievable with CTL technology under perfect conditions. An overall weighted
+    mean of 4.7% of the&lt;/p&gt;
+
+
+    &lt;p&gt;total site area was compromised by severe rutting. A high sampling intensity,
+    increasing with&lt;/p&gt;
+
+
+    &lt;p&gt;decreasing incidence of soil disturbance, is required if mean estimation
+    error is to be kept below&lt;/p&gt;
+
+
+    &lt;p&gt;20%. The paper presents a methodology that can be generally applied in
+    forest management or in&lt;/p&gt;
+
+
+    &lt;p&gt;similar land-use evaluations.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An operational UAV-based approach for stand-level assessment of soil disturbance
+      after forest harvesting
+    url: http://dx.doi.org/10.1080/02827581.2017.1418421
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Talbot-Bruce:
+    individualname: Talbot, Bruce
+    role: creator
+  Rahlf-Johannes:
+    individualname: Rahlf, Johannes
+    role: creator
+  Astrup-Rasmus:
+    individualname: Astrup, Rasmus
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

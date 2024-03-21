@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.817541
+  dataseturi: https://doi.org/10.5281/zenodo.817541
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Effect Of High Lost On Ignition (Loi) Content Cement Kiln Dust On The Index
+    Properties Of Black Cotton Soil
+  abstract: The preliminary investigation carried out on a black cotton soil shows
+    that it falls under A-7-6 (16) using AASHTO classification and CL according to
+    Unified Soil Classification System (USCS). The tests carried out on the cement
+    kiln dust treated soil showed that the liquid limit of the natural soil increased
+    from 48.2% to a peak value of 51.8% at 2% CKD treatment and thereafter decreased
+    with higher CKD content. The plastic limit also increased from 27.2% for the natural
+    soil to a peak value of 36.8% at 4% CKD treatment. The plasticity index value,
+    decreases from 21.0% for the natural soil to a minimum value of 12.8% at 6% CKD
+    content. The maximum dry density (MDD) for British Standard Light (BSL) and British
+    Standard Heavy (BSH) compactive efforts increased to peak values of 1.66 and 1.91
+    Mg/m3 at 6% and 4% CKD contents respectively. The MDD for West African Standard
+    (WAS) compactive effort increased with higher CKD content. The Optimum Moisture
+    Content (OMC) for BSL and BSH compactive efforts increased up to 6%CKD content
+    then decreased with higher CKD content. For the WAS compactive effort, the OMC
+    generally decreased with higher CKD content.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-10-11'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.817541
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.817540
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salahudeen-A.B.:
+    individualname: Salahudeen, A.B.
+    role: creator
+    organization: Samaru College of Agriculture, D.A.C., Ahmadu Bello University,
+      Zaria, Nigeria
+    url: ''
+  Usman-G.-M:
+    individualname: Usman, G. M
+    role: creator
+    organization: Rail and Mass Transit Department., Federal Ministry of Transport,
+      Abuja, Nigeria
+    url: ''
+  Saidu-S.-M:
+    individualname: Saidu, S. M
+    role: creator
+    organization: Samaru College of Agriculture, D.A.C., Ahmadu Bello University,
+      Zaria, Nigeria
+    url: ''
+content_info: {}

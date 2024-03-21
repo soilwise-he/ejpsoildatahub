@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3251802
+  dataseturi: https://doi.org/10.5281/zenodo.3251802
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Study on the Effect of Permeation Grouting With Cement and Lime in Sandy
+    Soil
+  abstract: Permeation grouting is an effective way to improve the engineering properties
+    of the sandy soil. In this technique the grout is injected into the ground without
+    disturbing the soil structure. In this investigation an attempt is made to study
+    the comparison of permeation grouting with cement and lime grout. The cement grout
+    and lime grout are injected into the soil specimen by changing weight of cement
+    and lime which will be at 2%, 4%, 6%, 8%, &amp; 10% by the soil weight. Grouting
+    is conducted in a tank of size 30 x 30 x 30cm. The grouted samples are tested
+    in triaxial test after 1, 7, &amp; 14 days of curing period. The permeability
+    test also conducted on the grouted samples. The test results revealed that the
+    shear strength properties are improved for grouted soil, where as the permeability
+    is reduced.
+  keywords:
+    default:
+      keywords:
+        subject: Permeation grouting, soil specimen, triaxial test
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-21'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3251802
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3251801
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-Janaki-Ramudu:
+    individualname: D. Janaki Ramudu
+    role: creator
+    organization: ''
+    url: ''
+  A.-Venkatesh:
+    individualname: A. Venkatesh
+    role: creator
+    organization: ''
+    url: ''
+  P.Sudhakar:
+    individualname: P.Sudhakar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7298671
+  dataseturi: https://doi.org/10.5281/zenodo.7298671
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Assessing the role of microplastics as a disturbance to soil resilience
+  abstract: 'Studies have found microplastics (MP) in soil environments and have reported
+    their impacts on soil properties, soil functioning, and microbial communities.
+    In soil management systems, soil resilience is critical for the long-term sustainability
+    of soil resources and the prevention of soil degradation. For the past two decades,
+    soil resilience has been discussed extensively in the wider scientific literature.
+    Agricultural practices, industrial activities, deforestation, overexploitation
+    of the vegetative cover, flooding, and tillage operations have been identified
+    as having an impact on soil. Numerous methods have been discussed to measure soil
+    resilience in relation to the above-mentioned disturbances; however, the impact
+    of MP has not been fully addressed. There is a need for assessment methods on
+    the potential effects of MP on soil resilience. We, therefore, present the results
+    of a literature review aimed at investigating approaches for assessing the impact
+    of MP on soil resilience. This serves as a foundation for developing a paradigm
+    for examining the role of MP as a soil disturbance. In this presentation, we explore
+    the potential methods of assessing the impact of MP on soil resilience. There
+    is a need to measure and define the impact of MP on soil resilience to identify
+    the risks that MP poses for the long-term sustainability of our soils. Also see:
+    https://micro2022.sciencesconf.org/426827/document'
+  keywords:
+    default:
+      keywords:
+        subject: sustainability
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-07'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7298671
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7298670
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rehman-Hafeez-Ur:
+    individualname: Rehman, Hafeez Ur
+    role: creator
+    organization: ''
+    url: ''
+  Reid-Malcolm:
+    individualname: Reid, Malcolm
+    role: creator
+    organization: ''
+    url: ''
+  Hurley-Rachel:
+    individualname: Hurley, Rachel
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

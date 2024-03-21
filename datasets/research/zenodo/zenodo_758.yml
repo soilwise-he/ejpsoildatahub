@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MacIntire_1916
+  dataseturi: https://doi.org/10.1021/i500006a603
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Immediate and Continued Lime Requirement Active and Latent Soil Activity
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Immediate and Continued Lime Requirement Active and Latent Soil Activity
+    url: http://dx.doi.org/10.1021/i500006a603
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MacIntire-W.-H.:
+    individualname: MacIntire, W. H.
+    role: creator
+  MacIntire-W-H.:
+    individualname: MacIntire, W H.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

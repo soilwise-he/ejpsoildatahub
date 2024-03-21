@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garc_a_Aristiz_bal_2015
+  dataseturi: https://doi.org/10.17533/udea.redin.n78a15
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Experimental study of water infiltration on an unsaturated soil-geosynthetic
+    system
+  abstract: '&lt;p&gt;This investigation presents experimental results from soil-geosynthetic
+    column tests constructed to study the drainage capability of geosynthetics installed
+    within an unsaturated soil and subjected to a water infiltration process. Two
+    different types of permeable geosynthetics were tested; namely, non-woven geotextile
+    and woven non-woven geocomposite. The infiltration process was monitored using
+    negative/positive pore water pressure and volumetric water content transducers
+    placed above and below the geosynthetic. The results showed that the geosynthetics
+    behaved as an impermeable layer until the surrounding soil was nearly saturated.
+    The geosynthetics started draining water laterally only when the pore water pressure
+    within the soil above it was positive or negative but close to zero. This study
+    intends to provide some insights into the physics of soil-geosynthetics performance,
+    and to complement the available technical data used to conduct numerical simulations
+    of complex soil-structures subjected to water infiltration processes.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Infiltration
+      - soil-geosynthetic
+      - column-test
+      - unsaturated soil
+      - "experimental study. Infiltraci\xF3n"
+      - "suelo-geosint\xE9tico"
+      - ensayo de columna
+      - suelo parcialmente saturado
+      - estudio experimental
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Experimental study of water infiltration on an unsaturated soil-geosynthetic
+      system
+    url: http://dx.doi.org/10.17533/udea.redin.n78a15
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Edwin-Fabian-Garcia-Aristizabal:
+    individualname: "Edwin Fabi\xE1n Garc\xEDa-Aristiz\xE1bal"
+    role: creator
+  Carlos-Alberto-Vega-Posada:
+    individualname: Carlos Alberto Vega-Posada
+    role: creator
+  Alba-Nur-y-Gallego-Hernandez:
+    individualname: "Alba Nur y Gallego-Hern\xE1ndez"
+    role: creator
+  Garcia-Aristizabal-Edwin-Fabian:
+    individualname: "Garc\xEDa-Aristiz\xE1bal, Edwin Fabi\xE1n"
+    role: creator
+  Vega-Posada-Carlos-Alberto:
+    individualname: Vega-Posada, Carlos Alberto
+    role: creator
+  Gallego-Hernandez-Alba-Nury:
+    individualname: "Gallego-Hern\xE1ndez, Alba Nury"
+    role: creator
+  Universidad-de-Antioquia:
+    individualname: Universidad de Antioquia
+    role: creator
+content_info: {}

@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KOPELOFF_1917
+  dataseturi: https://doi.org/10.1097/00010694-191703000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A REVIEW OF INVESTIGATIONS IN SOIL PROTOZOA AND SOIL STERILIZATION
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A REVIEW OF INVESTIGATIONS IN SOIL PROTOZOA AND SOIL STERILIZATION
+    url: http://dx.doi.org/10.1097/00010694-191703000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kopeloff-Nicholas:
+    individualname: Kopeloff, Nicholas
+    role: creator
+  Coleman-D.-A.:
+    individualname: Coleman, D. A.
+    role: creator
+  KOPELOFF-NICHOLAS:
+    individualname: KOPELOFF, NICHOLAS
+    role: creator
+  COLEMAN-D.-A.:
+    individualname: COLEMAN, D. A.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

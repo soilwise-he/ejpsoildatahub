@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4322169
+  dataseturi: https://doi.org/10.5281/zenodo.4322169
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Portable Energy Harvester between Ambient Air and Soil
+  abstract: Prosiding Penyelidikan Prasiswazah, Issue No. 1, 2020, pp. 71-79
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-15'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4322169
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4322168
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Heng-Joe-Keen:
+    individualname: Heng Joe Keen
+    role: creator
+  Ramizi-Mohamed:
+    individualname: Ramizi Mohamed
+    role: creator
+    organization: Faculty of Engineering and Built Environment, Universiti Kebangsaan
+      Malaysia
+    url: ''
+  Keen-Heng-Joe:
+    individualname: Keen, Heng Joe
+    role: ''
+    organization: Faculty of Engineering and Built Environment, Universiti Kebangsaan
+      Malaysia
+    url: ''
+content_info: {}

@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5768761
+  dataseturi: https://doi.org/10.5281/zenodo.5768761
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "DYNAMICS OF SOIL USE AND COVERAGE FROM THE MUNICIPALITY OF SILV\xC2NIA (1985-2020)"
+  abstract: "Research on land use and occupation has been effective for the recognition\
+    \ of the municipalities and their main forms of surface occupation, because from\
+    \ this appreciation, knowledge is provided in order to contribute to decision-making.\
+    \ The municipality of Silv\xE2nia in the state of Goi\xE1s, Brazil, has historical\
+    \ importance since the eighteenth century due to mining and later the influence\
+    \ of the Green Revolution in Goi\xE1s, which supplies an important participation\
+    \ in GDP. The aim of this article is to understand land use changes in Silv\xE2\
+    nia between 1985 and 2020. The methodological procedures were based on mapping\
+    \ with visual interpretation of images from MapBiomas Collection 6. The results\
+    \ indicate that the main form of use features agriculture, which has already been\
+    \ a characteristic of the municipality since the mapping of 1985 and expanded\
+    \ over the years, resulting in conversion and fragmentation of native vegetation."
+  keywords:
+    default:
+      keywords:
+        subject: Vegetation
+  status: ''
+  language: por
+  dates:
+    creation: ''
+    issued: '2021-12-09'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5768761
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5768760
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MARQUEZ-Laura-Andreina-Matos:
+    individualname: "M\xC1RQUEZ, Laura Andreina Matos"
+    role: creator
+    organization: "Universidade Estadual de Goi\xE1s (UEG)"
+    url: https://orcid.org/0000-0002-5615-096X
+content_info: {}

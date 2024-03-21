@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7148200
+  dataseturi: https://doi.org/10.5281/zenodo.7148200
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Static Axial Reciprocal Load Test of Soil-Cement Mixing Pile Applying as
+    Permanent Pile
+  abstract: The soil-cement mixing wall has previously been used as an earth retaining
+    wall during excavations, and was treated<br> as a temporary structure. At present,
+    a method has not been established for evaluating its assumed vertical bearing<br>
+    capacity and tensile resistance when bearing a building body load or something
+    similar. In recent years, rationalization<br> of the foundation structure, reduction
+    of the environmental burden, and other needs have been rising, studies have been<br>
+    proceeding into the application of soil-cement mixing walls as permanent piles.
+    In addition, with the previously<br> temporary soil-cement mixing wall now being
+    used as a permanent pile, it can be expected that eliminating the need<br> for
+    new work and reduce construction expenses. This study aimed for the application
+    of the embedded portion of soilcement<br> mixing wall as a permanent pile, and
+    evaluated the magnitude of the bearing capacity and the tensile resistance<br>
+    for assuming the failure between ground and pile in the static axial reciprocal
+    load test for single soil-cement mixing<br> pile.
+  keywords:
+    default:
+      keywords:
+        subject: bearing capacity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7148200
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7148199
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Watanabe-K.:
+    individualname: Watanabe, K.
+    role: creator
+    organization: Aichi Institute of Technology
+    url: ''
+  Wada-K.:
+    individualname: Wada, K.
+    role: creator
+    organization: Obayashi Corporation
+    url: ''
+  Yokoyama-T.:
+    individualname: Yokoyama, T.
+    role: creator
+    organization: Obayashi Corporation
+    url: ''
+content_info: {}

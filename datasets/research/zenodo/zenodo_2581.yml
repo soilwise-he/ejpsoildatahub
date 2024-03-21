@@ -1,0 +1,108 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Faur_2021
+  dataseturi: https://doi.org/10.3390/min11080873
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Multi-Proxy Study of a Holocene Soil Profile from Romania and Its Relevance
+    for Speleothem Based Paleoenvironmental Reconstructions
+  abstract:
+  - "&lt;p&gt;In this study, we describe a sedimentary deposit situated above Ascuns\u0103\
+    \ Cave (SW Romania) that should be in depositional connection with coeval stalagmites\
+    \ from the cave. We excavated a 2.5 m deep soil profile and took contiguous bulk\
+    \ samples every 5 cm. Soil samples were analyzed for clay mineralogy, grain size,\
+    \ chemical composition, magnetic susceptibility, and stable carbon isotopes. Radiocarbon\
+    \ dating revealed that the soil is of Holocene age, and presents a depositional\
+    \ hiatus between 5.4 and 2.3 thousand years before the present. Due to the open\
+    \ system behavior of soils and the mobility of organic matter, a few hundred years\
+    \ of uncertainty should be considered for the duration of this hiatus. The fine\
+    \ fraction is dominated by silt, while the clay mineralogical association is made\
+    \ of illite, chlorite, kaolinite, vermiculite, and illite&ndash;vermiculite and\
+    \ illite&ndash;chlorite mixed layered minerals. The sediment source of this soil\
+    \ is represented by a nearby m&eacute;lange complex, as well as by an underlying\
+    \ terra rossa-type soil. As this latter type of soil is widespread in our study\
+    \ area, we performed luminescence dating on two samples from a representative\
+    \ location close to our site and it appears that this type of Mediterranean soil\
+    \ was formed during the Last Interglacial period. &delta;&lt;sup&gt;13&lt;/sup&gt;C\
+    \ variability in soil organic matter and a stalagmite from the cave are compared\
+    \ well, and could help future studies identify modifications in isotopic fractionation\
+    \ processes within the cave.&lt;/p&gt;"
+  - "Part of this work was financially supported by a grant of the Romanian Ministry\
+    \ of Education and Research, CNCS\u2014UEFISCDI, project number PN-III-P4-ID-PCE-2020-2282\
+    \ (ECHOES) to V.D. Part of the research leading to these results has received\
+    \ funding from the EEA Grants 2014\u20132021, under Project contract no. 3/2019.\
+    \ M.I. and C. Manailescu received funding from the National Programs Installations\
+    \ of National Interest (IOSIN) and Nucleu (PN 19 06 02 02)."
+  keywords:
+    default:
+      keywords:
+      - soil
+      - clay minerals
+      - Holocene
+      - stable carbon isotopes
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Multi-Proxy Study of a Holocene Soil Profile from Romania and Its Relevance
+      for Speleothem Based Paleoenvironmental Reconstructions
+    url: http://dx.doi.org/10.3390/min11080873
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Faur-Luchiana:
+    individualname: Faur, Luchiana
+    role: creator
+  Dragusin-Virgil:
+    individualname: "Dr\u0103gu\u0219in, Virgil"
+    role: creator
+  Dimofte-Daniela:
+    individualname: Dimofte, Daniela
+    role: creator
+  Forray-Ferenc-L:
+    individualname: Forray, Ferenc L
+    role: creator
+  Ilie-Maria:
+    individualname: Ilie, Maria
+    role: creator
+  Marin-Constantin:
+    individualname: Marin, Constantin
+    role: creator
+  Manailescu-Cristian:
+    individualname: "M\u0103n\u0103ilescu, Cristian"
+    role: creator
+  Mirea-Ionut-Cornel:
+    individualname: "Mirea, Ionu\u021B Cornel"
+    role: creator
+  Panaiotu-Cristian-George:
+    individualname: Panaiotu, Cristian George
+    role: creator
+  Soare-Barbara:
+    individualname: Soare, Barbara
+    role: creator
+  Timar-Gabor-Alida:
+    individualname: Timar-Gabor, Alida
+    role: creator
+  Tirla-Maria-Laura:
+    individualname: "T\xEErl\u0103, Maria Laura"
+    role: creator
+  Forray-Ferenc-Lazar:
+    individualname: "Forray, Ferenc L\xE1z\xE1r"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

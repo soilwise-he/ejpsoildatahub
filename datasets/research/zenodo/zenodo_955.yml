@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6424650
+  dataseturi: https://doi.org/10.5281/zenodo.6424650
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Chelation in Relation to Iron Mobilization and Phosphate Availability in
+    Soil
+  abstract: Department of Agricultural Chemistry and Soil Science, Faculty of Agriculture,
+    University of Kalyani, West Bengal<br> <em>Manuscript received 5 May 1973; accepted
+    26 June 1973</em> A comparative study of iron mobilization and consequent release
+    of phosphate by three pure chelating agents from two major types of West Bengal
+    soils at different pH, has been carried out. Irrespective of the soils the order
+    of chelating ability of pure compounds has been found to be succinic acid &gt;
+    phloroglucinol &gt; glutamic acid in the major part of pH-range.
+  keywords:
+    default:
+      keywords:
+        subject: Synthesis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1973-08-31'
+    publication: '1973'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6424650
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6424649
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DHRUBAJYOTI-BHATTACHARYA:
+    individualname: DHRUBAJYOTI BHATTACHARYA
+    role: creator
+    organization: ''
+    url: ''
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

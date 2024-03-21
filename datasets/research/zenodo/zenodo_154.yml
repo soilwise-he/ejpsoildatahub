@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7964700
+  dataseturi: https://doi.org/10.5281/zenodo.7964700
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: CNN-Based Soil-Seed Recommender
+  abstract: "Abstract\u2014 India is the land of agriculture and is among the top\
+    \ three global producers of many seeds. The Indian farmer lies at the heart of\
+    \ the agricultural sector yet most Indian farmers remain at the bottom of the\
+    \ social strata. In addition, farmers find it difficult to decide which seed is\
+    \ best suitable and profitable for their soil, in spite of the few technological\
+    \ solutions that exist today, due to the variation in soil types across geographical\
+    \ regions. This paper proposes a seed recommendation system that uses a Convolutional\
+    \ Neural Network (CNN), MobileNetV2 Architecture to predict the optimal seed to\
+    \ be grown by analyzing various parameters.\n\_"
+  keywords:
+    default:
+      keywords:
+        subject: MobileNetV2 Architecture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-24'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7964700
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7964699
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Department-of-Computer-Applications-Amal-Jyothi-College-of-Engineering-Kanjirappally-Kottayam:
+    individualname: Department of Computer Applications, Amal Jyothi College of Engineering
+      Kanjirappally, Kottayam
+    role: creator
+  Vyshnavi-Babu-S:
+    individualname: Vyshnavi Babu S
+    role: creator
+    organization: Amal Jyothi College of Engineering
+    url: ''
+  Anit-James:
+    individualname: Anit James
+    role: creator
+    organization: Amal Jyothi College of Engineering
+    url: 0000-0002-5040-6741
+content_info: {}

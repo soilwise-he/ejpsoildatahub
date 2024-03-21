@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Reinhardt_2021
+  dataseturi: https://doi.org/10.3390/agronomy11071296
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Biomass Yield of Selected Herbaceous and Woody Industrial Crops across Marginal
+    Agricultural Sites with Shallow Soil
+  abstract: '&lt;p&gt;Agricultural land in Europe is affected by low rooting depth
+    (LRD) on 27.9 Mha. This marginal agricultural land can potentially be used to
+    grow industrial crops without directly threatening food security or biodiversity
+    conservation. However, little is known about the yield performance of industrial
+    crops at LRD conditions. This study therefore compiles and discusses the meaningful
+    data available in scientific literature. Twelve relevant industrial crops were
+    identified for Europe. Currently, robust information on good growth suitability
+    for LRD conditions is available for only one industrial crop, namely reed canary
+    grass (RCG). Because this information was taken from field trial results from
+    a single site, it remains unclear what role other growing conditions such as soil
+    quality and climate play on both the yield level and the biomass quality of RCG
+    under LRD conditions. These uncertainties about the quantitative as well as qualitative
+    performance of industrial crop cultivation on marginal agricultural land characterized
+    by LRD represent a major agronomic knowledge gap. Here, more knowledge needs to
+    be compiled through both expanded crop science activities and improved international
+    information exchange to make more optimal use of the large LRD areas available
+    for the transition to a bioeconomy.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - biomass
+      - marginal lands
+      - agriculture
+      - industrial crops
+      - crops
+      - Bioeconomy
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Biomass Yield of Selected Herbaceous and Woody Industrial Crops across Marginal
+      Agricultural Sites with Shallow Soil
+    url: http://dx.doi.org/10.3390/agronomy11071296
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reinhardt-Jana:
+    individualname: Reinhardt, Jana
+    role: creator
+  Hilgert-Pia:
+    individualname: Hilgert, Pia
+    role: creator
+  von-Cossel-Moritz:
+    individualname: von Cossel, Moritz
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

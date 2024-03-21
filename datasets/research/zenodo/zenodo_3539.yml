@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WANG_2019
+  dataseturi: https://doi.org/10.33073/pjm-2019-023
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Bacterial Diversity in Soybean Rhizosphere Soil at Seedling and Mature Stages
+  abstract: AbstractChanges in the structural diversity of bacterial communities in
+    soybean rhizospheres play important roles in plant growth and crop productivity.
+    However, there are only a few studies on different soybean growth stages. Here,
+    we investigated the changes in the bacterial community of soybean rhizosphere
+    soil at two stages using Illumina high-throughput sequencing. The results showed
+    that the bacterial abundance and diversity in the seeding stage were higher than
+    those in the mature stage and that the diversity changed significantly. Actinobacteria,
+    Acidobacteria, and Proteobacteria were the dominant bacteria in the soybean rhizosphere
+    soil. Additionally, changes in Actinobacteria and Proteobacteria abundances showed
+    opposite trends.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Bacterial Diversity in Soybean Rhizosphere Soil at Seedling and Mature Stages
+    url: http://dx.doi.org/10.33073/pjm-2019-023
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  WANG-WEIWEI:
+    individualname: WANG, WEIWEI
+    role: creator
+  WANG-LIN:
+    individualname: WANG, LIN
+    role: creator
+  LI-ZHIYING:
+    individualname: LI, ZHIYING
+    role: creator
+  LIU-RUIRUI:
+    individualname: LIU, RUIRUI
+    role: creator
+  LI-LULU:
+    individualname: LI, LULU
+    role: creator
+  Polish-Society-of-Microbiologists:
+    individualname: Polish Society of Microbiologists
+    role: creator
+content_info: {}

@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7904624
+  dataseturi: https://doi.org/10.5281/zenodo.7904624
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: FORMATION OF INDEPENDENT OBSERVATIONS OF SOIL SCIENCE TEACHING
+  abstract: <em>The article presents analyzes of how to properly conduct their independent
+    work at a high-quality level in the training of highly qualified soil scientists
+    in technical schools, and gives recommendations based on the instructions for
+    independent observation work.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7904624
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7904623
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.B.Mirzayev:
+    individualname: U.B.Mirzayev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

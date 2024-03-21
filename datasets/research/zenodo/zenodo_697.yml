@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5150087
+  dataseturi: https://doi.org/10.5281/zenodo.5150087
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Management Strategies for Soil Compaction in Mechanized Sugarcane Cultivation
+  abstract: "<em>A field survey was carried out at Cuddalore and Villupuram districts\
+    \ of Tamil Nadu State to assess the impact of continues mechanisation in sugarcane\
+    \ cultivation on soil physical propertiesduring 2016 -17. Soil samples were taken\
+    \ at different depths viz.,0-20, 20-40 and 40-60 cm\u2019s from mechanized sugarcane\
+    \ harvested fields as well as nearby non mechanised fields as control. The results\
+    \ showed that an increased bulk density, hydraulic conductivity and infiltration\
+    \ ratein mechanized cultivation field soils particularly at deeper depths (20\
+    \ \u2013 40 cm) and (40 \u2013 60 cm) implying mechanization induced soil compaction.\
+    \ To develop a suitable management strategy, field experiments were conducted\
+    \ at Sugarcane Research Station, Cuddalore during 2017-20 in a field where mechanized\
+    \ sugarcane cultivation was followed continuously for four years in a non -saline\
+    \ neutral sandy loam (0-15cm) andclay (15 \u2013 60 cm) soil with the sugarcane\
+    \ variety CoC 25 under strip plot design in three replications. The main plot\
+    \ treatments of chisel plough, double disc plough and conventional ploughing in\
+    \ combination with the sub plot treatments of farm yard manure, composted coirpith,\
+    \ pressmud, green manure and composted sugarcane trash incorporation.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Soil compaction, Sugarcane mechanisation, Mechanised harvest, Subsoil
+          ploughing,Organic amendments Soil structure, Bulk density, Particle density,
+          Hydraulic conductivity, water infiltration rate and Root dry biomass.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5150087
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5150086
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Jayachandran.M:
+    individualname: Dr. Jayachandran.M
+    role: creator
+    organization: ''
+    url: ''
+  N.-Chandra-Sekaran:
+    individualname: N. Chandra Sekaran
+    role: creator
+    organization: ''
+    url: ''
+  R.-Christy-Nirmala-Marry:
+    individualname: R. Christy Nirmala Marry
+    role: creator
+    organization: ''
+    url: ''
+  R.Anitha:
+    individualname: R.Anitha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

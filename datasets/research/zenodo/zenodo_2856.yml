@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5883274
+  dataseturi: https://doi.org/10.5281/zenodo.5883274
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A new spot test for the semi-quantification of dithiocarbamates residues
+    in traces in soil samples of potato growing field
+  abstract: 'Applied Chemistry Department, Z. H. College of Engineering and Technology.
+    Aligarh Muslim University, Aligarh-202 002, India <em>Fax</em>: 91-0571-400528
+    <em>Manuscript received 17 October 2000. revised 6 February 2001. accepted 24
+    February 2001</em> A selective, sensitive, simple and inexpensive spot test is
+    described for the detection of mancozeb at trace levels in soil, vegetation and
+    water. It is based upon the intensive catalytic action of dithiocarbamates on
+    the production of nitrogen from sodium azide reaction with iodine.'
+  keywords:
+    default:
+      keywords:
+        subject: Chromatography
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2001-08-31'
+    publication: '2001'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5883274
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5883273
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-S.-Rathore:
+    individualname: H. S. Rathore
+    role: creator
+    organization: ''
+    url: ''
+  Sunil-Kumar:
+    individualname: Sunil Kumar
+    role: creator
+  Y.-N.-Singh:
+    individualname: Y. N. Singh
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-Sunil:
+    individualname: Kumar, Sunil
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

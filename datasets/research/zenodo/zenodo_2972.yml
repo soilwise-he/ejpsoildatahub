@@ -1,0 +1,117 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Siegfried_2023
+  dataseturi: https://doi.org/10.5194/egusphere-2023-520
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Assessing Future Hydrological Impacts of Climate Change on High-Mountain
+    Central Asia: Insights from a Stochastic Soil Moisture Water Balance Model'
+  abstract:
+  - '&lt;p&gt;&lt;strong&gt;Abstract (Preprint).&lt;/strong&gt;&nbsp;We use a new
+    set of data available to compute 21&lt;sup&gt;st&lt;/sup&gt;&nbsp;century climate
+    impacts on the hydrology of 221 catchments in high-mountain Central Asia. For
+    each of these subcatchments, a parsimonious steady state stochastic soil moisture
+    water balance model was set up and the partitioning of available water from precipitation
+    into runoff and evaporation computed for different climate futures using the Budyko
+    framework. Climate change sensitivity coefficients are analytically derived for
+    the first time using the total differential method. Relative changes in discharge
+    for three future periods 2011&ndash;2040, 2041&ndash;2070, and 2071&ndash;2100
+    were computed in relation to the baseline period from 1979&ndash;2011. For the
+    baseline observation period, climate data from a global high-resolution climatology
+    data set (CHELSA V21) were used to extract mean daily subcatchment-specific temperature
+    and precipitation values. Data from the coupled model intercomparison project
+    phase 6 (CMIP6) were used to compute catchment mean future climate data using
+    4 GCM models with 4 scenario runs each. CMIP6 data were bias corrected with CHELSA
+    V21 observation data. For the spatial distribution of soil parameters, different
+    global products were utilized. The robustness of the soil water balance model
+    results was assessed using a comprehensive sensitivity analysis in relation to
+    variations of these soil parameters over typically observed ranges for each subcatchment.&lt;/p&gt;
+
+
+    &lt;p&gt;The analysis of climate change suggests increasing precipitation over
+    the three periods (+4.44 %, +5.89 %, and +8.51 % relative increases in median
+    total precipitation averaged over subcatchment and scenarios). Median values of
+    temperatures changes between periods relative to the baseline are +1.33 &deg;C,
+    +2.44 &deg;C, and +3.55 &deg;C. Results of the hydrological soil water balance
+    model runs suggest a median increase of discharge of +4.71 %, +7.44 % and +10.87
+    % for the corresponding periods. This is a strong indication of a wetter and hotter
+    future in Central Asia, relative to today&rsquo;s hydroclimate. Modelling results
+    suggest that decreasing contributions from glacier melt over the course of the
+    21&lt;sup&gt;st&lt;/sup&gt;&nbsp;century will be offset by increases in discharge
+    consistently throughout the region, despite increasing potential evapotranspiration.
+    Increases in relative discharge will be most pronounced in the Afghan Murghab-Harirud
+    basin and in the Amu Darya. Changes in precipitation characteristics in terms
+    of frequency and event depth also indicate possible impacts on hydrological extremes
+    which remains a heavily under researched topic in Central Asia.&lt;/p&gt;'
+  - '&lt;p&gt;EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-520, 2023.
+    Discussion started: 11 Apr 2023&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Hydrological Impact
+      - Climate Change
+      - Central Asia
+      - Stochastic Soil Moisture Water Balance Model
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Assessing Future Hydrological Impacts of Climate Change on High-Mountain
+      Central Asia: Insights from a Stochastic Soil Moisture Water Balance Model'
+    url: http://dx.doi.org/10.5194/egusphere-2023-520
+    type: www
+contact:
+  EGUsphere:
+    individualname: EGUsphere
+    role: creator
+  Tobias-Siegfried:
+    individualname: Tobias Siegfried
+    role: creator
+  Aziz-Ul-Haq-Mujahid:
+    individualname: Aziz Ul Haq Mujahid
+    role: creator
+  Beatrice-Sabine-Marti:
+    individualname: Beatrice Sabine Marti
+    role: creator
+  Peter-Molnar:
+    individualname: Peter Molnar
+    role: creator
+  Dirk-Nikolaus-Karger:
+    individualname: Dirk Nikolaus Karger
+    role: creator
+  Andrey-Yakovlev:
+    individualname: Andrey Yakovlev
+    role: creator
+  Siegfried-Tobias:
+    individualname: Siegfried, Tobias
+    role: creator
+  Mujahid-Aziz-Ul-Haq:
+    individualname: Mujahid, Aziz Ul Haq
+    role: creator
+  Marti-Beatrice-Sabine:
+    individualname: Marti, Beatrice Sabine
+    role: creator
+  Molnar-Peter:
+    individualname: Molnar, Peter
+    role: creator
+  Karger-Dirk-Nikolaus:
+    individualname: Karger, Dirk Nikolaus
+    role: creator
+  Yakovlev-Andrey:
+    individualname: Yakovlev, Andrey
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

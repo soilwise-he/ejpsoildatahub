@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7323909
+  dataseturi: https://doi.org/10.5281/zenodo.7323909
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Computation of total soil organic carbon stock and its standard deviation
+    from layered soils
+  abstract: To assess carbon sequestration in the agricultural and natural systems,
+    it is usually required to report soil organic carbon (SOC) as mass per unit area
+    (Mg ha-1) for a single soil layer (e.g., the 0-0.3 m ploughing layer). However,
+    if the SOC data are reported as relative concentration (g kg-1 or %), it is required
+    to compute the SOC stock and its standard deviation (SD) for a given layer as
+    the product of SOC concentration and bulk density (BD). For a proper computation,
+    it is required to consider that these two variables are correlated. Moreover,
+    if the data are already reported as SOC stock for multiple sub-layers (e.g., 0-0.15
+    m, 0.15-0.3 m) it is necessary to compute the SOC stock and its SD for a single
+    soil layer (e.g., 0-0.3 m). The correlation between stocks values from adjacent
+    and non-adjacent soil sub-layers must be accounted to compute the SD of the single
+    soil layer.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7323909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7323908
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tadiello-Tommaso:
+    individualname: Tadiello Tommaso
+    role: creator
+    organization: University of Milan
+    url: ''
+  Perego-Alessia:
+    individualname: Perego Alessia
+    role: creator
+    organization: University of Milan
+    url: ''
+  Valkama-Elena:
+    individualname: Valkama Elena
+    role: creator
+    organization: Natural Resources Institute Finland
+    url: ''
+  Schillaci-Calogero:
+    individualname: Schillaci Calogero
+    role: creator
+    organization: European Commission, Joint Research Centre
+    url: ''
+  Acutis-Marco:
+    individualname: Acutis Marco
+    role: creator
+    organization: University of Milan
+    url: ''
+content_info: {}

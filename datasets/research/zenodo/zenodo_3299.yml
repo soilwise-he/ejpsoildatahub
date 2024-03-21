@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10159516
+  dataseturi: https://doi.org/10.5281/zenodo.10159516
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil Restoration: Assessment and Reclamation'
+  abstract: "This book has been designed to enquire about the various aspects of agronomy.\
+    \ However, agronomy is the collection of various fields' viz., floriculture, horticulture,\
+    \ olericulture, seed science, soil science etc. Moreover, we tried our best to\
+    \ insight the journey of agriculture since evolution, practices used in ancient\
+    \ India and modern India, sustainable agriculture, application of cyanobacteria\
+    \ in agriculture, cultivation of fruits, medicinal plants, organic amendments\
+    \ in agriculture and other useful plants and effects of climate change on agronomy.\
+    \ The book comprises 18 chapters covering almost every aspect of agriculture contributed\
+    \ by several researchers and faculties from various fields. Each chapter starts\
+    \ with an introduction to the issue, illustrating it, stating the effects of the\
+    \ issue and remedial measures, where appropriate, to achieve set goals of agronomy.\n\
+    \_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-20'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10159516
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10159515
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  AGROBIOS-RESEARCH:
+    individualname: AGROBIOS RESEARCH
+    role: creator
+    organization: ''
+    url: ''
+  Uniyal-Dr.-Akshat:
+    individualname: Uniyal, Dr. Akshat
+    role: Editor
+    organization: ''
+    url: ''
+  Sharma-Dr.-Isha:
+    individualname: Sharma, Dr. Isha
+    role: Editor
+    organization: ''
+    url: ''
+  Tiwari-Dr.-Indu:
+    individualname: Tiwari, Dr. Indu
+    role: Editor
+    organization: ''
+    url: ''
+content_info: {}

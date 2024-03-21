@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: _erevkov__2019
+  dataseturi: https://doi.org/10.21307/jofnem-2019-042
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A case study of soil food web components affected by Fallopia japonica (Polygonaceae)
+    in three natural habitats in Central Europe
+  abstract: "\u010Cerevkov\xE1, Andrea, Bobu\u013Esk\xE1, Lenka, Miklisov\xE1, Dana,\
+    \ Ren\u010Do, Marek (2019): A case study of soil food web components affected\
+    \ by Fallopia japonica (Polygonaceae) in three natural habitats in Central Europe.\
+    \ Journal of Nematology 51 (1): 1-16, DOI: 10.21307/jofnem-2019-042, URL: http://dx.doi.org/10.21307/jofnem-2019-042"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A case study of soil food web components affected by Fallopia japonica (Polygonaceae)
+      in three natural habitats in Central Europe
+    url: http://dx.doi.org/10.21307/jofnem-2019-042
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cerevkova-Andrea:
+    individualname: "\u010Cerevkov\xE1, Andrea"
+    role: creator
+  Bobulska-Lenka:
+    individualname: "Bobu\u013Esk\xE1, Lenka"
+    role: creator
+  Miklisova-Dana:
+    individualname: "Miklisov\xE1, Dana"
+    role: creator
+  Renco-Marek:
+    individualname: "Ren\u010Do, Marek"
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

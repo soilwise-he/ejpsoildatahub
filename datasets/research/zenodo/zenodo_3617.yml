@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1087760
+  dataseturi: https://doi.org/10.5281/zenodo.1087760
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Contribution Of Root Respiration To Soil Respiration In Sugarcane Plantation
+    In Thailand
+  abstract: The understanding on the contribution of root respiration to total soil
+    respiration is still very limited, especially for sugarcane. In this study, trenching
+    experiments in sugarcane plantations were conducted to separate and investigate
+    soil respiration for this crop. The measurements were performed for the whole
+    growing period of 344 days to quantify root respiration. The obtained monitoring
+    data showed that the respiration rate is increasing with the age of the plant,
+    accounting for up to 29% of the total soil respiration before harvesting. The
+    root to soil respiration ratio increased rapidly during the young seedling stage,
+    i.e. first five months, then declined and finally got stabilized during yield
+    formation and ripening stages, respectively. In addition, the results from the
+    measurements confirmed that soil respiration was positively correlated with soil
+    moisture content.
+  keywords:
+    default:
+      keywords:
+        subject: sugarcane.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-09-22'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1087760
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1087759
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wilaiwan-Sornpoon:
+    individualname: Wilaiwan Sornpoon
+    role: creator
+    organization: ''
+    url: ''
+  Sebastien-Bonnet:
+    individualname: Sebastien Bonnet
+    role: creator
+  Poonpipope-Kasemsap:
+    individualname: Poonpipope Kasemsap
+    role: creator
+    organization: ''
+    url: ''
+  Savitri-Garivait:
+    individualname: Savitri Garivait
+    role: creator
+  Bonnet-Sebastien:
+    individualname: Bonnet, Sebastien
+    role: ''
+    organization: ''
+    url: ''
+  Garivait-Savitri:
+    individualname: Garivait, Savitri
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

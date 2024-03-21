@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: O_Neill
+  dataseturi: https://doi.org/10.1109/igarss.1997.606425
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Radar detection of near-surface buried metallic reflectors in wet soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Radar detection of near-surface buried metallic reflectors in wet soil
+    url: http://dx.doi.org/10.1109/igarss.1997.606425
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O'Neill-K.:
+    individualname: "O\u2019Neill, K."
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

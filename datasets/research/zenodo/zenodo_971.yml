@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10605404
+  dataseturi: https://doi.org/10.5281/zenodo.10605404
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Artificial Intelligence Applications in Soil and Water Management: A Comprehensive
+    Review'
+  abstract: "Agriculture, a cornerstone of human civilization, faces unprecedented\
+    \ challenges in the 21st century. Population growth, climate change, and resource\
+    \ limitations compel the industry to seek innovative solutions. Artificial Intelligence\
+    \ (AI) has emerged as a transformative force, offering unprecedented opportunities\
+    \ to enhance efficiency, sustainability, and productivity in agriculture.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-02-01'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10605404
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10605403
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  trends-in-Agriculture-Science:
+    individualname: trends in Agriculture Science
+    role: creator
+  Dr.-Sangeetha:
+    individualname: Dr. Sangeetha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.823891
+  dataseturi: https://doi.org/10.5281/zenodo.823891
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Relationship Of Biofilms And Physicochemical Properties Of Soil Samples
+    With Corrosion Of Water Pipelines In Minna, Niger State, Nigeria
+  abstract: This study investigated the relationship of biofilms and physicochemical
+    properties of soil samples with corrosion of water pipelines in Barkin-Sale, Bosso,
+    Chanchaga, Keteren-Gwari, Maikunkele and Kwangila areas of Minna metropolis. Corroded
+    water pipes and soil samples were analysed for microbiological and physicochemical
+    properties and their influence on corrosion correlated between the months of February
+    and July, 2008. The corrosion products detected in the soil samples were sulphide
+    and phosphide. The mean concentration of sulphide ranged from 1020 to 3033ppm
+    and that of phosphide ranged from 13.50 to 22.58ppm. The mean organic carbon ranged
+    from 0.35 to 0.89%, mean organic matter ranged from 0.62 to 1.57%, mean pH ranged
+    from 6.73 to 7.70 and mean moisture ranged from 4.33 to 16.63%. There was a significant
+    difference (P&lt;0.05) in the level of sulphide, phosphide, organic carbon, organic
+    matter and moisture in the locations but there was no significant difference (P&gt;0.05)
+    in their pH. The mean total aerobic bacterial counts ranged from 3.5x10<sup>3</sup>cfu/g
+    to 7.2x10<sup>4</sup>cfu/g, mean total aerobic bacterial counts ranged from 3.0x10<sup>3</sup>cfu/g
+    t0 5.6x10<sup>5</sup>cfu/g. total aerobic bacterial counts (TABC) was positively
+    correlated with phosphide and negatively correlated with organic matter, pH, moisture,
+    total fungal counts (TFC) and total anaerobic bacterial counts (TAnBC). The total
+    anaerobic bacterial counts (TAnBC) was positively correlated with sulphide, phosphide,
+    organic carbon, organic matter and pH while the total fungal counts (TFC) was
+    positively correlated with sulphide, organic carbon, organic matter, pH and moisture
+    and negatively correlated with phosphide total aerobic bacterial counts and total
+    anaerobic bacterial counts
+  keywords:
+    default:
+      keywords:
+        subject: Biofilms, physicochemical properties, corrosion, water pipes and
+          soil samples
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2011-07-07'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.823891
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.823890
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Oyewole-O.A:
+    individualname: Oyewole O.A
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gelagoti_2010
+  dataseturi: https://doi.org/10.1785/0120100002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Seismic Wave Propagation in a Very Soft Alluvial Valley: Sensitivity to
+    Ground-Motion Details and Soil Nonlinearity, and Generation of a Parasitic Vertical
+    Component'
+  abstract: 'This paper explores the sensitivity of 2D wave effects to crucial problem
+    parameters, such as the frequency content of the base motion, its details, and
+    soil non-linearity. A numerical study is conducted, utilizing a shallow soft valley
+    as a test case. It is shown that wave focusing effects near valley edges and surface
+    waves generated at valley corners are responsible for substantial aggravation
+    (AG) of the seismic motion. With high-frequency seismic excitation, 1D soil amplification
+    is prevailing at the central part of the valley, while 2D phenomena are localized
+    near the edges. For low-frequency seismic excitation, wave focusing effects are
+    overshadowed by laterally propagating surface waves, leading to a shift in the
+    location of maximum AG towards the valley center. If the response is elastic,
+    the details of the seismic excitation do not seem to play any role on the focusing
+    effects at valley edges, but make a substantial difference at the valley center,
+    where surface waves are dominant. The increase of damping mainly affects the propagation
+    of surface waves, reducing AG at the valley center, but does not appear to have
+    any appreciable effect at the valley edges. Soil nonlinearity may modify the 2D
+    valley response significantly. For idealized single-pulse seismic excitations,
+    AG at the valley center is reduced with increasing nonlinearity. Quite remarkably,
+    for real multi-cycle seismic excitations AG at the valley edges may increase with
+    soil nonlinearity. In contrast to the vertical component of an incident seismic
+    motion, which is largely the result of P-waves and is usually of too high frequency
+    to pose a serious threat to structures, the valley-generated parasitic vertical
+    component could be detrimental to structures : being a direct result of 2D wave
+    reflections/refractions, it is well correlated and with essentially the same dominant
+    periods as the horizontal component'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Seismic Wave Propagation in a Very Soft Alluvial Valley: Sensitivity to
+      Ground-Motion Details and Soil Nonlinearity, and Generation of a Parasitic Vertical
+      Component'
+    url: http://dx.doi.org/10.1785/0120100002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gelagoti-Fani:
+    individualname: Gelagoti, Fani
+    role: creator
+  Kourkoulis-Rallis:
+    individualname: Kourkoulis, Rallis
+    role: creator
+  Anastasopoulos-Ioannis:
+    individualname: Anastasopoulos, Ioannis
+    role: creator
+  Tazoh-Takashi:
+    individualname: Tazoh, Takashi
+    role: creator
+  Gazetas-George:
+    individualname: Gazetas, George
+    role: creator
+  Gelagoti-F.:
+    individualname: Gelagoti, F.
+    role: creator
+  Kourkoulis-R.:
+    individualname: Kourkoulis, R.
+    role: creator
+  Anastasopoulos-I.:
+    individualname: Anastasopoulos, I.
+    role: creator
+  Tazoh-T.:
+    individualname: Tazoh, T.
+    role: creator
+  Gazetas-G.:
+    individualname: Gazetas, G.
+    role: creator
+  Seismological-Society-of-America-SSA:
+    individualname: Seismological Society of America (SSA)
+    role: creator
+content_info: {}

@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8414124
+  dataseturi: https://doi.org/10.5281/zenodo.8414124
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECTS OF MICROGRID REINFORCEMENT ON SOIL STRENGTH
+  abstract: In geotechnical engineering geogrid materials are in use to reinforce
+    the soil recently. When these materials are used together with the soil, the strength
+    parameters of the soil increases. The usage of geogrids is also very profitable
+    to improve the soil because the material is very economical, easy to apply and
+    durable. Engineers needs some design parameters about this materials when used
+    withsoils for geotechnical designs. Therefore, experimental studies that will
+    enable these parameters to be determined are of great importance. In this study,
+    triaxial compression tests were carried out under four different cell pressures(50,
+    100, 150, 200 kPa) in labarotory by using microgrids, which showss similar functions
+    with geogrid. Soil samples were prepared without microgrid, single layer microgrid,
+    two layers microgrid and three layers microgrid and each of them were individually
+    tested in triaxial compression. 2 mm aperture sized grid reinforcement configurated
+    in 50*100 mm in silty soil triaxial specimen as in layer form of one to three.
+    In the experimental study, it was determined that the strength values of the soil
+    samples using geogrid were higher than those without geogrid. It was also found
+    that the most efficient reinforcement was the use of two layers of microgrid.
+    One of the important findings was taht with the use of microgrid reinforcement,
+    the strength parameters of the soil could be increased by % 307.
+  keywords:
+    default:
+      keywords:
+        subject: Microgrid, Reinforced Soil, Soil Improvement, Triaxial Compression
+          Test
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2023-10-06'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8414124
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8414123
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ercan-Egemen-Basar:
+    individualname: "Ercan Egemen Ba\u015Far"
+    role: creator
+  Basar-Ercan-Egemen:
+    individualname: "Ba\u015Far, Ercan Egemen"
+    role: ''
+    organization: Suleyman Demirel University Isparta/TURKEY
+    url: https://orcid.org/0000-0001-8175-6923
+content_info: {}

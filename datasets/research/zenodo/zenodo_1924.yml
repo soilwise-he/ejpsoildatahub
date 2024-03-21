@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3463477
+  dataseturi: https://doi.org/10.5281/zenodo.3463477
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Parametric study to evaluate the performance of horizontal drains as mitigation
+    technique against soil liquefaction
+  abstract: 'In the framework of the LIQUEFACT project a series of centrifuge tests
+    were conducted at ISMGEO (Italy) to verify the effectiveness of three mitigation
+    techniques against soil liquefaction. This paper is focused on the study of horizontal
+    drains as mitigation measure against liquefaction. The centrifuge layout with
+    horizontal drains was numerically modelled and the change of boundary conditions
+    reproduced by the FE code Plaxis 2D. Additionally, slightly different layouts
+    from those tested in the centrifuge were also modelled to expand the scope of
+    the experimental work. Horizontal drains were installed in the model, to analyse
+    their effectiveness in reducing the pore pressure build up as a function of their
+    spacing. The soil was characterized by an advanced coupled soils constitutive
+    model implemented in the Plaxis code: PM4sand. The input parameters for the model
+    are evaluated on the basis of both laboratory element tests and centrifuge tests.
+    <br>'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    available: '2020-07-19'
+    accepted: '2019-07-19'
+    issued: '2019'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3463477
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3463476
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fasano-Gianluca:
+    individualname: Fasano, Gianluca
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Nappa-Valeria:
+    individualname: Nappa, Valeria
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Bilotta-Emilio:
+    individualname: Bilotta, Emilio
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Flora-Alessandro:
+    individualname: Flora, Alessandro
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+content_info: {}

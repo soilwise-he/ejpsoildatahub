@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sun_2018
+  dataseturi: https://doi.org/10.5194/acp-18-1363-2018
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Soil fluxes of carbonyl sulfide (COS), carbon monoxide, and carbon dioxide\
+    \ in a\_boreal forest in southern Finland"
+  abstract: "Soil is a\_major contributor to the biosphere\u2013atmosphere exchange\
+    \ of carbonyl\nsulfide (COS) and carbon monoxide (CO). COS is a\_tracer with which\
+    \ to quantify\nterrestrial photosynthesis based on the coupled leaf uptake of\
+    \ COS and\nCO&lt;sub&gt;2&lt;/sub&gt;, but such use requires separating soil COS\
+    \ flux, which is\nunrelated to photosynthesis, from ecosystem COS uptake. For\
+    \ CO, soil is\na\_significant natural sink that influences the tropospheric CO\
+    \ budget. In the\nboreal forest, magnitudes and variabilities of soil COS and\
+    \ CO fluxes remain\npoorly understood. We measured hourly soil fluxes of COS,\
+    \ CO, and CO&lt;sub&gt;2&lt;/sub&gt;\nover the 2015 late growing season (July\
+    \ to November) in a\_Scots pine forest\nin Hyyti\xE4l\xE4, Finland. The soil acted\
+    \ as a\_net sink of COS and CO,\nwith average uptake rates around 3\u202Fpmol\u2006\
+    m&lt;sup&gt;\u22122&lt;/sup&gt;\u2006s&lt;sup&gt;\u22121&lt;/sup&gt; for COS and\n\
+    1\u202Fnmol\u2006m&lt;sup&gt;\u22122&lt;/sup&gt;\u2006s&lt;sup&gt;\u22121&lt;/sup&gt;\
+    \ for CO. Soil respiration showed\nseasonal dynamics controlled by soil temperature,\
+    \ peaking at around\n4\u202F\xB5mol\u2006m&lt;sup&gt;\u22122&lt;/sup&gt;\u2006\
+    s&lt;sup&gt;\u22121&lt;/sup&gt; in late August and September and dropping\nto\
+    \ 1\u20132\u202F\xB5mol\u2006m&lt;sup&gt;\u22122&lt;/sup&gt;\u2006s&lt;sup&gt;\u2212\
+    1&lt;/sup&gt; in October. In contrast, seasonal\nvariations of COS and CO fluxes\
+    \ were weak and mainly driven by soil moisture\nchanges through diffusion limitation.\
+    \ COS and CO fluxes did not appear to\nrespond to temperature variation, although\
+    \ they both correlated well with\nsoil respiration in specific temperature bins.\
+    \ However,\nCOS\u202F:\u202FCO&lt;sub&gt;2&lt;/sub&gt; and CO\u2009:\u2009CO&lt;sub&gt;2&lt;/sub&gt;\
+    \ flux ratios increased\nwith temperature, suggesting possible shifts in active\
+    \ COS- and CO-consuming\nmicrobial groups. Our results show that soil COS and\
+    \ CO fluxes do not have\nstrong variations over the late growing season in this\
+    \ boreal forest and can\nbe represented with the fluxes during the photosynthetically\
+    \ most active\nperiod. Well-characterized and relatively invariant soil COS fluxes\n\
+    strengthen the case for using COS as a\_photosynthetic tracer in boreal\nforests."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Soil fluxes of carbonyl sulfide (COS), carbon monoxide, and carbon dioxide\
+      \ in a\_boreal forest in southern Finland"
+    url: http://dx.doi.org/10.5194/acp-18-1363-2018
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sun-W.:
+    individualname: Sun, W.
+    role: creator
+  Kooijmans-L.-M.-J.:
+    individualname: Kooijmans, L. M. J.
+    role: creator
+  Maseyk-K.:
+    individualname: Maseyk, K.
+    role: creator
+  Chen-H.:
+    individualname: Chen, H.
+    role: creator
+  Mammarella-I.:
+    individualname: Mammarella, I.
+    role: creator
+  Vesala-T.:
+    individualname: Vesala, T.
+    role: creator
+  Levula-J.:
+    individualname: Levula, J.
+    role: creator
+  Keskinen-H.:
+    individualname: Keskinen, H.
+    role: creator
+  Seibt-U.:
+    individualname: Seibt, U.
+    role: creator
+  Sun-Wu:
+    individualname: Sun, Wu
+    role: creator
+  Kooijmans-Linda-M.-J.:
+    individualname: Kooijmans, Linda M. J.
+    role: creator
+  Maseyk-Kadmiel:
+    individualname: Maseyk, Kadmiel
+    role: creator
+  Chen-Huilin:
+    individualname: Chen, Huilin
+    role: creator
+  Mammarella-Ivan:
+    individualname: Mammarella, Ivan
+    role: creator
+  Vesala-Timo:
+    individualname: Vesala, Timo
+    role: creator
+  Levula-Janne:
+    individualname: Levula, Janne
+    role: creator
+  Keskinen-Helmi:
+    individualname: Keskinen, Helmi
+    role: creator
+  Seibt-Ulli:
+    individualname: Seibt, Ulli
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

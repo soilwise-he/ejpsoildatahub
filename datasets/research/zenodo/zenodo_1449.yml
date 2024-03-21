@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8002494
+  dataseturi: https://doi.org/10.5281/zenodo.8002494
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'ECOSYSTEM MANAGEMENT: A METHOD FOR INCREASING SOIL FERTILITY IN DENSELY
+    POPULATED RURAL AREAS'
+  abstract: Soils are an integral part of the ecosystem. Through this article, the
+    author made proposals on the serious problem of soil in the territory of the village
+    of Uchtepa, Buloboshi district, Andijan region, which leads the Republic in terms
+    of population density, and its elimination.
+  keywords:
+    default:
+      keywords:
+        subject: 'Keywords: Densely populated areas, efficient land use, irrigated
+          land, correlated criteria, dense arzic layer, drainage, sandy layer.'
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8002494
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8002493
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kadyrov-Hamidullo-Madaminjonovich:
+    individualname: Kadyrov Hamidullo Madaminjonovich
+    role: creator
+    organization: Andijan Institute of Mechanical Engineering, senior lecturer of
+      the "Labor Protection" department
+    url: ''
+content_info: {}

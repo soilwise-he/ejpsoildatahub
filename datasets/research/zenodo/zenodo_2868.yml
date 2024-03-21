@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nyang_au_2023
+  dataseturi: https://doi.org/10.1016/j.biteb.2023.101675
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Nitrogen availability in digestates from full-scale biogas plants following
+    soil application as affected by operation parameters and input feedstocks
+  abstract: '&lt;p&gt;Biogas operation parameters are usually optimised to enhance
+    biogas yields while ignoring&nbsp;&lt;a title="Learn more about digestate from
+    ScienceDirect''s AI-generated Topic Pages" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/digestate"&gt;digestate&lt;/a&gt;&nbsp;quality.
+    This study evaluated the effects of varying operation parameters and input&nbsp;&lt;a
+    title="Learn more about feedstocks from ScienceDirect''s AI-generated Topic Pages"
+    href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/feedstock"&gt;feedstocks&lt;/a&gt;&nbsp;used
+    in co-digestion with manure on digestate properties and N turnover in soil for
+    80&nbsp;days. Net inorganic N release (% of N input) from digestates varied significantly
+    (&lt;em&gt;p&lt;/em&gt;&nbsp;&lt;&nbsp;0.001) due to their contrasting properties.
+    Temperature,&nbsp;&lt;a title="Learn more about hydraulic retention time from
+    ScienceDirect''s AI-generated Topic Pages" href="https://www.sciencedirect.com/topics/engineering/hydraulic-retention-time"&gt;hydraulic
+    retention time&lt;/a&gt;&nbsp;(HRT), manure type and input feedstocks significantly
+    influenced soil inorganic N release. Animal slurry co-digested with energy crops
+    had the highest average net soil inorganic N release at 67&nbsp;%, while co-digestion
+    with straw-based feedstock had the lowest at 56&nbsp;%. Feedstock type greatly
+    influenced the choice of digesting temperature and HRT, with most energy crop-based
+    feedstocks digested at &lt;50&nbsp;days HRT. Digestate properties NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;&nbsp;-N/total
+    N, C/N and total&nbsp;&lt;a title="Learn more about carbon concentration from
+    ScienceDirect''s AI-generated Topic Pages" href="https://www.sciencedirect.com/topics/engineering/carbon-concentration"&gt;carbon
+    concentration&lt;/a&gt; significantly influenced net inorganic N release in soil.
+    A better understanding of the effects of biogas operation variables on nutrient
+    availability and digestate fertilising properties could help design and optimise
+    the anaerobic digestion process to increase biogas yields and N fertiliser value
+    of the digestates.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Nitrogen availability in digestates from full-scale biogas plants following
+      soil application as affected by operation parameters and input feedstocks
+    url: http://dx.doi.org/10.1016/j.biteb.2023.101675
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nyang'au-Jared-Onyango:
+    individualname: "Nyang\u2019au, Jared Onyango"
+    role: creator
+  Sorensen-Peter:
+    individualname: "S\xF8rensen, Peter"
+    role: creator
+  Moller-Henrik-Bjarne:
+    individualname: "M\xF8ller, Henrik Bjarne"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

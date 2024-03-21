@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hilgard_1872
+  dataseturi: https://doi.org/10.2475/ajs.s3-4.24.434
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On soil analyses and their utility
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On soil analyses and their utility
+    url: http://dx.doi.org/10.2475/ajs.s3-4.24.434
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hilgard-E.-W.:
+    individualname: Hilgard, E. W.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

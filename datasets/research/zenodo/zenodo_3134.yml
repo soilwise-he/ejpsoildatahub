@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629917
+  dataseturi: https://doi.org/10.5281/zenodo.2629917
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Organic Matter and Chromium Evolution in Herbage and Soil in a Pinus radiata
+    Silvopastoral System in Northwest Spain after Sewage Sludge and Lime Application
+  abstract: "This article aims to compare the effects of applying three doses of sewage\
+    \ sludge, with\nor without liming, on organic matter, total and available chromium\
+    \ (Cr), and their \n oncentrationin plants. Unfertilized (NF) and mineral treatments\
+    \ were used as control. Soil\norganic-matter (SOM) modification depended on the\
+    \ interaction of liming and sewage\nsludge implementation. Liming, high sludge\
+    \ doses, and mineral treatment caused less\nSOM in the second year of study. However,\
+    \ after 3 years, SOM was increased by both\nmineral and sludge fertilizers compared\
+    \ to NF treatments as result of tree development\nand the reduction of organic-matter\
+    \ mineralization into the soil. These findings\ncould have important implications\
+    \ for soil carbon storage capacity. Total Cr in soil and\nforage was increased\
+    \ by sewage sludge application compared to mineral or NF treatments.\nLiming increased\
+    \ Cr availability in the spring of 2000, where sewage sludge was\napplied, and\
+    \ reduced Fe availability."
+  keywords:
+    default:
+      keywords:
+        subject: plant
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-06-26'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629917
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629916
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-RIGUEIRO-RODRIGUEZ:
+    individualname: "A. RIGUEIRO-RODR\xCDGUEZ"
+    role: creator
+    organization: ''
+    url: ''
+  M.-L.-LOPEZ-DIAZ:
+    individualname: "M. L. L\xD3PEZ-D\xCDAZ"
+    role: creator
+    organization: ''
+    url: ''
+  AND-M.-R.-MOSQUERA-LOSADA:
+    individualname: AND M. R. MOSQUERA-LOSADA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

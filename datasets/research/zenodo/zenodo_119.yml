@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sanford_1911
+  dataseturi: https://doi.org/10.1126/science.33.859.933-a
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Dr. Brush\u2019s Theory of Gravitation"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Dr. Brush\u2019s Theory of Gravitation"
+    url: http://dx.doi.org/10.1126/science.33.859.933-a
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  King-F.-H.:
+    individualname: King, F. H.
+    role: creator
+  Sanford-Fernando:
+    individualname: Sanford, Fernando
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

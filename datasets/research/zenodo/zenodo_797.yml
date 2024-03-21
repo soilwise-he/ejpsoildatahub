@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1219271
+  dataseturi: https://doi.org/10.5281/zenodo.1219271
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Comparison Of Soil Excitation Methods For Surface Wave Speed Measurements
+  abstract: 'Rayleigh waves are surface seismic waves, which can be produced by a
+    disturbance applied to the surface of a half-space. The dispersive behaviour of
+    Rayleigh waves in real multi-layered media is widely utilized for near-surface
+    acoustic characterization, e.g. in Spectral Analysis of Surface Waves (SASW),
+    and more recently, in Multi-channel Analysis of Surface Waves (MASW). These methods,
+    along with the associated field testing, result in the construction of a dispersion
+    curve. However, it is often difficult to measure the speed of Rayleigh waves in
+    a consistent manner. Other interference, such as direct, reflected and refracted
+    body waves, backscatter from nearby objects, are unwanted and could contaminate
+    the dispersion curve (i.e. the phase velocity) in a significant way. Thus, shear
+    or compression wave energy is undesirable. Furthermore, additional surface waves
+    coming from other sources and background noise can compound the problems.<br>
+
+    A wide range of different active sources have been utilized for decades in surface
+    wave-based methods, but the reliability and the differences among these have not
+    been properly assessed. The main focus of this paper is to compare different types
+    of soil excitation, in order to identify and quantify seismic waves generated
+    by each different type and to find a feasible Rayleigh wave source for the survey
+    of shallow depths. This will be in terms of type of energy generated, range of
+    frequencies excited, and amount of Rayleigh wave energy with respect to the total.
+    Particularly, in this paper, the excitations caused by inertial shakers, oscillating
+    in both the horizontal and vertical direction, and by transient sources like sledgehammers
+    and mallets, are examined. For each different type of excitation, two key aspects
+    are varied: the magnitude of the impact and the coupling of the source to the
+    soil. The transmission of the energy from the source to the soil will be investigated
+    using rigid platforms of different size, shape and material. This paper investigates
+    the limitations of each type of active source to be utilized. These goals are
+    pursued with experimental tests, digital processing of data, and by comparison
+    with analytical and numerical models.'
+  keywords:
+    default:
+      keywords:
+        subject: shear wave
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-01-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1219271
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1219270
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Michele-Iodice:
+    individualname: Michele Iodice
+    role: creator
+  Iodice-Michele:
+    individualname: Iodice, Michele
+    role: ''
+    organization: University of Southampton
+    url: ''
+content_info: {}

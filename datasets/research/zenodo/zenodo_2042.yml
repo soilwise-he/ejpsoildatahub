@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.4122-1.1000000352
+  dataseturi: https://doi.org/10.4122/1.1000000352
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Suite of Models for Producing Synthetic, Small-scale Thermal Imagery of
+    Vegetated Soil Surfaces
+  abstract: "A high-resolution, computational suite has been constructed to produce\
+    \ synthetic \nthermal imagery of vegetated soil surfaces.  Because a soil\u2019\
+    s moisture affects its \nthermal response, the model suite must include both moisture\
+    \ and energy \nmovement within the soil and plants.  Thus, the suite consists\
+    \ of a soil model, \na vegetation model, and a ray-casting model.  The models\
+    \ run simultaneously \non a single, parallel or serial computer and communicate\
+    \ using sockets.  \n\nThe soil model is a three-dimensional, spatially adaptive,\
+    \ continuous Galerkin, \nfinite element model that simulates partially-saturated\
+    \ flow and heat transport, \ncoupled to two-dimensional surface water flow.  The\
+    \ vegetation model simulates \ninfrared absorption, reflection, and transmission\
+    \ by discretized plant leaves and \nstems.  Ray casting provides boundary conditions\
+    \ for the soil and vegetation \nthermal models, and produces multi-spectral images\
+    \ of energy reflected and \nemitted from the synthetic scene.  Subsurface phase\
+    \ change, distributed root \nzone moisture uptake and transpiration, and flow\
+    \ through macropores and \ncracks are processes under construction.   \n\nExample\
+    \ calculations to be presented include a multi-million-element simulation \nfor\
+    \ an arid test site that is only a few meters in its longest dimension.  The models\
+    \ \nare driven with meteorological data and are built using material property\
+    \ data \ncollected at the field site.  Synthetic images produced are compared\
+    \ against those \nfrom thermal cameras.  A long-term goal of this work is to help\
+    \ build inversion \nsoftware to estimate ground state information (soil moisture\
+    \ and physical property \ndistributions) from airborne imagery."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.4122/1.1000000352
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Howington-Stacy:
+    individualname: Howington, Stacy
+    role: creator
+    organization: ''
+    url: stacy.e.howington@erdc.usace.army.mil
+  Peters-John:
+    individualname: Peters, John
+    role: creator
+    organization: ''
+    url: john.f.peters@erdc.usace.army.mil
+  Ballard-Jerry:
+    individualname: Ballard, Jerry
+    role: creator
+    organization: ''
+    url: jerry.ballard@erdc.usace.army.mil
+  Berry-Thomas:
+    individualname: Berry, Thomas
+    role: creator
+    organization: ''
+    url: thomas.e.berry@erdc.usace.army.mil
+  Lynch-Larry:
+    individualname: Lynch, Larry
+    role: creator
+    organization: ''
+    url: larry.n.lynch@erdc.usace.army.mil
+  Kees-Chris:
+    individualname: Kees, Chris
+    role: creator
+    organization: ''
+    url: christopher.e.kees@erdc.usace.army.mil
+content_info: {}

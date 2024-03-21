@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3676443
+  dataseturi: https://doi.org/10.5281/zenodo.3676443
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Lateritic Soil stabilized using Metakaolin
+  abstract: 'Laterite is the predominant type of soil encountered, in Nigeria during
+    the foundation of any civil engineering construction. Since the foundation of
+    all civil engineering structure rest on the soil, it is important to assess the
+    geotechnical properties of the soil and their suitability for civil engineering
+    construction process. This study, made an attempt to assess the geotechnical properties
+    of lateritic soil treated with metakaolin and also determine the peak (optimum)
+    quantity of metakaolin (MK) that could be used as road construction material as
+    such reduce the high cost and emission of greenhouse gas during production of
+    industrialized manufactured soil stabilizers such as cement, lime and bitumen.
+    All test analysis carried out were conducted in compliance with the British standard.
+    The engineering tests conducted on and stabilized soil samples include: Chemical
+    composition on Metakaolin using XRF, Mineralogical composition on the natural
+    soil using XRD, wet Sieve Analysis (hydrometer test), consistency Limit, moisture-density
+    relationship Test, California Bearing Ratio test (CBR), Specific Gravity, Unconfined
+    compressive Test (UCS) and Durability assessment test. Metakaolin (MK) obtained
+    after calcination of kaolin in a furnace (muffler furnace) at a temperature of
+    about 7500C was added in steeped concentrations of 2, 4, 6, 8 and 10%, by dry
+    weight of soil for Atterberg limit test, compaction test, California bearing ratio
+    test (CBR), Unconfined compressive strength test (UCS) and Durability assessment
+    test. Compaction effort was achieved using British Standard Light (BSL) and British
+    Standard Heavy (BSH).The chemical analysis test (oxide composition) provided on
+    metakaolin shows the major oxide present in the it are silicon oxide, Aluminium
+    oxide and iron oxide as such classified as a good pozzolanic material (class F).
+    From the mineralogical analysis test (X-ray diffraction) the predominant mineral
+    found in the soil are quartz and feldspar, making the soil to be a coarse grain
+    material Result of wet sieve analysis (hydrometer test) and consistency limit
+    test were used to classify the soil. The natural soil sample was classified as
+    A-4(3) according to AASHTO soil classification system and (SM) in the unified
+    soil classification system. The natural soil type is silty sand with Liquid Limit
+    of 38.3% and Plastic Limit of 25.9% and Plasticity Index of 12.4%. From the compaction
+    test conducted it was observe that upon addition of metakaolin content to the
+    soil at different percentages, increases the maximum dry density (MDD) and decreases
+    the optimum dry density (OMC) up to 6% metakaolin content. The result of UCS test
+    revealed that specimen cured for 3, 7, 14 and 28 days shows a gain in strength
+    from a natural soil value of 49, 400, 468 and 745kN/m2 to a peak value of 136,
+    951, 1155 and 1350kN/m2at 6% MK content and 61, 478, 551 and 871kN/m2 to a peak
+    value of 174, 1350, 1588 and 1881kN/m2 at 6% MK content when compacted using BSL
+    and BSH energy level respectively. The U-unsoaked CBR values increases from a
+    natural soil values of 32% and 42% to a peak values of 68% and 76% at 6% metakaolin
+    content, when compacted using BSL and BSH energies respectively. While the soaked
+    CBR values also increases from a natural soil values of 11% and 15% tom a peak
+    values of 32% and 40% at 6% metakaolin content, when compacted using BSL and BSH
+    energies respectively. The durability assessment test result shows that the loss
+    in strength values increases with increase in soaking period. Based on the strength
+    test results obtained a peak (optimum) of 6% MK content could be used to achieved
+    a desired sub-base material for light traffic roads.'
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-02-20'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3676443
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3676442
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmad-Muhammad:
+    individualname: Ahmad Muhammad
+    role: creator
+  Abdurrahman-Yusuf:
+    individualname: Abdurrahman Yusuf
+    role: creator
+  Murtala-Umar:
+    individualname: Murtala Umar
+    role: creator
+    organization: Senior Lecturer, Department of Civil Engineering, Faculty of Engineering,
+      Bayero University, Kano, Nigeria
+    url: ''
+  Muhammad-Ahmad:
+    individualname: Muhammad, Ahmad
+    role: ''
+    organization: Senior Lecturer, Department of Civil Engineering, Faculty of Engineering,
+      Kano state polytechnic, Kano, Nigeria
+    url: ''
+  Yusuf-Abdurrahman:
+    individualname: Yusuf, Abdurrahman
+    role: ''
+    organization: Research Student, Department of Civil Engineering, Faculty of Engineering,
+      Bayero University, Kano, Nigeria
+    url: ''
+content_info: {}

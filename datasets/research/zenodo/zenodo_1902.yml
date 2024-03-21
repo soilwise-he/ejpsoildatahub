@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2586700
+  dataseturi: https://doi.org/10.5281/zenodo.2586700
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Irrigation Water Quality on Soil Structure Along Asa River Bank,
+    Ilorin Kwara State
+  abstract: "Good soil structure is an essential element of healthy and sustainable\
+    \ agroecosystems. It promotes the development of extensive plant root systems\
+    \ and efficient use of water and nutrients. An experiment was carried out with\
+    \ the objective of evaluating the effect of irrigation water quality on soil structure,\
+    \ it was conducted in a two way factorial with four (4) locations selected along\
+    \ the river (0m, 200m, 400m and 600m) as factor A, and four (4) farmers\u2019\
+    \ plots were selected based on the years of irrigation (0, 10, 20 and 30 years)\
+    \ as factor B while three (3) farmers plots with similar irrigation history were\
+    \ used as replicates, with this arrangement 12 plots were selected in each farming\
+    \ location giving a total of 48 plots from which soil samples were taken for analysis.\
+    \ The mean concentration of the parameters were pH (7.09-7.82), Electrical Conductivity\
+    \ {EC} (0.09-0.14), Sodium Adsorption Ration {SAR} (0.12-0.74) Exchangeable Sodium\
+    \ Percentage {ESP} (3.59-9.46), Sand (74.67- 82.10), Silt (11.28-16.67), Clay\
+    \ (6.89-11.06), Mean Weight Diameter (1.38-1.53), Bulk density (1.12-1.29), Porosity\
+    \ (51.26-54.08), Saturated Hydraulic Conductivity (1.18-3.57). The mean concentration\
+    \ showed increase as the water flow downstream while higher value observed at\
+    \ location 3 (400m), the collected soil samples were subjected to analysis of\
+    \ variance using randomized complete block design (RCBD) at 5% probability level.\
+    \ The result showed that all the parameters were in a safe range when compared\
+    \ with WHO (2005) and FAO (2007) standard. It was recommended that effluent discharge\
+    \ and dumping of refuse along the river channel should be forcefully discouraged\
+    \ and that government should help in providing household disposal sites for the\
+    \ inhabitants of the town and that regular monitoring of Asa river be carried\
+    \ out as there is notable increase in the level of human and industrial activities\
+    \ along the course of the river."
+  keywords:
+    default:
+      keywords:
+        subject: Irrigation, Water quality, Soil structure, Asa River
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-07-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2586700
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2586699
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ajala-O.N.:
+    individualname: Ajala, O.N.
+    role: creator
+    organization: University of Ilorin
+    url: ''
+  Olaniyan-J.O.:
+    individualname: Olaniyan, J.O.
+    role: creator
+    organization: University of Ilorin
+    url: ''
+  Affinnih-K.:
+    individualname: Affinnih, K.
+    role: creator
+    organization: University of Ilorin
+    url: ''
+  Ahamefule-H.E.:
+    individualname: Ahamefule, H.E.
+    role: creator
+    organization: University of Ilorin
+    url: ''
+content_info: {}

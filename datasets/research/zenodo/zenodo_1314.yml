@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8085325
+  dataseturi: https://doi.org/10.5281/zenodo.8085325
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Estimation and Mapping of Soil Properties Based on Multi-Source Data Fusion
+  abstract: 'Recent advances in remote and proximal sensing technologies provide a
+    valuable source of information for enriching our geo-datasets, which are necessary
+    for soil management and the precision application of farming input resources.
+    This is because of the advantages of these modern technologies in that they provide
+    a high sampling density enabling the exploration of the within-field spatial and
+    temporal variability of soil characteristics, and being fast and cost-effective,
+    compared to the traditional laboratory analysis methods. However, soils are complex
+    in nature, and measurements of key soil properties or processes in soils might
+    not be achievable by the use of a single sensor. This necessitates innovative
+    solutions beyond the single-sensor approach, which should be implementable not
+    only under laboratory conditions but in situ in either stationary or on-line measurement
+    modes. In the past few years, several studies on the implementation of multi-sensor
+    (remote and proximal) and data fusion approaches in soil science have been reported
+    in the literature, although this research area is still at its early stages of
+    development. The aim of such integration is twofold: (1) improves the detection
+    accuracy of a soil property or a list of soil properties, and (2) improves the
+    quality of soil maps, management zone maps and the resulting decision support
+    for variable rate applications in precision agriculture. The integration of different
+    data layers has greatly benefited many other applications in agriculture and environmental
+    soil modeling that require more extensive temporal and spatial information than
+    that contained in any individual dataset provided by a single sensor. At the same
+    time, the major progress that has been made in different aspects of digital soil
+    mapping (DSM) make DSM more mature and operable than ever before. The integration
+    of multi-sensor source data fusion with the DSM technique is foreseen to provide
+    a better understanding of soil processes and enable a more accurate estimation
+    of soil properties at various spatial and temporal scales. It will also provide
+    new insights into processes occurring in soils and sources of variabilities linked
+    to soil dynamics in different scenarios of land management practices, precision
+    agriculture, environmental pollution, and climate change.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-04'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8085325
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8085324
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mouazen-Abdul-M.:
+    individualname: Mouazen, Abdul M.
+    role: creator
+    organization: Department of Environment, Faculty of Bioscience Engineering, Ghent
+      University
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: creator
+    organization: Institute of Agricultural Remote Sensing and Information Technology
+      Application, College of Environmental and Resource Sciences, Zhejiang University
+    url: ''
+content_info: {}

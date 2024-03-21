@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.839634
+  dataseturi: https://doi.org/10.5281/zenodo.839634
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Soil Management Practices On Evaporanspiration Of Sorghum Plot
+  abstract: "The trial was conducted to quantify soil water loss under sorghum at\
+    \ Samaru  (11<sup>o</sup> 11\u2019N, 7<sup>o</sup> 36\u2019E, 686m above mean\
+    \ sea level) on the Northern Guinea Savanna Ecological Zone of Nigeria during\
+    \ 2005/06 rainy seasons.  The treatments, which consisted of two soil management\
+    \ practices, mulched soil and bared soil, were replicated four times in a randomized\
+    \ complete block design.  Microlysimeters were installed at 8 weeks after sowing\
+    \ (WAS) for daily reading of potential evapotranspiration . Data were analyzed\
+    \ using the two way analysis of variance, and Pearson correlation analysis. Results\
+    \ from the two seasons indicated that there was a significant positive correlation\
+    \ between the yield, yield components and potential evapotranspiration under mulched\
+    \ soil. Under bare soil, water loss was not significantly correlated with the\
+    \ yield and yield components."
+  keywords:
+    default:
+      keywords:
+        subject: Sorghum, water loss, potential evapotranspiration and management
+          practices
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2009-08-07'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.839634
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.839633
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.N.-Edoga:
+    individualname: R.N. Edoga
+    role: creator
+    organization: ''
+    url: ''
+  K.O.-Oluwasemire:
+    individualname: K.O. Oluwasemire
+    role: creator
+    organization: ''
+    url: ''
+  Chinedu-Anyika:
+    individualname: Chinedu Anyika
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

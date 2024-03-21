@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mayor_2008
+  dataseturi: https://doi.org/10.1029/2007wr006367
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Measurement of the connectivity of runoff source areas as determined by
+    vegetation pattern and topography: A tool for assessing potential water and soil
+    losses in drylands'
+  abstract: The connectivity of runoff sources is considered one of the main factors
+    controlling the hydrology of sparsely vegetated landscapes. However, the empirical
+    demonstration of this role is very limited, partly because of the scarcity of
+    suitable connectivity metrics. In this work, we derived and tested a spatial metric,
+    Flowlength, for quantifying the connectivity of runoff source areas considering
+    both vegetation pattern and topography. Flowlength is calculated as the average
+    of the runoff pathway lengths from all the cells in a raster-based map of the
+    target site. We evaluated the relationships between the connectivity of runoff
+    sources, measured with Flowlength, and the runoff and sediment yields from six
+    plots and three catchments in semiarid southeast Spain. Flowlength distinguished
+    varying degrees of connectivity between differing vegetation patterns with similar
+    vegetation cover. The connectivity increased with the grain size of the bare areas
+    and was positively related to plot runoff and sediment yields. Flowlength also
+    correctly ranked the three catchments according to total runoff yielded during
+    the study period. The inclusion of microtopographic information in the quantification
+    of Flowlength improved the relationships between the pattern of runoff sources
+    and the measured fluxes, highlighting the importance of topographic features in
+    the connectivity of surface flows. In general, the microtopography had a net decreasing
+    effect on the connectivity, which was mainly attributed to an increase in the
+    amount of runoff sink areas caused by the sediment terracettes developed upslope
+    of plants. Our results confirm that the connectivity of runoff sources is a key
+    factor controlling runoff and erosion in semiarid lands and support the potential
+    of Flowlength as a surrogate for the hydrological functioning of ecosystems with
+    patchy vegetation.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Measurement of the connectivity of runoff source areas as determined by
+      vegetation pattern and topography: A tool for assessing potential water and
+      soil losses in drylands'
+    url: http://dx.doi.org/10.1029/2007wr006367
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mayor-Angeles-G.:
+    individualname: "Mayor, \u221A\xC5ngeles G."
+    role: creator
+  Bautista-Susana:
+    individualname: Bautista, Susana
+    role: creator
+  Small-Eric-E.:
+    individualname: Small, Eric E.
+    role: creator
+  Dixon-Mike:
+    individualname: Dixon, Mike
+    role: creator
+  Bellot-Juan:
+    individualname: Bellot, Juan
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+content_info: {}

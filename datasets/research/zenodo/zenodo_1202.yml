@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6771220
+  dataseturi: https://doi.org/10.5281/zenodo.6771220
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: The potential of biofumigation to control soil borne pests, pathogens and
+    weeds
+  abstract: "Problem Soil borne pests and pathogens can bring major constraints to\
+    \ crop production and their suppression often relies on synthetic chemicals that\
+    \ can be ineffective and/or expensive. A crop protection approach with broad efficacy\
+    \ and applicable for a wide range of crops and agronomic situations is needed.\
+    \ A group of UK growers who have been using and developing biofumigation and two\
+    \ industry experts in the field have explored the practicalities of applying the\
+    \ technique. This abstract is based on their findings which were discussed in\
+    \ a workshop that formed the basis for the \u2018Agroecology in Focus\u2019 podcast\
+    \ (see \u2018Further Information\u2019). Solution Biofumigation involves incorporating\
+    \ brassicaceous cover crops into the soil; they produce a range of secondary metabolites\
+    \ including glucosinolates which can control pests. Brassicas also contain an\
+    \ enzyme called myrosinase. When combined with water and glucosinolates, this\
+    \ enzyme produces volatile compounds (isothiocyanates) which help limit the proliferation\
+    \ of certain pathogens (bacteria, fungi, nematodes) and weeds. However, the effects\
+    \ of crops grown as biofumigants can be variable, with the impacts of the biomass\
+    \ and glucosinolates depending on how the crops are managed and the soil conditions.\
+    \ It is therefore important to make appropriate practical changes at the farming\
+    \ system level."
+  keywords:
+    default:
+      keywords:
+        subject: Learning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6771220
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6771219
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Caldbeck-Janie:
+    individualname: Caldbeck, Janie
+    role: creator
+    organization: ORC
+    url: ''
+content_info: {}

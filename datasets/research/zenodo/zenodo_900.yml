@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10670206
+  dataseturi: https://doi.org/10.5281/zenodo.10670206
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Behaviour of Undrained Cohesion in Fly Ash  Stabilized Lateritic Soil
+  abstract: 'An investigation of the behaviour of undrained cohesion in fly ash stabilized
+    lateritic soil was carried out with respect to the strength of the lateritic soil.
+    This study looks into the possibility of using fly ash to enhance the strength
+    of lateritic soils for construction purposes. The soil samples were obtained from
+    three (3) boreholes (BH1-BH3) at different locations at a depth of 1.0, 1.5 and
+    2.0 meters each. Several preliminary laboratory tests, including specific gravity,
+    moisture content, bulk density, Atterberg limit, particle size analysis and triaxial
+    tests were carried out first to characterize the lateritic soil. The stabilization
+    process was carried out with varying percentages of 5%, 10%, 15%, 20% and 25%
+    fly ash by weight of the lateritic soil to determine the undrained cohesion and
+    shear strength of the modified lateritic soil through triaxial test. The result
+    showed an increase in the undrained cohesion and shear strength for the three
+    (3) boreholes at the various depths respectively upon adding fly ash up until
+    15%, after which further increase in fly ash caused a decrease in the undrained
+    cohesion and strength. However, it was discovered that 15% fly ash gave the optimum
+    undrained cohesion and shear strength of the modified soil. This study will help
+    the construction sector utilize fly ash more effectively for stability, economic
+    and environmental benefits.
+
+
+    Keywords:- Undrained Cohesion, Fly Ash, Soil Stabilization, Lateritic Soil, Shear
+    Strength.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-02-16'
+    accepted: '2024-02-16'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10670206
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10670205
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Awarri-A.W.:
+    individualname: Awarri, A.W.
+    role: creator
+    organization: ''
+    url: ''
+  Otto-C.-G.:
+    individualname: Otto, C. G.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

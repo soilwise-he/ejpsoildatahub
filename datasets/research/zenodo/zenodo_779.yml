@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Malard_2019
+  dataseturi: https://doi.org/10.1093/femsec/fiz128
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Biogeographical patterns in soil bacterial communities across the Arctic
+    region
+  abstract: '&lt;p&gt;The considerable microbial diversity of soils and key role in
+    biogeochemical cycling have led to growing interest in their global distribution
+    and the impact that environmental change might have at the regional level. In
+    the broadest study of Arctic soil bacterial communities to date, we used high-throughput
+    DNA sequencing to investigate the bacterial diversity from 200 independent Arctic
+    soil samples from 43 sites. We quantified the impact of spatial and environmental
+    factors on bacterial community structure using variation partitioning analysis,
+    illustrating a nonrandom distribution across the region. pH was confirmed as the
+    key environmental driver structuring Arctic soil bacterial communities, while
+    total organic carbon (TOC), moisture and conductivity were shown to have little
+    effect. Specialist taxa were more abundant in acidic and alkaline soils while
+    generalist taxa were more abundant in acidoneutral soils. Of the 48 147 bacterial
+    taxa, a core microbiome composed of only 13 taxa that were ubiquitously distributed
+    and present within 95% of samples was identified, illustrating the high potential
+    for endemism in the region. Overall, our results demonstrate the importance of
+    spatial and edaphic factors on the structure of Arctic soil bacterial communities.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - 16S rRNA
+      - Arctic soil
+      - microbial diversity
+      - indicator species
+      - core microbiome
+      - biogeography
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Biogeographical patterns in soil bacterial communities across the Arctic
+      region
+    url: http://dx.doi.org/10.1093/femsec/fiz128
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lucie-Malard:
+    individualname: Lucie Malard
+    role: creator
+  Muhammad-Z.-Anwar:
+    individualname: Muhammad Z. Anwar
+    role: creator
+  Carsten-S.-Jacobsen:
+    individualname: Carsten S. Jacobsen
+    role: creator
+  David-A.-Pierce:
+    individualname: David A. Pierce
+    role: creator
+  Malard-Lucie-A:
+    individualname: Malard, Lucie A
+    role: creator
+  Anwar-Muhammad-Z:
+    individualname: Anwar, Muhammad Z
+    role: creator
+  Jacobsen-Carsten-S:
+    individualname: Jacobsen, Carsten S
+    role: creator
+  Pearce-David-A:
+    individualname: Pearce, David A
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

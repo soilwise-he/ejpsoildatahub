@@ -1,0 +1,144 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7733495
+  dataseturi: https://doi.org/10.5281/zenodo.7733495
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of biostimulation, bioaugmentation, and organic amendments application
+    on the bioremediation of recalcitrant hydrocarbons of soil
+  abstract: "In the present work, the operational conditions for improving the degradation\
+    \ rates of Total Petroleum Hydrocarbons (TPHs) in contaminated soil from a machinery\
+    \ park were optimized at a microcosms scale along a 90- days incubation period.\
+    \ In this study, bioremediation strategies and an organic amendment have been\
+    \ tested to verify the remediation of soil contaminated with different hydrocarbons,\
+    \ mineral oils, and heavy metals. Specifically, designed biostimulation and bioaugmentation\
+    \ strategies were compared with and without adding vermicompost. The polluted\
+    \ soil harboring multiple contaminants, partially attenuated for years, was used.\
+    \ The initial profile showed enrichment in heavy linear alkanes, suggesting a\
+    \ previous moderate weathering. The application of vermicompost increased five\
+    \ and two times the amounts of available phosphorus (P) and exchangeable potassium\
+    \ (K), respectively, as a direct consequence of the organic amendment addition.\
+    \ The microbial activity increased due to soil acidification, which influenced\
+    \ the solubility of P and other micronutrients. It also impacted the predominance\
+    \ and variability of the different microbial groups and the incubation, as reflected\
+    \ by phospholipid fatty acid (PLFA) results. An increase in the alkaline phosphatases\
+    \ and proteases linked to bacterial growth was displayed. This stimulation of\
+    \ microbial metabolism correlated with the degradation rates since TPHs degradation\u2019\
+    \ efficiency after vermicompost addition reached 32.5% and 34.4% of the initial\
+    \ hydrocarbon levels for biostimulation and bioaugmentation, respectively. Although\
+    \ Polycyclic Aromatic"
+  keywords:
+    default:
+      keywords:
+        subject: Biostimulation Bioaugmentation Phospholipid fatty acids Total petroleum
+          hydrocarbons polluted soils Soil enzymes
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-08'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7733495
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7733494
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sandra-Curiel-Alegre:
+    individualname: Sandra Curiel-Alegre
+    role: creator
+  Blanca-Velasco-Arroyo:
+    individualname: Blanca Velasco-Arroyo
+    role: creator
+  Carlos-Rumbo-Lorenzo:
+    individualname: Carlos Rumbo-Lorenzo
+    role: creator
+  Aqib-Hassan-Ali-Khan:
+    individualname: Aqib Hassan Ali Khan
+    role: creator
+  Juan-Antonio-Tamayo-Ramos:
+    individualname: Juan Antonio Tamayo-Ramos
+    role: creator
+  Carlos-Rad-Moradillo:
+    individualname: Carlos Rad-Moradillo
+    role: creator
+  Jose-Luis-R.-Gallego:
+    individualname: Jose Luis R. Gallego
+    role: creator
+  Rocio-Barros-Garcia:
+    individualname: Rocio Barros-Garcia
+    role: creator
+  Curiel-Alegre-Sandra:
+    individualname: Curiel-Alegre, Sandra
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0002-9286-7378
+  Velasco-Arroyo-Blanca:
+    individualname: Velasco-Arroyo, Blanca
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0001-5214-6499
+  Rumbo-Lorenzo-Carlos:
+    individualname: Rumbo-Lorenzo, Carlos
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0002-5038-0334
+  Khan-Aqib-Hassan-Ali:
+    individualname: Khan, Aqib Hassan Ali
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0002-2256-4742
+  Tamayo-Ramos-Juan-Antonio:
+    individualname: Tamayo-Ramos, Juan Antonio
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0002-7071-002X
+  Rad-Moradillo-Carlos:
+    individualname: Rad-Moradillo, Carlos
+    role: ''
+    organization: "Research Group in Composting (UBUCOMP), University of Burgos, Faculty\
+      \ of Sciences, Plaza Misael Ba\u02DCnuelos s/n, 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0003-2538-2212
+  Gallego-Jose-Luis-R.:
+    individualname: Gallego, Jose Luis R.
+    role: ''
+    organization: "Environmental Biogeochemistry & Raw Materials Group and INDUROT,\
+      \ Campus de Mieres, University of Oviedo, C/ Gonzalo Guti\xB4errez Quir\xB4\
+      os s/n, 33600, Mieres, Spain"
+    url: https://orcid.org/0000-0002-8243-3883
+  Barros-Garcia-Rocio:
+    individualname: Barros-Garcia, Rocio
+    role: ''
+    organization: "International Research Center in Critical Raw Materials for Advanced\
+      \ Industrial Technologies (ICCRAM), University of Burgos, Centro de I+D+I. Plaza\
+      \ Misael Ba\u02DCnuelos s/n. 09001, Burgos, Spain"
+    url: https://orcid.org/0000-0002-0392-8504
+content_info: {}

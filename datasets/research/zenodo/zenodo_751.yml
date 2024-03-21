@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3464585
+  dataseturi: https://doi.org/10.5281/zenodo.3464585
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Constraining carbon and nutrient flows in soil with ecological stoichiometry
+  abstract: 'The R code required to recreate the model analyses for the manuscript:
+    "Constraining carbon and nutrient flows in soil with ecological stoichiometry."
+    The model is written in the R package LIM and contains the model file (fullmodel_v4.lim)
+    and the R code file that conducts the analysis (model_analysis_final.R). Three
+    data files are provided. The file fundamental_biomeXecosystem_data.csv is a digital
+    version of Table S2 in the manuscript and contains cross biome data. The file
+    Qaio_etal_2019_Data.csv is a copy of the open access dataset with minor changes
+    to match our analysis. The file srdb-data-V3.csv is a copy of the open access
+    dataset SRBD. These latter two datasets are provided only for the convenience
+    of the reader reproducing our analyses. Please refer to the original versions
+    of these datasets and contact the original authors for all other inquiries/ uses.'
+  keywords:
+    default:
+      keywords:
+        subject: stoichiometry
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-29'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3464585
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3464584
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Buchkowski-Robert:
+    individualname: Buchkowski, Robert
+    role: creator
+    organization: Yale University
+    url: ''
+  Shaw-Alanna:
+    individualname: Shaw, Alanna
+    role: creator
+    organization: University of Montana
+    url: ''
+  Sihi-Debjani:
+    individualname: Sihi, Debjani
+    role: creator
+    organization: Oak Ridge National Laboratory
+    url: ''
+  Smith-Gabriel:
+    individualname: Smith, Gabriel
+    role: creator
+    organization: Stanford University
+    url: ''
+  Keiser-Ashley:
+    individualname: Keiser, Ashley
+    role: creator
+    organization: University of Massachusetts Amherst, University of Minnesota
+    url: ''
+content_info: {}

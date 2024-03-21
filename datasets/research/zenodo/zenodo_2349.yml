@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7321086
+  dataseturi: https://doi.org/10.5281/zenodo.7321086
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Source and Timings of Nitrogen Fertilizer Application on Rice Grain
+    Yield in Heavy Sodic Soil
+  abstract: This article 'Effect of Source and Timings of Nitrogen Fertilizer Application
+    on Rice Grain Yield in Heavy Sodic Soil' appeared in the International Rice Research
+    Newsletter series, created by the International Rice Research Institute (IRRI).
+    The primary objective of this publication was to expedite communication among
+    scientists concerned with the development of improved technology for rice and
+    for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Yields
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1983-10-01'
+    publication: '1983'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7321086
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7321085
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ray-N.:
+    individualname: Ray, N.
+    role: creator
+    organization: ''
+    url: ''
+  Gupta-R.-K.:
+    individualname: Gupta, R. K.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-D.:
+    individualname: Singh, D.
+    role: creator
+    organization: ''
+    url: ''
+  Khaddar-V.-K.:
+    individualname: Khaddar, V. K.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

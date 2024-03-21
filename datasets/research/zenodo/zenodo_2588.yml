@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10401818
+  dataseturi: https://doi.org/10.5281/zenodo.10401818
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE NUMBER OF SOIL BACTERIA IN THE AGROCENOSE OF WINTER WHEAT DEPENDS ON  THE
+    METHOD OF ITS PROCESSING
+  abstract: The article presents the results of studies of the influence of tillage
+    on the number of bacteria of the agrocenosis of winter wheat of the Kolonia variety.
+    It was established that the method of main cultivation has a significant effect
+    on the number of bacteria in the dark gray podzolized light loamy soil. Plowing
+    with a PYA-4-40 plow to a depth of 14-16 cm creates an optimal soil environment
+    for the development of bacteria.
+  keywords:
+    default:
+      keywords:
+        subject: bacteria, winter wheat, tillage
+  status: ''
+  language:
+  - eng
+  - ukr
+  dates:
+    creation: ''
+    issued: '2023-12-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10401818
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10401817
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Deutsche-internationale-Zeitschrift-fur-zeitgenossische-Wissenschaft:
+    individualname: "Deutsche internationale Zeitschrift f\xFCr zeitgen\xF6ssische\
+      \ Wissenschaft"
+    role: creator
+  Dudar-Ivan:
+    individualname: Dudar, Ivan
+    role: creator
+    organization: Lviv National Environmental University
+    url: ''
+  Ohorodnyk-Nataliia:
+    individualname: Ohorodnyk, Nataliia
+    role: creator
+    organization: Lviv National Environmental University
+    url: ''
+  Pavkovych-Serhii:
+    individualname: Pavkovych, Serhii
+    role: creator
+    organization: Lviv National Environmental University
+    url: ''
+  Lytvyn-Olha:
+    individualname: "Lytvyn, \u041Elha"
+    role: creator
+    organization: Lviv National Environmental University
+    url: ''
+content_info: {}

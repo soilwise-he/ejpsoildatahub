@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1088944
+  dataseturi: https://doi.org/10.5281/zenodo.1088944
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Compaction In Tropical Organic Farming Systems And Its Impact On Natural
+    Soil-Borne Disease Suppression: Challenges For Management'
+  abstract: Organic farming systems still depend on intensive, mechanical soil tillage.
+    Frequent passes by machinery traffic cause substantial soil compaction that threatens
+    soil health. Adopting practices as reduced tillage and organic matter retention
+    on the soil surface are considered effective ways to control soil compaction.
+    In tropical regions, however, the acceleration of soil organic matter decomposition
+    and soil carbon turnover on the topsoil layer is influenced more rapidly by the
+    oscillation process of drying and wetting. It is hypothesized therefore, that
+    rapid reduction in soil organic matter hastens the potential for compaction to
+    occur in organic farming systems. Compaction changes soil physical properties
+    and as a consequence it has been implicated as a causal agent in the inhibition
+    of natural disease suppression in soils. Here we describe relationships between
+    soil management in organic vegetable systems, soil compaction, and declining soil
+    capacity to suppress pathogenic microorganisms.
+  keywords:
+    default:
+      keywords:
+        subject: tropical regions.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-03'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1088944
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1088943
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ishak:
+    individualname: Ishak
+    role: creator
+    organization: ''
+    url: ''
+  L.:
+    individualname: L.
+    role: creator
+    organization: ''
+    url: ''
+  McHenry:
+    individualname: McHenry
+    role: creator
+    organization: ''
+    url: ''
+  M.-T.:
+    individualname: M., T.
+    role: creator
+    organization: ''
+    url: ''
+  Brown:
+    individualname: Brown
+    role: creator
+    organization: ''
+    url: ''
+  P.-H.:
+    individualname: P., H.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

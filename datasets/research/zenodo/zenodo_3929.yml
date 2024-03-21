@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1155032
+  dataseturi: https://doi.org/10.5281/zenodo.1155032
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Topographic Characterization And Mapping Of Soil Erosion In The Diarha Watershed
+    Using Rusle, Rs And Gis.
+  abstract: Mapping of erosive risk is a prerequisite in an erosion control approach.
+    It makes it possible to locate the sectors most vulnerable to erosive processes.
+    The establishment of the erosive risk map results from the spatialization of the
+    Revised Universal Soil Loss Equation (Rusle). This equation is combined with Geographic
+    Information Systems (GIS) and Remote Sensing techniques to estimate and map average
+    rates of soil loss. This study was conducted in the Diarha watershed and its sub-basins
+    to determine their morphometric characteristics and map the main factors involved
+    in soil erosion processes. The results showed that soil erosion risk varies according
+    to the topographic and climatic gradients of the watershed. The Diarha catchment
+    area covers an area of 759.3 km?. Its compactness index of 1.5 indicates an elongated
+    shape SE-NW. The altitudes vary from 576 m in the South to 55 m in the North with
+    an average of 315.5 m. The LS topographic factor varies from 0 to 30. Potential
+    soil losses vary between 0 and 1873 t/ha/year depending on the sector. The assessment
+    yielded an average of 36.4t/ha/year and a standard deviation of 105.3t/ha/year.
+    Annual soil losses in the entire Diarha catchment area are estimated at 31.882t/year;
+    with a specific degradation of 42t/km?/year.
+  keywords:
+    default:
+      keywords:
+        subject: Diarha GIS and RS Morphometric Rusle watershed.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-11'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1155032
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1155031
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ibrahima-Thiaw:
+    individualname: Ibrahima Thiaw
+    role: creator
+    organization: ''
+    url: ''
+  Honore-Dacosta:
+    individualname: "Honor\xE9 Dacosta"
+    role: creator
+  Anastasie-Mendy:
+    individualname: Anastasie Mendy
+    role: creator
+  Amadou-Abdoul-Sow:
+    individualname: Amadou Abdoul Sow
+    role: creator
+    organization: ''
+    url: ''
+  Dacosta-Honore:
+    individualname: "Dacosta, Honor\xE9"
+    role: ''
+    organization: Laboratory of Hydrology and Morphology, Cheikh Anta Diop University
+      of Dakar.
+    url: ''
+  Mendy-Anastasie:
+    individualname: Mendy, Anastasie
+    role: ''
+    organization: Laboratory of Hydrology and Morphology, Cheikh Anta Diop University
+      of Dakar.
+    url: ''
+content_info: {}

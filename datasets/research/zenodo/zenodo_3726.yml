@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1062604
+  dataseturi: https://doi.org/10.5281/zenodo.1062604
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of Lattice Boltzmann Methods In Heat And Moisture Transfer In
+    Frozen Soil
+  abstract: Although water only takes a little percentage in the total mass of soil,
+    it indeed plays an important role to the strength of structure. Moisture transfer
+    can be carried out by many different mechanisms which may involve heat and mass
+    transfer, thermodynamic phase change, and the interplay of various forces such
+    as viscous, buoyancy, and capillary forces. The continuum models are not well
+    suited for describing those phenomena in which the connectivity of the pore space
+    or the fracture network, or that of a fluid phase, plays a major role. However,
+    Lattice Boltzmann methods (LBMs) are especially well suited to simulate flows
+    around complex geometries. Lattice Boltzmann methods were initially invented for
+    solving fluid flows. Recently, fluid with multicomponent and phase change is also
+    included in the equations. By comparing the numerical result with experimental
+    result, the Lattice Boltzmann methods with phase change will be optimized.
+  keywords:
+    default:
+      keywords:
+        subject: Test rig.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-11-23'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1062604
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1062603
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wenyu-Song:
+    individualname: Wenyu Song
+    role: creator
+    organization: ''
+    url: ''
+  Bingxi-Li:
+    individualname: Bingxi Li
+    role: creator
+    organization: ''
+    url: ''
+  Zhongbin-Fu:
+    individualname: Zhongbin Fu
+    role: creator
+    organization: ''
+    url: ''
+  Bo-Zhang:
+    individualname: Bo Zhang
+    role: creator
+  Zhang-Bo:
+    individualname: Zhang, Bo
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Thomas_1908
+  dataseturi: https://doi.org/10.1080/00222930808692456
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "XI.\u2014The Psammomys of the alluvial soil of the Nile delta"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "XI.\u2014The Psammomys of the alluvial soil of the Nile delta"
+    url: http://dx.doi.org/10.1080/00222930808692456
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thomas-Oldfield:
+    individualname: Thomas, Oldfield
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

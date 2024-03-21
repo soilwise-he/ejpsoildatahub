@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.839609
+  dataseturi: https://doi.org/10.5281/zenodo.839609
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Sand Or Soil As A Dietary Component On Phosphorus Utilization
+  abstract: Experiment was conducted to determine the effect of sand or soil ingestion
+    on P balance in Goats. 12 Africa Dwarf goats (44.9kg) were fed a based diet containing
+    10% of either soil (the mould in which plants grow - the mixture of disintegrated
+    rock and organic material which nourishes plant) or sand (a mass of rounded grains
+    of rocks) in a completely randomized design.  Animals were injected iv with a
+    single does of .5cm; of <sup>32</sup>p as orthophosphoric acid to facilitate determination
+    of metabolic fecal P. Total fecal and urine collections were made for 7 d and
+    blood samples were obtained three times. Levels of A1, Fe and Mn for the sand
+    diet were 46, 199 and 36ppm, and for basal diet 147, 88 and 35ppm.  Goats fed
+    the sand diets had lower (P&gt;.05) serum P concentration than goats fed soil
+    diet.  Total and metabolic fecal P were higher (P &gt; .05) and urinary P lower
+    (P &lt; .05) for goats fed sand resulting in lower (P &gt; 01) apparent and true
+    P absorption and P balance for these two diets compared with the soil diet.
+  keywords:
+    default:
+      keywords:
+        subject: Soil ingestion, phosphorus, Aluminum, iron, goat.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2007-08-07'
+    publication: '2007'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.839609
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.839608
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-O.-Wordu:
+    individualname: G. O. Wordu
+    role: creator
+    organization: ''
+    url: ''
+  I.-W.-Deedua:
+    individualname: I. W. Deedua
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

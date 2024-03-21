@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5168325
+  dataseturi: https://doi.org/10.5281/zenodo.5168325
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Simulating the model for consolidation of short bored pile in pure friction
+    soil media
+  abstract: "In this paper, the analysis of a numerical study for consolidation analysis\
+    \ of short bored pile subjected to axial loads is presented. An analysis of short-bored\
+    \ pile is performed using finite element analysis software Abaqus CAE with the\
+    \ base of procured experimental data in sand media and a comparative analysis\
+    \ on Ansys FEA. Three models in combination of pile and footing system were developed\
+    \ by the application of incremental axial load for which the displacement upon\
+    \ each load was analyzed taking in consideration the stresses and strains. A parametric\
+    \ study was conducted to study the effect of load on and it\u2019s observed displacement\
+    \ on the pile with or without footing. A close correlation is found between the\
+    \ results obtained by the FE models and the Experimental Model solution. The results\
+    \ indicates that the load bearing capacity of pile\u2013footing system increases\
+    \ drastically when both acts together instead of acting individually."
+  keywords:
+    default:
+      keywords:
+        subject: Experimental Models; Friction Soils; Mohr-Coulomb; Abaqus CAE; Stress
+          Parameters; Displacement Analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5168325
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5168324
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  eghna-Pathak:
+    individualname: eghna Pathak
+    role: creator
+  Ravindra-Pathak:
+    individualname: Ravindra Pathak
+    role: creator
+    organization: Department of Civil Engineering, Ujjain Engineering College, Ujjain
+      M.P. India.
+    url: ''
+  Jagdish-Narayan-Vyas:
+    individualname: Jagdish Narayan Vyas
+    role: creator
+  Eghna-Pathak:
+    individualname: Eghna Pathak
+    role: ''
+    organization: Department of Civil Engineering, Mahakal Institute of Technology
+      and Management, Ujjain M.P. India.
+    url: ''
+  Vyas-Jagdish-Narayan:
+    individualname: Vyas, Jagdish Narayan
+    role: ''
+    organization: Department of Civil Engineering, Mahakal Institute of Technology
+      and Management, Ujjain M.P. India.
+    url: ''
+content_info: {}

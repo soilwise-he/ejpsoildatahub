@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3839781
+  dataseturi: https://doi.org/10.5281/zenodo.3839781
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Increasing awareness of soil microbial ecosystem services
+  abstract: <strong>Problem</strong><br> All agricultural soils harbour microbiome,
+    consisting of a high diversity of bacteria, archaea, fungi and protists. Together
+    they provide ecosystem services which are crucial for sustainable agriculture
+    and a healthy environment. Agricultural soil management may not deliberately impact
+    microbial diversity function, however it may possibly trigger adverse effects,
+    e.g. higher production of greenhouse gases, increased levels of soil-borne pathogens
+    or inefficient use of fertilisers. <strong>Solution</strong><br> Microbiomes strongly
+    respond to environmental changes and management practices such as tillage (till
+    versus no-till) and fertilisation. This responsiveness can be used for stirring
+    their activities. Farming systems should be managed to promote diverse microbiomes,
+    thereby stabilizing microbial ecosystem services. Examples of adapted management
+    schemes are described in recommendations. More knowledge on promoting beneficial
+    microbiomes should be generated through research.
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-05-20'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3839781
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3835593
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tebbe-Christoph:
+    individualname: Tebbe, Christoph
+    role: creator
+    organization: ''
+    url: ''
+  Liu-Bei:
+    individualname: Liu, Bei
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

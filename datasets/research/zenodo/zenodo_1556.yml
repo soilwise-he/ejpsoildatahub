@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6999539
+  dataseturi: https://doi.org/10.5281/zenodo.6999539
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Yield Response of Basmati Rice to Applied P At Different Soil P Values
+  abstract: This article 'Yield Response of Basmati Rice to Applied P At Different
+    Soil P Values' appeared in the International Rice Research Notes series, created
+    by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Pakistan
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1993-12-01'
+    publication: '1993'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6999539
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6999538
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hassan-G.:
+    individualname: Hassan, G.
+    role: creator
+    organization: ''
+    url: ''
+  Chaudhary-E.-H.:
+    individualname: Chaudhary, E. H.
+    role: creator
+    organization: ''
+    url: ''
+  Mian-S.-M.:
+    individualname: Mian, S. M.
+    role: creator
+    organization: ''
+    url: ''
+  Gill-K.-H.:
+    individualname: Gill, K. H.
+    role: creator
+    organization: ''
+    url: ''
+  Sheikh-A.-A.:
+    individualname: Sheikh, A. A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

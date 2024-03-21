@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sep_lveda_Cano_2022
+  dataseturi: https://doi.org/10.17533/udea.redin.20220580
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Numerical analysis of soil desaturation by an air injection method
+  abstract: '&lt;p&gt;A numerical analysis is conducted to evaluate the effective
+    radius of air advance (&lt;em&gt;R&lt;sub&gt;eff&lt;/sub&gt;&lt;/em&gt;) in coarse-grained,
+    saturated, sandy deposits improved by means of air injection (i.e., soil desaturation).
+    It is well-known that the cyclic resistance to liquefaction of a saturated sandy
+    deposit is highly affected by the presence of gas in the void space. A parametric
+    study is performed to investigate the soil&rsquo;s main hydraulic parameters and
+    air-injection conditions of the transient gas affecting &lt;em&gt;R&lt;sub&gt;eff&lt;/sub&gt;&lt;/em&gt;
+    and controlling the desaturation process. The effects of the a) soil-water characteristic
+    curve, b) intrinsic permeability, c) injection pressure, and d) duration of air
+    injection are investigated. It is shown that the injection pressure and soil&rsquo;s
+    intrinsic permeability are the main factors influencing the extent of &lt;em&gt;R&lt;sub&gt;eff&lt;/sub&gt;&lt;/em&gt;.
+    The analysed cases showed that, for a fixed injection pressure, the soil will
+    achieve a maximum value for &lt;em&gt;R&lt;sub&gt;eff&lt;/sub&gt;&lt;/em&gt;.
+    This threshold value is reached more rapidly when the soil&rsquo;s intrinsic permeability
+    increases. The results aim to shorten existing knowledge gaps and contribute to
+    the development of design methodologies for air-injection desaturation techniques.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Ground improvement
+      - liquefaction
+      - soil desaturation
+      - numerical analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Numerical analysis of soil desaturation by an air injection method
+    url: http://dx.doi.org/10.17533/udea.redin.20220580
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sebastian-Sepulveda-Cano:
+    individualname: "Sebasti\xE1n Sep\xFAlveda-Cano"
+    role: creator
+  Carlos-Alberto-Vega-Posada:
+    individualname: Carlos Alberto Vega-Posada
+    role: creator
+  Edwin-Fabian-Garcia-Aristizabal:
+    individualname: "Edwin Fabi\xE1n Garc\xEDa-Aristizabal"
+    role: creator
+  Sepulveda-Cano-Sebastian:
+    individualname: "Sep\xFAlveda-Cano, Sebasti\xE1n"
+    role: creator
+  Vega-Posada-Carlos-Alberto:
+    individualname: Vega-Posada, Carlos Alberto
+    role: creator
+  Garcia-Aristizabal-Edwin-Fabian:
+    individualname: "Garc\xEDa-Aristizabal, Edwin Fabi\xE1n"
+    role: creator
+  Universidad-de-Antioquia:
+    individualname: Universidad de Antioquia
+    role: creator
+content_info: {}

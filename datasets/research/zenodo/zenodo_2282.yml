@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6348733
+  dataseturi: https://doi.org/10.5281/zenodo.6348733
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Flow Through Porous Medium. Part-VI : Permeability Studies of Water and
+    Ammonium Salt Solutions Through Soil Membrane'
+  abstract: "Department of Chemistry, Himachal Pradesh University, Simla-171 005 <em>Manuscript\
+    \ received 30 April 1981, revised 14 September 1981, accepted 10 December 1981</em>\
+    \ The phenomenological permeation coefficients for water and aqueous solutions\
+    \ of ammonium nitrate, ammonium sulphate, ammonium phosphate at different concentrations\
+    \ and at 35\xB0 were determined for a soil membrane of known thickness and water\
+    \ content. The results have been interpreted in terms of the principles of non-equilibrium\
+    \ thermodynamics. It has been found that the permeation coefficient for water\
+    \ is than that of the ammonium salt solutions. Frictional coefficient between\
+    \ membrane matrix and water has been evaluated and its dependence upon the solute\
+    \ concentration has also been discussed. The effect of concentration of the electrolyte\
+    \ solution on the radius of pore of the membrane equilibrated with the electrolyte\
+    \ solution has also been discussed."
+  keywords:
+    default:
+      keywords:
+        subject: sulphate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-01-31'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6348733
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6348732
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-L.-BLOKHRA:
+    individualname: R. L. BLOKHRA
+    role: creator
+    organization: ''
+    url: ''
+  S.-CHAND:
+    individualname: S. CHAND
+    role: creator
+    organization: ''
+    url: ''
+  R.-SIDHU:
+    individualname: R. SIDHU
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

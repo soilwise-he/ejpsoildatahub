@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8107219
+  dataseturi: https://doi.org/10.5281/zenodo.8107219
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Response of Sweet Corn Growth to Soil Fertilization with Sulfur, NPK Levels
+    and Spraying of Ascorbic Acid
+  abstract: The experiment was carried out in Abu Gharaq area, 10 km west of Hilla
+    city, Iraq during the autumn season of 2018 in silt clay soil to study the effect
+    of foam sulfur addition (0 and 20 Kg.ha<sup>-1</sup>), NPK fertilizer (20:20:20)
+    at levels of 0, 75 and 150 Kg.ha<sup>-1</sup>, ascorbic acid spraying at concentrations
+    of (0, 25 and 50 mg.L<sup>-1</sup>) and their interactions on growth of sweet
+    corn. A randomized complete block design with three replications was used. The
+    results showed that the addition of (20 Kg.ha<sup>-1</sup>) foam sulfur caused
+    a significant increase in plant height (125.9 cm), plant leaf number (12.19),
+    plant leaf area (4206 cm<sup>2</sup>), chlorophyll (60.4 SPAD), leaf content of
+    N, P and K (15.49, 2.854 and 19.66 mg.g<sup>-1</sup>) respectively. Increasing
+    the level of NPK up to (150 Kg.ha<sup>-1</sup>) significantly caused an increase
+    in plant height (126.8 cm), plant leaf number (12.06), plant leaf area (4258 cm<sup>2</sup>),
+    chlorophyll (61.7 SPAD), leaf content of nitrogen, phosphorus and potassium (15.63,
+    2.88 and 19.96 mg.g<sup>-1</sup>) respectively. Spraying ascorbic acid up to (50
+    mg.L<sup>-1</sup>) significantly increased plant leaf area (4208), and chlorophyll
+    leaf content (59.2). The interactions between the factors caused a significant
+    effect on most traits.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-03'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8107219
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8107218
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-Hussein-Jasim:
+    individualname: Ali Hussein Jasim
+    role: creator
+  Mohammad-Raheem-Hariz:
+    individualname: Mohammad Raheem Hariz
+    role: creator
+  Jasim-Ali-Hussein:
+    individualname: Jasim, Ali Hussein
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

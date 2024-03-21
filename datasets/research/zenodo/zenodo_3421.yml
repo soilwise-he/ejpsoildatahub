@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1079990
+  dataseturi: https://doi.org/10.5281/zenodo.1079990
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A High Accuracy Measurement Circuit For Soil Moisture Detection
+  abstract: 'The study of soil for agriculture purposes has
+
+    remained the main focus of research since the beginning of civilization as humans-
+    food related requirements remained closely linked with the soil. The study of
+    soil has generated an interest
+
+    among the researchers for very similar other reasons including transmission, reflection
+    and refraction of signals for deploying
+
+    wireless underground sensor networks or for the monitoring of objects on (or in
+    ) soil in the form of better understanding of soil
+
+    electromagnetic characteristics properties. The moisture content has
+
+    been very instrumental in such studies as it decides on the resistance of the
+    soil, and hence the attenuation on signals traveling through soil
+
+    or the attenuation the signals may suffer upon their impact on soil. This work
+    is related testing and characterizing a measurement circuit
+
+    meant for the detection of moisture level content in soil.'
+  keywords:
+    default:
+      keywords:
+        subject: Relaxation Oscillator
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2007-11-26'
+    publication: '2007'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1079990
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1079989
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sheroz-Khan:
+    individualname: Sheroz Khan
+    role: creator
+    organization: ''
+    url: ''
+  A.-H.-M.-Zahirul-Alam:
+    individualname: A. H. M. Zahirul Alam
+    role: creator
+    organization: ''
+    url: ''
+  Othman-O.-Khalifa:
+    individualname: Othman O. Khalifa
+    role: creator
+  Mohd-Rafiqul-Islam:
+    individualname: Mohd Rafiqul Islam
+    role: creator
+    organization: ''
+    url: ''
+  Zuraidah-Zainudin:
+    individualname: Zuraidah Zainudin
+    role: creator
+    organization: ''
+    url: ''
+  Muzna-S.-Khan:
+    individualname: Muzna S. Khan
+    role: creator
+    organization: ''
+    url: ''
+  Nurul-Iman-Muhamad-Pauzi:
+    individualname: Nurul Iman Muhamad Pauzi
+    role: creator
+  Khalifa-Othman-O.:
+    individualname: Khalifa, Othman O.
+    role: ''
+    organization: ''
+    url: ''
+  Pauzi-Nurul-Iman-Muhamad:
+    individualname: Pauzi, Nurul Iman Muhamad
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

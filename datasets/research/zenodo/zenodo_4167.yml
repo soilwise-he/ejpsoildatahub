@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2654786
+  dataseturi: https://doi.org/10.5281/zenodo.2654786
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination of Some Organochlorine Pesticide Residues in Vegetable and
+    Soil Samples from Alau Dam and Gongulong Agricultural Sites, Borno State, North
+    Eastern Nigeria
+  abstract: "Five vegetables (spinach, lettuce, cabbage, tomato, and onion) were freshly\
+    \ harvested from the Alau Dam and Gongulong agricultural areas for the determination\
+    \ of some organochlorine pesticide residues (o, p-DDE, p,p'-DDD, o,p'-DDD, p,p'-DDT,\
+    \ \u03B1-BHC, \u03B3-BHC, metoxichlor, lindane, endosulfan dieldrin, and aldrin.)\
+    \ Soil samples were also collected at different depths for the determination of\
+    \ the above pesticides. Samples collection and preparation were conducted using\
+    \ standard procedures. The concentrations of all the pesticides in the soil and\
+    \ vegetable samples were determined using GC/MS SHIMADZU (GC-17A) equipped with\
+    \ electron capture detector (ECD). The highest concentration was that of p,p'-DDD\
+    \ (132.4\xB113.45\xB5g/g) which was observed in the leaf of cabbage, while the\
+    \ lowest concentration was that of p,p'-DDT (2.34\xB5g/g) was observed in the\
+    \ root of spinach. Similar trends were observed at the Gongulong agricultural\
+    \ area, with p,p'-DDD having the highest concentration of 153.23\xB5g/g in the\
+    \ leaf of cabbage, while the lowest concentration was that of p,p'-DDT (12.45\xB5\
+    g/g) which was observed in the root of spinach. \u03B1-BHC, \u03B3-BHC, Methoxychlor,\
+    \ and lindane were detected in all the vegetable samples studied. The concentrations\
+    \ of all the pesticides in the soil samples were observed to be higher at a depth\
+    \ of 21-30cm, while the lowest concentrations were observed at a depth of 0-10cm.\
+    \ The concentrations of all the pesticides in the vegetables and soil samples\
+    \ from the two agricultural sites were observed to be at alarming levels, much\
+    \ higher than the maximum residue limits (MRLs) and acceptable daily intake values\
+    \ (ADIs) .The levels of the pesticides observed in the vegetables and soil samples\
+    \ investigated, are of such a magnitude that calls for special attention and laws\
+    \ to regulate the use and circulation of such chemicals. Routine monitoring of\
+    \ pesticide residues in these study areas is necessary for the prevention, control\
+    \ and reduction of environmental pollution, so as to minimize health risks."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-04-22'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2654786
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2654785
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Joseph-Clement-Akan:
+    individualname: Joseph Clement Akan
+    role: creator
+  Lami-Jafiya:
+    individualname: Lami Jafiya
+    role: creator
+    organization: ''
+    url: ''
+  Zaynab-Muhammad-Chellube:
+    individualname: Zaynab Muhammad Chellube
+    role: creator
+  Zakari-Mohammed:
+    individualname: Zakari Mohammed
+    role: creator
+    organization: ''
+    url: ''
+  Fanna-Inna-Abdulrahman:
+    individualname: Fanna Inna Abdulrahman
+    role: creator
+  Akan-Joseph-Clement:
+    individualname: Akan, Joseph Clement
+    role: ''
+    organization: ''
+    url: ''
+  Chellube-Zaynab-Muhammad:
+    individualname: Chellube, Zaynab Muhammad
+    role: ''
+    organization: ''
+    url: ''
+  Abdulrahman-Fanna-Inna:
+    individualname: Abdulrahman, Fanna Inna
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5898572
+  dataseturi: https://doi.org/10.5281/zenodo.5898572
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A rapid and efficient strategy to identify and recover biosynthetic gene
+    clusters from soil metagenomes
+  abstract: Fosmid library antiSMASH results, Alignment BGCs with Nanopore reads,
+    metagenome sequencing antiSMASH results, Tablet alignment TAR cloning
+  keywords:
+    default:
+      keywords:
+        subject: Metagenomic DNA, fosmid library, Nanopore sequencing, natural products,
+          secondary metabolites
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-01-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5898572
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5898571
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Negri-Timo:
+    individualname: Negri, Timo
+    role: creator
+    organization: "University of T\xFCbingen"
+    url: ''
+  Ziemert-Nadine:
+    individualname: Ziemert, Nadine
+    role: creator
+    organization: "University of T\xFCbingen"
+    url: ''
+content_info: {}

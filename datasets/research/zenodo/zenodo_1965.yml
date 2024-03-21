@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kaltenegger_2021
+  dataseturi: https://doi.org/10.1088/2515-7620/abedd8
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Gridded soil surface nitrogen surplus on grazing and agricultural land:
+    Impact of land use maps'
+  abstract: '&lt;p&gt;ExcessNapplication on agricultural land greatly impacts the
+    environment in multiple ways, driven by&lt;br&gt;
+
+    population growth and improving quality of human diets. Therefore, it is essential
+    to quantify the&lt;br&gt;
+
+    sources of the emissions ofNcompounds and their determinants (e.g. biologicalNfixation
+    (BNF),&lt;br&gt;
+
+    mineral fertilizer, manureNandNdeposition) to develop adequate mitigation measures.
+    Here we aim&lt;br&gt;
+
+    at comprehensively mapping and quantifyingNfluxes on agricultural land to analyze
+    these sources on&lt;br&gt;
+
+    different scales. As underlying grazing land maps used for such calculations are
+    fairly different in terms&lt;br&gt;
+
+    of methodology and definition and thus spatial extent and pattern, we investigate
+    how this diversity in&lt;br&gt;
+
+    grazing land maps affects quantification ofNindicators.Wecompared three different
+    global grazing&lt;br&gt;
+
+    land maps and analyzed the propagation of differences to discrepancies inNindicators
+    calculated&lt;br&gt;
+
+    from them.Wediscovered that (i) area differences propagated to high discrepancies
+    inNsurplus&lt;br&gt;
+
+    mostly in Asia, and to a minor extent also in Europe and Northern Africa. (ii)
+    BNF constitutes an&lt;br&gt;
+
+    important translator for differences on grazing land toNindicators, while also
+    being a source of&lt;br&gt;
+
+    further uncertainty, which warrants further scrutiny. (iii) A more inclusive definition
+    of grazing land&lt;br&gt;
+
+    results in overall lessNsurplus given the larger areas included but allows to
+    provide a more&lt;br&gt;
+
+    comprehensive estimate of the influence of human activity on theNcycle. This study
+    is the first to&lt;br&gt;
+
+    provide an in-depth analysis of the effect of grazing land and agricultural land
+    area differences on&lt;br&gt;
+
+    variousNbudget terms andNindicator calculation, highlighting opportunities for
+    further research,&lt;br&gt;
+
+    and the importance of a comprehensive accounting ofNsurplus when using an inclusive
+    definition of&lt;br&gt;
+
+    grazing land.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Gridded soil surface nitrogen surplus on grazing and agricultural land:
+      Impact of land use maps'
+    url: http://dx.doi.org/10.1088/2515-7620/abedd8
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kaltenegger-Katrin:
+    individualname: Kaltenegger, Katrin
+    role: creator
+  Erb-Karl-Heinz:
+    individualname: Erb, Karl-Heinz
+    role: creator
+  Matej-Sarah:
+    individualname: Matej, Sarah
+    role: creator
+  Winiwarter-Wilfried:
+    individualname: Winiwarter, Wilfried
+    role: creator
+  IOP-Publishing:
+    individualname: IOP Publishing
+    role: creator
+content_info: {}

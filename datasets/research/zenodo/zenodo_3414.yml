@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132140
+  dataseturi: https://doi.org/10.5281/zenodo.1132140
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental Simulation Of Soil Boundary Condition For Dynamic Studies
+  abstract: This paper studies the free-field response by adopting a flexible membrane
+    container as soil boundary for experimental shaking table tests. The influence
+    of the soil container boundary on the soil behaviour and the dynamic soil properties
+    under seismic effect were examined. A flexible container with 1/50 scale factor
+    was adopted in the experimental tests, including construction, instrumentation,
+    and determination of the results of dynamic tests on a shaking table. Horizontal
+    face displacements and accelerations were analysed to determine the influence
+    of the container boundary on the performance of the soil. The outputs results
+    show that the flexible boundary container allows more displacement and larger
+    accelerations. The soil in a rigid wall container cannot deform as similar as
+    the soil in the real field does. Therefore, the response of flexible container
+    tested is believed to be more reliable for soil boundary than that in the rigid
+    container.
+  keywords:
+    default:
+      keywords:
+        subject: ground motion.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-07-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132140
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132139
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Omar.S.-Qaftan:
+    individualname: Omar.S. Qaftan
+    role: creator
+    organization: ''
+    url: ''
+  T.-T.-Sabbagh:
+    individualname: T. T. Sabbagh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

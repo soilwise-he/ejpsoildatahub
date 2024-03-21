@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.439247
+  dataseturi: https://doi.org/10.5281/zenodo.439247
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Study Relation Between Soil And Cantilever Sheet Pile. A Model Of Theory
+    And Designing
+  abstract: This study the theories and modelling methods of relation between the
+    soil and embedded cantilever sheet pile structure. The backfill material that
+    constitutes the earth retained by the pile wall plays an important role in determining
+    the behavior of these structures. . One typically Rankine or coulomb earth stress
+    theories to expect the earth pressure exerted by soil on the sheet pile wall.
+    Additionally, the look at considers the contribution of numerous soil parameters
+    within the interaction and the volume of reaction in phrases of conduct, deformation,
+    and stress distribution. It is found that the true behavior and magnitude of deformation
+    and stress distribution is generally depends upon the modelling and designing
+    techniques.
+  keywords:
+    default:
+      keywords:
+        subject: Soil, Cantilever sheet pile, Retaining wall, backfill of soil and
+          soil parameters.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-03-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.439247
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prakash-Kumar-Gupta*-Dr.-Om-Prakash-Netula:
+    individualname: Prakash Kumar Gupta*, Dr. Om Prakash Netula
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schneider_2020
+  dataseturi: https://doi.org/10.1007/s11104-020-04769-w
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Origin of carbon in agricultural soil profiles deduced from depth gradients\
+    \ of C:N ratios, carbon fractions, \u03B413C and \u03B415N values"
+  abstract: '&lt;div&gt;
+
+    &lt;h3&gt;Aims&lt;/h3&gt;
+
+    &lt;p&gt;Agricultural soils in Germany store 2.54 Pg of organic carbon (C). However,
+    information about how and when this C entered the soils is limited. This study
+    illustrates how depth profiles of organic matter can shed light on different entry
+    paths of organic C.&lt;/p&gt;
+
+    &lt;h3&gt;Methods&lt;/h3&gt;
+
+    &lt;p&gt;Machine learning was used to explain total organic C (TOC), C:N, particulate
+    organic C (POC), &delta;&lt;sup&gt;13&lt;/sup&gt;C and &delta;&lt;sup&gt;15&lt;/sup&gt;N
+    values down to 100&nbsp;cm depth based on pedology, geology, climate and management-related
+    variables from the German Agricultural Soil Inventory. We estimated TOC turnover
+    rates based on the relationship between the proportion of maize (only C&lt;sub&gt;4&lt;/sub&gt;
+    plant) in crop rotations and soil &delta;&lt;sup&gt;13&lt;/sup&gt;C values.&lt;/p&gt;
+
+    &lt;h3&gt;Results&lt;/h3&gt;
+
+    &lt;p&gt;In the upper 30&nbsp;cm of cropland, fresh photosynthates added on average
+    0.2 to 0.8&nbsp;Mg C ha&lt;sup&gt;&minus;&thinsp;1&lt;/sup&gt; year&lt;sup&gt;&minus;&thinsp;1&lt;/sup&gt;.
+    Organic fertiliser was another source of topsoil C, especially in grassland. Sandy
+    sites in north-west Germany contained historic C from past heathland and peatland.
+    One third of German agricultural land was found to be on colluvial and alluvial
+    deposits, in which allochthonous C from upstream and upslope areas evidently increased
+    the TOC content of subsoils. In and below hardpans, TOC content and C:N and POC:TOC
+    ratios were low, indicating restricted root-derived C input.&lt;/p&gt;
+
+    &lt;h3&gt;Conclusions&lt;/h3&gt;
+
+    &lt;p&gt;Our data indicate that ongoing management in German agricultural soils
+    mainly affects topsoil C, while C storage in subsoils reveals significant legacies
+    from allochthonous, buried or translocated C inputs. Specific attention should
+    be focused on the sustainable loosening of hardpans that could result in a slow,
+    but significant increase in subsoil C stocks.&lt;/p&gt;
+
+    &lt;/div&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Origin of carbon in agricultural soil profiles deduced from depth gradients\
+      \ of C:N ratios, carbon fractions, \u03B413C and \u03B415N values"
+    url: http://dx.doi.org/10.1007/s11104-020-04769-w
+    type: www
+contact:
+  Schneider-Florian:
+    individualname: Schneider, Florian
+    role: creator
+  Amelung-Wulf:
+    individualname: Amelung, Wulf
+    role: creator
+  Don-Axel:
+    individualname: Don, Axel
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

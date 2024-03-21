@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Beriot_2021
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2020.142653
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Low density-microplastics detected in sheep faeces and soil: A case study
+    from the intensive vegetable farming in Southeast Spain'
+  abstract: "&lt;p&gt;One of the main sources of plastic pollution in agricultural\
+    \ fields is the plastic mulch used by farmers to improve crop production. The\
+    \ plastic mulch is often not removed completely from the fields after harvest.\
+    \ Over time, the plastic mulch that is left of the fields is broken down into\
+    \ smaller particles which are dispersed by the wind or runoff. In the Region of\
+    \ Murcia in Spain, plastic mulch is heavily used for intensive vegetable farming.\
+    \ After harvest, sheep are released into the fields to graze on the vegetable\
+    \ residues. The objective of the study was to assess the plastic contamination\
+    \ in agricultural soil in Spain and the ingestion of plastic by sheep. Therefore,\
+    \ three research questions were established: i) What is the plastic content in\
+    \ agricultural soils where plastic mulch is commonly used? ii) Do livestock ingest\
+    \ the microplastics found in the soil? iii) How much plastic could be transported\
+    \ by the livestock? To answer these questions, we sampled top soils (0&ndash;10&nbsp;cm)\
+    \ from 6 vegetable fields and collected sheep faeces from 5 different herds. The\
+    \ microplastic content was measured using density separation and visual identification.\
+    \ We found ~2&nbsp;&times;&nbsp;10&lt;sup&gt;3&lt;/sup&gt;&nbsp;particles\u2219\
+    kg&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;in the soil and ~10&lt;sup&gt;3&lt;/sup&gt;&nbsp;particles\u2219\
+    kg&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;in the faeces. The data show that plastic\
+    \ particles were present in the soil and that livestock ingested them. After ingesting\
+    \ plastic from one field, the sheep can become a source of microplastic contamination\
+    \ as they graze on other farms or grasslands. The potential transport of microplastics\
+    \ due to a herd of 1000 sheep was estimated to be ~10&lt;sup&gt;6&lt;/sup&gt;&nbsp;particles\u2219\
+    ha&lt;sup&gt;&minus;1&lt;/sup&gt;\u2219y&lt;sup&gt;&minus;1&lt;/sup&gt;. Further\
+    \ studies should focus on: assessing how much of the plastic found in faeces comes\
+    \ directly from plastic mulching, estimating the plastic degradation in the guts\
+    \ of sheep and understanding the potential effects of these plastic residues on\
+    \ the health of livestock.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Microplastics
+      - Plastic residues
+      - Terrestrial food chain transfer
+      - Livestock
+      - Sheep
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Low density-microplastics detected in sheep faeces and soil: A case study
+      from the intensive vegetable farming in Southeast Spain'
+    url: http://dx.doi.org/10.1016/j.scitotenv.2020.142653
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nicolas-Beriot:
+    individualname: Nicolas Beriot
+    role: creator
+  Joost-Peek:
+    individualname: Joost Peek
+    role: creator
+  Raul-Zornoza:
+    individualname: "Ra\xFAl Zornoza"
+    role: creator
+  Violette-Geissen:
+    individualname: Violette Geissen
+    role: creator
+  Esperanza-Huerta-Lwanga:
+    individualname: Esperanza Huerta Lwanga
+    role: creator
+  Beriot-Nicolas:
+    individualname: Beriot, Nicolas
+    role: creator
+  Peek-Joost:
+    individualname: Peek, Joost
+    role: creator
+  Zornoza-Raul:
+    individualname: Zornoza, Raul
+    role: creator
+  Geissen-Violette:
+    individualname: Geissen, Violette
+    role: creator
+  Huerta-Lwanga-Esperanza:
+    individualname: Huerta Lwanga, Esperanza
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

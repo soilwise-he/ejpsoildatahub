@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132018
+  dataseturi: https://doi.org/10.5281/zenodo.1132018
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Small Strain Effects To The Shear Strength And Maximum Stiffness Of Post-Cyclic
+    Degradation Of Hemic Peat Soil
+  abstract: "The laboratory tests for measuring the effects of small strain to the\
+    \ shear strength and maximum stiffness development of post-cyclic degradation\
+    \ of hemic peat are reviewed in this paper. A series of laboratory testing has\
+    \ been conducted to fulfil the objective of this research to study the post-cyclic\
+    \ behaviour of peat soil and focuses on the small strain characteristics. For\
+    \ this purpose, a number of strain-controlled static, cyclic and post-cyclic triaxial\
+    \ tests were carried out in undrained condition on hemic peat soil. The shear\
+    \ strength and maximum stiffness of hemic peat are evaluated immediately after\
+    \ post-cyclic monotonic testing. There are two soil samples taken from West Johor\
+    \ and East Malaysia peat soil. Based on these laboratories and field testing data,\
+    \ it was found that the shear strength and maximum stiffness of peat soil decreased\
+    \ in post-cyclic monotonic loading than its initial shear strength and stiffness.\
+    \ In particular, degradation in shear strength and stiffness is more sensitive\
+    \ for peat soil due to fragile and uniform fibre structures. Shear strength of\
+    \ peat soil, \u03C4<sub>max</sub> = 12.53 kPa (Beaufort peat, BFpt) and 36.61\
+    \ kPa (Parit Nipah peat, PNpt) decreased than its initial 58.46 kPa and 91.67\
+    \ kPa. The maximum stiffness, G<sub>max</sub> = 0.23 and 0.25 decreased markedly\
+    \ with post-cyclic, G<sub>max</sub> = 0.04 and 0.09. Simple correlations between\
+    \ the G<sub>max</sub> and the \u03C4<sub>max</sub> effects due to small strain,\
+    \ \u03B5 = 0.1, the G<sub>max</sub> values for post-cyclic are relatively low\
+    \ compared to its initial G<sub>max</sub>. As a consequence, the reported values\
+    \ and patterns of both the West Johor and East Malaysia peat soil are generally\
+    \ the same."
+  keywords:
+    default:
+      keywords:
+        subject: maximum stiffness.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-07-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132018
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132017
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Z.-Adnan:
+    individualname: Z. Adnan
+    role: creator
+    organization: ''
+    url: ''
+  M.-M.-Habib:
+    individualname: M. M. Habib
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

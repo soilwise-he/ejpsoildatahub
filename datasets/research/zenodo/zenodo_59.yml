@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: STEPHENSON_1919
+  dataseturi: https://doi.org/10.1097/00010694-191907000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: ACTIVITY OF SOIL ACIDS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: ACTIVITY OF SOIL ACIDS
+    url: http://dx.doi.org/10.1097/00010694-191907000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stephenson-R.-E.:
+    individualname: Stephenson, R. E.
+    role: creator
+  STEPHENSON-R.-E.:
+    individualname: STEPHENSON, R. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

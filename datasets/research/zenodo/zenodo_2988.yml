@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1011291
+  dataseturi: https://doi.org/10.5281/zenodo.1011291
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of A Sawdust Alkaline Extract Introduced To Activated Sludge On
+    The Biological Activity Of Its Liquid Fraction In Soil Irrigation.
+  abstract: "The studies show that a liquid fraction of activated sludge produced\
+    \ from a mixture of activated sludge with a sawdust alkaline extract can be used\
+    \ in soil irrigation as a plant growth stimulator without dilution. Germination\
+    \ energy increased by 6%, germination capacity \u2014 by 11%, a number of seeds\
+    \ with high germination power \u2014 by 11%, biological activity of the fraction\
+    \ \u2014 by 19.3%. A liquid fraction produced from the mixture of activated sludge\
+    \ + 0.5% sawdust alkaline extract was found to be the most effective one for irrigation.\
+    \ 5 litres per tonne (1 m3) were found to be sufficient to increase the biological\
+    \ activity of the activated sludge liquor."
+  keywords:
+    default:
+      keywords:
+        subject: biological activity
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2017-10-13'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1011291
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1011290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kasimova-L.:
+    individualname: "Kasimov\u0430, L."
+    role: creator
+    organization: ''
+    url: ''
+  Brichkov-A.:
+    individualname: Brichkov, A.
+    role: creator
+    organization: ''
+    url: ''
+  Konokhova-I.:
+    individualname: Konokhova, I.
+    role: creator
+    organization: ''
+    url: ''
+  Kozik-V.:
+    individualname: Kozik, V.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Alway_1919
+  dataseturi: https://doi.org/10.2307/2255723
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Relation of Movement of Water in a Soil to its Hygroscopicity and Initial
+    Moistness.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Relation of Movement of Water in a Soil to its Hygroscopicity and Initial
+      Moistness.
+    url: http://dx.doi.org/10.2307/2255723
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alway-F.-A.:
+    individualname: Alway, F. A.
+    role: creator
+  McDole-G.-R.:
+    individualname: McDole, G. R.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

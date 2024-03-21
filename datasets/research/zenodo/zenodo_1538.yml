@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MAT_AS_2010
+  dataseturi: https://doi.org/10.1111/j.1365-2486.2010.02338.x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil-nutrient availability under a global-change scenario in a Mediterranean
+    mountain ecosystem: SOIL NUTRIENTS UNDER A GLOBAL CHANGE SCENARIO'
+  abstract: '&lt;p&gt;Changes in rainfall availability will alter soil-nutrient availability
+    under a climate-change scenario. However, studies have usually analyzed the effect
+    of either drier or wetter soil conditions, despite the fact that both possibilities
+    will coexist in many climatic regions of the world. Furthermore, its effect may
+    vary across the different habitats of the ecosystem. We experimentally investigated
+    the effect of three contrasting climatic scenarios on different carbon (C), nitrogen
+    (N), and phosphorus (P) fractions in soil and microbial compartments among three
+    characteristic habitats in a Mediterranean-type ecosystem: forest, shrubland,
+    and open areas. The climatic scenarios were dry summers, according to the 30%
+    summer rainfall reduction projected in the Mediterranean; wet summer, simulating
+    summer storms to reach the maximum historical records in the study area; and current
+    climatic conditions (control). Sampling was replicated during two seasons (spring
+    and summer) and 2 years. The climatic scenario did not affect the nutrient content
+    in the litter layer. However, soil and microbial nutrients varied among seasons,
+    habitats, and climatic scenarios. Soil-nutrient fractions increased with lower
+    soil-moisture conditions (dry scenario and summer), whereas microbial nutrients
+    increased under the wet summer scenario and spring. This pattern was consistent
+    both studied years, although it was modulated by habitat, differences being lower
+    with denser plant cover. Holm oak seedlings, used as live control of the experiment,
+    tended to increase their N and P content (although not significantly) with water
+    availability. Thus, the results support the idea that higher rainfall boosts microbial
+    and plant-nutrient uptake, and hence nutrient cycling. By contrast, a rainfall
+    reduction leads to an accumulation of nutrients in the soil, increasing the risk
+    of nutrient loss by leaching or erosion. These results show that the projected
+    climate change will have significant effects on nutrient cycles, and therefore
+    will have important implications on the ecosystem functioning.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil-nutrient availability under a global-change scenario in a Mediterranean
+      mountain ecosystem: SOIL NUTRIENTS UNDER A GLOBAL CHANGE SCENARIO'
+    url: http://dx.doi.org/10.1111/j.1365-2486.2010.02338.x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Matias-Luis:
+    individualname: Matias, Luis
+    role: creator
+  MATIAS-LUIS:
+    individualname: "MAT\xCDAS, LUIS"
+    role: creator
+  CASTRO-JORGE:
+    individualname: CASTRO, JORGE
+    role: creator
+  ZAMORA-REGINO:
+    individualname: ZAMORA, REGINO
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

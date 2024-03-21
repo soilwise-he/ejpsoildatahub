@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4693019
+  dataseturi: https://doi.org/10.5281/zenodo.4693019
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: SCIENTIFIC BASIS OF THE CONTENT AND DISTRIBUTION OF MICROELEMENTS IN THE
+    SOIL PROFILE OF THE REPUBLIC OF KARAKALPAKSTAN
+  abstract: <em>The article presents the results of the study of the content of gross
+    and available for plants forms B, Mn, Co, Cu, Zn, Mo in the soils of the Karakalpakstan
+    deposits. The results of the diagrams analyzes in the soil trace elements are
+    presented. The possibility of obtaining patterns of distribution along the profile,
+    the effect of microfertilizers on the germination of vegetables, the establishment
+    of the role of cobalt in metabolism and the development of technology for its
+    application are shown</em>
+  keywords:
+    default:
+      keywords:
+        subject: soil, plants, micronutrient fertilizers, vegetable, cobalt, fields,
+          Karakalpakstan
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2021-04-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4693019
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4693018
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aymuratov-D.A.:
+    individualname: Aymuratov, D.A.
+    role: creator
+    organization: Nukus branch of Tashkent State Agrarian University, master
+    url: ''
+  Dosjanov-K.J:
+    individualname: Dosjanov K.J
+    role: creator
+    organization: Nukus branch of Tashkent State Agrarian University, master
+    url: ''
+  Daniyarova-S.K.:
+    individualname: Daniyarova, S.K.
+    role: creator
+    organization: Karakalpak Research Institute of Natural Sciences, Karakalpak Branch
+      of the Academy of Sciences of the Republic of Uzbekistan, Republic of Uzbekistan,
+      Nukus
+    url: ''
+content_info: {}

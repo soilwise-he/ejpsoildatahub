@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.813254
+  dataseturi: https://doi.org/10.5281/zenodo.813254
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Soil And Water Conservation Techniques For Sustainable Landuse
+  abstract: This record was migrated from the OpenDepot repository service in June,
+    2017 before shutting down.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006-01-01'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.813254
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.813253
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  ICAR-Research-Complex-for-NEH-Region-Umiam--Meghalaya:
+    individualname: ICAR Research Complex for NEH Region, Umiam,  Meghalaya
+    role: creator
+  Sonowal-DK:
+    individualname: Sonowal, DK
+    role: creator
+    organization: ''
+    url: ''
+  Bhatt-BP:
+    individualname: Bhatt, BP
+    role: creator
+    organization: ICAR Research Complex for Eastern Region
+    url: ''
+  Satapaty-KK:
+    individualname: Satapaty, KK
+    role: creator
+    organization: ''
+    url: ''
+  Vaishya-B:
+    individualname: Vaishya, B
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

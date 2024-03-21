@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7802037
+  dataseturi: https://doi.org/10.5281/zenodo.7802037
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil moisture variations from boreal forests to tundra
+  abstract: Soil moisture has a profound influence on life on Earth, and this vital
+    water resource varies across space and time. Here, we explored soil moisture variations
+    in boreal forest and tundra environments, where comprehensive soil moisture datasets
+    are scarce. We installed soil moisture sensors up to 14 cm depth at 503 measurement
+    sites within seven study areas across northern Europe. We recorded 6 138 528 measurements
+    to capture soil moisture variations of the snowless season from April to September
+    2020. We described the spatio-temporal patterns of soil moisture, and test how
+    these patterns are linked to topography and how these links vary in space and
+    time. We found large spatial variation and often less pronounced temporal variation
+    in soil moisture across the measurement sites within all study areas. We found
+    that throughout the measurement periods both univariate and multivariate models
+    with topographic predictors showed great temporal variation in their performance
+    and in the relative influence of the predictors within and across the areas. We
+    found that the soil moisture-topography relationships are site-specific, as the
+    topography-based models often performed poorly when transferred from one area
+    to another. There was no general solution that would work well in all the study
+    areas when modelling soil moisture variation with topography. This should be carefully
+    considered before applying topographic proxies for soil moisture. Overall, these
+    data and results highlight the strong spatio-temporal heterogeneity of soil moisture
+    conditions in boreal forest and tundra environments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-05'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7802037
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6406562
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kemppinen-Julia:
+    individualname: Kemppinen, Julia
+    role: creator
+    organization: University of Oulu
+    url: https://orcid.org/0000-0001-7521-7229
+  Niittynen-Pekka:
+    individualname: Niittynen, Pekka
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0002-7290-029X
+  Rissanen-Tuuli:
+    individualname: Rissanen, Tuuli
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0001-9912-4676
+  Tyystjarvi-Vilna:
+    individualname: "Tyystj\xE4rvi, Vilna"
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0002-1175-5463
+  Aalto-Juha:
+    individualname: Aalto, Juha
+    role: creator
+    organization: Finnish Meteorological Institution & University of Helsinki
+    url: https://orcid.org/0000-0001-6819-4911
+  Luoto-Miska:
+    individualname: Luoto, Miska
+    role: creator
+    organization: University of Helsinki
+    url: https://orcid.org/0000-0001-6203-5143
+content_info: {}

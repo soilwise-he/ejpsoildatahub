@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8089733
+  dataseturi: https://doi.org/10.5281/zenodo.8089733
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mapping of soil degradation factors and their impacts on plant biodiversity
+  abstract: To contribute to the knowledge of the factors of soil degradation and
+    the loss of biodiversity in the corridors of the Benue National Park, the general
+    objective of this work is to identify the factors of soil degradation and determine
+    their impacts on plant biodiversity. Hence, it will it will be necessary to do
+    an inventory on the factors of soil degradation in the corridors of the BNP; study
+    between 2005 and 2015 by remote sensing and Geographic Information Systems (GIS),
+    the land use of the Areas of Hunting Interest in which the corridors are located
+    and make inventory on the floristic diversity of the park. The transect method
+    was used to identify soil degradation factors. The aerial mapping made it possible
+    to highlight the different classes of land use as well as their areas. The floristic
+    inventory carried out using the transect method made it possible to do a study
+    on the distribution of the flora. Among the soil degradation factors inventoried,
+    agriculture (74.22%) is practiced more in all corridors. It is followed by the
+    town planning process (9.53%), carbonization (7.19%), pastoral practice (6.56%)
+    and gold panning (2.50%). A satellite view showed an extension of land use from
+    1.41% for bare soil to 36.57% (fields) to the detriment of the initial vegetation.
+    The floristic inventory revealed an equitable distribution of vegetation according
+    to their abundance. In view of these results, it is important to set up strategies
+    for the conservation and restoration of biodiversity. It therefore seems urgent
+    to undertake methods to restore these soils.
+  keywords:
+    default:
+      keywords:
+        subject: Soil degradation; Corridor; Benue National Park; Mapping of soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-01-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8089733
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8089732
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jean-Paul-Kevin-MBAMBA-MBAMBA:
+    individualname: "Jean-Paul K\xE9vin MBAMBA MBAMBA"
+    role: creator
+  Narcisse-NJEKEU-SOH:
+    individualname: Narcisse NJEKEU SOH
+    role: creator
+  Sylvain-AOUDOU-DOUA:
+    individualname: Sylvain AOUDOU DOUA
+    role: creator
+  MBAMBA-Jean-Paul-Kevin-MBAMBA:
+    individualname: "MBAMBA, Jean-Paul K\xE9vin MBAMBA"
+    role: ''
+    organization: Department of Geography, Faculty of Arts, Letter and Human Sciences
+      University of Ngaoundere, Cameroon.
+    url: ''
+  SOH-Narcisse-NJEKEU:
+    individualname: SOH, Narcisse NJEKEU
+    role: ''
+    organization: Department of Biology, Faculty of Sciences; University of Ngaoundere,
+      Cameroon.
+    url: ''
+  DOUA-Sylvain-AOUDOU:
+    individualname: DOUA, Sylvain AOUDOU
+    role: ''
+    organization: Department of Geography, Faculty of Arts, Letter and Human Sciences
+      University of Maroua, Cameroon.
+    url: ''
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6858194
+  dataseturi: https://doi.org/10.5281/zenodo.6858194
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Biodegradation kinetics of petroleum hydrocarbon in soil environment using
+    Mangnifera indica seed biomass: A mathematical approach'
+  abstract: "The biodegradation crude oil in polluted soil using <em>Mangnifera indica</em>\
+    \ seed biomass was investigated. The change in total petroleum hydrocarbon (TPH)\
+    \ concentration on the effect of the period of exposure with different dosage\
+    \ of <em>M. indica</em> seed mesh introduced in the different containers were\
+    \ examined and a decrease in TPH concentration was significant. The maximum specific\
+    \ rate and equilibrium constants were determined and the results obtained revealed\
+    \ that the values for room dried <em>M. indica</em> of various dosages at V<sub>max</sub>\
+    \ 50\u201390 g, 500, 33,333.33, 50,000, 50,000, 27.78 (ppm/per day) and K<sub>S</sub>\
+    \ 50\u201390 g, 0.5, 300, 2750, 1124.81 (ppm/per day) were observed. For sun-dried,\
+    \ <em>M. indica</em> of various dosages at V<sub>max</sub> 50\u2013 90 g, , 1.6666.67,\
+    \ , , 100.00 (ppm/per day) and K<sub>S</sub> 50\u201390 g, , 16.67, , , 300 (ppm/per\
+    \ day) were recorded. The maximum specific rate and equilibrium constant was determined\
+    \ using the Lineweaver Burk plots Theory as well as excel plot of linear polynomial\
+    \ curve for comparison. Results revealed that the <em>M. indica</em> seed biomass\
+    \ ha promising effeminacy for the degradation of THP in the contaminated soil."
+  keywords:
+    default:
+      keywords:
+        subject: Mango seed
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-04-01'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6858194
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6858193
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chukwuemeka-Peter-Ukpaka:
+    individualname: Chukwuemeka Peter Ukpaka
+    role: creator
+    organization: Rivers State University Port Harcourt, PMB 5080, Rivers State, Nigeria
+    url: ''
+  Augustina-Chiemela-Ugiri:
+    individualname: Augustina Chiemela Ugiri
+    role: creator
+  Ugiri-Augustina-Chiemela:
+    individualname: Ugiri, Augustina Chiemela
+    role: ''
+    organization: Rivers State University Port Harcourt, PMB 5080, Rivers State, Nigeria
+    url: ''
+content_info: {}

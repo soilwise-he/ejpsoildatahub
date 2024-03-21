@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10470785
+  dataseturi: https://doi.org/10.5281/zenodo.10470785
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOIL LIQUEFACTION POTENTIAL STUDYING IN THE SOUTH OF URMIA PLAIN
+  abstract: Liquefaction is one of the main topics of seismic geotechnics. The effects
+    of liquefaction on structures and installations during an earthquake can be very
+    destructive. In the two earthquakes Alaska and Niigata Japan in 1964, spectacular
+    examples of earthquake-induced failures, such as rupture of slopes, deformation
+    of foundation in buildings and bridges, and the floating of buried structures
+    a result of the flow of soil bed occurred. In liquefaction in general, soils tend
+    to be denser when non-adherent, saturated and loose soils are exposed to earthquake
+    vibrations. However, in certain granulation ranges, drainage is somewhat slow,
+    as the rapid fluctuations in the soil due to lack of drainage will necessarily
+    increase the pore pressure. Increasing pore water pressure results in a reduction
+    in effective stress, which results in reduced shear resistance of the soil. Based
+    on the relationship between the geostatic stresses in the soil, the increase in
+    pore pressure may reduce the effective stress in the soil, which results in low
+    or even zero shear strength and, consequently, Soil flows into fluid state, which
+    is called liquefaction. In this research, we will study this phenomenon in the
+    East of Urmia plain using the Japanese specifications for highway bridges 1999.
+    The basis of this method is the evaluation of the liquefaction potential, by comparing
+    the liquefaction resistance assessed from the soil SPT with the shear stress ratio
+    induced by the earthquake to the normal effective stress from the earthquake.
+    Of the 6 study boreholes, only one of the boreholes with high-liquefaction risk
+    was evaluated. So the risk of liquefaction is very low. In general, the southern
+    part of Urmia region requires more geotechnical studies due to the density of
+    existing industries and roads, and also geophysical studies such as the use of
+    shear waves.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-20'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10470785
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.10470784
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  ASES:
+    individualname: ASES
+    role: creator
+  Tohid-Malekzadeh-Dilmaghani:
+    individualname: Tohid Malekzadeh Dilmaghani
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

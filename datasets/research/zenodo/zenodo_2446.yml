@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6395622
+  dataseturi: https://doi.org/10.5281/zenodo.6395622
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on the Possibility of Using Zinc-EDTA Chelate as a Combined Micronutrient
+    Fertilizer and Soil Iron Mobilizer
+  abstract: "Department of Agricultural Chemistry and Soil Science, Faculty of Agriculture,\
+    \ Bidhan Chandra Krishi Viswavidyalaya, Kalyani, West Bengal. <em>Manuscript received\
+    \ 12 August 1974 ; revised 30 December 1975 ; accepted 30 March 1976.</em> Two\
+    \ alluvial soils of West Bengal were incubated for different lengths of time separately\
+    \ with starch, EDTA and Zn-EDTA, the equilibrium \\(p\\)H values were measured\
+    \ and relative quantities of iron going into the solution phase were determined.\
+    \ Amongst the above reagents only EDTA (di sodium salt) has been found to depress\
+    \ the soil \\(p\\)H to a marked extent. In case of starch or Zn\xADEDTA, a trend\
+    \ towards increasing the \\(p\\)H was noticed; especially, in the soil characterized\
+    \ by a wider C:N ratio (Harm-soil). The initial rate of mobilization of iron was\
+    \ very high when EDTA was used but the micronutrient element was released at a\
+    \ more or less constant rate through\xADout the incubation period when Zn-EDTA\
+    \ was employed. Starch is apparently more effective than Zn-EDTA as a soil iron\
+    \ mobilizer in Harin-soil. In the other soil (Rana-soil), however, the following\
+    \ general order of efficiency was observed: EDTA&gt; Zn-EDTA&gt; starch. It has\
+    \ been sugges\xADted that Zn-EDTA chelate may be used quite effectively as a combined\
+    \ zinc fertilizer and soil iron mobilizer."
+  keywords:
+    default:
+      keywords:
+        subject: phosphates
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1976-06-30'
+    publication: '1976'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6395622
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6395621
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

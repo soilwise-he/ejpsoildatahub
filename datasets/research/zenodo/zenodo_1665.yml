@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ticona_2020
+  dataseturi: https://doi.org/10.1088/1757-899X/910/1/012010
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Correction coefficients of distortion and vibration period for buildings
+    due to soil-structure interaction
+  abstract: '&lt;p&gt;The present research analyzed the influence of the soil structure
+    interaction (SSI) in buildings, varying geotechnical parameters and height, considering
+    3 international codes. The responses obtained from the structures taking into
+    account the SSI, were compared with the responses of fixed-base buildings, being
+    the main control variables: the period and the drift. It was determined that the
+    estimated range in which the period of the structure increases is from 30 to 98%,
+    demonstrating the influence of considering soil flexibility. Due to the variability
+    of the responses obtained, an adjustment factor is proposed to predict said amplification
+    of the control variables, depending on the height of the building and the ground.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Vibration period
+      - Buildings
+      - Oil-structure interaction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Correction coefficients of distortion and vibration period for buildings
+      due to soil-structure interaction
+    url: http://dx.doi.org/10.1088/1757-899X/910/1/012010
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ticona-A.-M.:
+    individualname: Ticona, A. M.
+    role: creator
+  Rosales-M.-A.:
+    individualname: Rosales, M. A.
+    role: creator
+  Orihuela-J.-D.:
+    individualname: Orihuela, J. D.
+    role: creator
+  Ticona-A-M:
+    individualname: Ticona, A M
+    role: creator
+  Rosales-M-A:
+    individualname: Rosales, M A
+    role: creator
+  Orihuela-J-D:
+    individualname: Orihuela, J D
+    role: creator
+  IOP-Publishing:
+    individualname: IOP Publishing
+    role: creator
+content_info: {}

@@ -1,0 +1,121 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2619418
+  dataseturi: https://doi.org/10.5281/zenodo.2619418
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Modeling of Soil Organic Carbon Concentration and Stability Variation in
+    Top and Deep Soils with varied Aggregate Size under Climate Change of Sub-tropical
+    India: A Review'
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>The effects\
+    \ of tillage on soil organic carbon (SOC) and nutrient content of soil aggregates\
+    \ can vary spatially and temporally, and for different soil types and cropping\
+    \ systems. Surface soil (0\u201315 cm) was fractionated into aggregate sizes (&gt;4.76\
+    \ mm, 4.76\u20132.00 mm, 2.00\u20131.00 mm, 1.00\u20130.25 mm, 0.25\u20130.053\
+    \ mm, &lt;0.053 mm) under two tillage regimes. The percentage of soil OC mineralized\
+    \ (SOC<sub>min</sub>, % SOC) was in general higher in larger aggregates than in\
+    \ smaller aggregates. Tillage significantly reduced the proportion of macro-aggregate\
+    \ fractions (&gt;2.00 mm) and thus aggregate stability was reduced by 35% compared\
+    \ with RNT, indicating that tillage practices led to soil structural change for\
+    \ this subtropical soil.</em> <em>Soil organic C decreased with increasing soil\
+    \ depth but was greater under tree than others and was mainly concentrated in\
+    \ the topsoil layer (0\u201320 cm).</em> <em>In comparison to topsoil, deep soil\
+    \ aggregates generally exhibited a lower C<sub>min</sub>, and higher SOC<sub>min</sub>.\
+    \ The highest SOC was in the 1.00\u20130.25 mm fraction, while the lowest SOC\
+    \ was in micro-aggregate (&lt;0.025 mm) and silt + clay (&lt;0.053 mm) fractions\
+    \ and CT, respectively. Tillage did not influence the patterns in SOC across aggregates\
+    \ but did change the aggregate-size distribution, indicating that tillage affected\
+    \ soil fertility primarily by changing soil structure.</em> <em>The percentage\
+    \ of soil OC mineralized (SOC<sub>min</sub>, % SOC) was in general higher in larger\
+    \ aggregates than in smaller aggregates. Meanwhile, SOC<sub>min</sub> was greater\
+    \ in coniferous forests (CF) than in broad-leaved forests (BF) at topsoil and\
+    \ deep soil aggregates. In comparison to topsoil, deep soil aggregates generally\
+    \ exhibited a lower C<sub>min</sub>, and higher SOC<sub>min</sub>.</em> <em>The\
+    \ sum of macro-aggregate contributing rates for clay-humus stability of soil organic\
+    \ C (SOC) was significantly superior to that of the micro-aggregates. Water-stable\
+    \ aggregates increased by 34.5% in the CA with residue retention treatment, effectively\
+    \ improving the soil structure. Furthermore, 0.25\u20131.00 and 1\u20132mm aggregates\
+    \ had the highest SOC microbial biomass storage and responded rapidly to the various\
+    \ tillage treatments. Greater proportion of micro-aggregates within macro-aggregates\
+    \ in the plots under NT\u2013NT compared with CT\u2013CT was also observed in\
+    \ the surface layer only. Plots under NT\u2013NT had about 10% higher coarse (250\u2013\
+    2000 \u03BCm) intra-aggregate particulate organic matter-C (iPOM\u2013C) within\
+    \ &gt;2000 \u03BCm sand free aggregates in the 0- to 5-cm soil layer compared\
+    \ with CT\u2013CT plots. The fine (53\u2013250 \u03BCm) iPOM\u2013C within the\
+    \ 250- to 2000-\u03BCm aggregates was also higher in the continuous NT plots compared\
+    \ with CT within both &gt;2000 and 250 to 2000 \u03BCm sand free aggregate size\
+    \ classes in that soil layer.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Aggregates sizes, aggregate stability, soil depth, macro-aggregates,
+          micro-aggregates, fractionation, particulate organic carbon.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-03-31'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2619418
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2619417
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kancheti-Mrunalini:
+    individualname: Kancheti Mrunalini
+    role: creator
+    organization: ''
+    url: ''
+  R.K.Naresh:
+    individualname: R.K.Naresh
+    role: creator
+    organization: ''
+    url: ''
+  N.C.Mahajan:
+    individualname: N.C.Mahajan
+    role: creator
+    organization: ''
+    url: ''
+  K.S.-Krishna-Prasad:
+    individualname: K.S. Krishna Prasad
+    role: creator
+    organization: ''
+    url: ''
+  Lingutla-Sirisha:
+    individualname: Lingutla Sirisha
+    role: creator
+    organization: ''
+    url: ''
+  Sudhir-Kumar:
+    individualname: Sudhir Kumar
+    role: creator
+  S.P.Singh:
+    individualname: S.P.Singh
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-Sudhir:
+    individualname: Kumar, Sudhir
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

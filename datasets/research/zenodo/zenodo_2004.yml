@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7442304
+  dataseturi: https://doi.org/10.5281/zenodo.7442304
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE IMPORTANCE OF COMBINED APPLICATION OF CONVENTIONAL AND NON-CONVENTIONAL
+    COMPOUND FERTILIZERS TO THE SOIL
+  abstract: <em>In this article, the terms and norms of using traditional and non-traditional
+    fertilizers in the cultivation of environmentally friendly food products, which
+    are considered relevant today in the world, are considered.</em>
+  keywords:
+    default:
+      keywords:
+        subject: ecology, traditional, non-traditional, mineral, organic, polymer
+          fertilizers, soil, fertile, experiment, plant.
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2022-12-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7442304
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7442303
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.Bo'ronov:
+    individualname: M.Bo'ronov
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

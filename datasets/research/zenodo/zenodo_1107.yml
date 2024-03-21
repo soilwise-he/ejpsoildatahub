@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8045208
+  dataseturi: https://doi.org/10.5281/zenodo.8045208
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Pearl millet forage productivity under sprinkler irrigation system in sandy
+    soil
+  abstract: A field experiment was conducted in a private farm (30<sup>o</sup>40'
+    N latitude, 32<sup>o</sup>15' E longitude, and 10.0 m above mean sea level), Ismailia
+    Governorate, Egypt, during the 2020 and 2021 summer growing seasons. The aim was
+    to study the effect of four irrigation treatments (125, 100, 75% ETo, and farmer
+    practice) on pearl millet forage yield. Average amounts of applied irrigation
+    water under 125, 100, 75% ETo and farmer practice were 4637, 3710, 2782, and 5950
+    m<sup>3</sup>/ha, respectively with respective average water consumption values
+    of 4130, 3308, 2482, and 5302 m<sup>3</sup>/ha. Compared to the farmer practice,
+    the saved water was 22, 38, and 53 % for the 125, 100, and 75% ETo treatments.
+    Average water use efficiency values were 7.91, 7.55, 6.96 and 4.59 kg/m<sup>3</sup>,
+    and average water productivity values were 7.04, 6.73, 6.21, and 4.08 kg/m<sup>3</sup>
+    for 125, 100, 75% ETo and farmer treatments, respectively. The Ky factor was 1.17
+    indicating that the pearl millet crop is moderately sensitive to water stress.
+    Irrigating pearl millet in sandy soils with 100% ETo will save 38% of applied
+    irrigation water, achieve water use efficiency of 7.55 green yield/m<sup>3</sup>
+    of water consumed, and water productivity of 6.73 kg green yield/m<sup>3 </sup>of
+    water applied.
+  keywords:
+    default:
+      keywords:
+        subject: water use efficiency and water productivity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8045208
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8045207
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-M.-TAHA:
+    individualname: Ahmed M. TAHA
+    role: creator
+  Atef-GHANDOUR:
+    individualname: Atef GHANDOUR
+    role: creator
+  TAHA-Ahmed-M.:
+    individualname: TAHA, Ahmed M.
+    role: ''
+    organization: Water Requirement and Field Irrigation Department, Soils, Water
+      and Environment Research Institute, Agricultural Research Center, Egypt
+    url: ''
+  GHANDOUR-Atef:
+    individualname: GHANDOUR, Atef
+    role: ''
+    organization: Irrigation Department, Agricultural Engineering Research Institute,
+      Agricultural Research Center, Egypt
+    url: ''
+content_info: {}

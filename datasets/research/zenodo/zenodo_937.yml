@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Latini_2019
+  dataseturi: https://doi.org/10.3389/fmicb.2019.02694
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Impact of Soil-Applied Biochars From Different Vegetal Feedstocks on
+    Durum Wheat Plant Performance and Rhizospheric Bacterial Microbiota in Low Metal-Contaminated
+    Soil
+  abstract:
+  - '&lt;p&gt;Biochar shapes the soil environment and plant growth. Nevertheless,
+    the mechanisms associated with an improved plant biomass and soil microbiome in
+    low metal-contaminated soils are still unclear. In this study, the influence of
+    biochar on soil physico-chemical properties, plant performance, and rhizosphere
+    microbiota in durum wheat was investigated at the above- and belowground levels.
+    Two kinds of biochar from different feedstocks (wood chips and wheat straw pellets)
+    and two Italian durum wheat varieties, Duilio and Marco Aurelio, were analyzed
+    in a greenhouse using a low-nutrient gleyic fluvisol containing a very small amount
+    of Pb and Zn. Four different treatments were performed: soil-only control (C),
+    soil amended with woody biochar equilibrated with nutrient solution (B1+) and
+    non-activated (B1&minus;), and soil amended with non-activated (B2&minus;) wheat
+    straw biochar. Seven weeks after seed germination, (1) the physico-chemical properties
+    of soil, biochars, and mixtures were assessed; (2) the fresh and dry weight of
+    aboveground plant tissues and roots and other morphometric traits were measured;
+    and (3) metabarcoding of the 16S rRNA bacterial gene was performed on rhizosphere
+    soil samples. The results showed that the biochar from wheat straw had stronger
+    impact on both durum varieties, with higher electrical conductivity, higher levels
+    of available K and Na, and a substantial increase of dissolved Na+, K+, and Cl&minus;
+    ions in pore water. Generally, biochar amendment decreased Zn availability for
+    the plants. In addition, biochar improved plant growth in the early growth stage,
+    and the more positive effect was achieved by combining wheat straw biochar with
+    Marco Aurelio. Rhizosphere bacterial microbiota showed variation in alpha diversity
+    only due to treatment; on the other hand, the differential analysis showed consistent
+    variation among samples with significant effects on amplicon sequence variant
+    (ASV) abundance due to the specific biochar treatment as well as the genotype.
+    The pure B1&minus;, due to its scarce nutrient content with respect to the richer
+    types (B1+ and B2&minus;), had a negative impact on microbiota richness. Our study
+    highlights that an appropriate combination of biochar feedstock and crop species
+    may lead to superior yield.&lt;/p&gt;'
+  - The sequences from this publication have been submitted to the Sequence Read Archive
+    (SRA) of the National Center for Biotechnology Information (NCBI) under the accession
+    number PRJNA548437, referring to the BioProject entitled "Rhizospheric bacterial
+    microbiota in durum wheat under biochar treatment."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Impact of Soil-Applied Biochars From Different Vegetal Feedstocks on
+      Durum Wheat Plant Performance and Rhizospheric Bacterial Microbiota in Low Metal-Contaminated
+      Soil
+    url: http://dx.doi.org/10.3389/fmicb.2019.02694
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Arianna-Latini:
+    individualname: Arianna Latini
+    role: creator
+  Giovanni-Bacci:
+    individualname: Giovanni Bacci
+    role: creator
+  Manuel-Teodoro:
+    individualname: Manuel Teodoro
+    role: creator
+  Daniele-Mirabile-Gattia:
+    individualname: Daniele Mirabile Gattia
+    role: creator
+  Annamaria-Bevivino:
+    individualname: Annamaria Bevivino
+    role: creator
+  Lukas-Trakal:
+    individualname: "Luk\xE1\u0161 Trakal"
+    role: creator
+  Latini-Arianna:
+    individualname: Latini, Arianna
+    role: creator
+  Bacci-Giovanni:
+    individualname: Bacci, Giovanni
+    role: creator
+  Teodoro-Manuel:
+    individualname: Teodoro, Manuel
+    role: creator
+  Gattia-Daniele-Mirabile:
+    individualname: Gattia, Daniele Mirabile
+    role: creator
+  Bevivino-Annamaria:
+    individualname: Bevivino, Annamaria
+    role: creator
+  Trakal-Lukas:
+    individualname: "Trakal, Luk\xE1\u0161"
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

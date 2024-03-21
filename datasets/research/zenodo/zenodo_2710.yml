@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3952179
+  dataseturi: https://doi.org/10.5281/zenodo.3952179
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An analysis of soil coring strategies to estimate root depth in maize (Zea
+    mays) and common bean (Phaseolus vulgaris)
+  abstract: Contains data from field and simulation trials on root length distribution
+    profiles of maize and common bean. Contains code used to conduct OpenSimRoot simulations.
+    Contains code to calculate Voronoi area adjusted root length. Contains code to
+    conduct QDA, and other analysis and plots presented in manuscript.
+  keywords:
+    default:
+      keywords:
+        subject: root system architecture, root length distribution, root length profile,
+          rhizocanopy
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-07-17'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3952179
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3950357
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Burridge-James-D.:
+    individualname: Burridge, James D.
+    role: creator
+    organization: The Pennsylvania State University, Department of Plant Science,
+      Tyson Building, University Park PA 16802 USA
+    url: https://orcid.org/0000-0002-2194-9894
+  Black-Christopher-K:
+    individualname: Black, Christopher K
+    role: creator
+    organization: The Pennsylvania State University, Department of Plant Science,
+      Tyson Building, University Park PA 16802 USA
+    url: https://orcid.org/0000-0002-1747-0012
+  Nord-Eric-A.:
+    individualname: Nord, Eric A.
+    role: creator
+    organization: Greenville University, Department of Environmental Biology, 315
+      E. College Ave, Greenville, IL 62246, USA
+    url: https://orcid.org/0000-0002-2593-3072
+  Postma-Johannes-A.:
+    individualname: Postma, Johannes A.
+    role: creator
+    organization: "Forschungszentrum J\xFClich GmbH, Institute of Bio- and Geosciences\
+      \ \u2013 Plant Sciences (IBG-2), 52425 J\xFClich, Germany"
+    url: https://orcid.org/0000-0002-5222-6648
+  Sidhu-Jagdeep-S.:
+    individualname: Sidhu, Jagdeep S.
+    role: creator
+    organization: The Pennsylvania State University, Department of Plant Science,
+      Tyson Building, University Park PA 16802 USA
+    url: https://orcid.org/0000-0002-4672-3701
+  York-Larry-M.:
+    individualname: York, Larry M.
+    role: creator
+    organization: Noble Research Institute, LLC, 2510 Sam Noble Parkway, Ardmore,
+      OK 73401, USA
+    url: https://orcid.org/0000-0002-1995-9479
+  Lynch-Jonathan-P.:
+    individualname: Lynch, Jonathan P.
+    role: creator
+    organization: The Pennsylvania State University, Department of Plant Science,
+      Tyson Building, University Park PA 16802 USA
+    url: https://orcid.org/0000-0002-7265-9790
+content_info: {}

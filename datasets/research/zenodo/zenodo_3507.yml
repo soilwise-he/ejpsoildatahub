@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yousefpour_2019
+  dataseturi: https://doi.org/10.1016/j.ecolmodel.2019.02.019
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Simulation of extreme storm effects on regional forest soil carbon stock
+  abstract: '&lt;p&gt;This study aims to project changes in soil carbon stocks under
+    different frequencies of storm and climate change scenarios. We calibrated and
+    validated the dynamic process-based soil carbon model &ldquo;Yasso07&rdquo; for
+    a wind-throw prone forest area of 1.4&thinsp;M ha in the State of Baden W&uuml;rttemberg
+    in central Europe, Germany. We fitted climate-biomass models using retrospective
+    climate data and biomass measurements from three consecutive national forest inventories
+    for six forest growth regions. Three IPCC scenarios (RCP2.6, RCP6.0 and RCP8.5),
+    three storm frequencies (10, 20, and 50&thinsp;years interval), and three post-storm
+    harvest strategies (business-as-usual, full retention, and 50% retention), in
+    combination with a total of 27 scenarios, were applied for projections into the
+    21st century. We could reduce the uncertainty of YassoBW parameter values significantly
+    by up to 30%, by applying Bayesian calibration, although the absolute value of
+    most parameters did not deviate very much from the original Yasso07 parameters.
+    The projection results showed that forest soil organic carbon (SOC) may lose approximately
+    30 and 10&thinsp;t C/ha during the first and the second half of this century,
+    respectively. Three storm frequencies led to a larger range of annual SOC reduction
+    (-0.34, -0.49) t C/ha than climate and harvest strategies (-0.41, -0.42) t C/ha.
+    If no storms occur, the total carbon stock would increase to over 200&thinsp;t/ha
+    with 258&thinsp;t/ha under RCP8.5. Considering storm impacts, total forest carbon
+    was reduced from -20 to -90&thinsp;t C/ha, regarding 10 and 50&thinsp;year storm
+    frequencies respectively. The largest reduction of forest soil carbon stock originated
+    from the loss in non-solubles (N), followed by acid-solubles (A), humus (H), water-solubles
+    (W) and ethanol-solubles (E).&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Simulation of extreme storm effects on regional forest soil carbon stock
+    url: http://dx.doi.org/10.1016/j.ecolmodel.2019.02.019
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yousefpour-Rasoul:
+    individualname: Yousefpour, Rasoul
+    role: creator
+  Hanewinkel-Mark:
+    individualname: Hanewinkel, Mark
+    role: creator
+  You-Bin:
+    individualname: You, Bin
+    role: creator
+  Hanewinkel-Marc:
+    individualname: Hanewinkel, Marc
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

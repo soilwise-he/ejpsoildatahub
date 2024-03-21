@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7219137
+  dataseturi: https://doi.org/10.5281/zenodo.7219137
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Antagonistic Soil Bacteria for Biological Control of Rice Sheath Blight (ShB)
+    Disease
+  abstract: This article 'Antagonistic Soil Bacteria for Biological Control of Rice
+    Sheath Blight (ShB) Disease' appeared in the International Rice Research Newsletter
+    series, created by the International Rice Research Institute (IRRI). The primary
+    objective of this publication was to expedite communication among scientists concerned
+    with the development of improved technology for rice and for rice based cropping
+    systems. This publication will report what scientists are doing to increase the
+    production of rice in as much as this crop feeds the most densely populated and
+    land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Rhizoctonia solani
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1992-12-01'
+    publication: '1992'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7219137
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7219136
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sarker-D.-K.:
+    individualname: Sarker, D. K.
+    role: creator
+    organization: ''
+    url: ''
+  Sharma-N.-R.:
+    individualname: Sharma, N. R.
+    role: creator
+    organization: ''
+    url: ''
+  Shehjahan-A.-K.-M.:
+    individualname: Shehjahan, A. K. M.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

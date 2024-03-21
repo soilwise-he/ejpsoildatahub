@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8299730
+  dataseturi: https://doi.org/10.5281/zenodo.8299730
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A New Approach to Soil Initialization for Studying Subseasonal Land-Atmosphere
+    Interactions (2023MS003822)
+  abstract: This dataset is for a JAMES (Journal of Advances in Modeling Earth Systems)
+    paper, titled "A New Approach to Soil Initialization for Studying Subseasonal
+    Land-Atmosphere Interactions".
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-19'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8299730
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8299729
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jiang-Yelin:
+    individualname: Jiang, Yelin
+    role: creator
+    organization: University of Connecticut
+    url: 0000-0003-2676-575X
+  Wang-Guiling:
+    individualname: Wang, Guiling
+    role: Supervisor
+    organization: University of Connecticut
+    url: 0000-0002-9744-2563
+content_info: {}

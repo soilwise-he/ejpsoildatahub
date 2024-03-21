@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6275229
+  dataseturi: https://doi.org/10.5281/zenodo.6275229
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Heat of Transport of Aqueous Ammonium Chloride and Potassium Dihydrogen Phosphate
+    in a Saline Soil
+  abstract: "Department of Agricultural Chemistry and Boil Science, Bidhan Chandra\
+    \ Krishi Viswavidyalaya Kalyani-741 235<br> <em>Manuscript received 11 June 1986,\
+    \ accepted 13 November 1986</em> Thermal diffusion of aqueous ammonium chloride\
+    \ and potassium dihydrogen phos\xADphate at different mean concentrations was\
+    \ studied by using a three-chamber non-isothermal cell, and the corresponding\
+    \ heat of transport values (\\(\\hat{Q}\\)) were calculated by using a relation\
+    \ based on irreversible thermodynamics. The graphical extrapolation of \\(\\hat{Q}\\\
+    )<em> </em>to zero concentration yielded the beat of transport value at infinite\
+    \ dilution (\\(\\hat{Q}\\)\xB0). The results are qualitatively interpreted in\
+    \ terms of the difference between the 'local' degree of ordering in water in the\
+    \ bulk solution as compared to that in contact with the soil particles."
+  keywords:
+    default:
+      keywords:
+        subject: Potassium Dihydrogen Phosphate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1986-12-31'
+    publication: '1986'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6275229
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6275228
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-BHATTACHARJYA:
+    individualname: A. BHATTACHARJYA
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

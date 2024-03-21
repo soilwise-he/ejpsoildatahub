@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1073076
+  dataseturi: https://doi.org/10.5281/zenodo.1073076
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Characterization Of Novel Atrazine-Degrading Klebsiella Sp. Isolated From
+    Thai Agricultural Soil
+  abstract: Atrazine, a herbicide widely used in sugarcane and corn production, is
+    a frequently detected groundwater contaminant. An atrazine-degrading bacterium,
+    strain KB02, was obtained from long-term atrazine-treated sugarcane field soils
+    in Kanchanaburi province of Thailand. Strain KB02 had a rod-to-coccus morphological
+    cycle during growth. Sequence analysis of the PCR product indicated that the 16S
+    rRNA gene in strain KB02 was ranging from 97-98% identical to the same region
+    in Klebsiella sp. Based on biochemical, physiological analysis and 16S rDNA sequence
+    analysis of one representative isolate, strain KB02, the isolates belong to the
+    genus Klebsiella in the family Enterobacteriaceae. Interestingly that the various
+    primers for atzA, B and C failed to amplify genomic DNA of strain KB02. Whereas
+    the expected PCR product of atzA, B and C were obtained from the reference strain,
+    Arthrobacter sp. strain KU001.
+  keywords:
+    default:
+      keywords:
+        subject: Klebsiella
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-08-21'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1073076
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1073075
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sawangjit-Sopid:
+    individualname: Sawangjit Sopid
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

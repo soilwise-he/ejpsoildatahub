@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8372842
+  dataseturi: https://doi.org/10.5281/zenodo.8372842
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A comparative study on vegetation cover, soil properties and status of Arbuscular
+    Mycorrhizal Fungi in Jhum fallow and Natural Forest in Arunachal Pradesh
+  abstract: Deforestation in the form of shifting agriculture is one of the biggest
+    threats to the forests in Northeast India. Such disturbances adversely affect
+    the vegetation, soil health and the below-ground microorganisms especially Arbuscular
+    Mycorrhizal Fungi (AMF). The present study investigated the impact of conversion
+    of a tropical forest area into a Jhum field on vegetation cover, soil physico-chemical
+    properties and the below ground AMF status in Papum Pare district of Arunachal
+    Pradesh. Sampling was done by belt transect method covering 4 plots of 10,000
+    m2 size. Vegetation cover, Tree Diameter at Breast Height (DBH), soil physico-chemical
+    properties, root colonization (RC), AMF inoculum potential (IP), spore population
+    (SP) and AMF diversity in composite soil samples were quantified. The vegetation
+    cover in the Natural Forest was more than the Jhum fallows with greater plant
+    diversity, tree density, canopy cover, and DBH. Soil pH, Organic Carbon, available
+    Nitrogen and available Phosphorus content in the soil differed significantly between
+    the sites. RC (66.67%), IP (1.58 g-1 soil) and SP (224 AMF spores 100 g-1) were
+    higher in the Natural Forest. The study showed that removal of above-ground vegetation
+    exerts negative impacts on the soil properties and AMF status.
+  keywords:
+    default:
+      keywords:
+        subject: soil properties
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-31'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8372842
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8372841
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yakang-Hage:
+    individualname: Yakang, Hage
+    role: creator
+    organization: Department of Botany, Rajiv Gandhi University, Rono Hills, Doimukh,
+      791112, Arunachal Pradesh, India
+    url: ''
+  Nimasow-Oyi-Dai:
+    individualname: Nimasow, Oyi Dai
+    role: creator
+    organization: Department of Botany, Rajiv Gandhi University, Rono Hills, Doimukh,
+      791112, Arunachal Pradesh, India
+    url: ''
+content_info: {}

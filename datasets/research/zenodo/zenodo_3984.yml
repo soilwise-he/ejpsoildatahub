@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3820068
+  dataseturi: https://doi.org/10.5281/zenodo.3820068
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: R code and data for the research article "Oblique geographic coordinates
+    as covariates for digital soil mapping"
+  abstract: "R code and data for producing the analyses and figures found in the research\
+    \ article \"Oblique geographic coordinates as covariates for digital soil mapping\"\
+    \ (M\xF8ller et al., 2020). In addition to R code, the file contains the Swiss\
+    \ rainfall dataset (Dubois et al., 2003) and extracts from the Dutch elevation\
+    \ model (https://www.ahn.nl/) and the Global surface water occurrence dataset\
+    \ (Pekel et al., 2016). The code for the Vindum dataset was originally written\
+    \ for Microsoft R Open 3.5.3. The code for the other datasets was written in R\
+    \ version 3.6.3, For the R code used in the originally submitted manuscript before\
+    \ revision, please see http://dx.doi.org/10.5281/zenodo.3496935. References Dubois,\
+    \ G., Malczewski, J. and De Cort, M., 2003. Mapping radioactivity in the environment:\
+    \ Spatial interpolation comparison 97. Office for Official Publications of the\
+    \ European Communities. M\xF8ller, A. B., Beucher, A. M., Pouladi, N., and Greve,\
+    \ M. H.: Oblique geographic coordinates as covariates for digital soil mapping,\
+    \ SOIL, 6, 269\u2013289, https://doi.org/10.5194/soil-6-269-2020, 2020. Pekel,\
+    \ J.F., Cottam, A., Gorelick, N. and Belward, A.S., 2016. High-resolution mapping\
+    \ of global surface water and its long-term changes. Nature 540(7633), 418-422.\
+    \ http://dx.doi.org/10.1038/nature20584."
+  keywords:
+    default:
+      keywords:
+        subject: geostatistics
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-11'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3820068
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3820067
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Moller-Anders-Bjorn:
+    individualname: "M\xF8ller, Anders Bj\xF8rn"
+    role: creator
+    organization: Aarhus University
+    url: ''
+  Beucher-Amelie:
+    individualname: "Beucher, Am\xE9lie"
+    role: creator
+    organization: Aarhus University
+    url: ''
+  Pouladi-Nastaran:
+    individualname: Pouladi, Nastaran
+    role: creator
+    organization: Aarhus University
+    url: ''
+  Greve-Mogens:
+    individualname: Greve, Mogens
+    role: creator
+    organization: Aarhus University
+    url: ''
+content_info: {}

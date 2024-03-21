@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5877748
+  dataseturi: https://doi.org/10.5281/zenodo.5877748
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A first-year melon/cowpea intercropping system improves soil nutrients and
+    changes the soil microbial community
+  abstract: "The melon/cowpea intercropping system can be a specific and efficient\
+    \ cropping pattern in a horticultural field. Intercropping systems contribute\
+    \ to the optimization of land use, fostering sustainable and efficient agriculture.\
+    \ This study entails a first-year comparative intercropping assay using cowpea\
+    \ (Vigna unguiculata) and melon (Cucumis melo) under organic management with different\
+    \ patterns and 30% less organic fertilization than usual in monocrops. We determined\
+    \ the soil nutrients, physicochemical properties, enzyme activities and microbes\
+    \ by high-throughput sequencing. We found that the intercropping system changed\
+    \ the bacterial community structure independently of the intercropping pattern.\
+    \ The bacterial community was characterized by a higher abundance of the phyla\
+    \ Proteobacteria and Bacteroidetes phyla and of the genus Pseudomonas, which are\
+    \ related to nutrient cycling, and by greater amounts of other beneficial microorganisms\
+    \ like Bacillus, Streptomyces and Sphingomonas. The intercropped systems significantly\
+    \ boosted the total nitrogen, available phosphorus and total organic carbon levels\
+    \ in addition to the melon yield. They also enhanced the acid phosphatase and\
+    \ \u03B2-glucosidase activity compared to the melon monocrop. Results from this\
+    \ study suggest that melon/cowpea intercropping, starting from the first year,\
+    \ not only provides a stable supply of food and income due to the diversified\
+    \ cropping systems, but is also beneficial for the soil microbial community and\
+    \ environment."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-01-11'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5877748
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5877747
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cuartero-Jessica:
+    individualname: Cuartero, Jessica
+    role: creator
+    organization: Cebas-csic
+    url: ''
+  Pascual-Jose-Antonio:
+    individualname: Pascual, Jose Antonio
+    role: creator
+    organization: Cebas-csic
+    url: ''
+  Vivo-Juana-Mari:
+    individualname: Vivo, Juana-Mari
+    role: creator
+    organization: University of Murcia
+    url: ''
+  Ozbolat-Onurcan:
+    individualname: "\xD6zbolat, Onurcan"
+    role: creator
+    organization: University of Cartagena
+    url: ''
+  Sanchez-Navarro-Virginia:
+    individualname: "S\xE1nchez-Navarro, Virginia"
+    role: creator
+    organization: University of Cartagena
+    url: ''
+  Egea-Cortines-Marcos:
+    individualname: Egea-Cortines, Marcos
+    role: creator
+    organization: University of Cartagena
+    url: ''
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: creator
+    organization: University of Cartagena
+    url: ''
+  Martinez-Mena-Maria:
+    individualname: "Mart\xEDnez-Mena, Mar\xEDa"
+    role: creator
+    organization: Cebas-csic
+    url: ''
+  Garcia-Eloisa:
+    individualname: "Garc\xEDa, Eloisa"
+    role: creator
+    organization: Cebas-csic
+    url: ''
+  Ros-Margarita:
+    individualname: Ros, Margarita
+    role: creator
+    organization: Cebas-csic
+    url: ''
+content_info: {}

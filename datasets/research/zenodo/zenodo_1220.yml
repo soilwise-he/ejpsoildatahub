@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.159028
+  dataseturi: https://doi.org/10.5281/zenodo.159028
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis Of Changes In Soil Volumetric Water Content Using Common-Offset
+    Gpr
+  abstract: In highway engineering, GPR is a nondestructive tool for prediction pavement
+    layers conditions, the quality of subgrade soils, and assessing other pavement
+    conditions, such as moisture-related pavement damage. From the reflected GPR wave
+    information, dielectric properties of the materials, which are highly dependent
+    on soil or aggregate-water-air systems, can be estimated. An increase in dielectric
+    constant may indicate an increase in moisture content of dielectric materials.
+    However, the relationship between dielectric value and moisture content is complex
+    and controlled by many factors. GPR studies, which consider both real and imaginary
+    parts of dielectric value and its frequency dependent behavior, have shown potentials
+    for developing more robust model to predict moisture content. This paper presents
+    an overview of ground coupled GPR capabilities in estimating water content that
+    is necessary in assessing pavement condition. Two types of antennas (800 and 500
+    MHz) were employed to decide the best monitoring for the water seepage under new
+    or existing pavements. As well as, the data outcomes will be presented with the
+    necessary data filtration and post processing softwares to observe spectrums behavior
+    during the wetting cycles. Finally, it is concluded that estimation of soil water
+    content using Common-Offset GPR measurements mode facilitates rapid data acquisition.
+  keywords:
+    default:
+      keywords:
+        subject: GPR, Common-offset, Pavement subbase-subgrade, Volumetric water content.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-09-30'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.159028
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Hussein-H.-Karim*-Dr.-Hasan-H.-Jony-Aram-A.-Dawood:
+    individualname: Dr. Hussein H. Karim*, Dr. Hasan H. Jony, Aram A. Dawood
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

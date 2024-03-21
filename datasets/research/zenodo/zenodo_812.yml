@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hall_1905
+  dataseturi: https://doi.org/10.1017/s0021859600000162
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Analysis of the Soil by means of the Plant
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Analysis of the Soil by means of the Plant
+    url: http://dx.doi.org/10.1017/s0021859600000162
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hall-A.-D.:
+    individualname: Hall, A. D.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

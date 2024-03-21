@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7969587
+  dataseturi: https://doi.org/10.5281/zenodo.7969587
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SOIL ASSESSMENT AND AGRO-ECOLOGICAL CONDITIONS OF THE ECONOMIC REGIONS OF
+    AZERBAIJAN
+  abstract: 31 types and 55 subtypes of soil are spread over the territory of 14 economic
+    districts of Azerbaijan. Thanks to the variegated background of the territory,
+    comfortable agro-ecological conditions were formed. The wealth of fauna, flora,
+    numerous river basins and climatic conditions of the territory ensured the process
+    of soil formation and agroecological situations.
+  keywords:
+    default:
+      keywords:
+        subject: economic region, soil, agro ecological, flora, fauna, agriculture,
+          fertility
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7969587
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7969586
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Garib-Mammadov:
+    individualname: Garib Mammadov
+    role: creator
+    organization: "Advisor to the President of the National Academy of Sciences of\
+      \ Azerbaijan. Academician, \u0440rofesor"
+    url: ''
+  Divankhan-Ahadov:
+    individualname: Divankhan Ahadov
+    role: creator
+    organization: Candidate of Agricultural Sciences, Leading Researcher Institute
+      Soil Science and Agrochemistry
+    url: ''
+  Sara-Mammadova:
+    individualname: Sara Mammadova
+    role: creator
+  Mammadova-Sara:
+    individualname: Mammadova, Sara
+    role: ''
+    organization: Doctor of bischlogical, professor. Senior Researcher, Institute
+      of Soil Science and Agrochemistry
+    url: ''
+content_info: {}

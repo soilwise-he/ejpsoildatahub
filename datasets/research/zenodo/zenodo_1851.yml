@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Manoj_J_2023
+  dataseturi: https://doi.org/10.1016/j.jhydrol.2023.129445
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Characterising the coincidence of soil moisture \u2013 precipitation extremes\
+    \ as a possible precursor to European floods"
+  abstract: '&lt;p&gt;Studies around the world have shown that increases in extreme
+    precipitation are not directly resulting in reported instances of flooding. Despite
+    the evidence that antecedent soil moisture conditions play a significant role
+    in regulating the runoff response during extreme storm events, fewer works have
+    tried to understand the spatial and temporal dynamics of such coupled interactions.
+    In the present work, we aim to improve our understanding of the dominant spatiotemporal
+    patterns of soil moisture (SM) &ndash; precipitation (P) dependence over Europe.
+    Using an event-based, non-parametric Event Coincidence Analysis (ECA) approach,
+    we first quantified the probability of SM preceding P by the precursor coincidence
+    rate. We also examined the statistical precursor relationship between SM-P joint
+    episodes and reported annual flood events using the conditional precursor coincidence
+    rate. The results show that seasonality&nbsp;is a major driving force in the spatiotemporal
+    dynamics of SM-P coupling over Europe. The conditional precursor coincidence rates
+    are in line with previous flood hazard studies over Europe and show the importance
+    of considering such diverse interdependencies in flood risk mitigation. Our work
+    has implications for understanding the occurrence of preconditioned compound events
+    worldwide and provides a vital starting point for characterising the major processes
+    that need to be accounted for in comprehensive state of the art flood risk assessment
+    studies.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil moisture
+      - Floods
+      - ECA
+      - SM-P coupling
+      - Europe
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Characterising the coincidence of soil moisture \u2013 precipitation extremes\
+      \ as a possible precursor to European floods"
+    url: http://dx.doi.org/10.1016/j.jhydrol.2023.129445
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ashish-Manoj:
+    individualname: Ashish Manoj
+    role: creator
+  Teresa-Perez-Ciria:
+    individualname: Teresa Perez Ciria
+    role: creator
+  Gabriele-Chiogna:
+    individualname: Gabriele Chiogna
+    role: creator
+  Nadine-Salzmann:
+    individualname: Nadine Salzmann
+    role: creator
+  Ankit-Agarwal:
+    individualname: Ankit Agarwal
+    role: creator
+  Manoj-J-Ashish:
+    individualname: Manoj J, Ashish
+    role: creator
+  Perez-Ciria-Teresa:
+    individualname: "P\xE9rez Ciria, Teresa"
+    role: creator
+  Chiogna-Gabriele:
+    individualname: Chiogna, Gabriele
+    role: creator
+  Salzmann-Nadine:
+    individualname: Salzmann, Nadine
+    role: creator
+  Agarwal-Ankit:
+    individualname: Agarwal, Ankit
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

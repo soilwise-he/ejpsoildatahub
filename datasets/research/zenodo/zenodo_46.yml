@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7664723
+  dataseturi: https://doi.org/10.5281/zenodo.7664723
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of continuous cultivation and soil texture on some soil properties
+  abstract: The effects of soil continuous cultivation and soil texture on some of
+    its properties, electrical conductivity, total porosity, and calcium carbonate
+    content and soil penetration resistance. Six samples of soil material for a layer
+    of 0-30 cm were collected from three different texture sites are Clay, Loam and
+    Loamy Sand in Basra Governorate for three sites Abi al-Khasib, Karma and Zubair.
+    Three of these samples represented the treatment of soil continuous cultivation,
+    soil planted with alfalfa crop (Medicago sativa) for 7 consecutive years, and
+    the other three samples from the same sites for uncultivated soil with three replications
+    for each sample. The results showed a decrease in the values of electrical conductivity,
+    calcium carbonate, soil penetration resistance, and an increase in soil porosity
+    values in cultivated soils. The lowest EC values were 4.1, 5.3 and 6.2 dS. m<sup>-1</sup>
+    for soils with textures Loamy sand, Loam and Clay, respectively, and for CaCO3
+    of 182.3 g. kg<sup>-1</sup> in Loamy sand, 266.7 g. kg<sup>-1</sup> and 310 g.
+    kg<sup>-1</sup> for Loam and Clay soils, respectively, and for resistance to penetration
+    of 550 KN.m-1 for clay soils. While it was 620 KN.m<sup>-1</sup>, and 714 KN.m<sup>-1</sup>,
+    for loam soil and loamy sand soil, respectively, compared to uncultivated soil.
+    While the soil porosity values increased for cultivated soils compared with uncultivated
+    soils and the values of 43%, 48.53% and 53.4%, for soils with textures Loamy sand,
+    Loam and Clay respectively, And for the average weighted diameter of 0.2537 mm,
+    0.2817 mm, 0.3640 mm, for soils with textures Loamy sand, Loam and Clay, respectively.
+  keywords:
+    default:
+      keywords:
+        subject: Continuous cultivation; Soil texture; Soil porosity; Electrical conductivity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-10-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7664723
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7664722
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hussein-Razzaq-Nayyef:
+    individualname: Hussein Razzaq Nayyef
+    role: creator
+  Nayyef-Hussein-Razzaq:
+    individualname: Nayyef, Hussein Razzaq
+    role: ''
+    organization: Department of tissue culture and medicinal plants, Shatrah Technical
+      College, Southern Technical University, Iraq.
+    url: ''
+content_info: {}

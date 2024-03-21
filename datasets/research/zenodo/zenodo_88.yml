@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1084121
+  dataseturi: https://doi.org/10.5281/zenodo.1084121
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Experimental Investigation On Soil Stabilization Of Expansive Soil By
+    Using Inorganic Chemicals.
+  abstract: 'Expansive soils in India are a boon to farmers but problematic to civil
+    engineers, particularly to geotechnical engineers. Foundation structures experience
+    large scale damage due to change in properties of soil. The design of foundations
+    and pavements founded on swelling soils always involve a certain degree of risk
+    and damage. Usually high degree of risk is associated even with the lowest cost
+    of the design alternative. Thus it is necessary to explore various foundation
+    alternatives in expansive soils. The foundation alternatives include: Strip foundation,
+    Pad foundation, Pad and beam foundation, Pile and beam foundation, Pier and beam
+    foundation, Reinforced Strip or Stiffened foundation, Skirted footing and Skirted
+    stone column etc. These methods have several limitations. Also there are simple
+    techniques such as Pre-wetting, Environmental control with limited applicability.
+    Most feasible methods rely on improving the soil properties. There are several
+    techniques available to improve the soil properties. In this investigation, an
+    attempt has been made to study the effect of the chemicals like Sodium Carbonate
+    (Na2C03), Calcium Carbonate (CaC03), on the geotechnical properties of an expansive
+    soil. Maximum improvement found in CBR value when 1.00% of the chemical used in
+    case of Sodium Carbonate (Na2C03) and Calcium Carbonate (CaC03) and after all
+    calculations it is found that Calcium Carbonate (CaC03) is more effective in improving
+    the CBR values of the admixed soil when compared to Sodium carbonate.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil Stabilization, Chemicals, Sodium Carbonate (Na2C03), Calcium
+          Carbonate (CaC03), Expansive Soil, pH Value etc.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1084121
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1084120
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jitendra-Nayak*1--Tapas-Singh2:
+    individualname: Jitendra Nayak*1 & Tapas Singh2
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

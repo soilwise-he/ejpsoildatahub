@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3299329
+  dataseturi: https://doi.org/10.5281/zenodo.3299329
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Numerical Investigations on Group Piles' Lateral Bearing Capacity Considering
+    Interaction of Soil and Structure
+  abstract: In this research, the behavior of monopiles, under lateral loads, was
+    investigated with vertical and oblique piles by Finite Element Method. In engineering
+    practice when soil-pile interaction comes to the picture some simplifications
+    are applied to reduce the design time. As a simplified replacement of soil and
+    pile interaction analysis, pile could be replaced by a column. The height of the
+    column would be equal to the free length of the pile plus a portion of the embedded
+    length of it. One of the important factors studied in this study was that columns
+    with an equivalent length (free length plus a part of buried depth) could be used
+    instead of soil and pile modeling. The results of the analysis show that the more
+    internal friction angle of the soil increases, the more the bearing capacity of
+    the soil is achieved. This additional length is 6 to 11 times of the pile diameter
+    in dense soil although in loose sandy soil this range might increase.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3299329
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3299328
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahdi-Sadeghian:
+    individualname: Mahdi Sadeghian
+    role: creator
+  Mahmoud-Hassanlourad:
+    individualname: Mahmoud Hassanlourad
+    role: creator
+  Alireza-Ardakani:
+    individualname: Alireza Ardakani
+    role: creator
+    organization: ''
+    url: ''
+  Reza-Dinarvand:
+    individualname: Reza Dinarvand
+    role: creator
+  Sadeghian-Mahdi:
+    individualname: Sadeghian, Mahdi
+    role: ''
+    organization: ''
+    url: ''
+  Hassanlourad-Mahmoud:
+    individualname: Hassanlourad, Mahmoud
+    role: ''
+    organization: ''
+    url: ''
+  Dinarvand-Reza:
+    individualname: Dinarvand, Reza
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

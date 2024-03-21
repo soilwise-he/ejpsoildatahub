@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lennard_1922
+  dataseturi: https://doi.org/10.2307/2223105
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Alleged Exhaustion of the Soil in Medieval England
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Alleged Exhaustion of the Soil in Medieval England
+    url: http://dx.doi.org/10.2307/2223105
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lennard-Reginald:
+    individualname: Lennard, Reginald
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

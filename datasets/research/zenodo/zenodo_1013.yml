@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ashraf_2018
+  dataseturi: https://doi.org/10.1099/ijsem.0.002453
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Paenibacillus xanthanilyticus sp. nov., a xanthan-degrading bacterium isolated
+    from soil
+  abstract: '&lt;p&gt;A xanthan-degrading bacterium, strain AS7 T , was isolated from
+    soil and its taxonomic position was determined using a polyphasic approach. Strain
+    AS7 T was a Gram-stain-variable, spore-forming, motile, aerobic, rod-shaped bacterium.
+    Phylogenetic analysis based on 16S rRNA gene sequence analysis revealed that strain
+    AS7 T belongs to the genus Paenibacillus, sharing the highest level of sequence
+    similarity with Paenibacillus phyllosphaerae PALXIL04T (98.0 %). The cellwall
+    peptidoglycan contained meso-diaminopimelic acid. MK-7 was the dominant isoprenoid
+    quinone and the major fatty acid was anteiso-C15: 0. Polar lipids consisted of
+    diphosphatidylglycerol, phosphatidylglycerol, phosphatidylethanolamine and two
+    unknown phospholipids. These chemotaxonomic characteristics were consistent with
+    the isolate belonging to the genus Paenibacillus. The G+C content of the genomic
+    DNA was 51.0 mol% and the DNA&ndash;DNA hybridization value between strain AS7
+    T and P. phyllosphaerae PALXIL04 T was only 14.4&plusmn;2.5 %. On the basis of
+    phylogenetic analyses, phenotypic and chemotaxonomic characteristics, and DNA&ndash;DNA
+    relatedness value, strain AS7 T represents a novel species of the genus Paenibacillus,
+    for which the name Paenibacillus xanthanilyticus sp. nov. is proposed. The type
+    strain is AS7 T (=IBRCM 10987 T =LMG 29451 T ).&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Paenibacillus
+      - polyphasic taxonomy
+      - xanthanolytic bacterium
+      - Biological control
+      - Carbohydrase enzymes
+      - Chitinolytic bacteria
+      - Chitosan
+      - Hyaluronic acid
+      - Nitrogen fixation
+      - Oligosaccharide
+      - Paenibacillus xanthanilyticus
+      - Phosphate solubilization
+      - Plastic preservatives
+      - Saccharomyces cerevisiae
+      - Seed preservation
+      - Xanthan
+      - Xanthanase
+      - Xanthomonas spp.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Paenibacillus xanthanilyticus sp. nov., a xanthan-degrading bacterium isolated
+      from soil
+    url: http://dx.doi.org/10.1099/ijsem.0.002453
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Soudi-Mohammad-Reza:
+    individualname: Soudi, Mohammad Reza
+    role: creator
+  Ashraf-Simin:
+    individualname: Ashraf, Simin
+    role: creator
+  Amoozegar-Mohammad-Ali:
+    individualname: Amoozegar, Mohammad Ali
+    role: creator
+  Moshtaghi-Nikou-Mahdi:
+    individualname: Moshtaghi Nikou, Mahdi
+    role: creator
+  Sproer-Cathrin:
+    individualname: "Spr\xF6er, Cathrin"
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

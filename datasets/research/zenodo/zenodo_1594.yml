@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zhan_2016
+  dataseturi: https://doi.org/10.1109/igarss.2016.7730364
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Moisture data product generated from NASA SMAP observations with NOAA
+    ancillary data
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Moisture data product generated from NASA SMAP observations with NOAA
+      ancillary data
+    url: http://dx.doi.org/10.1109/igarss.2016.7730364
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhan-Xiwu:
+    individualname: Zhan, Xiwu
+    role: creator
+  Liu-Jicheng:
+    individualname: Liu, Jicheng
+    role: creator
+  Wen-Jun:
+    individualname: Wen, Jun
+    role: creator
+  Zhao-Limin:
+    individualname: Zhao, Limin
+    role: creator
+  Vargas-Marco:
+    individualname: Vargas, Marco
+    role: creator
+  Weng-Fuzhong:
+    individualname: Weng, Fuzhong
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

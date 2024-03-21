@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7950958
+  dataseturi: https://doi.org/10.5281/zenodo.7950958
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF BIOLOGIZATION OF SUGARMALI AGRICULTURE OF TURKESTAN REGION ON
+    SOIL FERTILITY
+  abstract: The content of humus and NPK elements for root residues in soils according
+    to the variants of the experiment is given in the article, for the period of 3
+    rotations of 3 rotations of crop rotation (1.sec.svetka, soya, winter wheat, 2-sugar
+    beet, maize and winter wheat) in conditions of irrigated agriculture.
+  keywords:
+    default:
+      keywords:
+        subject: root and side residues
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-20'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7950958
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7950957
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Azimbay-Abylaikhan:
+    individualname: Azimbay, Abylaikhan
+    role: creator
+    organization: Khoja Ahmet Yassawi International Kazakh-Turkish University, Turkestan,
+      Kazakhstan
+    url: https://orcid.org/0000-0003-2315-0653
+  Anuar-Aruzhan:
+    individualname: Anuar, Aruzhan
+    role: creator
+    organization: Khoja Ahmet Yassawi International Kazakh-Turkish University, Turkestan,
+      Kazakhstan
+    url: ''
+content_info: {}

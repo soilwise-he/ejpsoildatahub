@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8211037
+  dataseturi: https://doi.org/10.5281/zenodo.8211037
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: PHYTOREMEDIATION CAPACITY OF MAIZE (ZEA MAYS) ON DIESEL OIL POLLUTED SOIL
+  abstract: The potential of maize plants in the remediation of diesel oil-polluted
+    soil was evaluated. Soil samples were polluted with diesel oil in concentrations
+    of 100ml, 200ml, 300ml, and 400ml and amendedseparately with poultry droppings.
+    Samples wereanalyzed at two weeks intervals for 9 weeks. Results show a significant
+    reduction of diesel oil in polluted soil.The effect was concentration dependent.
+    Agromorphological parameters that were observed were Petiole Length, Plant Height,
+    Leaf Length, Leaf Width, and Number of Leaves. Results obtained showed that as
+    the concentration increased the more it reduced the growth of the plant. TPH content
+    of diesel oil showed a significant reduction through the growth period, reducing
+    from a baseline data of 8502mg/kg to 2843mg/kg. Hence, theplants have a higher
+    potential for phytoremediation of diesel-contaminated soils.
+  keywords:
+    default:
+      keywords:
+        subject: Phytoremediation Diesel Polluted Zea Mays TPH Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-18'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8211037
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8211036
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ukaoma-A.:
+    individualname: Ukaoma, A.
+    role: creator
+    organization: Department of Biological Science, Federal University of Technology
+      Owerri, Nigeria.
+    url: ''
+  Iwu-I.--Nwachukwu-N.--Anyanwu-C.:
+    individualname: Iwu I. , Nwachukwu N. , Anyanwu C.
+    role: creator
+  Adamu-I.:
+    individualname: Adamu, I.
+    role: creator
+    organization: Department of Biotechnology, Federal University of Technology Owerri,
+      Nigeria.
+    url: ''
+  Iwu-I.-Nwachukwu-N.:
+    individualname: Iwu I., Nwachukwu N.
+    role: ''
+    organization: Department of Chemistry, Federal University of Technology Owerri,
+      Nigeria.
+    url: ''
+content_info: {}

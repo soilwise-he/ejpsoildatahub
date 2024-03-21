@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garland_2018
+  dataseturi: https://doi.org/10.1021/acsami.8b10991
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Flexible Laser-Induced Graphene for Nitrogen Sensing in Soil
+  abstract: '&lt;div&gt;
+
+    &lt;div&gt;
+
+    &lt;div&gt;
+
+    &lt;p&gt;Flexible graphene electronics are rapidly gaining interest, but their&nbsp;widespread
+    implementation has been impeded by challenges with ink preparation, ink&nbsp;printing,
+    and postprint annealing processes. Laser-induced graphene (LIG) promises a&nbsp;facile
+    alternative by creating flexible graphene electronics on polyimide substrates
+    through&nbsp;the one-step laser writing fabrication method. Herein, we demonstrate
+    the use of LIG,&nbsp;created with a low-cost UV laser, for electrochemical ion-selective
+    sensing of plant-available nitrogen (i.e., both ammonium and nitrate ions: NH
+    + and NO &minus;) in soil samples. The laser used to create the LIG was operated
+    at distinct pulse widths (10, 20,&nbsp;30, 40, and 50 ms) to maximize the LIG
+    electrochemical reactivity. Results illustrated that&nbsp;a laser pulse width
+    of 20 ms led to a high percentage of sp2 carbon (77%) and optimal&nbsp;peak oxidation
+    current of 120 &mu;A during cyclic voltammetry of ferro/ferricyanide.&nbsp;Therefore,
+    LIG electrodes created with a 20 ms pulse width were consequently&nbsp;functionalized
+    with distinct ionophores specific to NH + (nonactin) or NO &minus;&nbsp;(tridodecylmethylammonium
+    nitrate) within poly(vinyl chloride)-based membranes to&nbsp;create distinct solid
+    contact ion-selective electrodes (SC-ISEs) for NH + and NO &minus; ion sensing,
+    respectively. The LIG SC-ISEs displayed near Nernstian sensitivities of 51.7 &plusmn;
+    7.8 mV/dec (NH +) and &minus;54.8 &plusmn; 2.5 mV/dec (NO &minus;), detection
+    limits of 28.2 &plusmn; 25.0 &mu;M (NH +) and 20.6 &plusmn; 14.8 &mu;M (NO &minus;),
+    low long-term drift of 0.93 mV/h (NH + sensors) and &minus;5.3 &mu;V/h (NO &minus;
+    sensors), and linear sensing ranges of 10&minus;5&minus;10&minus;1 M for both
+    sensors. Moreover, soil slurry sensing was performed, and recovery percentages
+    of 96% and 95% were obtained for added NH + and NO &minus;, respectively. These
+    results, combined with a facile&nbsp;fabrication that does not require metallic
+    nanoparticle decoration, make these LIG electrochemical sensors appealing for
+    a wide&nbsp;range of in-field or point-of-service applications for soil health
+    management.&lt;/p&gt;
+
+    &lt;/div&gt;
+
+    &lt;/div&gt;
+
+    &lt;/div&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Flexible Laser-Induced Graphene for Nitrogen Sensing in Soil
+    url: http://dx.doi.org/10.1021/acsami.8b10991
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McLamore-Eric:
+    individualname: McLamore, Eric
+    role: creator
+  Garland-Nate-T.:
+    individualname: Garland, Nate T.
+    role: creator
+  McLamore-Eric-S.:
+    individualname: McLamore, Eric S.
+    role: creator
+  Cavallaro-Nicholas-D.:
+    individualname: Cavallaro, Nicholas D.
+    role: creator
+  Mendivelso-Perez-Deyny:
+    individualname: Mendivelso-Perez, Deyny
+    role: creator
+  Smith-Emily-A.:
+    individualname: Smith, Emily A.
+    role: creator
+  Jing-Dapeng:
+    individualname: Jing, Dapeng
+    role: creator
+  Claussen-Jonathan-C.:
+    individualname: Claussen, Jonathan C.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

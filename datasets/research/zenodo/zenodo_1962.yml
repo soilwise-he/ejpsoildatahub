@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3266986
+  dataseturi: https://doi.org/10.5281/zenodo.3266986
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil mesofauna (Acarina and Collembola) along transects through shelterbelts
+    of different age and adjacent fields
+  abstract: "The communities of soil mesofauna were studied in the year 2004 along\
+    \ three transects crossed shelterbelts of different age (6,11 and 170 years old)\
+    \ and adjacent wheat fields at a distance of 0.5, 15 and 50 m. Studies were carried\n\
+    out in the Gen. D. Ch\u0142apowski Landscape Park near Turew, Western Poland (16045'E,\
+    \ 52001'W). The age of shelterbelts vegetation affected soil mesofauna of adjacent\
+    \ fields in a diverse way. The mean density of mites amounts 7.4 \xD7 103ind.\
+    \ m\u20132 and 2.6 \xD7 103 ind. m\u20132 respectively for the shelterbelts and\
+    \ fields. Densities of Acarina communities\nwere affected not only by the presence\
+    \ of a shelterbelt (P = 0.000) but also its age (P = 0.02) and the distance from\
+    \ it (P = 0.000), and these effects were similar in spring and autumn (P = 0.08).\
+    \ The mean density of springtail noted in shelterbelts of different age was 2.0\
+    \ \xD7 103 ind. m\u20132 and in the field sites 2.2 \xD7 103 ind. m\u20132. Although\
+    \ the effect\nof the shelterbelts' age on the density of Collembola was not found\
+    \ (P = 0.3), the densities were different in shelterbelts and in adjacent fields\
+    \ (P = 0.006) but statistical significance was found only between spring and autumn\
+    \ (P = 0.000). The distance from the shelterbelt influenced (though less intensely)\
+    \ the density of Collembola on adjacent field (P = 0.01). Eighteen species of\
+    \ Collembola were found in studied shelterbelts and fields. Isotoma notabilis\
+    \ Sch\xE4ff. usually dominated in shelterbelts. Its contribution to abundance\
+    \ of communities varied depending on the age of\nshelterbelts (in 6 years old\
+    \ shelterbelt it constituted as many as 71% of the whole community).\n In 11 years\
+    \ old shelterbelt Schoetella ununguiculata (Tullb.), was more common than Isotoma\
+    \ notabilis Sch\xE4ff. and in the 170 years old shelterbelt the dominant species\
+    \ was Onychiurus armatus (Tullb.). Friesea mirabilis (Tullb.), Proisotoma\nminuta\
+    \ (Tullb.), Isotoma notabilis or Onychiurus armatus dominated in adjacent fields\
+    \ though their contribution was depended on shelterbelt's age and on the distance\
+    \ from it."
+  keywords:
+    default:
+      keywords:
+        subject: species diversity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2007-08-01'
+    publication: '2007'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3266986
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3266985
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Izabella-Olejniczak:
+    individualname: Izabella Olejniczak
+    role: creator
+  Olejniczak-Izabella:
+    individualname: Olejniczak, Izabella
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

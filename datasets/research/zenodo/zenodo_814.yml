@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: O_Neill_2001
+  dataseturi: https://doi.org/10.1109/36.905244
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Discrimination of UXO in soil using broadband polarimetric GPR backscatter
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Discrimination of UXO in soil using broadband polarimetric GPR backscatter
+    url: http://dx.doi.org/10.1109/36.905244
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O'Neill-K.:
+    individualname: "O\u2019Neill, K."
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

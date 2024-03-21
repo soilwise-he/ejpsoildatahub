@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Girard_1811
+  dataseturi: https://doi.org/10.1080/14786441108563271
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: XXXIX. Extract from a memoir on the topography and the upper strata (le Relief)
+    of the soil of Paris
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: XXXIX. Extract from a memoir on the topography and the upper strata (le
+      Relief) of the soil of Paris
+    url: http://dx.doi.org/10.1080/14786441108563271
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Girard-P.-S.:
+    individualname: Girard, P. S.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

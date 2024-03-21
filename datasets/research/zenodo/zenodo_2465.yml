@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.812630
+  dataseturi: https://doi.org/10.5281/zenodo.812630
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Integrated Nutrient Management On Post Harvest Soil Fertility Status
+    On A Mollisol In Low - Land Rice
+  abstract: This record was migrated from the OpenDepot repository service in June,
+    2017 before shutting down.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-19'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.812630
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.812629
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Das-Anoop-KUmar:
+    individualname: Das, Anoop KUmar
+    role: creator
+    organization: GBPUA&T
+    url: ''
+  Adak-Tarun:
+    individualname: Adak, Tarun
+    role: creator
+    organization: ''
+    url: ''
+  Mahapatra-BS:
+    individualname: Mahapatra, BS
+    role: creator
+    organization: GBPUAT
+    url: ''
+content_info: {}

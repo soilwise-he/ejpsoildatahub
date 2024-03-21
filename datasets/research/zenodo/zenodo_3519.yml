@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1154510
+  dataseturi: https://doi.org/10.5281/zenodo.1154510
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Moisture Based Irrigation Test In A Remotely Monitored Automated System.
+  abstract: The proposed paper aims at determining the most efficient soil moisture
+    monitoring method in an intelligent remotely monitored system. The project also
+    demonstrates the economic viability of an integrated system of production were
+    water requirement, nutrients and pH are kept optimum automatically. The system
+    is designed to overcome the challenges of water wastage, nutrition deficit, pH
+    imbalance and leaching of nutrients. This system is powered by Solar System, controlled
+    by Microcontroller and programmed using LabVIEW Software. The Microcontroller
+    is connected GSM (Global System for Mobile communication) wireless network, which
+    allows the system to communicate with the farmer remotely using a mobile phone.
+    This proposed smart farming technology is environmentally friendly, efficient,
+    cost effective and gives the farmer the power to control and monitor production
+    in real time
+  keywords:
+    default:
+      keywords:
+        subject: Soil Moisture Sensor solar system microcontroller GSM modem Automated
+          Irrigation System.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-12-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1154510
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1154509
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ronny-Gorata-Matenge.:
+    individualname: Ronny Gorata Matenge.
+    role: creator
+  Matenge.-Ronny-Gorata:
+    individualname: Matenge., Ronny Gorata
+    role: ''
+    organization: Department of Water Engineering, Pan African University Institute
+      of Water and Energy Sciences (including Climate Change) PAUWES.
+    url: ''
+content_info: {}

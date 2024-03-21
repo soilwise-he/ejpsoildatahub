@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.848903
+  dataseturi: https://doi.org/10.5281/zenodo.848903
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Heavy Metals Patterns In Torino Olympic Winter Games Venue (E.U.)
+  abstract: "The city of Torino (45\xB0N, 7\xB0E NW Italy) has a long history of heavy\
+    \ industry. Additional sources of potential pollutants originate from transport\
+    \ such as car emissions. We selected an area potentially at high risk of contamination:\
+    \ it is sandwiched between roads, the circular Turin highway and the motorway\
+    \ which connects to France, and a landfill where special and hazardous solid wastes\
+    \ from industry are disposed of. Our main aim was i) to discriminate between these\
+    \ sources of heavy metals (HM) and ii) to assess a simplified HM transfer scenario.\
+    \ We started with air diffusion models (inputs were meteo and chemistry of the\
+    \ particulate), then we described topsoils (12 samples km-2) and we sampled, reallocated\
+    \ undisturbed, and cultivated an Ap soil horizon, being the soil ceteris paribus.\
+    \ The topsoils description discriminated Factor I, related to the vehicular load\
+    \ and soil parent material (mainly Cd, Co, Cr, Ni, V, and Zn), and Factor II,\
+    \ HM univocally dispersible from the landfill (Sb and As). The ecosystem response\
+    \ is resilience: soil tends to buffer loadings of most HM. In the case of mercury,\
+    \ lead, and arsenic our findings indicate that their transfer to the food chain\
+    \ may be massive."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2008-01-01'
+    publication: '2008'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.848903
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.848902
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Scalenghe-Riccardo:
+    individualname: Scalenghe, Riccardo
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0001-7614-4842
+  Fasciani-G.:
+    individualname: Fasciani, G.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

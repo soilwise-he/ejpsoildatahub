@@ -1,0 +1,116 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1081275
+  dataseturi: https://doi.org/10.5281/zenodo.1081275
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of A Modified Bcr Approach To Investigate The Mobility And Availability
+    Of Trace Elements (As, Ba, Cd, Co, Cr, Cu, Mo,Ni, Pb, Zn, And Hg) From A Solid
+    Residue Matrix Designed For Soil Amendment
+  abstract: 'Trace element speciation of an integrated soil
+
+    amendment matrix was studied with a modified BCR sequential
+
+    extraction procedure. The analysis included pseudo-total
+
+    concentration determinations according to USEPA 3051A and
+
+    relevant physicochemical properties by standardized methods. Based
+
+    on the results, the soil amendment matrix possessed neutralization
+
+    capacity comparable to commercial fertilizers. Additionally, the
+
+    pseudo-total concentrations of all trace elements included in the
+
+    Finnish regulation for agricultural fertilizers were lower than the
+
+    respective statutory limit values. According to chemical speciation,
+
+    the lability of trace elements increased in the following order: Hg &lt;
+
+    Cr &lt; Co &lt; Cu &lt; As &lt; Zn &lt; Ni &lt; Pb &lt; Cd &lt; V &lt; Mo &lt;
+    Ba. The
+
+    validity of the BCR approach as a tool for chemical speciation was
+
+    confirmed by the additional acid digestion phase. Recovery of trace
+
+    elements during the procedure assured the validity of the approach
+
+    and indicated good quality of the analytical work.'
+  keywords:
+    default:
+      keywords:
+        subject: sequential extraction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-07-28'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1081275
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1081274
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mikko-Makela:
+    individualname: "Mikko M\xE4kel\xE4"
+    role: creator
+  Risto-Poykio:
+    individualname: "Risto P\xF6yki\xF6"
+    role: creator
+  Gary-Watkins:
+    individualname: Gary Watkins
+    role: creator
+  Hannu-Nurmesniemi:
+    individualname: Hannu Nurmesniemi
+    role: creator
+  Olli-Dahl:
+    individualname: Olli Dahl
+    role: creator
+  Makela-Mikko:
+    individualname: "M\xE4kel\xE4, Mikko"
+    role: ''
+    organization: ''
+    url: ''
+  Poykio-Risto:
+    individualname: "P\xF6yki\xF6, Risto"
+    role: ''
+    organization: ''
+    url: ''
+  Watkins-Gary:
+    individualname: Watkins, Gary
+    role: ''
+    organization: ''
+    url: ''
+  Nurmesniemi-Hannu:
+    individualname: Nurmesniemi, Hannu
+    role: ''
+    organization: ''
+    url: ''
+  Dahl-Olli:
+    individualname: Dahl, Olli
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

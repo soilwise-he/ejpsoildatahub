@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1238198
+  dataseturi: https://doi.org/10.5281/zenodo.1238198
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study On Characteristic Of Laterite Soil With Lime Stabilization As A Road
+    Foundation
+  abstract: 'Regional growth and development led to an increase in infrastructure
+    especially roads. Along with that, material requirements as the road foundation
+    also increased. Meanwhile, the number of qualified materials in certain areas
+    is limited, difficult to obtain and expensive. Therefore, efforts are required
+    to exploit the potential of local soils as a<br>
+
+    qualified road foundation material. One of them is laterite soil which is only
+    wasted from mining activities. This study aims to analyze and produce the characteristics
+    of laterite soil with lime stabilization to be used as a road foundation. Physical
+    and mechanical properties, mineral content, and chemical composition, obtained
+    from laboratory testing. Meanwhile, to obtain soil bearing capacity, the physical
+    model of the road foundation was examined. The addition of lime with compositions
+    of 3, 5, 7, and 10% at maximum dry density from Proctor standard test, then cured
+    to 3, 7, 14, and 28 days before testing. Subsequently, the soil mixture is fed
+    into the test tub with length (L) = 8m, width (W) = 2m, and height (H) = 2.5m.
+    The physical model of road foundation consists of a subgrade soil with 1.5 m thickness
+    and above the subgrade is placed lime treated base with 0.1 m thickness. Dial
+    gauge to read the magnitute of vertical deformation occurs when loading is placed
+    on surface with 0.2 m distance. Furthermore, static loading test on each mixture
+    of lime treated base. The results show that, stabilization of 10% lime for 28
+    days curing time yields the strength and bearing capacity of the soil three times
+    higher than soil before stabilization. Subgrade modulus increased significantly
+    with increasing of lime content and curing time. Comparing the relation of subgrade
+    modulus and CBR values for common soil and sediment soil with cement stabilization,
+    it was found that performance of laterite soil with lime stabilization is better
+    than sediment soil with cement stabilization and approaching of common soil. It
+    is concluded that laterite soil with lime stabilization has potential as a road
+    foundation.'
+  keywords:
+    default:
+      keywords:
+        subject: Laterite soil, lime stabilization, road foundation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-08-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1238198
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1238197
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saing-Zubair:
+    individualname: Saing, Zubair
+    role: creator
+    organization: Universitas Muhammadiyah Maluku Utara
+    url: https://orcid.org/0000-0002-6083-7457
+  Samang-Lawalenna:
+    individualname: Samang, Lawalenna
+    role: creator
+    organization: Hasanuddin University
+    url: ''
+  Harianto-Tri:
+    individualname: Harianto, Tri
+    role: creator
+    organization: Hasanuddin University
+    url: ''
+  Patanduk-Johannes:
+    individualname: Patanduk, Johannes
+    role: creator
+    organization: Hasanuddin University
+    url: ''
+content_info: {}

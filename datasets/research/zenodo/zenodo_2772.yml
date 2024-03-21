@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.3390/ rs13040716
+  dataseturi: https://doi.org/10.3390/ rs13040716
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Application of Remote Sensing Techniques to Discriminate the Effect of Different
+    Soil Management Treatments over Rainfed Vineyards in Chianti Terroir
+  abstract:
+  - '&lt;p&gt;The work aimed to discriminate among different soil management treatments
+    in terms of&lt;br&gt;
+
+    beneficial effects by high-resolution thermal and spectral vegetation imagery
+    using an unmanned&lt;br&gt;
+
+    aerial vehicle and open-source GIS software. Five soil management treatments were
+    applied in&lt;br&gt;
+
+    two organic vineyards (cv. Sangiovese) from Chianti Classico terroir (Tuscany,
+    Italy) during two&lt;br&gt;
+
+    experimental years. The treatments tested consisted of conventional tillage, spontaneous
+    vegetation,&lt;br&gt;
+
+    pigeon bean (Vicia faba var. minor Beck) incorporated in spring, mixture of barley
+    (Hordeum vulgare&lt;br&gt;
+
+    L.) and clover (Trifolium squarrosum L.) incorporated or left as dead mulch in
+    late spring. The&lt;br&gt;
+
+    images acquired remotely were analyzed through map-algebra and map-statistics
+    in QGIS and&lt;br&gt;
+
+    correlated with field ecophysiological measurements. The surface temperature,
+    crop water stress&lt;br&gt;
+
+    index (CWSI) and normalized difference vegetation index (NDVI) of each vine row
+    under treatments&lt;br&gt;
+
+    were compared based on frequency distribution functions and statistics descriptors
+    of position. The&lt;br&gt;
+
+    spectral vegetation and thermal-based indices were significantly correlated with
+    the respective leaf&lt;br&gt;
+
+    area index (R2 = 0.89) and stem water potential measurements (R2 = 0.59), and
+    thus are an expression&lt;br&gt;
+
+    of the crop vigor and water status. The gravel and active limestone soil components
+    determined&lt;br&gt;
+
+    the spatial variability of vine biophysical (e.g., canopy vigor) and physiological
+    characteristics (e.g.,&lt;br&gt;
+
+    vine chlorophyll content) in both farms. The vine canopy surface temperature,
+    and CWSI were lower&lt;br&gt;
+
+    on the spontaneous and pigeon bean treatments in both farms, thus evidencing less
+    physiological&lt;br&gt;
+
+    stress on the vine rows derived from the cover crop residual effect. In conclusion,
+    the proposed&lt;br&gt;
+
+    methodology showed the capacity to discriminate across soil management practices
+    and map the&lt;br&gt;
+
+    spatial variability within vineyards. The methodology could serve as a simple
+    and non-invasive tool&lt;br&gt;
+
+    for precision soil management in rainfed vineyards to guide producers on using
+    the most efficient&lt;br&gt;
+
+    and profitable practice.&lt;/p&gt;'
+  - 'The research was carried out in the frame of "Progetto OP-Illuminati Frutta-Rallo"
+    (University
+
+    of Pisa, MIPAF-Regione Toscana) and "ATMOSMART-dimostratore tecnologico" (University
+
+    of Pisa). The field experiments are partly funded by the EU-H2020 Project "IWMPRAISE"
+    (GA
+
+    nr. 727321).'
+  keywords:
+    default:
+      keywords:
+      - cover crops
+      - cropwater stress index (CWSI)
+      - spectral vegetation index
+      - sustainable agriculture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Angela-Puig-Sirera:
+    individualname: "\xC0ngela Puig-Sirera"
+    role: creator
+  Daniele-Antichi:
+    individualname: Daniele Antichi
+    role: creator
+  Dylan-Warren-Raffa:
+    individualname: Dylan Warren Raffa
+    role: creator
+  Giovanni-Rallo:
+    individualname: Giovanni Rallo
+    role: creator
+content_info: {}

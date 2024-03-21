@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jackson_1990
+  dataseturi: https://doi.org/10.1109/36.58989
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Attenuation of soil microwave emission by corn and soybeans at 1.4 and 5
+    GHz
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Attenuation of soil microwave emission by corn and soybeans at 1.4 and 5
+      GHz
+    url: http://dx.doi.org/10.1109/36.58989
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jackson-T.-J.:
+    individualname: Jackson, T. J.
+    role: creator
+  O'Neill-P.-E.:
+    individualname: O'Neill, P. E.
+    role: creator
+  Jackson-T.J.:
+    individualname: Jackson, T.J.
+    role: creator
+  O'Neill-P.E.:
+    individualname: "O\u2019Neill, P.E."
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

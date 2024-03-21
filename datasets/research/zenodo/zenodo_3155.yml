@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Duffkov__2022
+  dataseturi: https://doi.org/10.3390/rs14194959
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Controlled Tile Drainage on Growth and Grain Yield of Spring
+    Barley as Detected by UAV Images, Yield Map and Soil Moisture Content
+  abstract: '&lt;p&gt;Controlled tile drainage (CTD) practices are a promising tool
+    for improving water balance, water quality and increasing crop yield by raising
+    shallow groundwater level and capillary rise due to drainage flow retardation.
+    We tested the effect of CTD on growth and grain yield of spring barley, at a study
+    site in central Bohemia using vegetation indices from unmanned aerial vehicle
+    (UAV) imagery and Sentinel-2 satellite imagery. Tile drainage flow was slowed
+    by fixed water level control structures that increased soil moisture in the surrounding
+    area according to the terrain slope. Vegetation indices based on red-edge spectral
+    bands in combination with near-infrared and red bands were selected, of which
+    the Normalized Red Edge-Red Index (NRERI) showed the closest relationships with
+    shoot biomass parameters (dry biomass, nitrogen concentration and uptake, nitrogen
+    nutrition index) from point sampling at the tillering stage. The CTD sites showed
+    significantly more biomass using NRERI compared to free tile drainage (FTD) sites.
+    In contrast, in the period prior to the implementation of CTD practices, Sentinel-2
+    satellite imagery did not demonstrate higher biomass based on NRERI at CTD sites
+    compared to FTD sites. The grain yields of spring barley as determined from the
+    yield map also increased due to CTD (by 0.3 t/ha, i.e., by 4%). The positive impact
+    of CTD on biomass development and grain yield of spring barley was confirmed by
+    the increase in soil moisture at depths of 20, 40 and 60 cm compared to FTD. The
+    largest increase in soil water content of 3.5 vol% due to CTD occurred at the
+    depth of 40 cm, which also had a higher degree of saturation of available water
+    capacity and the occurrence of crop water stress was delayed by 14 days compared
+    to FTD.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - controlled tile drainage
+      - UAV images
+      - red-edge vegetation indices
+      - spring barley biomass
+      - grain yield
+      - soil moisture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Controlled Tile Drainage on Growth and Grain Yield of Spring
+      Barley as Detected by UAV Images, Yield Map and Soil Moisture Content
+    url: http://dx.doi.org/10.3390/rs14194959
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Duffkova-Renata:
+    individualname: "Duffkov\xE1, Renata"
+    role: creator
+  Polakova-Lucie:
+    individualname: "Pol\xE1kov\xE1, Lucie"
+    role: creator
+  Lukas-Vojtech:
+    individualname: "Lukas, Vojt\u011Bch"
+    role: creator
+  Fucik-Petr:
+    individualname: "Fu\u010D\xEDk, Petr"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

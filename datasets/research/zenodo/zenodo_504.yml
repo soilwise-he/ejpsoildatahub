@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.16892
+  dataseturi: https://doi.org/10.5281/zenodo.16892
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Features Approachs To The Study Soil Of Holocene
+  abstract: Holocene - the last interglacial period of nature. The total duration
+    of about 13, 3 thousand years. Formed a powerful soil deposits for this time.
+    Their study will provide an opportunity not only to establish the trend of nature
+    for the present, but also to predict its future.
+  keywords:
+    default:
+      keywords:
+        subject: stage
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-04-16'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.16892
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kushnir-Anatolii-Stepanovich:
+    individualname: "\u041A\u0443\u0448\u043D\u0456\u0440 \u0410\u043D\u0430\u0442\
+      \u043E\u043B\u0456\u0439 \u0421\u0442\u0435\u043F\u0430\u043D\u043E\u0432\u0438\
+      \u0447"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

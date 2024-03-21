@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3865443
+  dataseturi: https://doi.org/10.5281/zenodo.3865443
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of Organic Matter and Live Plants on Sulfidic Soil pH, Redox and
+    Sulfate Content under Flooded Conditions
+  abstract: In an undisturbed state below the water table, the sulfidic soils are
+    benign, unless exposed due to various natural processes or anthropogenic activities
+    and sulfuric acidity is produce, which has negative impacts on the environment.
+    This paper examines the effects of organic matter, organic matter co-existing
+    with live plants or live plants alone on sulfidic soil pH, redox and sulfate content
+    under flooded conditions. In almost all cases, organic matter without plants induced
+    ameliorative effects on sulfidic soil chemistry. In soils with or without organic
+    matter, presence of plants led to higher Eh values, lower pH and higher sulfate
+    contents. The reduction reactions of the added organic matter and the anoxia created
+    by flooding were ineffective in reducing the amount of oxygen that was pumped
+    into the rhizophore via the arenchymatous tissues in all the soils with plants.
+    Under falling soil moisture regimes, e.g. during a drought event, presence of
+    this type of plant species would aerate the reduced soil conditions. Aeration
+    would then lead to oxidation of sulfides, producing sulfuric acid, which in turn
+    would have negative impacts when released into the environment. One strategic
+    option to reduce the amount of oxygen entering the soil would be to slash the
+    shoots and leave them on the surface to help generate more alkalinity upon decomposition,
+    even if the culm would continue to facilitate oxygen transport.
+  keywords:
+    default:
+      keywords:
+        subject: Eh, live plants, organic matter, pH, sulfate content, sulfidic soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-29'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3865443
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3865442
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Michael-Patrick:
+    individualname: Michael, Patrick
+    role: creator
+    organization: Department of Agriculture, The Papua New Guinea University of Technology,
+      Lae, MP 411, Papua New Guinea
+    url: ''
+content_info: {}

@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8415395
+  dataseturi: https://doi.org/10.5281/zenodo.8415395
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECTS OF GLOBAL WARMING ON SOIL AND SOIL PROPERTIES
+  abstract: "Global warming is one of the world's most important problems. Global\
+    \ warming can be defined as the increase in the temperature of the Earth\u2019\
+    s surface by absorbing the sun rays of these molecules due to the increase in\
+    \ the concentrations of greenhouse gases (CO2, CH4, N2O, etc.) in the atmosphere\
+    \ (Korkmaz, 2007)."
+  keywords:
+    default:
+      keywords:
+        subject: SOIL PROPERTIES
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8415395
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8415394
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  IKSAD-PUBLICATION-HOUSE:
+    individualname: IKSAD PUBLICATION HOUSE
+    role: creator
+  KOLAY-Betul:
+    individualname: "KOLAY, Bet\xFCl"
+    role: creator
+    organization: GAP International Agricultural Research and Training Center
+    url: 0000-0002-9505-0152
+content_info: {}

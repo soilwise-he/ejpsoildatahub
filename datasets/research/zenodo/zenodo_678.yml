@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: JOFFE_1922
+  dataseturi: https://doi.org/10.1097/00010694-192202000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: STUDIES OF SULFUR OXIDATION IN SULFUR-FLOATS-SOIL MIXTURES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: STUDIES OF SULFUR OXIDATION IN SULFUR-FLOATS-SOIL MIXTURES
+    url: http://dx.doi.org/10.1097/00010694-192202000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Joffe-Jacob-S.:
+    individualname: Joffe, Jacob S.
+    role: creator
+  JOFFE-JACOB-S.:
+    individualname: JOFFE, JACOB S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

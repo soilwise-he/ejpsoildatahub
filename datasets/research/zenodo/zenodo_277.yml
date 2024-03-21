@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091176
+  dataseturi: https://doi.org/10.5281/zenodo.8091176
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Cultivated Land Use Zoning Based on Soil Function Evaluation from the Perspective
+    of Black Soil Protection
+  abstract: Given that cultivated land serves as a strategic resource to ensure national
+    food security, blind emphasis on improvement of food production capacity can lead
+    to soil overutilization and impair other soil functions. Therefore, we took Heilongjiang
+    province as an example to conduct a multi-functional evaluation of soil at the
+    provincial scale. A combination of soil, climate, topography, land use, and remote
+    sensing data were used to evaluate the functions of primary productivity, provision
+    and cycling of nutrients, provision of functional and intrinsic biodiversity,
+    water purification and regulation, and carbon sequestration and regulation of
+    cultivated land in 2018. We designed a soil function discriminant matrix, constructed
+    the supply-demand ratio, and evaluated the current status of supply and demand
+    of soil functions. Soil functions demonstrated a distribution pattern of high
+    grade in the northeast and low grade in the southwest, mostly in second-level
+    areas. The actual supply of primary productivity functions in 71.32% of the region
+    cannot meet the current needs of the population. The dominant function of soil
+    in 34.89% of the area is water purification and regulation, and most of the cultivated
+    land belongs to the functional balance region. The results presented herein provide
+    a theoretical basis for optimization of land patterns and improvement of cultivated
+    land use management on a large scale, and is of great significance to the sustainable
+    use of black soil resources and improvement of comprehensive benefits
+  keywords:
+    default:
+      keywords:
+        subject: spatial scales
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091176
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8091175
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rui-Zhao:
+    individualname: Rui Zhao
+    role: creator
+  Junying-Li:
+    individualname: Junying Li
+    role: creator
+    organization: ''
+    url: ''
+  Kening-Wu:
+    individualname: Kening Wu
+    role: creator
+    organization: ''
+    url: ''
+  Long-Kang:
+    individualname: Long Kang
+    role: creator
+  Zhao-Rui:
+    individualname: Zhao, Rui
+    role: ''
+    organization: ''
+    url: ''
+  Kang-Long:
+    individualname: Kang, Long
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

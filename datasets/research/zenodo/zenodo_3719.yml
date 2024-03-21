@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1100402
+  dataseturi: https://doi.org/10.5281/zenodo.1100402
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Quality State And Trends In New Zealand'S Largest City After 15 Years
+  abstract: "Soil quality monitoring is a science-based soil<br>\nmanagement tool\
+    \ that assesses soil ecosystem health.<br>\nA soil monitoring program in Auckland,\
+    \ New Zealand\u2019s largest<br>\ncity extends from 1995 to the present. The objective\
+    \ of this study was<br>\nto firstly determine changes in soil parameters (basic\
+    \ soil properties<br>\nand heavy metals) that were assessed from rural land in\
+    \ 1995-2000<br>\nand repeated in 2008-2012. The second objective was to determine<br>\n\
+    differences in soil parameters across various land uses including<br>\nnative\
+    \ bush, rural (horticulture, pasture and plantation forestry) and<br>\nurban land\
+    \ uses using soil data collected in more recent years (2009-<br>\n2013).<br>\n\
+    Across rural land, mean concentrations of Olsen P had<br>\nsignificantly increased\
+    \ in the second sampling period and was<br>\nidentified as the indicator of most\
+    \ concern, followed by soil<br>\nmacroporosity, particularly for horticultural\
+    \ and pastoral land. Mean<br>\nconcentrations of Cd were also greatest for pastoral\
+    \ and horticultural<br>\nland and a positive correlation existed between these\
+    \ two parameters,<br>\nwhich highlights the importance of analysing basic soil\
+    \ parameters in<br>\nconjunction with heavy metals. In contrast, mean concentrations\
+    \ of<br>\nAs, Cr, Pb, Ni and Zn were greatest for urban sites. Native bush sites<br>\n\
+    had the lowest concentrations of heavy metals and were used to<br>\ncalculate\
+    \ a \u2018pollution index\u2019 (PI). The mean PI was classified as high<br>\n\
+    (PI &gt; 3) for Cd and Ni and moderate for Pb, Zn, Cr, Cu, As and Hg,<br>\nindicating\
+    \ high levels of heavy metal pollution across both rural and<br>\nurban soils.\
+    \ From a land use perspective, the mean \u2018integrated<br>\npollution index\u2019\
+    \ was highest for urban sites at 2.9 followed by<br>\npasture, horticulture and\
+    \ plantation forests at 2.7, 2.6 and 0.9,<br>\nrespectively.<br>\nIt is recommended\
+    \ that soil sampling continues over time because<br>\na longer spanning record\
+    \ will allow further identification of where<br>\nsoil problems exist and where\
+    \ resources need to be targeted in the<br>\nfuture. Findings from this study will\
+    \ also inform policy and science<br>\ndirection in regional councils."
+  keywords:
+    default:
+      keywords:
+        subject: Rural and Urban land use.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-03-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1100402
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1100401
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fiona-Curran-Cournane:
+    individualname: Fiona Curran-Cournane
+    role: creator
+  Curran-Cournane-Fiona:
+    individualname: Curran-Cournane, Fiona
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10074200
+  dataseturi: https://doi.org/10.5281/zenodo.10074200
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Supplementary materials for article A modified version of RothC to model
+    the direct and indirect effects of rice straw mulching on soil carbon dynamics,
+    calibrated in two Valencian citrus orchards
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10074200
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10074199
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Balugani-Enrico:
+    individualname: Balugani, Enrico
+    role: creator
+    organization: ''
+    url: ''
+  Pesce-Simone:
+    individualname: Pesce, Simone
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

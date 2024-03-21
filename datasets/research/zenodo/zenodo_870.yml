@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7678201
+  dataseturi: https://doi.org/10.5281/zenodo.7678201
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation Of Soil Nutrients By Using Type-1 Fuzzy Set
+  abstract: "<em>To study the status and quantity of available soil nutrients in soil\
+    \ study was conducted in typical farm of Miraj, Sangli district in Maharashtra\
+    \ sample from each farm were collected and scientifically analysed. The subjective\
+    \ information is quantified by using fuzzy sets. The problem of selection of soil\
+    \ containing \u201Chigh\u201D availability of Nitrogen ( N ), Phosphate ( P )\
+    \ and \u201Cmedium\u201D Potassium ( K ) is demonstrated as application of type-1\
+    \ fuzzy set.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Type-1 Fuzzy Set.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-02-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7678201
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7678200
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anushka-A.-Patil:
+    individualname: Anushka A. Patil
+    role: creator
+  Pramod-S.-Patil:
+    individualname: Pramod S. Patil
+    role: creator
+  Patil-Anushka-A.:
+    individualname: Patil, Anushka A.
+    role: ''
+    organization: Padmabhooshan Vasantraodada Patil Institute of Technology, Budhgaon
+      (Sangli)
+    url: ''
+  Patil-Pramod-S.:
+    individualname: Patil, Pramod S.
+    role: ''
+    organization: Ashokrao Mane Group of Institutions, Vathar tarf Vadagaon, Maharashtra
+    url: ''
+content_info: {}

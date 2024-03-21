@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6674311
+  dataseturi: https://doi.org/10.5281/zenodo.6674311
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Deep multi-modal satellite and in-situ observation fusion for Soil Moisture
+    retrieval
+  abstract: This work focuses on the problem of surface soil moisture estimation from
+    multi-modal remote sensing observations. We focus on the scenario where both passive
+    radiometer observations from NASA SMAP satellite, as well as active radar measurements
+    from ESA Sentinel 1 are available. We formulate the problem as multi-source observation
+    fusion and develop a deep learning model for SM estimation. To train and validate
+    the performance of the proposed scheme, we consider observations from in-situ
+    SM sensor networks over the continental USA. Experimental results demonstrate
+    that the proposed model achieves high quality SM estimation, surpassing the performance
+    of available products.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-11'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6674311
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6674310
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tsagkatakis-Grigorios:
+    individualname: Tsagkatakis Grigorios
+    role: creator
+  Moghaddam-Mahta:
+    individualname: Moghaddam Mahta
+    role: creator
+  Tsakalides-Panagiotis:
+    individualname: Tsakalides Panagiotis
+    role: creator
+  Grigorios-Tsagkatakis:
+    individualname: Grigorios, Tsagkatakis
+    role: ''
+    organization: Foundation for Research and Technology - Hellas (FORTH)
+    url: https://orcid.org/0000-0001-6498-9450
+  Mahta-Moghaddam:
+    individualname: Mahta, Moghaddam
+    role: ''
+    organization: University of Southern California
+    url: https://orcid.org/0000-0001-5304-2616
+  Panagiotis-Tsakalides:
+    individualname: Panagiotis, Tsakalides
+    role: ''
+    organization: Foundation for Research and Technology - Hellas (FORTH)
+    url: https://orcid.org/0000-0003-4918-603X
+content_info: {}

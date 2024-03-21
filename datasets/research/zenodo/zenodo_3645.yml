@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2532814
+  dataseturi: https://doi.org/10.5281/zenodo.2532814
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: SOIL MAPPING OF BHEEMILI BEACH ROAD, VISAKHAPATNAM DISTRICT USING GEO-SPATIAL
+    TECHNOLOGIES
+  abstract: Soil survey is an integral part of an effective agricultural research
+    and advisory program. It provides complete information about soils and is an inventory
+    of the soil resource of the area. It gives the information needed for planning
+    land use and soil management programs.The study area covers 236 sq.km with nine
+    varieties of soilsin the area. These include the Black Clay Soil with high AWC,
+    Brown Gravelly Clay Soil, Red Clay Soil,Red Clay Soil with high AWC, Red Clay
+    Soil with Medium AWC, Red Coastal Clay, Red Gravelly Loam Soil, Red Gravelly Clay
+    Soil and Red Loamy Soil.This study aims to use Remote Sensing and Geographic Information
+    Systems (GIS) to produce the soil map and estimate the bearing values of different
+    soils. All types of soils of the area have been considered in to GIS analysis.
+  keywords:
+    default:
+      keywords:
+        subject: Soil survey, Agricultural research, Remote Sensing, Geographic Information
+          Systems.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-01-06'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2532814
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2532813
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sridhar-Bendalam*1-Aditya-Allamraju2-RamojiraoJogi3--SrinivasElakurthi4:
+    individualname: Sridhar Bendalam*1, Aditya Allamraju2, RamojiraoJogi3 & SrinivasElakurthi4
+    role: creator
+  Sridhar-Bendalam*1-Aditya-Allamraju2:
+    individualname: Sridhar Bendalam*1, Aditya Allamraju2
+    role: ''
+    organization: '*1Research Scholar, Department of Geo-Engineering, Andhra University
+      College of Engineering(A), India 2 Student, Department of Geo-Engineering, Andhra
+      University College of Engineering (A), India 3Research Scholar, Department of
+      Environmental Sciences, Andhra University, India 4Research Scholar, Department
+      of Geo-Engineering, Andhra University College of Engineering(A), India'
+    url: ''
+content_info: {}

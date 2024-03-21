@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1094311
+  dataseturi: https://doi.org/10.5281/zenodo.1094311
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Mineral Nitrogen Retention, Nitrogen Availability And Plant Growth In The\
+    \ Soil Influenced By Addition Of Organic And Mineral Fertilizers \u2013 Lysimetric\
+    \ Experiment"
+  abstract: "Compost can influence soil fertility and plant health. At the same time\
+    \ compost can play an important role in the nitrogen cycle and it can influence\
+    \ leaching of mineral nitrogen from soil to underground water.\n\nThis paper deals\
+    \ with the influence of compost addition and mineral nitrogen fertilizer on leaching\
+    \ of mineral nitrogen, nitrogen availability in microbial biomass and plant biomass\
+    \ production in the lysimetric experiment. Twenty one lysimeters were filed with\
+    \ topsoil and subsoil collected in the area of protection zone of underground\
+    \ source of drinking water - B\u0159ezov\xE1 nad Svitavou. The highest leaching\
+    \ of mineral nitrogen was detected in the variant fertilized only mineral nitrogen\
+    \ fertilizer (624.58 mg m<sup>-2</sup>), the lowest leaching was recorded in the\
+    \ variant with high addition of compost (315.51 mg m<sup>-2</sup>). On the other\
+    \ hand, losses of mineral nitrogen are not in connection with the losses of available\
+    \ form of nitrogen in microbial biomass. Because lost of mineral nitrogen was\
+    \ detected in variant with the least change in the availability of N in microbial\
+    \ biomass.\n\nThe leaching of mineral nitrogen, yields as well as the results\
+    \ concerning nitrogen availability from the first year of long term experiment\
+    \ suggest that compost can positive influence the leaching of nitrogen into underground\
+    \ water."
+  keywords:
+    default:
+      keywords:
+        subject: Lysimeter.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-07-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1094311
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1094310
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lukas-Plosek:
+    individualname: "Luk\xE1\u0161 Plo\u0161ek"
+    role: creator
+    organization: ''
+    url: ''
+  Jaroslav-Hynst:
+    individualname: "Jaroslav Hyn\u0161t"
+    role: creator
+  Jaroslav-Zahora:
+    individualname: "Jaroslav Z\xE1hora"
+    role: creator
+  Jakub-Elbl:
+    individualname: Jakub Elbl
+    role: creator
+  Antonin-Kintl:
+    individualname: "Anton\xEDn Kintl"
+    role: creator
+  Ivana-Charousova:
+    individualname: "Ivana Charousov\xE1"
+    role: creator
+  Silvia-Kovacsova:
+    individualname: "Silvia Kov\xE1csov\xE1"
+    role: creator
+  Hynst-Jaroslav:
+    individualname: "Hyn\u0161t, Jaroslav"
+    role: ''
+    organization: ''
+    url: ''
+  Zahora-Jaroslav:
+    individualname: "Z\xE1hora, Jaroslav"
+    role: ''
+    organization: ''
+    url: ''
+  Elbl-Jakub:
+    individualname: Elbl, Jakub
+    role: ''
+    organization: ''
+    url: ''
+  Kintl-Antonin:
+    individualname: "Kintl, Anton\xEDn"
+    role: ''
+    organization: ''
+    url: ''
+  Charousova-Ivana:
+    individualname: "Charousov\xE1, Ivana"
+    role: ''
+    organization: ''
+    url: ''
+  Kovacsova-Silvia:
+    individualname: "Kov\xE1csov\xE1, Silvia"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

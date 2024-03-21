@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.282108
+  dataseturi: https://doi.org/10.5281/zenodo.282108
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Review of the genus Scutylenchus Jairajpuri, 1971 (Nematoda: Tylenchida),
+    with description of Scutylenchus dongtingensis n. sp. from rhizosphere soil of
+    grass in China'
+  abstract: 'Xu, Chun - Ling, Xie, Hui, Zhao, Chuan - Bo, Zhang, Song - Bai, Su, Xiu
+    - Min (2012): Review of the genus Scutylenchus Jairajpuri, 1971 (Nematoda: Tylenchida),
+    with description of Scutylenchus dongtingensis n. sp. from rhizosphere soil of
+    grass in China. Zootaxa 3437: 32-42, DOI: 10.5281/zenodo.282108'
+  keywords:
+    default:
+      keywords:
+        subject: Belonolaimidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-12-31'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.282108
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6179544
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.282109
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.5281/zenodo.282110
+    type: WWW:LINK
+    title: HasPart
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xu-Chun---Ling:
+    individualname: Xu, Chun - Ling
+    role: creator
+    organization: ''
+    url: ''
+  Xie-Hui:
+    individualname: Xie, Hui
+    role: creator
+    organization: ''
+    url: ''
+  Zhao-Chuan---Bo:
+    individualname: Zhao, Chuan - Bo
+    role: creator
+    organization: ''
+    url: ''
+  Zhang-Song---Bai:
+    individualname: Zhang, Song - Bai
+    role: creator
+    organization: ''
+    url: ''
+  Su-Xiu---Min:
+    individualname: Su, Xiu - Min
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

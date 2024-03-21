@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3350108
+  dataseturi: https://doi.org/10.5281/zenodo.3350108
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Particle Size Analysis of Soil Obtainable in Maiduguri, Nigeria
+  abstract: 'Soil is a substantial resource and displays adaptable physical, chemical,
+    mineralogical, hydrological and geochemical properties. Particle size is a fundamental
+    analysis procedure for soils, and pedological and paleopedological analysis. In
+    view of this particle size distribution of soil samples were conducted and analysed
+    for 10 locations in Maiduguri, Nigeria by sieving technique. Their sand, silt,
+    and clay contents were determined. The distribution of particle size influences
+    the moisture retention and transmission properties of soils. The overall result
+    showed that the soil in Maiduguri is predominantly sand having low moisture retention
+    and high permeability. This study at higher precision will be helpful for the
+    textural management concerns all operations, practices and treatments used to
+    protect soil and enhance its performance.Read Complete Article at ijSciences:
+    V62017091430 AND DOI: http://dx.doi.org/10.18483/ijSci.1430'
+  keywords:
+    default:
+      keywords:
+        subject: Textural management
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-09-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3350108
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3350107
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  W.-Medugu-D.:
+    individualname: W. Medugu, D.
+    role: creator
+    organization: ''
+    url: ''
+  Maina-M.:
+    individualname: Maina, M.
+    role: creator
+    organization: ''
+    url: ''
+  Dibal-Y.B.:
+    individualname: Dibal, Y.B.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

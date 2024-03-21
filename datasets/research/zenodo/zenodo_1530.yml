@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dargar_2020
+  dataseturi: https://doi.org/10.11591/ijece.v10i1.pp704-710
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Moisture content investigation in the soil samples using microwave dielectric
+    constant measurement method
+  abstract: '&lt;p&gt;The microwaves of typical frequency ranges of 3 GHz to 30 GHz
+    have been in use for remote sensing applications which are progressing rapidly.
+    The microwaves can sense existing moisture in any material that absorbs moisture
+    such as soil or vegetation. In case of soils which may be comprised of variable
+    mix proportionate of solids, liquids or gases and distinct textures subjected
+    to the associated size and the arrangements of soil particles. Hence, the moisture
+    absorption by a specific type of soil used to be different. The inherent physical
+    and electrical properties such as color, texture, grains, dielectric constant,
+    conductivity or permeability, etc. differentiate various soils. In this work,
+    authors present soil moisture measurement by simple estimation of emissivity i.e.
+    the ratio of energy radiated by an object to absorbing the body of same physical
+    temperature. A strategic method of measuring dielectric constant using a microwave
+    signal is used in this research work. The measurement of the dielectric constant
+    of the soils collected from the specific regions and analysis of results has been
+    reported. The proposed method is less complex and can further be used for the
+    identification of soil moisture and agricultural applications.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Dielectric constant
+      - Emissivity
+      - Microwave
+      - Soil moisture
+      - Waveguide
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Moisture content investigation in the soil samples using microwave dielectric
+      constant measurement method
+    url: http://dx.doi.org/10.11591/ijece.v10i1.pp704-710
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shashi-K.-Dargar:
+    individualname: Shashi K. Dargar
+    role: creator
+  Viranjay-M.-Srivastava:
+    individualname: Viranjay M. Srivastava
+    role: creator
+  Dargar-Shashi-K.:
+    individualname: Dargar, Shashi K.
+    role: creator
+  Srivastava-Viranjay-M.:
+    individualname: Srivastava, Viranjay M.
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

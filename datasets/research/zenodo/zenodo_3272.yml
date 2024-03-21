@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2540404
+  dataseturi: https://doi.org/10.5281/zenodo.2540404
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "EVOLUTION OF THE CONTENT IN MATTER ORGANIC OF THE SOIL IN A SYSTEM SILVOPASTORAL\
+    \ ESTABLISHED WITH QUERCUS RUBRA L. - EVOLUCI\xD3N DEL CONTENIDO EN MATERIA ORG\xC1\
+    NICA DEL SUELO EN UN SISTEMA SILVOPASTORAL ESTABLECIDO CON QUERCUS RUBRA L."
+  abstract: "La acumulaci\xF3n de gases de efecto invernadero en la atm\xF3sfera est\xE1\
+    \ directamente relacionada con el cambio clim\xE1tico global. Los sistemas agroforestales\
+    \ son una forma de manejo del territorio que se emplea con objeto de aumentar\
+    \ el almac\xE9n de carbono en suelo y en las especies que lo componen, en comparaci\xF3\
+    n con sistemas agr\xEDcolas. El objetivo de este estudio fue el de evaluar, cinco\
+    \ a\xF1os despu\xE9s del establecimiento de un ensayo en suelos arenosos de Galicia,\
+    \ la evoluci\xF3n del contenido de carbono del suelo en un sistema silvopastoral\
+    \ establecido bajo Quercus rubra L. en el que se sembr\xF3 pasto y se fertiliz\xF3\
+    \ con diferentes dosis de lodo de depuradora (100, 200 y 400 kg N total\xB7ha-1).\
+    \ Los resultados obtenidos mostraron un mayor porcentaje de carbono ed\xE1fico\
+    \ al final del experimento debido al establecimiento del pasto y del arbolado\
+    \ y a sus consiguientes aportes de materia org\xE1nica al suelo, siendo el incremento\
+    \ de la materia org\xE1nica mayor cuando se fertiliz\xF3 con dosis medi os de\
+    \ lodo de depuradora (200 kg N total\xB7ha-1) lo que favoreci\xF3 el secuestro\
+    \ de carbono en el suelo."
+  keywords:
+    default:
+      keywords:
+        subject: Secuestro de carbono
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2011-08-08'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2540404
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2540403
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nuria-Ferreiro-Dominguez:
+    individualname: "Nuria Ferreiro Dom\xEDnguez"
+    role: creator
+  Maria-Rosa-Mosquera-Losada-y-Antonio-Rigueiro-Rodriguez:
+    individualname: "Mar\xEDa Rosa Mosquera Losada y Antonio Rigueiro Rodr\xEDguez"
+    role: creator
+  Dominguez-Nuria-Ferreiro:
+    individualname: "Dom\xEDnguez, Nuria Ferreiro"
+    role: ''
+    organization: ''
+    url: ''
+  Rodriguez-Maria-Rosa-Mosquera-Losada-Y-Antonio-Rigueiro:
+    individualname: "Rodr\xEDguez, Mar\xEDa Rosa Mosquera Losada Y Antonio Rigueiro"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

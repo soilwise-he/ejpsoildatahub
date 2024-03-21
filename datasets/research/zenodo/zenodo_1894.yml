@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2527009
+  dataseturi: https://doi.org/10.5281/zenodo.2527009
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Physiological and biochemical parameters of soil-plant system under allelopathic
+    stress: Diagnostic analysis and control'
+  abstract: The diagnostic analysis of functional state of the soil-plant system under
+    allelopathic stress has been carried out for its optimization. For this purpose,
+    it has been used a number of physiological and biochemical parameters. The influence
+    of winter rape biomass (<em>Brassica campestris </em>L. f. <em>biennis </em>D.C.)
+    as green manure on allelopathic, biochemical and physiological properties of the
+    soil-plant system on an example of perennial plantings of lilac cultivars (<em>Syringa
+    vulgaris</em> L.) of the M.M. Gryshko National Botanical Garden of the NAS of
+    Ukraine collection was studied. Green biomass of winter rape during flowering
+    stage was added into grey forest soil at 3.5 kg/m<sup>2</sup> on mentioned areas
+    of the arboretum. It was established that the application of winter rape biomass
+    as green manure significantly improved the functional state of the soil-plant
+    system under long-term cultivation of lilac plants. Structural components of the
+    soil-plant system stabilized under the influence of green manure biomass decay
+    products, which positively affected both allelopathic and biochemical soil properties
+    and the physiological state of the lilac plants. There have been qualitative dynamic
+    changes in soil-plant system for the green manure action, which manifested stimulation
+    of growth processes, intensification of humification (by the phenolic acids pool),
+    improving the redox regime, restructuring of component composition of photosynthetic
+    pigments, and eventually increase in adaptive ability of lilac plants. As this
+    trend persisted not only for the direct action of this factor, but also in its
+    after-effect (next growing season after application of green manure biomass) can
+    recommend the use of winter rape as green manure for optimization of soil-plant
+    system under allelopathic stress.
+  keywords:
+    default:
+      keywords:
+        subject: photosynthetic pigments
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-09-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2527009
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2527008
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.A.-Pavliuchenko:
+    individualname: N.A. Pavliuchenko
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden, National Academy of Sciences
+      of Ukraine, Ukraine, 01014 Kyiv, Timiryazevska Str., 1
+    url: ''
+content_info: {}

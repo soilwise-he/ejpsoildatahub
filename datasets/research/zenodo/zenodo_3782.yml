@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1131898
+  dataseturi: https://doi.org/10.5281/zenodo.1131898
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Human Health Risk Assessment From Metals Present In A Soil Contaminated By
+    Crude Oil
+  abstract: "The main sources of soil pollution due to petroleum contaminants are\
+    \ industrial processes involve crude oil. Soil polluted with crude oil is toxic\
+    \ for plants, animals, and humans. Human exposure to the contaminated soil occurs\
+    \ through different exposure pathways: Soil ingestion, diet, inhalation, and dermal\
+    \ contact. The present study research is focused on soil contamination with heavy\
+    \ metals as a consequence of soil pollution with petroleum products. Human exposure\
+    \ pathways considered are: Accidentally ingestion of contaminated soil and dermal\
+    \ contact. The purpose of the paper is to identify the human health risk (carcinogenic\
+    \ risk) from soil contaminated with heavy metals. The human exposure and risk\
+    \ were evaluated for five contaminants of concern of the eleven which were identified\
+    \ in soil. Two soil samples were collected from a bioremediation platform from\
+    \ Muntenia Region of Romania. The soil deposited on the bioremediation platform\
+    \ was contaminated through extraction and oil processing. For the research work,\
+    \ two average soil samples from two different plots were analyzed: The first one\
+    \ was slightly contaminated with petroleum products (Total Petroleum Hydrocarbons\
+    \ (TPH) in soil was 1420 mg/kg<sub>d.w.</sub>), while the second one was highly\
+    \ contaminated (TPH in soil was 24306 mg/kg<sub>d.w.</sub>). In order to evaluate\
+    \ risks posed by heavy metals due soil pollution with petroleum products, five\
+    \ metals known as carcinogenic were investigated: Arsenic (As), Cadmium (Cd),\
+    \ Chromium<sup>VI</sup> (Cr<sup>VI</sup>), Nickel (Ni), and Lead (Pb). Results\
+    \ of the chemical analysis performed on samples collected from the contaminated\
+    \ soil evidence soil contamination with heavy metals as following: As in Site\
+    \ 1 = 6.96 mg/kg<sub>d.w</sub>; As in Site 2 = 11.62 mg/kg<sub>d.w</sub>, Cd in\
+    \ Site 1 = 0.9 mg/kg<sub>d.w</sub>; Cd in Site 2 = 1 mg/kg<sub>d.w</sub>; Cr<sup>VI</sup>\
+    \ was 0.1 mg/kg<sub>d.w</sub> for both sites; Ni in Site 1 = 37.00 mg/kg<sub>d.w</sub>;\
+    \ Ni in Site 2 = 42.46 mg/kg<sub>d.w</sub>; Pb in Site 1 = 34.67 mg/kg<sub>d.w</sub>;\
+    \ Pb in Site 2 = 120.44 mg/kg<sub>d.w</sub>. The concentrations for these metals\
+    \ exceed the normal values established in the Romanian regulation, but are smaller\
+    \ than the alert level for a less sensitive use of soil (industrial). Although,\
+    \ the concentrations do not exceed the thresholds, the next step was to assess\
+    \ the human health risk posed by soil contamination with these heavy metals. Results\
+    \ for risk were compared with the acceptable one (10<sup>-6</sup>, according to\
+    \ World Human Organization). As, expected, the highest risk was identified for\
+    \ the soil with a higher degree of contamination: Individual Risk (IR) was 1.11\xD7\
+    10<sup>-5 </sup>compared with 8.61\xD710<sup>-6</sup>."
+  keywords:
+    default:
+      keywords:
+        subject: soil pollution.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-07-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1131898
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1131897
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-A.-Stoian:
+    individualname: M. A. Stoian
+    role: creator
+    organization: ''
+    url: ''
+  D.-M.-Cocarta:
+    individualname: D. M. Cocarta
+    role: creator
+    organization: ''
+    url: ''
+  A.-Badea:
+    individualname: A. Badea
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

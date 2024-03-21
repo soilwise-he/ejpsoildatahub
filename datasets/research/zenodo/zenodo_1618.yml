@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10641166
+  dataseturi: https://doi.org/10.5281/zenodo.10641166
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Effect of a Combination of Soil Improvers and N, P, K Fertilizers on
+    P-Potential, P-Available, P Uptake, and Rice (Oryza Sativa L.) Yield in Inceptisols
+    Soil from Jatinangor
+  abstract: "Inceptisols are an order of soil that has great potential to be used\
+    \ as productive land for rice cultivation because of its wide distribution in\
+    \ Indonesia. However, this land order has low soil fertility so it is necessary\
+    \ to fertilize to increase soil fertility. Balanced fertilization with soil improvers\
+    \ and N, P, and K fertilizers can be applied to increase fertilization efficiency.\
+    \ This experiment aims to obtain the dose of soil improver and N, P, K fertilizer\
+    \ that has the best effect on P-potential, P-available, P-uptake, and rice yield.\
+    \ The experiment was carried out from July to December 2023 at the Soil Chemistry\
+    \ and Plant Nutrition Laboratory Experimental Garden, Faculty of Agriculture,\
+    \ University of Padjadjaran, Jatinangor, Sumedang. The experimental design used\
+    \ was a Completely Randomized Block Design (CRBD) with seven treatments and four\
+    \ replications consisting of control; N, P, K recommendations; soil improver;\
+    \ \xBD soil + \xBE dose of N, P, K; \xBE soil improver + \xBE dose of N, P, K;\
+    \ 1 soil improver + \xBE dose of N, P, K; 1 \xBD soil improver + \xBE dose of\
+    \ N, P, K; 1 soil improver + 1 dose of N, P, K. One dose of soil improver is 8000\
+    \ kg ha-1, while one dose of N, P, K fertilizer is 350 kg ha-1 Urea, 50 kg ha-1\
+    \ SP-36, and 50 kg ha-1 KCl. The experimental results showed that the treatment\
+    \ of 1 \xBD soil improver + \xBE dose of N, P, K was the best treatment for increasing\
+    \ the weight of 100 grains."
+  keywords:
+    default:
+      keywords:
+        subject: Agriculture and Research
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-02-09'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10641166
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10641165
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Global-Publication-House:
+    individualname: Global Publication House
+    role: creator
+  Emma-Trinurani-Sofyan:
+    individualname: Emma Trinurani Sofyan
+    role: creator
+    organization: Faculty of Agriculture, Universitas Padjadjaran
+    url: ''
+  Rija-Sudirja:
+    individualname: Rija Sudirja
+    role: creator
+    organization: Faculty of Agriculture, Universitas Padjadjaran
+    url: ''
+  Khairumam-Alfi-Syahrin:
+    individualname: Khairumam Alfi Syahrin
+    role: creator
+    organization: Faculty of Agriculture, Universitas Padjadjaran
+    url: ''
+content_info: {}

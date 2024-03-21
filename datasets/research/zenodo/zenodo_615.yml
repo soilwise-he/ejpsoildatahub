@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10551761
+  dataseturi: https://doi.org/10.5281/zenodo.10551761
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Harnessing AI Technologies for Efficient Soil and Water Management
+  abstract: "Sustainable global economic growth is based primarily on agriculture.\
+    \ With the continued growth of the human population, pressure on the farming systems\
+    \ will intensify, data-intensive methods are used in precision farming and agricultural\
+    \ technology. Recent scientific areas that have emerged and are now referred to\
+    \ as \"digital agriculture,\" to increase agricultural productivity while reducing\
+    \ environmental impacts. Today's agricultural operations generate data from a\
+    \ variety of sensors, which helps to improve decision-making by providing a better\
+    \ understanding of both the process (data from machinery) and the operating environment\
+    \ (the interaction between crop, soil, and weather conditions). In the 20th century,\
+    \ advancements in information technology led to the arrival of artificial intelligence\
+    \ (AI) and the subsequent vision of machines driven by AI. A global source of\
+    \ current information on crop health, soil conditions, and water availability\
+    \ for agricultural production fields is provided by the passive SMO (Social media\
+    \ optimization) and other microwave satellite sensors, which register signals\
+    \ that radiate from the Earth's surface. This passive microwave technology finds\
+    \ solutions for irrigation issues and waterlogging during the dark and through\
+    \ clouds. Water damage to crops and other vegetation can be very expensive and\
+    \ should be prevented. Soil moisture and AI water data are urgently required for\
+    \ hydrological studies and data is vital for improving which will contribute to\
+    \ furthering our knowledge of the Earth's water cycle, and will improve climate,\
+    \ weather, and extreme-event forecasting. These are current trends in water distribution,\
+    \ irrigation management using different Artificial Intelligence (AI) models, wastewater\
+    \ recycling, and rainwater harvesting. The information gathered for these uses\
+    \ is exclusive and varies in kind. Applying a model or algorithm that can be used\
+    \ to provide solutions for all of these applications is therefore desperately\
+    \ needed. An intelligent water management system can be designed for sustainable\
+    \ water use from natural resources with the help of Artificial Intelligence (AI)\
+    \ and Deep Learning (DL) techniques combined with an Internet of Things (IoT)\
+    \ framework.\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-22'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10551761
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10551760
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  trends-in-Agriculture-Science:
+    individualname: trends in Agriculture Science
+    role: creator
+  T.-Geetha-Jebarathnam:
+    individualname: T. Geetha Jebarathnam
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

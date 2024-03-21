@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8325118
+  dataseturi: https://doi.org/10.5281/zenodo.8325118
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Microplastics in terrestrial environments: Reviewing current understanding
+    to determine the positive and negative aspects of soil'
+  abstract: Plastic production and disposal have grown to be serious issues for the
+    future of the world. The long lifespan and extensive use of synthetic polymers
+    have contributed to the occurrence of plastic waste in the environment on a global
+    scale. Plastic, which can be found in soils, species that live in and around soil,
+    and adjacent to plants, is a novel stressor. There is very little known about
+    the prevalence of microplastics in terrestrial systems. This paper provides an
+    extensive overview of the current understanding of the causes, manifestations,
+    impact and dangers of microplastic pollution in terrestrial (agricultural) settings.
+  keywords:
+    default:
+      keywords:
+        subject: MPs (micro plastics)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-05'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8325118
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8325094
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rahaman-Sadia:
+    individualname: Rahaman, Sadia
+    role: creator
+    organization: Agriculturist
+    url: ''
+  Mondol-Fahim-Ahmed:
+    individualname: Mondol, Fahim Ahmed
+    role: creator
+    organization: Urban Planner
+    url: ''
+content_info: {}

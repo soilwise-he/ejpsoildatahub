@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1311722
+  dataseturi: https://doi.org/10.5281/zenodo.1311722
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Screening Of Bacteriocin Producing Bacteria From Soil Sample Against Staphylococcus
+    Aureus
+  abstract: "In industrialized countries 30 percentage population suffer from food\
+    \ borne disease yearly. Food processing runs the risk of significant economic\
+    \ loss annually due to food spoilage resulting from microbial contamination. Although\
+    \ chemical preservatives may provide a solution, the use of such preservatives\
+    \ is generally avoided, since they have negative consequences for human health.\
+    \ Moreover, the problems associated with food safety especially of microbial contamination\
+    \ appear to be alarmingly high. To address the increasing bacterial resistance\
+    \ to conventional antibiotics, bacteriocins are now considered as alternative\
+    \ antimicrobials for the treatment of human and possibly animal infections. Further,\
+    \ processed foods without chemical preservatives are in demand by consumers. Research\
+    \ in natural antimicrobial agents such as bacteriocins becomes inevitable. Members\
+    \ of the Bacillus group are good producers of antimicrobial substances such as\
+    \ peptide and lipopeptide antibiotics, as well as bacteriocins. Interestingly,\
+    \ Bacillus represents an alternative genus for the identification of bacteriocins\
+    \ because it includes many industrial species and has a history of safe use in\
+    \ the food industry. In the present study screening of bacterial isolates for\
+    \ bacteriocin production were screened from soil samples, from them thirty bacterial\
+    \ isolates obtained were tested for the bacteriocin activity against indicator\
+    \ bacteria Staphylococcus aureus. Among them MA5 designated strain found to be\
+    \ Gram\u2019s positive rod bacteria. Based on the phenotypical characterization\
+    \ identified as Bacillus sp. and exhibited antagonistic activity against S. aureus.\
+    \ The antagonistic bacterial strain MA5 found to inhibit the growth of S. aureus.\
+    \ Antibacterial activity was identified by agar well diffusion assay. The sensitivity\
+    \ of the indicator strains were estimated based on the inhibition zones. To estimate\
+    \ the molecular weight of the bacteriocin, SDS-PAGE was performed and the protein\
+    \ in the active fraction was resolved and the molecular weight of the single protein\
+    \ band that exhibited antimicrobial activity was estimated to be 10 kDa."
+  keywords:
+    default:
+      keywords:
+        subject: 10.5281/zenodo.1311722
+        subjectScheme: doi
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1311722
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1311721
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abareethan-M:
+    individualname: Abareethan, M
+    role: creator
+    organization: PG Department of Zoology, Government Arts College (Autonomous),
+      Salem-636007, Tamil Nadu, India
+    url: ''
+content_info: {}

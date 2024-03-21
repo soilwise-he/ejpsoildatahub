@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Karthikeyan_2023
+  dataseturi: https://doi.org/10.11591/ijeecs.v30.i3.pp1348-1358
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil pH periodic assortment with smart irrigation using aerial triboelectric
+    nanogenerator
+  abstract: '&lt;p&gt;The paper presents an idea on pre-emptively ascertaining the
+    soil pH value on an agriculture field amalgaming drone for aerial photo and subsequent
+    smart irrigation model with the help of internet of things (IoT). The drone used
+    for the aerial footage (multispectral imaging) consists of specialized cameras
+    with filters that would help in ascertaining vegetation and health of the crops
+    in the agriculture land. The IoT device used in smart irrigation model consists
+    of sensors which accumulate data and execute the commands given in a recurring
+    fashion of delay. Moreover, the use of triboelectric nanogenerator (TENG) would
+    help in feasible energy harvesting for agricultural land use.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Agriculture
+      - Internet of things
+      - Multispectral based nutrient monitoring
+      - Smart irrigation model
+      - Triboelectricity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil pH periodic assortment with smart irrigation using aerial triboelectric
+      nanogenerator
+    url: http://dx.doi.org/10.11591/ijeecs.v30.i3.pp1348-1358
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dhandapani-Karthikeyan:
+    individualname: Dhandapani Karthikeyan
+    role: creator
+  Deeba-Kannan:
+    individualname: Deeba Kannan
+    role: creator
+  Brindha-Gunasekaran:
+    individualname: Brindha Gunasekaran
+    role: creator
+  Hemalatha-Selvaraj:
+    individualname: Hemalatha Selvaraj
+    role: creator
+  Saurabh-Gupta:
+    individualname: Saurabh Gupta
+    role: creator
+  Ravindran-Ramkumar:
+    individualname: Ravindran Ramkumar
+    role: creator
+  Krishnasamy-Vijayakumar:
+    individualname: Krishnasamy Vijayakumar
+    role: creator
+  Karthikeyan-Dhandapani:
+    individualname: Karthikeyan, Dhandapani
+    role: creator
+  Kannan-Deeba:
+    individualname: Kannan, Deeba
+    role: creator
+  Gunasekaran-Brindha:
+    individualname: Gunasekaran, Brindha
+    role: creator
+  Selvaraj-Hemalatha:
+    individualname: Selvaraj, Hemalatha
+    role: creator
+  Gupta-Saurabh:
+    individualname: Gupta, Saurabh
+    role: creator
+  Ramkumar-Ravindran:
+    individualname: Ramkumar, Ravindran
+    role: creator
+  Vijayakumar-Krishnasamy:
+    individualname: Vijayakumar, Krishnasamy
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

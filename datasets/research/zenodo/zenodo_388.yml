@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kelley_1912
+  dataseturi: https://doi.org/10.1021/ie50045a012
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Determination of Humus in Hawaiian Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Determination of Humus in Hawaiian Soil.
+    url: http://dx.doi.org/10.1021/ie50045a012
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kelley-W.-P.:
+    individualname: Kelley, W. P.
+    role: creator
+  McGeorge-W.-M.:
+    individualname: McGeorge, W.-M.
+    role: creator
+  McGeorge-Wm.:
+    individualname: McGeorge, Wm.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

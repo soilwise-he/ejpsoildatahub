@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1088758
+  dataseturi: https://doi.org/10.5281/zenodo.1088758
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Nylon Solution As Soil Stabilizer
+  abstract: The research investigated the use of nylon solution to enhance the California
+    bearing ratio (CBR) of soil. Used nylon sachet of potable water were dissolved
+    in four separate solvents namely acetone, toluene, ethyl glycol and dual purpose
+    kerosene (DPK). It was discovered that DPK has the highest nylon solubility of
+    29g/ml at 91<sup>o</sup>C. The nylon solution was used to stabilize poorly graded
+    sandy soil. The result showed that at less or equal to 4% stabilization, the CBR
+    value decreased from 25.3% to 15.85% and later appreciated to 67.78% at 16% stabilization.
+    The initial decrease in CBR value of soil sample observed was as a result of inadequate
+    nylon solution to coat soil particles for proper bonding.
+  keywords:
+    default:
+      keywords:
+        subject: California bearing ratio.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-10-05'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1088758
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1088757
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-M.-Ayininuola:
+    individualname: G. M. Ayininuola
+    role: creator
+    organization: ''
+    url: ''
+  O.-S.-Oladeji:
+    individualname: O. S. Oladeji
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

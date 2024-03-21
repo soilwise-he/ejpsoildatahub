@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schneider_1888
+  dataseturi: https://doi.org/10.2475/ajs.s3-36.214.236
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An analysis of a soil from Washington Territory and some remarks on the utility
+    of soil-analysis
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An analysis of a soil from Washington Territory and some remarks on the
+      utility of soil-analysis
+    url: http://dx.doi.org/10.2475/ajs.s3-36.214.236
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schneider-E.-A.:
+    individualname: Schneider, E. A.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

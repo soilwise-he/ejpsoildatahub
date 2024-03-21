@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4285408
+  dataseturi: https://doi.org/10.5281/zenodo.4285408
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECT OF NUTRIENT SOURCE ON SOIL FERTILITY AND PRODUCTIVITY OF COWPEA [Vigna
+    unguiculata (L) WALP.]
+  abstract: "<em>A greenhouse epxperiment was conducted at Pokhara, Nepal during summer\
+    \ of 2018 to access the effect of organic and inorganic fertilizers on soil fertility\
+    \ and productivity of cowpea. The experiment was carried out in a completely randomized\
+    \ design with eight treatments and three replications. The treatments included\
+    \ eight selected combination of organic and inorganic nutrient sources ( Farm\
+    \ yard manure, Vermicompost, Poultry manure, Nitrogen Phosphorous and Potassium).\
+    \ The physio- chemical properties of soil, nutrient uptake on yield attributes,\
+    \ yield and growth parameters weere analyzed during the investigation . Result\
+    \ indicated that soil soil fertility has been improved where the OM was increased\
+    \ form 2.28-3.6% and P from 25.58 to 28.87 mg/kg in treatment containing organic\
+    \ fertilizer while soil pH nd N% showing no significant difference among treatments.\
+    \ Maximum N, P and K content in seed and straw was obtained with 50% N from vermicompost\
+    \ @ 0.9t/ha + 50% N from inorganic fertilizer , however pod weight, pod girth\
+    \ , straw yield, 100 seed weight were found non \u2013significant. Among growth\
+    \ parameters, 50% N from vermi compost @ 0.9t/ha + 50% N from inorganic fertilizer\
+    \ enhanced the growth parameters like plant height, number of leaves per plant.\
+    \ Hoever number of branches, fresh weight of roots, noodles per plant was found\
+    \ non significant.</em>"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-11-23'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4285408
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4285407
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sanjeev-Banstola:
+    individualname: Sanjeev Banstola
+    role: creator
+  Lal-Bahadur-Chhetri:
+    individualname: Lal Bahadur Chhetri
+    role: creator
+  Keshav-Raj-Adhikari:
+    individualname: Keshav Raj Adhikari
+    role: creator
+    organization: Institute of Agriculture and Animal Science, Tribhuvan University,
+      Kathmandu, Nepal
+    url: ''
+  Deepak-Gautam:
+    individualname: Deepak Gautam
+    role: creator
+  Jyoti-Bhandari:
+    individualname: Jyoti Bhandari
+    role: creator
+  Banstola-Sanjeev:
+    individualname: Banstola, Sanjeev
+    role: ''
+    organization: Institute of Agriculture and Animal Science, Tribhuvan University,
+      Kathmandu, Nepal
+    url: ''
+  Chhetri-Lal-Bahadur:
+    individualname: Chhetri, Lal Bahadur
+    role: ''
+    organization: Institute of Agriculture and Animal Science, Tribhuvan University,
+      Kathmandu, Nepal
+    url: ''
+  Gautam-Deepak:
+    individualname: Gautam, Deepak
+    role: ''
+    organization: Institute of Forestry, Tribhuvan University, Pokhara, Nepal
+    url: ''
+  Bhandari-Jyoti:
+    individualname: Bhandari, Jyoti
+    role: ''
+    organization: Institute of Forestry, Tribhuvan University, Pokhara, Nepal
+    url: ''
+content_info: {}

@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3459989
+  dataseturi: https://doi.org/10.5281/zenodo.3459989
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Estimated contamination risk of heavy metals (Ni and Zn) of a soil grown
+    (Cucumis Melo) on industrial activity zone (El-Hadjar - Annaba - Algeria)
+  abstract: Our study, conducted in the industrial area of El-Hadjar (Annaba), aims
+    to assess the impact of heavy metals on an agricultural soil and vegetation (melon)
+    just outside the steel complex. The assessment to cover the total contents, exchangeable
+    and soluble. These metals were measured in the surface soil (0-20 cm) and long
+    (20-40 cm) and the melon sheets. The results obtained confirm the presence of
+    two elements (Zn and Ni) in all samples analyzed (soil and vegetation). The total
+    zinc measured in the soil is in relatively more by contribution to nickel. As
+    for the soluble and exchangeable contents, Ni s is more important than Z
+  keywords:
+    default:
+      keywords:
+        subject: industrial area (El-Hadjar), heavy metals (Zn, Ni), soil, vegetation
+          (melon)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-05-31'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3459989
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3459988
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Medjmedj-A:
+    individualname: Medjmedj A
+    role: creator
+    organization: 'Department of Biology and Vegetal Ecology, Faculty of Natural sciences
+      and Life, Mentouri brothersUniversity, Constantine, Algeria. Corresponding auteur:
+      Rached-Kanouni M'
+    url: ''
+  Rached-Kanouni-M:
+    individualname: Rached-Kanouni M
+    role: creator
+    organization: 'Department of Biology and Vegetal Ecology, Faculty of Natural sciences
+      and Life, Mentouri brothersUniversity, Constantine, Algeria. Corresponding auteur:
+      Rached-Kanouni M'
+    url: ''
+  Kadem-.D.E.D:
+    individualname: Kadem .D.E.D
+    role: creator
+    organization: 'Department of Biology and Vegetal Ecology, Faculty of Natural sciences
+      and Life, Mentouri brothersUniversity, Constantine, Algeria. Corresponding auteur:
+      Rached-Kanouni M'
+    url: ''
+content_info: {}

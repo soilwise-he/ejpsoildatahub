@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8085898
+  dataseturi: https://doi.org/10.5281/zenodo.8085898
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Field-Scale Characterization of Spatio-Temporal Variability of Soil Salinity
+    in Three Dimensions
+  abstract: "Information on spatial, temporal, and depth variability of soil salinity\
+    \ at field and landscape scales is important for a variety of agronomic and environment\
+    \ concerns including irrigation in arid and semi-arid areas. However, challenges\
+    \ remain in characterizing and monitoring soil secondary salinity as it can largely\
+    \ be impacted by managements including irrigation and mulching in addition to\
+    \ natural factors. The objective of this study is to evaluate apparent electrical\
+    \ conductivity (EC<sub>a</sub>)-directed soil sampling as a basis for monitoring\
+    \ management-induced spatio-temporal change in soil salinity in three dimensions.\
+    \ A field experiment was conducted on an 18-ha saline-sodic field from Alar\u2019\
+    s Agricultural Science and Technology Park, China between March, and November\
+    \ 2018. Soil EC<sub>a</sub> was measured using an electromagnetic induction (EMI)\
+    \ sensor for four times over the growing season and soil core samples were collected\
+    \ from 18 locations (each time) selected using EMI survey data as a-priori information.\
+    \ A multi-variate regression-based predictive relationship between EC<sub>a</sub>\
+    \ and laboratory-measured electrical conductivity (EC<sub>e</sub>) was used to\
+    \ predict EC with confidence (R<sup>2</sup> between 0.82 and 0.99). A three-dimensional\
+    \ inverse distance weighing (3D-IDW) interpolation clearly showed a strong variability\
+    \ in space and time and with depths within the study field which were mainly attributed\
+    \ to the human management factors including irrigation, mulching, and uncovering\
+    \ of soils and natural factors including air temperature, evaporation, and groundwater\
+    \ level. This study lays a foundation of characterizing secondary salinity at\
+    \ a field scale for precision and sustainable management of agricultural lands\
+    \ in arid and semi-arid areas."
+  keywords:
+    default:
+      keywords:
+        subject: soil profile; soil salinization; spatio-temporal variation; electromagnetic
+          induction; three-dimension visualization
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-10'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8085898
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8085897
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Li-Hongyi:
+    individualname: Li, Hongyi
+    role: creator
+    organization: Department of Land Resource Management, School of Tourism and Urban
+      Management, Jiangxi University of Finance and Economics, Nanchang
+    url: ''
+  Liu-Xinlu:
+    individualname: Liu, Xinlu
+    role: creator
+    organization: Department of Land Resource Management, School of Tourism and Urban
+      Management, Jiangxi University of Finance and Economics, Nanchang
+    url: ''
+  Hu-Bifeng:
+    individualname: Hu, Bifeng
+    role: creator
+    organization: "College of Environment and Resources, Zhejiang University, Hangzhou;\
+      \ Unit\xE9 de Recherche en Science du Sol, INRAE, Orl\xE9ans; Sciences de la\
+      \ Terre et de l'Univers, Orl\xE9ans University"
+    url: ''
+  Biswas-Asim:
+    individualname: Biswas, Asim
+    role: creator
+    organization: School of Environmental Sciences, University of Guelph
+    url: ''
+  Jiang-Qingsong:
+    individualname: Jiang, Qingsong
+    role: creator
+    organization: College of Environment and Resources, Zhejiang University, Hangzhou
+    url: ''
+  Liu-Weiyang:
+    individualname: Liu, Weiyang
+    role: creator
+    organization: College of Plant Science, Tarim University, Alar
+    url: ''
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: creator
+    organization: College of Environment and Resources, Zhejiang University, Hangzhou
+    url: ''
+  Peng-Jie:
+    individualname: Peng, Jie
+    role: creator
+    organization: College of Plant Science, Tarim University, Alar
+    url: ''
+content_info: {}

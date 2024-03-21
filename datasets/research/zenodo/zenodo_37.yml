@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4748500
+  dataseturi: https://doi.org/10.5281/zenodo.4748500
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: 'An Open Compendium of Soil Datasets: Soil Observations and Measurements'
+  abstract: 'This is a public compendium of global, regional, national and sub-national
+    <strong>soil samples</strong> and/or <strong>soil profile</strong> datasets (points
+    with Observations and Measurements of soil properties and characteristics). Datasets
+    listed here, assuming compatible open license, are afterwards imported into the
+    <strong>Global compilation of soil chemical and physical properties and soil classes</strong>
+    and eventually used to create a better open soil information across countries.
+    Please feel free to contribute entries. See GitHub repository for more detailed
+    instructions. To see the most up-to-date version of this compendium please visit:
+    <strong>https://opengeohub.github.io/SoilSamples/</strong>'
+  keywords:
+    default:
+      keywords:
+        subject: soil mapping
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-05-11'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4748500
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4748499
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hengl-T.:
+    individualname: Hengl, T.
+    role: creator
+    organization: OpenGeoHub foundation
+    url: https://orcid.org/0000-0002-9921-5129
+content_info: {}

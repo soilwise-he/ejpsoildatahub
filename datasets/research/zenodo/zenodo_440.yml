@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: T__1922
+  dataseturi: https://doi.org/10.2307/2255751
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Structure, Physiology and Soil of Peat Plants
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Structure, Physiology and Soil of Peat Plants
+    url: http://dx.doi.org/10.2307/2255751
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.-A.-G.:
+    individualname: T., A. G.
+    role: creator
+  Priestley-J.-H.:
+    individualname: Priestley, J. H.
+    role: creator
+  Hinchliff-Mildred:
+    individualname: Hinchliff, Mildred
+    role: creator
+  Pearsall-W.-H.:
+    individualname: Pearsall, W. H.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

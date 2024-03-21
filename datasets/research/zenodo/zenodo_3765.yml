@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kumar_2020
+  dataseturi: https://doi.org/10.35940/ijeat.C4709.029320
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Force and Settlement Characteristics of an Embankment on Soft Consolidating
+    Soil with Lime Columns
+  abstract: '&lt;p&gt;Embankment supported on soft soil with lime column is analyzed.
+    The lime column is modeled using a two noded plane frame element with three degrees
+    of freedom (DOF) (two transnational and one rotational), whereas the soil stress-
+    strain behavior is presumed to be non-lining and modeled by a Cam-Clay model.
+    The properties of lime column is obtained from a stress- strain curve obtained
+    from a laboratory test. It is concluded from the study that addition of lime column
+    in soft soil reduces the settlement after the construction.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - lime column
+      - Embankment on soft consolidating soil
+      - finite element analysis
+      - ground improvement technique.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Force and Settlement Characteristics of an Embankment on Soft Consolidating
+      Soil with Lime Columns
+    url: http://dx.doi.org/10.35940/ijeat.C4709.029320
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M-Prasanna-Kumar:
+    individualname: M Prasanna Kumar
+    role: creator
+  Kumar-M-Prasanna:
+    individualname: Kumar, M Prasanna
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

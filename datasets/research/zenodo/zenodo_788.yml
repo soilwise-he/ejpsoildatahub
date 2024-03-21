@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2577972
+  dataseturi: https://doi.org/10.5281/zenodo.2577972
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: One Hundred and Five Years of Soil Science in Bulgaria
+  abstract: "In this article is presented stage development of Bulgarian Soil Science\
+    \ \u2013 from 1911 year until our days. Fonder of soil science of Bulgaria is\
+    \ Nikola Pushkarov. Nearly, with his life is finished the first stage (1947).\
+    \ Pushkarov developed the first scientific program of soils with basic tasks.\
+    \ Second stage of development (1947-1969) is stage of rapid development of soil\
+    \ science associated with the reorganization of agriculture in Bulgaria. Third\
+    \ stage (1969-1989) is stage of modernization of equipment, strengthening of international\
+    \ relations and recognition, advanced science servicing of agriculture. Fourth\
+    \ stage is stage of reforms, changes and integration into European research area."
+  keywords:
+    default:
+      keywords:
+        subject: Nicola Pushkarov, Bulgarian Soil Science, stage development, science
+          programs, soil diagnostic and classification, soil melioration, research,
+          agroecology and agriculture, reform, changes and integration
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-04-28'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2577972
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2577971
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teoharov-Metodi:
+    individualname: Teoharov Metodi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

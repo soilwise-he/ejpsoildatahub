@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6382206
+  dataseturi: https://doi.org/10.5281/zenodo.6382206
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Humin Fraction of Soil Humus
+  abstract: Forest Soil-cum-Vegetation Survey, Eastern Regional Centre, Kotebazar,
+    Midnapore Humin Fraction of Soil Humus
+  keywords:
+    default:
+      keywords:
+        subject: synthesis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1979-11-30'
+    publication: '1979'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6382206
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6382205
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-BANERJEE:
+    individualname: S. K. BANERJEE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

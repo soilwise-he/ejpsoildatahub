@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LU_2018
+  dataseturi: https://doi.org/10.11646/zootaxa.4496.1.29
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Preliminary taxonomical investigation of soil enchytraeids (Clitellata, Enchytraeidae)
+    from south region of Tibet, China
+  abstract: 'Lu, Yajing, Xie, Zhicai, Zhang, Junqian (2018): Preliminary taxonomical
+    investigation of soil enchytraeids (Clitellata, Enchytraeidae) from south region
+    of Tibet, China. Zootaxa 4496 (1): 395-410, DOI: 10.11646/zootaxa.4496.1.29'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Annelida
+      - Clitellata
+      - Enchytraeida
+      - Enchytraeidae
+      - Haplotaxida
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Preliminary taxonomical investigation of soil enchytraeids (Clitellata,
+      Enchytraeidae) from south region of Tibet, China
+    url: http://dx.doi.org/10.11646/zootaxa.4496.1.29
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lu-Yajing:
+    individualname: Lu, Yajing
+    role: creator
+  Xie-Zhicai:
+    individualname: Xie, Zhicai
+    role: creator
+  Zhang-Junqian:
+    individualname: Zhang, Junqian
+    role: creator
+  LU-YAJING:
+    individualname: LU, YAJING
+    role: creator
+  XIE-ZHICAI:
+    individualname: XIE, ZHICAI
+    role: creator
+  ZHANG-JUNQIAN:
+    individualname: ZHANG, JUNQIAN
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

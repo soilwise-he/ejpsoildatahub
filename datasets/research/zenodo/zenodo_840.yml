@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Saranya_2020
+  dataseturi: https://doi.org/10.35940/ijitee.H6110.1091220
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Classification and Harvest Proposal Implemented using Machine Learning
+    Techniques
+  abstract: '&lt;p&gt;The major source of living for the people of India is agriculture.
+    It is considered as important economy for the country. India is one of the country
+    that suffer from natural calamities like drought and flood that may destroy the
+    crops which may lead to heavy loss for the people doing agriculture. Predicting
+    the crop type can help them to cultivate the suitable crop that can be cultivated
+    in that particular soil type. Soil is one major factor or agriculture. There are
+    several types of soil available in our county. In order to classify the soil type
+    we need to understand the characteristics of the soil. Data mining and machine
+    learning is one of the emerging technology in the field of agriculture and horticulture.
+    In order to classify the soil type and Provide suggestion of fertilizers that
+    can improve the growth of the crop cultivated in that particular soil type plays
+    major role in agriculture. For that here exploring Several machine learning algorithms
+    such as Support vector machine(SVM),k-Nearest Neighbour(k-NN) and logistic regression
+    are used to classify the soil type.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Machine Learning
+      - Mining
+      - Nutrients
+      - Agriculture
+      - Chemical Feature Classification
+      - Accuracy
+      - Prediction.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Classification and Harvest Proposal Implemented using Machine Learning
+      Techniques
+    url: http://dx.doi.org/10.35940/ijitee.H6110.1091220
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.Saranya:
+    individualname: N.Saranya
+    role: creator
+  A.Mythili:
+    individualname: A.Mythili
+    role: creator
+  Saranya-Mrs.-N.:
+    individualname: Saranya, Mrs. N.
+    role: creator
+  Mythili-Ms.-A.:
+    individualname: Mythili, Ms. A.
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

@@ -1,0 +1,114 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1076684
+  dataseturi: https://doi.org/10.5281/zenodo.1076684
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Mapping Soil Fertility At Different Scales To Support Sustainable Brazilian
+    Agriculture
+  abstract: 'Most agricultural crops cultivated in Brazil are highly
+
+    nutrient demanding. Brazilian soils are generally acidic with low base
+
+    saturation and available nutrients. Demand for fertilizer application
+
+    has increased because the national agricultural sector expansion. To
+
+    improve productivity without environmental impact, there is the need
+
+    for the utilization of novel procedures and techniques to optimize
+
+    fertilizer application. This includes the digital soil mapping and GIS
+
+    application applied to mapping in different scales. This paper is
+
+    based on research, realized during 2005 to 2010 by Brazilian
+
+    Corporation for Agricultural Research (EMBRAPA) and its partners.
+
+    The purpose was to map soil fertility in national and regional scales.
+
+    A soil profile data set in national scale (1:5,000,000) was constructed
+
+    from the soil archives of Embrapa Soils, Rio de Janeiro and in the
+
+    regional scale (1:250,000) from COMIGO Cooperative soil data set,
+
+    Rio Verde, Brazil. The mapping was doing using ArcGIS 9.1 tools
+
+    from ESRI.'
+  keywords:
+    default:
+      keywords:
+        subject: soil attributes.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-09-22'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1076684
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1076683
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rachel-Bardy-Prado:
+    individualname: Rachel Bardy Prado
+    role: creator
+  Vinicius-de-Melo-Benites:
+    individualname: "Vin\xEDcius de Melo Benites"
+    role: creator
+  Jose-Carlos-Polidoro:
+    individualname: "Jos\xE9 Carlos Polidoro"
+    role: creator
+  Carlos-Eduardo-Goncalves:
+    individualname: "Carlos Eduardo Gon\xE7alves"
+    role: creator
+  Alexey-Naumov:
+    individualname: Alexey Naumov
+    role: creator
+  Prado-Rachel-Bardy:
+    individualname: Prado, Rachel Bardy
+    role: ''
+    organization: ''
+    url: ''
+  Vinicius-De-Melo-Benites:
+    individualname: "Vin\xEDcius De Melo Benites"
+    role: ''
+    organization: ''
+    url: ''
+  Polidoro-Jose-Carlos:
+    individualname: "Polidoro, Jos\xE9 Carlos"
+    role: ''
+    organization: ''
+    url: ''
+  Goncalves-Carlos-Eduardo:
+    individualname: "Gon\xE7alves, Carlos Eduardo"
+    role: ''
+    organization: ''
+    url: ''
+  Naumov-Alexey:
+    individualname: Naumov, Alexey
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

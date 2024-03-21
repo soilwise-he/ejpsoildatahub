@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4247689
+  dataseturi: https://doi.org/10.5281/zenodo.4247689
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Algae Growth Stabilization and Prediction Model Matrix of Soil Sludge
+  abstract: "The pattern growth of the three algae species \u2013 PRK1-E01, C. Vulgaris\
+    \ and Nephrochlamys Subsolitaria which are found in the sludge within the Sabak\
+    \ Bernam region is not stable. The unstable distribution matrix of the algae growth\
+    \ is derived to determine a stable growth by modeling a transition matrix and\
+    \ stable distribution probability using Marcov Chain methodology. Thus, a stable\
+    \ algae growth can be predicted."
+  keywords:
+    default:
+      keywords:
+        subject: Distribution Matrix
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-05'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4247689
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4247688
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saibah-Siregar:
+    individualname: Saibah Siregar
+    role: creator
+    organization: ''
+    url: ''
+  Mohd-Nazran-Mohammed-Pauzi:
+    individualname: Mohd Nazran Mohammed Pauzi
+    role: creator
+    organization: ''
+    url: ''
+  Che-Manisah-Mohd-Kassim:
+    individualname: Che Manisah Mohd Kassim
+    role: creator
+  Nor-Suhaila-Yaacob:
+    individualname: Nor Suhaila Yaacob
+    role: creator
+    organization: ''
+    url: ''
+  Muhidin-Arifin:
+    individualname: Muhidin Arifin
+    role: creator
+  S-H-M-Yusoff:
+    individualname: S H M Yusoff
+    role: creator
+    organization: ''
+    url: ''
+  Kasturi-Arumugam:
+    individualname: Kasturi Arumugam
+    role: creator
+  Kassim-Che-Manisah-Mohd:
+    individualname: Kassim, Che Manisah Mohd
+    role: ''
+    organization: ''
+    url: ''
+  Arifin-Muhidin:
+    individualname: Arifin, Muhidin
+    role: ''
+    organization: ''
+    url: ''
+  Arumugam-Kasturi:
+    individualname: Arumugam, Kasturi
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

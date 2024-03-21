@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3611966
+  dataseturi: https://doi.org/10.5281/zenodo.3611966
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: ANTI - CANCER ENZYME(L - ASPARAGINASE) PRODUCTION, PURIFICATION AND CHARACTERIZATION
+    FROM A SOIL ISOLATE OF PSEUDOMONAS SP
+  abstract: 'L-Asparaginase or L-asparagine amido hydrolases are enzymes that catalyze
+    the substrate hydrolysis of L-asparagine. It results in the formation of L-aspartate
+    and ammonia. It has immense application in the treatment of lymphoblastic leukemia
+    as an antineoplastic agent and also finds its use in food technology. Its vast
+    application in the pharmaceutical industry has led to the need for more sources
+    of production of L-asparaginase. The current work is focused on production, purification,
+    and characterization of L-asparaginase. The enzyme is produced using the batch
+    mode of cultivation with critical media components disodium phosphate (0.042M),
+    sodium chloride (0.0854M) and Asparagine (0.060M) respectively. The extracellular
+    L-asparaginase was later purified by the following techniques: salt dialysis,
+    ion-exchange chromatography, and gel filtration chromatography. Meanwhile, protein
+    estimation was done using lowrys method. The molecular weight of the enzyme was
+    found to be at 55KDa as revealed through SDS-PAGE. The biochemical analysis revealed
+    that the species producing the enzyme belonged to Pseudomonas sp. The culture
+    condition favoring the production of the enzyme L-asparaginase was found to be
+    at a temperature of 400C, pH-9, and incubation time of 24hr. Optimization with
+    critical carbon and nitrogen sources with varying concentrations disclosed sucrose
+    and ammonium sulfate at 1.5%(w/w) to maximize the enzyme production. The purified
+    enzyme was characterized by the above parameters (400C, pH-9) and incubation period
+    of 40 minutes was found to be having an enzyme activity 434.10(U/ml). Additionally,
+    to overproduce the enzyme, strain development was performed with the treatment
+    of UV-B rays exposed at different heights and X-rays to yield more amount of enzyme.'
+  keywords:
+    default:
+      keywords:
+        subject: L-Asparaginase Pseudomonas Sp Optimization Purification Lowrys Method
+          Characterization Sds-Page
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-12-16'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3611966
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3611965
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Narendra-Kumar-S--Mohammed-Haseeb-Nawaz--Shyam-Shankar-Mishra:
+    individualname: Narendra Kumar S , Mohammed Haseeb Nawaz , Shyam Shankar Mishra
+    role: creator
+  Satya-Suman--Lingayya-Hiremath--Praveen-Kumar-Gupta:
+    individualname: Satya Suman , Lingayya Hiremath , Praveen Kumar Gupta
+    role: creator
+  Ajeet-Kumar-Shrivastava-and-Mahesh-M:
+    individualname: Ajeet Kumar Shrivastava and Mahesh M
+    role: creator
+  Narendra-Kumar-S-Mohammed-Haseeb-Nawaz:
+    individualname: Narendra Kumar S, Mohammed Haseeb Nawaz
+    role: ''
+    organization: Department of Biotechnology, R.V. college of Engineering, Bengaluru,
+      India
+    url: ''
+  Satya-Suman-Lingayya-Hiremath:
+    individualname: Satya Suman, Lingayya Hiremath
+    role: ''
+    organization: Department of Biotechnology, R.V. college of Engineering, Bengaluru,
+      India
+    url: ''
+  Ajeet-Kumar-Shrivastava-And-Mahesh-M:
+    individualname: Ajeet Kumar Shrivastava And Mahesh M
+    role: ''
+    organization: Azyme Biosciences Private Limited, 1188/20, 3rd Floor, 26th Main,
+      9th Block, Jaya Nagar, Bengaluru 560069
+    url: ''
+content_info: {}

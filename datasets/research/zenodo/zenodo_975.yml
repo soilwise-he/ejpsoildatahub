@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Rahim_2023
+  dataseturi: https://doi.org/10.11591/ijeecs.v32.i2.pp1042-1049
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Real-time soil monitoring and irrigation system for taro yam cultivation
+  abstract: '&lt;p&gt;The yam cultivation industry faces hurdles in satisfying the
+    world&rsquo;s rising demand. Meanwhile, &nbsp;agricultural activities encounter
+    &nbsp; issues&nbsp;such as monitoring systems for soil composition that are not
+    directly integrated with the irrigation system. Hence, this research aims to develop
+    an irrigation and soil monitoring system using NodeMcu ESP8266 for&nbsp;taro&nbsp;yam
+    cultivation. A soil &nbsp;composition and irrigation device weredeveloped using
+    NodeMcu ESP8266 to control the irrigation system autonomously. Then, the real-time
+    monitoring systems using Blynk 2.0 was designed. The final method is used to test
+    the irrigation and soil monitoring system in a taro yam growing area. The&nbsp;results
+    &nbsp;show &nbsp;that &nbsp;the irrigation &nbsp;and &nbsp;soil &nbsp;monitoring
+    system reduced water &nbsp;usage &nbsp;by &nbsp;about &nbsp;32.5%, &nbsp;as &nbsp;the
+    &nbsp;3.6 &nbsp;liters &nbsp;of &nbsp;water &nbsp;used &nbsp;daily &nbsp;before
+    applying the irrigation and soil monitoring device was reduced to 2.43 liters
+    per &nbsp;day. In conclusion, &nbsp;the &nbsp;developed &nbsp;device &nbsp;can
+    conveniently &nbsp;display the ambient &nbsp;air&rsquo;s &nbsp;humidity, &nbsp;temperature,
+    and soil moisture conditions &nbsp;on smartphones &nbsp; and &nbsp; desktops.&nbsp;In
+    addition,&nbsp;this system&nbsp;can&nbsp;maintain&nbsp;soil moisture according
+    to a set value, which can prevent excessive water use for taro yam cultivation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Internet of things
+      - Irrigation system
+      - NodeMcu ESP8266
+      - Soil monitoring
+      - Taro yam
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Real-time soil monitoring and irrigation system for taro yam cultivation
+    url: http://dx.doi.org/10.11591/ijeecs.v32.i2.pp1042-1049
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Azril-Abdul-Rahim:
+    individualname: Azril Abdul Rahim
+    role: creator
+  Roslina-Mohamad:
+    individualname: Roslina Mohamad
+    role: creator
+  Nurain-Izzati-Shuhaimi:
+    individualname: Nurain Izzati Shuhaimi
+    role: creator
+  Willie-C.-Buclatin:
+    individualname: Willie C. Buclatin
+    role: creator
+  Rahim-Azril-Abdul:
+    individualname: Rahim, Azril Abdul
+    role: creator
+  Mohamad-Roslina:
+    individualname: Mohamad, Roslina
+    role: creator
+  Shuhaimi-Nurain-Izzati:
+    individualname: Shuhaimi, Nurain Izzati
+    role: creator
+  Buclatin-Willie-C.:
+    individualname: Buclatin, Willie C.
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

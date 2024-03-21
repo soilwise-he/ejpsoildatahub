@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4647003
+  dataseturi: https://doi.org/10.5281/zenodo.4647003
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determinants of Farmer's Participation in Soil and Water Conservation Practices
+    in North- Central Highlands of Ethiopia
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> Soil erosion is the\
+    \ major threat in the highlands of Ethiopia. Even if large number of conservation\
+    \ campaigns have been undertaken, the efforts are less effective, because of low\
+    \ intention to farmer\u2019s participation in soil and water conservation (SWC)\
+    \ works. The objective of this study was to identify determinants of farmer\u2019\
+    s participation in soil and water conservation (SWC) in Borena woreda, north-central\
+    \ highlands of Ethiopia. Samples of 148 households were selected following Stratified,\
+    \ proportional sampling technique. Household survey, focus group discussion, and\
+    \ key informant interview methods were used to collect primary data. Secondary\
+    \ data were also collected from Woreda agriculture office, published, and unpublished\
+    \ documents. Both descriptive statistics and Binary logistic regression model\
+    \ using Statistical Package for Social Science (SPSS) version 20 were used to\
+    \ analyze the data. About 76.35% of the respondents were participants. However,\
+    \ 57.52% of participants were without their interest. The binary logistic regression\
+    \ results showed that perception, extension service, training, and slope of their\
+    \ land found to have a positive and significant influence on farmer\u2019s participation.\
+    \ Whereas, age of household head and off-farm income found to have negative and\
+    \ significant influence on farmer\u2019s participation in SWC practices. When\
+    \ farmers get extension and training service, they become willing to participate\
+    \ in SWC practice because they acquire necessary information and skill. Therefore,\
+    \ the Woreda Agricultural office should provide extension service and encourage\
+    \ farmers training for the sustainable management of the land and its productivity."
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-03-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4647003
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4647002
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gebremichael-Kassa:
+    individualname: Gebremichael Kassa
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

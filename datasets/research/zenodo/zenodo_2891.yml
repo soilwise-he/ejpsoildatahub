@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LIPMAN_1921
+  dataseturi: https://doi.org/10.1097/00010694-192109000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE INFLUENCE OF VARYING AMOUNTS OF SULFUR IN THE SOIL, ON CROP YIELDS, HYDROGEN-ION
+    CONCENTRATION, LIME REQUIREMENT AND NITRATE FORMATION
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE INFLUENCE OF VARYING AMOUNTS OF SULFUR IN THE SOIL, ON CROP YIELDS,
+      HYDROGEN-ION CONCENTRATION, LIME REQUIREMENT AND NITRATE FORMATION
+    url: http://dx.doi.org/10.1097/00010694-192109000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lipman-J.-G.:
+    individualname: Lipman, J. G.
+    role: creator
+  Prince-A.-L.:
+    individualname: Prince, A. L.
+    role: creator
+  Blair-A.-W.:
+    individualname: Blair, A. W.
+    role: creator
+  LIPMAN-J.-G.:
+    individualname: LIPMAN, J. G.
+    role: creator
+  PRINCE-A.-L.:
+    individualname: PRINCE, A. L.
+    role: creator
+  BLAIR-A.-W.:
+    individualname: BLAIR, A. W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

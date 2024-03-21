@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8136178
+  dataseturi: https://doi.org/10.5281/zenodo.8136178
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Soil organic carbon stock under semi-deciduous tropical forests: case of\
+    \ the T\xE9n\xE9 protected forest (Oum\xE9, C\xF4te d'Ivoire)"
+  abstract: "Soil organic carbon stocks (SOCS) estimated from international databases\
+    \ are generally subject to uncertainties. These errors are more significant in\
+    \ developing countries where field studies are rare. To overcome this shortcoming,\
+    \ soil samples were collected in the experimental set-up of T\xE9n\xE9 protected\
+    \ forest (ES-TPF), located in central-western C\xF4te d'Ivoire, to identify the\
+    \ soil types and the corresponding actual SOCS. The FAO soil classification guide\
+    \ was used to identify soil types. SOCS were determined from the carbon concentrations,\
+    \ bulk densities, and proportions of fine elements, in 0-30 cm, 30-60 cm and 60-100\
+    \ cm thicknesses. The results showed three soil types, namely Plinthosols at top\
+    \ slope, Ferralsols at top and middle slope and Fluvisols at bottom slope. In\
+    \ the reference thicknesses 0-30 cm and 0-100 cm, the respective SOCS are on average\
+    \ 44.89\xB125% tC.ha<sup>-1</sup> and 61.56\xB123% tC.ha<sup>-1</sup> in Plinthosols;\
+    \ 49.16\xB126% tC.ha<sup>-1</sup> and 93.40\xB116% tC.ha<sup>-1</sup> in Ferralsols;\
+    \ 41.18\xB132% tC.ha<sup>-1</sup> and 68.54\xB122% tC.ha<sup>-1</sup> in Fluvisols.\
+    \ Almost all these values differed from those in the international databases,\
+    \ especially in the depths. Therefore, the results obtained are recommended for\
+    \ a better accounting and management of SOCS in the semi-deciduous tropical forests\
+    \ of West Africa."
+  keywords:
+    default:
+      keywords:
+        subject: "SOCS; Semi-deciduous tropical forests; Plinthosols; Ferralsols;\
+          \ Fluvisols; C\xF4te d'Ivoire"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8136178
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8136177
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kouame-Mathurin-KOFFI:
+    individualname: "Kouam\xE9 Mathurin KOFFI"
+    role: creator
+    organization: "UMRI 28, Sciences Agronomiques et G\xE9nie Rural, Institut National\
+      \ Polytechnique Houphou\xEBt-Boigny (INP-BH), Yamoussoukro, C\xF4te d'Ivoire."
+    url: ''
+  Irie-Casimir-ZO-BI:
+    individualname: "Iri\xE9 Casimir ZO-BI"
+    role: creator
+    organization: "DFR Eaux, For\xEAts et Environnement, Institut National Polytechnique\
+      \ Houphou\xEBt-Boigny (INP-HB), Yamoussoukro, C\xF4te d'Ivoire."
+    url: ''
+  Thierry-Roland-KOUAME:
+    individualname: Thierry Roland KOUAME
+    role: creator
+  Jean-Renaud-ALLOUKO:
+    individualname: Jean-Renaud ALLOUKO
+    role: creator
+    organization: "UFR Environnement, Laboratoire Biodiversit\xE9 et Ecologie Tropicale,\
+      \ Universit\xE9 Jean LOROUGNON GUEDE (UJLoG), Daloa, C\xF4te d'Ivoire."
+    url: ''
+  Dominique-MASSE:
+    individualname: Dominique MASSE
+    role: creator
+  KOUAME-Thierry-Roland:
+    individualname: KOUAME, Thierry Roland
+    role: ''
+    organization: "DFR Eaux, For\xEAts et Environnement, Institut National Polytechnique\
+      \ Houphou\xEBt-Boigny (INP-HB), Yamoussoukro, C\xF4te d'Ivoire."
+    url: ''
+  MASSE-Dominique:
+    individualname: MASSE, Dominique
+    role: ''
+    organization: "UMR Ecologie fonctionnelle, Biog\xE9ochimie des sols et agro\xE9\
+      cosyst\xE8mes, Institut de Recherche pour le D\xE9veloppement (IRD), Abidjan,\
+      \ C\xF4te d'Ivoire."
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Russell_1909
+  dataseturi: https://doi.org/10.1017/s0021859600001064
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Partial Sterilisation of Soil on the Production of Plant Food
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Partial Sterilisation of Soil on the Production of Plant Food
+    url: http://dx.doi.org/10.1017/s0021859600001064
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Russell-Edward-John:
+    individualname: Russell, Edward John
+    role: creator
+  Hutchinson-Henry-Brougham:
+    individualname: Hutchinson, Henry Brougham
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

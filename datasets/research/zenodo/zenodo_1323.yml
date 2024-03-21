@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5833322
+  dataseturi: https://doi.org/10.5281/zenodo.5833322
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analytical characterisation of soil samples polluted by industrial effluents
+    for exchangeable cations
+  abstract: Electroanalytical Laboratory, Department of Chemistry, J. N. V. University,
+    Jodhpur-342 003, India<br> <em>Manuscript received 25 November 2003. accepted
+    17 March 2004</em> The prominent exchangeable cations Ca-Mg and Na-K have been
+    determined in soils collected near the vicinity of textile<br> industries for
+    the purpose of pollution monitoring using classical methodology of EDTA complexation
+    and flame photometry.
+  keywords:
+    default:
+      keywords:
+        subject: EDTA titration
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2004-09-30'
+    publication: '2004'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5833322
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5833321
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pradeep-Sharma:
+    individualname: Pradeep Sharma
+    role: creator
+  Ratna-Rajpal:
+    individualname: Ratna Rajpal
+    role: creator
+  Sharma-Pradeep:
+    individualname: Sharma, Pradeep
+    role: ''
+    organization: ''
+    url: ''
+  Rajpal-Ratna:
+    individualname: Rajpal, Ratna
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

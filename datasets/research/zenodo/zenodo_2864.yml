@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10610849
+  dataseturi: https://doi.org/10.5281/zenodo.10610849
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Ecotoxicological Study of Tannic Acid on Soil and Water Non-Target Indicators
+    and Its Impact on Fluvial and Edaphic Communities
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10610849
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10610848
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Langa-Elisa:
+    individualname: Langa, Elisa
+    role: creator
+    organization: Universidad San Jorge
+    url: 0000-0003-3061-2705
+content_info: {}

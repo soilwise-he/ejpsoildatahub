@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cameron_1907
+  dataseturi: https://doi.org/10.1021/j150089a002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Distribution of Solute between Water and Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Distribution of Solute between Water and Soil
+    url: http://dx.doi.org/10.1021/j150089a002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cameron-F.-K.:
+    individualname: Cameron, F. K.
+    role: creator
+  Patten-H.-E.:
+    individualname: Patten, H. E.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

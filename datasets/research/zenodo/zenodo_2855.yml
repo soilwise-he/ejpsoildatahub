@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.4122-1.1000000622
+  dataseturi: https://doi.org/10.4122/1.1000000622
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of the single- and multi- phase transport properties of a layered
+    soil by combining laboratory experiments with numerical calculations
+  abstract: "A military airport situated in Northern Poland has highly been contaminated\
+    \ by jet-\nfuel since 2nd world war. Geological characterization revealed that\
+    \ the unsaturated \nzone is a highly heterogeneous soil consisting of three main\
+    \ layers dominated by \nmassive clay with desiccation fractures, homogeneous sand,\
+    \ and fractured sandy \ntill. In order to proceed in the implementation of an\
+    \ in situ stimulation-\nremediation program, information concerning the transport\
+    \ properties of the various \nlayers and their interfacial zones is required.\
+    \ \nDepending on the texture of the (non-fractured) soil matrix, its single- and\
+    \ multi-\nphase transport properties are either estimated with history matching\
+    \ of \ndisplacement experiments or calculated from microscopic properties of the\
+    \ pore \nstructure. For the permeable sandy layers, immiscible and miscible displacement\
+    \ \nexperiments are performed on disturbed and undisturbed soil columns, and the\
+    \ \nelectrical resistance along the columns is monitored. The electrical measurements\
+    \ \nare employed to calculate the transient response of the water saturation profile\
+    \ \nalong the column, as well as the solute concentration breakthrough curve at\
+    \ various \naxial positions of the column. The experimental datasets are introduced\
+    \ into \nnumerical codes of inverse modeling of the two-phase flow and advection-dispersion\
+    \ \nequations to estimate the relative permeability curves, the capillary pressure\
+    \ \ncurve, and the longitudinal dispersion coefficient. For the low permeability\
+    \ \nmassive clay and sandy till layers, the pore- and throat-size distributions\
+    \ along \nwith the network accessibility functions of the matrix are estimated\
+    \ by processing \nthe autocorrelation function of 2-D BSEM images of polished\
+    \ cross-sections of \nporecasts, and inversing experimental data of Hg intrusion\
+    \ / retraction curves. \nThen, critical path analysis is used to calculate the\
+    \ absolute permeability, and \nformation factor, whereas a quasi-static pore network\
+    \ approach is employed to \ncalculate the relative permeability and capillary\
+    \ pressure curves."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.4122/1.1000000622
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tsakiroglou-Christos:
+    individualname: Tsakiroglou, Christos
+    role: creator
+    organization: ''
+    url: ctsakir@iceht.forth.gr
+  Aggelopoulos-Christos:
+    individualname: Aggelopoulos, Christos
+    role: creator
+    organization: ''
+    url: caggelop@iceht.forth.gr
+content_info: {}

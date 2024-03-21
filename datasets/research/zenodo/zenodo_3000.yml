@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.812348
+  dataseturi: https://doi.org/10.5281/zenodo.812348
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: An Appraisal Of Productivity, Nutrient Uptake And Soil Fertility Status In
+    Fenugreek (Trigonella Foenum-Graecum L.) Under An Integrated Nutrient Management
+    Module
+  abstract: 'A field experiment during winter seasons of 2001-03 was conducted at
+    Pantnagar on a clay loam soil to appraise the productivity, nutrient uptake and
+    soil fertility status in fenugreek under an integrated nutrient management module.
+    The results indicated highest total biological yield (70.71q ha ), total N (224.45
+    kg ha ), P (11.78kg ha ) andK(161.39 kg ha ) uptake in the treatment NPK+ Sinorhizobium
+    + Bacillus + FYM@5.0 t ha . The mean effect on post harvest soil fertility status
+    in the both the years observed to be highest in the same treatment recognizing
+    the
+
+    need for incorporating microbial inoculants in integrated nutrient management
+    module. Soil organic carbon was strongly correlated with post harvest availableN
+
+    (r = 0.858**), P (r = 0.803**) and K (r = 0.819**). Pearson''s correlation analysis
+    revealed statistically significant and positive correlation existed among seed
+    and
+
+    straw yield with nutrient uptakes (r = 0.84** to 0.90**). Total biological yield
+    was significantly correlated with total N uptake (r = 0.86**) and total P uptake
+    (r = 0.87**) indicating positive response of N and P release microbial inoculants.
+    Linear and non-linear regression equations were developed to estimate the productivity
+    as function of soil properties and nutrient uptakes. Such models could
+
+    be applied in predicting yield variations and assessing soil health of fenugreek
+    grown under diverse agroecological regions. Power functions were generated to
+    estimate the seed yield of fenugreek, which suggested that availableN(r = 0.81**)
+    and K (r = 0.80**) were found to be most appropriate in explaining variation in
+    seed yield of fenugreek. This record was migrated from the OpenDepot repository
+    service in June, 2017 before shutting down.'
+  keywords:
+    default:
+      keywords:
+        subject: Regression
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-06-19'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.812348
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.812347
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adak-Tarun:
+    individualname: Adak, Tarun
+    role: creator
+    organization: Central Institute for Subtropical Horticulture
+    url: ''
+  Sachan-RS:
+    individualname: Sachan, RS
+    role: creator
+    organization: Department of Soil Science, Govind Ballabh Pant University of Agriculture
+      and Technology, Pantnagar-263145, Uttarakhand, India.
+    url: ''
+content_info: {}

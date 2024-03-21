@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10365670
+  dataseturi: https://doi.org/10.5281/zenodo.10365670
+  datestamp: ''
+  hierarchylevel: outputmanagementplan
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: DMP H-SAF H119 soil moisture product validation report
+  abstract: 'THIS IS A DUMMY DOCUMENT NOT RELATED TO ACTUAL WORK!
+
+    Data management plan submission for unviersity course.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-12'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10365670
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10365669
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Quast-Raphael:
+    individualname: Quast, Raphael
+    role: creator
+    organization: TU Wien
+    url: 0000-0003-0419-4546
+content_info: {}

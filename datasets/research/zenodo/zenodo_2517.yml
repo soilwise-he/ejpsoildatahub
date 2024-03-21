@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tretiakova_2022
+  dataseturi: https://doi.org/10.21303/2461-4262.2022.002231
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Method for predicting the dissemination of hazardous substances in the soil
+    during long-term storage of galvanic waste
+  abstract: "The problem of production waste storage in open areas of an enterprise\
+    \ with a galvanic shop for the production of chips and microchips has been investigated.\
+    \ The composition of the sludge obtained after sewage treatment of the production\
+    \ of the copper line was investigated.\n\n\nThe aim of the article is to develop\
+    \ a mathematical model for predicting the distribution of compounds with heavy\
+    \ metals in the soil during long-term storage of galvanic sludge in open areas.\
+    \ Modeling the process of movement of salts from the earth's surface into the\
+    \ lower layers of the aeration zone occurs according to the laws of molecular\
+    \ diffusion. The method is developed on the basis of a mathematical model that\
+    \ makes it possible to estimate the spread over the depth of the ground and level\
+    \ of soil salinity over time using initial information about soil structure and\
+    \ its characteristics (molecular diffusion coefficient, volume humidity), annual\
+    \ volumes and conditions of sludge storage in the enterprise. Restrictions are\
+    \ set: the presence of harmful substances on the soil surface with a concentration\
+    \ that exceeds the permissible level; inadmissibility of harmful substances to\
+    \ aquifers.\n\n\nThe practical use of the method made it possible to identify\
+    \ the main dangers during long-term storage of galvanic waste in open areas. The\
+    \ dynamics of soil salinity levels and the depth of penetration of heavy metals\
+    \ increase over twenty years of conservation has been determined, as well as the\
+    \ possibility of hazardous compounds entering groundwater has been assessed.\n\
+    \n\nPolyvinyl chloride packaging has a maximum life span of 15\_years. Waste should\
+    \ not be stored in packages and in closed areas for more than 10\_years. According\
+    \ to the prediction results, it can be stated that storage in landfills of galvanic\
+    \ waste for more than 15\_years leads to significant salinization of the soil\
+    \ and creates conditions for an emergency situation, which is caused by harmful\
+    \ substances entering the water horizons.\n\n\nRecommendations for improving storage\
+    \ conditions are given and the need for recycling of industrial waste is substantiated"
+  keywords:
+    default:
+      keywords:
+      - galvanic production
+      - prediction
+      - mathematical model
+      - ingress of hazardous substances
+      - soil salinity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Method for predicting the dissemination of hazardous substances in the soil
+      during long-term storage of galvanic waste
+    url: http://dx.doi.org/10.21303/2461-4262.2022.002231
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tretiakova-Larisa:
+    individualname: Tretiakova, Larisa
+    role: creator
+  Mitiuk-Liudmyla:
+    individualname: Mitiuk, Liudmyla
+    role: creator
+  Panasiuk-Igor:
+    individualname: Panasiuk, Igor
+    role: creator
+  Rebuel-Elina:
+    individualname: Rebuel, Elina
+    role: creator
+  OU-Scientific-Route:
+    individualname: OU Scientific Route
+    role: creator
+content_info: {}

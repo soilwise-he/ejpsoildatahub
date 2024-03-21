@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6844587
+  dataseturi: https://doi.org/10.5281/zenodo.6844587
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Antimicrobial compounds of one Streptomyces celluloflavus strain isolated
+    from Can Gio mangrove soil, Vietnam
+  abstract: "Marine actinobacteria have emerged as a well-known potential source of\
+    \ secondary metabolites which possess useful properties in many fields including\
+    \ medical and agricultural applications. The aim of this research was investigated\
+    \ the antimicrobial compounds of marine Streptomyces celluloflavus isolated from\
+    \ mangrove soil samples taken in Can Gio mangrove soil (Can Gio district), Ho\
+    \ Chi Minh City, Vietnam. Herein agar-well diffusion method was employed to measure\
+    \ antimicrobial activity of the culturing medium extract against four pathogenic\
+    \ bacteria strains. The compound harvested were then analysed by GC-MS method.\
+    \ Thirty-one bioactive secondary metabolism compounds were identified in the ethyl-acetate\
+    \ \u2013 hexane extract of <em>Streptomyces celluloflavus</em>. The identification\
+    \ of these bioactive secondary metabolites compounds is based on the peak area,\
+    \ retention time, molecular weight, molecular formula, and antimicrobial actions.\
+    \ GC-MS analysis result revealed the presence of the 7 major components including\
+    \ 2-pentanone, 4-hydroxy-4-methyl, Cycloheptasiloxane, tetradecamethyl, Cyclododecane,\
+    \ 1,1,1,3,5,7,7,7-Octamethyl-3,5-bis(trimethylsiloxy)tetrasiloxane, Benzoic acid,\
+    \ 2-hydroxy-, 1-methylethyl ester, 1-Hexadecene and Heptasiloxane, hexadecamethyl\
+    \ . Therefore, it could be deduced that the remedial potential of mangrove soil\
+    \ Streptomyces celluloflavus based on plentiful compounds existing in the extract\
+    \ was highly expected."
+  keywords:
+    default:
+      keywords:
+        subject: Bioactive Compounds; Can Gio District; GC-MS; Mangrove Forest Soil;
+          Streptomyces celluloflavus.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6844587
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6844586
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hai-Tuan-Nguyen:
+    individualname: Hai Tuan Nguyen
+    role: creator
+  Diep-Ngoc-Cao:
+    individualname: Diep Ngoc Cao
+    role: creator
+  Nguyen-Hai-Tuan:
+    individualname: Nguyen, Hai Tuan
+    role: ''
+    organization: Environmental Sciences Faculty, Sai Gon University, Ho Chi Minh
+      City, Vietnam.
+    url: ''
+  Cao-Diep-Ngoc:
+    individualname: Cao, Diep Ngoc
+    role: ''
+    organization: Microbiology Biotechnology Department, Biotechnology R&D Institue,
+      Can Tho University, Can Tho City, Vietnam.
+    url: ''
+content_info: {}

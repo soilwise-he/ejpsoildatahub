@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.813144
+  dataseturi: https://doi.org/10.5281/zenodo.813144
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Different Nitrogen Sources And Nitrification Inhibitors On Soil
+    Nitrogen Distribution In Kinnow Orchard
+  abstract: This record was migrated from the OpenDepot repository service in June,
+    2017 before shutting down.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-06-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.813144
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.813143
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dhakar-MK:
+    individualname: Dhakar, MK
+    role: creator
+    organization: ICAR Research Complex for Eastern Region
+    url: ''
+  Singh-AK:
+    individualname: Singh, AK
+    role: creator
+    organization: ''
+    url: ''
+  Patel-VB:
+    individualname: Patel, VB
+    role: creator
+    organization: ''
+    url: ''
+  Singh-SK:
+    individualname: Singh, SK
+    role: creator
+    organization: ''
+    url: ''
+  Datta-SP:
+    individualname: Datta, SP
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-Rajesh:
+    individualname: Kumar, Rajesh
+    role: creator
+    organization: ''
+    url: ''
+  Khanna-Manoj:
+    individualname: Khanna, Manoj
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

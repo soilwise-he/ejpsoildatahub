@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kasischke_2011
+  dataseturi: https://doi.org/10.1016/j.rse.2010.08.022
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil moisture limitations on monitoring boreal forest regrowth using spaceborne
+    L-band SAR data
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil moisture limitations on monitoring boreal forest regrowth using spaceborne
+      L-band SAR data
+    url: http://dx.doi.org/10.1016/j.rse.2010.08.022
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kasischke-Eric:
+    individualname: Kasischke, Eric
+    role: creator
+  Tanase-Mihai-A.:
+    individualname: Tanase, Mihai A.
+    role: creator
+  Bourgeau-Chavez-Laura:
+    individualname: Bourgeau Chavez, Laura
+    role: creator
+  Borr-Matthew:
+    individualname: Borr, Matthew
+    role: creator
+  Kasischke-Eric-S.:
+    individualname: Kasischke, Eric S.
+    role: creator
+  Bourgeau-Chavez-Laura-L.:
+    individualname: Bourgeau-Chavez, Laura L.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

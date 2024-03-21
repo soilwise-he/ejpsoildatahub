@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7988918
+  dataseturi: https://doi.org/10.5281/zenodo.7988918
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Can we measure soil density with radiometrics?
+  abstract: Current practice in radiometric data analysis seems to have largely ignored
+    using the Compton scattered gamma rays to characterise the very near surface,
+    the soil horizon. The emphasis is upon the line spectra from radioisotope decay
+    and removing or stripping out the scattered radiation from the parent and daughter
+    product line source radiation for geochemical analysis. These radiation lines
+    in the gamma spectrum are the gamma rays that do not interact with the other elements
+    in the soil. Only the scattered radiation provides us with a means to characterise
+    physical properties so the soil. Thus, if we want to infer soil density then we
+    should analyse the scattered gamma radiation from the Compton spectrum as it is
+    done with borehole density tools. With borehole tools a strong and calibrated-known
+    gamma source is used to normalise the Compton gamma count. In the case of airborne
+    radiometric we have robust procedures to calculate the in-situ source radiations
+    strength already in place. Numerical modelling of gamma radiation with GEANT4
+    to examine the possibility of measuring soil density via radiometrics on an airborne
+    platform indicates it is possible. However, leached soil horizons and very saturated
+    mediums may reduce the density estimate accuracy substantially.
+  keywords:
+    default:
+      keywords:
+        subject: Radiometrics
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-15'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7988918
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7988917
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anton-Kepic:
+    individualname: Anton Kepic
+    role: creator
+  Kepic-Anton:
+    individualname: Kepic, Anton
+    role: ''
+    organization: RoqSense, awkepic@gmail.com
+    url: ''
+content_info: {}

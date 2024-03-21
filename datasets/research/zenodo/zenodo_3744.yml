@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1056492
+  dataseturi: https://doi.org/10.5281/zenodo.1056492
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Water Quantity And Quality For Conjunctive Use In Saline Soil Problem
+    Area
+  abstract: 'The aim of research project is to evaluate quantity and
+
+    quality for conjunctive use of groundwater and surface water in lower
+
+    in the Lower Nam Kam area, Thailand, even though there have been
+
+    hints of saline soil and water. The mathematical model named
+
+    WUSMO and MIKE Basin were applied for the calculation of crop
+
+    water utilization. Results of the study showed that, in irrigation
+
+    command area, water consumption rely on various sources; rain water
+
+    21.56%, irrigation water 78.29%, groundwater and some small surface
+
+    storage 0.15%. Meanwhile, for non-irrigation command area, water
+
+    consumption depends on the Nam Kam and Nambang stream 42%,
+
+    rain water 36.75% and groundwater and some small surface storage
+
+    19.18%. Samples of surface water and groundwater were collected for
+
+    2 seasons. The criterion was determined for the assessment of suitable
+
+    water for irrigation. It was found that this area has very limited sources
+
+    of suitable water for irrigation.'
+  keywords:
+    default:
+      keywords:
+        subject: Saline soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-10-28'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1056492
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1056491
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-Mekpruksawong:
+    individualname: P. Mekpruksawong
+    role: creator
+    organization: ''
+    url: ''
+  S.-Chuenchooklin:
+    individualname: S. Chuenchooklin
+    role: creator
+    organization: ''
+    url: ''
+  T.-Ichikawa:
+    individualname: T. Ichikawa
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

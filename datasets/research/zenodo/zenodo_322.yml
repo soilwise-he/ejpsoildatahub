@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6819484
+  dataseturi: https://doi.org/10.5281/zenodo.6819484
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Degree of soil grinding by rotary roller
+  abstract: 'High-quality preparation of the soil for sowing various crops is very
+    important for obtaining optimal seedlings and creating the best conditions for
+    plant development. For this purpose it is necessary to have in the top layer of
+    soil not less than 50...60 percent of structural units with the size of particles
+    of 0,25 ... 10 millimeters. To reduce the energy consumption of the process and
+    improve the quality of tillage based on knowledge of the physical and mechanical
+    properties of the soil, it is necessary to use such methods of deformation so
+    that cutting resistance is minimal, and working bodies create multidirectional
+    deformations due to several methods of soil monolith destruction. Today, tillage
+    implements with active working bodies are widely used for surface tillage. The
+    most common rotary soil looseners. Therefore, when designing these tools and their
+    working bodies should be borne in mind that they must primarily provide high quality
+    tillage, the ability to change the mode of cutting the soil in a wide range. The
+    analysis of structural and technological schemes of rotary soil looseners and
+    the process of their work showed that the greatest influence on the technological
+    process of loosening have the following parameters: width, working speed, rotor
+    shaft speed, number of working knives, pitch of knives its geometric characteristics.
+    It is from these parameters primarily depends on the deformation of the soil and
+    the reduction of cutting resistance. If we compare tillage tools for surface tillage,
+    the best quality of soil preparation for sowing cereals is provided by active
+    working bodies, but they also have certain disadvantages: insufficient earning
+    of stubble and crop residues in the soil, high energy consumption, complex design.
+    Therefore, the study of structural parameters of the leavening agent and their
+    dependence on the physical and mechanical properties of the soil is a topical
+    issue today. The aim of our research is to analyze and optimize the design and
+    technological parameters of the rotary soil loosener and their impact on the degree
+    of grinding of the soil during its surface cultivation for sowing of different
+    crops. The study is based on the methods of mathematics and theoretical mechanics
+    The result of the research is the optimization of the parameters of the rotary
+    ripper and their influence on the degree of soil grinding.'
+  keywords:
+    default:
+      keywords:
+        subject: degree of soil grinding
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2022-03-22'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6819484
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6819483
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zamoysky-S.M.:
+    individualname: Zamoysky, S.M.
+    role: creator
+    organization: Khmelnytskyi National University
+    url: ''
+  Bilyk-Y.M.:
+    individualname: Bilyk, Y.M.
+    role: creator
+    organization: Khmelnytskyi National University
+    url: https://orcid.org/0000-0002-3808-4583
+  Kurskoy-V.S.:
+    individualname: Kurskoy, V.S.
+    role: creator
+    organization: Khmelnytskyi National University
+    url: https://orcid.org/0000-0002-3929-884X
+  Lukianiyk-M.V.:
+    individualname: Lukianiyk, M.V.
+    role: creator
+    organization: Khmelnytskyi National University
+    url: ''
+  Gerasimenko-V.O.:
+    individualname: Gerasimenko, V.O.
+    role: creator
+    organization: Sumy National Agrarian University
+    url: https://orcid.org/0000-0001-5875-8517
+content_info: {}

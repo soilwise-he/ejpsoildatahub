@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5937254
+  dataseturi: https://doi.org/10.5281/zenodo.5937254
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Sorption of Carbofuran (2,3-Dihydro-2,2-dimethylbenzofuranylmethylcarbamate)
+    by Soil
+  abstract: Department of Agricultural Chemistry &amp; Soil Science, Faculty of Agriculture,
+    Bidhan Chandra Krishi Viswavidyalaya, Mohanpur-741 252 <em>Manuscript received
+    28 June 1996, revised 3 April 1997, accepted 23 October 1997</em> Sorption of
+    the insecticide Carbofuran by four different soils of West Bengal have been investigated.
+    Adsorption equilibria studies indicated that adsorption of the insecticide by
+    soil was complete within 3 h. The adsorption isotherm yielding S-shaped curve
+    could be described by Frundlich equation. The order of adsorption capacity (K)
+    of the soils for Carbofuran has been evaluated from the values of constant K and
+    1/<em>\(n\)</em>. Freundlich K values have been correlated with organic matter
+    (<em>r </em>= 0.951) and surface area (<em>r</em> = 0.957) of the soils. Thermodynamic
+    parameters have been evaluated which indicate the process to be spontaneous but
+    more or less physical in nature.
+  keywords:
+    default:
+      keywords:
+        subject: soils
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1998-06-30'
+    publication: '1998'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5937254
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5937253
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  TAMAL-K.-JANA:
+    individualname: TAMAL K. JANA
+    role: creator
+    organization: ''
+    url: ''
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

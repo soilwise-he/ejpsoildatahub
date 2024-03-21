@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.831481
+  dataseturi: https://doi.org/10.5281/zenodo.831481
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Provenance And Soil Type On The Growth Of Tectona Grandis Linn
+  abstract: '<em>The forest has been very useful to man as he obtains food, shelter,
+    revenue, energy etc. from it. However, increase in demand for forest products
+    has resulted in over exploitation and extinction of some forest trees. Therefore,
+    there is an urgent need of supplying improved seeds for afforestation and forest
+    regeneration in various forestry establishments. Nursery experiment was carried
+    out to investigate the effect of provenance and soil type on the growth of Tectona
+    grandis. Seeds were collected from different locations in three different states
+    namely: Ekiti, Osun and Oyo State. Seeds were collected from Ado-Ekiti, Ekiti
+    State; Iwo, Osun State and Ibadan, Oyo State. The seeds were pre-treated by soaking
+    in the stream for two weeks before planting. The seeds were broadcasted on a germination
+    bed at the college nursery and later, were transplanted into polythene pots containing
+    the different soil types. The parameters assessed include total height, stem diameter
+    and leaf production. Tectona grandis seeds collected from Oyo State and grown
+    on loamy soil (T6) gave the best result in both total height and stem diameter
+    (10.22 cm and 0.20 cm respectively) while Teak seeds collected from Oyo State
+    and raised on sandy soil gave the best result for leaf count (8.17). The seeds
+    collected from Oyo State performed better on sandy soil, best on loamy soil and
+    less on clay soil. Seeds collected from Ekiti performed well in total height on
+    loamy soil (9.48 cm), in stem diameter on sandy soil (0.17 cm) and in number of
+    leaves both in sandy and clay soil (7.25). The seeds collected from Osun State
+    performed well in total height and stem diameter on loamy soil (9.97 cm and 0.19
+    cm respectively) and had the same value for number of leaves in the three soil
+    samples (7.08). Based on the findings of this work, it is hereby recommended that
+    Tectona grandis seedlings should be raised using loamy soil at nursery stage.
+    Also seeds of Tectona grandis should be collected from a location of similar geographical
+    properties.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Tectona grandis, provenance, Soil, Growth, Seed
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-07-18'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.831481
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.831480
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ojo-M.O.:
+    individualname: Ojo, M.O.
+    role: creator
+    organization: Federal College of Forestry, Ibadan, Nigeria
+    url: ''
+content_info: {}

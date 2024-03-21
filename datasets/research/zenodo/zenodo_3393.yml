@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3366954
+  dataseturi: https://doi.org/10.5281/zenodo.3366954
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Modification of Expansive Soil Using Recycled Plastic Bottle Chips
+  abstract: Due to rapid growth in population and urbanization, consumption of plastic
+    is increasing day by day. Expansive soil a type of problematic soil is risky that
+    has high compressibility, low shear strength and high permeability. In this research,
+    expansive soil was stabilized using recycled plastic chips. Used plastic bottles
+    were collected and altered into plastic chips and then mixed up with expansive
+    soil 5%, 10% and 15%. After that laboratory tests such as specific gravity and
+    direct shear test were performed. It was seen that specific gravity was increased
+    gradually after mixing plastic chips and shear strength was increased effectively
+    for 15% plastic chips addition.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3366954
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3366953
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A-S-M-Fahad-Hossain:
+    individualname: A S M Fahad Hossain
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology (AUST), Dhaka, Bangladesh
+    url: ''
+  Nasima-Sultana:
+    individualname: Nasima Sultana
+    role: creator
+  Shotodru-Bhowmic:
+    individualname: Shotodru Bhowmic
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology (AUST), Dhaka, Bangladesh
+    url: ''
+  Md-Shahidul-Hoque:
+    individualname: Md Shahidul Hoque
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology (AUST), Dhaka, Bangladesh
+    url: ''
+  Farjana-Akter-Shantana:
+    individualname: Farjana Akter Shantana
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology (AUST), Dhaka, Bangladesh
+    url: ''
+  Sultana-Nasima:
+    individualname: Sultana, Nasima
+    role: ''
+    organization: Lecturer, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology (AUST), Dhaka, Bangladesh
+    url: ''
+content_info: {}

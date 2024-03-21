@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KIM_2022
+  dataseturi: https://doi.org/10.11646/phytotaxa.532.3.6
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Porphyrosiphon annulatus sp. nov. (Oscillatoriales, Cyanobacteria) isolated
+    on moist soil in Suwon, Republic of Korea
+  abstract: 'Kim, Do-Hyun, Lee, Nam-Ju, Yoon, Sung-Ro, Kim, Taehee, Ki, Jang-Seu,
+    Lee, Ok-Min (2022): Porphyrosiphon annulatus sp. nov. (Oscillatoriales, Cyanobacteria)
+    isolated on moist soil in Suwon, Republic of Korea. Phytotaxa 532 (3): 288-300,
+    DOI: 10.11646/phytotaxa.532.3.6'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Cyanobacteria
+      - Cyanophyceae
+      - Nostocales
+      - Oscillatoriaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Porphyrosiphon annulatus sp. nov. (Oscillatoriales, Cyanobacteria) isolated
+      on moist soil in Suwon, Republic of Korea
+    url: http://dx.doi.org/10.11646/phytotaxa.532.3.6
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kim-Do-Hyun:
+    individualname: Kim, Do-Hyun
+    role: creator
+  Lee-Nam-Ju:
+    individualname: Lee, Nam-Ju
+    role: creator
+  Yoon-Sung-Ro:
+    individualname: Yoon, Sung-Ro
+    role: creator
+  Kim-Taehee:
+    individualname: Kim, Taehee
+    role: creator
+  Ki-Jang-Seu:
+    individualname: Ki, Jang-Seu
+    role: creator
+  Lee-Ok-Min:
+    individualname: Lee, Ok-Min
+    role: creator
+  KIM-DO-HYUN:
+    individualname: KIM, DO-HYUN
+    role: creator
+  LEE-NAM-JU:
+    individualname: LEE, NAM-JU
+    role: creator
+  YOON-SUNG-RO:
+    individualname: YOON, SUNG-RO
+    role: creator
+  KIM-TAEHEE:
+    individualname: KIM, TAEHEE
+    role: creator
+  KI-JANG-SEU:
+    individualname: KI, JANG-SEU
+    role: creator
+  LEE-OK-MIN:
+    individualname: LEE, OK-MIN
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

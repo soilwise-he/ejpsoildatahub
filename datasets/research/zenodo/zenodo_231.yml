@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6463703
+  dataseturi: https://doi.org/10.5281/zenodo.6463703
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Termite mound impact on soil properties
+  abstract: 'Termites are one of the dominant groups of soil macrofauna in the tropics.
+    Termites belong to the order Isoptera, a group of cellulose-eating insects that
+    build mounds to live. The structure of the termite mounds is complicated and has
+    an extensive system of tunnels. There is a variety of shapes and sizes. The mound
+    is constructed by the soil, termite saliva and dung. Though the mound appears
+    to be in definite structure, it is porous in nature. Termite mounds can be observed
+    in common fields may have a good source of nutrition. There are some evidences
+    for the available plant nutrients in the soil, which are discussed hereunder:'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-04-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6463703
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6463702
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hemalatha-S:
+    individualname: Hemalatha, S
+    role: creator
+    organization: Assistant Professor (SS&AC), Kumaraguru Institute of Agriculture
+      Sakthi Nagar, Erode
+    url: ''
+  Kasthuri-Thilagam-V:
+    individualname: Kasthuri Thilagam, V
+    role: creator
+    organization: "Scientist, ICAR \u2013Indian Institute of Soil and Water Conservation,\
+      \ Research Centre, Udhagamandalam"
+    url: ''
+content_info: {}

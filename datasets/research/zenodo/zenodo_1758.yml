@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3421087
+  dataseturi: https://doi.org/10.5281/zenodo.3421087
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: The Database of the Subsoil in Flanders (DOV) related to soil and archaeological
+    research.
+  abstract: <strong>ABSRACT:</strong> Soil data in Flanders are included in the DOV
+    soil database available to all users. As such, the work done by soil surveyors
+    and scientists is still very relevant today. This paper explains what kind of
+    soil data are included in DOV and how they can be consulted. The aim of DOV is
+    to become the reference for sharing data, knowledge and services, about the soil
+    and subsoil of Flanders. It concerns open data, which can be integrated and linked
+    to other data sources. In addition to raw data, DOV offers professional knowledge
+    and interpreted information, as well as the services and applications to activate
+    and mobilize these data.
+  keywords:
+    default:
+      keywords:
+        subject: soil, soil data, database, DOV, soil profile, soil map, soil heritage,
+          photographs, erosion, soil organic carbon content, landslides, archaeological
+          research
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3421087
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.3421086
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Publisher-Raakvlak-Archaeology-Monuments:
+    individualname: Publisher Raakvlak Archaeology, Monuments
+    role: creator
+  Landscapes-of-Bruges:
+    individualname: Landscapes of Bruges
+    role: creator
+  Hinterland-Belgium--www.raakvlak.be:
+    individualname: Hinterland, Belgium , www.raakvlak.be
+    role: creator
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: creator
+    organization: Flemish government, Department of Environment, Flemish Planning
+      Bureau for the Environment and Spatial Development (VPO), Brussels, Belgium
+    url: ''
+  V.-Vanwesenbeeck-Veerle:
+    individualname: V. Vanwesenbeeck, Veerle
+    role: creator
+    organization: Flemish government, Department of Environment, Flemish Planning
+      Bureau for the Environment and Spatial Development (VPO), Brussels, Belgium
+    url: ''
+  Van-Damme-M.:
+    individualname: Van Damme, M.
+    role: creator
+    organization: Flemish government, Department of Environment, Flemish Planning
+      Bureau for the Environment and Spatial Development (VPO), Brussels, Belgium
+    url: ''
+  Buyle-S:
+    individualname: Buyle, S
+    role: creator
+    organization: Flemish government, Department of Environment, Flemish Planning
+      Bureau for the Environment and Spatial Development (VPO), Brussels, Belgium
+    url: ''
+content_info: {}

@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: VUJA_I__2023
+  dataseturi: https://doi.org/10.26471/cjees/2023/018/267
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'NITIAL RESULTS OF COMPARATIVE ASSESSMENT OF SOIL EROSION INTENSITY USING
+    THE WIntErO MODEL: A CASE STUDY OF POLIMLJE AND SHIRINDAREH DRAINAGE BASINS'
+  abstract: "&lt;p&gt;&nbsp;&lt;/p&gt;\n\n&lt;p&gt;&nbsp;&lt;strong&gt;Abstract: &lt;/strong&gt;This\
+    \ work aims to determine the current state of sediment production and propose\
+    \ land use measures that will affect the reducing the intensity of soil erosion\
+    \ for the areas of the Polimlje drainage basin on the territories of Montenegro\
+    \ and Serbia, and the small Shirindareh sub-basin of Iran. The approach is based\
+    \ on field and laboratory methods, which are processed by Web-based Intensity\
+    \ of Erosion and Outflow (WIntErO)model used to calculate erosion intensity. By\
+    \ using the computer-graphical method of the &quot;WIntErO&quot; software, in\
+    \ the study of erosion intensity, surface values (watershed surface, surface between\
+    \ isohypsies, etc.) and length, i.e. deviations from the map (length of the main\
+    \ watercourse, length of the watershed line, etc.) is processed very precisely,\
+    \ which was not the case before when using mechanical instruments, planimeters\
+    \ and curvimeters. The new WIntErO model is an integrated computer-graphic program\
+    \ package of the third-generation method based on the earlier generations of the\
+    \ modelling tools &quot;River basins&quot;, and IntErO and calculates the amount\
+    \ of sediment, the intensity of soil erosion, as well as the maximum runoff from\
+    \ the basin, according to the EPM model of Gavrilovi\u0107.During the procedure,\
+    \ an accuracy assessment is conducted with measurements of reservoir sediment\
+    \ deposition. These measurements were performed in April 2017 using professional\
+    \ hydrographic recording equipment, following the same methodology as in 2012.\
+    \ The measurement of point locations was conducted using a GPS receiver and a\
+    \ Trimble R6 base station. The reservoir&#39;s depth was measured using a single-frequency\
+    \ portable echo sounder, specifically the Odom Hydro Track. The initial assessment\
+    \ shows fairly acceptable results of the implemented WIntErO modelling for both\
+    \ study areas. Z coefficient values ranging from 0.01 to 1.00 for the observed\
+    \ period indicate that the river basins delineate areas with varying levels of\
+    \ susceptibility to water erosion processes&mdash;ranging from very low to moderate\
+    \ and high risk&mdash;within the studied drainage basins. Based on the analysis,\
+    \ we found that the average erosion intensity in Polimlje is 331.78 m&sup3; km\u207B\
+    &sup2; year\u207B&sup1; per square kilometer. For the Shirindareh sub-basins,\
+    \ the average actual soil losses per square kilometer are 201 m&sup3; year\u207B\
+    &sup1; km\u207B&sup2;. Given these findings, it is evident that these basins require\
+    \ prompt implementation of soil conservation measures&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - drainage basins
+      - WIntErO
+      - erosion
+      - Polimlje Basin
+      - Shirindareh Basin
+      - hydro-climatic factor
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'NITIAL RESULTS OF COMPARATIVE ASSESSMENT OF SOIL EROSION INTENSITY USING
+      THE WIntErO MODEL: A CASE STUDY OF POLIMLJE AND SHIRINDAREH DRAINAGE BASINS'
+    url: http://dx.doi.org/10.26471/cjees/2023/018/267
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dusko-VUJACIC:
+    individualname: "Du\u0161ko VUJA\u010CI\u0106"
+    role: creator
+  Ivica-MILEVSKI:
+    individualname: Ivica MILEVSKI
+    role: creator
+  Dragica-MIJANOVIC:
+    individualname: "Dragica MIJANOVI\u0106"
+    role: creator
+  Filip-VUJOVIC:
+    individualname: "Filip VUJOVI\u0106"
+    role: creator
+  Tin-LUKIC:
+    individualname: "Tin LUKI\u0106"
+    role: creator
+  VUJACIC-Dusko:
+    individualname: "VUJA\u010CI\u0106, Du\u0161ko"
+    role: creator
+  MILEVSKI-Ivica:
+    individualname: MILEVSKI, Ivica
+    role: creator
+  MIJANOVIC-Dragica:
+    individualname: "MIJANOVI\u0106, Dragica"
+    role: creator
+  VUJOVIC-Filip:
+    individualname: "VUJOVI\u0106, Filip"
+    role: creator
+  LUKIC-Tin:
+    individualname: "LUKI\u0106, Tin"
+    role: creator
+  Asociatia-Carpatica-de-Mediu-si-Stiintele-Pamantului:
+    individualname: Asociatia Carpatica de Mediu si Stiintele Pamantului
+    role: creator
+content_info: {}

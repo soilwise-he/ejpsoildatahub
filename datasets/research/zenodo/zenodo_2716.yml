@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8216523
+  dataseturi: https://doi.org/10.5281/zenodo.8216523
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Carbone and Visual Structure Indicators in Soil Health Assessment After No-Till
+    Adoption Under Agro-Pedological Context in Algeria
+  abstract: 'Soil health indicators are a set of measurable and interpretable chemical,
+    physical and biological parameters related to soil functional processes that can
+    be used to assess the state of soil health under different agroecosystems. Multiple
+    indicators are examined in the case of soil health assessment after adoption no-till
+    system such as, total carbon and its fractions, nitrogen, bulk density, aggregate
+    stability and infiltration of water. In this chapter, we use organic carbon (particulate,
+    associated and microbial) and visual structure indicators to assess soil health
+    after a short and long duration of adoption no-till by depth under agro-pedo-climate
+    context in Algeria. Three plots submitted in NT to different transition durations
+    (3, 6 and 9 years) and a control plot submitted in CT were studied. Soil samples
+    were taken at two depths (H1: 0-10 and H2: 10-20 cm). Analytical results showed
+    that indicators in the surface horizon were significantly (p&lt;0.05) improved
+    by increasing the NT transition duration, especially during the longest transition
+    durations. The particulate organic carbon is the most sensitive soil indicator
+    of the gradual no-till transition. The multiple correlation study showed that
+    the evolution of the selected soil indicators is similar between the transition
+    durations (3, 6 and 9 years) in H1. Or, in H2, the evolution of these indicators
+    is similar only between the 6 and 9 year transition durations'
+  keywords:
+    default:
+      keywords:
+        subject: Structure visual, Aggregate stability, Bulk density, Microbial organic
+          carbone, Particular organic carbon, No tillage
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8216523
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8216522
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Belhadj-Abdelouahab:
+    individualname: Belhadj, Abdelouahab
+    role: creator
+    organization: "\xC9cole Nationale Sup\xE9rieure Agronomique, Laboratoire de Biologie\
+      \ des Syst\xE8mes Microbiens"
+    url: ''
+  Toumi-Mohamed:
+    individualname: Toumi, Mohamed
+    role: creator
+    organization: "Facult\xE9 des Sciences de la Nature et de la Vie, Universit\xE9\
+      \ Alger1, Algiers, Algeria"
+    url: ''
+  Mekliche-Arezki:
+    individualname: Mekliche, Arezki
+    role: creator
+    organization: "-\xC9cole Nationale Sup\xE9rieure Agronomique, avenue Hassen Badi,\
+      \ El Harrach"
+    url: ''
+  Bouras-Noureddine:
+    individualname: Bouras, Noureddine
+    role: creator
+    organization: "-Laboratoire de Biologie des Syst\xE8mes Microbiens, Ecole Normale\
+      \ Sup\xE9rieure de Kouba; D\xE9partement de Biologie, Facult\xE9 des Sciences\
+      \ de la Nature et de la Vie et Sciences de la Terre, Universit\xE9 de Ghardaia"
+    url: ''
+  Zitouni-Abdelghani:
+    individualname: Zitouni, Abdelghani
+    role: creator
+    organization: "Laboratoire de Biologie des Syst\xE8mes Microbiens, Ecole Normale\
+      \ Sup\xE9rieure de Kouba, Algiers, Algeria."
+    url: ''
+content_info: {}

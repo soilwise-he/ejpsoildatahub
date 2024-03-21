@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Walter_1991
+  dataseturi: https://doi.org/10.1016/0167-8809(91)90123-f
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Missing links: a review of methods used to estimate trophic links in soil
+    food webs'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Missing links: a review of methods used to estimate trophic links in soil
+      food webs'
+    url: http://dx.doi.org/10.1016/0167-8809(91)90123-f
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Walter-David-Evans:
+    individualname: Walter, David Evans
+    role: creator
+  Kaplan-David-T.:
+    individualname: Kaplan, David T.
+    role: creator
+  Permar-Thomas-A.:
+    individualname: Permar, Thomas A.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

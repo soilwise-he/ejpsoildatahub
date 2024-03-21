@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1340470
+  dataseturi: https://doi.org/10.5281/zenodo.1340470
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of Shear Strength Parameters Of Rudsar Sandy Soil Stabilized With
+    Waste Rubber Chips
+  abstract: The use of waste rubber chips not only can be of great importance in terms
+    of the environment, but also can be used to increase the shear strength of soils.
+    The purpose of this study was to evaluate the variation of the internal friction
+    angle of liquefiable sandy soil using waste rubber chips. For this purpose, the
+    geotechnical properties of unmodified and modified soil samples by waste lining
+    rubber chips have been evaluated and analyzed by performing the triaxial consolidated
+    drained test. In order to prepare the laboratory specimens, the sandy soil in
+    part of Rudsar shores in Gilan province, north of Iran with high liquefaction
+    potential has been replaced by two percent of waste rubber chips. Samples have
+    been compressed until reaching the two levels of density of 15.5 and 16.7 kN/m<sup>3</sup>.
+    Also, in order to find the optimal length of chips in sandy soil, the rectangular
+    rubber chips with the widths of 0.5 and 1 cm and the lengths of 0.5, 1, and 2
+    cm were used. The results showed that the addition of rubber chips to liquefiable
+    sandy soil greatly increases the shear resistance of these soils. Also, it can
+    be seen that decreasing the width and increasing the length-to-width ratio of
+    rubber chips has a direct impact on the shear strength of the modified soil samples
+    with rubber chips.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-04'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1340470
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1340469
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  M.-Hamidzadeh:
+    individualname: M. Hamidzadeh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

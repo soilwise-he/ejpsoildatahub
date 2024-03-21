@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7695642
+  dataseturi: https://doi.org/10.5281/zenodo.7695642
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Soil and land management ontology reference document
+  abstract: "The Soil Mission Support (SMS) project supports the European Commission\
+    \ and the Mission Board of the Horizon Europe<br> Mission in the area of Soil\
+    \ Health and Food in delivering its objectives and related targets. It is assumed\
+    \ that the<br> Soil Mission and its related objectives and specific targets can\
+    \ only be achieved through healthy soils and for that,<br> stakeholder engagement\
+    \ is needed. Healthy soils are defined as soils that are in good chemical, biological\
+    \ and physical<br> condition and thus are able to continuously provide as many\
+    \ ecosystem services as possible (EC, 2021a). Stakeholders<br> are defined as\
+    \ those who are affected in their interest or concern by changes in soil and land\
+    \ management (Brils et al.,<br> 2022).<br> With multi-stakeholder processes, language\
+    \ and use of language is very important. The capability to understand each<br>\
+    \ other is critical. Communication difficulties originate to a large extent from\
+    \ the \u2018jargon\u2019 used in the different communities.<br> A common language\
+    \ facilitates \u2018learning together\u2019 which helps to build trust, develop\
+    \ a common view on the issues<br> at stake, resolve conflicts and arrive at joint\
+    \ solutions that are technically sound and that can be implemented in<br> practice.\
+    \ Ontology defines a common vocabulary for those who, for example, need to converse\
+    \ about a common issue<br> or share information in a specific domain.<br> In first\
+    \ instance the shared domain of discourse was defined and then at different levels\
+    \ of hierarchy:<br> \xB7 Primary objects of relevance for the domain of discourse\
+    \ were selected;<br> \xB7 The inter-relational links between these objects was\
+    \ conceptualized (conceptual model); and<br> \xB7 These objects were defined in\
+    \ a representational vocabulary (a common language).<br> The domain of discourse\
+    \ covers soil and land management aimed to achieve the first six (of the eight)\
+    \ Soil Mission<br> objectives, which are: 1. reduce desertification, 2. conserve\
+    \ soil organic carbon stocks, 3. stop soil sealing and increase<br> re-use of\
+    \ urban soils, 4. reduce soil pollution and enhance restoration, 5. prevent erosion,\
+    \ and 6. improve soil structure<br> to enhance soil biodiversity.<br> The first\
+    \ level of hierarchy covers soil and land and its use. At this level the following\
+    \ objects have been selected, interrelated<br> in a conceptual model (i.e. visual\
+    \ of soil and land-use) and defined in a common language: soil, land, landuse<br>\
+    \ and land-use types (including: urban, industrial, agriculture, forest, nature\
+    \ and protected land).<br> The second level of hierarchy covers soil management.\
+    \ At his level the following objects have been selected, interrelated<br> in a\
+    \ conceptual soil management model and defined in a common language: soil management\
+    \ (including: soil<br> management strategy, measures, program of measures), soil\
+    \ ecosystems (including: ecosystem services, pressures,<br> healthy soil ecosystems),\
+    \ users (stakeholders) and information.<br> Lastly, the third level of hierarchy\
+    \ covers the achievement of the first six Soil Mission objectives. At this level\
+    \ the<br> most relevant objects related to each of these objectives are selected\
+    \ and interrelated to their position in the DPSIR<br> (Drivers-Pressures-State-Impact-Response)\
+    \ framework which is at this 3rd level superimposed on the soil management<br>\
+    \ model as used for level 2.<br> The remaining two Soil Mission objectives, i.e.\
+    \ 7. reduce the EU global footprint on soils and 8. improve soil literacy in<br>\
+    \ society, do not directly relate to the actual management of soil and land. However,\
+    \ also for these mission objectives<br> some important objects have been selected\
+    \ and defined in a common language.<br> Experts in the SMS project \u2013 jointly\
+    \ covering the fields of expertise related to all the 8 Soil Mission objectives\
+    \ \u2013 developed<br> this ontology. This ontology should now be used in soil\
+    \ policy and management practice, such as Living Labs. In<br> such settings, the\
+    \ ontology can be improved through interaction with stakeholders from different\
+    \ backgrounds, further<br> increasing its value.<br> The key-recommendations are:<br>\
+    \ \xB7 use this ontology in soil policy and management practice (e.g. Living Labs)<br>\
+    \ \xB7 soil policy makers and managers should promote its use in such practice<br>\
+    \ \xB7 use the feedback from stakeholders to further improve the ontology<br>\
+    \ In support of the dissemination of this document a policy brief is prepared\
+    \ and attached as annex in this document.<br> Both documents are made publicly\
+    \ available via de SMS website: https://www.soilmissionsupport.eu/outputs"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-02-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7695642
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7695641
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nougues-Laura:
+    individualname: Nougues, Laura
+    role: creator
+    organization: ''
+    url: ''
+  Brils-Jos:
+    individualname: Brils, Jos
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4108420
+  dataseturi: https://doi.org/10.5281/zenodo.4108420
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: PRODUCTION AND CHARACTERIZATION OF LACCASE FROM ASPERGILLUS TERREUS ISOLATED
+    FROM SAW MILL SOIL OF OSMANABAD
+  abstract: "The novel fungal laccase was produced from <em>Aspergillus terreus</em><strong>\
+    \ </strong>\u2013S19 isolated from saw mill soil of Osmanabad. The enzyme laccase\
+    \ was produced in solid state fermentation by incubating fungal strain up to 96h\
+    \ incubation, and partially purified by the sequential method of Ammonium sulphate\
+    \ precipitation followed by nominal molecular weight limit (NMWL)<strong> </strong>cut-off\
+    \ ultra filtration using 30K filters. The partially purified enzyme showed 91.08\
+    \ U/L of enzyme activity. The molecular weight of the enzyme was confirmed about\
+    \ 56.0 kilodalton (kDa) by the SDS-PAGE analysis. The partially purified enzyme\
+    \ showed excellent activity at pH 5.0 and temperature 30<sup>0</sup>C. The enzyme\
+    \ activity enhanced in the presence of Cu<sup>2+</sup>, Ca<sup>2+</sup>, surfactants\
+    \ and organic acids, whereas; the L-cysteine completely inhibit the enzymatic\
+    \ activity. In conclusion, the novel laccase enzyme obtained from <em>Aspergillus\
+    \ terreus</em><strong> </strong>\u2013S19 explored the promising candidature for\
+    \ the several potential applications in the decolourization of dyes, degradation\
+    \ of lignin, pigment xenobiotics, pulp and paper industries, food industries,\
+    \ wine clarification, and several other industrial processes."
+  keywords:
+    default:
+      keywords:
+        subject: Fungal laccase Aspergillus terreus Dye decolourization
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-09-15'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4108420
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4108419
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sabina-Shaikh:
+    individualname: Sabina Shaikh
+    role: creator
+  Innus-Shaikh-and-Prashant-Dixit:
+    individualname: Innus Shaikh and Prashant Dixit
+    role: creator
+  Shaikh-Sabina:
+    individualname: Shaikh, Sabina
+    role: ''
+    organization: Department of Microbiology, Dr. Babasaheb Ambedkar Marathwada University,
+      Sub campus, Osmanabad, India.
+    url: ''
+  Innus-Shaikh-And-Prashant-Dixit:
+    individualname: Innus Shaikh And Prashant Dixit
+    role: ''
+    organization: Deparment of Antitoxin and Sera, Haffkine Biopharmaceutical Corporation
+      Limited, Pune, India.
+    url: ''
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1226623
+  dataseturi: https://doi.org/10.5281/zenodo.1226623
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Study On Effect Of Adding Eps Beads In Soil And Concrete
+  abstract: "The disposal problem of EPS waste is increasing, the use of it in the\
+    \ field of civil engineering gives an environmental friendly solution. This paper\
+    \ contains the review of composite material of soil and EPS, and its application\
+    \ in the field of geotechnical engineering. It also contains review on replacement\
+    \ of natural sand with EPS in concrete, and their application\n\n \n\nKeywords:\
+    \ EPS beads, EPS beads in soil, EPS beads in concrete."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-04-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1226623
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1226622
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pranali-Nikure:
+    individualname: Pranali Nikure
+    role: creator
+    organization: ''
+    url: ''
+  Kaushal-Prajapati:
+    individualname: Kaushal Prajapati
+    role: creator
+  Vishal-Barapatre:
+    individualname: Vishal Barapatre
+    role: creator
+    organization: ''
+    url: ''
+  Prajapati-Kaushal:
+    individualname: Prajapati, Kaushal
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8429553
+  dataseturi: https://doi.org/10.5281/zenodo.8429553
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EVALUATING REFLECTIVE SPECTROSCOPY FOR PREDICTING SOIL PROPERTIES IN GAJAPATI
+    DISTRICT, ODISHA
+  abstract: <strong>Abstract</strong> Visible near-infrared spectroscopy, renowned
+    for its non-destructive nature, rapidity, cost-efficiency, and minimal sample
+    preparation requirements, holds promise as a substitute for in vitro techniques.
+    This ongoing study aims to evaluate the viability of reflective spectroscopy for
+    predicting soil properties in ion farming plains across Gajapati district Odisha.
+    A meticulous collection of 110 soil samples from these regions formed the basis,
+    with their core attributes established using conventional in vitro methods. Employing
+    a land spectroscopic device, the soil samples underwent spectral analysis within
+    the wavelength band of 240 to 400 nm. Following spectrum recording, diverse pre-processing
+    approaches were assessed, paving the way for the application of PCA (Principal
+    Component Analysis) and PLSR (Partial Least Squares Regression) models to decipher
+    pivotal soil properties. The superior model choice was subsequently employed to
+    formulate regressive functions, facilitating the prediction of targeted parameters
+    through linear regression. Findings spotlight the precision of both PCA and PLSR
+    models in elucidating soil properties, with the latter displaying heightened accuracy.
+    Evaluated using the RPD (Ratio of Performance to Deviation) metric, the most accurate
+    estimations were achieved for minerals (RPD=9.34), pH (RPD=4.45), and nitrogen
+    (RPD&gt;2), all classified within category A. In contrast, accuracy proved lower
+    for variables like clay, silt, gravel, phosphorus, potassium, calcium, magnesium,
+    and gypsum, where RPD values ranged between 0.01 and 0.28. These values collectively
+    affirm the satisfactory precision of spectral regressive functions in forecasting
+    the targeted foundational properties. In summary, outcomes of this study underscore
+    the commendable precision of both PCA and PLSR models in determining crucial soil
+    parameters. Moreover, soil spectral data emerges as an effective indirect means
+    to estimate the physical and chemical attributes of soil. Compared to conventional
+    laboratory methods, this technique emerges as a more cost-effective alternative,
+    enhancing efficiency in terms of both time and cost while maintaining heightened
+    precision.
+  keywords:
+    default:
+      keywords:
+        subject: Soil spectral pre-processing, soil properties, PCA and PLSR linear
+          regressions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8429553
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8429552
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  RAHUL-ADHIKARY:
+    individualname: RAHUL ADHIKARY
+    role: creator
+    organization: Assistant Professor, Department of Soil Science, Centurion University
+      of Technology and Management, Odisha, 761211, India.
+    url: ''
+  SATYA-NARAYAN-SATAPATHY:
+    individualname: SATYA NARAYAN SATAPATHY
+    role: creator
+    organization: Assistant Professor, Department of Entomology, Faculty of Agricultural
+      Sciences, Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar, Odisha,
+      India
+    url: ''
+  BISWAJIT-LENKA:
+    individualname: BISWAJIT LENKA
+    role: creator
+    organization: Assistant Professor, Department of Genetics and Plant Breeding,
+      Faculty of Agricultural Sciences, Siksha 'O' Anusandhan Deemed to be University,
+      Bhubaneswar, Odisha, India
+    url: ''
+  ASIT-PRASAD-DASH:
+    individualname: ASIT PRASAD DASH
+    role: creator
+    organization: Associate Professor, Department of Genetics and Plant Breeding,
+      Faculty of Agricultural Sciences, Siksha 'O' Anusandhan Deemed to be University,
+      Bhubaneswar, Odisha, India
+    url: ''
+  RAJESH-KUMAR-KAR:
+    individualname: RAJESH KUMAR KAR
+    role: creator
+    organization: Assistant Professor, Department of Genetics and Plant Breeding,
+      Faculty of Agricultural Sciences, Siksha 'O' Anusandhan Deemed to be University,
+      Bhubaneswar, Odisha, India.
+    url: ''
+  SUBHAM-ACHARYA:
+    individualname: SUBHAM ACHARYA
+    role: creator
+    organization: Assistant Professor, Department of Agronomy, Faculty of Agricultural
+      Sciences, Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar, Odisha,
+      India.
+    url: ''
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6154667
+  dataseturi: https://doi.org/10.5281/zenodo.6154667
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Molybdenum in Soil using Sodium Pentamethylene Dithiocarbamate
+  abstract: Department of Chemistry, S. V. University. Tirupati- 517 502 <em>Manuscript
+    received 8 August 1990, revised 15 January 1991, accepted 28 March 1991</em> Determination
+    of Molybdenum in Soil using Sodium Pentamethylene Dithiocarbamate.
+  keywords:
+    default:
+      keywords:
+        subject: Molybdenum
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1991-03-31'
+    publication: '1991'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6154667
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6154666
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.-V-RAMANA:
+    individualname: V. V, RAMANA
+    role: creator
+    organization: ''
+    url: ''
+  K.-SANTHA:
+    individualname: K. SANTHA
+    role: creator
+    organization: ''
+    url: ''
+  M.-DASARATHA-RAMAIAH:
+    individualname: M. DASARATHA RAMAIAH
+    role: creator
+    organization: ''
+    url: ''
+  K.-SARASWATHI:
+    individualname: K. SARASWATHI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

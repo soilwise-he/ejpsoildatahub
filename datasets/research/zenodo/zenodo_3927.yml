@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2574361
+  dataseturi: https://doi.org/10.5281/zenodo.2574361
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparison of ESLRM, MSLM and USLE Soil Loss Models in Imo River Basin in
+    Eastern Nigeria
+  abstract: '<em>The models Mechanized Soil Loss Model (MSLM) and Empirical Soil Loss
+    Regression Model (ESLRM) were compared in line with USLE on average gully erosion
+    sites in Imo River Basin in Eastern Nigeria. MSLM was based on the shear stress
+    of the soil with equations of gully, rill and interrill erosions were incorporated
+    into the model. While ESLRM was a regression analysis with the following parameters:
+    rainfall intensity, slope of catchment, duration of rainfall, bulk density of
+    soil, catchment area, organic matter and clay content. The models were applied
+    in estimating soil loss in the average sub-catchment and compared with soil loss
+    estimated from Universal Soil Loss Equation USLE. On the average sub-catchment
+    in Imo river basin has the same values on the following parameters; slope S<sub>o</sub>,
+    density </em><em>r</em><em>, catchment area A, organic content O and clay content
+    C as 3.945%, 19.73kN/m<sup>3</sup>, 1374100m<sup>2</sup>, 24.97% and 11.25% respectively
+    while rainfall intensity and duration varies from January to December. The minimum
+    value of rainfall intensity is 0.85510836mm/min and Maximum value of 37.5069723mm/min
+    for the month of December and September respectively. The duration was also varying
+    from January to December depend on the climatic record. The comparison of the
+    models was done by plotting MSLM and USLE model against ESLRM and they gave a
+    linear soil loss equation with coefficient of determinations R<sup>2</sup> of
+    0.863 and 0.911 respectively. Their R<sup>2</sup> percentage error was approximately
+    5%. Then plotting the models against months of the year yield a sum total amount
+    of soil loss in ton/km<sup>2</sup>/year on ESLRM, MSLM and USLE produced 120.784,
+    146.4176 and 129.8045 respectively with their R<sup>2</sup> as 0.935, 0.982 and
+    0.986 in their polynomial of six order while the area of the average sub-catchment
+    and SCS unit runoff are the same. Considering the R<sup>2</sup> USLE has the perfect
+    relation followed by MSLM and ESLRM which has irregular shape of true natural
+    occurrence of soil loss and is highly recommended</em><em>.</em>'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-02-20'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2574361
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2574360
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ibearugbulem-O.-H.:
+    individualname: Ibearugbulem, O. H.
+    role: creator
+    organization: ''
+    url: ''
+  Osuagwu-J.C.:
+    individualname: Osuagwu, J.C.
+    role: creator
+    organization: ''
+    url: ''
+  Nwoke-H.U.:
+    individualname: Nwoke, H.U.
+    role: creator
+    organization: ''
+    url: ''
+  Igwegbe-W.E.:
+    individualname: Igwegbe, W.E.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

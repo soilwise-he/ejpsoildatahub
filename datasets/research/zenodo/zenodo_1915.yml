@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6471363
+  dataseturi: https://doi.org/10.5281/zenodo.6471363
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Estimating fundamental site frequency and soil thickness using the HVSR method
+    on Wolfe Island, Ontario
+  abstract: 'This research was done for an undergraduate thesis project in the Department
+    of Geological Sciences and Geological Engineering at Queen''s University in Kingston.
+    It covers the application of the passive seismic HVSR method on Wolfe Island to
+    estimate fundamental site frequencies and soil thickness. Detailed summary of
+    data files and map shapefiles can be found on Github at: https://github.com/deanbucc/Wolfe-Island-HVSR-data'
+  keywords:
+    default:
+      keywords:
+        subject: Microtremor signal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-04-19'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6471363
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6471362
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bucciarelli-Dean-R:
+    individualname: Bucciarelli, Dean R
+    role: creator
+    organization: Queen's University, Kingston
+    url: ''
+content_info: {}

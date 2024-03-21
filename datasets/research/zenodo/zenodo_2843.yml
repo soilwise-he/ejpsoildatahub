@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5809767
+  dataseturi: https://doi.org/10.5281/zenodo.5809767
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation, Selection and Identification of Nitrogen Fixation Rhizospheric
+    and Endophytic Bacteria from Maize (Zea Mays L.) Grown on the Soil
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> N-free medium (Nfb,\
+    \ LGI and Burks) were used to isolate bacteria having nitrogen fixation characteristics.\
+    \ Quantitative measurement by colorimetric methods helped to select the best isolates\
+    \ of nitrogen-fixing and IAA biosynthesis. The result of isolation was a total\
+    \ of 30 rhizopheric and 150 endophytic isolates having the both abilities. Sixty\
+    \ isolates having good biofertilizer activity were chosen to study. Isolates strains\
+    \ have both nitrogen fixation produced indole-3-acetic acid (IAA) in vitro. Six\
+    \ selected isolates had 16S rDNA sequences similarities with bacterial strains\
+    \ in data of GenBank with the values ranging between 94% and 99% of similarity\
+    \ in which includes strains of Enterobacter ludwigii DNL14, Enterobacter kobei\
+    \ DNT5, Bacillus pumilus DBT4, Klebsiella pneumoniae DNR5, Lactobacillus plantarum\
+    \ DLR6, Pseudomonas nitroreducens DND5. Especially, strains of endophytic isolates\
+    \ root maize origin as Klebsiella pneumoniae DNR5 biofertilizer activities synthesized\
+    \ average highest as NH4 (5.64 mg/L) and IAA (5.29mg/L) which can be exploited\
+    \ for enhancing soil fertility and plant growth."
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5809767
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5809766
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thai-Thanh-Duoc:
+    individualname: Thai Thanh Duoc
+    role: creator
+  Nguyen-Huu-Hiep:
+    individualname: Nguyen Huu Hiep
+    role: creator
+    organization: ''
+    url: ''
+  Duoc-Thai-Thanh:
+    individualname: Duoc, Thai Thanh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

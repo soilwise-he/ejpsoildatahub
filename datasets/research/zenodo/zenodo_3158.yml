@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ilkiv_2022
+  dataseturi: https://doi.org/10.15587/1729-4061.2022.265809
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Construction of a mathematical model and numerical study of interaction between
+    moisture-, heat-, and mass transfer processes of salt solutions in an unsaturated
+    soil layer
+  abstract: '&lt;p&gt;Methods of mathematical modeling and computer simulation were
+    used to investigate the influence of interrelated processes of transfer of saline
+    solutions in the unsaturated soil layer. To this end, a mathematical model has
+    been built for modeling the corresponding processes of the moisture-, heat-, and
+    mass transfer of saline solutions in an unsaturated soil layer. An effective computational
+    algorithm was developed to solve the corresponding nonlinear boundary problem
+    numerically by the method of finite differences; it was implemented in the Asp.net
+    programming environment in the C++ language. Based on the numerical experiments
+    carried out, the distribution of moisture, concentration, and temperature fields
+    in the aeration zone (incomplete saturation) was obtained. To study the influence
+    of mass transfer of salts on moisture transfer, a numerical solution was found
+    to the problem of moisture transfer, the problem of moisture transfer taking into
+    consideration mass transfer and moisture transfer, taking into consideration mass
+    transfer in the presence of osmosis. Analysis of the results showed that the distribution
+    of the concentration of saline solutions over time is slower and more predictable.
+    It was established that the distribution of moisture heads increases with depth
+    and time when saline solutions fall on the surface of the soil massif. With the
+    influence of salt concentration, the distribution of moisture increases with depth
+    and time throughout the entire area of moisture transfer by 1&ndash;3&nbsp;%.
+    The distribution of moisture heads taking into consideration the concentration
+    of salts and osmosis is reduced by 3&ndash;5&nbsp;% compared to the results of
+    the problem without taking into consideration the phenomenon of osmosis. The distribution
+    of the concentration of saline solutions during moisture transfer and osmosis
+    acquires higher values compared to the results without taking osmosis into consideration.
+    The established features can be successfully applied to clean the fertile soil
+    layer and resume agricultural activities&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - moisture-, heat-, and mass transfer
+      - aeration zone (incomplete saturation)
+      - method of finite differences
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Construction of a mathematical model and numerical study of interaction
+      between moisture-, heat-, and mass transfer processes of salt solutions in an
+      unsaturated soil layer
+    url: http://dx.doi.org/10.15587/1729-4061.2022.265809
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ihor-Ilkiv:
+    individualname: Ihor Ilkiv
+    role: creator
+  Viktor-Zhukovskyy:
+    individualname: Viktor Zhukovskyy
+    role: creator
+  Nataliia-Zhukovska:
+    individualname: Nataliia Zhukovska
+    role: creator
+  Andrii-Safonyk:
+    individualname: Andrii Safonyk
+    role: creator
+  Ilkiv-Ihor:
+    individualname: Ilkiv, Ihor
+    role: creator
+  Zhukovskyy-Viktor:
+    individualname: Zhukovskyy, Viktor
+    role: creator
+  Zhukovska-Nataliia:
+    individualname: Zhukovska, Nataliia
+    role: creator
+  Safonyk-Andrii:
+    individualname: Safonyk, Andrii
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

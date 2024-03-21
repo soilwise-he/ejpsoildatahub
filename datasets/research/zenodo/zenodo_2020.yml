@@ -1,0 +1,121 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Shashenko_2019
+  dataseturi: https://doi.org/10.15587/1729-4061.2019.184946
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Determining the influence of physical nonlinearity of soil strength properties
+    on the estimated base resistance
+  abstract: "&lt;p&gt;The paper has examined the potential of using nonlinear models\
+    \ of strength in determining the initial critical load on soil, as well as the\
+    \ standardized and estimated base resistance, which makes it possible to reduce\
+    \ labor intensity in the process of determining the strength properties of soils.&lt;/p&gt;\n\
+    \n&lt;p&gt;Based on the analysis and generalization of results from theoretical\
+    \ studies into geomechanical processes using analytical mathematical methods,\
+    \ the formula modifications have been derived that are intended for determining\
+    \ the initial critical load on soil, as well as the standardized and estimated\
+    \ base resistances.&lt;/p&gt;\n\n&lt;p&gt;We have established interrelation between\
+    \ strength, in particular specific cohesion, and the angle of internal friction,\
+    \ which are included in the strength conditions by Mohr-Coulomb and A.&nbsp;Shashenko,\
+    \ thereby making it possible to improve the procedure for calculating external\
+    \ loads on soil.&lt;/p&gt;\n\n&lt;p&gt;The dependences of critical loads on base\
+    \ on the mean pressure under the sole of the foundation haven been analyzed in\
+    \ the range of pressure&nbsp;&lt;em&gt;\u0420&lt;/em&gt;=100...500&nbsp;kPa using\
+    \ the strength conditions by Mohr-Coulomb and A.&nbsp;Shashenko.&lt;/p&gt;\n\n\
+    &lt;p&gt;It has been established that when using generally accepted estimation\
+    \ formulae to determine the critical loads on base, it is required that the pressure\
+    \ range should be taken into consideration at which the properties of soil strength\
+    \ were determined. In this case, using the Shashenko failure criterion to determine\
+    \ critical loads on base makes it possible to properly consider the impact exerted\
+    \ by the mean pressure on them under the sole of the foundation.&lt;/p&gt;\n\n\
+    &lt;p&gt;In contrast to dependences used currently in the Ukrainian, Belarusian,\
+    \ Russian regulatory documents, as well as in other countries&rsquo; standards,\
+    \ the resulting formulae make it possible to take into consideration the dependences\
+    \ of soil strength properties on the mean pressure on soil under the sole of the\
+    \ foundation. The results obtained make it possible to improve the reliability\
+    \ of determining the initial critical load on soil, as well as the standardized\
+    \ and estimated base resistances. This is achieved by taking into consideration\
+    \ the nonlinearity of the Mohr limiting circles&rsquo; envelope using the strength\
+    \ condition by A.&nbsp;Shashenko&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - failure criteria by Mohr-Coulomb and A. Shashenko
+      - load on soil
+      - cohesion
+      - angle of internal friction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Determining the influence of physical nonlinearity of soil strength properties
+      on the estimated base resistance
+    url: http://dx.doi.org/10.15587/1729-4061.2019.184946
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Olexandr-Shashenko:
+    individualname: Olexandr Shashenko
+    role: creator
+  Vladimir-Shapoval:
+    individualname: Vladimir Shapoval
+    role: creator
+  Oleksandr-Kovrov:
+    individualname: Oleksandr Kovrov
+    role: creator
+  Alexandr-Skobenko:
+    individualname: Alexandr Skobenko
+    role: creator
+  Oleksii-Tiutkin:
+    individualname: Oleksii Tiutkin
+    role: creator
+  Kateryna-Babii:
+    individualname: Kateryna Babii
+    role: creator
+  Oleksandr-Samorodov:
+    individualname: Oleksandr Samorodov
+    role: creator
+  Sergey-Slobodianiuk:
+    individualname: Sergey Slobodianiuk
+    role: creator
+  Shashenko-Olexandr:
+    individualname: Shashenko, Olexandr
+    role: creator
+  Shapoval-Vladimir:
+    individualname: Shapoval, Vladimir
+    role: creator
+  Kovrov-Oleksandr:
+    individualname: Kovrov, Oleksandr
+    role: creator
+  Skobenko-Alexandr:
+    individualname: Skobenko, Alexandr
+    role: creator
+  Tiutkin-Oleksii:
+    individualname: Tiutkin, Oleksii
+    role: creator
+  Babii-Kateryna:
+    individualname: Babii, Kateryna
+    role: creator
+  Samorodov-Oleksandr:
+    individualname: Samorodov, Oleksandr
+    role: creator
+  Slobodianiuk-Sergey:
+    individualname: Slobodianiuk, Sergey
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

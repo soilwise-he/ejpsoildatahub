@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398986
+  dataseturi: https://doi.org/10.5281/zenodo.10398986
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Method validation and fungicide residue analysis of grain, straw and soil
+    substrates in rice ecosystem
+  abstract: Rice (Oryzae sativa) is an important, nutritional staple food for majority
+    of the global population. Non-judicious and widespread use of fungicides by farmers
+    had lead to environmental contamination posing serious threat to human and animal
+    health, thus resulting in rejection of Indian rice consignments by the European
+    Union and the USA. Hence fungicides effective against sheath blight of rice under
+    field conditions were analyzed for their residue content in substrates like paddy
+    grains, straw and soil. Calibration curve was plotted and linearity of the method
+    was established with a Correlation Coefficient range from 0.9992 to 0.9999 for
+    all the six fungicides. Results showed that all the fungicides had recoveries
+    between the range of 70-120% in all the substrates at three fortification levels.
+    Hence it can be concluded that this analytical method was suitable for residue
+    analysis of these fungicides in different rice matrices. When the treated samples
+    were analyzed, residue content was noticed but most of them showed Below Limit
+    of Detection (BLOD) except few recorded Below Limit of Quantification (BLOQ).
+    It means that even though the residues were detected for few compounds, they were
+    unable to be quantified. Hence, these fungicides are a good fit for management
+    of sheath blight of rice with no residual toxicity.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398986
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398985
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  VK:
+    individualname: VK
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  PARTHIBAN:
+    individualname: PARTHIBAN
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  KD:
+    individualname: KD
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  SANGEETHA:
+    individualname: SANGEETHA
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  I:
+    individualname: I
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  JOHNSON:
+    individualname: JOHNSON
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  R:
+    individualname: R
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  PUSHPAM:
+    individualname: PUSHPAM
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  G:
+    individualname: G
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+  KARTHIKEYAN:
+    individualname: KARTHIKEYAN
+    role: creator
+    organization: TNAU, COIMBATORE, India
+    url: ''
+content_info: {}

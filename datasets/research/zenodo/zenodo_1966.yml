@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7426376
+  dataseturi: https://doi.org/10.5281/zenodo.7426376
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Carbon Forms and Organic Matter Distribution in Arable Soils of Rigachikun,
+    Northern Kaduna, Nigeria
+  abstract: "The study was done in Rigachikun Kaduna, Northern Guinea Savanna and\
+    \ intended to investigate the carbon forms such as Organic carbon, carbon loss\
+    \ on ignition (LOI), Biomass microbial carbon (BMC) as well as organic matter\
+    \ distribution of the studied soils. A reconnaissance survey was carried out in\
+    \ the study location using the developed Digital Elevation Model (DEM). Soils\
+    \ were delineated into mapping units using the cropping land uses namely maize,\
+    \ cowpea and rice. In each of the cropping land use, three profile pits were sited\
+    \ giving a total of nine profile pits. Organic carbon contents of investigated\
+    \ soils were low and decreased down the horizon in all investigated pedons. This\
+    \ trend follows closely to organic matter which decreased in the same pattern\
+    \ with the values of organic carbon. Carbon LOI had a very highly significant\
+    \ relationship with BMC and OM, non-significantly correlated with Carbon/Nitrogen\
+    \ ratio, Clay, pH, K, Na and total exchangeable acidity (TEA). Biomass carbon\
+    \ had a negative and significant correlation with organic carbon, very highly\
+    \ and significant correlation with organic matter. BMC tolled the path of LOI\
+    \ in its relationship with other soil properties investigated. Also, all carbon\
+    \ forms (LOI, BMC, OC and OM) investigated exhibited high (CV &gt; 35%) coefficient\
+    \ of variation in all investigated locations except in pedon 3 of location B where\
+    \ BMC varied moderately and pedons 1 and 2 of Location C (Rice soils) where they\
+    \ all varied moderately (CV &gt;15 \u2264 35%). Generally organic matter content\
+    \ of the soils was very low resulting from continual use of crop litters in the\
+    \ feeding of farm animals rather than incorporating them to the soils. Soil degradation,\
+    \ erosion and desert encroachment have also affected soil of north western Nigeria\
+    \ so immensely"
+  keywords:
+    default:
+      keywords:
+        subject: Organic carbon, organic matter, carbon loss on ignition, microbial
+          biomass carbon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-12'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7426376
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7426375
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Obasi-S.-N.:
+    individualname: Obasi, S. N.
+    role: creator
+    organization: Department of Crop and Soil Sciences, Faculty of Agricultural Sciences,
+      National Open University of Nigeria, Kaduna Campus
+    url: ''
+  Jokthan-G.-E.:
+    individualname: Jokthan, G. E.
+    role: creator
+    organization: Director Africa Centre of Excellence on Technology Enhanced Learning
+      (ACETEL), National Open University of Nigeria, Abuja
+    url: ''
+  Obasi-C.-C.:
+    individualname: Obasi, C. C.
+    role: creator
+    organization: Department of Crop Science and Horticulture, Nnamdi Azikiwe University,
+      Awka Nigeria
+    url: ''
+  Madueke-O.:
+    individualname: Madueke, O.
+    role: creator
+    organization: d Department of Soil Science and Land Resources Management, Nnamdi
+      Azikiwe University, Awka Nigeria
+    url: ''
+content_info: {}

@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7482873
+  dataseturi: https://doi.org/10.5281/zenodo.7482873
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECT OF "BIST" AND "BIST-M" BIO-PREPARATIONS ON CHANGES IN THE AMOUNT OF
+    NITROGEN, PHOSPHORUS AND POTASSIUM RECEIVED BY PLANTS IN THE SOIL
+  abstract: It has been shown that salinity, which occurs in the case of agricultural
+    practices, occurs when the amount of salts formed in the root system of the plant
+    is low, and the amount of drainage water is low. The problem of low productivity
+    of saline soils is explained not only by the toxicity of salts or the damage of
+    plants by excess salt in the root tissues, but also by the lack of organic and
+    mineral substances, especially N, P and K.
+  keywords:
+    default:
+      keywords:
+        subject: ecological, microbial biological product, salinity, soil, cotton,
+          "Bist" and "BistM" biological products, reducers (destructors).
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-26'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7482873
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7482872
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ruzimova-Holida-Kamiljanovna:
+    individualname: Ruzimova Holida Kamiljanovna
+    role: creator
+    organization: Teacher of Chirchik State Pedagogical University
+    url: ''
+  Kobulova-Novruza-Marxamiddin-qiz:
+    individualname: Kobulova Novruza Marxamiddin qiz
+    role: creator
+  Kobulova-Novruza-Marxamiddin-Qiz:
+    individualname: Kobulova Novruza Marxamiddin Qiz
+    role: ''
+    organization: Master of Chirchik State Pedagogical University
+    url: ''
+content_info: {}

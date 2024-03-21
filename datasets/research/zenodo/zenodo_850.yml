@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Khatti_2021
+  dataseturi: https://doi.org/10.35940/ijrte.D6625.1110421
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Prediction of Geotechnical Properties of Soil using Artificial Intelligence
+    Framework
+  abstract: '&lt;p&gt;The present research work is carried out to predict the geotechnical
+    properties (consistency limits, OMC, and MDD) of soil using AI technologies, namely
+    regression analysis (RA), support vector machine (SVM), Gaussian process regression
+    (GPR), artificial neural networks (ANNs), and relevance vector machine (RVM).
+    The models of machine learning (SVM, GPR), hybrid learning (RVM), and deep learning
+    (ANNs) are constructed in MATLAB R2020a with different configurations. The models
+    of RA are built using the Data Analysis Tool of Microsoft Excel 2019. The input
+    parameters of AI models are gravel, sand, silt, and clay content. The correlation
+    coefficient is calculated for pair of soil datasets. The correlation shows that
+    sand, silt, and clay content play a vital role in predicting soil&#39;s liquid
+    limit and plasticity index. The performance of constructed AI models is compared
+    to determine the optimum performance models. The limited datasets of soil are
+    used in this study. Therefore, artificial neural networks and relevance vector
+    machines could not perform well. Based on the performance of AI models, the Gaussian
+    process regression outperformed the RA, SVM, ANNs, and RVM AI technologies. Hence,
+    the GPR AI approach can predict the geotechnical properties of soil by gravel,
+    sand, silt, and clay content. The Monte-Carlo global sensitivity analysis is also
+    performed, and it is observed that the prediction of geotechnical properties of
+    soil is affected by sand and clay content&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Consistency limits
+      - Deep Learning
+      - Geotechnical Properties
+      - Hybrid Learning
+      - Machine Learning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Prediction of Geotechnical Properties of Soil using Artificial Intelligence
+      Framework
+    url: http://dx.doi.org/10.35940/ijrte.D6625.1110421
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jitendra-Khatti:
+    individualname: Jitendra Khatti
+    role: creator
+  Kamaldeep-Singh-Grover:
+    individualname: Kamaldeep Singh Grover
+    role: creator
+  Khatti-Jitendra:
+    individualname: Khatti, Jitendra
+    role: creator
+  Grover-Dr.-Kamaldeep-Singh:
+    individualname: Grover, Dr. Kamaldeep Singh
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

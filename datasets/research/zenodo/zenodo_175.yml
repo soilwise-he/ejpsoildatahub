@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2574468
+  dataseturi: https://doi.org/10.5281/zenodo.2574468
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Model: Tool to Demonstrate the Effect of Different Cropping Systems
+    on Soil Conservation'
+  abstract: 'ABSTRACT: The use of soil models is applied to disseminate the importance
+    of soil cover in mitigating erosive processes. The objective of the present study
+    was to compare the effect of different systems of soil cover on the losses of
+    soil and water. For this, an experiment was carried out on soil models containing
+    soil classified as Cambisol, at a slope of 7%. The treatments were maize cultivation
+    more canola straw; canola straw; and uncovered soil. In the treatments that received
+    canola straw, there was used 40 g of straw.pot-1 , equivalent to approximately
+    7 t.ha-1 . For the measurement of the soil and water loss, the infiltrated water
+    and the surface water were collected, and the lost water and soil were quantified.
+    It was possible to verify differences between the treatments in terms of soil
+    losses due to surface erosion, being the treatment without soil cover with the
+    highest soil loss, equivalent to approximately 60 kg soil.ha-1 , while in the
+    treatment of canola straw with maize crop there were no soil losses. There was
+    a superficial loss of water in all treatments, and there was no difference between
+    them'
+  keywords:
+    default:
+      keywords:
+        subject: http://www.ijoabs.com/publications-of-ijoabs/article/3/
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-08-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2574468
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2574467
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rafael-Goulart-Machado:
+    individualname: Rafael Goulart Machado
+    role: creator
+  Romeu-Cezar-Deon:
+    individualname: Romeu Cezar Deon
+    role: creator
+  Geiseana-Pohlmann:
+    individualname: Geiseana Pohlmann
+    role: creator
+    organization: ''
+    url: ''
+  Douglas-Zilli:
+    individualname: Douglas Zilli
+    role: creator
+  Guilherme-Brandelero:
+    individualname: Guilherme Brandelero
+    role: creator
+  Machado-Rafael-Goulart:
+    individualname: Machado, Rafael Goulart
+    role: ''
+    organization: Engineer agronomist, Doctor in soil science, Emater-RS / ASCAR-Municipal
+      Office of Coxilha, Brazil
+    url: ''
+  Deon-Romeu-Cezar:
+    individualname: Deon, Romeu Cezar
+    role: ''
+    organization: Agricultural technician, Emater-RS / ASCAR-Municipal Office of Nova
+      Alvorada, Brazil and Academic of the course of Agronomy, Faculdades IDEAU, Passo
+      Fundo, Brazil
+    url: ''
+  Zilli-Douglas:
+    individualname: Zilli, Douglas
+    role: ''
+    organization: Academic of the course of Agronomy, Faculdades IDEAU, Passo Fundo,
+      Brazil
+    url: ''
+  Brandelero-Guilherme:
+    individualname: Brandelero, Guilherme
+    role: ''
+    organization: Academic of the course of Agronomy, Faculdades IDEAU, Passo Fundo,
+      Brazil
+    url: ''
+content_info: {}

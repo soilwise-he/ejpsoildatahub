@@ -1,0 +1,173 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bilas_2022
+  dataseturi: https://doi.org/10.3390/land11122200
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Land Suitability Analysis as a Tool for Evaluating Soil-Improving Cropping
+    Systems
+  abstract: '&lt;p&gt;Agricultural land use planning is based on the capacity of the
+    soil to support different types&lt;br&gt;
+
+    of crops and is a prerequisite for better use of cultivated land. Land Suitability
+    Analysis (LSA) is used&lt;br&gt;
+
+    to measure the level of suitability of growing a specific crop in the area and
+    can also be used to evaluate&lt;br&gt;
+
+    future scenarios as a means for sustainable agriculture. LSA was employed to calculate
+    current land&lt;br&gt;
+
+    suitability, as well as four scenarios of Soil-Improving Cropping Systems (SICS):
+    (a) Conservation&lt;br&gt;
+
+    Tillage (CT), (b) Cover Crop (CC), (c) Crop Residue Management (CRM), and (d)
+    Manure Application&lt;br&gt;
+
+    (MA). The scenarios of SICS were derived by increasing soil organic matter and
+    cation exchange&lt;br&gt;
+
+    capacity values depending on the SICS hypothetically applied for a period of 100
+    years in the future.&lt;br&gt;
+
+    LSA was evaluated for maize in three sites: (a) Flanders (BE), (b) Somogy (HU),
+    and (c) Hengshui&lt;br&gt;
+
+    (CH). LSA was performed using the Agricultural Land Use Evaluation System (ALUES)
+    considering&lt;br&gt;
+
+    soil and climatic and topographic parameters. Weighing factors of input parameters
+    were assigned&lt;br&gt;
+
+    using the Analytical Hierarchy Process (AHP). The results show that in Flanders,
+    the highly suitable&lt;br&gt;
+
+    (S2) class covered 3.3% of the total area, and the best scenario for improving
+    current LS was CRM,&lt;br&gt;
+
+    in which S2 expanded to 9.1%. In Somogy, the S2 class covered 18.3% of the total
+    area, and the&lt;br&gt;
+
+    best scenarios for improving current land suitability were CT and CC, in both
+    of which the S2 class&lt;br&gt;
+
+    expanded to 70.5% of the total area. In Hengshui, the S2 class covered 64.7% of
+    the total area, and&lt;br&gt;
+
+    all SICS scenarios performed extremely well, converting almost all moderately
+    suitable (S3) areas&lt;br&gt;
+
+    to S2. The main limiting factor that was recognized from a limiting factor analysis
+    in all cases was&lt;br&gt;
+
+    the climatic conditions. This work proves that LSA can evaluate scenarios of management
+    practices&lt;br&gt;
+
+    and recognize limiting factors. The proposed methodology is a novel approach that
+    can provide land&lt;br&gt;
+
+    suitability maps to efficiently evaluate SICS scenarios by projecting soil characteristics
+    and LSA in the&lt;br&gt;
+
+    future, thus facilitating management decisions of regional policy makers.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - sustainability
+      - soil fertility
+      - land use planning
+      - AHP
+      - ALUES
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Land Suitability Analysis as a Tool for Evaluating Soil-Improving Cropping
+      Systems
+    url: http://dx.doi.org/10.3390/land11122200
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bilas-G.:
+    individualname: Bilas, G.
+    role: creator
+  Karapetsas-N.:
+    individualname: Karapetsas, N.
+    role: creator
+  Gobin-A.:
+    individualname: Gobin, A.
+    role: creator
+  Mesdanitis-K.:
+    individualname: Mesdanitis, K.
+    role: creator
+  Toth-G.:
+    individualname: Toth, G.
+    role: creator
+  Hermann-T.:
+    individualname: Hermann, T.
+    role: creator
+  Wang-Y:
+    individualname: Wang, Y
+    role: creator
+  Luo-L.:
+    individualname: Luo, L.
+    role: creator
+  Koutsos-T.:
+    individualname: Koutsos, T.
+    role: creator
+  Moshou-D.:
+    individualname: Moshou, D.
+    role: creator
+  Alexandridis-T:
+    individualname: Alexandridis, T
+    role: creator
+  Bilas-George:
+    individualname: Bilas, George
+    role: creator
+  Karapetsas-Nikolaos:
+    individualname: Karapetsas, Nikolaos
+    role: creator
+  Gobin-Anne:
+    individualname: Gobin, Anne
+    role: creator
+  Mesdanitis-Konstantinos:
+    individualname: Mesdanitis, Konstantinos
+    role: creator
+  Toth-Gergely:
+    individualname: Toth, Gergely
+    role: creator
+  Hermann-Tamdegs:
+    individualname: "Hermann, Tam\u221A\xB0s"
+    role: creator
+  Wang-Yaosheng:
+    individualname: Wang, Yaosheng
+    role: creator
+  Luo-Liangguo:
+    individualname: Luo, Liangguo
+    role: creator
+  Koutsos-Thomas-M.:
+    individualname: Koutsos, Thomas M.
+    role: creator
+  Moshou-Dimitrios:
+    individualname: Moshou, Dimitrios
+    role: creator
+  Alexandridis-Thomas-K.:
+    individualname: Alexandridis, Thomas K.
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

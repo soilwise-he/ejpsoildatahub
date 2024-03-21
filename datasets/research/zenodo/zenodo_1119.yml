@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2935829
+  dataseturi: https://doi.org/10.5281/zenodo.2935829
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECTS OF TILLAGE METHODS ON SOIL INFILTRATION RATE IN UYO, NIGERIA
+  abstract: "This study evaluated the effect of tillage methods on the infiltration\
+    \ rate of a sandy loam soil in Uyo, Nigeria. Tillage treatments adopted include\
+    \ zero \u2013tillage, crude tillage, plough alone and plough harrow tillage. The\
+    \ result of the study revealed that the basic infiltration rates under zero crude,\
+    \ plough and plough harrow tillage in a sandy loam soil in Uyo were 18mm/hr, 20mm/hr,\
+    \ 21mm/hr and 24mm/hr respectively. A 2-way analysis of variance (ANOVA) was used\
+    \ to test the significance difference between the average infiltration rates under\
+    \ the different tillage treatments. The study showed that there is a significant\
+    \ effect of tillage method on soil infiltration rate and soil infiltration rate\
+    \ under different tillage treatment followed the order plough + harrow &gt; Plough\
+    \ alone &gt; Crude tillage &gt; Zero tillage. The study recommends that farmers\
+    \ in Uyo should endeavour to till their farm before planting at least with crude\
+    \ tillage implement as it will help to pulverize the soil surface and make it\
+    \ easier for irrigation and root penetration as well as root development."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-12-15'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2935829
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2935828
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahuchaogu-I.I.:
+    individualname: Ahuchaogu, I.I.
+    role: creator
+    organization: Department of Agricultural and Food engineering University of Uyo,
+      P.M.B. 1017 Uyo, Akwa Ibom State. Nigeria
+    url: ''
+  Etim-Ime:
+    individualname: Etim, Ime
+    role: creator
+    organization: Department of Agricultural and Food engineering University of Uyo,
+      P.M.B. 1017 Uyo, Akwa Ibom State. Nigeria
+    url: ''
+  Etuk-A.-I:
+    individualname: Etuk, A. I
+    role: creator
+    organization: Department of Agricultural and Food engineering University of Uyo,
+      P.M.B. 1017 Uyo, Akwa Ibom State. Nigeria
+    url: ''
+content_info: {}

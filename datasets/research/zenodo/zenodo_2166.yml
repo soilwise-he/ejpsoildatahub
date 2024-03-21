@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7904626
+  dataseturi: https://doi.org/10.5281/zenodo.7904626
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECTIVENESS OF THE USE OF MODERN PEDAGOGICAL TECHNOLOGIES IN LECTURE CLASSES
+    OF THE SOIL SCIENCE COURSE
+  abstract: <em>The article describes some modern methods, their description and application
+    issues that are suitable for conducting lectures on the soil science course.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7904626
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7904625
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.B.Mirzayev:
+    individualname: U.B.Mirzayev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

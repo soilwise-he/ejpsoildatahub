@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4764529
+  dataseturi: https://doi.org/10.5281/zenodo.4764529
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: SPECIFIC FEATURES OF SOIL FORMATION IN THE CASE ZONE UNDER NATURAL CONDITIONS
+  abstract: <em>The work considers the processes of soil formation, taking into account
+    hydrothermal and biological factors, taking into account local conditions. It
+    has been established that the process of weathering, as the first stage of soil
+    formation in natural conditions, proceeds with a close occurrence of the groundwater
+    level and a compensated hydrothermal regime.</em>
+  keywords:
+    default:
+      keywords:
+        subject: water and salt regimes, hydrothermal and biological factors, soil
+          formation, humus, groundwater, weathering proc.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2021-05-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4764529
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4764528
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xakimov-Abdurasul:
+    individualname: Xakimov Abdurasul
+    role: creator
+    organization: Andijan Institute of Agriculture and Agrotechnology , Associate
+      Professor of the Department of Hydraulic Engineering and Reclamation Structures
+    url: ''
+  Karabayev-Anvarjon-Ne'matjanovich:
+    individualname: Karabayev Anvarjon Ne'matjanovich
+    role: creator
+    organization: Andijan Institute of Agriculture and Agrotechnology , Associate
+      Professor of the Department of Hydraulic Engineering and Reclamation Structures
+    url: ''
+  Sabitov-Amanullo-Ubaydullayevich:
+    individualname: Sabitov Amanullo Ubaydullayevich
+    role: creator
+    organization: Andijan Institute of Agriculture and Agrotechnology , Associate
+      Professor of the Department of Hydraulic Engineering and Reclamation Structures
+    url: ''
+  Norkuziyev-Abdurasul:
+    individualname: Norkuziyev Abdurasul
+    role: creator
+    organization: Andijan Institute of Agriculture and Agrotechnology , assistant
+    url: ''
+content_info: {}

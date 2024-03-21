@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8331251
+  dataseturi: https://doi.org/10.5281/zenodo.8331251
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Phosphorus Fertilizer Application on Yields of Cowpea (Vigna unguiculata)
+    Varieties across Sites of Differing Soil Fertility in western Kenya
+  abstract: "Phosphorus deficiency remains a key constraint to cowpea productivity\
+    \ in Kenya. Continuous cultivation of smallholder farms confounded with inadequate\
+    \ use of fertilizer and use of poor local cowpea (<em>Vigna unguiculata</em>)\
+    \ seed varieties, has led to decreased cowpea yields in western Kenya. Earlier\
+    \ studies have indicated that application of phosphorus fertilizer at recommended\
+    \ rates as well as growing of improved cowpea varieties may result to increased\
+    \ grain yield. Against this background, improved cowpea varieties were screened\
+    \ under different phosphorus (Triple Super Phosphate) fertilizer rates to investigate\
+    \ their response on grain yield production, at sites of differing soil fertility\
+    \ status (Bonjoge and Koibem) in western Kenya. Field experiments were conducted\
+    \ during the short rain (SR) seasons in 2019. The experiments were factorially\
+    \ arranged and laid out in a RCBD with three replications at both sites. P was\
+    \ applied at three levels of 0, 15, and 30 kg P/ha. Six cowpea varieties; one\
+    \ local check (Khaki) and five improved varieties (ICV1, 1CV12, CB46, IT92K-282-2\
+    \ and IT83D-442) were tested. Grain yield data collected was subjected to analysis\
+    \ of variance using SAS statistical software, release 8.2. Least Significant Difference\
+    \ test separated means of parameters whenever significant difference was detected\
+    \ at \u2265 95% confidence level. Phosphorus application resulted to insignificant\
+    \ (p&lt;0.05) increase in cowpea grain yield across varieties. Highest and least\
+    \ average yields were from variety CB 46 (325 kg/ha) and variety Khaki (216 kg/ha)\
+    \ and IT 90K-284-2 (216 kg/ha), respectively. At Bonjoge, cowpea grain yields\
+    \ varied from 206 to 434 kg/ha and were significantly (p&lt;0.05) higher than\
+    \ the yields at Koibem which ranged from 127 to 342 kg/ha. The results of this\
+    \ study show that while cowpea productivity is influenced by soil fertility status,\
+    \ application of P was not essential for grain yield production. Interaction of\
+    \ fertilizer and varieties in Bonjoge resulted to a positive grain yield response,\
+    \ hence suitable site for cowpea."
+  keywords:
+    default:
+      keywords:
+        subject: soil fertility
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-09'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8331251
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8331250
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Odundo-S.-N:
+    individualname: Odundo S. N
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

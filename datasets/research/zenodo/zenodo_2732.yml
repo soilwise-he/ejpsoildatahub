@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3381699
+  dataseturi: https://doi.org/10.5281/zenodo.3381699
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Soil Properties for Flood Vulnerability Zones in Parts of Obio/Akpor
+    Local Government Area, Rivers State, Nigeria
+  abstract: "This study is aimed at assessing soil properties on flood sensitive areas\
+    \ in parts of Obio-Akpor Local Government Area, Port Harcourt Metropolis, Rivers\
+    \ State, Nigeria. Field studies involved soil sampling while laboratory analysis\
+    \ involved particle size distribution, moisture content determination and hydraulic\
+    \ conductivity estimation. Geotechnical analysis revealed that the soils predominantly\
+    \ composed of silty clay, fine sandy silty clay and silty clayey sands. On average,\
+    \ moisture content and permeability are 27% and 2.8x10-6 cm/sec, and 20.41% and\
+    \ 1.3x10-3 cm/sec in Rumuigbo and Ozuoba areas, respectively. The soil properties\
+    \ were not significantly different from those obtained from one of the control\
+    \ sites. Although the soil characteristics at the control site and flood prone\
+    \ areas were similar, flooding does not occur at control sites because they are\
+    \ located at a higher topography compared with the flood prone areas located on\
+    \ a shallow topography. These results are confirmed by the high annual rainfall\
+    \ (2198.73 mm/hr on average) that occurs on average round the year in Rivers State.\
+    \ The buildings in these flood prone areas were constructed with concrete and\
+    \ blocks which are susceptible to cracking and failure when constantly immersed\
+    \ in water for prolonged time. It is therefore recommended that large sloping\
+    \ gutters be constructed within strategic places in the area in order to properly\
+    \ transport water to the nearby rivers and ensure that dumpsites around flood\
+    \ prone areas are evacuated to prevent contaminated water from recharging the\
+    \ aquifer. \xA9 International Journal of Ground Sediment &amp; Water, \xA9Sun\
+    \ Jichao, The website is http://ijgsw.comze.com/"
+  keywords:
+    default:
+      keywords:
+        subject: port Harcourt metropolis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3381699
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3381698
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nwankwoala-H.O:
+    individualname: Nwankwoala, H.O
+    role: creator
+    organization: Department of Geology, University of Port Harcourt, Nigeria
+    url: ''
+  Jibril-T:
+    individualname: Jibril, T
+    role: creator
+    organization: Department of Geology, University of Port Harcourt, Nigeria
+    url: ''
+content_info: {}

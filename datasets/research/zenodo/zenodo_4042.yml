@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4860131
+  dataseturi: https://doi.org/10.5281/zenodo.4860131
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Metadata analysis to evaluate environmental impacts of wheat residues burning
+    on soil quality in developing and developed countries
+  abstract: The data used in this study, including wheat harvested area, grain production,
+    grain yield, and residue biomass burning were collected from the FAO website (http://www.fao.org/faostat/en/#data/GB).
+    Data were from 1969 to 2018 for both Iran and Italy as examples of developing
+    and developed countries, respectively. These data are annually submitted to FAO
+    by national correspondents of ministries or institutions and are free access for
+    all users through the FAO website at http://www.fao.org.
+  keywords:
+    default:
+      keywords:
+        subject: Crop residue burning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-05-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4860131
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4860130
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jamali-M:
+    individualname: Jamali, M
+    role: creator
+    organization: Department of Agroecology, Environmental Sciences Research Institute,
+      Shahid Beheshti University, Tehran, Iran.
+    url: ''
+  Bakhshandeh-E:
+    individualname: Bakhshandeh, E
+    role: creator
+    organization: 'Genetics and Agricultural Biotechnology Institute of Tabarestan
+      and Sari Agricultural Sciences and Natural Resources University, Km 9 Farah
+      Abad Road, P.O. Box: 578, Sari, Iran.'
+    url: ''
+  Yaghoubi-Khanghahi-M:
+    individualname: Yaghoubi Khanghahi, M
+    role: creator
+    organization: Department of Soil, Plant and Food Sciences, University of Bari
+      Aldo Moro, Via Amendola 165/A, 70126 Bari, Italy.
+    url: ''
+  Crecchio-C:
+    individualname: Crecchio, C
+    role: creator
+    organization: Department of Soil, Plant and Food Sciences, University of Bari
+      Aldo Moro, Via Amendola 165/A, 70126 Bari, Italy.
+    url: ''
+content_info: {}

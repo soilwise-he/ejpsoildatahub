@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lorenz_2007
+  dataseturi: https://doi.org/10.1016/j.geoderma.2007.07.013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Strengthening the soil organic carbon pool by increasing contributions from
+    recalcitrant aliphatic bio(macro)molecules
+  abstract: Photosynthetically fixed CO2 is converted into terrestrial bio(macro)molecules
+    and sequestered as soil organic matter (SOM) by (bio)chemical and physical stabilization
+    processes. SOM is generally divided in arbitrary pools for modeling SOM dynamics.
+    Biochemically recalcitrant SOM fractions are enriched with alkyl carbon (C) structures
+    and resist decomposition due to intrinsic molecular properties. The proportion
+    of alkyl C and the mean age of SOM increase with increase in soil depth. Precursors
+    of these recalcitrant bio(macro)molecules such as glycerides, waxes, and terpenoids
+    occur in plants, microorganisms and animals. The intrinsic biochemical stability
+    of naturally occurring recalcitrant aliphatic biomacromolecules may enhance the
+    terrestrial storage of atmospheric CO2. Also, aliphatic macromolecules may be
+    formed in soils upon non-enzymatic polymerization of low-molecular-weight lipids.
+    In this review we propose that increasing the soil organic carbon (SOC) pool by
+    land-use and management practices should also include strategies to increase the
+    proportion of aliphatic compounds in the belowground biomass. Thus, collaborative
+    research is needed to study the fate of plant-, microbial- and animal-derived
+    aliphatic C as precursors for stabilized aliphatic SOC fractions, in particular
+    in deeper soil horizons.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Strengthening the soil organic carbon pool by increasing contributions from
+      recalcitrant aliphatic bio(macro)molecules
+    url: http://dx.doi.org/10.1016/j.geoderma.2007.07.013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lorenz-Klaus:
+    individualname: Lorenz, Klaus
+    role: creator
+  Lal-Rattan:
+    individualname: Lal, Rattan
+    role: creator
+  Preston-Caroline-M.:
+    individualname: Preston, Caroline M.
+    role: creator
+  Nierop-Klaas-G.-J.:
+    individualname: Nierop, Klaas G. J.
+    role: creator
+  Nierop-Klaas-G.J.:
+    individualname: Nierop, Klaas G.J.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gimingham_1911
+  dataseturi: https://doi.org/10.1017/s0021859600001623
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Formation of Calcium Carbonate in the Soil by Bacteria
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Formation of Calcium Carbonate in the Soil by Bacteria
+    url: http://dx.doi.org/10.1017/s0021859600001623
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gimingham-C.-T.:
+    individualname: Gimingham, C. T.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

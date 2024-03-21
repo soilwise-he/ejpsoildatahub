@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1482453
+  dataseturi: https://doi.org/10.5281/zenodo.1482453
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil-Plant Degradation And Their Inter-Relation At Saline Desert Ecosystem.
+  abstract: High salinity is contributing significantly to environmental degradation.
+    Saline desert (Little Rann of Kutch of 4860 ha) was selected to study soil and
+    vegetation. Soil was analyzed at different depth 0-15, 15-30 and 30-45cm. Maximum
+    salinity was 24.033dSm-1. Mean values for FC, WHC, OC, N, P, Ca, K and Na were
+    20.456%, 28.250%, 0.344%, 0.030%, 22.727kg ha-1, 103.293mg kg-1, 841.276mg kg-1
+    and 144.395mg kg-1. Calcium and herbaceous density (153.601mg kg-1 and 0.646plants
+    m-2) was maximum and sodium (65.490mg kg-1) was minimum (site two). Results suggest
+    that calcium have beneficial effect to overcome salinity and minimise the effect
+    of sodium in the soil.
+  keywords:
+    default:
+      keywords:
+        subject: Desert Calcium Soil Salinity Sodium Vegetation.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1482453
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1482452
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pilania-P.K:
+    individualname: Pilania P.K
+    role: creator
+    organization: ''
+    url: ''
+  N.-Parejiya:
+    individualname: N. Parejiya
+    role: creator
+    organization: ''
+    url: ''
+  N.S.-Panchal.:
+    individualname: N.S. Panchal.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

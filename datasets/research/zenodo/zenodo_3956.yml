@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3923533
+  dataseturi: https://doi.org/10.5281/zenodo.3923533
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of bush burning Intensity on selected soil physical and chemical properties
+    in Ile-Ife, Nigeria
+  abstract: "Bush burning for land clearing is prevalent among small-holder farmers\
+    \ in Nigeria. Though an age-long practice, few empirical studies have documented\
+    \ its impact on soil physical properties. This study investigated the effects\
+    \ of controlled bush burning on selected soil physical and chemical properties\
+    \ over two distinct cropping seasons. Three treatments consisting of two fire\
+    \ intensities (burning at 200\xB0C and 400\xB0C) and a control with each treatment\
+    \ replicated four times were arranged in Randomized Complete Block Design. The\
+    \ temperature was measured with an infrared thermometer. Soil particle size was\
+    \ not affected by burning at both fire intensities, while surface (0-15 cm) soil\
+    \ bulk density decreased from 1.43 gcm<sup>-3</sup> to 1.095 gcm<sup>-3</sup>\
+    \ after controlled burning. Soil water repellency was not affected by the treatment\
+    \ while sorptivity decreased significantly but soil pH improved from 5.3 to 7.03\
+    \ as fire intensity increased from 200\xB0C to 400\xB0C. Soil strength reduced\
+    \ after burning from mean value of 7.05 kgm<sup>-2</sup> in control to 5.99 kgm<sup>-2</sup>\
+    \ at 400\xB0C fire intensity. Microaggregate stability, soil organic carbon and\
+    \ total nitrogen contents decreased while exchangeable bases and available phosphorus\
+    \ contents increased as fire intensity increased from 200\xB0C to 400\xB0C. In\
+    \ conclusion, within the period under consideration, fire intensity only improved\
+    \ bulk density, soil strength, pH, and exchangeable bases."
+  keywords:
+    default:
+      keywords:
+        subject: Soil properties
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-09-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3923533
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3923532
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ibitoye-Rotimi-George:
+    individualname: Ibitoye, Rotimi George
+    role: creator
+    organization: Obafemi Awolowo University, Ile-Ife, Nigeria
+    url: ''
+  Oyedele-Durodoluwa-Joseph:
+    individualname: Oyedele, Durodoluwa Joseph
+    role: creator
+    organization: Obafemi Awolowo University, Ile-Ife, Nigeria
+    url: ''
+  Tijani-Fatai-Oladapo:
+    individualname: Tijani, Fatai Oladapo
+    role: creator
+    organization: Obafemi Awolowo University, Ile-Ife, Nigeria
+    url: ''
+  Gbadegesin-Lanre-Anthony:
+    individualname: Gbadegesin, Lanre Anthony
+    role: creator
+    organization: Obafemi Awolowo University, Ile-Ife, Nigeria
+    url: ''
+  Akinde-Bamikole-Peter:
+    individualname: Akinde, Bamikole Peter
+    role: creator
+    organization: Obafemi Awolowo University, Ile-Ife, Nigeria
+    url: ''
+content_info: {}

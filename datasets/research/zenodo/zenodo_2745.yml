@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mimault_2023
+  dataseturi: https://doi.org/10.1371/journal.pcbi.1010916
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Particle-based model shows complex rearrangement of tissue mechanical properties
+    are needed for roots to grow in hard soil
+  abstract:
+  - '&lt;p&gt;When exposed to increased mechanical resistance from the soil, plant
+    roots display non-linear growth responses that cannot be solely explained by mechanical
+    principles. Here, we aim to investigate how changes in tissue mechanical properties
+    are biologically regulated in response to soil strength. A particle-based model
+    was developed to solve root-soil mechanical interactions at the cellular scale,
+    and a detailed numerical study explored factors that affect root responses to
+    soil resistance. Results showed how softening of root tissues at the tip may contribute
+    to root responses to soil impedance, a mechanism likely linked to soil cavity
+    expansion. The model also predicted the shortening and decreased anisotropy of
+    the zone where growth occurs, which may improve the mechanical stability of the
+    root against axial forces. The study demonstrates the potential of advanced modeling
+    tools to help identify traits that confer plant resistance to abiotic stress.
+    Copyright: &copy; 2023 Mimault et al. This is an open access article distributed
+    under the terms of the Creative Commons Attribution License, which permits unrestricted
+    use, distribution, and reproduction in any medium, provided the original author
+    and source are credited.&lt;/p&gt;'
+  - 'Funding: This project was supported by the consolidator fellowship from the European
+    Research Council ERC SENSOILS-647857 (LXD, MM). We also acknowledge the funding
+    from the Spanish Ministry of Science and Innovation under de project MICROCROWD
+    PID2020-112950RRI00 (LXD). The James Hutton Institute received
+
+    support from the Scottish Government Rural and Environment Science and Analytical
+    Services Division (RESAS), Work package 1.1.1,2.1.6,2.1.7,2.3.4 (MM). The funders
+    had no role in study design, data collection and analysis, decision to publish,
+    or preparation of the manuscript.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Particle-based model shows complex rearrangement of tissue mechanical properties
+      are needed for roots to grow in hard soil
+    url: http://dx.doi.org/10.1371/journal.pcbi.1010916
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mimault-Matthias:
+    individualname: Mimault, Matthias
+    role: creator
+  Ptashnyk-Mariya:
+    individualname: Ptashnyk, Mariya
+    role: creator
+  Dupuy-Lionel-X.:
+    individualname: Dupuy, Lionel X.
+    role: creator
+  Public-Library-of-Science-PLoS:
+    individualname: Public Library of Science (PLoS)
+    role: creator
+content_info: {}

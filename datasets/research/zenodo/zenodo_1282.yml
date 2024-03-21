@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Armsby_1887
+  dataseturi: https://doi.org/10.1126/science.ns-9.206s.37
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "On the Enrichment of the Soil by the Cultivation of \u201CEnriching Crops\u201D"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "On the Enrichment of the Soil by the Cultivation of \u201CEnriching Crops\u201D"
+    url: http://dx.doi.org/10.1126/science.ns-9.206s.37
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Armsby-H.-P.:
+    individualname: Armsby, H. P.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

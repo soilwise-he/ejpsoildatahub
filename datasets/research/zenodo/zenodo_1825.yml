@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7738129
+  dataseturi: https://doi.org/10.5281/zenodo.7738129
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: USE OF ASSOCIATED MICROORGANISMS AS POTENTIAL BIOFERTILIZERS FOR SOIL FERTILITY
+    AND LIMITING PLANT PATHOGENS
+  abstract: <em>Microorganisms present in the plant rhizosphere and tissues absorb
+    atmospheric nitrogen and synthesize various physiologically active substances,
+    regulate the nutrient balance of the plant, and have an antagonistic activity
+    against phytopathogens by positively influencing its growth and development. has
+    Taking into account the fact that our research is carried out depending on the
+    state of the microbe-plant association in limiting phytopathogens, bacteria belonging
+    to the genera Azotobacter and Bacillus were isolated and identified.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Azotobacter, Bacillus, rhizobacteria, phytopathogen, antagonist,
+          morphology, physiology, mineral fertilizer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-15'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7738129
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7738128
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tursunov-Abror-Xabibullo-ugli:
+    individualname: Tursunov Abror Xabibullo ugli
+    role: creator
+  Tursunov-Abror-Xabibullo-Ugli:
+    individualname: Tursunov Abror Xabibullo Ugli
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

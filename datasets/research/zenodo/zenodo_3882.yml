@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1441311
+  dataseturi: https://doi.org/10.5281/zenodo.1441311
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Non-Linear Seismic Analysis Of Lattice- Monopole Type Wind Mill Tower On
+    Different Soil Conditions
+  abstract: The conventional wind mill towers are constructed using monopole or lattice
+    type structure. we can get more power by increasing height of tower but by increasing
+    height of tower the tower becomes uneconomical due to increased wall thickness.
+    in the present research an innovative hybrid wind mill tower is proposed. the
+    nonlinear time history analysis of proposed hybrid wind mill considering different
+    soil is carried out and it is concluded that   hybrid wind mill tower is more
+    effective compared to conventional monopole tower.
+  keywords:
+    default:
+      keywords:
+        subject: Wind mill tower, Time History Analysis, Soil Structure Interaction
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1441311
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1441310
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hemal-J-Shah1--Dr.-Atul-K-Desai2:
+    individualname: Hemal J Shah1 & Dr. Atul K Desai2
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

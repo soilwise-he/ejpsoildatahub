@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6727742
+  dataseturi: https://doi.org/10.5281/zenodo.6727742
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Characterisation of Roman copper alloy artefacts and soil from Rakafot 54
+    (Beer Sheva, Israel)
+  abstract: The research presented in this paper focused on the preliminary non-destructive
+    analysis of copper alloys, corrosion, and soil components from a Roman archaeological
+    site in Israel. pXRF, XRD, and micromorphological analyses were carried out to
+    gain a better understanding of the corrosion processes affecting the copper alloy
+    artefacts, by characterising the alloy composition, soil environments, and corrosion
+    products. Preliminary results indicate that the artefacts consist of copper-lead-tin
+    alloys, covered by copper hydroxy-chlorides and lead sulphate phases with slight
+    variations in their crystallisation. The multianalytical approach revealed the
+    presence of quartz, calcite, gypsum and feldspars in the sediments, while thin
+    sections more specifically indicate loess soils with local micro-environments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-12-06'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6727742
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6727741
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peters-Manuel-J.H.:
+    individualname: Peters, Manuel J.H.
+    role: creator
+    organization: "Politecnico di Torino & Universidade de \xC9vora"
+    url: https://orcid.org/0000-0003-1997-3825
+  Goren-Yuval:
+    individualname: Goren, Yuval
+    role: creator
+    organization: Ben-Gurion University of the Negev
+    url: ''
+  Fabian-Peter:
+    individualname: Fabian, Peter
+    role: creator
+    organization: Ben-Gurion University of the Negev
+    url: ''
+  Mirao-Jose:
+    individualname: "Mir\xE3o, Jos\xE9"
+    role: creator
+    organization: "Universidade de \xC9vora"
+    url: ''
+  Grassini-Sabrina:
+    individualname: Grassini, Sabrina
+    role: creator
+    organization: Politecnico di Torino
+    url: ''
+  Angelini-Emma:
+    individualname: Angelini, Emma
+    role: creator
+    organization: Politecnico di Torino
+    url: ''
+content_info: {}

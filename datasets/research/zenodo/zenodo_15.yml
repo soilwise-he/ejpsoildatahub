@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: C__1881
+  dataseturi: https://doi.org/10.1016/0016-0032(81)90024-7
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Artificial soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Artificial soil
+    url: http://dx.doi.org/10.1016/0016-0032(81)90024-7
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.:
+    individualname: C.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6726300
+  dataseturi: https://doi.org/10.5281/zenodo.6726300
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mathematical Modeling of Tractor Fuel Consumption for Ridging Operation in
+    Sandy Loamy Soil
+  abstract: "<em>The need to use selected soil-implement-machine parameters as factors\
+    \ affecting fuel consumption is essential. A mathematical model for predicting\
+    \ tractor fuel consumption per working area for ridging operation has been developed\
+    \ using Buckingham\u2019s pi theorem in dimensional analysis. Generalized reduced\
+    \ gradient (GRG), a nonlinear method of Excel solver was used for the establishment\
+    \ of the model\u2019s constant. The model was validated by simulating the experimental\
+    \ results using the equation, graphical comparison, and assessing the coefficient\
+    \ determination (r<sup>2</sup>), root mean square error, and paired t-Test. The\
+    \ field experiment was performed at Rivers Institute of Agricultural Research\
+    \ and Training (RIART) Farm in Rivers State University, Port Harcourt, Nigeria.\
+    \ The group balanced block design (GBBD) was adopted. The design consisted of\
+    \ 9 experimental treatments with three replicates. The experimental fuel consumption\
+    \ per working area was determined by quantity of fuel used per working area with\
+    \ the aid of fuel flow meter. The field test parameters (speed, height, forward\
+    \ speed, cone index, bulk density) were measured accordingly with their specific\
+    \ standards procedures. The field test parameters (speed, height, forward speed,\
+    \ cone index, bulk density) results were simulated with fuel consumption to obtain\
+    \ the constant in the predictive mathematical model. The developed model displayed\
+    \ good agreement between measured and predicted results with high coefficient\
+    \ of determination and low root mean square error. The paired t-Test results also\
+    \ showed no significant difference at 95 and 99 % confidence levels. It is thus,\
+    \ suggested that the model be used for predicting tractor fuel consumption during\
+    \ ridging operation</em><em>.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: Soil-machine-implement parameters
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6726300
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6726299
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ekemube-R.A.:
+    individualname: Ekemube, R.A.
+    role: creator
+    organization: ''
+    url: ''
+  Atta-A.T.:
+    individualname: Atta, A.T.
+    role: creator
+    organization: ''
+    url: ''
+  Nkakini-S.O.:
+    individualname: Nkakini, S.O.
+    role: creator
+    organization: ''
+    url: ''
+  Amgbara-T.O.:
+    individualname: Amgbara, T.O.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

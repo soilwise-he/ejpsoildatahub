@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Donhauser_2018
+  dataseturi: https://doi.org/10.1093/femsec/fiy099
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Alpine soil microbial ecology in a changing world
+  abstract: '&lt;p&gt;Climate change has a disproportionally large impact on alpine
+    soil ecosystems, leading to pronounced changes in soil microbial diversity and
+    function associated with effects on biogeochemical processes at the local and
+    supraregional scales. However, due to restricted accessibility, high-altitude
+    soils remain largely understudied and a considerable heterogeneity hampers the
+    comparability of different alpine studies. Here, we highlight differences and
+    similarities between alpine and arctic ecosystems, and we discuss the impact of
+    climatic variables and associated vegetation and soil properties on microbial
+    ecology. We consider how microbial alpha-diversity, community structures and function
+    change along altitudinal gradients and with other topographic features such as
+    slope aspect. In addition, we focus on alpine permafrost soils, harboring a surprisingly
+    large unknown microbial diversity and on microbial succession along glacier forefield
+    chronosequences constituting the most thoroughly studied alpine habitat. Finally,
+    highlighting experimental approaches, we present climate change studies showing
+    shifts in microbial community structures and function in response to warming and
+    altered moisture, interestingly with some contradiction. Collectively, despite
+    harsh environmental conditions, many specially adapted microorganisms are able
+    to thrive in alpine environments. Their community structures strongly correlate
+    with climatic, vegetation and soil properties and thus closely mirror the complexity
+    and small-scale heterogeneity of alpine soils.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - climate change
+      - soil microbiome
+      - warming
+      - mountains
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Alpine soil microbial ecology in a changing world
+    url: http://dx.doi.org/10.1093/femsec/fiy099
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Donhauser-Johanna:
+    individualname: Donhauser, Johanna
+    role: creator
+  Frey-Beat:
+    individualname: Frey, Beat
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5131484
+  dataseturi: https://doi.org/10.5281/zenodo.5131484
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Isolation of antibiotics producing bacteria from marine soil and comparative
+    analysis of same with commercially available drugs
+  abstract: The isolation of antibiotic producing bacteria from marine soil and comparative
+    analysis of same with ciprofloxacin and amoxicillin against <em>staphylococcus
+    aureus </em>and <em>Escherichia coli </em>was carried out in a Microbiology Laboratory
+    of Chukwuemeka Odumegwu Ojukwu University, Uli. This was done to isolate antibiotic
+    producing bacteria and compare same with existing commercially available antibiotics
+    with a view to using marine soil in the treatment of common bacterial infections.
+    Soil samples were collected from Bonny Island Sea, Port Harcourt. One gram of
+    mixed soil sample was serially diluted and spread-plated on nutrient agar plates.
+    The representative isolates obtained were sub-cultured to get a pure culture.
+    Morphological, biochemical, physiological characteristics of the bacteria were
+    analyzed. Agar well diffusion was carried out. One isolate had a substantial antibacterial
+    activity with 3.5mm zone of inhibition against two test bacteria used in the preliminary
+    screening. The isolate was marked as <em>Streptomyces </em>(STR I) and was identified
+    as <em>Streptomyces griseus </em>while other isolates did not show any antibacterial
+    activity. Ciprofloxacin showed the highest antibacterial activity to both <em>Staphylococcus
+    aureus </em>and<em> Escherichia coli </em>of 3.7mm and 4.0mm respectively while
+    Amoxicillin showed antibacterial activity of 3.5mm and 2.7mm respectively. This
+    reveals that antibiotic producing bacteria from marine soil are also effective
+    in antimicrobial activity and could be used for antimicrobial chemotherapy.
+  keywords:
+    default:
+      keywords:
+        subject: Antibiotics; Marine; Soil; Bacteria; Isolate; Antibacterial
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5131484
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5131483
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chinyelu-Nkiru-Umeaku:
+    individualname: Chinyelu Nkiru Umeaku
+    role: creator
+    organization: Department of Microbiology, Chukwuemeka Odumegwu Ojukwu University,
+      Uli Campus, Anambra State, Nigeria
+    url: ''
+  Chisom-Faith-Ohagwam:
+    individualname: Chisom Faith Ohagwam
+    role: creator
+    organization: Department of Microbiology, Chukwuemeka Odumegwu Ojukwu University,
+      Uli Campus, Anambra State, Nigeria
+    url: ''
+  Chiamaka-Ijeoma-Chris-Umeaku:
+    individualname: Chiamaka Ijeoma Chris-Umeaku
+    role: creator
+    organization: Department of Biochemistry, Chukwuemeka Odumegwu Ojukwu University,
+      Uli Campus, Anambra State, Nigeri
+    url: ''
+content_info: {}

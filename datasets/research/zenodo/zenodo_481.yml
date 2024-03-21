@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3591286
+  dataseturi: https://doi.org/10.5281/zenodo.3591286
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Stabilization Using Waste Materials in Sri Lanka
+  abstract: 'The uses of automobiles are increasing day by day because of that the
+    waste of tyres increases in Sri Lanka. Safer disposal of rubber tyre waste has
+    become a challenging job in Sri Lanka. As a result of the improper way of disposal,
+    there is a great damage to eco system like air pollution and aesthetic pollution.
+    So that use of their basic properties in engineering applications are become prominent.
+    This investigation has focused on the CBR of soil reinforced with randomly mixed
+    shredded rubber tyre chips and the results will be compared with unreinforced
+    samples. The optimal percentage value of shredded rubber tyre content in soil
+    will be determined using the Standard proctor compaction test and CBR test. Increases
+    in CBR value significantly reduce the total thickness of the pavement and hence
+    the total cost involved in the road projects. H. L. S Sathik | D. De S. Udakara
+    "Soil Stabilization Using Waste Materials in Sri Lanka" Published in International
+    Journal of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470,
+    Volume-3 | Issue-4 , June 2019, URL: https://www.ijtsrd.com/papers/ijtsrd25147.pdf'
+  keywords:
+    default:
+      keywords:
+        subject: OMC
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-26'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3591286
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3591285
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-L.-S-Sathik:
+    individualname: H. L. S Sathik
+    role: creator
+    organization: ''
+    url: ''
+  D.-De-S.-Udakara:
+    individualname: D. De S. Udakara
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

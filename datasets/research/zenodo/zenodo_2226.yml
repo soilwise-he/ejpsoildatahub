@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mustafa_2020
+  dataseturi: https://doi.org/10.21303/2461-4262.2020.001173
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: HERMITE NUMERICAL METHOD TO ESTIMATE THE RADON AND RADIUM EFFECTS OF THE
+    SOIL IN BARTELLA REGION
+  abstract: "&lt;p&gt;The Hermite numerical interpolation method used to estimate\
+    \ and predict the radon and radium concentrations, from some of the experimental\
+    \ measurements made on the soil samples of the Bartella region in Iraq. The results\
+    \ obtained from deductible mathematical method were close to real experimental\
+    \ results. Predicted results are in the range of 80.04&ndash;4051.59 Bq/m&lt;sup&gt;3&lt;/sup&gt;radon\
+    \ concentrations and 0.322&ndash;17.276 Bq/Kgradium concentrations corresponding\
+    \ to 200-10000 tracks of alpha particles. The maximum errors were less than 0.289\
+    \ and 1.172 percent for radon and radium concentrations, respectively. The effects\
+    \ of radium and radon radiations estimated of soil in the studied area depend\
+    \ on its concentrations, a higher number of alpha particle tracks mean high radiation\
+    \ concentration, the high radiation will cause human health damage. The values\
+    \ are below 370 Bq/Kg the recommended radium concentration permissible values,\
+    \ by the Organization \u0430\u0449\u043A Economic Cooperation and Development\
+    \ (OECD), the studied area is safe from hazards on health of radium and radon\
+    \ exposure from the soil&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - concentrations of radon
+      - concentrations of radium
+      - Hermite method
+      - soil samples
+      - applied mathematics
+      - numerical interpolation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: HERMITE NUMERICAL METHOD TO ESTIMATE THE RADON AND RADIUM EFFECTS OF THE
+      SOIL IN BARTELLA REGION
+    url: http://dx.doi.org/10.21303/2461-4262.2020.001173
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hekmat-SH.-Mustafa:
+    individualname: Hekmat SH. Mustafa
+    role: creator
+  Malik-H.-Kheder:
+    individualname: Malik H. Kheder
+    role: creator
+  Sarah-Ghanim-Mahmood:
+    individualname: Sarah Ghanim Mahmood
+    role: creator
+  Mustafa-Hekmat-SH.:
+    individualname: Mustafa, Hekmat SH.
+    role: creator
+  Kheder-Malik-H.:
+    individualname: Kheder, Malik H.
+    role: creator
+  Mahmood-Sarah-Ghanim:
+    individualname: Mahmood, Sarah Ghanim
+    role: creator
+  OU-Scientific-Route:
+    individualname: OU Scientific Route
+    role: creator
+content_info: {}

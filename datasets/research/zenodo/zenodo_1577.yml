@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: CHAE_2023
+  dataseturi: https://doi.org/10.11646/zootaxa.5227.2.2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Strongylidium koreanum n. sp. (Protozoa: Ciliophora), a new soil species
+    from South Korea'
+  abstract: 'Chae, Kyu-Seok, Park, Kyung-Min, Min, Gi-Sik (2023): Strongylidium koreanum
+    n. sp. (Protozoa: Ciliophora), a new soil species from South Korea. Zootaxa 5227
+    (2): 194-204, DOI: 10.11646/zootaxa.5227.2.2'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Chromista
+      - Ciliophora
+      - Hypotrichea
+      - Stichotrichida
+      - Strongylidiidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Strongylidium koreanum n. sp. (Protozoa: Ciliophora), a new soil species
+      from South Korea'
+    url: http://dx.doi.org/10.11646/zootaxa.5227.2.2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chae-Kyu-Seok:
+    individualname: Chae, Kyu-Seok
+    role: creator
+  Park-Kyung-Min:
+    individualname: Park, Kyung-Min
+    role: creator
+  Min-Gi-Sik:
+    individualname: Min, Gi-Sik
+    role: creator
+  CHAE-KYU-SEOK:
+    individualname: CHAE, KYU-SEOK
+    role: creator
+  PARK-KYUNG-MIN:
+    individualname: PARK, KYUNG-MIN
+    role: creator
+  MIN-GI-SIK:
+    individualname: MIN, GI-SIK
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

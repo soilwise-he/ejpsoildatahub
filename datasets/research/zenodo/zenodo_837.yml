@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3244176
+  dataseturi: https://doi.org/10.5281/zenodo.3244176
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Microbial-aided phytoremediation of heavy metals contaminated soil: a review'
+  abstract: Anthropogenic exercises as well as industrial enterprise and agricultural
+    practices contribute considerably to the degradation and contamination of environment
+    that considerably affects the soil. The normal physical and chemical know-how
+    soil washing used for soil remediation render the land useless as a medium for
+    plant growth, as they take away all biological activities. Others are labor-intensive
+    and have high maintenance value phytoremediation, a cheaper and sustainable in
+    situ remediation technique was so thought of. This data can enable proposing solutions
+    to issues of contamination and eventually convalescent sites and soils. However,
+    plants don't have the aptitude to degrade several soil waste matters particularly
+    the organic pollutant. It's so imperative to require advantage of the degrading
+    ability of soil microorganisms. This review so focuses on phytoremediation techniques
+    improved by microbial colonies.
+  keywords:
+    default:
+      keywords:
+        subject: Pollution
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-06-12'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3244176
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3244175
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aransiola-S.-A.:
+    individualname: Aransiola, S. A.
+    role: creator
+    organization: Bioresources Development Centre, National Biotechnology Development
+      Agency, KM 5 Ogbomoso/Iresapa Road, P.M.B. 3524, Onipanu, Ogbomoso, Nigeria
+    url: ''
+  Ijah-U.-J.-J.:
+    individualname: Ijah,, U. J. J.
+    role: creator
+  Abioye-O.-P.:
+    individualname: Abioye, O. P.
+    role: creator
+    organization: Department of Microbiology, Federal University of Technology, PMB
+      65, Minna, Nigeria
+    url: ''
+  Bala-J.-D.:
+    individualname: Bala, J. D.
+    role: creator
+    organization: Department of Microbiology, Federal University of Technology, PMB
+      65, Minna, Nigeria
+    url: ''
+  Ijah-:
+    individualname: 'Ijah, '
+    role: ''
+    organization: Department of Microbiology, Federal University of Technology, PMB
+      65, Minna, Nigeria
+    url: ''
+content_info: {}

@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7893417
+  dataseturi: https://doi.org/10.5281/zenodo.7893417
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECT OF VARIOUS MEYERS AND COMBINATIONS OF ORGANIC RESIDUES PLACED
+    UNDER ALFALFA ON THE BIOLOGICAL ACTIVITY OF THE SOIL
+  abstract: <em>This article gives the results of the study of various combinations
+    of Meyers of guzapoya and anti-wilt preparations under Bede in reducing wilt infection
+    and increasing resistance to bedani wilt infection and biological activity of
+    the soil.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-03'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7893417
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7893416
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.A.G`oziyev:
+    individualname: "M.A.G\u02BBoziyev"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

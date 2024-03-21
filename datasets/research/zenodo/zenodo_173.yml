@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7476581
+  dataseturi: https://doi.org/10.5281/zenodo.7476581
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Large-scale Seismic Risk Assessment Integrating Nonlinear Soil Behavior and
+    Soil-Structure Interaction Effects
+  abstract: "The need for an accurate risk assessment procedure led to the development\
+    \ of various fragility and vulnerability curves, covering a wide range of building\
+    \ typologies. Nonlinear soil behavior and soil\u2013structure interaction (SSI)\
+    \ efects play an essential role in this outcome; nevertheless, their infuence\
+    \ is usually neglected. While for building-specifc applications, these efects\
+    \ may be explicitly considered, it is currently impossible to account for such\
+    \ efects in large-scale seismic risk analyses. We examine the efectiveness of\
+    \ a broad set of fragility modifers (FM) that shift existing fragility curves\
+    \ appropriately to consider nonlinear soil behavior and/or SSI. We apply our method\
+    \ to an existing block of\u2014 mainly\u2014residential buildings in Thessaloniki,\
+    \ Greece. To derive the fragility curves for the building block, we perform (i)\
+    \ incremental dynamic analyses of the existing individual structures considering\
+    \ nonlinear soil behavior and SSI, (ii) incremental dynamic analyses of the existing\
+    \ structures neglecting the underlying soil, (iii) fragility assessment using\
+    \ existing fragility curves found in literature and (iv) fragility assessment\
+    \ using existing fragility curves found in literature, but modifed using our proposed\
+    \ FM to account for nonlinear soil behavior and SSI. Next, assessment is also\
+    \ performed in terms of vulnerability. A comparison between the obtained results\
+    \ highlights the efectiveness of the proposed FM for large-scale risk assessment,\
+    \ and the necessity to consider soil-related efects. In particu\u03BBar, the results\
+    \ are compared in terms of fragility and vulnerability. Since the selection of\
+    \ the block is representative of the city center of Thessaloniki, our results\
+    \ will be indicative for city-level applications."
+  keywords:
+    default:
+      keywords:
+        subject: Vulnerability assessment, City-scale, Fragility modifers, BNWF
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7476581
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7476580
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Petridis-Christos:
+    individualname: Petridis, Christos
+    role: creator
+    organization: Aristotle University of Thessaloniki
+    url: https://orcid.org/0000-0002-6078-1684
+  Pitilakis-Dimitris:
+    individualname: Pitilakis, Dimitris
+    role: creator
+    organization: Aristotle University of Thessaloniki
+    url: https://orcid.org/0000-0001-7363-3667
+content_info: {}

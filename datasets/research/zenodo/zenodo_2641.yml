@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8090818
+  dataseturi: https://doi.org/10.5281/zenodo.8090818
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Excessive nitrogen application under moderate soil water deficit decreases
+    photosynthesis, respiration, carbon gain and water use efficiency of maize
+  abstract: The impact of water stress and nitrogen (N) nutrition on leaf respiration
+    (R), carbon balance and water use efficiency (WUE) remains largely elusive. Therefore,
+    the objective of the present study was to investigate the effect of soil water
+    and N stresses on growth, physiological responses, leaf structure, carbon gain
+    and WUE of maize. The plants were subjected to different soil water and N regimes
+    to maturity. The results showed that the photosynthesis (A<sub>n</sub>) and stomatal
+    conductance (G<sub>s</sub>) decreased significantly under the water stressed treatments
+    across the N treatments mainly ascribed to the decreased plant water status. The
+    moderate water stress reduced the photosynthetic capacity and activity and also
+    caused damage to the structure of leaves, resulting in the significant reduction
+    of A<sub>n</sub>, and thus decreased WUE<sub>i</sub>. The dark respiration (R<sub>d</sub>)
+    was significantly decreased due to the damage of mitochondria, however, the R<sub>d</sub>/A<sub>n</sub>
+    increased significantly and the carbon gain was seriously compromised, eventually
+    inhibiting biomass growth under the moderately water stressed treatment. Increasing
+    N dose further aggravated the severity of water deficit, decreased A<sub>n</sub>,
+    G<sub>s</sub> and WUE<sub>i</sub>, damaged the structure and reduced the number
+    of mitochondria of leaves, while increased R<sub>d</sub>/A<sub>n</sub> considerably
+    under moderate water stress. Consequently, the biomass accumulation, carbon gain
+    and plant level WUE<sub>p</sub> in the moderately water stressed treatment decreased
+    markedly under the high N supply. Therefore, excessive N application should be
+    avoided when plants suffer soil water stress in maize production.
+  keywords:
+    default:
+      keywords:
+        subject: Water potential
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-07-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8090818
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090817
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Huanli-Xing:
+    individualname: Huanli Xing
+    role: creator
+    organization: ''
+    url: ''
+  Wenbin-Zhou:
+    individualname: Wenbin Zhou
+    role: creator
+    organization: ''
+    url: ''
+  Chao-Wang:
+    individualname: Chao Wang
+    role: creator
+  Li-Li:
+    individualname: Li, Li
+    role: creator
+    organization: ''
+    url: ''
+  Xiangnan-Li:
+    individualname: Xiangnan Li
+    role: creator
+    organization: ''
+    url: ''
+  Ningbo-Cui:
+    individualname: Ningbo Cui
+    role: creator
+    organization: ''
+    url: ''
+  Weiping-Hao:
+    individualname: Weiping Hao
+    role: creator
+    organization: ''
+    url: ''
+  Fulai-Liu:
+    individualname: Fulai Liu
+    role: creator
+    organization: ''
+    url: ''
+  Yaosheng-Wang:
+    individualname: Yaosheng Wang
+    role: creator
+    organization: ''
+    url: ''
+  Wang-Chao:
+    individualname: Wang, Chao
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

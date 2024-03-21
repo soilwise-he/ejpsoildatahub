@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1111895
+  dataseturi: https://doi.org/10.5281/zenodo.1111895
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction Of Metals Available To Maize Seedlings In Crude Oil Contaminated
+    Soil
+  abstract: 'The study assessed the effect of crude oil applied at rates, 0, 2, 5,
+    and 10% on the fractional chemical forms and availability of some metals in soils
+    from Usen, Edo State, with no known crude oil contamination and soil from a crude
+    oil spill site in Ubeji, Delta State, Nigeria. Three methods were used to determine
+    the bioavailability of metals in the soils: maize (<em>Zea mays</em>) plant, EDTA
+    and BCR sequential extraction. The sequential extract acid soluble fraction of
+    the BCR extraction (most labile fraction of the soils, normally associated with
+    bioavailability) were compared with total metal concentration in maize seedlings
+    as a means to compare the chemical and biological measures of bioavailability.
+    Total Fe was higher in comparison to other metals for the crude oil contaminated
+    soils. The metal concentrations were below the limits of 4.7% Fe, 190mg/kg Cu
+    and 720mg/kg Zn intervention values and 36mg/kg Cu and 140mg/kg Zn target values
+    for soils provided by the Department of Petroleum Resources (DPR) guidelines.
+    The concentration of the metals in maize seedlings increased with increasing rates
+    of crude oil contamination. Comparison of the metal concentrations in maize seedlings
+    with EDTA extractable concentrations showed that EDTA extracted more metals than
+    maize plant.'
+  keywords:
+    default:
+      keywords:
+        subject: metals.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1111895
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1111894
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stella-O.-Olubodun:
+    individualname: Stella O. Olubodun
+    role: creator
+  George-E.-Eriyamremu:
+    individualname: George E. Eriyamremu
+    role: creator
+  Olubodun-Stella-O.:
+    individualname: Olubodun, Stella O.
+    role: ''
+    organization: ''
+    url: ''
+  Eriyamremu-George-E.:
+    individualname: Eriyamremu, George E.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

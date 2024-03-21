@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Corral_Pazos_de_Provens_2023
+  dataseturi: https://doi.org/10.1016/j.iswcr.2022.07.001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The USLE soil erodibility nomograph revisited
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The USLE soil erodibility nomograph revisited
+    url: http://dx.doi.org/10.1016/j.iswcr.2022.07.001
+    type: www
+contact:
+  KeAi:
+    individualname: KeAi
+    role: creator
+  Corral-Pazos-de-Provens-Eva:
+    individualname: Corral-Pazos-de-Provens, Eva
+    role: creator
+  Rapp-Arraras-Igor:
+    individualname: "Rapp-Arrar\xE1s, \xCDgor"
+    role: creator
+  Domingo-Santos-Juan-M.:
+    individualname: Domingo-Santos, Juan M.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

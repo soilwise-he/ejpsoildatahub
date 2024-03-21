@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1326615
+  dataseturi: https://doi.org/10.5281/zenodo.1326615
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Conservation Techniques For Soil Erosion Control In Tobacco-Based Farming
+    System At Steep Land Areas Of Progo Hulu Subwatershed, Central Java, Indonesia
+  abstract: 'This research was aimed at determining the impact of conservation techniques
+    including bench terrace, stone terrace, mulching, grass strip and intercropping
+    on soil erosion at tobacco-based farming system at Progo Hulu subwatershed, Central
+    Java, Indonesia. Research was conducted from September 2007 to September 2009,
+    located at Progo Hulu subwatershed, Central Java, Indonesia. Research site divided
+    into 27 land units, and experimental fields were grouped based on the soil type
+    and slope, ie: 30%, 45% and 70%, with the following treatments: 1) ST0= stone
+    terrace (control); 2) ST1= stone terrace + Setaria spacelata grass strip on a
+    5 cm height dike at terrace lips + tobacco stem mulch with dose of 50% (7 ton/
+    ha); 3) ST2= stone terrace + Setaria spacelata grass strip on a 5 cm height dike
+    at terrace lips + tobacco stem mulch with dose of 100% (14 ton/ ha); 4) ST3= stone
+    terrace + tobacco and red bean intercropping + tobacco stem mulch with dose of
+    50% (7 ton/ ha). 5) BT0= bench terrace (control); 6) BT1= bench terrace + Setaria
+    spacelata grass strip at terrace lips + tobacco stem mulch with dose of 50% (7
+    ton/ ha); 7) BT2= bench terrace + Setaria spacelata grass strip at terrace lips
+    + tobacco stem mulch with dose of 100% (14 ton/ ha); 8) BT3= bench terrace + tobacco
+    and red bean intercropping + tobacco stem mulch with dose of 50% (7 ton/ ha).
+    The results showed that the actual erosion rates of research site were higher
+    than that of tolerance erosion with mean value 89.08 ton/ha/year and 33.40 ton/ha/year,
+    respectively. These resulted in 69% of total research site (5,119.15 ha) highly
+    degraded. Conservation technique of ST2 was the most effective in suppressing
+    soil erosion, by 42.87%, following with BT2 as much 30.63%. Others suppressed
+    erosion only less than 21%.'
+  keywords:
+    default:
+      keywords:
+        subject: tolerance erosion.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-05-25'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1326615
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1326614
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jaka-Suyana:
+    individualname: Jaka Suyana
+    role: creator
+  Komariah:
+    individualname: Komariah
+    role: creator
+    organization: ''
+    url: ''
+  Masateru-Senge:
+    individualname: Masateru Senge
+    role: creator
+    organization: ''
+    url: ''
+  Suyana-Jaka:
+    individualname: Suyana, Jaka
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

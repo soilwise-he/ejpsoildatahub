@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Weaver_1914
+  dataseturi: https://doi.org/10.2307/2255416
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Evaporation, Soil Moisture and Plant Succession
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Evaporation, Soil Moisture and Plant Succession
+    url: http://dx.doi.org/10.2307/2255416
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Weaver-J.-E.:
+    individualname: Weaver, J. E.
+    role: creator
+  Fuller-G.-D.:
+    individualname: Fuller, G. D.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7395929
+  dataseturi: https://doi.org/10.5281/zenodo.7395929
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE PROBLEM OF SOIL POLLUTION AND DEGRADATION ON THE TERRITORY OF BELARUS
+    FOR THE PERIOD 2015-2016
+  abstract: The problem of land degradation due to various anthropogenic factors was
+    studied, as a result of the study, the causes of land degradation in Belarus were
+    identified and their impact on human health was studied. The soils of the surveyed
+    settlements are characterized by exceeding the values of background concentrations
+    for all identified ingredients, which confirms the accumulation of man-made pollutants
+    in the upper layer of urban soils, and there has also been a deterioration in
+    the agrophysical state of soils due to erosion and reclamation.
+  keywords:
+    default:
+      keywords:
+        subject: soil, land degradation, anthropogenic factors
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-04'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7395929
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7395928
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.I.-Zimatkina:
+    individualname: T.I. Zimatkina
+    role: creator
+    organization: ''
+    url: ''
+  A.S.-Aleksandrovich:
+    individualname: A.S. Aleksandrovich
+    role: creator
+    organization: ''
+    url: ''
+  A.A.-Shepelevich:
+    individualname: "\u0410.A. Shepelevich"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

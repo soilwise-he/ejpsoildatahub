@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5796171
+  dataseturi: https://doi.org/10.5281/zenodo.5796171
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Recovery of soil microbial community structure and activity following partial
+    sterilization
+  abstract: Soil microbial communities (bacteria, fungi, archea, protozoa) directly
+    and indirectly influence all other trophic interactions in soil. Partial soil
+    sterilization by gamma irradiation is emerging as a promising defanauting technique
+    to remove specific target group of organisms with minimal soil disturbance. While
+    considering the selective elimination of a target organism, it is crucial that
+    microbial community has recovered to its original state. The microbial community
+    should return back to its original state shortly after partial sterilization,
+    but to date there are no studies on the dynamics of microbial recovery following
+    partial sterilization.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-11-22'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5796171
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5796170
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Universidad-de-Camaguey-Ignacio-Agramonte-Loynaz:
+    individualname: "Universidad de Camag\xFCey Ignacio Agramonte Loynaz"
+    role: creator
+  Hassi-Ummehani:
+    individualname: Hassi, Ummehani
+    role: creator
+    organization: University of Ghent, Belgium
+    url: ''
+  Hu-Junwei:
+    individualname: Hu, Junwei
+    role: creator
+    organization: University of Ghent, Belgium
+    url: ''
+  Tsegaye-Gebremikael-Mesfin:
+    individualname: Tsegaye Gebremikael, Mesfin
+    role: creator
+    organization: University of Ghent, Belgium
+    url: ''
+  de-Neve-Stefaan:
+    individualname: de Neve, Stefaan
+    role: creator
+    organization: University of Ghent, Belgium
+    url: ''
+content_info: {}

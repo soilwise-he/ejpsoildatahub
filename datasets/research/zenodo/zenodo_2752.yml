@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6518887
+  dataseturi: https://doi.org/10.5281/zenodo.6518887
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Draft Genome Manuscript for Pseudomonas sp. Strain MWU-12.2302 Isolated from
+    Soil in the Cranberry Bogs in Massachusetts, USA
+  abstract: A bacterial sample was isolated from the soil of the cranberry bogs of
+    Massachusetts which was subsequently analyzed and identified using 16S rRNA sequences
+    and phenotypes. The isolate is most closely related to Psuedomonas Moorei.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-05-04'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6518887
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6518886
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sadeghi-Nima:
+    individualname: Sadeghi, Nima
+    role: creator
+    organization: Midwestern University
+    url: https://orcid.org/0000-0002-6711-3953
+  Soby-Scott:
+    individualname: Soby, Scott
+    role: creator
+    organization: Midwestern University
+    url: ''
+content_info: {}

@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7303561
+  dataseturi: https://doi.org/10.5281/zenodo.7303561
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Remedial trial of sequential anoxic/oxic chemico-biological treatment for
+    decontamination of extreme hexachlorocyclohexane concentrations in polluted soil
+  abstract: Research Paper Journal of Hazardous Materials Volume 443, Part A, 5 February
+    2023, 130199
+  keywords:
+    default:
+      keywords:
+        subject: Lindane; Bioremediation; Anaerobes; Aerobes; Zero-valent Iron
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-10-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7303561
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7303560
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jaroslav-Semerad:
+    individualname: "Jaroslav Semer\xE1d"
+    role: creator
+  Ondrej-Lhotsky:
+    individualname: "Ond\u0159ej Lhotsk\xFD"
+    role: creator
+    organization: "Dekonta a.s., D\u0159etovice 109, CZ-27342 Stehel\u010Deves, Czech\
+      \ Republic"
+    url: ''
+  Alena-Filipova:
+    individualname: "Alena Filipov\xE1"
+    role: creator
+  Ondrej-Urban:
+    individualname: "Ond\u0159ej Urban"
+    role: creator
+    organization: "Dekonta a.s., D\u0159etovice 109, CZ-27342 Stehel\u010Deves, Czech\
+      \ Republic"
+    url: ''
+  Katerina-Sirova:
+    individualname: "Kate\u0159ina \u0160\xEDrov\xE1"
+    role: creator
+    organization: "Institute of Microbiology of the Czech Academy of Sciences, V\xED\
+      de\u0148sk\xE1 1083, CZ-142 20, Prague 4, Czech Republic"
+    url: ''
+  Jana-Bohackova:
+    individualname: "Jana Boh\xE1\u010Dkov\xE1"
+    role: creator
+  Michael-Komarek:
+    individualname: "Michael Kom\xE1rek"
+    role: creator
+  Tomas-Cajthaml:
+    individualname: "Tom\xE1\u0161 Cajthaml"
+    role: creator
+    organization: "Institute for Environmental Studies, Faculty of Science, Charles\
+      \ University, Ben\xE1tsk\xE1 2, CZ-128 01, Prague 2, Czech Republic"
+    url: ''
+  Semerad-Jaroslav:
+    individualname: "Semer\xE1d, Jaroslav"
+    role: ''
+    organization: "Institute of Microbiology of the Czech Academy of Sciences, V\xED\
+      de\u0148sk\xE1 1083, CZ-142 20, Prague 4, Czech Republic"
+    url: ''
+  Filipova-Alena:
+    individualname: "Filipov\xE1, Alena"
+    role: ''
+    organization: "Institute of Microbiology of the Czech Academy of Sciences, V\xED\
+      de\u0148sk\xE1 1083, CZ-142 20, Prague 4, Czech Republic"
+    url: ''
+  Bohackova-Jana:
+    individualname: "Boh\xE1\u010Dkov\xE1, Jana"
+    role: ''
+    organization: "Institute of Microbiology of the Czech Academy of Sciences, V\xED\
+      de\u0148sk\xE1 1083, CZ-142 20, Prague 4, Czech Republic"
+    url: ''
+  Komarek-Michael:
+    individualname: "Kom\xE1rek, Michael"
+    role: ''
+    organization: "Faculty of Environmental Sciences, Czech University of Life Sciences\
+      \ Prague, Kam\xFDck\xE1 129, Prague \u2013 Suchdol, CZ-165 00, Czech Republic"
+    url: ''
+content_info: {}

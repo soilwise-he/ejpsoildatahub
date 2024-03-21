@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Vassileva_2020
+  dataseturi: https://doi.org/10.3390/microorganisms8111655
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Aspegillus terreus: From Soil to Industry and Back'
+  abstract: '&lt;p&gt;&lt;em&gt;Aspergillus terreus &lt;/em&gt;is an important saprophytic
+    filamentous fungus that can be found in soils. Like many other soil microorganisms,
+    &lt;em&gt;A. terreus &lt;/em&gt;demonstrates multiple functions and offers various
+    important metabolites, which can be used in different fields of human activity.
+    The first application of &lt;em&gt;A. terreus &lt;/em&gt;on an industrial level
+    is the production of itaconic acid, which is now considered as one of the most
+    important bioproducts in the Green Chemistry field. The general schemes for itaconic
+    acid production have been studied, but in this mini-review some lines of future
+    research are presented based on analysis of the published results. &lt;em&gt;A.
+    terreus &lt;/em&gt;is also intensively studied for its biocontrol activity and
+    plant growth-promoting effect. However, this microorganism is also known to infect
+    important crops such as, amongst others, rice, wheat, potato, sugar cane, maize,
+    and soybean. It was suggested, however, that the balance between positive vs.
+    negative effects is dependent on the soil-plant-inoculant dose system. &lt;em&gt;A.
+    terreus &lt;/em&gt;has frequently been described as an important human pathogen.
+    Therefore, its safety manipulation in biotechnological processes for the production
+    of itaconic acid and some drugs and its use in soil-plant systems should be carefully
+    assessed. Some suggestions in this direction are discussed, particularly concerning
+    the uses in crop production.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Aspergillus terreus
+      - plant growth promotion
+      - biocontrol
+      - itaconic acid production
+      - pathogenicity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Aspegillus terreus: From Soil to Industry and Back'
+    url: http://dx.doi.org/10.3390/microorganisms8111655
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vassileva-Maria:
+    individualname: Vassileva, Maria
+    role: creator
+  Malusa-Eligio:
+    individualname: "Malus\xE1, Eligio"
+    role: creator
+  Eichler-LObermann-Bettina:
+    individualname: "Eichler-L\xD6bermann, Bettina"
+    role: creator
+  Vassilev-Nikolay:
+    individualname: Vassilev, Nikolay
+    role: creator
+  Eichler-Lobermann-Bettina:
+    individualname: "Eichler-L\xF6bermann, Bettina"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

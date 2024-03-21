@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Upson_1915
+  dataseturi: https://doi.org/10.1021/ie50077a012
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The Effect of Certain Organic Compounds on Wheat Plants in the Soil\u2014\
+    Preliminary Paper."
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The Effect of Certain Organic Compounds on Wheat Plants in the Soil\u2014\
+      Preliminary Paper."
+    url: http://dx.doi.org/10.1021/ie50077a012
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Upson-Fred-W.:
+    individualname: Upson, Fred W.
+    role: creator
+  Powell-A.-R.:
+    individualname: Powell, A. R.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

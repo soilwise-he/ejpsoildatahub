@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Busnena_2021
+  dataseturi: https://doi.org/10.1016/j.phytochem.2021.112972
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Formation and exudation of biphenyl and dibenzofuran phytoalexins by roots
+    of the apple rootstock M26 grown in apple replant disease soil
+  abstract: 'Busnena, Belnaser A., Beuerle, Till, Mahnkopp-Dirks, Felix, Winkelmann,
+    Traud, Beerhues, Ludger, Liu, Benye (2021): Formation and exudation of biphenyl
+    and dibenzofuran phytoalexins by roots of the apple rootstock M26 grown in apple
+    replant disease soil. Phytochemistry (112972) 192: 1-12, DOI: 10.1016/j.phytochem.2021.112972,
+    URL: http://dx.doi.org/10.1016/j.phytochem.2021.112972'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Formation and exudation of biphenyl and dibenzofuran phytoalexins by roots
+      of the apple rootstock M26 grown in apple replant disease soil
+    url: http://dx.doi.org/10.1016/j.phytochem.2021.112972
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Busnena-Belnaser-A.:
+    individualname: Busnena, Belnaser A.
+    role: creator
+  Beuerle-Till:
+    individualname: Beuerle, Till
+    role: creator
+  Mahnkopp-Dirks-Felix:
+    individualname: Mahnkopp-Dirks, Felix
+    role: creator
+  Winkelmann-Traud:
+    individualname: Winkelmann, Traud
+    role: creator
+  Beerhues-Ludger:
+    individualname: Beerhues, Ludger
+    role: creator
+  Liu-Benye:
+    individualname: Liu, Benye
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

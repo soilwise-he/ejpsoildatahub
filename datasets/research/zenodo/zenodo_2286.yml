@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6364510
+  dataseturi: https://doi.org/10.5281/zenodo.6364510
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on the Effect of Phosphate, EDTA and Added Micronutrient on the Availability
+    of Zinc in Soil
+  abstract: Department of Agril, Chemistry and Soil Science, Bidhan Chandra Krishi
+    Viswa Vidyalaya, Kalyani, West Bengal <em>Manuscript received 22 August 1979,
+    accepted 9 January 1980</em> The DTPA-extractable zinc status of two alluvial
+    soils on incubation at moisture saturation under native and fertilized conditions
+    have been studied. It was found that the application of a lower dose of phosphate
+    caused an immediate increase in available Zn in both native and Zn treated soils
+    but with higher dose of phosphate and on prolonged incubation a general decrease
+    was observed. On adding organic matter as EDTA, phosphate treated soils showed
+    as increase but one of the Zn-treated soils showed a<strong> </strong>decreasing
+    trend which is the general case for all soils on prolonged incubation.
+  keywords:
+    default:
+      keywords:
+        subject: prolonged incubation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1980-02-29'
+    publication: '1980'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6364510
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6364509
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ASIT-KUMAR-PAL:
+    individualname: ASIT KUMAR PAL
+    role: creator
+    organization: ''
+    url: ''
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

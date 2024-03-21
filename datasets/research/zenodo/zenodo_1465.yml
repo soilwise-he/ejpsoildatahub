@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Melvin_1887
+  dataseturi: https://doi.org/10.1144/transed.5.3.468
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Hutton\u2019s views of the vegetable soil or mould, and vegetable and animal\
+    \ life"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Hutton\u2019s views of the vegetable soil or mould, and vegetable and animal\
+      \ life"
+    url: http://dx.doi.org/10.1144/transed.5.3.468
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Melvin-J.:
+    individualname: Melvin, J.
+    role: creator
+  Melvin-James:
+    individualname: Melvin, James
+    role: creator
+  Geological-Society-of-London:
+    individualname: Geological Society of London
+    role: creator
+content_info: {}

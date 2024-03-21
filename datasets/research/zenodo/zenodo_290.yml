@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7436609
+  dataseturi: https://doi.org/10.5281/zenodo.7436609
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECT OF BIOCHAR ON SOIL N, P, K CONTENT, PH, ENZYME ACTIVITY AND SOIL WATER
+    HOLDING CAPACITY
+  abstract: <strong>Abstract</strong> In this study, the effect of biochar samples
+    prepared on the basis of chicken manure and household waste on the amount of macro-elements,
+    pH values, the activity of enzymes, and total moisture holding capacity of soybean-planted
+    soils were studied. It was determined that biochar samples have a positive effect
+    on the general condition of the soil.
+  keywords:
+    default:
+      keywords:
+        subject: biochar, soil, macro-elements, enzymes, pH, moisture holding capacity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-12'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7436609
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7436608
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shukurov-O.:
+    individualname: Shukurov, O.
+    role: creator
+    organization: Faculty of Biology of the National University of Uzbekistan named
+      after Mirzo Ulugbek, Tashkent Uzbekistan Institute of Fundamental and Applied
+      research of the "TIIAME" National Research University, Tashkent Uzbekistan
+    url: ''
+  Egamberdieva-D.:
+    individualname: Egamberdieva, D.
+    role: creator
+    organization: Faculty of Biology of the National University of Uzbekistan named
+      after Mirzo Ulugbek, Tashkent Uzbekistan Institute of Fundamental and Applied
+      research of the "TIIAME" National Research University, Tashkent Uzbekistan
+    url: ''
+  Jabbarov-Z.:
+    individualname: Jabbarov, Z.
+    role: creator
+    organization: Faculty of Biology of the National University of Uzbekistan named
+      after Mirzo Ulugbek, Tashkent Uzbekistan Institute of Fundamental and Applied
+      research of the "TIIAME" National Research University, Tashkent Uzbekistan
+    url: ''
+content_info: {}

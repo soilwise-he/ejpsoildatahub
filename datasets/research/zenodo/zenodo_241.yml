@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8116736
+  dataseturi: https://doi.org/10.5281/zenodo.8116736
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Association between CBR and Soil Index Properties: Empirical Analysis from
+    Chitwan and Makwanpur District Soil Samples'
+  abstract: "The California Bearing Ratio (CBR) value is a crucial soil parameter\
+    \ in road construction and design. Obtaining representative CBR values is challenging,\
+    \ requiring time-consuming and expensive testing procedures. To address this issue,\
+    \ regression equations were developed to establish correlations between CBR and\
+    \ soil index properties. Laboratory tests were conducted to determine the soaked\
+    \ CBR, Liquid Limit (LL), Plastic Limit (PL), Plasticity Index (PI), Maximum Dry\
+    \ Density (MDD), and Optimum Moisture Content (OMC) of soil samples. Regression\
+    \ models were then created between CBR and different sets of soil index properties\
+    \ using Microsoft Excel 2007. Strong correlations were observed between soaked\
+    \ CBR, PL, PI, OMC, and MDD (R2 = 0.744); CBR, LL, PL, OMC, and MDD (R2 = 0.702);\
+    \ CBR, PI, OMC, and MDD (R2 = 0.643); CBR, LL, OMC, and MDD (R2 = 0.621); and\
+    \ CBR, OMC, and MDD (R2 = 0.602). Among all equations, the relation CBR = 0.72\
+    \ PL \u2013 1.22 PI + 2.34 OMC + 106.97 MDD \u2013 222.46 exhibited the strongest\
+    \ correlation with a P-value of 0.005 and R2 of 0.744.<br>"
+  keywords:
+    default:
+      keywords:
+        subject: California Bearing Ratio, LL, PL, PI, Soil Strength Parameters, Regression
+          analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-05'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8116736
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8116735
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dipak-Koirala:
+    individualname: Dipak Koirala
+    role: creator
+  Keshab-Datt-Awasthi:
+    individualname: Keshab Datt Awasthi
+    role: creator
+    organization: United Technical College, Bharatpur Chitwan, Nepal
+    url: ''
+  Niraj-Bohara:
+    individualname: Niraj Bohara
+    role: creator
+    organization: United Technical College, Bharatpur Chitwan, Nepal
+    url: ''
+  Koirala-Dipak:
+    individualname: Koirala, Dipak
+    role: ''
+    organization: United Technical College, Bharatpur Chitwan, Nepal
+    url: https://orcid.org/0009-0001-1387-0721
+content_info: {}

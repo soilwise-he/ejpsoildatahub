@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1071780
+  dataseturi: https://doi.org/10.5281/zenodo.1071780
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Modelling Of Soil Structure Interaction Of Integral Abutment Bridges
+  abstract: 'Integral Abutment Bridges (IAB) are defined as
+
+    simple or multiple span bridges in which the bridge deck is cast
+
+    monolithically with the abutment walls. This kind of bridges are
+
+    becoming very popular due to different aspects such as good
+
+    response under seismic loading, low initial costs, elimination of
+
+    bearings, and less maintenance. However the main issue related to
+
+    the analysis of this type of structures is dealing with soil-structure
+
+    interaction of the abutment walls and the supporting piles. Various
+
+    soil constitutive models have been used in studies of soil-structure
+
+    interaction in this kind of structures by researchers. This paper is an
+
+    effort to review the implementation of various finite elements model
+
+    which explicitly incorporates the nonlinear soil and linear structural
+
+    response considering various soil constitutive models and finite
+
+    element mesh.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil-structure Interactions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-06-26'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1071780
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1071779
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thevaneyan-K.-David:
+    individualname: Thevaneyan K. David
+    role: creator
+    organization: ''
+    url: ''
+  John-P.-Forth:
+    individualname: John P. Forth
+    role: creator
+  Forth-John-P.:
+    individualname: Forth, John P.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

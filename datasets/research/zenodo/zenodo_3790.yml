@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1339099
+  dataseturi: https://doi.org/10.5281/zenodo.1339099
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Nonlinear Finite Element Modeling Of Deep Beam Resting On Linear And Nonlinear
+    Random Soil
+  abstract: "An accuracy nonlinear analysis of a deep beam resting on elastic perfectly\
+    \ plastic soil is carried out in this study. In fact, a nonlinear finite element\
+    \ modeling for large deflection and moderate rotation of Euler-Bernoulli beam\
+    \ resting on linear and nonlinear random soil is investigated. The geometric nonlinear\
+    \ analysis of the beam is based on the theory of von K\xE0rm\xE0n, where the Newton-Raphson\
+    \ incremental iteration method is implemented in a Matlab code to solve the nonlinear\
+    \ equation of the soil-beam interaction system. However, two analyses (deterministic\
+    \ and probabilistic) are proposed to verify the accuracy and the efficiency of\
+    \ the proposed model where the theory of the local average based on the Monte\
+    \ Carlo approach is used to analyze the effect of the spatial variability of the\
+    \ soil properties on the nonlinear beam response. The effect of six main parameters\
+    \ are investigated: the external load, the length of a beam, the coefficient of\
+    \ subgrade reaction of the soil, the Young's modulus of the beam, the coefficient\
+    \ of variation and the correlation length of the soil's coefficient of subgrade\
+    \ reaction. A comparison between the beam resting on linear and nonlinear soil\
+    \ models is presented for different beam's length and external load. Numerical\
+    \ results have been obtained for the combination of the geometric nonlinearity\
+    \ of beam and material nonlinearity of random soil. This comparison highlighted\
+    \ the need of including the material nonlinearity and spatial variability of the\
+    \ soil in the geometric nonlinear analysis, when the beam undergoes large deflections."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-29'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1339099
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1339098
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Seguini:
+    individualname: M. Seguini
+    role: creator
+    organization: ''
+    url: ''
+  D.-Nedjar:
+    individualname: D. Nedjar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

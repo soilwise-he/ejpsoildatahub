@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6767112
+  dataseturi: https://doi.org/10.5281/zenodo.6767112
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: New Aspects of Nitrogen Fixation and Conservation in Soil. Part I.
+  abstract: New Aspects of Nitrogen Fixation and Conservation in Soil. Part I.
+  keywords:
+    default:
+      keywords:
+        subject: Photo oxidation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1936-12-31'
+    publication: '1936'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6767112
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6767111
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-R.-DHAR:
+    individualname: N. R. DHAR
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-MUKERJI:
+    individualname: S. K. MUKERJI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

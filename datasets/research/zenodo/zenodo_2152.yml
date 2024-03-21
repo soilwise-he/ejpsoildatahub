@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7247139
+  dataseturi: https://doi.org/10.5281/zenodo.7247139
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Fertilizer management on two contrasting soil types in the rainfed lowland
+    rice production system in Cambodia
+  abstract: This article 'Fertilizer management on two contrasting soil types in the
+    rainfed lowland rice production system in Cambodia' appeared in the International
+    Rice Research Notes series, created by the International Rice Research Institute
+    (IRRI) to expedite communication among scientists concerned with the development
+    of improved technology for rice and rice-based systems. The series is a mechanism
+    to help scientists keep each other informed of current rice research findings.
+    The concise scientific notes are meant to encourage rice scientists to communicate
+    with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Cambodia
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1997-05-01'
+    publication: '1997'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7247139
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7247138
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dubus-I.:
+    individualname: Dubus, I.
+    role: creator
+    organization: ''
+    url: ''
+  Richard-H.:
+    individualname: Richard, H.
+    role: creator
+    organization: ''
+    url: ''
+  White-P.-F.:
+    individualname: White, P. F.
+    role: creator
+    organization: ''
+    url: ''
+  Bolton-M.:
+    individualname: Bolton, M.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

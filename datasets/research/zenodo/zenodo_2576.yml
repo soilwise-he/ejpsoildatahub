@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3421067
+  dataseturi: https://doi.org/10.5281/zenodo.3421067
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: "Soil and archaeology groundwork for landscape development projects of the\
+    \ Flemish Land Agency \u2013 the case study of Assebroek."
+  abstract: <strong>ABSTRACT:</strong> This paper describes the preliminary soil and
+    archaeological research carried out by the Flemish Land Agency, to achieve a well
+    substantiated project design. At the circular structure of Ver-Assebroek (Bruges),
+    the site of a former medieval castle, a landscape development project aims to
+    increase the visibility of the structure while respecting the soil values and
+    archaeological structures on the site.
+  keywords:
+    default:
+      keywords:
+        subject: circular structure, peat, limnic material, land development project
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3421067
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.3421066
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Publisher-Raakvlak-Archaeology-Monuments:
+    individualname: Publisher Raakvlak Archaeology, Monuments
+    role: creator
+  Landscapes-of-Bruges:
+    individualname: Landscapes of Bruges
+    role: creator
+  Hinterland-Belgium--www.raakvlak.be:
+    individualname: Hinterland, Belgium , www.raakvlak.be
+    role: creator
+  Ampe-Carole:
+    individualname: Ampe, Carole
+    role: creator
+    organization: Vlaamse Landmaatschappij, regio West, Belgium
+    url: ''
+  Korneel-Gheysen-Korneel:
+    individualname: Korneel Gheysen, Korneel
+    role: creator
+    organization: Vlaamse Landmaatschappij, regio West, Belgium
+    url: ''
+content_info: {}

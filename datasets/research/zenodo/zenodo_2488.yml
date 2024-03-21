@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4042119
+  dataseturi: https://doi.org/10.5281/zenodo.4042119
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil geomorphic unit and ecological site group maps for the rangelands of
+    the Upper Colorado River Basin region
+  abstract: 'This repository includes map of new soil geomorphic units and associated
+    ecological site groups for portions of the Upper Colorado River watershed. This
+    maps were created to serve as monitoring and management units for land managers
+    to use in evaluating land condition. They were created as the spatial data supporting
+    more detailed descriptions that describe both the potential vegetation if areas
+    are in good condition, or possible alternative ecological states that are likely
+    in different scenarios. These data are preliminary or provisional and are subject
+    to revision. They are being provided to meet the need for timely best science.
+    The data have not received final approval by the U.S. Geological Survey (USGS)
+    and are provided on the condition that neither the USGS nor the U.S. Government
+    shall be held liable for any damages resulting from the authorized or unauthorized
+    use of the data. The creation and interpretation of these data are documented
+    in the following article. The descriptions of these units will also be eventually
+    posted on the Ecosystem Dynamics Interpretive Tool (https://edit.jornada.nmsu.edu/)
+    or in other reports (updates will be posted here on Zenodo). Ultimately, these
+    data will also be release in an official USGS repository, which will serve as
+    the official copy. A link to that final release will be posted here. Nauman, T.W.,
+    Duniway, M.C. Humphreys, J. <strong>IN REVIEW</strong>. A mappable soil geomorphic
+    framework for ecologically based management units. Rangeland Ecology and Management.
+    Accuracy of maps! We used a randomly withheld 20% of the soils data training locations
+    to validate the maps made here. Maps were created using a random forest classification
+    model using digital soil mapping methods (details in publication). Overall accuracy
+    was 57% with agreement rising to 74% and 82% if the 2nd and 3rd most probable
+    predicted classes were considered. A validation confusion matrix is included for
+    more details on each class. Files and Brief Descriptions: "Clim_zones": These
+    files include a geotif raster and associated GIS files showing spatial distribution
+    of climate zones. Files include a pre-joined table of class names that will open
+    in ArcGIS fully labeled, or in other GIS software by class value (have to use
+    dbf to look up names). These climate zones were used in combination with the soil
+    geomorphic units to create the Ecological Site Groups ESGs. They utilize a common
+    global aridity index map (https://cgiarcsi.community/data/global-aridity-and-pet-database/)
+    along with a map of the average high temperature for the hottest month (https://www.worldclim.org/data/bioclim.html,
+    BIO5). "sgu_1stClass": These files include a geotif raster and associated GIS
+    files showing spatial distribution of Soil Geomorphic Units (SGUs). This raster
+    indicates the most likely predicted class in the model for every pixel. Files
+    include a pre-joined table of class names that will open in ArcGIS fully labeled,
+    or in other GIS software by class value (have to use dbf to look up names). "sgu_2ndClass":
+    These files include a geotif raster and associated GIS files showing spatial distribution
+    of SGUs. This raster indicates the second most likely predicted class in the model
+    for every pixel. Files include a pre-joined table of class names that will open
+    in ArcGIS fully labeled, or in other GIS software by class value (have to use
+    dbf to look up names). "sgu_3rdClass": These files include a geotif raster and
+    associated GIS files showing spatial distribution of SGUs. This raster indicates
+    the third most likely predicted class in the model for every pixel. Files include
+    a pre-joined table of class names that will open in ArcGIS fully labeled, or in
+    other GIS software by class value (have to use dbf to look up names). "UCRB_SGUs_probmax":
+    These files include a geotif raster and associated GIS files showing spatial distribution
+    of prediction probabilities associated with the most probable SGU class for each
+    pixel. This provides a relative understanding of how uncertain the model was in
+    each pixel prediction. "UCRB_SGUs_ShanEntropy" These files include a geotif raster
+    and associated GIS files showing spatial distribution of Shannon''s Entropy calculated
+    based on the modeled probabilities of all possible SGU classes in each pixel.
+    Higher values indicate more dispersion of probability across classes (more uncertainty
+    in prediction) that can be interpreted in relative terms. "ESGs_final": These
+    files include a geotif raster and associated GIS files showing spatial distribution
+    of Ecological Site Groups (SGUs). This raster combines the SGU map with the climate
+    zones based on an optimization of both reference community vegetation production
+    and potential states from state and transition models linked to each group (See
+    publication for details). Files include a pre-joined table of class names that
+    will open in ArcGIS fully labeled, or in other GIS software by class value (have
+    to use dbf to look up names). "UCRB_SGU_validation_confusion_matrix.xls" Excel
+    worksheet with table comparing predicted classes to observed classes at withheld
+    soil classification locations. This sheet provides class-wise User Accuracy (number
+    of correct predictions out of total location predicted to be a certain class)
+    and Producer Accuracy (number of correct predictions out of the total validation
+    locations determined to be a given class) along with overall accuracy.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-09-21'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4042119
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4042118
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nauman-Travis:
+    individualname: Nauman, Travis
+    role: creator
+    organization: US Geological Survey
+    url: https://orcid.org/0000-0001-8004-0608
+content_info: {}

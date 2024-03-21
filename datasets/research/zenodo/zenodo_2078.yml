@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1172771
+  dataseturi: https://doi.org/10.5281/zenodo.1172771
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analytical Indicators Research Of Water And Soil Samples In The Territory
+    Of Karmanovskaya Gres (Neftekamsk, Bashkortostan)
+  abstract: "The aim of this work is the study of the analytical performance of samples\
+    \ of water and soil on the territory of Karmanovskaya GRES city of Neftekamsk\
+    \ of the Republic of Bashkortostan.\n\nIn the article the organoleptic evaluation\
+    \ of the quality of the water samples and the results of investigations of physical-chemical\
+    \ indicators: total salinity, hardness, pH and radon. Analysis of water for metal\
+    \ content was performed by atomic absorption spectrometry. The radon content was\
+    \ measured with a radiometer Alford. The article also presents a study of soil\
+    \ samples from the territory of Karmanovskaya GRES. The analysis of the content\
+    \ of movable forms of metals, petroleum, volatile phenols and other indicators.\
+    \ Determination of mobile forms of metals was conducted by atomic absorption method\
+    \ M-MVI-80-2008. Study of petroleum products was carried out using fluorescence.\
+    \ The results of the study of organoleptic characteristics of water samples indicate\
+    \ the absence of \u201Cbloom\u201D and \u201Cattenuation of water\u201D. Values\
+    \ of mass concentrations of metals in all water samples do not reach the maximum\
+    \ permissible concentrations. The concentrations of heavy metals in soil sample\
+    \ within the MPC. However, there is a slight increase in the concentration of\
+    \ copper and manganese, which is probably connected with their presence in parent\
+    \ rocks.\n\nAccording to the research data of water samples, the authors have\
+    \ shown that Karmanovskaya GRES is not a source of pollution, as indicators of\
+    \ all chemical values were determined in water samples do not exceed the Mac values,\
+    \ according to SanPiN 2.1.4.107401. The numerical values of the soils, in General,\
+    \ do not exceed standards and have no adverse effects on the environment. The\
+    \ conclusion that the territory of Karmanovskaya SDPP, not subjected to anthropogenic\
+    \ influence."
+  keywords:
+    default:
+      keywords:
+        subject: assessment of anthropogenic impact
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-02-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1172771
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1172770
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fattakhova-L.:
+    individualname: Fattakhova, L.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Onina-S.:
+    individualname: Onina, S.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Kozlova-G.:
+    individualname: Kozlova, G.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Minina-N.:
+    individualname: Minina, N.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+content_info: {}

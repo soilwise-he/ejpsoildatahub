@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5227267
+  dataseturi: https://doi.org/10.5281/zenodo.5227267
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: 'The Effect of Light and Soil Moisture on the Environmental Behavior of Newts
+    (Triturus vittatus vittatus, Urodela): A Detailed Study'
+  abstract: 'The effects of light and moisture on the response of metamorphosed newts
+    (<em>Triturus vittatus vittatus</em>) to hiding places were studied under experimental
+    conditions. No significant differences (X<sup>2</sup>-test; <em>P</em> &gt; 0.05)
+    were found in the choice of hiding places covered with black or transparent paper
+    as the controls for the experiments. The newts'' selection of hiding place was
+    significantly affected by soil moisture and negative phototaxis. Significant differences
+    (X<sup>2</sup>-test; <em>P</em> &lt; 0.05) were found in the choice of hiding
+    places between those covered by black paper and those covered by transparent,
+    differently colored paper (transmitting different wavelengths of light): colorless,
+    yellow, red, blue and green. The negative phototaxis differed with wavelength.
+    The response to moisture was stronger than that to light. In all combinations
+    tested, juvenile <em>T.</em> <em>v. vittatus </em>chose moist soil in hiding places
+    covered by black or transparent paper, and the differences were significant (X<sup>2</sup>-test;
+    <em>P</em> &lt; 0.001).'
+  keywords:
+    default:
+      keywords:
+        subject: wavelength
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-02'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5227267
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5227266
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  Gad-Degani:
+    individualname: Gad Degani
+    role: creator
+  Degani-Gad:
+    individualname: Degani, Gad
+    role: ''
+    organization: Migal-Galilee Technology Center, Kiryat Shmona, Israel & School
+      of Science and Technology, Tel-Hai Academic College, Tel Hai, Israel.
+    url: ''
+content_info: {}

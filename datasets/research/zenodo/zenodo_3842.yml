@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1226725
+  dataseturi: https://doi.org/10.5281/zenodo.1226725
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Screening Of Potential Antibiotic Producing Actinomycetes From The Soil Of
+    Ganga River Bed Of Haridwar
+  abstract: 'Actinomycetes are the mostly widely distributed group of microorganism
+    in nature which is of high commercial value and thus are routinely screened for
+    new antibiotics. We have undertaken this study to resolve the problem of antibiotic
+    resistance. 6Actinomycetes were isolated from the soil by serial dilution method.
+    Based on the biochemical characterization Nocardia sp. was chosen to check antibacterial
+    potential. Optimization of growth was carried out at 290C for 5-7 days on Glycerol
+    Yeast Extract Agar Medium. Antibacterial activity was studied against E.coli and
+    Bacillus sp.. Antibacterial activity was determined using disc diffusion method.
+    Antibacterial metabolite extracted using ethyl acetate was effective and gave
+    zone of inhibition of 13mm and 20mm against the used pathogenic Bacillus and E.coli
+    strains. As most microorganisms have developed resistance to existing antibiotics.
+    So it has provoked the need of constant research like ours on the production of
+    newer antibiotics. Keywords: Actinomycetes, antibiotics, Nocardia sp., E.coli,
+    Bacillus, disc diffusion, GYEAM, Antibacterial potential.'
+  keywords:
+    default:
+      keywords:
+        subject: Actinomycetes, antibiotics, Nocardia sp., E.coli, Bacillus, disc
+          diffusion, GYEAM, Antibacterial potential.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-04-22'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1226725
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1226724
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Padma-Singh*:
+    individualname: Padma Singh*
+    role: creator
+  Pallavi:
+    individualname: Pallavi
+    role: creator
+  Singh*-Padma:
+    individualname: Singh*, Padma
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

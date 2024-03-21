@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3544150
+  dataseturi: https://doi.org/10.5281/zenodo.3544150
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECT OF ROW SPACING, MINERAL AND ORGANIC FERTILIZERS ON YIELD AND GROWTH
+    PARAMETERS OF PANICUM MAXIMUM ON FERRALITIC SOIL IN BENIN (WEST AFRICA).
+  abstract: 'This study proposes to evaluate the influence of the spacing row and
+    NPK 15-15-15 fertilizer and goat manure on Panicum maximum seed production and
+    fodder nutritive value harvested in south Benin on ferralitic soil from 2015 to
+    2017. The experiment was a factorial design comprising all combinations of 4 row
+    spacings (20, 40, 60 and 80 cm) and 6 fertilizers: six levels of fertilizer: (F0)
+    No goat manure (Control) (F1), 100 kg NPK 15-15-15, (F2) 20 t/ha goat manure,
+    (F3) 15 t/ha goat manure, (F4) 10t/ha goat manure + 33kg NPK 15-15-15 and (F5)
+    5 tons + 66 Kg NPK/ha. Four replications were used in the experiment. The results
+    showed that wider row spacing (60 cm) enhanced seed production in this experiment.
+    Number of total tillers/tussock, fertile tillers/tussocks and spike length were
+    significantly greater under the widest rows spacing (60 cm and 80 cm). The best
+    seed yield got with row spacing 60 cm (392.1 kg.ha-1) and 45.5% of caryopses germinate
+    after six months of storage against 14.5% for spikelet. Seed yield and its attributes
+    increased significantly with NPK combined to goat manures (F4).'
+  keywords:
+    default:
+      keywords:
+        subject: seed production row spacing fertilizers ferralitic soil Benin.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-10-02'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3544150
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3544149
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gbenou-Basile--Adjolohoun-Sebastien:
+    individualname: Gbenou Basile , Adjolohoun Sebastien
+    role: creator
+  Houndjo-Daniel-Bignon-Maxime--Saidou-Aliou--Ahoton-Leonard:
+    individualname: Houndjo Daniel Bignon Maxime , Saidou Aliou , Ahoton Leonard
+    role: creator
+  Houinato-Marcel-and-Sinsin-Augustin-Brice.:
+    individualname: Houinato Marcel and Sinsin Augustin Brice.
+    role: creator
+  Gbenou-Basile-Adjolohoun-Sebastien:
+    individualname: Gbenou Basile, Adjolohoun Sebastien
+    role: ''
+    organization: Departement de Production Animale, Faculte des Sciences Agronomiques,
+      Universite de Abomey-Calavi, 03 BP 2819 Jericho, Cotonou, Benin.
+    url: ''
+  Houndjo-Daniel-Bignon-Maxime-Saidou-Aliou:
+    individualname: Houndjo Daniel Bignon Maxime, Saidou Aliou
+    role: ''
+    organization: Departement de Production Vegetale, Faculte des Sciences Agronomiques,
+      Universite de Abomey-Calavi, 03 BP 2819 Jericho, Cotonou, Benin.
+    url: ''
+  Houinato-Marcel-And-Sinsin-Augustin-Brice.:
+    individualname: Houinato Marcel And Sinsin Augustin Brice.
+    role: ''
+    organization: Departement de l Amenagement et Gestion des Ressources Naturelles,
+      Faculte des Sciences Agronomiques, Universite de Abomey-Calavi, 03 BP 2819 Jericho,
+      Cotonou, Benin.
+    url: ''
+content_info: {}

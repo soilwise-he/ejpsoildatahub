@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1474383
+  dataseturi: https://doi.org/10.5281/zenodo.1474383
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Sunflower Irrigation With Two Different Types Of Soil Moisture Sensors
+  abstract: 'Irrigation is one of the most important cultivation practices for each
+    crop, especially in areas where rainfall is enough to cover the crop water needs.
+    In such areas, the farmers must irrigate in order to achieve high economical results.
+    The precise irrigation scheduling contributes to irrigation water saving and thus
+    a valuable natural resource is protected. Under this point of view, in the experimental
+    field of the Laboratory of Agricultural Hydraulics of the University of Thessaly,
+    a research was conducted during the growing season of 2012 in order to evaluate
+    the growth, seed and oil production of sunflower as well as the water saving,
+    by applying different methods of irrigation scheduling. Three treatments in four
+    replications were organized. These were: a) surface drip irrigation where the
+    irrigation scheduling based on the Penman-Monteith (PM) method (control); b) surface
+    drip irrigation where the irrigation scheduling based on a soil moisture sensor
+    (SMS); and c) surface drip irrigation, where the irrigation scheduling based on
+    a soil potential sensor (WM).'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-07-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1474383
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1474382
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.-D.-Papanikolaou:
+    individualname: C. D. Papanikolaou
+    role: creator
+    organization: ''
+    url: ''
+  V.-A.-Giouvanis:
+    individualname: V. A. Giouvanis
+    role: creator
+    organization: ''
+    url: ''
+  E.-A.-Karatasiou:
+    individualname: E. A. Karatasiou
+    role: creator
+    organization: ''
+    url: ''
+  D.-S.-Dimakas:
+    individualname: D. S. Dimakas
+    role: creator
+    organization: ''
+    url: ''
+  M.-A.-Sakellariou-Makrantonaki:
+    individualname: M. A. Sakellariou-Makrantonaki
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

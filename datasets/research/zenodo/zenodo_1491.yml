@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10170790
+  dataseturi: https://doi.org/10.5281/zenodo.10170790
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: HEAVY METALS IN DRY BOTTOM SOIL OF THE ARAL SEA AND THEIR MIGRATION
+  abstract: Every year, up to one hundred million tons of toxic salt and dust mixture
+    is carried by the winds from the dried bottom of the Aral Sea. Most of it settles
+    in the nearest territories, but millions of tons are carried away thousands of
+    kilometers away. The results of the analyzes show that the migration of toxicants
+    infects the environment and pollutes plant products. Based on the results of the
+    research, approaches have been developed to balance the ions in a layer of 0-20
+    cm to create the development of plants according to biological properties.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-21'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10170790
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10170789
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdiganiev-E.A.:
+    individualname: Abdiganiev, E.A.
+    role: creator
+    organization: ''
+    url: ''
+  Babaniyazov-B.J.:
+    individualname: Babaniyazov, B.J.
+    role: creator
+    organization: ''
+    url: ''
+  Kushiev-Kh.Kh.:
+    individualname: Kushiev, Kh.Kh.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

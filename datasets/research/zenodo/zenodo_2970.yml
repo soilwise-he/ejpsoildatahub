@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5763467
+  dataseturi: https://doi.org/10.5281/zenodo.5763467
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Application of pollution assessment models in soil contaminated by heavy
+    metals in two steel rods markets, Port Harcourt, Rivers State, Nigeria
+  abstract: "Soil samples were collected at a depth of 0-30cm within two steel markets\
+    \ and a control site in Port Harcourt, Rivers State Nigeria to assess the level\
+    \ of heavy metals (Fe, Pb, Cu, Cd, Cr, Ni and As) in the environment. Atomic Adsorption\
+    \ Spectrophotometer was used to analyze the samples for heavy metals. The concentrations\
+    \ of all the heavy metals in the steel rods markets exceeded that of the control.\
+    \ The results indicated that heavy metals concentrations in the sites were in\
+    \ the order; Mile III &gt; Kala &gt; RSU. The average levels of contamination\
+    \ of heavy metals recorded followed the order Fe &gt; Cr &gt; Cu &gt; Pb &gt;\
+    \ Ni &gt; As &gt; Cd in Mile III, Fe &gt; Pb &gt; Cu &gt; Cr &gt; Ni &gt; As &gt;\
+    \ Cd in Kala and Fe &gt; Cu &gt; Pb &gt; Cr &gt; Ni &gt; As &gt; Cd in RSU (control).\
+    \ Mean concentrations obtained for heavy metals within the months of investigation\
+    \ were; 1420.931\xB19.155, 7.753\xB10.184, 8.730\xB10.050, 2.843\xB10.124, 9.428\xB1\
+    0.122, 7.433\xB10.047 and 3.732\xB10.047 mg/Kg for Fe, Pb, Cu, Cd, Cr, Ni and\
+    \ As respectively at the mile III station, while the mean concentrations of heavy\
+    \ metals observed at the Kala station were; 1161.173\xB11.823, 9.425\xB10.054,\
+    \ 7.596\xB10.027, 1.425\xB10.020, 6.507\xB10.006, 5.455\xB10.033 and 1.901\xB1\
+    0.010 mg/Kg for Fe, Pb, Cu, Cd, Cr, Ni and As respectively. The mean values of\
+    \ heavy metals concentrations observed at the RSU station within the period were;\
+    \ 892.064\xB11.025,5.603\xB10.007, 5.841\xB10.051, 0.173\xB10.005, 3.389\xB10.009,\
+    \ 2.309\xB10.010 and 0.706\xB10.006 mg/Kg for Fe, Pb, Cu, Cd, Cr, Ni and As respectively.\
+    \ Pollution assessment models used for assessing the anthropogenic input on the\
+    \ quality of the soil in the area using the control site as the basis of judgment\
+    \ were: contamination factor (CF), pollution load index (PLI), contamination degree\
+    \ (CD), modified contamination degree (mCD), potential ecological risk coefficient\
+    \ (Eir), potential ecological risk index (RI), Geo-accumulation index (Igeo) and\
+    \ anthropogenicity. These indices revealed that the steel markets were contaminated\
+    \ and polluted and poses ecological risks by heavy metals, even though the values\
+    \ obtained were still below the WHO acceptable limits. The steel rods markets\
+    \ need to be adequately monitored and regulated to avoid further soil contamination\
+    \ by heavy metals to a degree that will be dangerous to human health."
+  keywords:
+    default:
+      keywords:
+        subject: Contamination; Heavy metals; Pollution indices; Soil; Steel rods
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5763467
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5763466
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Edori-ES:
+    individualname: Edori ES
+    role: creator
+    organization: Department of Chemistry, Ignatius Ajuru University of Education
+      Rumuolumeni, P.M.B. 5047, Port Harcourt, Rivers State, Nigeria.
+    url: ''
+  Iyama-WA:
+    individualname: Iyama WA
+    role: creator
+    organization: Institute of Geosciences and Environmental Management, Rivers State
+      University, Port Harcourt, Rivers State, Nigeria.
+    url: ''
+  Edori-OS:
+    individualname: Edori OS
+    role: creator
+    organization: Department of Chemistry, Ignatius Ajuru University of Education
+      Rumuolumeni, P.M.B. 5047, Port Harcourt, Rivers State, Nigeria.
+    url: ''
+content_info: {}

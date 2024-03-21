@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1336492
+  dataseturi: https://doi.org/10.5281/zenodo.1336492
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Resistivity Cut Off Value And Concrete Pole Deployments In Hv Transmission
+    Mains
+  abstract: "The prologue of new High Voltage (HV) transmission mains into the community\
+    \ necessitates earthing design to ensure safety compliance of the system. Concrete\
+    \ poles are widely used within HV transmission mains; many retired transmission\
+    \ mains with timber poles are being replaced with concrete ones, green transmission\
+    \ mains are deploying concrete poles. The earthing arrangement of the concrete\
+    \ poles could have an impact on the earth grid impedance also on the input impedance\
+    \ of the system from the fault point of view. This paper endeavors to provide\
+    \ information on the soil resistivity of the area and the deployments of concrete\
+    \ poles. It introduce the cut off soil resistivity value <em>\u03C1<sub>SC</sub></em>,\
+    \ this value aid in determine the impact of deploying the concrete poles on the\
+    \ earthing system. Multiple cases were discussed in this paper."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-01-23'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1336492
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1336491
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Nassereddine:
+    individualname: M. Nassereddine
+    role: creator
+    organization: ''
+    url: ''
+  J.-Rizk:
+    individualname: J. Rizk
+    role: creator
+    organization: ''
+    url: ''
+  A.-Hellany:
+    individualname: A. Hellany
+    role: creator
+    organization: ''
+    url: ''
+  M.-Nagrial:
+    individualname: M. Nagrial
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

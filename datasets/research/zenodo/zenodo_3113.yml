@@ -1,0 +1,118 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sakhatsky_2020
+  dataseturi: https://doi.org/10.15587/1729-4061.2020.212345
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Determining a technique for transmitting measuring data on the spatial positioning
+    of the piercing head in small-size installations during controlled soil piercing
+  abstract: "&lt;p&gt;For laying of underground utility systems in urban conditions\
+    \ by the method of horizontally directed soil piercing, small-sized units are\
+    \ designed. Such units should have measurement systems for determining the spatial\
+    \ position of the piercing head. In known systems, the surface layer of the soil\
+    \ is used as a data transmission line for transmitting measurement information.&lt;/p&gt;\n\
+    \n&lt;p&gt;This method of transmitting information signals in urban conditions\
+    \ is not very acceptable. Ground-based objects reflect electromagnetic radiation\
+    \ of the head transmitter which leads to distortion of the directional diagram\
+    \ of the emitter and complicates the reliable reception of measurement information.&lt;/p&gt;\n\
+    \n&lt;p&gt;It was proposed to use an autonomous measuring system with an operating\
+    \ frequency of 5&nbsp;GHz based on Wi-Fi technologies and an unconventional method\
+    \ of transmitting measurement information using hollow steel bars in the piercing\
+    \ unit itself. This transmission line has periodic discontinuities because of\
+    \ the bar design. These discontinuities accumulate as the piercing head advances.\
+    \ For the basic vibration type \u041D&lt;sub&gt;11&lt;/sub&gt;, more accurate\
+    \ analytical expressions were obtained for calculating the power transfer coefficient\
+    \ of the measurement signal in such non-uniform lines. It was shown that inhomogeneity\
+    \ of the transmission line in comparison with its surface resistance does not\
+    \ significantly affect the transmission coefficient.&lt;/p&gt;\n\n&lt;p&gt;For\
+    \ example, damping in the line increased by 1.2&nbsp;dB with the maximum length\
+    \ of inhomogeneity of 5&nbsp;mm and the total length of jointed bars of 50&nbsp;m.\
+    \ It has been theoretically proven that the range of soil piercing with reliable\
+    \ signal reception can be up to 50&nbsp;meters.&lt;/p&gt;\n\n&lt;p&gt;The proposed\
+    \ method for transmitting information signals makes it possible to reduce the\
+    \ transmitter power, ensure noise immunity of the measuring system, and reliable\
+    \ reception of the measuring information throughout the entire piercing path&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - piercing head
+      - measuring system
+      - waveguide path
+      - inhomogeneity
+      - ABCD matrix
+      - transmission coefficient
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Determining a technique for transmitting measuring data on the spatial positioning
+      of the piercing head in small-size installations during controlled soil piercing
+    url: http://dx.doi.org/10.15587/1729-4061.2020.212345
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vitalyi-Sakhatsky:
+    individualname: Vitalyi Sakhatsky
+    role: creator
+  Nina-Lyubymova:
+    individualname: Nina Lyubymova
+    role: creator
+  Vitaliy-Vlasovets:
+    individualname: Vitaliy Vlasovets
+    role: creator
+  Vladimir-Suponyev:
+    individualname: Vladimir Suponyev
+    role: creator
+  Oleksandr-Koval:
+    individualname: Oleksandr Koval
+    role: creator
+  Artem-Naumenko:
+    individualname: Artem Naumenko
+    role: creator
+  Tatyana-Vlasenko:
+    individualname: Tatyana Vlasenko
+    role: creator
+  Yevhenii-Chepusenko:
+    individualname: Yevhenii Chepusenko
+    role: creator
+  Sakhatsky-Vitalyi:
+    individualname: Sakhatsky, Vitalyi
+    role: creator
+  Lyubymova-Nina:
+    individualname: Lyubymova, Nina
+    role: creator
+  Vlasovets-Vitaliy:
+    individualname: Vlasovets, Vitaliy
+    role: creator
+  Suponyev-Vladimir:
+    individualname: Suponyev, Vladimir
+    role: creator
+  Koval-Oleksandr:
+    individualname: Koval, Oleksandr
+    role: creator
+  Naumenko-Artem:
+    individualname: Naumenko, Artem
+    role: creator
+  Vlasenko-Tatyana:
+    individualname: Vlasenko, Tatyana
+    role: creator
+  Chepusenko-Yevhenii:
+    individualname: Chepusenko, Yevhenii
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

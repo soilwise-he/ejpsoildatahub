@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hansen_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010020x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Survey Problems of the Canadian West
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Survey Problems of the Canadian West
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010020x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hansen-Roy-P.:
+    individualname: Hansen, Roy P.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

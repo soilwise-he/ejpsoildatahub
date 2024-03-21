@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1092237
+  dataseturi: https://doi.org/10.5281/zenodo.1092237
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Features Of Soil Formation In The North Of Western Siberia In Cryogenic Conditions
+  abstract: A large part of Russia is located in permafrost areas. These areas are
+    widely used because there are concentrated valuable natural resources. Therefore
+    to explore of cryosols it is important due to the significant increase of anthropogenic
+    stress as well as the problem of global climate change. In the north of Western
+    Siberia permafrost phenomena is widespread. Permafrost as a factor of soil formation
+    and cryogenesis as a process have a great impact on the soil formation of these
+    areas. Based on the research results of permafrost-affected soils tundra landscapes
+    formed in the central part of the Tazovskiy Peninsula in cryogenic conditions,
+    data were obtained which characterize the morphological features of soils. The
+    specificity of soil cover distribution and manifestation of soil-forming processes
+    within the study area are noted. Permafrost features such as frost cracking, cryoturbation,
+    thixotropy, movement of humus are formed. The formation of these features is increased
+    with the development of the territory. As a consequence, there is a change in
+    the components of the environment and the destruction of the soil cover.
+  keywords:
+    default:
+      keywords:
+        subject: soil-forming macroprocesses.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-04-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1092237
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1092236
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tatiana-V.-Raudina:
+    individualname: Tatiana V. Raudina
+    role: creator
+  Sergey-P.-Kulizhskiy:
+    individualname: Sergey P. Kulizhskiy
+    role: creator
+  Raudina-Tatiana-V.:
+    individualname: Raudina, Tatiana V.
+    role: ''
+    organization: ''
+    url: ''
+  Kulizhskiy-Sergey-P.:
+    individualname: Kulizhskiy, Sergey P.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

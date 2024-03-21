@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lyon_1913
+  dataseturi: https://doi.org/10.1021/ie50050a013
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Influence of a Preceding Crop on Nitrification in Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Influence of a Preceding Crop on Nitrification in Soil.
+    url: http://dx.doi.org/10.1021/ie50050a013
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lyon-T.-Lyttleton:
+    individualname: Lyon, T. Lyttleton
+    role: creator
+  Bizzell-James-A.:
+    individualname: Bizzell, James A.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

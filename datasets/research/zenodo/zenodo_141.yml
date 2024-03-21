@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6298916
+  dataseturi: https://doi.org/10.5281/zenodo.6298916
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Heat of Transport of Water in Soil Fractions, Model Soils and an Alluvial
+    Soil
+  abstract: P. C. Roy Research Laboratory, Department of Agriculture, Calcutta University,
+    Calcutta-700 019 Department of Agricultural Chemistry and Soil Science, Bidhan
+    Chandra Krishi Viswa Vidyalaya, Kalyani-741 235 <em>Manuscript received 13 July
+    1987, revised 13 April 1988, accepted 25 April 1988</em> Heat of Transport of
+    Water in Soil Fractions, Model Soils and an Alluvial Soil.
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1988-07-31'
+    publication: '1988'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6298916
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6298915
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-ROY-CHOWDHURY:
+    individualname: S. ROY CHOWDHURY
+    role: creator
+    organization: ''
+    url: ''
+  M.-ADHIKARI:
+    individualname: M. ADHIKARI
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SANYAL:
+    individualname: S. K. SANYAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

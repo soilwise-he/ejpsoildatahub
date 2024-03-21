@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WAKSMAN_1922
+  dataseturi: https://doi.org/10.1097/00010694-192210000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "MICROBIOLOGICAL ANALYSIS OF SOIL AS AN INDEX OF SOIL FERTILITY: II. METHODS\
+    \ OF THE STUDY OF NUMBERS OF MICRO\xD6RGANISMS IN THE SOIL"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "MICROBIOLOGICAL ANALYSIS OF SOIL AS AN INDEX OF SOIL FERTILITY: II. METHODS\
+      \ OF THE STUDY OF NUMBERS OF MICRO\xD6RGANISMS IN THE SOIL"
+    url: http://dx.doi.org/10.1097/00010694-192210000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Waksman-Selman-A.:
+    individualname: Waksman, Selman A.
+    role: creator
+  WAKSMAN-SELMAN-A.:
+    individualname: WAKSMAN, SELMAN A.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

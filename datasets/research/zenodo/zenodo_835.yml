@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1161703
+  dataseturi: https://doi.org/10.5281/zenodo.1161703
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Compacted Fill Layers On Soil Bearing Capacity
+  abstract: In this paper, plate load test was used to study the effect of compacted
+    fill layers on bearing capacity. The test was developed using selected soil from
+    HATTAB source. The soil was classified as low plastic soil, silty or clayey gravel
+    with CBR 16% filled in trench foundation. Plate load test was carried out on each
+    layer. Sand cone test also was done for each layer to determine the field density
+    value. The analysis of results obtained from the experimental program showed that,
+    settlement of layer decreases as the number of layers increased. The bearing capacity
+    of layers increased as the number of layers increased; this situation is valid
+    for certain thickness after which no considerable effect was recorded.
+  keywords:
+    default:
+      keywords:
+        subject: Compacted Fill Layers, Plate Load Test, Bearing Capacity.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1161703
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1161702
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-Elarabi*1--E.-Yahya2:
+    individualname: H. Elarabi*1 & E. Yahya2
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

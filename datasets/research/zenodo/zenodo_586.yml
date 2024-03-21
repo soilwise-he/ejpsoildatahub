@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3590821
+  dataseturi: https://doi.org/10.5281/zenodo.3590821
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study on Physical and Mechanical Properties of Dispersive Soil
+  abstract: 'This paper deals with determination of physical and mechanical properties
+    of dispersive soil. Soil is the foundation material which supports loads from
+    the overlaying structure. Soil dispersivity is mainly due to the presence of exchangeable
+    sodium present in the structure. Dispersive soils are identified by an unstable
+    structure, easily flocculated in water, and very erodible. Using dispersive clay
+    soils in hydraulic structures, embankment dams, or other structures such as roadway
+    embankments can cause serious engineering problems if these soils are not identified
+    and used appropriately. Some important parameters of dispersive soil obtained
+    from laboratory testing are investigated in this paper. Soil sample is taken from
+    Mandalay at about 3ft depth. To determine physical properties of soil, water content
+    determination, specific gravity test, grain size analysis, Atterberg limits test,
+    crumb test. Standard Proctor compaction test, Unconfined Compression Strength
+    UCS test are carried out to determine mechanical properties of soil. According
+    to Unified Soil Classification System, the studied soil is in CH group and group
+    name is lean clay with sand. From crumb test, sample has grade 4. Therefore, the
+    studied soil is highly dispersive. Soe Soe War | Nyein Nyein Thant "Study on Physical
+    and Mechanical Properties of Dispersive Soil" Published in International Journal
+    of Trend in Scientific Research and Development (ijtsrd), ISSN: 2456-6470, Volume-3
+    | Issue-5 , August 2019, URL: https://www.ijtsrd.com/papers/ijtsrd26627.pdf'
+  keywords:
+    default:
+      keywords:
+        subject: Crumb
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-15'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3590821
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3590820
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Soe-Soe-War:
+    individualname: Soe Soe War
+    role: creator
+    organization: ''
+    url: ''
+  Nyein-Nyein-Thant:
+    individualname: Nyein Nyein Thant
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

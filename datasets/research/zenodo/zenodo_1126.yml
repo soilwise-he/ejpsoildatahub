@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7096909
+  dataseturi: https://doi.org/10.5281/zenodo.7096909
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Metatranscriptomic response of the wheat holobiont to decreasing soil water
+    content
+  abstract: 'Annotation table, transcript abundance table, metadata and soil water
+    content for the manuscript "Metatranscriptomic response of the wheat holobiont
+    to decreasing soil water content". The R code used to analyze the data and produce
+    tables and figures is available on GitHub: https://github.com/le-labo-yergeau/MT_Holobiont_Wheat'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7096909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7096908
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pande-Pranav-Mukund:
+    individualname: Pande, Pranav Mukund
+    role: creator
+    organization: Institut national de la recherche scientifique
+    url: ''
+  Azarbad-Hamed:
+    individualname: Azarbad, Hamed
+    role: creator
+    organization: Philipps-University Marburg
+    url: ''
+  Tremblay-Julien:
+    individualname: Tremblay, Julien
+    role: creator
+    organization: National Research Council of Canada
+    url: ''
+  St-Arnaud-Marc:
+    individualname: St-Arnaud, Marc
+    role: creator
+    organization: "Universit\xE9 de Montr\xE9al"
+    url: ''
+  Yergeau-Etienne:
+    individualname: Yergeau, Etienne
+    role: creator
+    organization: Institut national de la recherche scientifique
+    url: https://orcid.org/0000-0002-7112-3425
+content_info: {}

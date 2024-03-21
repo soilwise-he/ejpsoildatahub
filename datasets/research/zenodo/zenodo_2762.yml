@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10392290
+  dataseturi: https://doi.org/10.5281/zenodo.10392290
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "\xABSELECTION OF WINTER WHEAT AND RICE VARIETIES ADAPTED TO THE SOIL AND\
+    \ CLIMATIC CONDITIONS OF THE REPUBLIC OF KARAKALPAKSTAN\xBB"
+  abstract: 'The effectiveness of grain production greatly depends on selecting the
+    appropriate variety for the region and intended use of the grain. The cultivars
+    differ from one another in yield, adaptability to local conditions, and reaction
+    to stress factors since they each have unique features.
+
+
+    The selection of grain types for the harsh conditions of Karakalpakstan was based
+    on the aforementioned factors, and 10 varieties of winter wheat and 5 kinds of
+    rice were chosen. Winter wheat types ASR and Antonina, ultra-ripe rice variations
+    Gulistan, and late-ripening variety Iskander all differed in terms of winter hardiness,
+    salt resistance, drought resistance, and eventually grain output.'
+  keywords:
+    default:
+      keywords:
+        subject: Winter wheat, rice, variety, selection, circumstances, stressors,
+          grain, harvest, growth stages, density, and growing season
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-15'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10392290
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10392289
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xojambergenov-Ganibay-Ametovich:
+    individualname: Xojambergenov Ganibay Ametovich
+    role: creator
+    organization: Candidate of Agricultural Sciences, Head of the Laboratory Scientific
+      and production associations grain and rice.Nukus district. Uzbekistan.
+    url: ''
+content_info: {}

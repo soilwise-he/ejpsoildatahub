@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126836
+  dataseturi: https://doi.org/10.5281/zenodo.1126836
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Development Of Corn (Zea Mays L.) Stalk Geotextile Net For Soil Erosion Mitigation
+  abstract: 'This study aimed to introduce new natural fiber to be used in the production
+    of geotextile net for mitigation of soil erosion. Fiber extraction from the stalks
+    was the main challenge faced during the processing of stalks to ropes. Thus, an
+    investigation on the extraction procedures of corn (<em>Zea mays</em> L.) stalk
+    under biological and chemical retting was undertaken. Results indicated significant
+    differences among percent fiber yield as affected by the retting methods used
+    with values of 15.07%, 12.97%, 11.60%, and 9.01%, for dew, water, chemical (1
+    day after harvest and15 days after harvest), respectively, with the corresponding
+    average extracting duration of 70, 82, 89, and 94 minutes. Physical characterization
+    of the developed corn stalk geotextile net resulted to average mass per unit area
+    of 806.25 g/m<sup>2</sup> and 241% water absorbing capacity. The effect of corn
+    stalk geotextile net in mitigating soil erosion was evaluated in a laboratory
+    experiment for 30<sup>o</sup> and 60<sup>o</sup> inclinations with three treatments:
+    bare soil (A<sub>1</sub>), corn stalk geotextile net (A<sub>2</sub>) and combined
+    cornstalk geotextile net and vegetation cover (A<sub>3</sub>). Results revealed
+    that treatment A<sub>2 </sub>and A<sub>3</sub> significantly decreased sediment
+    yield and an increase in terms of soil loss reduction efficiency. The cost of
+    corn stalk geotextile net is Php 62.41 per square meter.'
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-08-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126836
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126835
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cristina-S.-Decano:
+    individualname: Cristina S. Decano
+    role: creator
+  Vitaliana-U.-Malamug:
+    individualname: Vitaliana U. Malamug
+    role: creator
+  Melissa-E.-Agulto:
+    individualname: Melissa E. Agulto
+    role: creator
+  Helen-F.-Gavino:
+    individualname: Helen F. Gavino
+    role: creator
+  Decano-Cristina-S.:
+    individualname: Decano, Cristina S.
+    role: ''
+    organization: ''
+    url: ''
+  Malamug-Vitaliana-U.:
+    individualname: Malamug, Vitaliana U.
+    role: ''
+    organization: ''
+    url: ''
+  Agulto-Melissa-E.:
+    individualname: Agulto, Melissa E.
+    role: ''
+    organization: ''
+    url: ''
+  Gavino-Helen-F.:
+    individualname: Gavino, Helen F.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: K__1920
+  dataseturi: https://doi.org/10.1038/105628b0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Temperatures1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Temperatures1
+    url: http://dx.doi.org/10.1038/105628b0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-B.-A.:
+    individualname: K., B. A.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

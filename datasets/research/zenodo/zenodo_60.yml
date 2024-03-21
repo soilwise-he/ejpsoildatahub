@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: _NA__1898
+  dataseturi: https://doi.org/10.1097/00000441-189805000-00035
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Dental Caries and Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Dental Caries and Soil
+    url: http://dx.doi.org/10.1097/00000441-189805000-00035
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Na:
+    individualname: '&Na'
+    role: creator
+  ? ''
+  : individualname: ','
+    role: creator
+  NA:
+    individualname: '&NA'
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

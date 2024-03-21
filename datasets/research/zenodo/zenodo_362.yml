@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Burrill_1904
+  dataseturi: https://doi.org/10.1126/science.20.509.426
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Micro-Organisms of Soil and Human Welfare
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Micro-Organisms of Soil and Human Welfare
+    url: http://dx.doi.org/10.1126/science.20.509.426
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Burrill-T.-J.:
+    individualname: Burrill, T. J.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

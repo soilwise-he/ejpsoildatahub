@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ahmed_2019
+  dataseturi: https://doi.org/10.3897/mbmg.3.36408
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Metabarcoding of soil nematodes: the importance of taxonomic coverage and
+    availability of reference sequences in choosing suitable marker(s)'
+  abstract: '&lt;p&gt;For many organisms, there is agreement on the specific genomic
+    region used for developing barcode markers. With nematodes, however, it has been
+    found that the COI region designated for most animals lacks the taxonomic coverage
+    (ability to amplify a diverse group of taxa) required of a metabarcoding marker.
+    For that reason, studies on metabarcoding of nematodes thus far have utilized
+    primarily regions within the highly conserved 18S ribosomal DNA. Two popular markers
+    within this region are the ones flanked by the primer pairs NF1-18Sr2b and SSUF04-SSUR22.
+    The NF1-18Sr2b primer pair, especially, has been critiqued as not being specific
+    enough for nematodes leading to suggestions for other candidate markers while
+    the SSUF04-SSUR22 region has hardly been tested on soil nematodes. The current
+    study aimed to evaluate these two markers against other alternative ones within
+    the 28S rDNA and the COI region for their suitability for nematode metabarcoding.
+    The results showed that the NF1-18Sr2b marker could offer wide coverage and good
+    resolution for characterizing soil nematodes. Sufficient availability of reference
+    sequences for this region was found to be a significant factor that resulted in
+    this marker outperforming the other markers, particularly the 18S-based SSUFO4-SSUR22
+    marker. None of the other tested regions compared with this marker in terms of
+    the proportion of the taxa recovered. The COI-based marker had the lowest number
+    of taxa recovered, and this was due to the poor performance of its primers and
+    the insufficient number of reference sequences in public databases. In summary,
+    this study highlights how dependent the success of metabarcoding is on the availability
+    of a good reference sequence collection for the marker of choice as well as its
+    taxonomic coverage.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - barcoding
+      - taxonomy
+      - DNA marker
+      - nuclear
+      - mitochondrial
+      - reference database
+      - primer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Metabarcoding of soil nematodes: the importance of taxonomic coverage and
+      availability of reference sequences in choosing suitable marker(s)'
+    url: http://dx.doi.org/10.3897/mbmg.3.36408
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Ahmed-Mohammed:
+    individualname: Ahmed, Mohammed
+    role: creator
+  Back-Matthew-Alan:
+    individualname: Back, Matthew Alan
+    role: creator
+  Prior-Thomas:
+    individualname: Prior, Thomas
+    role: creator
+  Karssen-Gerrit:
+    individualname: Karssen, Gerrit
+    role: creator
+  Lawson-Rebecca:
+    individualname: Lawson, Rebecca
+    role: creator
+  Adams-Ian:
+    individualname: Adams, Ian
+    role: creator
+  Sapp-Melanie:
+    individualname: Sapp, Melanie
+    role: creator
+content_info: {}

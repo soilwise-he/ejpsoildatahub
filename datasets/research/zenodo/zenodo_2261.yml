@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Evans_2011
+  dataseturi: https://doi.org/10.1175/2011mwr3593.1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Sensitivity in the Overland Reintensification of Tropical Cyclone Erin (2007)
+    to Near-Surface Soil Moisture Characteristics
+  abstract: "This study investigates the impact of abnormally moist soil conditions\
+    \ across the southern Great Plains upon the overland reintensification of North\
+    \ Atlantic Tropical Cyclone Erin (2007). This is tested by analyzing the contributions\
+    \ of three soil moisture\u2013related signals\u2014a seasonal signal, an along-track\
+    \ rainfall signal, and an early postlandfall rainfall signal\u2014to the intensity\
+    \ of the vortex. In so doing, a suite of nine convection-permitting numerical\
+    \ simulations using the Advanced Research Weather Research and Forecasting model\
+    \ (WRF-ARW) is used. Of the signals tested, soil moisture contributions from the\
+    \ anomalously wet months preceding Erin are found to have the greatest positive\
+    \ impact upon the intensity of the vortex, though this impact is on the order\
+    \ of that from climatological soil moisture conditions. The greatest impact of\
+    \ the early rainfall signal contributions is found when it is added to the seasonal\
+    \ signal. Along-track rainfall during the simulation period has a minimal impact.\n\
+    \nVariations in soil moisture content result in impacts upon the boundary layer\
+    \ thermodynamic environment via boundary layer mixing. Greater soil moisture content\
+    \ results in weaker mixing, a shallower boundary layer, and greater moisture and\
+    \ instability. Differences in the intensity of convection that develops and its\
+    \ accompanying latent heat release aloft result in greater warm-core development\
+    \ and surface vortex intensification within the simulations featuring greater\
+    \ soil moisture content. Implications of these findings to the tropical cyclone\
+    \ development process are discussed. Given that the reintensification is shown\
+    \ to occur in, apart from land, an otherwise favorable environment for tropical\
+    \ cyclone development and results in a vortex with a structure similar to developing\
+    \ tropical cyclones, these findings provide new insight into the conditions under\
+    \ which tropical cyclones develop."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Sensitivity in the Overland Reintensification of Tropical Cyclone Erin (2007)
+      to Near-Surface Soil Moisture Characteristics
+    url: http://dx.doi.org/10.1175/2011mwr3593.1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Evans-Clark:
+    individualname: Evans, Clark
+    role: creator
+  Schumacher-Russ-S.:
+    individualname: Schumacher, Russ S.
+    role: creator
+  Galarneau-Thomas-J.:
+    individualname: Galarneau, Thomas J.
+    role: creator
+  American-Meteorological-Society:
+    individualname: American Meteorological Society
+    role: creator
+content_info: {}

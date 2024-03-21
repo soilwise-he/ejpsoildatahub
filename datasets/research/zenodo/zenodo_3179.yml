@@ -1,0 +1,137 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10250603
+  dataseturi: https://doi.org/10.5281/zenodo.10250603
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Comparative approach of the fauna diversity of benthic macroinvertebrates
+    in a stream on ferralitic soil and equatorial climate at 2 seasons in Cameroon
+    (Central Africa)
+  abstract: "In order to determine the structure of benthic macroinvertebrates fauna\
+    \ in relation with some environmental factors, a study was carried out in the\
+    \ Esoa river at Nkongsamba in the Littoral region of Cameroon from January 2021\
+    \ to January 2022. Physico-chemical parameters were measured according to APHA\
+    \ and Rodier recommendations, while benthic macroinvertebrates sampling was done\
+    \ out according to the multihabitat approach at a monthly frequency. The physico-chemical\
+    \ analyses revealed very good oxygenation of the water, a tendency of neutrality\
+    \ for the pH (7.79\xB10.8 UC) and a low and constant temperature (22.61\xB11.83\
+    \ \xB0C). The BMI count showed 3732 individuals, including 4 phyla, 6 classes,\
+    \ 14 orders and 69 families and over 80 species. Besides, the class of insects,\
+    \ and in particular the order of Odonata, supplanted the benthic fauna. The Esoa\
+    \ 2 and Esoa 3 stations recorded the highest relative abundance of BMI (37.43%\
+    \ and 36.99% respectively) with a predominance of pollutant taxa, notably the\
+    \ families of Chironomidae, Physidae, Tubificidae and Lumbricidae. On the other\
+    \ hand, the Esoa 1 station, with low relative abundance (25.56%), was more diversified\
+    \ and dominated by polluosensitive taxa, including Ephemeroptera, Plecoptera and\
+    \ Trichoptera. The high values of the S\u04E7rensen similarity index (65.62%)\
+    \ showed a high faunal similarity of the Esoa 2 and Esoa 3 stations. The high\
+    \ values of the Shannon and Weaver diversity index (4.6 bits/ind) indicated a\
+    \ high diversity of benthic macroinvertebrates reflecting the good ecological\
+    \ status of the waters of the Esoa stream."
+  keywords:
+    default:
+      keywords:
+        subject: Esoa river
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10250603
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10250602
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wilfreid-Christiane-Noel-Betsi:
+    individualname: Wilfreid Christiane Noel Betsi
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Samuel-Foto-Menbohan:
+    individualname: Samuel Foto Menbohan
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Nathaniel-Larry-Lactio:
+    individualname: Nathaniel Larry Lactio
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Yvonne-Laure-Tchouapi:
+    individualname: Yvonne Laure Tchouapi
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Marie-Anita-Zemo-Temgoua:
+    individualname: Marie Anita Zemo Temgoua
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Donald-L'or-Nyame-Mbia:
+    individualname: Donald L'or Nyame Mbia
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Serge-Roger-Gwos-Nhiomock:
+    individualname: Serge Roger Gwos Nhiomock
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Mathias-Nwaha:
+    individualname: Mathias Nwaha
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+  Eric-Belmond-Biram-A-Ngon:
+    individualname: Eric Belmond Biram A Ngon
+    role: creator
+    organization: "Hydrological Research Centre, Institute of Geological and Mining\
+      \ Research, Yaound\xE9. Cameroon."
+    url: ''
+  Jean-Dzavi:
+    individualname: Jean Dzavi
+    role: creator
+    organization: "Hydrological Research Centre, Institute of Geological and Mining\
+      \ Research, Yaound\xE9. Cameroon."
+    url: ''
+  Blaise-Rollinat-Mboye:
+    individualname: "Blaise Rollinat Mboy\xE9"
+    role: creator
+    organization: 'Laboratory of Hydrobiology and Ichthyology, Institute of Agronomic
+      and Forestery Research, P.O.Box: 2246 Libreville, Gabon.'
+    url: ''
+  Moise-Nola:
+    individualname: "Mo\xEFse Nola"
+    role: creator
+    organization: "Laboratory of Hydrobiology and Environment, Faculty of Science,\
+      \ University of Yaound\xE9 I, P.O. BOX 812, Yaound\xE9, Cameroon."
+    url: ''
+content_info: {}

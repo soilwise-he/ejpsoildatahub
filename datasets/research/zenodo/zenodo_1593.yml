@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2535510
+  dataseturi: https://doi.org/10.5281/zenodo.2535510
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: "Retour d'exp\xE9rience sur les renforcements des lev\xE9es de Loire  en\
+    \ \xAB deep soil mixing \xBB"
+  abstract: "Lors du colloque national \xAB Digues 2013 \xBB, la DREAL Centre-Val\
+    \ de Loire a pr\xE9sent\xE9 les diff\xE9rentes techniques de renforcement des\
+    \ lev\xE9es de Loire utilis\xE9es depuis la seconde moiti\xE9 du XX<sup>e </sup>si\xE8\
+    cle, ainsi que les perspectives attendues des chantiers exp\xE9rimentaux d\u2019\
+    \xE9crans \xE9tanches r\xE9alis\xE9s en comparant plusieurs techniques de \xAB\
+    \ soil mixing \xBB (2012-2013). L\u2019\xE9valuation de ces techniques devait\
+    \ permettre de proposer des solutions moins co\xFBteuses et plus adapt\xE9es dans\
+    \ le cadre des travaux de fiabilisation des lev\xE9es de la Loire moyenne.\n\n\
+    \xC0 la suite des chantiers exp\xE9rimentaux, la DREAL Centre-Val de Loire a con\xE7\
+    u des projets d\u2019\xE9crans \xE9tanches par tranch\xE9e de sol mix\xE9 dans\
+    \ des digues de plusieurs kilom\xE8tres : \xE0 Veuves (tron\xE7on de 1 km), \xE0\
+    \ Tours (10 km) et \xE0 Orl\xE9ans (7 km). Ces ouvrages se sont av\xE9r\xE9s diff\xE9\
+    rents dans la lithologie de leur structure et de leur fondation. Ainsi, ces chantiers\
+    \ ont conduit \xE0 faire \xE9voluer les approches de conception et de r\xE9alisation\
+    \ en exploitant la connaissance des sols (de la digue et de ses fondations) et\
+    \ celle des circulations naturelles de la nappe alluviale dans les couches perm\xE9\
+    ables du sous-sol.\n\nL\u2019objet du pr\xE9sent article est de pr\xE9senter un\
+    \ \xE9tat des connaissances sur la base des r\xE9sultats \xE0 4 ans du suivi exp\xE9\
+    rimental (p\xE9rennit\xE9, rendement, contraintes de mise en \u0153uvre et moyens\
+    \ de contr\xF4le) et du retour d\u2019exp\xE9rience sur les chantiers de plus\
+    \ grande ampleur qui ont permis d\u2019adapter la technique : ciment ou chaux-ciment,\
+    \ apport en eau, crit\xE8res de malaxage. Ces r\xE9sultats ouvrent de nouvelles\
+    \ perspectives d\u2019application de la technique pour restaurer l\u2019\xE9tanch\xE9\
+    it\xE9 de digues anciennes en terre en fonction des sols rencontr\xE9s."
+  keywords:
+    default:
+      keywords:
+        subject: ciment
+  status: ''
+  language: fra
+  dates:
+    creation: ''
+    issued: '2019-01-08'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2535510
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2535509
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Patouillard-S.:
+    individualname: Patouillard, S.
+    role: creator
+    organization: DREAL Centre-Val de Loire
+    url: ''
+  Saussaye-L.:
+    individualname: Saussaye, L.
+    role: creator
+    organization: Cerema
+    url: ''
+  Durand-E.:
+    individualname: Durand, E.
+    role: creator
+    organization: Cerema
+    url: ''
+  Manceau-N.:
+    individualname: Manceau, N.
+    role: creator
+    organization: DREAL Centre-Val de Loire
+    url: ''
+  Le-Kouby-A.:
+    individualname: Le Kouby, A.
+    role: creator
+    organization: Ifsttar
+    url: ''
+  Coulet-A.:
+    individualname: Coulet, A.
+    role: creator
+    organization: DREAL Centre-Val de Loire
+    url: ''
+content_info: {}

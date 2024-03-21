@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2363203
+  dataseturi: https://doi.org/10.5281/zenodo.2363203
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Investigation of Effective Parameters on Pullout Capacity in Soil Nailing
+    with Special Attention to International Design Codes
+  abstract: An important and influential factor in design and determining the safety
+    factor in Soil Nailing is the ultimate pullout capacity, or, in other words, bond
+    strength. This important parameter depends on several factors such as material
+    and soil texture, method of implementation, excavation diameter, friction angle
+    between the nail and the soil, grouting pressure, the nail depth (overburden pressure),
+    the angle of drilling and the degree of saturation in soil. Federal Highway Administration
+    (FHWA), a customary regulation in the design of nailing, is considered only the
+    effect of the soil type (or rock) and the method of implementation in determining
+    the bond strength, which results in non-economic design. The other regulations
+    are each of a kind, some of the parameters affecting bond resistance are not taken
+    into account. Therefore, in the present paper, at first the relationships and
+    tables presented by several valid regulations are presented for estimating the
+    ultimate pullout capacity, and then the effect of several important factors affecting
+    on ultimate Pullout capacity are studied. Finally, it was determined, the effect
+    of overburden pressure (in method of injection with pressure), soil dilatation
+    and roughness of the drilling surface on pullout strength is incremental, and
+    effect of degree of soil saturation on pullout strength to a certain degree of
+    saturation is increasing and then decreasing. therefore it is better to get help
+    from nail pullout-strength test results and numerical modeling to evaluate the
+    effect of parameters such as overburden pressure, dilatation, and degree of soil
+    saturation, and so on to reach an optimal and economical design.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-11-02'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2363203
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2363202
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  M.-Mortezaee:
+    individualname: M. Mortezaee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

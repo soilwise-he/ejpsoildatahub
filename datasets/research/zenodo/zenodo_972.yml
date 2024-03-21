@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: AND_JAR_2021
+  dataseturi: https://doi.org/10.11646/zootaxa.4963.2.4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Endogean beetles (Coleoptera) of Madagascar: deep soil sampling and illustrated
+    overview'
+  abstract: "And\xFAjar, Carmelo, Grebennikov, Vasily V. (2021): Endogean beetles\
+    \ (Coleoptera) of Madagascar: deep soil sampling and illustrated overview. Zootaxa\
+    \ 4963 (2): 317-334, DOI: 10.11646/zootaxa.4963.2.4"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Endogean beetles (Coleoptera) of Madagascar: deep soil sampling and illustrated
+      overview'
+    url: http://dx.doi.org/10.11646/zootaxa.4963.2.4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Andujar-Carmelo:
+    individualname: "And\xFAjar, Carmelo"
+    role: creator
+  Grebennikov-Vasily-V.:
+    individualname: Grebennikov, Vasily V.
+    role: creator
+  ANDAsJAR-CARMELO:
+    individualname: "AND\xC3\u0161JAR, CARMELO"
+    role: creator
+  GREBENNIKOV-VASILY-V.:
+    individualname: GREBENNIKOV, VASILY V.
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7118951
+  dataseturi: https://doi.org/10.5281/zenodo.7118951
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Portable Soil Analyzer
+  abstract: <strong>The soil analyzer is a portable device which has features to collect
+    soil samples from different parts of a given land and the samples are checked
+    for parameters that are important in crop production.Movement of the system will
+    be controlled by chain wheels powered by DC geared motor. The collected data values
+    are cross checked against the threshold values in a database to provide proper
+    information about the types of crops that are suitable to be cultivated in that
+    land under study. This information can be properly channelized by an app so that
+    the idea is rightly conveyed to the farmers or the land owners.</strong>
+  keywords:
+    default:
+      keywords:
+        subject: Testing, Soil measurement, Sensor,Soil Ana- lyzer,Soil moisture,
+          NPK, Soil pH
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-09-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7118951
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7118950
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chithralekha-R.:
+    individualname: Chithralekha, R.
+    role: creator
+    organization: ''
+    url: ''
+  Anupama-K.-R.:
+    individualname: Anupama K., R.
+    role: creator
+    organization: ''
+    url: ''
+  Deva-Amritha-A.-S.:
+    individualname: Deva Amritha A., S.
+    role: creator
+    organization: ''
+    url: ''
+  Chippy-Jerome:
+    individualname: Chippy Jerome
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

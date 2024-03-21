@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10005324
+  dataseturi: https://doi.org/10.5281/zenodo.10005324
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Precision Nutrient Application Techniques to Improve Soil Fertility and
+    Crop Yield: A Review with Future Prospect'
+  abstract: Precision nutrient application techniques have gained significant attention
+    in modern agriculture as a means to enhance soil fertility management and optimize
+    crop yield. This review provides a comprehensive exploration of various precision
+    nutrient application techniques and their potential to address the challenges
+    of food security and sustainability. The review highlights key technologies, methodologies,
+    and practices that contribute to precise nutrient management, including real-time
+    monitoring, variable rate application, GIS-GPS integration, drone-based data collection,
+    and data analysis tools. The importance of accurate data, challenges related to
+    field variability, and the need for skilled personnel is discussed. Furthermore,
+    the review delves into the potential of advancements such as machine learning
+    and AI-driven solutions in overcoming challenges and advancing precision nutrient
+    application. These technologies offer predictive models, adaptive management strategies,
+    and real-time decision support systems. By emphasizing the benefits of precision
+    nutrient application, including improved nutrient uptake by plants, reduced nutrient
+    runoff, and enhanced plant health, this review underscores its potential to revolutionize
+    modern agriculture. Ultimately, precision nutrient application techniques hold
+    promise in enhancing soil fertility, optimizing crop yield, and promoting sustainable
+    agricultural practices, making a significant contribution to global food security
+    and environmental sustainability.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-08-07'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10005324
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10005323
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raza-Irfan:
+    individualname: Raza, Irfan
+    role: creator
+    organization: ''
+    url: ''
+  Abbas-Muhammad-Qamer:
+    individualname: Abbas, Muhammad Qamer
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

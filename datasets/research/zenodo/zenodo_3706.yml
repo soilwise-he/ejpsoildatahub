@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10658290
+  dataseturi: https://doi.org/10.5281/zenodo.10658290
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Effects of Landslides and Soil Settlements on the Built Environment: A Meta-analysis'
+  abstract: "ABSTRACT\n\nOne of the most important problems that Civil and Geotechnical\
+    \ Engineers\u2019 Society faces, stand for the settlements due to inconsistent\
+    \ permeability of soil, not only in building projects but also in constructions\
+    \ in general. Settlements observed are usually a function of both the imposed\
+    \ load and the characteristics of the foundation soil [1]. On each slope, the\
+    \ difference in level and in slope gradient in combination with the gravitational\
+    \ forces and the possible presence of groundwater, create shear stresses inside\
+    \ the slopes, which are countered by the shear resistance of the soil. When the\
+    \ developing stresses overcome shear resistance, then they lead to a fracture\
+    \ of the slopes and to a landslide. The instability of slopes, leading to the\
+    \ displacement of soil mass downstream known as landslide, constitutes a significant\
+    \ risk to human activities and is often accompanied by the destruction of property,\
+    \ injury and loss of life. So, landslides and soil retreats are of the most significant\
+    \ catastrophic phenomena recorded on the surface of the earth. The above-mentioned\
+    \ phenomena can be a major threat not only to the social and economic fabric,\
+    \ i.e. the quality of life of a region, but also for the environment (basin-filling\
+    \ reservoirs, clogging of streams \u2013 rivers, road surface retreat, destruction\
+    \ of forests and ecosystems, etc.). The main objective of this work is to investigate\
+    \ the environmental impact of the failure of the slopes and soil settlements,\
+    \ particularly in cases observed in Greece, as well as the prevention and stabilization\
+    \ measures against landslides and loose soils, mainly through mild environmental\
+    \ interventions."
+  keywords:
+    default:
+      keywords:
+        subject: Failure of slopes, landslides, soil settlements, road settlements,
+          environmental impacts, protective measures.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-04-30'
+    publication: '2020'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10658290
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10658289
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nikolaos-Alamanis:
+    individualname: Nikolaos Alamanis
+    role: creator
+    organization: General Department, University of Thessaly, Larisa, Greece, 41500
+    url: ''
+  Grigorios-Papageorgiou:
+    individualname: Grigorios Papageorgiou
+    role: creator
+    organization: General Department, University of Thessaly, Larisa, Greece, 41500
+    url: ''
+  Nikolaos-Xafoulis:
+    individualname: Nikolaos Xafoulis
+    role: creator
+    organization: Laboratory of Ecohydraulics& Inland Water Management, Department
+      of Ichthyology & Aquatic Environment, University of Thessaly, Nea Ionia Magnisias,
+      Greece, 38446
+    url: ''
+  Ioannis-Chouliaras:
+    individualname: Ioannis Chouliaras
+    role: creator
+    organization: General Department, University of Thessaly, Larisa, Greece, 41500
+    url: ''
+content_info: {}

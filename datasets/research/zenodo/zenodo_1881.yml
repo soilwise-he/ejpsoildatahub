@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1420797
+  dataseturi: https://doi.org/10.5281/zenodo.1420797
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Numerical Modeling Of California Bearing Ratio Value Of Fibre Reinforced
+    Fly Ash Stabilized Expansive Soil
+  abstract: 'Expansive soils causing significant damage to civil engineering structures.
+    It has become a worldwide problem. In United States during 1973, the annual cost
+    of damage was $2.3 billion due to expansive soil movement. A more up-to- date
+    it has reached up to $9 billion annual damages to different structures. This paper
+    presents experimental study of California bearing ratio values of soil-fly ash
+    mixtures and randomly distributed Nylon fibres. The effect of addition of Nylon
+    Fibres on California bearing ratio values (CBR) is studied. The percentage of
+    HT Nylon 66 Fibres content is considered as 0.25 %, 0.75% and 1.25 % by stabilize
+    soil- fly ash mixtures. Samples were cured in the laboratory under controlled
+    conditions with optimum moisture content (OMC) and maximum dry density (MDD).
+    The mathematical modelling is done to correlate California bearing ratio values
+    with different parameters. The model is adequately useful to predict the strength.
+    Adequacy has been tested by conducting different verification experiments on the
+    developed model. It is found that difference of predicted and observed value is
+    lying within 10%.
+
+
+    https://journalnx.com/journal-article/20150428'
+  keywords:
+    default:
+      keywords:
+        subject: Mathematical modelling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-08-25'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1420797
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1420796
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DR.RAJENDRA-P-MOGRE:
+    individualname: DR.RAJENDRA P MOGRE
+    role: creator
+    organization: ''
+    url: ''
+  DR.-DHARMAPAL-N.SHINGADE:
+    individualname: DR. DHARMAPAL N.SHINGADE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6404988
+  dataseturi: https://doi.org/10.5281/zenodo.6404988
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Note on Newton's Co-Efficients of Some U.P. Soil Clays in Presence of Different
+    Chlorides in Aqueous Media
+  abstract: Department of Chemistry, University of Allahbad, Allahabad <em>Manuscript
+    received 26 November 1973<strong>; </strong>revised 21<strong> </strong>August
+    1974; accepted 21 February 1975</em> The present paper deals with the use of Newton's
+    cooling coefficients of different soil-clays belonging to different soil-climatic
+    regions of Uttar Pradesh, India.
+  keywords:
+    default:
+      keywords:
+        subject: clay minerals
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1975-05-31'
+    publication: '1975'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6404988
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6404987
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+  C.-M.-TRIPATHI:
+    individualname: C. M. TRIPATHI
+    role: creator
+    organization: ''
+    url: ''
+  R.-V.-PANDEY:
+    individualname: R. V. PANDEY
+    role: creator
+    organization: ''
+    url: ''
+  SHARAFAT-ALI:
+    individualname: SHARAFAT ALI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

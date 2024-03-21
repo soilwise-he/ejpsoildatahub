@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5113447
+  dataseturi: https://doi.org/10.5281/zenodo.5113447
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Zinc in soil around non-ferrous metals smelter \"Miasteczko \u015Al\u0105\
+    skie\""
+  abstract: "The zinc and lead smelter \"Miasteczko \u015Al\u0105skie\" near Tarnowskie\
+    \ G\xF3ry started in 1968. In the last few years emissions of contaminants from\
+    \ the production process of Zn and Pb were reduced. But some of the elements remain\
+    \ accumulated in the upper layer of the soil. Samples of the upper layer (0 -\
+    \ 5 cm) of the soil were taken along transects set with a compass in the following\
+    \ directions: N, NE, E, SE, S, SW, W and NW, starting from the smelter in the\
+    \ distances of: 10, 25, 50, 100, 150, 200, 250 m, and then every 250 m, up to\
+    \ 3000 m. The concentration of zinc was measured by conventional AAS method. The\
+    \ highest content of zinc in soil was found 50 - 100 m from the smelter. It was\
+    \ probably due to the grain-size composition of dust emitted by the smelter and\
+    \ to local content of heavy metals in the soil."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2001-01-01'
+    publication: '2001'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5113447
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5113446
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Edyta-Sierka:
+    individualname: Edyta Sierka
+    role: creator
+  Tadeusz-Kimsa:
+    individualname: Tadeusz Kimsa
+    role: creator
+  Bernard-Palowski:
+    individualname: Bernard Palowski
+    role: creator
+  Sierka-Edyta:
+    individualname: Sierka, Edyta
+    role: ''
+    organization: University of Silesia
+    url: https://orcid.org/0000-0003-3317-4552
+  Kimsa-Tadeusz:
+    individualname: Kimsa, Tadeusz
+    role: ''
+    organization: ''
+    url: ''
+  Palowski-Bernard:
+    individualname: Palowski, Bernard
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

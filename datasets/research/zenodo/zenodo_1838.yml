@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1206185
+  dataseturi: https://doi.org/10.5281/zenodo.1206185
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of Swelling Control Parameters For Stabilized Expansive Soil Buffer
+    Layers Under Pavement Embankment
+  abstract: Flexible Pavements constructed on expansive soils like Black Cotton (B.C.)
+    soils, suffer extensive damages due to volume changes and the resulting swelling
+    pressures. The magnitude of the swelling pressure depends on various parameters
+    but the moisture content variation which occurs during different seasons is the
+    major cause of volume changes. To control this moisture variation, present study
+    suggests to lay a lime stabilized buffer layer below the road embankment. This
+    layer will be underlain by a mechanically stabilized layer with vertical cut-offs
+    on either side. For the success of this methodology, it is necessary that, the
+    swelling pressures of the stabilized layers of B.C. soil should be first lowered.
+    The success of this protective methodology will also be depending upon the of
+    moisture content at which these layers are to be compacted and also on the estimation
+    of optimum percentage of lime to be used for stabilization. A combination of measures
+    can be used to minimize the replacement of BC soil and its resulting impact on
+    overlying structures especially pavements. The aim of the present work is to study
+    these two parameters. Subsequently these properties will be used in recommending
+    a combination of measures to minimize detrimental effects on overlying flexible
+    pavements. Therefore, it is necessary to find out the relation between swelling
+    pressure and those standard reference moisture contents such as Shrinkage Limit
+    (SL) and Optimum Moisture Content (OMC) which being the properties of any given
+    soil, will not vary with time. In the present study, therefore, SL and OMC are
+    considered as the reference moisture contents for the soil and the variation in
+    swelling pressures of the soil is studied at SL, OMC-2%, OMC and OMC+2%. The present
+    study also, attempts to find out the possibility of using Shrinkage Limit value
+    as a parameter in finding the optimum percentage of lime. X-Ray Diffraction tests
+    were also carried out to study the effect of mineralogy on the observed swelling
+    behaviour of the soils.
+  keywords:
+    default:
+      keywords:
+        subject: Expansive Soils, Flexible Pavements, Lime Stabilization, Optimum
+          Lime Percentage; Swelling Pressure; X-Ray Diffraction, IJEAS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-03-23'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1206185
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1206184
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prof.-Manoj-Anaokar:
+    individualname: Prof. Manoj Anaokar
+    role: creator
+    organization: ''
+    url: ''
+  Dr.-Sharad-Mhaiskar:
+    individualname: Dr. Sharad Mhaiskar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

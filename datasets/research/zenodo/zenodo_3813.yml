@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1060014
+  dataseturi: https://doi.org/10.5281/zenodo.1060014
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Removal Of Cationic Heavy Metal And Hoc From Soil-Washed Water Using Activated
+    Carbon
+  abstract: Soil washing process with a surfactant solution is a potential technology
+    for the rapid removal of hydrophobic organic compound (HOC) from soil. However,
+    large amount of washed water would be produced during operation and this should
+    be treated effectively by proper methods. The soil washed water for complex contaminated
+    site with HOC and heavy metals might contain high amount of pollutants such as
+    HOC and heavy metals as well as used surfactant. The heavy metals in the soil
+    washed water have toxic effects on microbial activities thus these should be removed
+    from the washed water before proceeding to a biological waste-water treatment
+    system. Moreover, the used surfactant solutions are necessary to be recovered
+    for reducing the soil washing operation cost. In order to simultaneously remove
+    the heavy metals and HOC from soil-washed water, activated carbon (AC) was used
+    in the present study. In an anionic-nonionic surfactant mixed solution, the Cd(II)
+    and phenanthrene (PHE) were effectively removed by adsorption on activated carbon.
+    The removal efficiency for Cd(II) was increased from 0.027 mmol-Cd/g-AC to 0.142
+    mmol-Cd/g-AC as the mole ratio of SDS increased in the presence of PHE. The adsorptive
+    capacity of PHE was also increased according to the SDS mole ratio due to the
+    decrement of molar solubilization ratios (MSR) for PHE in an anionic-nonionic
+    surfactant mixture. The simultaneous adsorption of HOC and cationic heavy metals
+    using activated carbon could be a useful method for surfactant recovery and the
+    reduction of heavy metal toxicity in a surfactant-enhanced soil washing process.
+  keywords:
+    default:
+      keywords:
+        subject: Soil washing
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-01-22'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1060014
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1060013
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chi-Kyu-Ahn:
+    individualname: Chi Kyu Ahn
+    role: creator
+  Young-Mi-Kim:
+    individualname: Young Mi Kim
+    role: creator
+  Seung-Han-Woo:
+    individualname: Seung Han Woo
+    role: creator
+  Jong-Moon-Park:
+    individualname: Jong Moon Park
+    role: creator
+  Ahn-Chi-Kyu:
+    individualname: Ahn, Chi Kyu
+    role: ''
+    organization: ''
+    url: ''
+  Kim-Young-Mi:
+    individualname: Kim, Young Mi
+    role: ''
+    organization: ''
+    url: ''
+  Woo-Seung-Han:
+    individualname: Woo, Seung Han
+    role: ''
+    organization: ''
+    url: ''
+  Park-Jong-Moon:
+    individualname: Park, Jong Moon
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

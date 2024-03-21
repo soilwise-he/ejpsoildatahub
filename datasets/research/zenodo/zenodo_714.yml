@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1472399
+  dataseturi: https://doi.org/10.5281/zenodo.1472399
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Experimental Investigation On Soil With Pond Ash And Alccofine
+  abstract: "Cohesive soil causes great engineering problems due to its poor strength,\
+    \ high compressibility and low permeability. It covers large and extensively located\
+    \ areas of India and also many parts of the world. Silty soil extends in large\
+    \ stretches and construction of pavements and other structures on such type of\
+    \ soils is a great problem. To set right these problems, it is very much necessary\
+    \ to treat these soils. There are so many methods for the treatment of these soils.\
+    \ Some of them are very costly and some are very tedious. Several-methods of soil-improvement\
+    \ using Pozzolanic materials have been developed and used successfully in practice.\
+    \ The treatment of soft clayey soils with flyash, Rice husk ash, Phasphogypsum\
+    \ along with small quantity of cement is very simple, economical and pollution\
+    \ controlling. It has been useful in a diversity of civil-engineering works, like\
+    \ in the construction of base-courses, where good materials are not economically\
+    \ available; for reducing the permeability and compressibility of soils in hydraulic\
+    \ and foundation works; for stabilization of slopes, embankments and excavations.\
+    \ A considerable amount of research concerning stabilization of soil with additives\
+    \ such as cement, alccofine, lime \u2013 fly ash and salt, bitumen and polymers\
+    \ is available in the literature. Likewise, the coal ash considered as an industrial\
+    \ waste can be effectively used in the construction industry."
+  keywords:
+    default:
+      keywords:
+        subject: Pond ash, Alccofine, Coal ash
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-10'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1472399
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1472398
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Navdeep-Mor:
+    individualname: Navdeep Mor
+    role: creator
+  Akshay-Kumar:
+    individualname: Akshay Kumar
+    role: creator
+    organization: ''
+    url: ''
+  Neeraj-Sharma:
+    individualname: Neeraj Sharma
+    role: creator
+  Mor-Navdeep:
+    individualname: Mor, Navdeep
+    role: ''
+    organization: Research Scholar, Civil Engineering Department, NITTTR, Chandigarh
+      (India)
+    url: ''
+  Sharma-Neeraj:
+    individualname: Sharma, Neeraj
+    role: ''
+    organization: Assistant Professor, Civil Engineering Department, Sri Sai college
+      of Engineering and Technology, Badhani, Pathankot (India)
+    url: ''
+content_info: {}

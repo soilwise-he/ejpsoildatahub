@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Veitch_1902
+  dataseturi: https://doi.org/10.1021/ja02025a018
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE ESTIMATION OF SOIL ACIDITY AND THE LIME REQUIREMENTS OF SOILS.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE ESTIMATION OF SOIL ACIDITY AND THE LIME REQUIREMENTS OF SOILS.
+    url: http://dx.doi.org/10.1021/ja02025a018
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Veitch-F.-P.:
+    individualname: Veitch, F. P.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

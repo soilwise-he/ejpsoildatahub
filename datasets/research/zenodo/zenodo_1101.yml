@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7356801
+  dataseturi: https://doi.org/10.5281/zenodo.7356801
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Soil Temperatures at Armagh Observatory, N Ireland, from 1904 to 2002
+  abstract: Soil Temperatures at Armagh Observatory, N Ireland, from 1904 to 2002
+  keywords:
+    default:
+      keywords:
+        subject: https://id.loc.gov/authorities/subjects/sh85084334.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2005-01-01'
+    publication: '2005'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7356801
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7356800
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Garcia-Suarez-AM:
+    individualname: Garcia Suarez, AM
+    role: creator
+    organization: ''
+    url: ''
+  Butler-CJ:
+    individualname: Butler, CJ
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

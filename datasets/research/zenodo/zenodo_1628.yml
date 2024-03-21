@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Djaborebbi_2021
+  dataseturi: https://doi.org/10.11591/ijeecs.v22.i1.pp571-579
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Analysis of the performance of grounding grids buried in heterogeneous soil
+    under impulse current
+  abstract: '&lt;p&gt;The article presents the analysis of the transient behaviour
+    of grounding grids subjected to impulse lightning current. The TLM including mutual
+    coupling between conductors will be applied. The transient behaviour will be assessed
+    into complete time domain solution by entombing under homogeneous and stratified
+    soil. Different simulations carried out altering, the influence of the grid dimensions,
+    the kind of the ground and the current injection point on the grid voltage and
+    impedance will be presented. Simulation results will be shown for two extreme
+    cases. The current is going to be injected twice. Firstly, in the center of the
+    grid. Secondly, in one cormer of the two configuration. Comsequently, the lowest
+    transient potential displays in the grid 1x1 when the injuction point is in the
+    lower resistivity. Whereas the better behaviour is shown in the grid 2x2 when
+    the current is injected at center point. It is obvious that the suggested simulations
+    are in a good agreement, with corresponding results of other researchers.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Grounding grids
+      - Homogeneous soil
+      - Impulse current
+      - Injection point
+      - Mutual coupling
+      - Soil resistivity
+      - Stratified soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Analysis of the performance of grounding grids buried in heterogeneous soil
+      under impulse current
+    url: http://dx.doi.org/10.11591/ijeecs.v22.i1.pp571-579
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Djaborebbi-Amina:
+    individualname: Djaborebbi, Amina
+    role: creator
+  Zegnini-Boubakeur:
+    individualname: Zegnini, Boubakeur
+    role: creator
+  Mahi-Djillali:
+    individualname: Mahi, Djillali
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

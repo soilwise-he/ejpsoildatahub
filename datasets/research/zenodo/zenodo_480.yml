@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Porter_1894
+  dataseturi: https://doi.org/10.1016/s0033-3506(05)82334-0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The relationship between soil temperature and enteric fever
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The relationship between soil temperature and enteric fever
+    url: http://dx.doi.org/10.1016/s0033-3506(05)82334-0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Porter-Chas:
+    individualname: Porter, Chas
+    role: creator
+  Porter-Chas.:
+    individualname: Porter, Chas.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

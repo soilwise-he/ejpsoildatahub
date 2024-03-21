@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8201
+  dataseturi: https://doi.org/10.5281/zenodo.8201
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Apparent Soil Electrical Conductivity Used To Determine Soil Phosphorus Variability
+    In Poultry Litter-Amended Pastures
+  abstract: The objectives of this research were to determine the relationship between
+    soil apparent electrical conductivity (ECa) and soil P distribution, and to compare
+    the effectiveness of noncontact mobile electromagnetic induction (EM) and direct
+    contact methods for relating ECa to soil P. Studies were conducted at two locations
+    in Southwest Missouri on a longterm forage fertility plot site and three 1 to
+    1.5 ha sites within beef cattle pasture fields, all having received long-term
+    poultry litter applications. For the long-term plot site, both the direct contact
+    ECa sensor deep reading and the EM-38 (Geonics) sensor in the shallow mode had
+    significant positive correlations with soil test Bray-1 P at both the 0 to 5 and
+    5 to 15 cm sampling depths. Significant spatial variation in soluble, soil test
+    Bray-1 and total P were observed by landscape position within pasture fields.
+    In general, soil ECa was not significantly correlated with soluble, soil test
+    Bray-1 and total P at each individual pasture site, but when data was combined
+    over all three sites, significant relationships were observed between ECa measured
+    by the EM-38 sensor and soil soluble P, soil test Bray-1 P and total P, especially
+    when the vertical (deep) mode was used. The difference in performance of the two
+    sensors between the two studies was attributed to the proportion of coarse fragments
+    contained in the soils and soil water content. These results suggest that soil
+    ECa measurements may provide some useful information for evaluating spatial variation
+    in soil P due to manure applications. However, further research is needed to assess
+    the processes and factors affecting this relationship before it can be recommended
+    for use for improved soil P management in individual farm fields with varying
+    environmental conditions and management practices.
+  keywords:
+    default:
+      keywords:
+        subject: pasture.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-12-22'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8201
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Motavalli-P.-P.:
+    individualname: Motavalli, P. P.
+    role: creator
+    organization: Department of Soil, Environmental and Atmospheric Sciences, University
+      of Missouri, Columbia, Missouri 65211 USA.
+    url: ''
+  Udawatta-R.-P.:
+    individualname: Udawatta, R. P.
+    role: creator
+    organization: Department of Soil, Environmental and Atmospheric Sciences, University
+      of Missouri, Columbia, Missouri 65211 USA.
+    url: ''
+  Bardhan-S.:
+    individualname: Bardhan, S.
+    role: creator
+    organization: Center for Agroforestry, University of Missouri, Columbia, Missouri
+      65211 USA.
+    url: ''
+content_info: {}

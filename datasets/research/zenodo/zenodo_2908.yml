@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Khomenko_2023
+  dataseturi: https://doi.org/10.1016/j.jenvman.2022.116702
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'A comparative study of thermally and chemically treated dairy waste: Impacts
+    on soil phosphorus turnover and availability using 33P isotope dilution'
+  abstract: '&lt;p&gt;Dairy processing sludge (DPS) and DPS-derived secondary products
+    such as struvite, biochar, hydrochar and ash (collectively known as SRUBIAS) are
+    emerging as alternatives to fertilizers produced from mined rock phosphate. However,
+    little is known about how these products affect soil P availability and daily
+    P turnover rates.. A lack of such information prevents precision nutrient management
+    planning using these products out on farms. This study used a novel isotope dilution
+    technique (IPD) with&nbsp;&lt;sup&gt;33&lt;/sup&gt;P as a tracer to compare P
+    turnover in soils amended with chemically (alum-treated DPS and struvite) and
+    thermally (biochar, hydrochar, ash) treated DPS. Results showed that thermally
+    treated products exhibited poor agronomic performance as P fertilizers, potentially
+    inhibiting P availability when applied to soils. For example, a P deficient soil
+    amended with hydrochar treatment at the highest application rates did not record
+    a build-up of available P to agronomic target values. In ash and biochar treated
+    P deficient soils, available P increased but only with very high application rates
+    of 150 and 80&nbsp;mg&nbsp;P kg&nbsp;&lt;sup&gt;&minus;1&lt;/sup&gt;. The application
+    of these products as fertilizers could have negative implications for both environmental
+    and agronomic goals. Conversely, chemically treated fertilisers demonstrated better
+    agronomic performance. The same agronomic target value was reached with application
+    rates of only 20&nbsp;mg&nbsp;P kg&nbsp;&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;soil
+    for DPS and 50&nbsp;mg&nbsp;P kg&nbsp;&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;soil
+    for struvite. However, the techniques deployed revealed that these products exhibited
+    slower rates of available and exchangeable P build-up when compared with chemical
+    fertilisers. This suggests that these bio-based alternatives require higher application
+    rates or earlier application times compared to conventional chemical fertilizers.
+    Regulations providing advice on P use in agricultural soils need to account for
+    slower P turnover in soils receiving recycled fertilizers. The IPD technique is
+    transferrable to all wastes to examine their performance as fertilizers.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Recycled dairy waste
+      - Bio-based fertilizers
+      - Phosphorus availability
+      - Thermally treated
+      - Isotope pool dilution
+      - STRUBIAS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'A comparative study of thermally and chemically treated dairy waste: Impacts
+      on soil phosphorus turnover and availability using 33P isotope dilution'
+    url: http://dx.doi.org/10.1016/j.jenvman.2022.116702
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Olha-Khomenko:
+    individualname: Olha Khomenko
+    role: creator
+  Karen-Daly:
+    individualname: Karen Daly
+    role: creator
+  Owen-Fenton:
+    individualname: Owen Fenton
+    role: creator
+  J.J.-Leahy:
+    individualname: J.J. Leahy
+    role: creator
+  Khomenko-Olha:
+    individualname: Khomenko, Olha
+    role: creator
+  Fenton-Owen:
+    individualname: Fenton, Owen
+    role: creator
+  Leahy-J.J.:
+    individualname: Leahy, J.J.
+    role: creator
+  Daly-Karen:
+    individualname: Daly, Karen
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

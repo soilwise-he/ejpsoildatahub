@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Marion_2017
+  dataseturi: https://doi.org/10.1016/j.jenvman.2016.11.074
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Assessing the influence of sustainable trail design and maintenance on soil
+    loss
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Assessing the influence of sustainable trail design and maintenance on soil
+      loss
+    url: http://dx.doi.org/10.1016/j.jenvman.2016.11.074
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marion-Jeffrey-L.:
+    individualname: Marion, Jeffrey L.
+    role: creator
+  Wimpey-Jeremy:
+    individualname: Wimpey, Jeremy
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

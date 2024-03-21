@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3351252
+  dataseturi: https://doi.org/10.5281/zenodo.3351252
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: THE DISINFESTATION OF SOIL IN GREENHOUSES
+  abstract: "<em>The energy method of soil disinfection of greenhouses from pests\
+    \ and pathogens of vegetable crops has been studied and proposed in Gorsky State\
+    \ Agrarian University. As a coolant, it is recommended to use ionized water steam,\
+    \ pre-treating the soil with a cutter with a diameter of 25\u202630 mm lumps or\
+    \ cells with a diameter of 16\u202620 mm. High quality of disinfection is ensured,\
+    \ when using water ionized steam as a coolant, the time of soil heating is reduced\
+    \ by on average of 1,5 times, the steam consumption reduces by 35...40%, the heat\
+    \ utilization coefficient is increased by 1,3 times compared with the use of non-ionized\
+    \ steam as a coolant.</em> <strong><em>Key words</em></strong><em>: decontamination\
+    \ of soil, pests and pathogens, bioindicators, coolant, ionized steam, the thermal\
+    \ conductivity, the heating of the soil, the steam condensation front, rotary\
+    \ hoe, cutter.</em>"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-25'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3351252
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3351251
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  ? Taymuraz-Khambievich-Kabaloev-Sarra-Abramovna-Bekuzarova-Rafik-Jamovich-Nurmetov-Irbek-Khadzhimuratovich-Esenov-Carolina-Kermenovna-Gatueva-Tamerlan-Maratovich-Gokoyev
+  : individualname: Taymuraz Khambievich Kabaloev, Sarra Abramovna Bekuzarova, Rafik
+      Jamovich Nurmetov, Irbek Khadzhimuratovich Esenov, Carolina Kermenovna Gatueva,
+      Tamerlan Maratovich Gokoyev
+    role: creator
+  Taymuraz-Khambievich-Kabaloev-Sarra-Abramovna-Bekuzarova:
+    individualname: Taymuraz Khambievich Kabaloev, Sarra Abramovna Bekuzarova
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

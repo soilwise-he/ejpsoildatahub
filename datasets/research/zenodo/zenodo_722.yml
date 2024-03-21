@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Robinson_1915
+  dataseturi: https://doi.org/10.1017/s0021859600002598
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On the Probable Error of Sampling in Soil Surveys
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: On the Probable Error of Sampling in Soil Surveys
+    url: http://dx.doi.org/10.1017/s0021859600002598
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robinson-G.-W.:
+    individualname: Robinson, G. W.
+    role: creator
+  Lloyd-W.-E.:
+    individualname: Lloyd, W. E.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

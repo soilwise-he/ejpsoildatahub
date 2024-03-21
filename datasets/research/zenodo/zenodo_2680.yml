@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3254878
+  dataseturi: https://doi.org/10.5281/zenodo.3254878
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Change of root absorption capacity of introduced ornamental flowering plants
+    in conditions of soil pollution by iron and chromium
+  abstract: The influence of soil pollutants iron and chromium on root absorption
+    of ornamental flowering plants has been studied. The decrease of the total root
+    surface was determined in all tested species with respect to control, moreover,
+    working surface decreases more than root surface, which does not work. The lesser
+    size of absorbtive surface in comparison with control is stipulated by inhibition
+    of root growth and length, shortage of root hair length and thickness, hairs quantity
+    per root surface unit.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2002-12-01'
+    publication: '2002'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3254878
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3254877
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.P.-Bessonova:
+    individualname: V.P. Bessonova
+    role: creator
+    organization: Zaporizhia State University, Ukraine, Zaporizhia
+    url: ''
+  O.E.-Ivanchenko:
+    individualname: O.E. Ivanchenko
+    role: creator
+    organization: Zaporizhia State University, Ukraine, Zaporizhia
+    url: ''
+content_info: {}

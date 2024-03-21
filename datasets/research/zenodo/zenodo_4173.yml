@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3405529
+  dataseturi: https://doi.org/10.5281/zenodo.3405529
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: IMPROVING THE DIAGNOSTICS OF UNDERGROUND PIPELINES AT OIL-AND-GAS ENTERPRISES
+    BASED ON DETERMINING HYDROGEN EXPONENT (PH) OF THE SOIL MEDIA APPLYING NEURAL
+    NETWORKS
+  abstract: "Yuzevych L., Skrynkovskyy R., Yuzevych V., Lozovan V., Pawlowski G.,\
+    \ Yasinskyi M., Ogirko I. Improving the diagnostics of underground pipelines at\
+    \ oil-and-gas enterprises based on determining hydrogen exponent (PH) of the soil\
+    \ media applying neural networks // Eastern-European Journal of Enterprise Technologies.\
+    \ 2019. Vol. 4, No 5 (100). P. 56\u201364. doi: http://dx.doi.org/10.15587/1729-4061.2019.174488"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-09-11'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3405529
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3405528
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yuzevych-V.-Author-et-al.:
+    individualname: Yuzevych V. (Author) et al.
+    role: creator
+  Yuzevych-V.-Author-Et-Al.:
+    individualname: Yuzevych V. (Author) Et Al.
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0001-5244-1850
+content_info: {}

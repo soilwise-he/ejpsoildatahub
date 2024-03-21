@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HIRST_1922
+  dataseturi: https://doi.org/10.1097/00010694-192204000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: FACTORS INFLUENCING THE DETERMINATION OF SULFATES IN SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: FACTORS INFLUENCING THE DETERMINATION OF SULFATES IN SOIL
+    url: http://dx.doi.org/10.1097/00010694-192204000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hirst-C.-T.:
+    individualname: Hirst, C. T.
+    role: creator
+  Greaves-J.-E.:
+    individualname: Greaves, J. E.
+    role: creator
+  HIRST-C.-T.:
+    individualname: HIRST, C. T.
+    role: creator
+  GREAVES-J.-E.:
+    individualname: GREAVES, J. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

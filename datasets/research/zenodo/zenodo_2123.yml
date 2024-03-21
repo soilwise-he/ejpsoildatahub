@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LEE_2021
+  dataseturi: https://doi.org/10.11646/phytotaxa.514.2.2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Diplodia parva sp. nov., a novel species of the family Botryosphaeriaceae
+    isolated from soil in Korea
+  abstract: 'Lee, Seung-Yeol, Ten, Leonid N., Ayim, Benjamin Yaw, Fulbert, Okouma
+    Nguia, Das, Kallol, Jung, Hee-Young (2021): Diplodia parva sp. nov., a novel species
+    of the family Botryosphaeriaceae isolated from soil in Korea. Phytotaxa 514 (2):
+    105-117, DOI: 10.11646/phytotaxa.514.2.2, URL: http://dx.doi.org/10.11646/phytotaxa.514.2.2'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Fungi
+      - Ascomycota
+      - Dothideomycetes
+      - Botryosphaeriales
+      - Botryosphaeriaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Diplodia parva sp. nov., a novel species of the family Botryosphaeriaceae
+      isolated from soil in Korea
+    url: http://dx.doi.org/10.11646/phytotaxa.514.2.2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lee-Seung-Yeol:
+    individualname: Lee, Seung-Yeol
+    role: creator
+  Ten-Leonid-N.:
+    individualname: Ten, Leonid N.
+    role: creator
+  Ayim-Benjamin-Yaw:
+    individualname: Ayim, Benjamin Yaw
+    role: creator
+  Fulbert-Okouma-Nguia:
+    individualname: Fulbert, Okouma Nguia
+    role: creator
+  Das-Kallol:
+    individualname: Das, Kallol
+    role: creator
+  Jung-Hee-Young:
+    individualname: Jung, Hee-Young
+    role: creator
+  LEE-SEUNG-YEOL:
+    individualname: LEE, SEUNG-YEOL
+    role: creator
+  TEN-LEONID-N.:
+    individualname: TEN, LEONID N.
+    role: creator
+  AYIM-BENJAMIN-YAW:
+    individualname: AYIM, BENJAMIN YAW
+    role: creator
+  FULBERT-OKOUMA-NGUIA:
+    individualname: FULBERT, OKOUMA NGUIA
+    role: creator
+  DAS-KALLOL:
+    individualname: DAS, KALLOL
+    role: creator
+  JUNG-HEE-YOUNG:
+    individualname: JUNG, HEE-YOUNG
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

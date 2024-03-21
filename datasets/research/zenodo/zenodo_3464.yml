@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1075935
+  dataseturi: https://doi.org/10.5281/zenodo.1075935
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Long-Term Irrigation With Dairy Factory Wastewater Influences Soil Quality
+  abstract: 'The effects of irrigation with dairy factory wastewater
+
+    on soil properties were investigated at two sites that had received
+
+    irrigation for &gt; 60 years. Two adjoining paired sites that had never
+
+    received DFE were also sampled as well as another seven fields from
+
+    a wider area around the factory. In comparison with paired sites that
+
+    had not received effluent, long-term wastewater irrigation resulted in
+
+    an increase in pH, EC, extractable P, exchangeable Na and K and
+
+    ESP. These changes were related to the use of phosphoric acid,
+
+    NaOH and KOH as cleaning agents in the factory. Soil organic C
+
+    content was unaffected by DFE irrigation but the size (microbial
+
+    biomass C and N) and activity (basal respiration) of the soil
+
+    microbial community were increased. These increases were
+
+    attributed to regular inputs of soluble C (e.g. lactose) present as milk
+
+    residues in the wastewater. Principal component analysis (PCA) of
+
+    the soils data from all 11sites confirmed that the main effects of DFE
+
+    irrigation were an increase in exchangeable Na, extractable P and
+
+    microbial biomass C, an accumulation of soluble salts and a liming
+
+    effect. PCA analysis of soil bacterial community structure, using
+
+    PCR-DGGE of 16S rDNA fragments, generally separated individual
+
+    sites from one another but did not group them according to irrigation
+
+    history. Thus, whilst the size and activity of the soil microbial
+
+    community were increased, the structure and diversity of the
+
+    bacterial community remained unaffected.'
+  keywords:
+    default:
+      keywords:
+        subject: soil quality.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-10-23'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1075935
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1075934
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yen-Yiu-Liu:
+    individualname: Yen-Yiu Liu
+    role: creator
+    organization: ''
+    url: ''
+  Richard-J.-Haynes:
+    individualname: Richard J. Haynes
+    role: creator
+  Haynes-Richard-J.:
+    individualname: Haynes, Richard J.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

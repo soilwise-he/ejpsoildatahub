@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7856898
+  dataseturi: https://doi.org/10.5281/zenodo.7856898
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Data from: Drought alters soil microbiome-mediated plant coexistence'
+  abstract: Soil microbes and climate change control plant coexistence through feedback
+    effects and create fitness differences between competing individuals. Until now,
+    microbiome-mediated coexistence between plants has often been considered in terms
+    of modeling prospects, and there is little empirical data to unravel the effects.
+    We inoculated 5 soil assemblages (SK, Artemisia fangensis (AF), Artemisia fangensis,
+    Artemisia, Artemisia, Bulbophyllum and Coleoptera) in a monoculture and mixture
+    of 5 plant species symbiotic in the temperate grasslands of China, and inoculated
+    the plant assemblage (root zone soil for SK<em>,</em> <em>Cold Artemisia</em>
+    (AF), <em>enoki</em> mushroom root zone soil). <em> </em> (AC), equal mixtures
+    of three root zone soils (MIX), and sterilized MIX(S) as well as drought treatment.
+    We found that the microbiome-mediated fitness difference was stronger than the
+    stabilization effect, resulting in two species from the three plant species pairs
+    we tested being excluded. Species coexistence was observed in only one species
+    pair, with differences in competitiveness and competitive fitness similar to those
+    of specific soil communities. Drought affects plant coexistence by affecting plant
+    competition and plant-soil feedback. The results of this study suggest that both
+    competition and drought affect plant-soil feedback effects and, ultimately, species
+    coexistence. Future work should examine how plant competition and soil microbial
+    heterogeneity work with climate change that affects plant coexistence.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7856898
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7856897
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  JingJingying:
+    individualname: Jing,Jingying
+    role: creator
+  YangLiang:
+    individualname: Yang,Liang
+    role: creator
+  DaBuxilatu:
+    individualname: Da,Buxilatu
+    role: creator
+  Jing-Jingying:
+    individualname: Jing, Jingying
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Yang-Liang:
+    individualname: Yang, Liang
+    role: ''
+    organization: China Agricultural University
+    url: ''
+  Da-Buxilatu:
+    individualname: Da, Buxilatu
+    role: ''
+    organization: China Agricultural University
+    url: ''
+content_info: {}

@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8249922
+  dataseturi: https://doi.org/10.5281/zenodo.8249922
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Heavy Metals Impact on Farmland Soil in Jabaka Mining Community, Zamfara
+    State, Nigeria
+  abstract: Journal Article
+  keywords:
+    default:
+      keywords:
+        subject: Jabaka, Geo-accumulation Index (Igeo), Pollution Load Index (PLI),
+          Geo-chemical distribution, Zamfara State.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8249922
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.8249921
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sholadoye-Qazeem--Oyeniyi:
+    individualname: Sholadoye Qazeem  Oyeniyi
+    role: creator
+    organization: Nigeria Police Academy, Wudil, Kano, Nigeria
+    url: ''
+  Tajudeen-Afolayan-Lawal:
+    individualname: Tajudeen Afolayan Lawal
+    role: creator
+    organization: Nigeria Police Academy, Wudil, Kano, Nigeria
+    url: ''
+  Christian-C.-Onoyima:
+    individualname: Christian C. Onoyima
+    role: creator
+  Onoyima-Christian-C.:
+    individualname: Onoyima, Christian C.
+    role: ''
+    organization: Nigeria Police Academy, Wudil, Kano, Nigeria
+    url: ''
+content_info: {}

@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7685016
+  dataseturi: https://doi.org/10.5281/zenodo.7685016
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of Kinetin, Coconut Milk and Calcium Chloride on Biochemical Indices
+    of Boro Rice (Oryza Sativa L.) in Presence of Higher Manganese Condition of Acid
+    Soil
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> In North-east India\
+    \ including Assam, available Manganese [Mn<sup>2+</sup>] in soil is 3- 52 ppm\
+    \ with a critical limit 2-3 ppm. In plants, [Mn<sup>2+</sup>] is 15-20 ppm g<sup>-1</sup>\
+    \ dry weight, in excess of which Mn becomes toxic to crop plants (Basumatary et\
+    \ al., 2014). There is a paucity of information on the effects of natural or synthetic\
+    \ plant growth regulating subnstances viz., Cytokinin, Coconut milk and Calcium\
+    \ chloride on amelioration of Mn toxicity of rice crop grown in acid soil condition\
+    \ of Assam<strong>.</strong> So, a pot experiment was conducted to investigate\
+    \ into the effects of root-dip treatments of rice crop with these substances on\
+    \ biochemical performance of four rice genotypes (Kanaklata, Bishnuprasad, Jyotiprasad\
+    \ and Numoli) cultivated in acid soil enriched with higher Mn (30ppm native Mn\
+    \ plus 20ppm added Mn). At 20 ppm Mn application, there were decreases in total\
+    \ chlorophyll content (14.52%), NR activity (17.77%), Carbohydrate content (3.83%).\
+    \ In contrast, soil treated with 20 ppm Mn as basal at vegetative stage along\
+    \ with the overnight (\u224812h) root dip treatments (RDT) of rice varieties with\
+    \ Cytokinin (100ppm), Coconut milk (10 times dilution) and CaCl<sub>2</sub> (100ppm),\
+    \ enhenced Cholorophyll a (3-525-19.771%), Chlorophyll b (1.917-19.55%), total\
+    \ chlorophyll contents (4.13-6.35%),) in leaf, NR activity (4.46-10.08%) and carbohydrate\
+    \ content in grain (2.24-10.92%). The variety, Kanaklata was found to be the best\
+    \ based on the biochemical parameters (total Chl:1.861 mg g<sup>-1</sup> f.w,\
+    \ Chl \u2018a\u2019 (0.924 mg g-1 f.w), Chl \u2018b\u2019 (0.933 mg g-1 f.w),\
+    \ Carbohydrate: 9.202 mg g<sup>-1</sup>, and [Ca<sup>2+</sup>] in roots (59.35ppm)."
+  keywords:
+    default:
+      keywords:
+        subject: Nitrate reductase
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-02-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7685016
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7685015
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nibedita-Basumatary:
+    individualname: Nibedita Basumatary
+    role: creator
+    organization: ''
+    url: ''
+  Bhagawan-Bharali:
+    individualname: Bhagawan Bharali
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Anastasopoulos_2010
+  dataseturi: https://doi.org/10.1016/j.soildyn.2010.04.020
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Seismic performance of bar-mat reinforced-soil retaining wall: Shaking table
+    testing versus numerical analysis with modified kinematic hardening constitutive
+    model'
+  abstract: "Reinforced-soil retaining structures possess inherent flexibility, and\
+    \ are believed to be insensitive to earthquake shaking. In fact, several such\
+    \ structures have successfully survived destructive earthquakes (Northridge 1994,\
+    \ Kobe 1995, Kocaeli 1999, and Chi-Chi 1999). This paper investigates experimentally\
+    \ and theoretically the seismic performance of a typical bar-mat retaining wall.\
+    \ First, a series of reduced- scale shaking table tests are conducted, using a\
+    \ variety of seismic excitations (real records and artificial multi-cycle motions).\
+    \ Then, the problem is analyzed numerically employing the finite element method.\
+    \ A modified kinematic hardening constitutive model is developed and encoded in\
+    \ ABAQUS through a user-defined subroutine. After calibrating the model parameters\
+    \ through laboratory element testing, the retaining walls are analyzed at model\
+    \ scale, assuming model parameters appropriate for very small confining pressures.\
+    \ After validating the numerical analysis through comparisons with shaking table\
+    \ test results, the problem is re-analyzed at prototype scale assuming model parameters\
+    \ for standard confining pressures. The results of shaking table testing are thus\
+    \ indirectly \u2018\u2018converted\u2019\u2019(extrapolated) to real scale. It\
+    \ is shown that: (a) for medium intensity motions (typical of Ms \u2248 6 earthquakes)\
+    \ the response is \u2018\u2018quasi-elastic\u2019\u2019, and the permanent lateral\
+    \ displacement in reality could not exceed a few centimeters; (b) for larger intensity\
+    \ motions (typical of Ms \u2248 6.5\u20137 earthquakes) bearing the effects of\
+    \ forward rupture directivity or having a large number of strong motion cycles,\
+    \ plastic deformation accumulates and the permanent displacement is of the order\
+    \ of 10\u201315 cm (at prototype scale); and (c) a large number of strong motion\
+    \ cycles (N&gt;30) of un realistically large amplitude (A \u22481.0 g) is required\
+    \ to activate a failure wedge behind the region of reinforced soil. Overall, the\
+    \ performance of the bar-mat reinforced-soil walls investigated in this paper\
+    \ is totally acceptable for realistic levels of seismic excitation."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Seismic performance of bar-mat reinforced-soil retaining wall: Shaking
+      table testing versus numerical analysis with modified kinematic hardening constitutive
+      model'
+    url: http://dx.doi.org/10.1016/j.soildyn.2010.04.020
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anastasopoulos-Ioannis:
+    individualname: "Anastasopoulos, \u0399oannis"
+    role: creator
+  Georgarakos-Takis:
+    individualname: Georgarakos, Takis
+    role: creator
+  Georgiannou-Vassiliki:
+    individualname: Georgiannou, Vassiliki
+    role: creator
+  Drosos-Vassilis:
+    individualname: Drosos, Vassilis
+    role: creator
+  Kourkoulis-Rallis:
+    individualname: Kourkoulis, Rallis
+    role: creator
+  Anastasopoulos-I.:
+    individualname: Anastasopoulos, I.
+    role: creator
+  Georgarakos-T.:
+    individualname: Georgarakos, T.
+    role: creator
+  Georgiannou-V.:
+    individualname: Georgiannou, V.
+    role: creator
+  Drosos-V.:
+    individualname: Drosos, V.
+    role: creator
+  Kourkoulis-R.:
+    individualname: Kourkoulis, R.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

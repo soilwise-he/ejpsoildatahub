@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3332980
+  dataseturi: https://doi.org/10.5281/zenodo.3332980
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Allelopathic methods of regulation of soil processes at long-term cultivation
+    of Syringa vulgaris L.
+  abstract: It was established that application of humus and green-manure (<em>Brassica
+    rapa</em> var. <em>oleifera</em>) of the essential decrease of phytotoxicity of
+    soil collected after long-term cultivation of lilac. It was shown that simultaneous
+    application of humus and green-manure quickens humification processes in soil.
+    The state of pigment system of lilac seedlings depended on biological activity
+    of soil.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2002-06-01'
+    publication: '2002'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3332980
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3332979
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.A.-Gorobets:
+    individualname: S.A. Gorobets
+    role: creator
+    organization: M.M. Grishko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  N.A.-Pavluchenko:
+    individualname: N.A. Pavluchenko
+    role: creator
+    organization: M.M. Grishko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+  A.A.-Blum:
+    individualname: A.A. Blum
+    role: creator
+    organization: M.M. Grishko National Botanical Gardens, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

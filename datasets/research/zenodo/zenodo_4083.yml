@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1338916
+  dataseturi: https://doi.org/10.5281/zenodo.1338916
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Geotechnical Investigation Of Soil Foundation For Ramps Of Dawar El-Tawheed
+    Bridge In Jizan City, Kingdom Of Saudi Arabia
+  abstract: The soil profile at site of the bridge project includes soft fine grained
+    soil layer located between 5.0 m to 11.0 m in depth, it has high water content,
+    low SPT no., and low bearing capacity. The clay layer induces high settlement
+    due to surcharge application of earth embankment at ramp T1, ramp T2, and ramp
+    T3 especially at heights from 9m right 3m. Calculated settlement for embankment
+    heights less than 3m may be accepted regarding Saudi Code for soil and foundation.
+    The soil and groundwater at the project site comprise high contents of sulfates
+    and chlorides of high aggressively on concrete and steel bars, respectively. Regarding
+    results of the study, it has been recommended to use stone column piles or new
+    technology named PCC piles as soil improvement to improve the bearing capacity
+    of the weak layer. The new technology is cast in-situ thin wall concrete pipe
+    piles (PCC piles), it has economically advantageous and high workability. The
+    technology can save time of implementation and cost of application is almost 30%
+    of other types of piles.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-19'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1338916
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1338915
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-H.-Mahfouz:
+    individualname: Ali H. Mahfouz
+    role: creator
+  Hossam-E.-M.Sallam:
+    individualname: Hossam E. M.Sallam
+    role: creator
+  Abdulwali-Wazir:
+    individualname: Abdulwali Wazir
+    role: creator
+    organization: ''
+    url: ''
+  Hamod-H.-Kharezi:
+    individualname: Hamod H. Kharezi
+    role: creator
+    organization: ''
+    url: ''
+  Mahfouz-Ali-H.:
+    individualname: Mahfouz, Ali H.
+    role: ''
+    organization: ''
+    url: ''
+  M.Sallam-Hossam-E.:
+    individualname: M.Sallam, Hossam E.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

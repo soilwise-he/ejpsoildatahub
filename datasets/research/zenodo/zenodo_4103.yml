@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10616846
+  dataseturi: https://doi.org/10.5281/zenodo.10616846
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Differential Pattern of Arsenic Binding by the Cell Wall in Two Arsenite
+    Tolerant Bacillus Strains Isolated from Arsenic Contaminated Soil
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-02-05'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10616846
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10616845
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vishnoi-N:
+    individualname: Vishnoi N
+    role: creator
+    organization: Department of Environmental Science, Babasaheb Bhimrao Ambedkar
+      University, Vidya Vihar, Raibareilly Road, Lucknow, Uttar Pradesh, India
+    url: ''
+content_info: {}

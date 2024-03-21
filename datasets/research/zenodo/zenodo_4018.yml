@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6325302
+  dataseturi: https://doi.org/10.5281/zenodo.6325302
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Comparative Study on the Stabilization of Three Southwestern Lateritic Soil
+    for Road Work using Pulverized Cow Bone (PCB)
+  abstract: '- This paper investigates on the possibility of improving and comparing
+    the engineering properties of three samples of lateritic soil from Ogun, Oyo and
+    Osun with pulverized cow bone, a processed animal waste obtained from abattoirs,
+    for road construction. The effect of PCB on the soil samples was assessed by adding
+    2-8% PCB at a 2% increment to the lateritic soil. The Atterberg limits(Liquid
+    limit, Plastic limit, Plasticity Index) obtained were Ogun ( 57%, 21.16%, 35.84%),
+    Oyo (51.4%, 25.19%, 26.21%) and Osun (29.4%, 14.68%, 14.72%). The high plasticity
+    index of the Ogun state soil shows that the soil may be susceptible to cracking
+    and shrinkage. Although the strength properties, California Bearing Ratio and
+    Unconfined Compressive Strength of all the samples improved with increment in
+    PCB additive from 0 - 8% PCB achieving the following peak (Soaked CBR, UCS) values
+    with PCB stabilization; Ogun(15%, 93.37%), Oyo(19.65%, 95.19) and Osun(18%, 171.315%),
+    the compaction result did not concur with the endless addition of PCB to the lateritic
+    samples.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-03'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6325302
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6325301
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.C.-Apata:
+    individualname: A.C. Apata
+    role: creator
+    organization: ''
+    url: ''
+  Egbo-R.-N:
+    individualname: Egbo R. N
+    role: creator
+    organization: ''
+    url: ''
+  U.U.-Imoh:
+    individualname: U.U. Imoh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

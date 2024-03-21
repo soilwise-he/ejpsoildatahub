@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4421297
+  dataseturi: https://doi.org/10.5281/zenodo.4421297
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of soil physicochemical parameters on species composition and structure
+    in the Togo Plateau Forest Reserve in Ghana
+  abstract: "Soil-Species correlation studies help in understanding the ecology of\
+    \ plateau ecosystems. However, this information is scarse thereby posing a challenge\
+    \ in their effective management in Ghana. Hence, the study on the influence of\
+    \ soil physicochemical parameters on species composition and structure in the\
+    \ six fringed communities which constitute the focus of the study: Bowuri (BO),\
+    \ Nkonya (NK), Akpafu (AK), Santrokofi (SA), Hohoe (HH) and Alavanyo (AL) in the\
+    \ Togo Plateau Forest Reserve in Ghana. Soil and vegetation parameters were recorded\
+    \ in a total of 180 plots (each measuring 25m \xD7 25m) demarcated across the\
+    \ communities and analyzed. Canonical Correlation Analysis (CCA) results showed\
+    \ that pH, OC, TN, OM, TCa, TMg, TK, Na, T.E.B, ex. Acidity, ECEC, Base sat, AVI\
+    \ \u2013 P (ppmP), Sand and Silt were the drivers of trees, saplings and seedlings\
+    \ composition and structure (including density, richness, shannon, evenness and\
+    \ basal area (BA)) on the plateau. This vegetation attributes were seen to be\
+    \ highest and more correlated with soil parameters for BO, NK and AK occupying\
+    \ lowland areas and lowest in the SA, HH and AL occupying highland areas of the\
+    \ plateau. The soil is somewhat weak acidic to neutral, with a pH ranging between\
+    \ 4.17 and 7.06. The CV values revealed Base sat showing lowest values (c.v.&lt;15%),\
+    \ with moderate (c.v.=34%-15%) for TK and highest (c.v.\u02C335%) for TCa, TMg,\
+    \ Na, T.E.B, EX. ACIDITY and ECEC, AVI-P1. This study provides a better understanding\
+    \ of the current status of this plateau in Ghana."
+  keywords:
+    default:
+      keywords:
+        subject: Togo Plateau; Forest reserve; Soil physico-chemical properties; biodiversity
+          hotspots
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4421297
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4421296
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gilchrist-K-Faith-Dogor:
+    individualname: Gilchrist K Faith Dogor
+    role: creator
+    organization: Department of Theoretical and Applied Biology, College of Science,
+      Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
+    url: ''
+  Emmanuel-Acquah:
+    individualname: Emmanuel Acquah
+    role: creator
+  Alexander-K.-Anning:
+    individualname: Alexander K. Anning
+    role: creator
+  Acquah-Emmanuel:
+    individualname: Acquah, Emmanuel
+    role: ''
+    organization: Department of Forest Resources Technology, College of Agriculture
+      and Natural Resources, Kwame Nkrumah University of Science and Technology, Kumasi,
+      Ghana.
+    url: ''
+  Anning-Alexander-K.:
+    individualname: Anning, Alexander K.
+    role: ''
+    organization: Department of Theoretical and Applied Biology, College of Science,
+      Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
+    url: ''
+content_info: {}

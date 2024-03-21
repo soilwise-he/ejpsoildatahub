@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1315921
+  dataseturi: https://doi.org/10.5281/zenodo.1315921
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Moisture Control System: A Product Development Approach'
+  abstract: In this work, we propose the concept and geometrical design of a soil
+    moisture control system (SMCS) module by following the product development approach
+    to develop an inexpensive, easy to use and quick to install product targeted towards
+    agriculture practitioners. The module delivers water to the agricultural land
+    efficiently by sensing the soil moisture and activating the delivery valve. We
+    start with identifying the general needs of the potential customer. Then, based
+    on customer needs we establish product specifications and identify important measuring
+    quantities to evaluate our product. Keeping in mind the specifications, we develop
+    various conceptual solutions of the product and select the best solution through
+    concept screening and selection matrices. Then, we develop the product architecture
+    by integrating the systems into the final product. In the end, the geometric design
+    is done using human factors engineering concepts like heuristic analysis, task
+    analysis, and human error reduction analysis. The result of human factors analysis
+    reveals the remedies which should be applied while designing the geometry and
+    software components of the product. We find that to design the best grip in terms
+    of comfort and applied force, for a power-type grip, a grip-diameter of 35 mm
+    is the most ideal.
+  keywords:
+    default:
+      keywords:
+        subject: soil moisture control.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-02'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1315921
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1315920
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Swapneel-U.-Naphade:
+    individualname: Swapneel U. Naphade
+    role: creator
+    organization: ''
+    url: ''
+  Dushyant-A.-Patil:
+    individualname: Dushyant A. Patil
+    role: creator
+    organization: ''
+    url: ''
+  Satyabodh-M.-Kulkarni:
+    individualname: Satyabodh M. Kulkarni
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1073419
+  dataseturi: https://doi.org/10.5281/zenodo.1073419
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of Gis And Statistical Multivariate Techniques For Estimation
+    Of Soil Erosion And Sediment Yield
+  abstract: 'In recent years, most of the regions in the world are
+
+    exposed to degradation and erosion caused by increasing
+
+    population and over use of land resources. The understanding of
+
+    the most important factors on soil erosion and sediment yield are
+
+    the main keys for decision making and planning. In this study, the
+
+    sediment yield and soil erosion were estimated and the priority of
+
+    different soil erosion factors used in the MPSIAC method of soil
+
+    erosion estimation is evaluated in AliAbad watershed in southwest
+
+    of Isfahan Province, Iran. Different information layers of the
+
+    parameters were created using a GIS technique. Then, a
+
+    multivariate procedure was applied to estimate sediment yield and
+
+    to find the most important factors of soil erosion in the model. The
+
+    results showed that land use, geology, land and soil cover are the
+
+    most important factors describing the soil erosion estimated by
+
+    MPSIAC model.'
+  keywords:
+    default:
+      keywords:
+        subject: Land use.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-04-25'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1073419
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1073418
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Masoud-Nasri:
+    individualname: Masoud Nasri
+    role: creator
+  Ali-Gholami:
+    individualname: Ali Gholami
+    role: creator
+  Ali-Najafi:
+    individualname: Ali Najafi
+    role: creator
+  Nasri-Masoud:
+    individualname: Nasri, Masoud
+    role: ''
+    organization: ''
+    url: ''
+  Gholami-Ali:
+    individualname: Gholami, Ali
+    role: ''
+    organization: ''
+    url: ''
+  Najafi-Ali:
+    individualname: Najafi, Ali
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

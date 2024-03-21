@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Greaves_1922
+  dataseturi: https://doi.org/10.1086/332973
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Influence of Salts on Bacterial Activities of Soil
+  abstract: 'Volume: 73 ; Start Page: 161 ; End Page: 180'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Influence of Salts on Bacterial Activities of Soil
+    url: http://dx.doi.org/10.1086/332973
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Greaves-J.-E.:
+    individualname: Greaves, J. E.
+    role: creator
+  University-of-Chicago-Press:
+    individualname: University of Chicago Press
+    role: creator
+content_info: {}

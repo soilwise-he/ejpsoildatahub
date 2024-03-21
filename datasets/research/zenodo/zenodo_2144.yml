@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.48538-frp-2016-0010
+  dataseturi: https---doi.org-10.48538-frp-2016-0010
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil enzymatic activity in artificially and naturally regenerated forests
+    after wind damage in north-eastern Poland
+  abstract: '&lt;p&gt;The aim of the study was to describe biochemical reactions in
+    the soil based on the activity of urease and dehydrogenases in Scots pine stands
+    damaged during and differentially managed after hurricanes. Soil enzymatic activity
+    was investigated in 2005 and again in 2013 for selected stands in the Pisz Forest
+    District where wind damage occurred in 2002. Most of the damaged stands were cut
+    down and replanted, but 445 ha were left untouched for study purposes. The investigated
+    areas differed with respect to stand damage and management. The enzymatic activity
+    correlated well with the content of organic matter which was higher in organic
+    than in mineral soils. In the area left to regenerate naturally, dehydrogenase
+    and urease activity was higher in 2013 compared to 2005, which suggests the improvement
+    of site conditions. The values of the examined biochemical parameters were correlated
+    with the type of forest regeneration, with the forest soil regeneration being
+    higher in artificially than in naturally regenerated stands. Changes of soil enzymatic
+    activity were correlated with the level of stand damage and the type of management
+    after wind damage.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - wind damage
+      - urease
+      - dehydrogenases
+      - forest soils
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil enzymatic activity in artificially and naturally regenerated forests
+      after wind damage in north-eastern Poland
+    url: http://www.ibles.pl/web/lesne-prace-badawcze/-/doi-10-1515-frp-2016-0010
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Grazyna-Olszowska:
+    individualname: "{Gra\u017Cyna Olszowska}"
+    role: creator
+  Instytut-Badawczy-Lesnictwa-Sekocin-Stary-Poland:
+    individualname: "Instytut Badawczy Le\u015Bnictwa, S\u0119kocin Stary, Poland"
+    role: creator
+content_info: {}

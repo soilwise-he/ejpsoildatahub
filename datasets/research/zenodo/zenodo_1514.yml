@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5804808
+  dataseturi: https://doi.org/10.5281/zenodo.5804808
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Urbanization-induced environmental changes strongly affect wetland soil bacterial
+    community composition and diversity
+  abstract: Supporting Information
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-17'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5804808
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5804807
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yi-Xinyu:
+    individualname: Yi, Xinyu
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+  Ning-Chen:
+    individualname: Ning, Chen
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+  Feng-Shuailong:
+    individualname: Feng, Shuailong
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+  Gao-Haiqiang:
+    individualname: Gao, Haiqiang
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+  Zhao-Jianlun:
+    individualname: Zhao, Jianlun
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+  Liao-Juyang:
+    individualname: Liao, Juyang
+    role: creator
+    organization: Hunan Botanical Garden
+    url: ''
+  Peng-Yinghe:
+    individualname: Peng, Yinghe
+    role: creator
+    organization: Hunan Academy of Forestry
+    url: ''
+  Zhao-Shuqing:
+    individualname: Zhao, Shuqing
+    role: creator
+    organization: Peking University
+    url: ''
+  Liu-Shuguang:
+    individualname: Liu, Shuguang
+    role: creator
+    organization: Central South University of Forestry and Technology
+    url: ''
+content_info: {}

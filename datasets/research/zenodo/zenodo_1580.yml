@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GORTNER_1917
+  dataseturi: https://doi.org/10.1097/00010694-191702000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'THE ORGANIC MATTER OF THE SOIL: IV. SOME DATA ON HUMUS-PHOSPHORIC ACID'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'THE ORGANIC MATTER OF THE SOIL: IV. SOME DATA ON HUMUS-PHOSPHORIC ACID'
+    url: http://dx.doi.org/10.1097/00010694-191702000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gortner-Ross-Aiken:
+    individualname: Gortner, Ross Aiken
+    role: creator
+  Shaw-William-M.:
+    individualname: Shaw, William M.
+    role: creator
+  GORTNER-ROSS-AIKEN:
+    individualname: GORTNER, ROSS AIKEN
+    role: creator
+  SHAW-WILLIAM-M.:
+    individualname: SHAW, WILLIAM M.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

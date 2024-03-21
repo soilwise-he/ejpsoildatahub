@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6534281
+  dataseturi: https://doi.org/10.5281/zenodo.6534281
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: '(Research Master''s Thesis) Fire under the lens: the Mesolithic magnified.
+    A study into the use and function of Mesolithic hearth pits in the Netherlands
+    through the use of soil micromorphology'
+  abstract: The main aim of this study has been to gain insight into the use and function
+    of Mesolithic hearth pits features that are found consistently around the Netherlands.
+    While existing research shed light on the spatial configuration of these pits,
+    their chronological distribution and general morphology, information on the exact
+    function of these features remained unavailable. Moreover, an overview of inter-
+    and intrasite variation between hearth pits was lacking. By using soil micromorphology
+    in the form of a quantitative approach, the analysis in this study has demonstrated
+    that the hearth pits might have been used for tar production, food preparation
+    or the thermal preparation of lithics. All three functions require low temperatures
+    in addition to an oxygen-starved environment. It is difficult to differentiate
+    between these hypotheses on the basis of micromorphological observations, since
+    the characteristics observed could theoretically be the result of either of the
+    three activities.<br> <br> Moreover, a clear corpus of baseline observations specifically
+    related to the various functions is currently not available. Still, there seems
+    to be a certain degree of variation among the features, with tar-like substances
+    and charred topsoil material only being present in a select few pits. Whether
+    these differences are related to meaningful functional variation or to post-depositional
+    influences remains unclear. Local geology or hydrology might also be partially
+    responsible. Nevertheless, the large amounts of features on long revisited sites
+    that required a certain amount of time investment and a temporal lack of mobility
+    indicates the importance of the hearth pits in Mesolithic hunter-gatherer communities.<br>
+    <br> It is suggested that the pit clusters might be representative of prehistoric
+    travel routes. In the light of future research it is recommended that a set of
+    baseline micromorphological observations is collected through either experimental
+    work or the sampling of features in the context of ethnographic study. Moreover,
+    the scientific techniques already used on a small number of hearth pits should
+    be implemented on more features, to facilitate comparison. Even though this study
+    has not been successful in providing a conclusive answer to the question on the
+    function and use of hearth pit features, it gives valuable insight into some possible
+    interpretations that can be tested in a very targeted fashion. Mesolithic hearth
+    pits should remain in our focus, under the lens.
+  keywords:
+    default:
+      keywords:
+        subject: Geoarchaeology
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-05-10'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6534281
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6534280
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hester-Kamstra:
+    individualname: Hester Kamstra
+    role: creator
+  Kamstra-Hester:
+    individualname: Kamstra, Hester
+    role: ''
+    organization: University of Groningen
+    url: ''
+content_info: {}

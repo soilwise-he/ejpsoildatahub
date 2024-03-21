@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216705
+  dataseturi: https://doi.org/10.5281/zenodo.7216705
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Microplastic pollution of organic waste products used for soil amendment
+  abstract: "The latest literature suggests that organic fertilizers are one of the\
+    \ first sources of contamination of agricultural soils. Indeed, organic materials\
+    \ for intended soil amendments (e.g. composts, green waste, manure, sewage sludge)\
+    \ are the result of various processes and can be contaminated by microplastics\
+    \ (MP), such as packaging residues. In order to improve our knowledge on the level\
+    \ of contamination, as well as on the nature of MP in organic amendments, the\
+    \ PRO project (2021-2023) has been set up by Ademe (French Agency for Ecological\
+    \ Transition). This project has several challenges: to identify the matrices acting\
+    \ as sources of MP, to study the diversity and origins of these MP, and to estimate\
+    \ the potential flows to agricultural land. Within this framework, the IRDL (Institut\
+    \ de Recherche Dupuy de L\xF4me) is responsible for setting up and testing the\
+    \ method for extracting and analysing MP contaminating these matrices. Our mission\
+    \ is to validate a digestion protocol applicable to 21 complex solid matrices\
+    \ rich in organic matter while, at the same time, ensuring the integrity of extracted\
+    \ polymers (especially biodegradable ones). 83 samples are planned for this project,\
+    \ and half have already been analysed. Preliminary recommendations following these\
+    \ tests and unpublished results will be presented. Also see: https://micro2022.sciencesconf.org/427005/document"
+  keywords:
+    default:
+      keywords:
+        subject: soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216705
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216704
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cirederf-Boulant-Delphine:
+    individualname: Cirederf Boulant, Delphine
+    role: creator
+    organization: ''
+    url: ''
+  Bruzaud-Stephane:
+    individualname: "Bruzaud, St\xE9phane"
+    role: creator
+    organization: ''
+    url: ''
+  Deportes-Isabelle:
+    individualname: Deportes, Isabelle
+    role: creator
+    organization: ''
+    url: ''
+  Kedzierski-Mikael:
+    individualname: "Kedzierski, Mika\xEBl"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

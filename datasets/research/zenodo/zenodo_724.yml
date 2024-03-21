@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sutela_2019
+  dataseturi: https://doi.org/10.1093/femsec/fiz119
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Viruses of fungi and oomycetes in the soil environment
+  abstract: '&lt;p&gt;Viruses of fungi and oomycetes in the soil environment&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Viruses of fungi and oomycetes in the soil environment
+    url: http://dx.doi.org/10.1093/femsec/fiz119
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vainio-Eeva-J:
+    individualname: Vainio, Eeva J
+    role: creator
+  Sutela-Suvi:
+    individualname: Sutela, Suvi
+    role: creator
+  Poimala-Anna:
+    individualname: Poimala, Anna
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

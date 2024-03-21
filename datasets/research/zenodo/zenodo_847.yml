@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sol_s_2022
+  dataseturi: https://doi.org/10.15359/ru.36-1.36
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Transformation of RGB Images to Munsell Soil-Color Charts
+  abstract:
+  - '&lt;p&gt;Abstract&lt;/p&gt;
+
+
+    &lt;p&gt;[Objective]&nbsp;The transformation from RGB to Munsell color space is
+    a relevant issue for different tasks, such as the identification of soil taxonomy,
+    organic materials, rock materials, skin types, among others. This research aims
+    to develop alternatives based on feedforward networks and the convolutional neural
+    networks to predict the hue, value, and chroma in the Munsell soil-color charts
+    (MSCCs) from RGB images.&nbsp;[Methodology]&nbsp;We used images of Munsell soil-color
+    charts from 2000 and 2009 versions taken from Millota&nbsp;et al. (2018) to train
+    and test the models. A division of 2856 images in 10% for testing, 20% for validation,
+    and 70% for training was used to build the models.&nbsp;[Results]&nbsp;The best
+    approach was the convolutional neural networks for classification with 93% of
+    total accuracy of hue, value, and chroma combination; it comprises three CNN,
+    one for the hue prediction, another for value prediction, and the last one for
+    chroma prediction. However, the three best models show closeness between the prediction
+    and real values according to the CIEDE2000 distance. The cases classified incorrectly
+    with this approach had a CIEDE2000 average of 0.27 and a standard deviation of
+    1.06.&nbsp;[Conclusions]&nbsp;The models demonstrated better color recognition
+    in uncontrolled environments than the Transformation of Centore, which is the
+    classical method to transform from RGB to HVC. The results were promising, but
+    the model should be tested with real images at different applications, such as
+    soil real images, to classify the soil color.&lt;/p&gt;'
+  - "Sol\xEDs, M., Mu\xF1oz-Alvarado, E., &amp; Pegalajar, M. (2022). The Transformation\
+    \ of RGB Images to Munsell Soil-Color Charts. Uniciencia, 36(1), 1-10. https://doi.org/10.15359/ru.36-1.36"
+  keywords:
+    default:
+      keywords:
+      - Munsell color space
+      - RGB color space
+      - transformation
+      - Munsell soil color charts
+      - machine learning
+      - neuronal networks
+      - espacio de color Munsell
+      - espacio de color RGB
+      - "transformaci\xF3n"
+      - cartas de color del suelo Munsell
+      - "aprendizaje autom\xE1tico"
+      - redes neuronales
+      - "espa\xE7o de cor Munsell"
+      - "espa\xE7o de cor RGB, convers\xE3o"
+      - cartas de cores do solo de Munsell
+      - "aprendizagem autom\xE1tica"
+      - redes neuronais
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Transformation of RGB Images to Munsell Soil-Color Charts
+    url: http://dx.doi.org/10.15359/ru.36-1.36
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Solis-M:
+    individualname: "Sol\xEDs, M"
+    role: creator
+  Munoz-E:
+    individualname: "Mu\xF1oz, E"
+    role: creator
+  Pegalajar-Maria:
+    individualname: "Pegalajar, Mar\xEDa"
+    role: creator
+  Solis-Martin:
+    individualname: "Sol\xEDs, Mart\xEDn"
+    role: creator
+  Munoz-Alvarado-Erick:
+    individualname: "Mu\xF1oz-Alvarado, Erick"
+    role: creator
+  Pegalajar-Maria-Carmen:
+    individualname: "Pegalajar, Mar\xEDa Carmen"
+    role: creator
+  Universidad-Nacional-de-Costa-Rica:
+    individualname: Universidad Nacional de Costa Rica
+    role: creator
+content_info: {}

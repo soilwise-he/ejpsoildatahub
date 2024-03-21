@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7408687
+  dataseturi: https://doi.org/10.5281/zenodo.7408687
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Morpho-physiological Study of Wheat Genotypes With Contrasting Growth Periods,
+    Cultivated Under Various Climatic and Soil Conditions
+  abstract: The effect of drought on the surface area of various assimilating organs
+    of durum and bread wheat genotypes with contrasting growth periods, cultivated
+    under various climatic and soil conditions has been studied. To establish the
+    accuracy of the obtained data, statistical analysis of some productivity indices
+    was performed.
+  keywords:
+    default:
+      keywords:
+        subject: Drought, wheat genotypes, assimilating parts, plant metabolism, early
+          maturing wheat genotypes
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-27'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7408687
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7408686
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.H.-Tamrazov:
+    individualname: T.H. Tamrazov
+    role: creator
+    organization: 'Department of Plant Physiology and Biotechnology, Research Institute
+      of Crop Husbandry, Ministry of Agriculture of the Republic of Azerbaijan, Pirshaghy
+      Settlement, Sovkhoz No 2, Baku AZ 1098, Azerbaijan; E-mail: tamraz.tamrazov@mail.ru'
+    url: ''
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7081192
+  dataseturi: https://doi.org/10.5281/zenodo.7081192
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: MICROBIAL REMEDIATION OF HEAVY METALS CONTAMINATION IN SOIL
+  abstract: Abstract Heavy metals are metals with density above 5g/cm3 which occur<br>
+    naturally in the environment. However, the indiscriminate discharge arising from<br>
+    geochemical and anthropogenic activities have remained a galloping source of contamination<br>
+    in the ecosystem. They can be mitigated through the use of microorganisms such
+    as<br> Pseudomonas, Bacillus and Aspergillus species. The mechanisms utilized
+    by microbes in<br> heavy metals remediation include change in biochemical pathways
+    that obstruct metal uptake,<br> enzymatic transformation of metals to harmless
+    forms and the use of exact effluent system for<br> reducing intracellular concentration
+    of metals. Factors such as physicochemical and<br> biological are known to influence
+    heavy metal remediation in contaminated sites. Prolonged<br> exposure of such
+    heavy metals could have deleterious health effects on human life including<br>
+    inhibition of libido in male reproductive systems and obstruction of ovulation
+    in females as<br> well as in other terrestrial and aquatic biota. The use of microorganisms
+    in cleaning up heavy<br> metals contaminated sites is a viable and sustainable
+    one as it overcomes the drawbacks<br> encountered in other methods of heavy metal
+    treatments. This leads to a healthy environment<br> and guarantees public health
+    of it teeming citizens.
+  keywords:
+    default:
+      keywords:
+        subject: MICROBIAL REMEDIATION, HEAVY METALS, SOIL and MICROORGANISMS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-09-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7081192
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7081191
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Emmanuel-Adebayo:
+    individualname: Emmanuel Adebayo
+    role: creator
+  Rebeca-Bello:
+    individualname: Rebeca Bello
+    role: creator
+  Adebayo-Emmanuel:
+    individualname: Adebayo, Emmanuel
+    role: Researcher
+    organization: Kano University of Science and Technology, Wudil
+    url: https://orcid.org/0000-0003-1303-2733
+  Bello-Rebeca:
+    individualname: Bello, Rebeca
+    role: ''
+    organization: Glorious Vision University
+    url: ''
+  -Rebeca:
+    individualname: ', Rebeca'
+    role: ResearchGroup
+    organization: Bello
+    url: ''
+content_info: {}

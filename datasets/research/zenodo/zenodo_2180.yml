@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jauregi_2023
+  dataseturi: https://doi.org/10.1038/s41598-023-27840-9
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Organic amendment treatments for antimicrobial resistance and mobile element
+    genes risk reduction in soil-crop systems
+  abstract:
+  - '&lt;p&gt;Agricultural fertilization with organic amendments of animal origin
+    often leads to antibiotic resistance dissemination. In this study, we evaluated
+    the effect of different treatments (anaerobic digestion, biochar application,
+    ozonation, zerovalent iron nanoparticle application, and spent mushroom substrate
+    addition) on the resistome in dairy cow manure-derived amendments (slurry, manure,
+    and compost). Anaerobic digestion and biochar application resulted in the highest
+    reduction in antibiotic resistance gene (ARG) and mobile genetic element (MGE)
+    gene abundance. These two treatments were applied to cow manure compost, which
+    was then used to fertilize the soil for lettuce growth. After crop harvest, ARG
+    and MGE gene absolute and relative abundances in the soil and lettuce samples
+    were determined by droplet digital PCR and high-throughput qPCR, respectively.
+    Prokaryotic diversity in cow manure-amended soils was determined using 16S rRNA
+    metabarcoding. Compared to untreated compost, anaerobic digestion led to a 38%
+    and 83% reduction in sul2 and intl1 absolute abundances in the soil, respectively,
+    while biochar led to a 60% reduction in intl1 absolute abundance. No differences
+    in lettuce gene abundances were observed among treatments. We conclude that amendment
+    treatments can minimize the risk of antibiotic resistance in agroecosystems. &copy;
+    2023, The Author(s).&lt;/p&gt;'
+  - 'This work was financially supported by the Basque Government (projects: URAGAN
+    18-00044 and KONTRAEElkartek-KK-2020-00007) and the grant PRADA PID2019-110055RB-C21
+    funded by MCIN/AEI/https:// doi.org/ 10. 13039/ 50110 00110 33. LJ was the recipient
+    of a predoctoral fellowship from the Department of Economic Development and  Infrastructure
+    of the Basque Government.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Organic amendment treatments for antimicrobial resistance and mobile element
+      genes risk reduction in soil-crop systems
+    url: http://dx.doi.org/10.1038/s41598-023-27840-9
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jauregi-Leire:
+    individualname: Jauregi, Leire
+    role: creator
+  Gonzalez-Aitor:
+    individualname: "Gonz\xE1lez, Aitor"
+    role: creator
+  Garbisu-Crespo-Carlos:
+    individualname: Garbisu Crespo, Carlos
+    role: creator
+  Epelde-Lur:
+    individualname: Epelde, Lur
+    role: creator
+  Gonzdeglez-Aitor:
+    individualname: "Gonz\u221A\xB0lez, Aitor"
+    role: creator
+  Garbisu-Carlos:
+    individualname: Garbisu, Carlos
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

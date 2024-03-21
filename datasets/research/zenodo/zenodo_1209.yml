@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4297924
+  dataseturi: https://doi.org/10.5281/zenodo.4297924
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metal Contamination in Soil of Industrial Area, Dewas, Madhya Pradesh,
+    India
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> A study has been conducted\
+    \ to assess the heavy metal contamination in soil of Dewas industrial area of\
+    \ Madhya Pradesh, India. Total eight locations and one control location were selected\
+    \ in Dewas industrial area for soil quality monitoring w.r.t. heavy metals. The\
+    \ nine soil samples were monitored for heavy metals such as Chromium (Cr), Manganese(Mn),\
+    \ Nickel (Ni), Copper (Cu), Zinc (Zn), Iron (Fe), Cadmium (Cd), Lead (Pb) and\
+    \ Cobalt (Co) analysis during different four quarters from April 2019 to March\
+    \ 2020. The heavy metal contamination with w.r.t. Contamination Index (CI), Pollution\
+    \ Load Index (PLI) study in selected locations in Dewas industrial area has been\
+    \ done. Over all Pollution Load Index of soil was found greater than 1 which shows\
+    \ polluted soil w.r.t. heavy metals at all selected monitoring locations in Dewas\
+    \ industrial area of Madhya Pradesh, India during this study."
+  keywords:
+    default:
+      keywords:
+        subject: Pollution Load Index (PLI)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4297924
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4297923
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reeta-Kori:
+    individualname: Reeta Kori
+    role: creator
+  Alok-Saxena:
+    individualname: Alok Saxena
+    role: creator
+  Harish-Wankhade:
+    individualname: Harish Wankhade
+    role: creator
+  Asad-Baig:
+    individualname: Asad Baig
+    role: creator
+  Ankita-Kulshreshtha:
+    individualname: Ankita Kulshreshtha
+    role: creator
+    organization: ''
+    url: ''
+  Saket-Mishra:
+    individualname: Saket Mishra
+    role: creator
+    organization: ''
+    url: ''
+  Smriti-Sen:
+    individualname: Smriti Sen
+    role: creator
+  Kori-Reeta:
+    individualname: Kori, Reeta
+    role: ''
+    organization: ''
+    url: ''
+  Saxena-Alok:
+    individualname: Saxena, Alok
+    role: ''
+    organization: ''
+    url: ''
+  Wankhade-Harish:
+    individualname: Wankhade, Harish
+    role: ''
+    organization: ''
+    url: ''
+  Baig-Asad:
+    individualname: Baig, Asad
+    role: ''
+    organization: ''
+    url: ''
+  Sen-Smriti:
+    individualname: Sen, Smriti
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

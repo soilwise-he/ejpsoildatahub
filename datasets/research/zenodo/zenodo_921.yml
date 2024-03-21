@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Delgado_Baquerizo_2018
+  dataseturi: https://doi.org/10.1126/science.aap9516
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A global atlas of the dominant bacteria found in soil
+  abstract: '&lt;p&gt;A global atlas of the dominant bacteria found in soil. Published
+    in Science.&nbsp;http://science.sciencemag.org/content/359/6373/320&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - A global atlas of the dominant bacteria found in soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A global atlas of the dominant bacteria found in soil
+    url: http://dx.doi.org/10.1126/science.aap9516
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Delgado-Baquerizo-Manuel:
+    individualname: Delgado-Baquerizo, Manuel
+    role: creator
+  Oliverio-Angela-M.:
+    individualname: Oliverio, Angela M.
+    role: creator
+  Brewer-Tess-E.:
+    individualname: Brewer, Tess E.
+    role: creator
+  Benavent-Gonzalez-Alberto:
+    individualname: "Benavent-Gonz\xE1lez, Alberto"
+    role: creator
+  Eldridge-David-J.:
+    individualname: Eldridge, David J.
+    role: creator
+  Bardgett-Richard-D.:
+    individualname: Bardgett, Richard D.
+    role: creator
+  Maestre-Fernando-T.:
+    individualname: Maestre, Fernando T.
+    role: creator
+  Singh-Brajesh-K.:
+    individualname: Singh, Brajesh K.
+    role: creator
+  Fierer-Noah:
+    individualname: Fierer, Noah
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Fondjo__2020
+  dataseturi: https://doi.org/10.35940/ijitee.L7958.1091220
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A ssessment of Various Methods to Measure the Soil Suction
+  abstract: '&lt;p&gt;The foundation of the lightweight structures is commonly in
+    unsaturated state conditions because located above the ground-water table. The
+    matric suction governs the hydro-mechanical behaviour of unsaturated soils. Soil
+    suction estimation is challenging both in the field and lab. The indirect and
+    direct techniques are utilized to measure the soil suction. Several types of equipment
+    utilized to measure the soil suction have been developed with innovative technology.
+    However, there are constraints on reliability, suction range estimation, application,
+    etc. The primary objective of this study is to review, describe the working principle,
+    report limits, and benefits of various techniques utilized to measure the soil
+    suction and select the cost-effective. A comparative study on direct and indirect
+    technique of soil suction estimation is conducted base on recent literature, with
+    a focus on suction range, procedure, type of suction, processing time, and application
+    (lab/field). The apparatus utilized to measure directly or indirectly the matric
+    suction found in the literature displays the highest range in the order of 1500
+    kPa except for the filter paper. The thermocouple psychrometer and the transistor
+    psychrometer can measure a maximal total suction of 8000 kPa. The chilled-mirror
+    hygrometer can measure a maximal total suction of 30000 kPa in the laboratory.
+    The filter paper technique and the chilled-mirror hygrometer are cost-effective
+    techniques. However, the filter paper technique is likely the easiest and low-cost
+    technique to measure the matric suction and total suction for the full range with
+    extreme care in the test procedure both in the field and lab.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Chilled-mirror hygrometer
+      - Filter paper
+      - Matric suction
+      - Osmotic suction
+      - Suction range
+      - Total suction.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A ssessment of Various Methods to Measure the Soil Suction
+    url: http://dx.doi.org/10.35940/ijitee.L7958.1091220
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Armand-Augustin-Fondjo:
+    individualname: Armand Augustin Fondjo
+    role: creator
+  Elizabeth-Theron:
+    individualname: Elizabeth Theron
+    role: creator
+  Richard-P.-Ray:
+    individualname: Richard P. Ray
+    role: creator
+  Fondjo*-Armand-Augustin:
+    individualname: Fondjo*, Armand Augustin
+    role: creator
+  Theron-Prof.-Elizabeth:
+    individualname: Theron, Prof. Elizabeth
+    role: creator
+  Ray-Prof.-Richard-P.:
+    individualname: Ray, Prof. Richard P.
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

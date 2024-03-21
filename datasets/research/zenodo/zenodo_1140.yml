@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8434725
+  dataseturi: https://doi.org/10.5281/zenodo.8434725
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Bioremediation of a crude oil contaminated soil using water hyacinth (Eichhornia
+    crassipes)
+  abstract: "Crude oil contamination is a growing environmental concern in most oil\
+    \ processing regions of the world. This study assessed the efficacy of powdered\
+    \ <em>Eichhornia crassipes</em> (water hyacinth) as potential bio stimulant in\
+    \ the remediation of crude oil contaminated soil using three test treatments (20ml,\
+    \ 60ml and 100ml) and a control. The remediation process was monitored by assaying\
+    \ the total hydrocarbon content (THC) and soil pH of the soil on 16 cells for\
+    \ 90 days. However, there was a significant reduction (p &lt; 0.05) in soil pH\
+    \ and THC with the introduction of powdered <em>E. crassipes</em> at different\
+    \ concentrations. Contaminated soil amended with 40g of <em>Eichhornia crassipes</em>\
+    \ had the highest THC loss of (41%), following this was contaminated soil amended\
+    \ with 60g of <em>Eichhornia crassipes</em> (31%) on the final day of remediation.\
+    \ The total culturable hydrocarbon utilizing bacteria in <em>Eichhornia crassipes\
+    \ </em>treated polluted soil increased from 1.4\xD710<sup>6</sup> Cfu/g to 8.2\xD7\
+    10<sup>5</sup> Cfu/g while the total culturable hydrocarbon utilizing fungal counts\
+    \ in the <em>Eichhornia crassipes </em>treatment increased from 1.2 \xD710<sup>4\
+    \ </sup>to 4.5 \xD710<sup>4 </sup>Cfu/g from the zero hour to the 90th day of\
+    \ the study. The time effect of the remediation process had P-value less than\
+    \ 0.05 for 20, 60 and 100ml crude oil contamination signifying that the time factor\
+    \ played important role in the remediation process. The use of organic nutrient\
+    \ sources such as <em>Eichhornia crassipes </em>nutrient powder is of good use\
+    \ as source of limiting nutrient needed for bioremediation of crude oil impacted\
+    \ medium."
+  keywords:
+    default:
+      keywords:
+        subject: Bioremediation; Crude oil; Hydrocarbon utilizing bacteria; Eichhornia
+          crassipes; Hydrocarbon utilizing fungi; Total hydrocarbon content.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8434725
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8434724
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gold-Ezinne-Agu:
+    individualname: Gold Ezinne Agu
+    role: creator
+    organization: Department of Animal and Environmental Biology, Faculty of Science,
+      University of Port Harcourt, East-West Road, P.M.B. 5323, Port Harcourt, Rivers
+      State, Nigeria.
+    url: ''
+content_info: {}

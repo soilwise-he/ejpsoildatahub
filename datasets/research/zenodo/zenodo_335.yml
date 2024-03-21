@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Crowther_1922
+  dataseturi: https://doi.org/10.1039/tf9221700317
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil acidity in its physico-chemical aspects
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil acidity in its physico-chemical aspects
+    url: http://dx.doi.org/10.1039/tf9221700317
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Crowther-E.-M.:
+    individualname: Crowther, E. M.
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

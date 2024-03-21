@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3595289
+  dataseturi: https://doi.org/10.5281/zenodo.3595289
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: CRITICAL SOIL OPTIMIZATION STRATEGY THROUGH THE UTILIZATION OF AGRICULTURAL
+    WASTE, LIVESTOCK, AND FISHERIES
+  abstract: 'Critical land area in Indonesia was recorded 23.25 million ha in 2000,
+    and increased to 77.8 million ha in 2007, efforts are needed to optimize it. However,
+    the existence of agricultural waste, livestock waste and sewage abundant fishery
+    potential to increase soil fertility has not been utilized to the maximum. This
+    study aimed to determine the macro nutrient content available in waste after the
+    fermentation process. This research is an experimental research conducted in a
+    laboratory to find out the content of: N, P, K, C / N ratio. The method for making
+    liquid organic fertilizer is fermentation for one month using EM4 effective microorganisms,
+    then analyzed using Spectrometry and Titrimetry Kjeldahl. The results showed that
+    the highest N content was in bio urine fermentation (0.126%), fish waste (0.035%)
+    and mixed waste (0.028%); The highest P was found in cattle rumen (7.239 mg /
+    L), bio urine (5.234 mg / L), and seaweed (4.689 mg / L), and highest K was found
+    in fruit waste (7, 801 mg / L). The highest C / N ratio was found in seaweed (55,643%)
+    and fruit waste (27,857%). The conclusion is that agricultural waste, livestock
+    waste, and fisheries waste after 1 month of fermentation contain adequate nutrients
+    for optimizing critical land.'
+  keywords:
+    default:
+      keywords:
+        subject: Liquid Organic Fertilizer; Crop Waste; Livestock Waste; Fish Waste.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-12-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3595289
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3595288
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I-Ketut-Widnyana:
+    individualname: I Ketut Widnyana
+    role: creator
+    organization: Faculty of Agriculture, Mahasaraswati University, Denpasar
+    url: ''
+  IGN-Alit-Wiswasta:
+    individualname: IGN Alit Wiswasta
+    role: creator
+    organization: Faculty of Agriculture, Mahasaraswati University, Denpasar
+    url: ''
+  Putu-Eka-Pasmidi-Ariati:
+    individualname: Putu Eka Pasmidi Ariati
+    role: creator
+    organization: Faculty of Agriculture, Mahasaraswati University, Denpasar
+    url: ''
+content_info: {}

@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7466803
+  dataseturi: https://doi.org/10.5281/zenodo.7466803
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Volcanic soil gas 4He/CO2 ratio: a useful geochemical tool for real-time
+    eruption forecasting'
+  abstract: Temporal evolution of soil He and CO<sub>2</sub> emissions in the period
+    15 July 2011 - 15 April 2012 on El Hierro, Canary Islands.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7466803
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7466802
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nemesio-M.-Perez:
+    individualname: "Nemesio M. P\xE9rez"
+    role: creator
+  Perez-Nemesio-M.:
+    individualname: "P\xE9rez, Nemesio M."
+    role: ''
+    organization: "Instituto Volcanol\xF3gico de Canarias"
+    url: ''
+content_info: {}

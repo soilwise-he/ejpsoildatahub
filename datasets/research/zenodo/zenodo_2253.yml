@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8004140
+  dataseturi: https://doi.org/10.5281/zenodo.8004140
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: APPLICATION OF MODERN PEDAGOGICAL TECHNOLOGIES IN THE TEACHING OF SOIL SCIENCE
+    IN THE HIGHER EDUCATION SYSTEM
+  abstract: <em>This article discusses the use of modern pedagogical technologies
+    in the teaching of soil science in the higher education system</em>
+  keywords:
+    default:
+      keywords:
+        subject: higher education system, soil science, pedagogical technology, interactive
+          method.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-05'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8004140
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8004139
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nafetdinov-Sh.Sh.--Ochilova-M.A.--Kambarova-F.S.:
+    individualname: Nafetdinov Sh.Sh.,  Ochilova M.A.,  Kambarova F.S.
+    role: creator
+  Nafetdinov-Sh.Sh.-Ochilova-M.A.:
+    individualname: Nafetdinov Sh.Sh., Ochilova M.A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kulm_ny_2022
+  dataseturi: https://doi.org/10.19040/ecocycles.v8i1.216
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Impact of environmental and soil factors in the prediction of soil carbon
+    dioxide emissions under different tillage systems
+  abstract: '&lt;p&gt;Understanding the roles of natural drivers in greenhouse gas
+    (GHG) emissions of arable fields is crucial for adequate agricultural management.
+    This study investigated the combined effect of two tillage treatments (NT - no-tillage;
+    CT - tillage with mouldboard ploughing) and environmental (air pressure, air temperature)
+    and soil factors (total organic carbon, gravimetric water content and soil penetration
+    resistance) on soil carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) emissions in maize
+    in 2020 and 2021. The soil tubes required for the laboratory measurement were
+    derived from three different altitudes of the two differently cultivated fields
+    from Fej&eacute;r county, Hungary. The typical soil type was Chernozem in both
+    fields. At the time of soil sampling, soil penetration resistance was measured
+    with a 06.15SA Penetrologger in 10 repetitions. To preserve the moisture content
+    of the soil columns during the investigation, moisture replenishment was performed
+    equal to the degree of weekly theoretical evapotranspiration. Emissions measurements
+    of soil columns were performed by close chamber technique for five weeks from
+    sampling, 15 times, in 3 repetitions in laboratory conditions. The data were evaluated
+    by two-way ANOVA, followed by the Tukey HSD multiple comparison test and two-tailed
+    Student&rsquo;s T-test at a significance level of p&lt;0.05. The combined effect
+    of environmental factors on soil carbon dioxide emissions was investigated using
+    stepwise multiple linear regression. It has been proved that the observed difference
+    between soil penetration resistance and soil carbon dioxide emissions was significant
+    between CT and NT cultivation at different stages of the growing season. The analysis
+    of the interaction of the experimental factors revealed that the combined effect
+    of soil penetration resistance, total organic carbon and moisture content in tillage
+    system (adjusted R&lt;sup&gt;2&lt;/sup&gt;=0.92 at a significance level of p=0.05)
+    in 2020, while the combined effect of moisture content and air temperature in
+    the no-tillage system (adjusted R&lt;sup&gt;2&lt;/sup&gt;=0.79 at a significance
+    level of p=0.085) has the most significant effect on soil CO&lt;sub&gt;2&lt;/sub&gt;
+    emissions in 2020. In 2021, the air temperature for the tillage system (adjusted
+    R&lt;sup&gt;2&lt;/sup&gt;=0.74 at a significance level of p=0.05) and the combined
+    effect of air temperature and pressure for no-tillage systems (adjusted R&lt;sup&gt;2&lt;/sup&gt;=0.69
+    at a significance level of p=0.1) played an important role in soil CO&lt;sub&gt;2&lt;/sub&gt;
+    emissions. These observations highlight that different soil and environmental
+    factors of different tillage significantly impact the soil carbon dioxide emissions
+    in different years.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil CO2 emission
+      - TOC
+      - soil penetration resistance
+      - soil water content
+      - air temperature
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Impact of environmental and soil factors in the prediction of soil carbon
+      dioxide emissions under different tillage systems
+    url: http://dx.doi.org/10.19040/ecocycles.v8i1.216
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kulmany-Istvan:
+    individualname: Kulmany, Istvan
+    role: creator
+  Kulmany-Istvan-Mihaly:
+    individualname: "Kulm\xE1ny, Istv\xE1n Mih\xE1ly"
+    role: creator
+  Giczi-Zsolt:
+    individualname: Giczi, Zsolt
+    role: creator
+  Beslin-Ana:
+    individualname: Beslin, Ana
+    role: creator
+  Bede-Laszlo:
+    individualname: "Bede, L\xE1szl\xF3"
+    role: creator
+  Kalocsai-Renato:
+    individualname: "Kalocsai, Ren\xE1t\xF3"
+    role: creator
+  Vona-Viktoria:
+    individualname: "Vona, Vikt\xF3ria"
+    role: creator
+  Ecocycles:
+    individualname: Ecocycles
+    role: creator
+content_info: {}

@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Baneschi_2023
+  dataseturi: https://doi.org/10.3389/fenvs.2022.1048948
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Non-steady-state closed dynamic chamber to measure soil CO2 respiration:
+    A protocol to reduce uncertainty'
+  abstract: '&lt;p&gt;Non-steady-state closed dynamic accumulation chambers are widely
+    used to measure the respiration of terrestrial ecosystems, thanks to their low
+    cost, low energy consumption and simple transportability, that allow measurements
+    even in hostile and remote environments. However, the assessment of the accuracy
+    and precision associated with the measurement system (independently of possible
+    disturbances due to chamber-soil interactions) is rarely reported. This information
+    is instead necessary for basic quality control, to compare data obtained by different
+    devices and regression models and to provide Confidence Intervals (CIs) on the
+    carbon flux values. This study quantifies the uncertainty associated with emission
+    flux measurements, with a focus on very low fluxes. Calibration tests using different
+    accumulation chambers and CO&lt;sub&gt;2&lt;/sub&gt;&nbsp;sensors were performed,
+    and fluxes were calculated by means of different models (parametric, non-parametric
+    and flux models). The results of this work show that the linear regression model
+    has the best reproducibility when compared to the other tested models, regardless
+    of the sensor used and the chamber volumes, while the second order polynomial
+    regression has the best accuracy. We remark the importance of building a calibration
+    curve in the range of the expected flux values, with an interval between the lowest
+    and highest imposed flux that should not exceed two orders of magnitude. To evaluate
+    the reproducibility of the measurement, performing replicates for each imposed
+    flux value is essential. We also show that it is necessary to carefully identify
+    the best time interval for interpolating the CO&lt;sub&gt;2&lt;/sub&gt;&nbsp;concentration
+    curve in order to guarantee reproducibility and accuracy in flux estimates.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - CO2 flux
+      - measurement protocol
+      - soil gas emissions
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Non-steady-state closed dynamic chamber to measure soil CO2 respiration:
+      A protocol to reduce uncertainty'
+    url: http://dx.doi.org/10.3389/fenvs.2022.1048948
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Baneschi-Ilaria:
+    individualname: Baneschi, Ilaria
+    role: creator
+  Brunella-Raco:
+    individualname: Brunella, Raco
+    role: creator
+  Magnani-Marta:
+    individualname: Magnani, Marta
+    role: creator
+  Giamberini-Mariasilvia:
+    individualname: Giamberini, Mariasilvia
+    role: creator
+  Lelli-Matteo:
+    individualname: Lelli, Matteo
+    role: creator
+  Mosca-Pietro:
+    individualname: Mosca, Pietro
+    role: creator
+  Provenzale-Antonello:
+    individualname: Provenzale, Antonello
+    role: creator
+  Coppo-Leonardo:
+    individualname: Coppo, Leonardo
+    role: creator
+  Guidi-Massimo:
+    individualname: Guidi, Massimo
+    role: creator
+  Raco-Brunella:
+    individualname: Raco, Brunella
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

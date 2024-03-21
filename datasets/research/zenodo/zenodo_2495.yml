@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10060662
+  dataseturi: https://doi.org/10.5281/zenodo.10060662
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Subarctic winter warming promotes soil microbial resilience to freeze\u2013\
+    thaw cycles and enhances the microbial carbon use efficiency"
+  abstract: "Original data for the study:\_\nJin-Tao L\xED, Lettice C. Hicks, Albert\
+    \ C. Brangar\xED, D\xE1niel T\xE1jmel, Carla Cruz-Paredes, Johannes Rousk. (2023).\
+    \ Subarctic winter warming promotes soil microbial resilience to freeze\u2013\
+    thaw cycles and enhances the microbial carbon use efficiency. Global Change Biology,\
+    \ 30, e17040. https://doi.org/10.1111/gcb.17040.\n\_\nThis dataset mainly contains\
+    \ the data showing the legacy effect of field winter warming on the dynamic\_\
+    response of soil microbial growth, respiration, and C-use efficiency\_during an\
+    \ imposed\_freezing-thawing perturbation. Six sheets are included in an Excel\
+    \ file named \"Open data for WinterWarmingFTW.xlsx\"\_as follows:\n\nFigure1.\
+    \ Field temp & moist\nTable1. Soil variables & PLFAs\nFigure2. PCA of PLFAs\n\
+    Figure3. Bac & Fung grwoth\nFigure4. Resp\nFigure5. FB & CUE"
+  keywords:
+    default:
+      keywords:
+        subject: Arctic
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-27'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10060662
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8219815
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jin-Tao-Li:
+    individualname: "Jin-Tao L\xED"
+    role: creator
+    organization: Fudan University
+    url: 0000-0002-7175-741X
+  Lettice-C.-Hicks:
+    individualname: Lettice C. Hicks
+    role: creator
+    organization: Lund University
+    url: 0000-0002-0265-3887
+  Albert-C.-Brangari:
+    individualname: "Albert C. Brangar\xED"
+    role: creator
+    organization: Lund University
+    url: 0000-0002-1212-8875
+  Daniel-Tajmel:
+    individualname: "D\xE1niel T\xE1jmel"
+    role: creator
+    organization: Lund University
+    url: 0000-0001-8592-8825
+  Carla-Cruz-Paredes:
+    individualname: Carla Cruz-Paredes
+    role: creator
+    organization: Lund University
+    url: 0000-0001-9604-5630
+  Johannes-Rousk:
+    individualname: Johannes Rousk
+    role: creator
+    organization: Lund University
+    url: 0000-0002-4985-7262
+content_info: {}

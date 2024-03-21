@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: D__1908
+  dataseturi: https://doi.org/10.1038/079127a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Soil
+    url: http://dx.doi.org/10.1038/079127a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-M.-J.-R.:
+    individualname: D., M. J. R.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

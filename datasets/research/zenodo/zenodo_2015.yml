@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WALKER_1920
+  dataseturi: https://doi.org/10.1097/00010694-192001000-00006
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF AERATION AND OTHER FACTORS ON THE LIME REQUIREMENT OF A MUCK
+    SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF AERATION AND OTHER FACTORS ON THE LIME REQUIREMENT OF A MUCK
+      SOIL
+    url: http://dx.doi.org/10.1097/00010694-192001000-00006
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Walker-Seth-S.:
+    individualname: Walker, Seth S.
+    role: creator
+  WALKER-SETH-S.:
+    individualname: WALKER, SETH S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

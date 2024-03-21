@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wang_2010
+  dataseturi: https://doi.org/10.1109/icbbe.2010.5517663
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Study on Purifying Capacity of Wetland Soil to Phenol
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Study on Purifying Capacity of Wetland Soil to Phenol
+    url: http://dx.doi.org/10.1109/icbbe.2010.5517663
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wang-Xuedong:
+    individualname: Wang, Xuedong
+    role: creator
+  Hua-Luo:
+    individualname: Hua, Luo
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

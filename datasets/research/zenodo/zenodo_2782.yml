@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5139871
+  dataseturi: https://doi.org/10.5281/zenodo.5139871
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Variation in Soil Temperature Amid COVID-19 Pandemic Lockdown in Mid Hills
+    of Rajouri and Jammu Districts, J&amp;K, India
+  abstract: <strong>Aim:</strong> A preliminary analysis was done to evaluate the
+    impact of lockdown on soil temperature at different depths and comparison with
+    year 2018 and 2019. <strong>Methodology and Results:</strong> In order to describe
+    the basic features of the data in study, descriptive statistics method was opted.
+    The deviation in soil temperature in Rajouri District from mean value at 5 cm
+    depth observed during lockdown was -8.58% and -4.77% compared to year 2018 and
+    2019. However the deviation observed from mean value at 10 cm depth was -10.72%
+    and -9.28%. The deviation from mean value at 20 cm depth observed was -2.34% and
+    -1.98%. The average change in soil temperature in Jammu District in morning at
+    5 cm, 10 cm and 20 cm depth was -3.46%, -3.84% and -7.23% as compared to year
+    2019 (22nd March to 10th June 2019) mean value and the change in soil temperature
+    in evening at same depths was -7.69%, -6.31% and -4.14% from year 2019 (22nd March
+    to 10th June 2019). The much focus is on Rajouri District as compared to Jammu,
+    so tables and figures are representing Rajouri situation. <strong>Conclusion:</strong>
+    The study concluded that due to lockdown, there was significant change in soil
+    temperature values at variable depths compared to year 2018 and 2019 in the study
+    region.
+  keywords:
+    default:
+      keywords:
+        subject: diurnal variations
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-24'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5139871
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5139870
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  Rohit-Sharma:
+    individualname: Rohit Sharma
+    role: creator
+    organization: RARS, Rajouri, SKUAST Jammu, India.
+    url: ''
+  Vishaw-Vikas:
+    individualname: Vishaw Vikas
+    role: creator
+    organization: Agrometeorology Section, SKUAST Jammu, India.
+    url: ''
+  Deepak-Kumar:
+    individualname: Deepak Kumar
+    role: creator
+  Vikas-Sharma:
+    individualname: Vikas Sharma
+    role: creator
+  Sunil-Kumar-Mishra:
+    individualname: Sunil Kumar Mishra
+    role: creator
+  Kumar-Deepak:
+    individualname: Kumar, Deepak
+    role: ''
+    organization: RARS, Rajouri, SKUAST Jammu, India.
+    url: ''
+  Sharma-Vikas:
+    individualname: Sharma, Vikas
+    role: ''
+    organization: RARS, Rajouri, SKUAST Jammu, India.
+    url: ''
+  Mishra-Sunil-Kumar:
+    individualname: Mishra, Sunil Kumar
+    role: ''
+    organization: RARS, Rajouri, SKUAST Jammu, India.
+    url: ''
+content_info: {}

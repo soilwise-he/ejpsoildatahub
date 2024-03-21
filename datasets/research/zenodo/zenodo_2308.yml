@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.895491
+  dataseturi: https://doi.org/10.5281/zenodo.895491
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'The impact of spatial variability in soil nitrogen and the value in its
+    management: A case study'
+  abstract: "Variable rate nitrogen (VRN) management strategies seek to optimise the\
+    \ nitrogen (N) supply to match crop demand, both to maximise farmer profitability\
+    \ and minimise environmental risks. Despite potential benefits, there has been\
+    \ comparatively little work looking at the value proposition underpinning VRN.\
+    \ Gridded soil samples from a cropping paddock in Hawke\u2019s Bay, New Zealand,\
+    \ were characterised for residual mineral N and a bioassay used to quantify N\
+    \ mineralisation potential. These data were used in APSIM, a systems model, to\
+    \ estimate production outcomes under three different N management strategies in\
+    \ an irrigated and non-irrigated maize cropping system. Predictions showed that\
+    \ yield was comparable between management scenarios, while VRN resulted in lower\
+    \ residual soil N at harvest for both irrigated and non-irrigated systems. While\
+    \ these results are for a single paddock, they demonstrate that in this circumstance\
+    \ the implementation of VRN significantly improved environmental outcomes without\
+    \ impacting gross margins."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.895491
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.895490
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sharp-J:
+    individualname: Sharp, J
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+  Johnstone-P:
+    individualname: Johnstone, P
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+  Searle-B:
+    individualname: Searle, B
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+  Hunt-A:
+    individualname: Hunt, A
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+  Qiu-W:
+    individualname: Qiu, W
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+  Wallace-D:
+    individualname: Wallace, D
+    role: creator
+    organization: The New Zealand Institute for Plant & Food Research Ltd
+    url: ''
+content_info: {}

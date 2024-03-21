@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10213187
+  dataseturi: https://doi.org/10.5281/zenodo.10213187
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: National contribution of Slovakia to the global soil organic carbon sequestration
+    potential map
+  abstract: 'Soil organic carbon (SOC) is important component of soil which affects
+    its properties and also is an important part of global carbon cycle. SOC was recognized
+    as indicator of sustainable development in the frame of the UN Agenda 2030. In
+    2020 the first global topsoil SOC sequestration map has been established by the
+    Intergovernmental Technical Panel on Soils (ITPS), the Global Soil Partnership
+    (GSP), and the United Nations'' Food and Agriculture Organization (FAO) from national
+    contributions of its members. Contribution of Slovakia represents the implementation
+    of selected national spatial data in terms of the methodology created by the above-mentioned
+    organizations. National sources of climate, soil (clay content, initial SOC),
+    and partly also land use data were used as inputs for the RothC model to estimate
+    SOC sequestration potential in agricultural soils. According to the obtained results,
+    the topsoil (0,0-0,3 m) annual sequestration potential of SOC in agricultural
+    soils of Slovakia is in range from 0.01 to 0.14 Mt C yr-1, depending on theoretical
+    scenarios of soil carbon inputs. The current version of the SOC sequestration
+    potential map for Slovakia still has got some limitations, mainly coming from
+    the national data used, the methods of their processing, and it needs to be continuously
+    updated. Keywords: Global Soil Partnership, map of soil organic carbon sequestration,
+    agricultural land, soil organic carbon modelling, RothC model, national soil inventory
+    data, Slovakia'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-28'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10213187
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10213186
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Stefan-Koco:
+    individualname: "\u0160tefan, Koco"
+    role: creator
+    organization: "University of Pre\u0161ov"
+    url: ''
+  Skalsky-Rastislav:
+    individualname: Skalsky, Rastislav
+    role: creator
+    organization: International Institute for Applied Systems Analysis
+    url: 0000-0002-0983-6897
+  Gabriela-Barancikova:
+    individualname: "Gabriela, Baran\u010D\xEDkov\xE1"
+    role: creator
+    organization: National Agricultural and Food Centre
+    url: ''
+  Bezak-Pavol:
+    individualname: "Bez\xE1k, Pavol"
+    role: creator
+    organization: National Agricultural and Food Centre
+    url: 0000-0002-0637-2740
+content_info: {}

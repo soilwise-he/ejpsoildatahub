@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4010629
+  dataseturi: https://doi.org/10.5281/zenodo.4010629
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: PREDICTIVE SOIL MAPPING USING MACHINE LEARNING ALGORITHMS
+  abstract: Predictive Soil Mapping (PSM) is based on applying statistical and/or
+    machine learning techniques to fit models for the purpose of producing spatial
+    and/or spatiotemporal predictions of soil variables, i.e. maps of soil properties
+    and classes at different resolutions. It is a multidisciplinary field combining
+    statistics, data science, soil science, physical geography, remote sensing, geoinformation
+    science and a number of other sciences (Scull et al, 2003; McBratney et al, 2003;
+    Henderson et al, 2004; Boettinger et al, 2010; Zhu et al, 2015).
+  keywords:
+    default:
+      keywords:
+        subject: statistics
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-22'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4010629
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4010628
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Garbacea-George:
+    individualname: Garbacea, George
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

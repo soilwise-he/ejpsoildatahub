@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2540503
+  dataseturi: https://doi.org/10.5281/zenodo.2540503
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: Soil and pasture evolution of zinc in a silvopastoral system developed under
+    Quercus rubra L. after fertilization with different doses of sewage sludge
+  abstract: "One option adopted in many countries around the world is the use of sewage\
+    \ sludge as\nfertilizer in agriculture. However, the use of this residue as fertilizer\
+    \ must take into consideration\nits heavy metal concentration (mainly Zn), which\
+    \ is higher than that normally\nfound in soils and may lead to crop toxicity and\
+    \ environmental degradation. The aim of\nthis study was to evaluate the effects\
+    \ of different doses of municipal sewage sludge (100,\n200 and 400 kg total N\
+    \ ha\u20131) on the total and available Zn concentrations in soil and the\nZn\
+    \ levels of pasture compared to control treatment (no fertilization) in a silvopastoral\
+    \ system\nunder Quercus rubra L., and a sown sward with Dactylis glomerata L.,\
+    \ Lolium perenne\nL. and Trifolium repens L. during the four years after the study\
+    \ was established in Galicia\n(Spain). The results showed that fertilization with\
+    \ sewage sludge increased the concentration\nof Zn in the soil and plants, mainly\
+    \ when high doses of sewage sludge were applied\n(400 kg total N ha\u20131), but\
+    \ never exceeded the maximum values set by Spanish regulations\nand did not cause\
+    \ harmful effects on plants and animals."
+  keywords:
+    default:
+      keywords:
+        subject: afforestation
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+    issued: '2012-06-03'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2540503
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2540502
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ferreiro-Dominguez-N.:
+    individualname: "Ferreiro-Dom\xEDnguez, N."
+    role: creator
+    organization: ''
+    url: ''
+  Rigueiro-Rodriguez-A.-and-Mosquera-Losada-M.R.:
+    individualname: "Rigueiro-Rodr\xEDguez A. and Mosquera-Losada M.R."
+    role: creator
+  A.-Rigueiro-Rodriguez:
+    individualname: "A., Rigueiro-Rodr\xEDguez"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

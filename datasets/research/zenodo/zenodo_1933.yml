@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Vanwindekens_2023
+  dataseturi: https://doi.org/10.5194/soil-9-573-2023
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The QuantiSlakeTest, measuring soil  structural stability by dynamic weighing
+    of  undisturbed samples immersed in water
+  abstract: '&lt;p&gt;&lt;strong&gt;Abstract. &lt;/strong&gt;&lt;br&gt;We evaluated
+    the performance of a new, simple test to evaluate soil structural stability. The
+    QuantiS-&lt;br&gt;lakeTest (QST) consists in a quantitative approach of the slake
+    test, a dynamic weighing of a dried structured&lt;br&gt;soil sample once immersed
+    in water. The objective of this work was threefold: we aimed to (i) derive indicators&lt;br&gt;from
+    QST curves to evaluate soil structural stability, (ii) establish the relationship
+    between soil properties and&lt;br&gt;QST indicators, and (iii) assess how QST
+    indicators respond to contrasting soil management practices. To reach&lt;br&gt;these
+    goals, we sampled the soil of 35 plots from three long-term field trials in the
+    silt loam region of Belgium&lt;br&gt;dealing respectively with contrasting organic
+    matter inputs, tillage and P&ndash;K fertilisation. For each plot, indica-&lt;br&gt;tors
+    calculated from QST curves (e.g. total relative mass loss, disaggregation speed
+    and time to meet a threshold&lt;br&gt;values of mass loss) were compared to the
+    results of the three tests of Le Bissonnais (1996), used as a reference&lt;br&gt;method
+    for the measurement of soil aggregate stability.&lt;br&gt;Shortly after immersion
+    in water, soil mass increases due to the rapid replacement of air by water in
+    soil&lt;br&gt;porosity. Then soil mass reaches a maximum before decreasing, once
+    mass loss by disaggregation exceeds mass&lt;br&gt;gain by air loss. Our results
+    confirmed that the early mass loss under water is mainly related to slaking, whereas&lt;br&gt;after
+    a longer time period, clay dispersion and differential swelling become the dominant
+    processes of soil disag-&lt;br&gt;gregation. The overall soil structural stability
+    was positively correlated to the soil organic carbon (SOC) content&lt;br&gt;and
+    negatively correlated to the clay content of soil. Consequently, the SOC : clay
+    ratio was closely related to&lt;br&gt;QST indicators. Nevertheless, for a similar
+    mean annual carbon (C) input, green manure and crop residues were&lt;br&gt;more
+    efficient in decreasing clay dispersivity and differential swelling, whereas farmyard
+    manure promoted SOC&lt;br&gt;storage and was more efficient against slaking. QST
+    curves had a strong discriminating power between reduced&lt;br&gt;tillage and
+    ploughing regardless of the indicator, as reduced tillage increases both total
+    SOC content and root&lt;br&gt;biomass in the topsoil.&lt;br&gt;The QST has several
+    advantages. It (i) is rapid to run, (ii) does not require expensive equipment
+    or consum-&lt;br&gt;ables, and (iii) provides a high density of information on
+    both specific mechanisms of soil disaggregation and&lt;br&gt;the overall soil
+    structural stability. As an open-access programme for QST data management is currently
+    under&lt;br&gt;development, the test has a strong potential for adoption by a
+    widespread community of end users.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The QuantiSlakeTest, measuring soil  structural stability by dynamic weighing
+      of  undisturbed samples immersed in water
+    url: http://dx.doi.org/10.5194/soil-9-573-2023
+    type: www
+contact:
+  Copernicus-Publications-on-behalf-of-the-European-Geosciences-Union:
+    individualname: Copernicus Publications on behalf of the European Geosciences
+      Union
+    role: creator
+  Vanwindekens-Frederic-M.:
+    individualname: "Vanwindekens, Fr\xE9d\xE9ric M."
+    role: creator
+  Hardy-Brieuc-F.:
+    individualname: Hardy, Brieuc F.
+    role: creator
+  Vanwindekens-Frederic-Marie:
+    individualname: "Vanwindekens, Fr\xE9d\xE9ric Marie"
+    role: creator
+  Hardy-Brieuc-Francois:
+    individualname: "Hardy, Brieuc Fran\xE7ois"
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

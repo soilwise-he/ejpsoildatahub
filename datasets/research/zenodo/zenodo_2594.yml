@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6823653
+  dataseturi: https://doi.org/10.5281/zenodo.6823653
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Response of rice and wheat to organic and inorganic fertilizers and soil
+    amendment under sodic water-irrigated conditions
+  abstract: This article 'Response of rice and wheat to organic and inorganic fertilizers
+    and soil amendment under sodic water-irrigated conditions' appeared in the International
+    Rice Research Notes series, created by the International Rice Research Institute
+    (IRRI) to expedite communication among scientists concerned with the development
+    of improved technology for rice and rice-based systems. The series is a mechanism
+    to help scientists keep each other informed of current rice research findings.
+    The concise scientific notes are meant to encourage rice scientists to communicate
+    with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Sodic water
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2004-06-01'
+    publication: '2004'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6823653
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6823652
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Swarup-A.:
+    individualname: Swarup, A.
+    role: creator
+    organization: ''
+    url: ''
+  Yaduvanshi-N.-P.:
+    individualname: Yaduvanshi, N. P.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

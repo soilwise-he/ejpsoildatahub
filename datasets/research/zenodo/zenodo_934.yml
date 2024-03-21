@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7274983
+  dataseturi: https://doi.org/10.5281/zenodo.7274983
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE HISTORY OF THE DEVELOPMENT OF SOIL SCIENCE IN UZBEKISTAN
+  abstract: <em>The article highlights the research, conceptions of our great scientists
+    and scholars on the study of soil properties, especially on the development of
+    agriculture in ancient Khorezm. At the same time, brief reflections on the research
+    conducted by foreign scientists are stated.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Avesta, ecology, soil, scientist, ancient , water, life, earth, plant,
+          mountaineer, land, stu, scientist, water, agriculture.
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-11-02'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7274983
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7274982
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sh.Isxakova-N.Atabayeva:
+    individualname: Sh.Isxakova N.Atabayeva
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

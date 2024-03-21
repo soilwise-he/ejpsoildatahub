@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kosti__2021
+  dataseturi: https://doi.org/10.3390/agronomy11071413
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of N Fertilizer Application Timing on Wheat Yield on Chernozem
+    Soil
+  abstract:
+  - '&lt;p&gt;The challenges of the global food supply and environment conservation
+    require ongoing scientific observations of soil-to-plant and plant-to-environment
+    interactions with the aim of improving agriculture resource management. This study
+    included observations of winter wheat yield and biomass of four varieties over
+    three consecutive growing seasons and four site-year cases to assess the effects
+    of nitrogen (N) fertilization rate and time of application on grain yield and
+    biomass. For different wheat varieties, the full factorial design was performed,
+    where factorial combinations of year, location, fall and spring N applications
+    were laid out in a randomized complete block design. The N rate significantly
+    influenced grain yield and biomass production efficiency. The time of N application
+    had a highly significant effect on grain yield, biomass and NUE traits. The N
+    rate of 120 kg ha&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;was recognized as a breakpoint
+    over which the grain yield and biomass showed a downtrend. N application in the
+    fall had a significantly higher impact on grain yield and biomass compared to
+    spring N application. The major contribution of wheat variability production belongs
+    to seasonal climate circumstances (&lt;85%) and consequential intrinsic soil properties.
+    The average difference of grain yield between varieties was 15.75%, and 12% of
+    biomass, respectively.&lt;/p&gt;'
+  - 'This research has received funding from the European Union''s Horizon 2020 research
+    and innovation programmes under grant agreements No. 739570 (ANTARES) through
+    which the general research topic was identified as part of the ANTARES Joint Strategic
+    Research Agenda and No. 810775 (DRAGON) through which the specific theme was further
+    conceptualized and investigated through the field work. The financial support
+    of the Ministry of Education, Science and Technological Development of the Republic
+    of Serbia is acknowledged: Grant No. 451-03-68/2020-14/ 200358 for authors N.L.,
+    D.B., M.R., B.I. and /200125 for authors M.M.K. and D.R.'
+  keywords:
+    default:
+      keywords:
+      - nitrogen fertilization
+      - yield response
+      - design of experiment (DoE)
+      - NUE
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of N Fertilizer Application Timing on Wheat Yield on Chernozem
+      Soil
+    url: http://dx.doi.org/10.3390/agronomy11071413
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marko-M.-Kostic:
+    individualname: "Marko M. Kosti\u0107"
+    role: creator
+  Aristotelis-C.-Tagarakis:
+    individualname: Aristotelis C. Tagarakis
+    role: creator
+  Natasa-Ljubicic:
+    individualname: "Nata\u0161a Ljubi\u010Di\u0107"
+    role: creator
+  Dragana-Blagojevic:
+    individualname: "Dragana Blagojevi\u0107"
+    role: creator
+  Mirjana-Radulovic:
+    individualname: "Mirjana Radulovi\u0107"
+    role: creator
+  Bojana-Ivosevic:
+    individualname: "Bojana Ivo\u0161evi\u0107"
+    role: creator
+  Dusan-Rakic:
+    individualname: "Du\u0161an Raki\u0107"
+    role: creator
+  Kostic-Marko-M.:
+    individualname: "Kosti\u0107, Marko M."
+    role: creator
+  Tagarakis-Aristotelis-C.:
+    individualname: Tagarakis, Aristotelis C.
+    role: creator
+  Ljubicic-Natasa:
+    individualname: "Ljubi\u010Di\u0107, Nata\u0161a"
+    role: creator
+  Blagojevic-Dragana:
+    individualname: "Blagojevi\u0107, Dragana"
+    role: creator
+  Radulovic-Mirjana:
+    individualname: "Radulovi\u0107, Mirjana"
+    role: creator
+  Ivosevic-Bojana:
+    individualname: "Ivo\u0161evi\u0107, Bojana"
+    role: creator
+  Rakic-Dusan:
+    individualname: "Raki\u0107, Du\u0161an"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

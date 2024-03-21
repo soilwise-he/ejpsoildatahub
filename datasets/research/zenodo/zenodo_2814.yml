@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10049839
+  dataseturi: https://doi.org/10.5281/zenodo.10049839
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Assessment and Characterization of Bacteria for  Biosurfactant-Producing
+    Ability from Lambda- Cyhalothrin-Contaminated Cultivated Soil in Moro,  Kwara
+    State, Nigeria
+  abstract: "Microorganisms produced biosurfactants are promising agents in the bioremediation\
+    \ of pesticide polluted soils as a result of their biodegradability and non-toxic\
+    \ nature. This study was aimed at screening bacteria for biosurfactant production\
+    \ in pesticide contaminated agricultural soil, and identify them using molecular\
+    \ technique. Ten bacteria species with potentials to degrade lambda-cyhalothrin\
+    \ isolated in our previous study were screened for biosurfactant production via\
+    \ the drop collapse, oil spreading, emulsification index, hydrocarbon overlay\
+    \ agar and bacterial adhesion to hydrocarbon tests. The biosurfactant producers\
+    \ were identified using the 16S rRNA. Results from the biosurfactant screening\
+    \ showed that out of the ten bacteria screened only four of the ten bacteria screened\
+    \ which were identified as Bacillus strains were strongly positive for production\
+    \ of biosurfactant. The four \_Biosurfactant-Producing Lambda Cyhalothrin- Degrading\
+    \ Bacteria (LCDB-BP) were identified using 16S \_rRNA as Bacillus tequilensis\
+    \ strain LCDB-BP1, Bacillus subtilis strain LCDB-BP2, Bacillus altitudinis strain\
+    \ LCDB-BP3, and Bacillus subtilis strain LCDB-BP4 with the accession numbers OP703607,\
+    \ OP703608, OP703609 and OP703610 respectively. These organisms can be useful\
+    \ for biosurfactant production and bioremediation of synthetic pyrethroid contaminated\
+    \ soil.\nKeywords:- Biosurfactant, Synthetic Pyrethroids (SP), Lambda-cyhalothrin\
+    \ (LC), Bacillus species, cultivated soil."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-28'
+    accepted: '2023-10-28'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10049839
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10049838
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zainab-Biola-Abdulsalam:
+    individualname: Zainab Biola Abdulsalam
+    role: creator
+    organization: ''
+    url: ''
+  Kehinde-Imisi-Temitope-Eniola:
+    individualname: Kehinde Imisi Temitope Eniola
+    role: creator
+    organization: ''
+    url: ''
+  Sunday-Awe:
+    individualname: Sunday Awe
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

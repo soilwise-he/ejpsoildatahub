@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7792717
+  dataseturi: https://doi.org/10.5281/zenodo.7792717
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ISOLATION, PURIFICATION AND CHARACTERIZATION OF ANTIBACTERIAL PEPTIDE FROM
+    SOIL IN PANVEL REGION
+  abstract: "Microbes contend for the limited space and nutrients present in natural\
+    \ ecological niches, thus they've<br> developed several strategies in order to\
+    \ survive. Production of \u2018antimicrobial peptide\u2019 best known as<br> \u2018\
+    Bacteriocin\u2019 is one of them. Bacteriocins extensively distributed in nature\
+    \ which are synthesized by bacteria.<br> The present study was carried out to\
+    \ estimate naturally synthesized antimicrobial peptides and their<br> capacities\
+    \ to inhibit Gram-positive pathogenic organisms. Ten bacterial spp. were isolated\
+    \ and screened to<br> produce antimicrobial peptide. Antimicrobial peptide produced\
+    \ by two of bacterial strains showed the most<br> significant antimicrobial activity\
+    \ against Staphylococcus aureus. Bacteriocins have shown significant<br> activity\
+    \ at 370 with pH 7 Proteolytic enzymes verified the proteinaceous nature of antimicrobial\
+    \ peptides.<br> These partially purified bacteriocins can be further used as antimicrobial\
+    \ agent or it can be used as food<br> complements to control food borne pathogens."
+  keywords:
+    default:
+      keywords:
+        subject: Antimicrobial peptides, Bacteriocins, S. aureus, food complements
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-28'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7792717
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7792695
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  1Sushilkumar-S.-Ghadage:
+    individualname: 1Sushilkumar S. Ghadage
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

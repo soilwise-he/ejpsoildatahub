@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10423587
+  dataseturi: https://doi.org/10.5281/zenodo.10423587
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INVESTIGATION DYNAMIC PROPERTIES OF SOIL (THE DAMPING RATIO AND SHEAR MODULUS)
+    FOR RESISTANCE DESIGN AT THE LNG BAC LIEU GAS PIPELINE PROJECT BY CYCLIC TRIAXIAL
+    TEST
+  abstract: The LNG Bac Lieu gas pipeline project is part of the 3.200MW LNG power
+    plant complex in Bac Lieu province. The entire pipeline will be designed underground
+    at the sea floor to be directly subjected to dynamic loads (earthquakes, waves
+    ...). Soil response to dynamic loads is measured by the soil's dynamic properties
+    such as dynamic strength, shear modulus and damping ratio. These soil parameters
+    are very significant to study the movement of the ground as well as the local
+    reaction of soil sediments under the effect of loads and cyclic soil structure.
+    Therefore, it is very important to investigate the earth's dynamic properties
+    (dynamic strength, damping ratio and shear modulus) to design seismic resistance
+    for this project. From the relevant literature, it is known that the dynamic properties
+    of the soil are influenced by the soil type and the position of the soil structure.
+    6 soil samples were examined randomly at different depths to determine soil properties.
+    When studying dynamic strength, people often use direct test methods such as torsion
+    cutting, cyclic flat cutting and cyclic triaxial test to determine the dynamic
+    strength (dynamic resistance) of the soil. In which, the cyclic triaxial test
+    method allows the simulation of real-world conditions to be easily simulated.
+    The results of applying this method to soft clay and clay phases show that the
+    damping ratio is 0.117-0.162D, the average is 0.136D, the shear module is 1650-2632kPa,
+    the average is 2141kPa.
+  keywords:
+    default:
+      keywords:
+        subject: resistance design, dynamic strength, damping ratio and shear modulus,
+          cyclic triaxial test
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2023-12-22'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10423587
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10423586
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Engineering:
+    individualname: Engineering
+    role: creator
+  Technology-Journal:
+    individualname: Technology Journal
+    role: creator
+  Ngoc-Thai-Ba:
+    individualname: Ngoc Thai, Ba
+    role: creator
+    organization: Faculty Of Geology And Petroleum Engineering, HoChiMinh City University
+      Of Technology-VNU
+    url: ''
+  Vinh-Bui-Trong:
+    individualname: Vinh Bui, Trong
+    role: creator
+    organization: Faculty Of Geology And Petroleum Engineering, HoChiMinh City University
+      Of Technology-VNU
+    url: ''
+  Phong-Le-Thanh:
+    individualname: Phong Le, Thanh
+    role: creator
+    organization: Faculty Of Geology And Petroleum Engineering, HoChiMinh City University
+      Of Technology-VNU
+    url: ''
+content_info: {}

@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8435633
+  dataseturi: https://doi.org/10.5281/zenodo.8435633
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Soil Microbiology Mini-conference - Book of abstracts
+  abstract: 'Soil Microbiology Mini-conference: Book of Abstracts'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-12'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8435633
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8435632
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Palma-Margarida:
+    individualname: Palma, Margarida
+    role: creator
+    organization: Food4Sustainability
+    url: 0000-0002-1151-9014
+  Costa-Claudia:
+    individualname: "Costa, Cl\xE1udia"
+    role: creator
+    organization: Food4Sustainability
+    url: 0000-0002-7633-7852
+  Chagas-Ricardo:
+    individualname: Chagas, Ricardo
+    role: creator
+    organization: Food4Sustainability
+    url: 0000-0003-4337-5956
+  Reis-Francisca:
+    individualname: Reis, Francisca
+    role: creator
+    organization: Food4Sustainability
+    url: 0000-0002-0873-061X
+  Pereira-Carolina:
+    individualname: Pereira, Carolina
+    role: Other
+    organization: BGI - Building Global Innovators
+    url: ''
+  Monteiro-Eduarda:
+    individualname: Monteiro, Eduarda
+    role: Other
+    organization: BGI - Building Global Innovators
+    url: ''
+  Pereira-Catarina:
+    individualname: Pereira, Catarina
+    role: Other
+    organization: BGI - Building Global Innovators
+    url: ''
+  Haraketi-Sami:
+    individualname: Haraketi, Sami
+    role: Other
+    organization: BGI - Building Global Innovators
+    url: ''
+  Godinho-Claudia:
+    individualname: "Godinho, Cl\xE1udia"
+    role: Other
+    organization: BGI - Building Global Innovators
+    url: ''
+content_info: {}

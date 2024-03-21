@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3919267
+  dataseturi: https://doi.org/10.5281/zenodo.3919267
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination of Some Physicochemical Properties of Soil from Vicinity of
+    Chemistry Department, Bago University
+  abstract: In the research work, some physicochemical properties of soil from vicinity
+    of chemistry department, Bago University have been determined. Some physicochemical
+    parameters (texture, moisture, pH), organic matter, nutrients and relative abundance
+    of elements of soil sample from study area have done by conventional and modern
+    spectroscopic techniques. The texture class is sandy loam. The soil has found
+    to have moisture contents 0.71% and pH 5.77, the contents of nutrients (nitrogen,
+    phosphorus and potassium) were found to be 0.16%, 10.23 ppm and 4.88 mg/100g respectively.
+    Low organic carbon content 1.67% and humus 2.88% were also observed. Relative
+    abundance of elements in soil sample, Si 77.65%, Fe 11.50%, Tl 4.14%, K 3.74%
+    and Ca 1.24% were also observed.
+  keywords:
+    default:
+      keywords:
+        subject: Soil, vicinity of chemistry department, physicochemical properties
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-11-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3919267
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3919266
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Bago-University:
+    individualname: Bago University
+    role: creator
+  San-Nwe-Zin:
+    individualname: San Nwe Zin
+    role: creator
+  Zin-San-Nwe:
+    individualname: Zin, San Nwe
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

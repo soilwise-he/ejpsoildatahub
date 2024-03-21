@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3403891
+  dataseturi: https://doi.org/10.5281/zenodo.3403891
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Obscure soil microbes and where to find them
+  abstract: Many soil bacteria and fungi remain unclassified at the highest taxonomic
+    ranks (e.g. phyla level), which hampers our ability to assess the ecology and
+    functional capabilities of these soil organisms in terrestrial ecosystems globally.
+    The first logical step toward the classification of these unknown soil taxa is
+    to identify potential locations on Earth where these unclassified bacteria and
+    fungi are feasibly most prevalent. To do this, here I used data from a global
+    soil survey across 235 locations, including amplicon sequencing information for
+    fungal and bacterial communities, and generated global atlases highlighting those
+    soils where the percentages of taxa of bacteria and fungi with an unknown phyla
+    are expected to be more prevalent. Results indicate that soil samples with the
+    largest percentage of fungal taxa with an unknown phyla can be found in dry forests
+    and grasslands, while those with the largest percentage of bacterial taxa with
+    an unknown phyla are found in boreal and tropical forests. This information can
+    be used by taxonomists and microbiologists to target these potentially new soil
+    taxa.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-03-29'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3403891
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3403890
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Delgado-Baquerizo-Manuel:
+    individualname: Delgado-Baquerizo, Manuel
+    role: creator
+    organization: URJC
+    url: ''
+content_info: {}

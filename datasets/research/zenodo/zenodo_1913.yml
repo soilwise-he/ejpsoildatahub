@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8260502
+  dataseturi: https://doi.org/10.5281/zenodo.8260502
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of organic fertilizers on changes in soil properties under open
+    and protected cultivation practices
+  abstract: An experiment conducted to evaluate the influence of different organic
+    manure on soil properties under glasshouse and open field condition at Khumaltar,
+    Lalitpur during 2017-2018 showed insignificant results on major soil properties
+    by the application of different organic manure under open and protected environmental
+    condition at varying sampling days. The experiment was laid out in Complete Randomized
+    Design (CRD) with three replications and six treatments viz. Vermicompost (VC)
+    @ 10:1 gkg-1 of soil (T1), FYM @ 10:1 gkg-1 of soil (T2), Poultry Manure (PM)
+    @ 10:1 gkg-1 of soil (T3), Safal Kishan (SK) @ 10:1 gkg-1 of soil (T4), Nepalese
+    Organic Fertilizer (NOF) @ 10:1 gkg-1 of soil (T5) and Control (T6). Application
+    of poultry manure and Safal kisan under glasshouse condition recorded higher organic
+    matter (6.40 %) at 90 days and application of poultry manure under open condition
+    at 30 days recorded higher total Nitrogen Content (0.53%). Application of vermicompost
+    and poultry manure under open condition at 60 days have highest available Phosphorous
+    content (381 kgha-1), whereas application of poultry manure under open condition
+    at 60 days was observed having highest available potassium content (782 kgha-1)
+    in the soil.
+  keywords:
+    default:
+      keywords:
+        subject: Organic Manures, French Bean, Soil Properties, Protected, Open Environment
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-03-24'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8260502
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8260501
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shree-Prasad-Vista:
+    individualname: Shree Prasad Vista
+    role: creator
+    organization: ''
+    url: ''
+  Dipak-Kumar-Jha:
+    individualname: Dipak Kumar Jha
+    role: creator
+  Jha-Dipak-Kumar:
+    individualname: Jha, Dipak Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

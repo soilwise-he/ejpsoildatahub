@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Amendola_2022
+  dataseturi: https://doi.org/10.1007/978-3-031-11898-2_124
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Urban Scale Fragility Assessment of Structures Considering Soil-Structure-Interaction
+  abstract: '&lt;p&gt;Fragility curves for structures are typically calculated considering&lt;br&gt;
+
+    fixed-base structures, i.e., neglecting the interaction between soil, foundation,
+    and&lt;br&gt;
+
+    structure (SFSI). The state-of-the-art literature proves that considering foundation&lt;br&gt;
+
+    flexibility, especially for structures resting on soft soil, may lead to different&lt;br&gt;
+
+    fragility or loss estimates than the fixed-base-on-rock assumption. Including
+    these&lt;br&gt;
+
+    effects on the city-scale vulnerability analysis is considered a challenging task&lt;br&gt;
+
+    due to the high exposure concentration and complexity of all the interacting urban&lt;br&gt;
+
+    systems. For this reason, large-scale analyses are commonly carried out applying&lt;br&gt;
+
+    existing fragility curves which may have been assessed not correctly accounting&lt;br&gt;
+
+    for the variation in frequency and amplitude contents imposed by each site&rsquo;s
+    local&lt;br&gt;
+
+    geotechnical and topographic conditions. To this aim, a new simplified methodology&lt;br&gt;
+
+    is proposed in this study to perform an urban-scale vulnerability assessment&lt;br&gt;
+
+    of structures considering the influence of SFSI and local site-effects. The applicability&lt;br&gt;
+
+    of the proposed approach is based on globally available data regarding&lt;br&gt;
+
+    the soil parameters, the foundation, and the building taxonomy. The main findings&lt;br&gt;
+
+    demonstrate that the conventional way of calculating fragility curves may lead
+    to&lt;br&gt;
+
+    an incorrect evaluation of the seismic risk, especially in soft soil formations.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil-foundation-structure-interaction
+      - Site-effects
+      - Fragility curves
+      - City-scale risk analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Urban Scale Fragility Assessment of Structures Considering Soil-Structure-Interaction
+    url: http://dx.doi.org/10.1007/978-3-031-11898-2_124
+    type: www
+contact:
+  Springer-Cham:
+    individualname: Springer, Cham
+    role: creator
+  Chiara-Amendola:
+    individualname: Chiara Amendola
+    role: creator
+  Dimitris-Pitilakis:
+    individualname: Dimitris Pitilakis
+    role: creator
+  Amendola-C.:
+    individualname: Amendola, C.
+    role: creator
+  Pitilakis-D.:
+    individualname: Pitilakis, D.
+    role: creator
+  Springer-International-Publishing:
+    individualname: Springer International Publishing
+    role: creator
+content_info: {}

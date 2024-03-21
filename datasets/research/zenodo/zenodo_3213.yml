@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7316190
+  dataseturi: https://doi.org/10.5281/zenodo.7316190
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Validation of the temperature of sandy soil in the block of the active layer
+    of the land of the INM RAS-MSU model according to field observations
+  abstract: 'The soil temperature is one of the most important characteristics of
+    climatic, soil-forming, permafrost and engineering-geological conditions. It determines
+    the functioning of terrestrial ecosystems, allowing us to determine the sensitivity
+    of landscapes to anthropogenic impact, changes in the natural environment and
+    climate fluctuations.<br> The study of real natural processes, phenomena and objects
+    using the methods of mathematical modeling is topical. Interest is dictated by
+    the growing attention of the scientific community to the problem of global warming.<br>
+    The reproduction of the temperature regime in the soil is an important problem
+    for further research. Particularly, studying the thermodynamic processes in soils
+    and the assessment of their reproduction in models are important objectives. This
+    work is aimed at comparing the results of modeling the temperature regime of soils
+    with data from field observations. The block of models of the active layer of
+    land is used in the INM RAS-MSU climate model.<br> Computational experiments require
+    information on atmospheric forcing (ERA-5 reanalysis), as well as soil and hydrophysical
+    characteristics, which, to fully support the model, were taken from the Global
+    Soil Dataset for Earth System Models). The temperature data of sandy soil obtained
+    with the help of atmospheric-soil measuring complexes [5] installed by the employees
+    of the V. B. Sochava Institute of Geography of the Siberian Branch of the Russian
+    Academy of Sciences in different landscapes of the Tunkinskaya depression (Republic
+    of Buryatia) were used as reference information. The measurements are carried
+    out from October 13, 2011 to the present with an hourly interval.<br> Checking
+    the adequacy of the constructed model to the initial data, the following statistical
+    characteristics were analyzed: the average error, the average error modulus, the
+    root mean square error, the correlation coefficient, and the Kling-Gupta complex
+    efficiency.<br> The first result of calculations of sandy soil temperature simulations
+    recorded a large difference from field measurements. The error could be associated
+    with an overestimated amount of incoming precipitation in winter. The developers
+    corrected the work of the model, rewrote the code.<br> The results of the second
+    experiment (after correcting the model) on average for the year showed a decrease
+    in the average calculation error (from 2 to 1.4), the error modulus (from 10.1
+    to 4.2), the root mean square error (from 11.1 to 4, 9) and an increase in the
+    correlation coefficient (from 0.3 to 0.7). The KGE coefficient on average for
+    the year changed from -1.4 to -0.2. The most significant improvement in the simulation
+    result is in the winter season at all depths.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2022-11-13'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7316190
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7316189
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shuklina-E.S.:
+    individualname: Shuklina, E.S.
+    role: creator
+    organization: 1 Tomsk State University, Tomsk, Russia 2 Institute of Monitoring
+      of Climatic and Ecological Systems SB RAS, Tomsk, Russia
+    url: ''
+  Voropay-N.N.:
+    individualname: Voropay, N.N.
+    role: creator
+    organization: 2 Institute of Monitoring of Climatic and Ecological Systems SB
+      RAS, Tomsk, Russia 3 V.B. Sochava Institute of Geography SB RAS, Irkutsk, Russia
+    url: ''
+  Dyukarev-E.A.:
+    individualname: Dyukarev, E.A.
+    role: creator
+    organization: 2 Institute of Monitoring of Climatic and Ecological Systems SB
+      RAS, Tomsk, Russia 4 Yugra State University, Khanty-Mansiysk, Russia 5 A.M.Obukhov
+      Institute of Atmospheric Physics, Moscow, Russia
+    url: ''
+  Bogomolov-V.Yu.:
+    individualname: Bogomolov V.Yu.
+    role: creator
+    organization: 2 Institute of Monitoring of Climatic and Ecological Systems SB
+      RAS, Tomsk, Russia 5 A.M.Obukhov Institute of Atmospheric Physics, Moscow, Russia
+      6 Research Computing Center of Lomonosov Moscow State University, Moscow, Russia
+      7 Water Problems Institute RAS, Moscow, Russia
+    url: ''
+content_info: {}

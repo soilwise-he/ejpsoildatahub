@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10466516
+  dataseturi: https://doi.org/10.5281/zenodo.10466516
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'SCIENTIFIC JUSTIFICATION OF SOIL DENSITY AND MOISTURE CAPACITY: AN INTEGRATED
+    APPROACH FOR SUSTAINABLE AGRICULTURE'
+  abstract: This scientific article explores the critical relationship between soil
+    density and moisture capacity, providing a comprehensive analysis of their interconnected
+    roles in sustainable agriculture. The study employs advanced soil science methodologies
+    and data analytics to investigate how variations in soil density impact moisture
+    retention capabilities. Through a series of controlled experiments and field observations,
+    the authors demonstrate the intricate balance required for optimal soil structure,
+    offering valuable insights into improving water management practices in agriculture.
+    The findings contribute to the scientific understanding of soil physics, providing
+    a basis for informed agricultural practices that promote water conservation, nutrient
+    retention, and overall soil health. This research addresses a critical aspect
+    of sustainable agriculture and presents practical implications for farmers and
+    policymakers.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-01-07'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10466516
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10466515
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sadullaev-Azamat-Nafiddinovich:
+    individualname: Sadullaev, Azamat Nafiddinovich
+    role: creator
+    organization: ''
+    url: ''
+  Azimova-Go'zal-Adizovna:
+    individualname: Azimova, Go'zal Adizovna
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

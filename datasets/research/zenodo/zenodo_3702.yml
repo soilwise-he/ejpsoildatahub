@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: O_Osinowo_2019
+  dataseturi: https://doi.org/10.31695/IJASRE.2019.33403
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Development of a Low-Cost Soil Heat Flux and Temperature Profile with Logger
+  abstract: '&lt;p&gt;&lt;em&gt;Variation of soil temperature and soil heat flux measurements
+    from a locally fabricated and calibrated device were analyzed and compared with
+    a standard device. The soil heat flux consists of two-disc aluminum plates, dielectric
+    material and two thermocouples such that each thermocouple was sandwiched between
+    the aluminum plates and one side of the dielectric material. The sizes of the
+    aluminum plates and the dielectric material were 32 mm in diameter and their thickness
+    is 2.5 mm. Differential temperature between two thermocouples attached to two
+    aluminum plates separated by a thermal insulator was used to measure the soil
+    heat flux values. The thermocouples amplifier module AD8495 and then combined
+    with a 16-bit Analog to Digital Converter (ADS1115) for a good measurement resolution
+    was employed for the signal conditioning. A semiconductor sensor DS18B20 was used
+    to measure the soil temperature. The microSD shield was included for storing data
+    and DS3232, a Real Time Clock (RTC) module for timekeeping. Arduino mega 2560
+    microcontroller was used to coordinate the whole active and display the activities
+    on LCD. The soil heat flux sensor was calibrated using the principle of thermal
+    conduction over the surface area by heating with a known heat source. The thermal
+    conductivity of heat flux is given by 3.3407 (WV-1m-1) from the empirical deduction.
+    The temperature sensing unit was checked for accuracy by inserting it inside a
+    calorimeter with the mercury-in-glass thermometer and the correlation obtained
+    was 0.92. The soil heat flux and temperature sensing unit were compared with that
+    of standard Campbell device. The correlation obtained for soil heat flux and temperature
+    were 0.89 and 0.95 respectively. The result obtained when installed at the Redeemer&rsquo;s
+    University, Ede, Nigeria, the variation of soil heat flux and temperature when
+    placed at the same level of 10 cm into the soil gave the same value. The maximum
+    peak of heat flux density usually occurs at about 13:00 pm to 15:00 pm with values
+    around 260 W/m2 at 10 cm. The logging interval can be preset to any rate from
+    30 seconds and above.&lt;/em&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil Heat Flux,
+      - Temperature,
+      - Thermocouple,
+      - Aluminum Plate,
+      - Dielectric Material.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Development of a Low-Cost Soil Heat Flux and Temperature Profile with Logger
+    url: http://dx.doi.org/10.31695/IJASRE.2019.33403
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.O.-Osinowo:
+    individualname: M.O. Osinowo
+    role: creator
+  T.-Ewetumo:
+    individualname: T. Ewetumo
+    role: creator
+  O.-Osinowo-M.:
+    individualname: O. Osinowo, M.
+    role: creator
+  A.-Willoughby-A.:
+    individualname: A. Willoughby, A.
+    role: creator
+  .-Ewetumo-T:
+    individualname: . Ewetumo, T
+    role: creator
+  B.-Kolawole-L.:
+    individualname: B. Kolawole, L.
+    role: creator
+  Sretechjournal-Publication:
+    individualname: Sretechjournal Publication
+    role: creator
+content_info: {}

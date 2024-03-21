@@ -1,0 +1,119 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4477712
+  dataseturi: https://doi.org/10.5281/zenodo.4477712
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil bacterial community responds to land-use change in riparian ecosystems
+  abstract: '<em>Background and Objectives:</em> Riparian forests were frequently
+    cleared and converted to agricultural pastures. In recent times these pastures
+    are often revegetated in an effort to return riparian forest structure and function.
+    We tested if there is a change in the soil bacterial taxonomy and function in
+    areas of riparian forest cleared for agricultural pasture, then revegetated; and
+    if soil bacterial taxonomy and function is related to vegetation and soil physicochemical
+    properties. <em>Materials and Methods:</em> The study was conducted in six study
+    areas in south - eastern Australia, each comprising of three land-use types: remnant
+    riparian forest, cleared forest converted to pasture and revegetated pastures.
+    We surveyed three strata of vegetation and sampled top-soil and sub-soil to characterize
+    physicochemical properties. Taxonomic and functional composition of soil bacterial
+    communities were assessed using 16S rRNA gene sequences and community level physiological
+    profiles respectively. <em>Results:</em> Few soil physiochemical properties differed
+    with land-use despite distinct vegetation in pasture relative to remnant and revegetated
+    areas. Overall bacterial taxonomic and functional composition of remnant forest
+    and revegetated soils were distinct from pasture soil. Land-use differences were
+    not consistent for all bacterial phyla, as Acidobacteria were more abundant in
+    remnant soils, conversely Actinobacteria were more abundant in pasture soils.
+    Overall bacterial metabolic activity, and soil carbon and nitrogen content decreased
+    with soil depth, while bacterial metabolic diversity and evenness increased with
+    soil depth. Soil bacterial taxonomic composition was related to soil texture and
+    soil fertility, while functional composition was only related to soil texture.
+    <em>Conclusions:</em> Our results suggest that the conversion of riparian forests
+    to pasture is associated with significant changes in the soil bacterial community,
+    whereby revegetation contributes to reversing such changes. Nevertheless, the
+    observed changes in bacterial community composition (taxonomic and functional)
+    were not directly related to changes in vegetation, but were more closely related
+    to soil attributes.'
+  keywords:
+    default:
+      keywords:
+        subject: Restoration
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4477712
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4400028
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vicky-Waymouth:
+    individualname: Vicky Waymouth
+    role: creator
+  Rebecca-E-Miller:
+    individualname: Rebecca E Miller
+    role: creator
+  Sabine-Kasel:
+    individualname: Sabine Kasel
+    role: creator
+  Fiona-Ede:
+    individualname: Fiona Ede
+    role: creator
+  Andrew-Bissett:
+    individualname: Andrew Bissett
+    role: creator
+  Cristina-Aponte:
+    individualname: Cristina Aponte
+    role: creator
+  Waymouth-Vicky:
+    individualname: Waymouth, Vicky
+    role: ''
+    organization: The University of Melbourne
+    url: ''
+  Miller-Rebecca-E:
+    individualname: Miller, Rebecca E
+    role: ''
+    organization: The University of Melbourne and Royal Botanic Gardens Victoria
+    url: ''
+  Kasel-Sabine:
+    individualname: Kasel, Sabine
+    role: ''
+    organization: The University of Melbourne
+    url: ''
+  Ede-Fiona:
+    individualname: Ede, Fiona
+    role: ''
+    organization: The University of Melbourne
+    url: ''
+  Bissett-Andrew:
+    individualname: Bissett, Andrew
+    role: ''
+    organization: CSIRO Agriculture Flagship
+    url: ''
+  Aponte-Cristina:
+    individualname: Aponte, Cristina
+    role: ''
+    organization: "The University of Melbourne and Instituto Nacional de Investigaci\xF3\
+      n y Tecnolog\xEDa Agraria y Alimentaria"
+    url: ''
+content_info: {}

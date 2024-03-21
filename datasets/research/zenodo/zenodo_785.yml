@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5790588
+  dataseturi: https://doi.org/10.5281/zenodo.5790588
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Sorptive interactions of Cu on soil, clay and humic acid
+  abstract: Department of Chemistry, Magadh University, Bodh Gaya-824 234, Bihar,
+    India <em>Manuscript received 6 August 2009, accepted 11 November 2009</em> Sorption
+    and desorption of Cu on soils from four different locations of West Bengal have
+    been studied. Sorption on humic acid and clays of the soils has also been measured.
+    Measurements have been made at a pH or 6.0 without any back ground electrolyte.
+    Comparison of sorption behavior of the soils have been made on the basis of the
+    Langmuir parameters. One of the soils is very rich In organic matter and others
+    are progressively poorer in it though richer in clay content. This enables us
+    to make some guess on the role or each of the constituents on overall adsorption.
+    Humic acids and clays Isolated from each soli have also been tested for adsorption
+    efficiency. Adsorption maxima for all these constituents fall far below their
+    individual CEC. Experiments have been done on soil residues after removal of mobile
+    organic matter by alkali extraction. A drop in adsorption maxima has been observed
+    although the decrease will not up to the theoretically calculated amount betraying
+    a more complicated combined existence of humus and clay in native soil. Desorption
+    experiment have been carried out in solutions of NaCl, KCl, MgCl<sub>2</sub> and<strong>
+    </strong>CaCl<sub>2</sub>. The desorbing efficiency of the ions was found to be
+    in the decreasing order of Ca<sup>2+</sup> &gt; Mg<sup>2+</sup> &gt; &gt; K<sup>+</sup>
+    &gt; Na<sup>+</sup>. This result suggests predominantly an ion-exchange reaction.
+  keywords:
+    default:
+      keywords:
+        subject: soils
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-06-30'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5790588
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5790587
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  P.-Bhattacharya:
+    individualname: P. Bhattacharya
+    role: creator
+    organization: ''
+    url: ''
+  N.C.-Bhattacharjee:
+    individualname: N.C. Bhattacharjee
+    role: creator
+    organization: ''
+    url: ''
+  P.-K.-Chourasia:
+    individualname: P. K. Chourasia
+    role: creator
+    organization: ''
+    url: ''
+  B.-K.-Sinha:
+    individualname: B. K. Sinha
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

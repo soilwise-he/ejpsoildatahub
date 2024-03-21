@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10263153
+  dataseturi: https://doi.org/10.5281/zenodo.10263153
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Acceptable Values of the Device Parameters that Measure
+    the Working Depth of Soil Working Machines
+  abstract: "In the article, it is noted that a device for mechanized measurement\
+    \ of the working depth of soil tillage machines has been developed, and the results\
+    \ of multi-factor experiments conducted to determine the optimal values of the\
+    \ main parameters affecting its measurement accuracy (the diameter of the parallelogram\
+    \ mechanism, the width of the hub and the vertical load applied to it) are presented.\
+    \ Multivariate experiments were conducted according to plan V4. In this case,\
+    \ the absolute value of the difference between the average values of the processing\
+    \ depth determined by the existing method and device was taken as an evaluation\
+    \ criterion.The data obtained in the experiments were processed by the \"planexp\"\
+    \ program and a regression equation was obtained that adequately represents the\
+    \ evaluation criterion. Cochran's criterion was used to evaluate the uniformity\
+    \ of variance, Student's criterion was used to evaluate the value of regression\
+    \ coefficients, and Fisher's criterion was used to evaluate the adequacy of theregression\
+    \ model. According to the obtained regression equation, the device for mechanized\
+    \ measurement of the working depth of soil tillage machines -in order to measure\
+    \ their working depth with high accuracy, the diameterof the base wheel is 37.19-38-34\
+    \ cm, the width of the axle is 12.94-13.43 cm, and the vertical it was determined\
+    \ that the loading should be in the range of 192.34-201.0 N\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-01'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10263153
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10263152
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tukhtakoziev-A:
+    individualname: Tukhtakoziev, A
+    role: creator
+    organization: ''
+    url: ''
+  Komilov-N.-M.:
+    individualname: Komilov, N. M.
+    role: creator
+    organization: ''
+    url: ''
+  Abduvakhobov-D.-A.:
+    individualname: Abduvakhobov, D. A.
+    role: creator
+    organization: ''
+    url: ''
+  Khaidarov-K.-S.:
+    individualname: Khaidarov, K. S.
+    role: creator
+    organization: ''
+    url: ''
+  Mukhammadjonov-K-O:
+    individualname: Mukhammadjonov, K O
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

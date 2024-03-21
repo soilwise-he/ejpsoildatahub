@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6634234
+  dataseturi: https://doi.org/10.5281/zenodo.6634234
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: MIGRATION OF ENTERPRISE WASTE IN SOIL AND PLANTS
+  abstract: <em>Changes in the compounds of hydrogen sulfide (H<sub>2</sub>S) and
+    sulfur dioxide (SO<sub>2</sub>), which are the main components of plant waste,
+    in the form of powder or acid rain after they enter the soil and vegetation are
+    given. The nutrient regime of the soil and the circulation of salts in layers
+    have been studied.</em>
+  keywords:
+    default:
+      keywords:
+        subject: hydrogen sulfide, sulfuric anhydride, acid rain, capillary, calcium,
+          chloride, mechanical, vegetative, generative, pollinator, seed, branch,
+          bud, morphological, beak, column
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-06-11'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6634234
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6634233
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Diiorova-Mukh'abbat-Khurramovna:
+    individualname: "\u0414\u0438\u0451\u0440\u043E\u0432\u0430 \u041C\u0443\u04B3\
+      \u0430\u0431\u0431\u0430\u0442 \u0425\u0443\u0440\u0440\u0430\u043C\u043E\u0432\
+      \u043D\u0430"
+    role: creator
+    organization: ''
+    url: ''
+  Kholik'ova-Suraiio-Narzullaevna:
+    individualname: "\u0425\u043E\u043B\u0438\u049B\u043E\u0432\u0430 \u0421\u0443\
+      \u0440\u0430\u0439\u0451 \u041D\u0430\u0440\u0437\u0443\u043B\u043B\u0430\u0435\
+      \u0432\u043D\u0430"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Villacorta_Rath_2023
+  dataseturi: https://doi.org/10.3897/neobiota.83.98898
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "\uFEFFInvasive terrestrial invertebrate detection in water and soil using\
+    \ a targeted eDNA approach"
+  abstract: "&lt;p&gt;Terrestrial invasive invertebrates can rapidly colonise new\
+    \ areas, causing detrimental effects on biodiversity, economy and lifestyle. Targeted\
+    \ environmental DNA (eDNA) methods could constitute an early detection tool given\
+    \ their sensitivity to small numbers of individuals. We hypothesised that terrestrial\
+    \ runoff would transport eDNA from the land into adjacent waterbodies and used\
+    \ the invasive yellow crazy ant (Anoplolepis gracilipes) as a model species to\
+    \ test this hypothesis. We collected water samples from four waterbodies adjacent\
+    \ (&lt; 10 m from the creek edge) to infestations following rainfall events for\
+    \ eDNA analysis. We also collected soil samples from areas of known infestations\
+    \ and tested five eDNA extraction methods to determine their efficiency to extract\
+    \ eDNA from soil. Water samples resulted in positive yellow crazy ant eDNA amplification\
+    \ (20\u2013100% field replicates across all sites), even at one site located 300\
+    \ m away from where ants had been detected visually. Soil samples resulted in\
+    \ a higher percentage of false negatives when sampled from ant transit areas than\
+    \ from nest entrances. Unpurified DNA extracts from soil also resulted in false\
+    \ negative detections and only after applying a purification step of DNA extracts,\
+    \ did we detect yellow crazy ant eDNA in 40\u2013100% of field replicates across\
+    \ all methods and sites. This is the first study to empirically show that eDNA\
+    \ from a terrestrial invertebrate can be successfully isolated and amplified from\
+    \ adjacent or downstream waterbodies. Our results indicate that eDNA has the potential\
+    \ to be a useful method for detecting terrestrial invertebrates from soil and\
+    \ water.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Biosecurity
+      - eDNA runoff
+      - false negative
+      - invasive species detection
+      - qPCR inhibition
+      - terrestrial eDNA
+      - yellow crazy ant
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "\uFEFFInvasive terrestrial invertebrate detection in water and soil using\
+      \ a targeted eDNA approach"
+    url: http://dx.doi.org/10.3897/neobiota.83.98898
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Villacorta-Rath-Cecilia:
+    individualname: Villacorta-Rath, Cecilia
+    role: creator
+  Lach-Lori:
+    individualname: Lach, Lori
+    role: creator
+  Andrade-Rodriguez-Natalia:
+    individualname: Andrade-Rodriguez, Natalia
+    role: creator
+  Burrows-Damien:
+    individualname: Burrows, Damien
+    role: creator
+  Gleeson-Dianne:
+    individualname: Gleeson, Dianne
+    role: creator
+  Trujillo-Gonzalez-Alejandro:
+    individualname: "Trujillo-Gonz\xE1lez, Alejandro"
+    role: creator
+content_info: {}

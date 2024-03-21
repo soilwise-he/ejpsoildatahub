@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.1111/gcb.16060
+  dataseturi: https://doi.org/10.1111/gcb.16060
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Global maps of soil temperature
+  abstract: '&lt;p&gt;Research in global change ecology relies heavily on global climatic
+    grids derived from estimates of air temperature in open areas at around 2&nbsp;m
+    above the ground. These climatic grids do not reflect conditions below vegetation
+    canopies and near the ground surface, where critical ecosystem functions occur
+    and most terrestrial species reside. Here, we provide global maps of soil temperature
+    and bioclimatic variables at a 1-km&lt;sup&gt;2&lt;/sup&gt;&nbsp;resolution for
+    0&ndash;5 and 5&ndash;15&nbsp;cm soil depth. These maps were created by calculating
+    the difference (i.e. offset) between in situ soil temperature measurements, based
+    on time series from over 1200 1-km&lt;sup&gt;2&lt;/sup&gt;&nbsp;pixels (summarized
+    from 8519 unique temperature sensors) across all the world&#39;s major terrestrial
+    biomes, and coarse-grained air temperature estimates from ERA5-Land (an atmospheric
+    reanalysis by the European Centre for Medium-Range Weather Forecasts). We show
+    that mean annual soil temperature differs markedly from the corresponding gridded
+    air temperature, by up to 10&deg;C (mean&nbsp;=&nbsp;3.0&nbsp;&plusmn;&nbsp;2.1&deg;C),
+    with substantial variation across biomes and seasons. Over the year, soils in
+    cold and/or dry biomes are substantially warmer (+3.6&nbsp;&plusmn;&nbsp;2.3&deg;C)
+    than gridded air temperature, whereas soils in warm and humid environments are
+    on average slightly cooler (&minus;0.7&nbsp;&plusmn;&nbsp;2.3&deg;C). The observed
+    substantial and biome-specific offsets emphasize that the projected impacts of
+    climate and climate change on near-surface biodiversity and ecosystem functioning
+    are inaccurately assessed when air rather than soil temperature is used, especially
+    in cold environments. The global soil-related bioclimatic variables provided here
+    are an important step forward for any application in ecology and related disciplines.
+    Nevertheless, we highlight the need to fill remaining geographic gaps by collecting
+    more in situ measurements of microclimate conditions to further enhance the spatiotemporal
+    resolution of global soil temperature products for ecological applications.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.-Lembrechts-Jonas:
+    individualname: J. Lembrechts, Jonas
+    role: creator
+  van-den-Hoogen-Johan:
+    individualname: van den Hoogen, Johan
+    role: creator
+  Nijs-Ivan:
+    individualname: Nijs, Ivan
+    role: creator
+  Lenoir-Jonathan:
+    individualname: Lenoir, Jonathan
+    role: creator
+content_info: {}

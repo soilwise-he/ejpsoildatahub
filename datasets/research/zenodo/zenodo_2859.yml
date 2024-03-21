@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7889193
+  dataseturi: https://doi.org/10.5281/zenodo.7889193
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Review of ecological risk assessment of contaminated soil through polycyclic
+    aromatic hydrocarbons in the Western and Central Region of Kenya
+  abstract: Polycyclic aromatic hydrocarbons (PAHs) are one of the most harmful pollutants
+    to the atmosphere globally. This article reviews the ecological risk posed by
+    PAHs by gathering information from soils in Kenya's Western and Central Regions
+    (WCR) by analyzing their possible sources and ecological risks in soil, and suggesting
+    remedial methods to address them. 29 studies on PAH pollution in Kenyan soils
+    were located identified. The results show that the main causes of PAHs in soil
+    in these areas were pyrolytic. About 70% of the total PAHs in the soil were LMW-PAHs,
+    which shows that most of the PAHs in the WCR in Kenyan soil came from natural
+    PAHs made by burning plants or volcanic eruptions. The highest total PAH level
+    in soil was 63.8 ng g-1. The contamination of WCR soils with naphthylene may pose
+    some ecological risks that need to be checked further. Kenya still tends to prefer
+    the recommended strategies of incineration and bioremediation due to its cost-effectiveness.
+    More detailed studies should be performed to get a better idea of where PAHs are
+    found in order to prevent the severe contamination in the soil of Kenya and Africa.
+  keywords:
+    default:
+      keywords:
+        subject: Bioremediation
+  status: ''
+  language: aig
+  dates:
+    creation: ''
+    issued: '2023-05-03'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7889193
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7889192
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dorothy-Mokeira-Kerage:
+    individualname: Dorothy Mokeira Kerage
+    role: creator
+  Tianxin-Li:
+    individualname: Tianxin Li
+    role: creator
+    organization: School of Energy and Environmental Engineering College, University
+      of Science and Technolo-gy Beijing, Beijing 100083, China
+    url: ''
+  Coursel-Marie-Nininahazwe:
+    individualname: Coursel Marie Nininahazwe
+    role: creator
+    organization: School of Energy and Environmental Engineering College, University
+      of Science and Technolo-gy Beijing, Beijing 100083, China
+    url: ''
+  Namir-Domingos-Raimundo-Lopes:
+    individualname: Namir Domingos Raimundo Lopes
+    role: creator
+  Kerage-Dorothy-Mokeira:
+    individualname: Kerage, Dorothy Mokeira
+    role: ''
+    organization: School of Energy and Environmental Engineering College, University
+      of Science and Technolo-gy Beijing, Beijing 100083, China
+    url: ''
+  Lopes-Namir-Domingos-Raimundo:
+    individualname: Lopes, Namir Domingos Raimundo
+    role: ''
+    organization: School of Energy and Environmental Engineering College, University
+      of Science and Technolo-gy Beijing, Beijing 100083, China
+    url: ''
+content_info: {}

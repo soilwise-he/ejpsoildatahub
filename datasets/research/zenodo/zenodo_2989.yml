@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7741323
+  dataseturi: https://doi.org/10.5281/zenodo.7741323
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Modelling of the Total Petroleum Hydrocarbon (TPH) Degradation during the
+    Bioremediation of Crude oil Polluted soil using Cow dung and wire crotons
+  abstract: The contamination of soil due to activities involved in crude oil exploration
+    and production, and oil spillage<br> emanating from pipeline vandalization, sabotage,
+    theft, corrosion of pipeline and the enterprises of artisanal<br> refineries pose
+    health and ecological problems. This is especially as crude oil contains chemical
+    compounds which<br> are grouped into the Total Petroleum Hydrocarbons (TPH), and
+    known to be toxic, mutagenic, and carcinogenic.<br> Bioremediation is currently
+    being explored as a cost effective and environmentally friendly methods of remediating<br>
+    the soil from this contaminant. Thus, the current work is aimed at developing
+    a mathematical model for the<br> bioremediation process. This was carried out
+    while assuming that the process of degradation is a first order<br> reaction,
+    and the principle of the law of conservation of mass was applied. A linear model
+    (<br> ) was developed relating the instantaneous concentration of TPH, initial<br>
+    concentration of TPH and time duration of the bioremediation. The model fitted
+    well to the experimental data as<br> shown by the result of the statistical analysis
+    where the Analysis of Variance (ANOVA) showed a p-value of 0.004<br> suggesting
+    that the model is statistically significant. The p-values of the model variables
+    such as time duration of<br> the bioremediation was 0.004, this suggested that
+    the variable is significant. The model can be used as a supporting<br> tool in
+    the management of the biodegradation of TPH to predict the degradation concentration
+    of TPH during the<br> bioremediation process at ambient condition of temperature
+    and pressure using cow dung, wire croton and their<br> combination as a carbon
+    source.<br>
+  keywords:
+    default:
+      keywords:
+        subject: Bioremediation; cow dung; wire croton; degradation; Mathematical
+          modelling
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7741323
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7741322
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ifeanyichukwu-Edeh:
+    individualname: Ifeanyichukwu Edeh
+    role: creator
+    organization: Department of Chemical Engineering, University of Port Harcourt,
+      Nigeria
+    url: ''
+  Milicent-M.-Thomas:
+    individualname: Milicent M. Thomas
+    role: creator
+    organization: Department of Chemical Engineering, University of Port Harcourt,
+      Nigeria
+    url: ''
+content_info: {}

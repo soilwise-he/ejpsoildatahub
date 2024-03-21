@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Whitney_1921
+  dataseturi: https://doi.org/10.1126/science.54.1398.348
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Fundamental Principles Established by Recent Soil Investigations
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Fundamental Principles Established by Recent Soil Investigations
+    url: http://dx.doi.org/10.1126/science.54.1398.348
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Whitney-M.:
+    individualname: Whitney, M.
+    role: creator
+  Whitney-Milton:
+    individualname: Whitney, Milton
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

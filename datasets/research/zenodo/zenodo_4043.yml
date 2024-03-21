@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1063417
+  dataseturi: https://doi.org/10.5281/zenodo.1063417
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Utilization Of Geosynthetic On Reducing The Required Thickness
+    Of Subbase Layer Of A Two Layered Soil
+  abstract: This paper tries to study the effect of geosynthetic inclusion on the
+    improvement of the load-settlement characters of two layered soil. In addition,
+    the effect of geogrid and geotextile in reduction of the required thickness of
+    subbase layer in unpaved roads is studied. Considering the vast application of
+    bearing ratio tests in road construction projects, this test is used in present
+    investigation. Bearing ratio tests were performed on two layered soil including
+    a granular soil layer at the top (as the subbase layer) and a weak clayey soil
+    placed at the bottom (as the subgrade layer). These tests were performed for different
+    conditions including unreinforced and reinforced by geogrid and geotextile and
+    three thicknesses for top layer soil (subbase layer). In the reinforced condition
+    the reinforcing element was placed on the interface of the top granular layer
+    and the beneath clayey layer to study the separation effect of geosynthetics.
+    In all tests the soils (both granular and clayey soil layers) were compacted according
+    to optimum water content. At the end, the diagrams were plotted and were compared
+    with each other. Furthermore, a comparison between geogrids and geotextiles behaviors
+    on two layer soil is done in this paper. The results show an increase in compression
+    strength of reinforced specimen in comparison with unreinforced soil sample. The
+    effect of geosynthetic inclusion reduces by increasing the subbase thickness.
+    In addition it was found that geogrids have more desirable behavior rather than
+    geotextiles due to interlocking with the subbase layer aggregates.
+  keywords:
+    default:
+      keywords:
+        subject: Geosynthetic.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-01-27'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1063417
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1063416
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  M.-Nazari:
+    individualname: M. Nazari
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

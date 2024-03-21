@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.912278
+  dataseturi: https://doi.org/10.5281/zenodo.912278
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Biodegradation Of Plastics By Pseudomonas Putida Isolated From Garden Soil
+    Samples
+  abstract: An attempt was made to isolate Pseudomonas putida from garden soil samples
+    and to characterize its degrading ability on plastic material. This work reveals
+    that the garden soil is a good source of microbes capable of degrading plastic
+    materials. P. putida have the ability to convert the complex plastic material
+    was determined in terms of weight loss of the material. It degrades the plastic
+    material up to 75.3% within a month. The plastic samples tested in this study
+    were polythene bag, plastic bag, plastic cup and milk cover. Among the plastic
+    samples, milk cover was found to be more degradative (75.3%) plastic material.
+  keywords:
+    default:
+      keywords:
+        subject: biodegradation; plastics; P. putida; weight loss; intracellular protein.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-06-17'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.912278
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.912277
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ponniah-Saminathan:
+    individualname: Ponniah Saminathan
+    role: creator
+  Saminathan-Ponniah:
+    individualname: Saminathan, Ponniah
+    role: ''
+    organization: Sasham biologicals, No.81, IV Avenue, Ashok Nagar, Chennai-83, India
+    url: ''
+content_info: {}

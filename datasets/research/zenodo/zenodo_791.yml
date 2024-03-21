@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7406246
+  dataseturi: https://doi.org/10.5281/zenodo.7406246
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Bioprospecting Proteolytic Enzymes from Soil Actinobacteria of Brazilian
+    Semiarid Zones
+  abstract: Actinobacteria from semiarid zones have been poorly studied and act as
+    promising fonts of biotechnologically applicable hydrolytic enzymes. Proteases
+    play a major role in industry, being responsible for the majority of the profit
+    of this segment. Thus, this work focuses on the prospection of proteolytic enzymes
+    from the semi-arid region of northeast Brazil, an understudied zone with buried
+    biotechnological applications. Overall, 91,12% (41 of 45) of the studied strains
+    were able to produce those enzymes, which shows a great initial potential for
+    further studies
+  keywords:
+    default:
+      keywords:
+        subject: Actinomycetes, Enzymatic Potential, Protease
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-01'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7406246
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7406245
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Joao-Moreira-de-Matos-Neto:
+    individualname: "Jo\xE3o Moreira de Matos Neto"
+    role: creator
+  Leonardo-Lima-Bandeira:
+    individualname: Leonardo Lima Bandeira
+    role: creator
+  Joyce-da-Silva-Carvalho:
+    individualname: Joyce da Silva Carvalho
+    role: creator
+  Ariel-de-Figueiredo-Nogueira-Mesquita:
+    individualname: Ariel de Figueiredo Nogueira Mesquita
+    role: creator
+  Suzana-Claudia-Silveira-Martins:
+    individualname: Suzana Claudia Silveira Martins
+    role: creator
+  Claudia-Miranda-Martins:
+    individualname: Claudia Miranda Martins
+    role: creator
+  De-Matos-Neto-Joao-Moreira:
+    individualname: "De Matos Neto, Jo\xE3o Moreira"
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0002-8688-1667
+  Bandeira-Leonardo-Lima:
+    individualname: Bandeira, Leonardo Lima
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0001-7220-9194
+  Da-Silva-Carvalho-Joyce:
+    individualname: Da Silva Carvalho, Joyce
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0001-9393-5021
+  De-Figueiredo-Nogueira-Mesquita-Ariel:
+    individualname: De Figueiredo Nogueira Mesquita, Ariel
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0002-0959-375X
+  Martins-Suzana-Claudia-Silveira:
+    individualname: Martins, Suzana Claudia Silveira
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0002-8353-7190
+  Martins-Claudia-Miranda:
+    individualname: Martins, Claudia Miranda
+    role: ''
+    organization: "Universidade Federal do Cear\xE1"
+    url: https://orcid.org/0000-0001-5909-6156
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Islam_2021
+  dataseturi: https://doi.org/10.1016/j.polar.2021.100732
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Modelling the seasonal variations of soil temperatures in the Arctic coasts
+  abstract: '&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;The soil temperature within the Arctic coasts within the continuous permafrost
+    is not widely measured; the temporal and spatial resolutions of the measured temperature
+    observations are relatively high. In this study, we examined the methods to interpolate,
+    hindcast and forecast temperature measurements within the active layer and shallow
+    permafrost when the temperature measurements at the surface or near the surface
+    are available. The temperature variations along the year are periodic, and hence
+    attempts are made to express the seasonal variations with a combination of periodic
+    function (Fourier components); which are used as boundary conditions to reach
+    the analytical solutions. The temperature measurements from surface to about 10
+    metre of depths at the Baydaratskaya Bay, Kara Sea are available. We adopted a
+    data-driven model based on simplified analytical closed-form solution derived
+    from the boundary conditions. The parameters of the solution are calibrated from
+    the field measurements and validated with field observations. The model then can
+    be used to hindcast and forecast temperature at any points within the soil.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soil temperatureArctic coastal erosionThermodenudationPermafrost thawing
+  status: ''
+  language: bah
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Modelling the seasonal variations of soil temperatures in the Arctic coasts
+    url: http://dx.doi.org/10.1016/j.polar.2021.100732
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Islam-Mohammad-Akhsanul:
+    individualname: Islam, Mohammad Akhsanul
+    role: creator
+  Lubbad-Raed:
+    individualname: Lubbad, Raed
+    role: creator
+  Amiri-Seyed-Ali-Ghoreishian:
+    individualname: Amiri, Seyed Ali Ghoreishian
+    role: creator
+  Isaev-Vladislav:
+    individualname: Isaev, Vladislav
+    role: creator
+  Shevchuk-Yaroslav:
+    individualname: Shevchuk, Yaroslav
+    role: creator
+  Uvarova-Alexandra-Vladimirovna:
+    individualname: Uvarova, Alexandra Vladimirovna
+    role: creator
+  Afzal-Mohammad-Saud:
+    individualname: Afzal, Mohammad Saud
+    role: creator
+  Kumar-Avinash:
+    individualname: Kumar, Avinash
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

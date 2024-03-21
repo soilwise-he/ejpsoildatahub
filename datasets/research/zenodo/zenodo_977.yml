@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4268125
+  dataseturi: https://doi.org/10.5281/zenodo.4268125
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis of soil samples for its physicochemical parameters from Sangamner
+    city
+  abstract: "A physicochemical study of soil is based on various parameters like soil\
+    \ pH, electrical conductivity (EC), organic carbon (OC), available nitrogen (N),\
+    \ phosphorus (P), potassium (K), and micronutrients (Fe, Mn, Cu and Zn). Five\
+    \ representative samples were obtained and analyzed for its alkalinity content,\
+    \ pH, electrical conductivity, organic carbon, sodium, potassium. A five soil\
+    \ samples were collected at a depth of 0\u201320 cm and analyzed for soils were\
+    \ neutral to slightly alkaline. The value of soil pH found to be 7.60 to 8.81,\
+    \ conductivity was ranging from 0.50 to 0.73 dSm<sup>\u22121</sup>, organic carbon\
+    \ was found to be 0.52 to 0.72%, range of sodium was 0.52 to 0.97meq% and potassium\
+    \ 125.31 to 630.15 kg/ha. Among the nutrients, available Nitrogen was found to\
+    \ be 140.01 to 252.68 kg/ha, Phosphorous was ranging from 15.11 to 54.13 kg/ha.\
+    \ This information will help the farmers to know amount of fertilizers to be added\
+    \ in soil to make production."
+  keywords:
+    default:
+      keywords:
+        subject: Soil samples; physicochemical parameters; Sangamner city
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-08-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4268125
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4268124
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sangita-Changdeo-Dandwate:
+    individualname: Sangita Changdeo Dandwate
+    role: creator
+  Dandwate-Sangita-Changdeo:
+    individualname: Dandwate, Sangita Changdeo
+    role: ''
+    organization: Department of Chemistry, Sahakar Maharshi Bhausaheb Santuji Thorat
+      Arts, Commerce, Science College Sangamner, Ahmednagar-422605(India).
+    url: ''
+content_info: {}

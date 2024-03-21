@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.24411/0869-6918-2021-10004
+  dataseturi: https://doi.org/10.24411/0869-6918-2021-10004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Biodiversity and distribution of soil nematodes in Mount Ararat, Turkey
+  abstract: "\xC7akmak, Taylan, G\xF6zel, \xC7i\u011Fdem, G\xF6zel, U\u011Fur, Achiri,\
+    \ Denis Tange, Kaydan, Mehmet Bora (2021): Biodiversity and distribution of soil\
+    \ nematodes in Mount Ararat, Turkey. Russian Journal of Nematology 29 (1): 31-48,\
+    \ DOI: 10.24411/0869-6918-2021-10004"
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cakmak-Taylan:
+    individualname: "\xC7akmak, Taylan"
+    role: creator
+  Gozel-Cigdem:
+    individualname: "G\xF6zel, \xC7i\u011Fdem"
+    role: creator
+  Gozel-Ugur:
+    individualname: "G\xF6zel, U\u011Fur"
+    role: creator
+  Achiri-Denis-Tange:
+    individualname: Achiri, Denis Tange
+    role: creator
+  Kaydan-Mehmet-Bora:
+    individualname: Kaydan, Mehmet Bora
+    role: creator
+content_info: {}

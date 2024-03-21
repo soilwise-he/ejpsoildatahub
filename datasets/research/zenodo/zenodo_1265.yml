@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3633568
+  dataseturi: https://doi.org/10.5281/zenodo.3633568
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: GIS-Based Soil Properties Analysis for Sustainable Agriculture in Bani Waleed
+    (Libya)
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>This paper\
+    \ presents an study Soil Properties analysis for sustainable agriculture by GIS\
+    \ through 15 soil samples chemical characterization conducts to soil numerical\
+    \ classification and crops soil suitability that has the advantage to guide the\
+    \ practices of soil management is as follows: Soil Salinity: The results of electrical\
+    \ conductivity indicated that the studied soils were generally positioned into\
+    \ the very saline class that had an area of (3847.96 ha) representing (79.50 %).\
+    \ The soils assembled into five classes; non-saline (198.5 ha) and it is suitable\
+    \ for most crops, moderately saline (385.75ha), where crops salt-tolerant crops\
+    \ give yield with marginal reduction. Finally, strong saline (112.00 ha) that\
+    \ it is suitable just for high salt-tolerant crops but also with yield reduction.\
+    \ Soil Sodic: the non-sodic soil class occupied the majority of the studied area\
+    \ with 96.8 % (4689.18 ha). The sodic soil had only (151.27 ha) 13.12 %. calcium\
+    \ carbonate to moderately calcareous soil (2317.93 ha) 47.89% and calcareous soil\
+    \ (2522.51 ha)52.11%. Crops soil suitability (Wheat): (S1), (S2) and (NS2) It\
+    \ is as follows (4000.78ha) 82.65 %, 114.37ha 2.36 %, and 725.30ha 14.98% of the\
+    \ studied area, respectively. (Tomato): is as follows: (4190.85 ha) 86.58 % of\
+    \ the study area is highly suitable (S1) and (NS2) (649.61ha) 13.42 % is unsuitable\
+    \ represent respectively. (Olive): The majority of the study area 4081.04 ha (84.31\
+    \ %) was classified as highly suitable soils (S1), potentially suitable class\
+    \ (NS1) is about 236.61ha (4.89 %) and unsuitable class (NS2) is about (522.81ha)\
+    \ 10.80 % respectively. Soil Management and Crops tolerance for soil parameters\
+    \ The GIS-ESP soil map divided the studied area into three categories of ESP tolerance\
+    \ crops soil; Extremely sensitive ESP crop (4164.65 ha), sensitive ESP crop (594.13\
+    \ ha) and moderately tolerant crop (81.67 ha). The GIS-CaCO3 soil map divided\
+    \ the studied area into two categories of CaCO3 tolerance crops soil; Crops that\
+    \ tolerate a certain (1924.92 ha) and Crops which support high (2915.54 ha). EC\
+    \ tolerance crops soil; Sensitive (3835.38 ha), moderately (224.28ha), highly\
+    \ (650.86 ha) and very highly (129.93ha)</em><em>.</em>"
+  keywords:
+    default:
+      keywords:
+        subject: agriculture journal
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3633568
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3633567
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdul-Baset-Egrira-Salama:
+    individualname: Abdul Baset Egrira Salama
+    role: creator
+  Salama-Abdul-Baset-Egrira:
+    individualname: Salama, Abdul Baset Egrira
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

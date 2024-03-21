@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10716122
+  dataseturi: https://doi.org/10.5281/zenodo.10716122
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of Cone Index on Mean Relative Growth Rate, Leaf Area Index and
+    Yield of Soybean in Sandy Clay Soil
+  abstract: "ABSTRACT\n\nMean Relative Growth Rate (MRGR), Leaf Area Index (LAI) and\
+    \ yield of soybean (varTGX-1448-2E) as affected by cone index in sandy clay soil\
+    \ was tested. Soil tests were carried out before and during the experiment. Penetrometer\
+    \ and moisture meter were used in measuring cone index and soil moisture content\
+    \ before and after treatments. The area was cleared and harrowed. Four treatments\
+    \ including a control were imposed on the land. A Mersey Fergusson \u2013 MF 275\
+    \ Xtra2WD/4WD tractor with 75 Hp and 2,360 kg weight was used. The treatments\
+    \ were PLH = Ploughed and Harrowed- zero passes of tractor wheels (control), PLC10\
+    \ = Ploughed, harrowed\_ and compacted to10 passes of tractor wheels, PLC20 =\
+    \ Ploughed, harrowed and compacted to 20 passes of tractor wheels, PLC30 = Ploughed,\
+    \ harrowed and compacted to 30 passes of tractor wheels, These were replicated\
+    \ three times making a total of twelve subplots. The treatments and replications\
+    \ were laid in a Randomized Complete Block Design (RCBD). A soybean variety TGX-1448-2E\
+    \ was planted and parameters were measured at 2, 4, 6, 8, 10, 12, and 14 weeks\
+    \ after planting (WAP). Among the variables measured were plant height, width,\
+    \ number of leaves, leaf area, dry matter weight, and weight of threshed soybean.\
+    \ Analysis of the data revealed that the Leaf Area Index (LAI) of 42.83 was realised\
+    \ at cone index of 0.081 MPa. Thus the LAI reduced to 10.20 at cone index of 1.21\
+    \ MPa. On the other hand Mean Relative Growth Rate (MRGR) of 79.66 was observed\
+    \ at cone index of 0.081 MPa. Whereas at 1.21 MPa, a MRGR of 59.29 was observed.\
+    \ While a MRGR of 52.36 was realised at cone index of 1.82 MPa. A yield of 2.50\
+    \ t/ha was realised from soybean planted on PLH plots with an average cone index\
+    \ value of 0.081 MPa. Whereas at higher cone index value of 1.21 MPa, only 1.15\
+    \ t/ha of soybean yield was realised. A strong negative correlation exists between\
+    \ cone index and growth, and yield variables.\_ Thus correlation values of -0.906,\
+    \ -0.999, -0.983 exist for plant height, leaf area and yield of soybean respectively.\
+    \ It can be concluded that increase cone index of soil leads to reduction in MRGR,\
+    \ LAI and yield parameters of crops."
+  keywords:
+    default:
+      keywords:
+        subject: Influence, Cone Index, Growth Rate, Yield, Soybean, Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-08-31'
+    publication: '2018'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10716122
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10716121
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Odey-Simon-O.:
+    individualname: Odey Simon O.
+    role: creator
+    organization: Department of Wood Products Engineering, Cross River University
+      of Technology, Calabar, Nigeria
+    url: ''
+  Manuwa-Seth-I.:
+    individualname: Manuwa Seth I.
+    role: creator
+    organization: Department of Agricultural Engineering, The Federal University of
+      Technology, Akure, Nigeria
+    url: ''
+content_info: {}

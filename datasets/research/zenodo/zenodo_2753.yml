@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8025709
+  dataseturi: https://doi.org/10.5281/zenodo.8025709
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Potassium silicate for mitigation of irrigation water deficiency for Faba
+    bean intercropped with sugar beet in a sandy soil
+  abstract: "A field experiment was carried out at Ismailia Agricultural Research\
+    \ Station, Agricultural Research Center, Ismailia governorate (Lat. 30\xB0 35'\
+    \ 30\" N, Long. 32\xB0 14' 50\" E, 10 m a.s.l.), Egypt, during 2018/2019 and 2019/2020\
+    \ growing seasons to determine the suitable rate of potassium silicate that could\
+    \ mitigate the effect of irrigation water deficiency on productivity of both faba\
+    \ bean and sugar beet under intercropping system. Three irrigation treatments\
+    \ (I<sub>1 </sub>(120% ETo), I<sub>2 </sub>(100% ETo) and I<sub>3 </sub>(80% ETo))\
+    \ and three rates of sprayed potassium silicate (Si<sub>0 </sub>unsprayed-control),\
+    \ Si<sub>1 </sub>(200 ppm) and Si<sub>2 </sub>(300 ppm)) were used. The results\
+    \ showed the highest intercropped faba bean and sugar beet yields and their components\
+    \ were attained under spraying with Si<sub>1 </sub>under the three irrigation\
+    \ treatments in both growing seasons. Furthermore, spraying intercropped faba\
+    \ bean and sugar beet with Si<sub>1 </sub>under I<sub>2</sub> and I<sub>3 </sub>relieved\
+    \ water deficiency and increased the yields, compared to no spraying. The 2-year\
+    \ average values of applied irrigation water to sugar beet intercropping system\
+    \ were 9252, 7730, 6184 m<sup>3</sup>/ha under I<sub>1</sub>, I<sub>2</sub> and\
+    \ I<sub>3</sub>, respectively. Using cereal units analysis revealed that the highest\
+    \ values WUE and WP were found under application of I<sub>3</sub>, namely 0.29\
+    \ CU/mm and 0.36 CU/mm for WUE and 0.24 CU/mm and 0.25 CU/mm for WP in the first\
+    \ and second seasons, respectively. The highest values of WER were 1.41 and 1.42\
+    \ obtained from the interaction between irrigation with I<sub>2</sub> and spraying\
+    \ with Si<sub>1 </sub>in the first and second season, respectively. Thus, it could\
+    \ be concluded that to mitigate the effect of irrigation deficiency applied to\
+    \ faba bean intercropped with sugar beet, spraying with 200 ppm of potassium silicate\
+    \ should be applied."
+  keywords:
+    default:
+      keywords:
+        subject: waterequivalent ratio
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-09-18'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8025709
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8025708
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tahany-NORELDIN:
+    individualname: Tahany NORELDIN
+    role: creator
+    organization: Water Requirement and Field Irrigation Research Department; Soils,
+      Water and Environment Research Institute; Agricultural Research Center, Giza;
+      Egypt
+    url: ''
+  Ahmed-ABD-ALLAH:
+    individualname: Ahmed ABD-ALLAH
+    role: creator
+  ABD-ALLAH-Ahmed:
+    individualname: ABD-ALLAH, Ahmed
+    role: ''
+    organization: Crop Intensification Research Department, Field Crops Research Institute;
+      Agricultural Research Center; Giza; Egypt
+    url: ''
+content_info: {}

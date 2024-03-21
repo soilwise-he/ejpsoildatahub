@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: DAS_2021
+  dataseturi: https://doi.org/10.11646/phytotaxa.518.1.3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Boeremia parva sp. nov., a novel species of the family Didymellaceae isolated
+    from soil
+  abstract: 'Das, Kallol, Ten, Leonid N., Ban, Jae-Ho, Lee, Seung-Yeol, Jung, Hee-Young
+    (2021): Boeremia parva sp. nov., a novel species of the family Didymellaceae isolated
+    from soil. Phytotaxa 518 (1): 25-35, DOI: 10.11646/phytotaxa.518.1.3'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Fungi
+      - Ascomycota
+      - Dothideomycetes
+      - Pleosporales
+      - Didymellaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Boeremia parva sp. nov., a novel species of the family Didymellaceae isolated
+      from soil
+    url: http://dx.doi.org/10.11646/phytotaxa.518.1.3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Das-Kallol:
+    individualname: Das, Kallol
+    role: creator
+  Ten-Leonid-N.:
+    individualname: Ten, Leonid N.
+    role: creator
+  Ban-Jae-Ho:
+    individualname: Ban, Jae-Ho
+    role: creator
+  Lee-Seung-Yeol:
+    individualname: Lee, Seung-Yeol
+    role: creator
+  Jung-Hee-Young:
+    individualname: Jung, Hee-Young
+    role: creator
+  DAS-KALLOL:
+    individualname: DAS, KALLOL
+    role: creator
+  TEN-LEONID-N.:
+    individualname: TEN, LEONID N.
+    role: creator
+  BAN-JAE-HO:
+    individualname: BAN, JAE-HO
+    role: creator
+  LEE-SEUNG-YEOL:
+    individualname: LEE, SEUNG-YEOL
+    role: creator
+  JUNG-HEE-YOUNG:
+    individualname: JUNG, HEE-YOUNG
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

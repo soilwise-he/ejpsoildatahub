@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7316250
+  dataseturi: https://doi.org/10.5281/zenodo.7316250
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Microclimate monitoring network based on Soil-Atmosphere Measurement Complexes
+  abstract: Microclimate is a complex of climatic conditions organized by local landscape.
+    Air and soil tempera-<br> ture, solar radiation, wind speed, and moisture conditions
+    are significant factors that form ecological<br> patterns in plant and animal
+    communities. The importance of the influence of microclimate on<br> growth and
+    die-off, soil respiration, and nutrient cycling is one of the components of modern
+    ecological re-<br> search.<br> Russia has a network of weather stations of the
+    Federal Service for Hydrometeorology and Environmental<br> Monitoring (Rosgydromet),
+    organized to conduct global, comprehensive, systematic, continuous observations<br>
+    of the natural environment. Weather stations must be located in an area that is
+    open and typical of the surround-<br> ing terrain. However, on the territory of
+    Siberia their network is extremely sparse and not regular. Weather sta-<br> tions
+    are located in open areas mainly in river valleys, and the information obtained
+    at them does not fully re-<br> flect the situation in the forest, mires and mountain
+    landscapes represented on the territory.<br> In order to provide ecological and
+    landscape studies with meteorological information, a network of auto-<br> mated
+    observation points has been forming at the Institute of Monitoring of Climate
+    and Ecological Systems<br> (IMCES SB RAS) since 2005, where basic meteorological
+    characteristics are registered. The network of micro-<br> climatic monitoring
+    that we are developing is focused on continuous observations in typical landscapes
+    in key<br> areas located in different natural-climatic zones. Historically, various
+    projects have formed clusters of observa-<br> tion sites, usually located close
+    to each other, but characterized by different local landscape conditions. Micro-<br>
+    climatic monitoring is organized in the areas of forest-marsh complexes in Western
+    Siberia, mountain-bottom<br> landscapes of the Baikal region.<br> Atmospheric-soil
+    measuring complexes (ASMC) are used for monitoring. ASMC is intended for mobile<br>
+    and stationary long-term automatic measurements and registration of the main parameters
+    of the atmosphere,<br> soils and water. ASMC can be equipped with sensors for
+    soil and air temperature, snow cover height and tem-<br> perature, ground water
+    level, precipitation, wind speed and direction, soil and air humidity, solar radiation<br>
+    characteristics, carbon dioxide concentration, etc. The difference from the existing
+    measuring systems is the<br> combination of low power consumption, wide range
+    of sensors, autonomous operation mode, operability in a<br> wide range of operating
+    conditions and low price. Autonomous controller-recorder with analog or digital
+    inter-<br> face allows to use ASMC as in the basic configuration with the possibility
+    of data transmission in online mode,<br> and in the vandal-proof configuration
+    (measuring only temperature and humidity of air and soil) with data ac-<br> cumulation
+    inside the device. ASMC software gives the possibility of visual presentation
+    of data series, which<br> are exported into a text format. The ASMC is capable
+    of continuously measuring microclimate characteristics<br> for several years,
+    even under the most extreme conditions. Therefore, the instrument can be used
+    to create ex-<br> tensive specialized networks of field measurements providing
+    essential data on microclimatic conditions shap-<br> ing biological processes
+    under climate change conditions.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-13'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7316250
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7316249
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dyukarev-E.A.:
+    individualname: Dyukarev, E.A.
+    role: creator
+    organization: 1 Institute of Monitoring of Climatic and Ecological System SB RAS,
+      Tomsk, Russia 2 Yugra State University, Khanty-Mansiysk, Russia
+    url: ''
+  Kurakov-S.A.:
+    individualname: Kurakov, S.A.
+    role: creator
+    organization: 1 Institute of Monitoring of Climatic and Ecological System SB RAS,
+      Tomsk, Russia 2 Yugra State University, Khanty-Mansiysk, Russia
+    url: ''
+  Voropay-N.N.:
+    individualname: Voropay, N.N.
+    role: creator
+    organization: 1 Institute of Monitoring of Climatic and Ecological System SB RAS,
+      Tomsk, Russia 3 V.B. Sochava Institute of Geography SB RAS, Irkutsk, Russia
+    url: ''
+content_info: {}

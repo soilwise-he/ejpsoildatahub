@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8304902
+  dataseturi: https://doi.org/10.5281/zenodo.8304902
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Artificial Intelligence and Machine Learning based Nickel Nutrient Content
+    Analyzer in Soil: An Overview'
+  abstract: <em>Nickel is a vital element required for the growth and development
+    of plants; yet, its excessive accumulation may lead to toxicity. The precise quantification
+    of nickel nutrient levels in soil is of paramount significance in order to ascertain
+    the optimal nickel concentration required for plants to flourish. The conventional
+    techniques used for assessing the nickel nutrient concentration in soil are characterised
+    by a significant investment of time and labour. Additionally, the use of specialised
+    equipment is necessary, and this might incur significant costs. The use of artificial
+    intelligence (AI) and machine learning (ML) presents a potentially advantageous
+    methodology for the assessment of nickel nutrient levels in soil. Artificial intelligence
+    (AI) and machine learning (ML) algorithms have the capability to undergo training
+    processes in order to discern patterns within soil data that might serve as indicators
+    of nickel concentration. This enables the advancement of expeditious, precise,
+    and economical techniques for assessing the concentration of nickel nutrients
+    in soil. This study provides an overview of the present advancements in artificial
+    intelligence (AI) and machine learning (ML) techniques used in nickel nutrient
+    content analyzers for soil analysis. The article examines the benefits of using
+    artificial intelligence (AI) and machine learning (ML) in this context, while
+    also delineating the remaining obstacles that need attention. The concepts of
+    scalability and efficiency are crucial in several domains and industries. The
+    distributed nature of Federated Learning enables the training of machine learning
+    models in large-scale industrial processes, thereby mitigating problems related
+    to scalability. Federated Learning enhances computational performance and enables
+    manufacturers to use collective wisdom while minimising resource usage by circumventing
+    centralised data storage. The abstract highlights the significance of Federated
+    Learning in facilitating data-driven decision-making within the industrial sector.
+    Through the use of knowledge derived from dispersed data sources, manufacturers
+    have the ability to make choices that are more informed and more adaptable, resulting
+    in enhanced productivity and a decrease in periods of operational inactivity.
+    </em>
+  keywords:
+    default:
+      keywords:
+        subject: Artificial intelligence, machine learning, soil nutrient analysis,
+          nickel nutrient content analyzer, convolutional neural networks, support
+          vector regression, precision agriculture, sustainable agriculture, environmental
+          preservation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-08-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8304902
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8304901
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sagar-K.-G:
+    individualname: Sagar K. G
+    role: creator
+  G-Sagar-K.:
+    individualname: G, Sagar K.
+    role: ''
+    organization: Department of Mechanical Engineering, Cambridge Institute of Technology,
+      Bengaluru, Karnataka, India
+    url: ''
+content_info: {}

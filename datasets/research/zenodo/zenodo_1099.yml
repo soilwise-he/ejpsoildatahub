@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8341929
+  dataseturi: https://doi.org/10.5281/zenodo.8341929
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: IDENTIFICATION OF CLAY MINERALS IN THE SOIL USING ATTERBERG LIMIT PARAMETERS
+  abstract: Montmorillonite clay is a problematic soil for both geotechnical and pavement
+    engineers. Therefore, identifying the presence of the expansive montmorillonite
+    clay mineral within the soil matrix using a simple and inexpensive method is of
+    paramount importance. This paper presents a simple method of identifying the primary
+    clay minerals, namely kaolinite, illite, and montmorillonite, in the soil matrix
+    using Atterberg limits parameters, namely plasticity index, plastic limit, and
+    slope of the fall cone curve (defined as 20/LL). The proposed methods can be used
+    as a preliminary indicator method of identifying the presence of expansive clay
+    minerals within the soil matrix before carrying out an expensive definitive method
+    of identifying clay minerals, such as XRD
+  keywords:
+    default:
+      keywords:
+        subject: Atterberg limit
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-13'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8341929
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8341928
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Maregesi-Gerald:
+    individualname: Maregesi, Gerald
+    role: creator
+    organization: Advanced Engineering Solutions (Tanzania)
+    url: 0000-0001-7260-2076
+content_info: {}

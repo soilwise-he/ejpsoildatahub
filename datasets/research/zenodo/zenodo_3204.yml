@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Christou_2017
+  dataseturi: https://doi.org/10.1016/j.watres.2016.11.033
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Long-term wastewater irrigation of vegetables in real agricultural systems:
+    Concentration of pharmaceuticals in soil, uptake and bioaccumulation in tomato
+    fruits and human health risk assessment'
+  abstract:
+  - '&lt;p&gt;Wastewater (WW) reuse for vegetable crops irrigation is regularly applied
+    worldwide. Such a practice has been found to allow the uptake of pharmaceutical
+    active compounds (PhACs) by plants and their subsequent entrance to the food web,
+    representing an important alternative pathway for the exposure of humans to PhACs,
+    with potential health implications. Herein we report the impacts of the long-term
+    (three consecutive years) WW irrigation of a tomato crop with two differently
+    treated effluents under real agricultural conditions, on (1) the soil concentration
+    of selected PhACs (i.e. diclofenac, DCF; sulfamethoxazole, SMX; trimethoprim,
+    TMP), (2) the bioaccumulation of these PhACs in tomato fruits, and (3) the human
+    risks associated with the consumption of WW-irrigated fruits. Results revealed
+    that the concentration of the studied PhACs in both the soil and tomato fruits
+    varied depending on the qualitative characteristics of the treated effluent applied
+    and the duration of WW irrigation. The PhAC with the highest soil concentration
+    throughout the studied period was SMX (0.98 mg kg&lt;sup&gt;-1&lt;/sup&gt;), followed
+    by TMP (0.62 mg kg&lt;sup&gt;-1&lt;/sup&gt;) and DCF (0.35 mg kg&lt;sup&gt;-1&lt;/sup&gt;).
+    DCF was not found in tomato fruits harvested from WW-irrigated plants during the
+    first year of the study. However, DCF displayed the highest fruit concentration
+    (11.63 mg kg&lt;sup&gt;-1&lt;/sup&gt;) throughout the study (as a result of prolonged
+    WW irrigation), followed by SMX (5.26 mg kg&lt;sup&gt;-1&lt;/sup&gt;) and TMP
+    (3.40 mg kg&lt;sup&gt;-1&lt;/sup&gt;). The calculated fruit bioconcentration factors
+    (BCF&lt;sub&gt;F&lt;/sub&gt;) were extremely high for DCF in the 2nd (108) and
+    3rd year (132) of the experimental period, with the respective values for SMX
+    (0.5e5.4) and TMP (0.2e6.4) being significantly lower. The estimated threshold
+    of toxicity concern (TTC) and hazard quotients (HQ) values revealed that the consumption
+    of fruits harvested from tomato plants irrigated for long period with the WW applied
+    for irrigation under field conditions in this study represent a&lt;em&gt; de minimis&lt;/em&gt;
+    risk to human health. However, more studies need to be performed in order to obtain
+    more solid information on the safety of WW reuse for irrigation.&lt;/p&gt;'
+  - 'The authors wish to thank all the personnel of the Cyprus Agricultural Research
+    Institute, especially Mr. Kyriakos Konstantinou and Mr. Apostolos Petros, who
+    have been involved in the study by maintaining the field culture of tomato plants
+    and for their excellent technical assistance. This study was supported by the
+    Cyprus Agricultural Research Institute Internal Grant to Anastasis Christou (ARI
+    1303207/5.6). This research collaboration has been stimulated by COST - European
+    Cooperation in Science and Technology, to the COST Action ES1403: New and emerging
+    challenges and opportunities in wastewater reuse (NEREUS).'
+  keywords:
+    default:
+      keywords:
+      - Bioconcentration
+      - Human health risks
+      - Pharmaceuticals
+      - Tomatoes
+      - Uptake
+      - Wastewater irrigation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Long-term wastewater irrigation of vegetables in real agricultural systems:
+      Concentration of pharmaceuticals in soil, uptake and bioaccumulation in tomato
+      fruits and human health risk assessment'
+    url: http://dx.doi.org/10.1016/j.watres.2016.11.033
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anastasis-Christou:
+    individualname: Anastasis Christou
+    role: creator
+  Popi-Karaolia:
+    individualname: Popi Karaolia
+    role: creator
+  Evroula-Hapeshi:
+    individualname: Evroula Hapeshi
+    role: creator
+  Costas-Michael:
+    individualname: Costas Michael
+    role: creator
+  Despo-Fatta-Kassinos:
+    individualname: Despo Fatta-Kassinos
+    role: creator
+  Christou-Anastasis:
+    individualname: Christou, Anastasis
+    role: creator
+  Karaolia-Popi:
+    individualname: Karaolia, Popi
+    role: creator
+  Hapeshi-Evroula:
+    individualname: Hapeshi, Evroula
+    role: creator
+  Michael-Costas:
+    individualname: Michael, Costas
+    role: creator
+  Fatta-Kassinos-Despo:
+    individualname: Fatta-Kassinos, Despo
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

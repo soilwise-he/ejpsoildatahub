@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jackson_1998
+  dataseturi: https://doi.org/10.1109/36.718838
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil water infiltration observation with microwave radiometers
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil water infiltration observation with microwave radiometers
+    url: http://dx.doi.org/10.1109/36.718838
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jackson-Thomas-J.:
+    individualname: Jackson, Thomas J.
+    role: creator
+  Schmugge-Thomas-J.:
+    individualname: Schmugge, Thomas J.
+    role: creator
+  O'Neill-P.-E.:
+    individualname: O'Neill, P. E.
+    role: creator
+  Parlange-Marc-B.:
+    individualname: Parlange, Marc B.
+    role: creator
+  Jackson-T.J.:
+    individualname: Jackson, T.J.
+    role: creator
+  Schmugge-T.J.:
+    individualname: Schmugge, T.J.
+    role: creator
+  O'Neill-P.E.:
+    individualname: "O\u2019Neill, P.E."
+    role: creator
+  Parlange-M.B.:
+    individualname: Parlange, M.B.
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

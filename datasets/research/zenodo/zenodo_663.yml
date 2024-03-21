@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8416282
+  dataseturi: https://doi.org/10.5281/zenodo.8416282
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: PHYTOREMEDIATION OF ARSENIC CONTAMINATED SOIL BY USING RICE PLANT
+  abstract: "Today, soil pollution is one of the important global problems (Anonim,\
+    \ 2013). Recently, the use of microorganisms and plants to eliminate heavy metals\
+    \ in soil and water and their involvement in environmental protection practices\
+    \ have created awareness on this issue (S\xF6\u011F\xFCt et al., 2011)."
+  keywords:
+    default:
+      keywords:
+        subject: PLANT
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-07'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8416282
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8416281
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  IKSAD-PUBLICATION-HOUSE:
+    individualname: IKSAD PUBLICATION HOUSE
+    role: creator
+  YAGMUR-Bulent:
+    individualname: "YA\u011EMUR, B\xFClent"
+    role: creator
+    organization: Ege University
+    url: 0000-0002-7645-8574
+content_info: {}

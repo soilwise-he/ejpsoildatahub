@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10615628
+  dataseturi: https://doi.org/10.5281/zenodo.10615628
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Geotechnical properties of clay soil in Mouyondzi in Congo treated at cement
+    and fine fractions of lateritic to improve the performances of blocs of earth:
+    An approach based on the multi-criteria assessing'
+  abstract: "Abstract The acceleration of climate change and the continuous increase\
+    \ in the world's population require technical improvements in earth building.\
+    \ Thus, the local treatment of soils necessary for earthen construction is of\
+    \ great importance. This paper presents the partial results on the assessment\
+    \ of the geotechnical properties of Mouyondzi clay soils, treated at 2%, 3%, 4%,\
+    \ 5% of cement content; then 10%, 20%, 30% of fine lateritic fraction to confection\
+    \ the improved earthen blocks. The effect of these additions of cement and fine\
+    \ lateritic fraction consists in enhances the durability of earthen buildings\
+    \ during the exploitation. The multi-criteria evaluation method proposed and based\
+    \ on measured geotechnical parameters (granulometry, Atterberg Limits, Compressibility\
+    \ index\u2026) allowed analyzing all the possibilities of material selection.\
+    \ The first results obtained show that the studied mixtures of soil have the accepted\
+    \ properties to manufacture different type of earth blocks (Adobe, BTC)."
+  keywords:
+    default:
+      keywords:
+        subject: Earth bloc, Plasticity index of soil, Durability of earth building,
+          Multi-criteria evaluation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-09-30'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10615628
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10615627
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ndinga-Okina-S.:
+    individualname: Ndinga Okina S.
+    role: creator
+    organization: "Higher National Polytechnic School (ENSP)-Department of Civil Engineering,\
+      \ Marien Ngouabi University \u2013 Brazzaville, Congo"
+    url: ''
+  Ahouet-L.:
+    individualname: Ahouet L.
+    role: creator
+    organization: Higher Institute of Architecture, Urbanism, Building and Public
+      Works, Denis Sassou Nguesso University, Brazzaville, Congo
+    url: ''
+  Ngondo-Nkounga-G.R.:
+    individualname: Ngondo Nkounga G.R.
+    role: creator
+    organization: "Higher National Polytechnic School (ENSP)-Department of Civil Engineering,\
+      \ Marien Ngouabi University \u2013 Brazzaville, Congo"
+    url: ''
+content_info: {}

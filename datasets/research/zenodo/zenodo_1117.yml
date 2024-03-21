@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Benzeguir_2021
+  dataseturi: https://doi.org/10.48084/etasr.4000
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Reliability of Buried Pipes in Heterogeneous Soil Subjected to Seismic Loads
+  abstract: "&lt;p&gt;Dysfunctions and failures of buried pipe networks, like sewer\
+    \ networks, are studied in this paper from the point of view of structural reliability\
+    \ and heterogeneity of geotechnical conditions in the longitudinal direction.\
+    \ Combined soil spatial variability and Peak Ground Acceleration (PGA) induce\
+    \ stresses and displacements. A model has been developed within the frame of geostatistics\
+    \ and a mechanical description of the soil\u2013structure interaction of a set\
+    \ of buried pipes with connections resting on the soil by a two-parameter model\
+    \ (Pasternak model). Structural reliability analysis is performed considering\
+    \ two limit states: Serviceability Limit State (SLS), related to large \"counter\
+    \ slope\" in a given pipe, and Ultimate Limit State (ULS), corresponding to bending\
+    \ moment.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - reliability index
+      - soil-structure interaction
+      - spatial variability
+      - SLS
+      - ULS
+      - seismic action
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Reliability of Buried Pipes in Heterogeneous Soil Subjected to Seismic Loads
+    url: http://dx.doi.org/10.48084/etasr.4000
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Benzeguir-H.:
+    individualname: Benzeguir, H.
+    role: creator
+  Elachachi-S.-M.:
+    individualname: Elachachi, S. M.
+    role: creator
+  Nedjar-D.:
+    individualname: Nedjar, D.
+    role: creator
+  Bensafi-M.:
+    individualname: Bensafi, M.
+    role: creator
+  Engineering-Technology--Applied-Science-Research:
+    individualname: Engineering, Technology & Applied Science Research
+    role: creator
+content_info: {}

@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8151891
+  dataseturi: https://doi.org/10.5281/zenodo.8151891
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluating the Feasibility of Using Plant-Specific Metabarcoding to Assess
+    Forest Types from Soil eDNA
+  abstract: This repository contains intron p6 loop g-h primers for the UUA marker
+    and UniPlant amplicons for ITS2, obtained from 31 soil samples collected across
+    the Hvaler archipelago in southern Norway. The marker libraries were sequenced
+    using an Illumina MiSeq v2 instrument with 300 cycles (150 bp x 2) for the trnL
+    (UUA) p6 loop fragments, and an Illumina MiSeq v3 instrument with 600 cycles (300
+    bp x 2) for the ITS fragments. The forward and reverse reads were merged, and
+    the primers were dereplicated. The sequences are provided in FASTA format files.
+    Additionally, a metadata file is included, which contains the coordinates of sample
+    collection, sample names, and information about the surrounding forest type based
+    on the Nature in Norway mapping system.
+  keywords:
+    default:
+      keywords:
+        subject: coenoclines, ecoclines, metabarcoding, plant identification, soil
+          eDNA, plant composition gradients
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8151891
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8151890
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ariza-Maria:
+    individualname: "Ariza, Mar\xEDa"
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0001-8396-4902
+  Engelstad-Mari:
+    individualname: Engelstad, Mari
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: ''
+  Lieungh-Eva:
+    individualname: Lieungh, Eva
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0003-4009-944X
+  Laux-Marcele:
+    individualname: Laux, Marcele
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0001-6475-2808
+  Ready-Jonathan:
+    individualname: Ready, Jonathan
+    role: creator
+    organization: "Universidade Federal do Par\xE1, Grupo de Investiga\xE7\xE3o Biol\xF3\
+      gica Integrada, Centro de Estudos Avan\xE7ados da Biodiversidade"
+    url: https://orcid.org/0000-0002-9374-8661
+  Halvorsen-Rune:
+    individualname: Halvorsen, Rune
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0002-6859-7726
+  Mauvisseau-Quentin:
+    individualname: Mauvisseau, Quentin
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0003-1215-2987
+  de-Boer-Hugo:
+    individualname: de Boer, Hugo
+    role: creator
+    organization: Natural History Museum, University of Oslo
+    url: https://orcid.org/0000-0003-1985-7859
+content_info: {}

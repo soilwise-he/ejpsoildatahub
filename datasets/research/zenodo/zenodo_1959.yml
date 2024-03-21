@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7452154
+  dataseturi: https://doi.org/10.5281/zenodo.7452154
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil Solarization: A safe, affective and practicable technique for the management
+    of plant-parasitic nematodes'
+  abstract: The changes in agricultural situations have tremendous effects on the
+    emergence of new plant parasitic nematode problems in India. Nematodes can parasitize
+    plants, animals, insects, etc. Plant parasitic nematodes are capable of causing
+    disease on many economically important crops grown in India and attained the status
+    of pests for substantial reduction of crop yield but root-knot nematodes is the
+    most damaging one. The most predominant species of root-knot nematodes are <em>Meloidogyne
+    incognita,</em> <em>M. javanica</em> and <em>M. graminicola.</em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7452154
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7452153
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  1*Pinki-Nagal-2Rubal-Kamboj:
+    individualname: 1*Pinki Nagal, 2Rubal Kamboj
+    role: creator
+  3Rohit-Kumar:
+    individualname: 3Rohit Kumar
+    role: creator
+  1*Pinki-Nagal-2Rubal-Kamboj-and-3Rohit-Kumar:
+    individualname: 1*Pinki Nagal, 2Rubal Kamboj and 3Rohit Kumar
+    role: ''
+    organization: 1Department of Zoology, CDLU, Sirsa, Haryana-125055 2&3Department
+      of Nematology, CCS HAU, Hisar, Haryana-125004
+    url: ''
+content_info: {}

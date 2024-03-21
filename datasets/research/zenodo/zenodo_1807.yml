@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8095045
+  dataseturi: https://doi.org/10.5281/zenodo.8095045
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Effect of Electrokinetic Remediation on the Index Properties of Lead-Contaminated
+    Lateritic Soil
+  abstract: <em>Soil contamination is a global concern that has great effects on human
+    health, groundwater, and the engineering properties of soil. The aim of this paper
+    is to use the electrokinetic remediation technique to remove lead contaminants
+    from lateritic soil and evaluate the index properties of the remediated soil.
+    Contaminated soil specimens were prepared by mixing the lateritic soil with a
+    maximum 1% lead nitrate concentration in a stepwise increment of 0.2% by weight
+    of dry soil. Thereafter, the soil was remediated in an electrokinetic cell using
+    graphite electrodes with acetic acid and ethylenediaminetetraacetic acid (EDTA)
+    as electrolytes. The results obtained shows a liquid limit and the plasticity
+    index of electrokinetic lead remediated soil decreased from 52.00 to 39.60% and
+    29.09 to 17.59%, respectively. The cation exchange capacity (CEC) of the electrokinetic
+    lead remediated soil increased from 5.31 to 8.20 Cmolkg-1 after the electrokinetic
+    process, while the liner shrinkage decreased from 12.14 to 5.0 %. The percentage
+    passing the BS NO 200 sieve ranges from 7.68 to 5.85 for British Standard Light
+    (BSL), 5.09 to 5.50 for West African Standard (WAS), and 10.4 to 5.60 for British
+    Standard Heavy (BSH). Furthermore, the percentage of gravel for BSL ranges from
+    1.6 to 14 for BSL, 1.6 to 13.4 for WAS, and 1.7 to 3.5 for BSH. Overall, the electrokinetic
+    technique proved to be effective in removing lead from contaminated lateritic
+    soil and improving its index properties. Results obtained provide valuable insight
+    into the remediation of contaminated soil using the electrokinetic technique</em><em>.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Contaminated soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-29'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8095045
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8095044
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kevin-O.K.:
+    individualname: Kevin, O.K.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Ground and Communication
+      Engineering, Air Force Institute of Technology, Kaduna State, Nigeria.
+    url: ''
+  Abdulfatah-A.Y.:
+    individualname: Abdulfatah, A.Y.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Engineering, Bayero
+      University Kano, Kano State, Nigeria.
+    url: ''
+  Sani-J.E.:
+    individualname: Sani, J.E.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Engineering, Nigeria
+      Defense Academy, Kaduna State, Nigeria.
+    url: ''
+  Moses-G.:
+    individualname: Moses, G.
+    role: creator
+    organization: Department of Civil Engineering, Faculty of Engineering, Nigeria
+      Defense Academy, Kaduna State, Nigeria.
+    url: ''
+content_info: {}

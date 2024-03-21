@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10016511
+  dataseturi: https://doi.org/10.5281/zenodo.10016511
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Investigating the Effectiveness of Various Techniques for Soil Improvement
+  abstract: 'Existence of unsuitable soil for supporting structures in construction
+    sites, lack of space and economic motivations are primary main reasons for using
+    soil improvement techniques with poor subgrade soil conditions rather than deep
+    foundation. Soil at a construction site may not always be totally suitable for
+    supporting structures in its natural state. In such a case, the soil needs to
+    be improved to increase its bearing capacity and decrease the expected settlement.
+    This topic gives an overview of techniques that are commonly used to improve the
+    performance, reduce the post construction settlement, and enhance the shear strength
+    of the soil system, increase the bearing capacity of the soil, and improve the
+    stability of dams and embankments. Then, this study concluded that there is an
+    urgent need to study the technique of removal and replacement for improving soil
+    behavior taking into consideration geotechnical requirements (i.e. bearing capacity
+    and settlement) and cost to achieve the optimum thickness of replacement layers
+    and the most suitable material corresponding to minimum total cost of foundation
+    works.
+
+    Keywords:- Investigation, Various Techniques, Soil Improvement.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-18'
+    accepted: '2023-10-18'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10016511
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10016510
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Esar-Ahmad:
+    individualname: Dr. Esar Ahmad
+    role: creator
+    organization: ''
+    url: ''
+  Oluwaseun-A.-Ibrahim:
+    individualname: Oluwaseun A. Ibrahim
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Plaza_2018
+  dataseturi: https://doi.org/10.1016/B978-0-12-811687-6.00002-X
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Organic Matter in Dryland Ecosystems
+  abstract: '&lt;p&gt;Drylands are regions with low rainfall, high temperatures and
+    very high evapotranspiration, as well as limited plant biomass production. Covering
+    more than 45% of the Earth&rsquo;s land surface and being inhabited by more than
+    35% of the world population, drylands are of paramount importance for global sustainability.
+    Among the many factors that influence the ability of drylands to provide essential
+    ecosystem services, soil organic matter deserves special attention. This chapter
+    provides an overview of the quantity of soil organic matter in dryland ecosystems,
+    the main factors regulating its formation and conservation, its vulnerability
+    to ongoing global changes, and existing options to preserve or even enhance this
+    essential natural resource.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Organic Matter in Dryland Ecosystems
+    url: http://dx.doi.org/10.1016/B978-0-12-811687-6.00002-X
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Plaza-Cesar:
+    individualname: "Plaza, C\xE9sar"
+    role: creator
+  Gasco-Gabriel:
+    individualname: "Gasc\xF3, Gabriel"
+    role: creator
+  Mendez-Ana-M.:
+    individualname: "M\xE9ndez, Ana M."
+    role: creator
+  Zaccone-Claudio:
+    individualname: Zaccone, Claudio
+    role: creator
+  Maestre-Fernando-T.:
+    individualname: Maestre, Fernando T.
+    role: creator
+  Elsevier:
+    individualname: Elsevier
+    role: creator
+content_info: {}

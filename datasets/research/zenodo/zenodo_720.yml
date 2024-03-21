@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.801297
+  dataseturi: https://doi.org/10.5281/zenodo.801297
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of Liquefaction Potential Of Baghdad Soil During Earthquakes
+  abstract: This paper is concerned with the evaluation of Baghdad soil liquefaction
+    potential under earthquakes effect. Data of soil investigation reports such as
+    borehole total depth, water table level, total unit weight, standard penetration
+    number and fines percentage were used. Data for  630 boreholes represent 200 site
+    location points for many different types of projects spread all  over the city
+    have been chosen and analyzed using LiquefyPro software. Two user factors of safety
+    and two options for fines correction have been used. Six earthquake magnitudes
+    (M=4 to 6.5 with 0.5 interval) have been chosen to analyze the data. Only 121
+    points show susceptibility to liquefaction. The final output is shown in tables
+    and the points are shown on GIS maps. The results state that the effects of earthquake
+    induced liquefaction should be taken in consideration in future design.
+  keywords:
+    default:
+      keywords:
+        subject: Iraq, Earthquake, Seismicity, Quaternary sediments, Liquefaction,
+          Safety factor.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-05-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.801297
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.801296
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hussein-H.-Karim*-Safaa-J.-Wadaa:
+    individualname: Hussein H. Karim*, Safaa J. Wadaa
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4050279
+  dataseturi: https://doi.org/10.5281/zenodo.4050279
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: Isolation and Characterization of a novel Streptomycetes, Streptomyces banglaensis
+    from Bangladeshi Soil
+  abstract: "With an aim to isolate novel actinomycetes having antimicrobial and cytotoxic\
+    \ properties, five colonies of actinomycetes were isolated from the soils collected\
+    \ from the different locations of Rajshahi District, Bangladesh and designated\
+    \ as ANTS-1 to ANTS-5. Among them ANTS-1 and ANTS-5 were selected for taxonomic\
+    \ characterization and identification due to their antagonistic activity against\
+    \ a series of test organisms. The taxonomic positions of the actinomycetes, ANTS-1\
+    \ and ANTS-5 were clarified using a polyphasic approach. The strains were assigned\
+    \ to the genus<em> Streptomyces </em>based on their phenotypic and cultural characteristics.\
+    \ A partial sequence of 16S rDNA of the strain ANTS-1 was determined and compared\
+    \ with other <em>Streptomyces </em>species in the NCBI database. Phylogenetic\
+    \ analysis based on partial 16S rDNA sequence indicated that strain ANTS-1 was\
+    \ most closely related to <em>Streptomyces griseoplanus</em> NBRC 12779 (98.93%),\
+    \ <em>Kitasatospora arboriphila </em>HKI 0189 (97.35%) and<em> Streptomyces paucisporeus\
+    \ </em>1413 (97.35%). However, the phenotypic properties and the nature of secondary\
+    \ metabolite produced by the strain ANTS- 1 differed from closely related species\
+    \ of <em>Streptomyces</em>. Thus, the strain ANTS-1 is considered to represent\
+    \ a novel species of the genus <em>Streptomyces</em>, for which the name <em>Streptomyces\
+    \ banglaensis</em> (GenBank accession JF812169) sp. nov. is proposed. The strain\
+    \ ANTS-5 (GenBank accession JF812170) was identified as <em>Streptomyces </em><em>coelicolor</em>\
+    \ (100%) based on the BLAST search of its 16S rDNA sequence and DNA homology experiment\
+    \ of the forward sequence. The crude ethyl acetate extract obtained from the yeast-extract\
+    \ glucose agar (YEGA) medium showed strong activity against pathogenic bacteria\
+    \ and moderate activity against fungi. The minimum inhibitory concentration (MIC)\
+    \ and the minimum bactericidal concentration (MBC) of the extract against the\
+    \ test bacteria were in the range of 1-2 \xB5g/ml and 4-8 \xB5g/ml, respectively.\
+    \ The LC<sub>50</sub> value of the crude extract against brine-shrimp nauplii\
+    \ was only 0.4\xB5g/ml indicating its potent cytotoxic activity. Further, potato\
+    \ disc antitumor bioassay was carried out at concentrations 0.025mg and 0.0125mg\
+    \ and no tumor growth was visible in these concentrations and consequently ensuring\
+    \ its strong antitumor property. However, three active compounds AS-1, AS-2 and\
+    \ AS-3 were isolated from the fermentation broth of the strain ANTS-1. But less\
+    \ activity was observed from AS-1 and AS-2 than AS-3 which was later identified\
+    \ as Actinomycin D based on comparison of its <sup>1</sup>H-NMR and <sup>13</sup>C-NMR\
+    \ with a <sup>1</sup>H-NMR of authentic Actinomycin D. The <sup>1</sup>H-NMR spectrum\
+    \ of AS-1 and AS-2 could not be interpreted due to the existing impurities. This\
+    \ study indicates that new strains of <em>Streptomyces</em> are available in the\
+    \ soil of Bangladesh and extensive research in this field may discover novel <em>Streptomyces\
+    \ </em>species producing pharmaceutically important bioactive compounds."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-04-03'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4050279
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4050278
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sharmin-Tahmida:
+    individualname: Sharmin, Tahmida
+    role: creator
+    organization: ''
+    url: ''
+  Islam-Md.-Anwar-Ul:
+    individualname: Islam, Md. Anwar Ul
+    role: Supervisor
+    organization: Professor, Department of Pharmacy, University of Rajshahi, Rajshahi-6205,
+      Bangladesh.
+    url: ''
+content_info: {}

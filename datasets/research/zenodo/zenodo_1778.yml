@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KARRAKER_1920
+  dataseturi: https://doi.org/10.1097/00010694-192009000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: NOTES ON THE CONFERENCE ON ELEMENTARY SOIL TEACHING, HELD AT LEXINGTON, KENTUCKY,
+    JUNE, 1920
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: NOTES ON THE CONFERENCE ON ELEMENTARY SOIL TEACHING, HELD AT LEXINGTON,
+      KENTUCKY, JUNE, 1920
+    url: http://dx.doi.org/10.1097/00010694-192009000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Karraker-P.-E.:
+    individualname: Karraker, P. E.
+    role: creator
+  KARRAKER-P.-E.:
+    individualname: KARRAKER, P. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

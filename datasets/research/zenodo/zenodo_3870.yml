@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1293533
+  dataseturi: https://doi.org/10.5281/zenodo.1293533
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact Of Land Use Systems On Soil Macrofauna Diversity And Abundance In
+    Njala, Sierra Leone.
+  abstract: 'The study presents data on the diversity and abundance of soil macrofauna
+    in Njala, Sierra Leone. Four different land use systems, including secondary forests,
+    polyculture farms, oil palm plantations, and annual crop fields, were sampled
+    for soil macrofauna using three different sampling methods: soil monoliths, line-transect
+    protocols, and pit-fall traps. Earthworms, termites, and ants together made up
+    nearly 94% of all soil macrofauna collected. The diversity and distribution of
+    these three ecologically distinct groups of soil macrofauna were compared. Estimated
+    species richness (diversity) was highest in the oil palm plantation (p&lt;0.001)
+    as compared to the other three land uses. The number of individual macrofauna
+    collected (out of 1728 total) was highest in the secondary forest (215 ? 0.18,
+    p&lt;0.001) than in the oil palm plantation (163 ? 0.18), the polyculture farmland
+    (113 ? 0.86), and the annual maize plantation (86 ? 0.65). For the various macrofauna
+    species recorded, there were significantly more earthworms (Oligocheate) (0.6864
+    ? 0.21 individuals/m2, p&lt;0.001) than termites, especially Amitermes hastatus
+    (0.4032 ? 0.11 individuals/m2), Macrotermes mossambicus (0.3648 ? 0.04 individuals/m2),
+    Macrotermes natalensis (0.3552 ? 0.25 individuals/m2), and Microhodotermes viator
+    (0.3024 ? 0.29 individuals/m2). Besides secondary forests, monoculture plantations
+    would be better areas for conservation of not only of aboveground biodiversity,
+    but also of belowground biodiversity.'
+  keywords:
+    default:
+      keywords:
+        subject: Land use systems Soil macrofauna diversity abundance Njala Sierra
+          Leone
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-05-06'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1293533
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1293532
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prince-Tongor-Mabey:
+    individualname: Prince Tongor-Mabey
+    role: creator
+  Abu-James-Sundufu.:
+    individualname: Abu James Sundufu.
+    role: creator
+  Tongor-Mabey-Prince:
+    individualname: Tongor-Mabey, Prince
+    role: ''
+    organization: Ministry of Agriculture, Forestry and Food security, Sierra Leone.
+    url: ''
+  Sundufu.-Abu-James:
+    individualname: Sundufu., Abu James
+    role: ''
+    organization: Department of Environmental Health Sciences, School of Community
+      Health Sciences, Njala University, Sierra Leone.
+    url: ''
+content_info: {}

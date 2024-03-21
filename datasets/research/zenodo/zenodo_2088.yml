@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6775466
+  dataseturi: https://doi.org/10.5281/zenodo.6775466
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil organic Carbon Stock affected by different cropping system of Prayagraj
+    District, Eastern Uttar Pradesh, India
+  abstract: "<strong>Abstract</strong><strong>\u2014</strong> Cropping system is an\
+    \ effective agricultural practice which play crucial role in soil carbon stabilization,\
+    \ soil health and fertility as well as in sequestering atmospheric CO<sub>2 </sub>in\
+    \ soil for long period of time. With these considerations in mind, a research\
+    \ was conducted in the Prayagraj district of eastern Uttar Pradesh to evaluate\
+    \ how major agricultural systems affect soil carbon stock. The major cropping\
+    \ system includes Wheat-Wheat, Mustard- Mustard, Rice-Wheat and Rice-Mustard Soil\
+    \ samples were collected from eight tehsil of Prayagraj district randomly from\
+    \ depth 0-15 cm and 15-30 cm depth. The findings show that soil organic carbon\
+    \ store in rice-wheat cropping systems is higher than in other cropping systems."
+  keywords:
+    default:
+      keywords:
+        subject: carbon stock
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6775466
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6775465
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rashmi-Raghav:
+    individualname: Rashmi Raghav
+    role: creator
+  S.B.-Lal:
+    individualname: S.B. Lal
+    role: creator
+    organization: ''
+    url: ''
+  Ram-Bharose:
+    individualname: Ram Bharose
+    role: creator
+  Raghav-Rashmi:
+    individualname: Raghav, Rashmi
+    role: ''
+    organization: ''
+    url: ''
+  Bharose-Ram:
+    individualname: Bharose, Ram
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

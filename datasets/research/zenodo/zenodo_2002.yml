@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Koliushko_2020
+  dataseturi: https://doi.org/10.20998/2074-272X.2020.1.08
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: DETERMINATION OF THE SOIL SOUNDING DEPTH FOR THE EARTHING RESISTANCE CALCULATION
+    OF SUBSTATIONS 35 KV
+  abstract: '&lt;p&gt;&lt;strong&gt;&lt;em&gt;Purpose.&nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Determination
+    of the minimum required sounding depth for calculation of the earthing resistance
+    for substations with a voltage class of 35 kV.&lt;strong&gt;&nbsp;Methodology.&nbsp;&lt;/strong&gt;For
+    each ratio of electrical resistivity values of soil layers, earthing resistance
+    was calculated with changing of the layers separation depth from 0.4 m to h&lt;/em&gt;&lt;sub&gt;max&lt;/sub&gt;&lt;em&gt;,
+    where h&lt;/em&gt;&lt;sub&gt;max&lt;/sub&gt;&lt;em&gt;&nbsp;is the layers separation
+    depth in a two-layer soil at which the earthing resistance value becomes the same
+    as in a uniform soil.&nbsp;&lt;strong&gt;Results.&lt;/strong&gt;&nbsp;In the experiments
+    carried out, a family of curves was obtained that describes the effect of separation
+    depth of soil layers for various combinations of soil electrical resistivities
+    and geometric dimensions of the earthing arrangement. The accumulated statistical
+    data for substations with a voltage class of 35 kV made it possible to determine
+    the required sounding depth depending on the maximum size of the earthing arrangement
+    and the probability of the relative resistivity falling into the corresponding
+    range of values. An algorithm is proposed for determining the required investigation
+    depth by Wenner method as part of the electromagnetic diagnostics of the earthing
+    arrangement of existing substations with a voltage class of 35 kV.&nbsp;&lt;strong&gt;Originality.&lt;/strong&gt;&nbsp;For
+    the first time, a probabilistic relationship was established between the ratio
+    of the electrical resistivity of soil layers, the size of the earthing arrangement,
+    and the necessary depth investigation of the geological medium. As a result it
+    has been proven that there are substations for which the required sounding depth
+    does not exceed the maximum size of the earthing arrangement.&nbsp;&lt;strong&gt;Practical
+    value.&lt;/strong&gt;&nbsp;The use of the algorithm developed in this work allows
+    increasing the accuracy of the earthing resistance calculation of electrical installations
+    with voltages above 1 kV operating in a network with isolated neutral.&nbsp;&lt;/em&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - earthing arrangement
+      - earthing resistance
+      - the soil sounding
+      - Wenner installation
+      - electromagnetic diagnostics
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: DETERMINATION OF THE SOIL SOUNDING DEPTH FOR THE EARTHING RESISTANCE CALCULATION
+      OF SUBSTATIONS 35 KV
+    url: http://dx.doi.org/10.20998/2074-272X.2020.1.08
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-G.-Koliushko:
+    individualname: D. G. Koliushko
+    role: creator
+  S.-S.-Rudenko:
+    individualname: S. S. Rudenko
+    role: creator
+  L.-V.-Asmolova:
+    individualname: L. V. Asmolova
+    role: creator
+  T.-I.-Tkachova:
+    individualname: T. I. Tkachova
+    role: creator
+  Koliushko-D.-G.:
+    individualname: Koliushko, D. G.
+    role: creator
+  Rudenko-S.-S.:
+    individualname: Rudenko, S. S.
+    role: creator
+  Asmolova-L.-V.:
+    individualname: Asmolova, L. V.
+    role: creator
+  Tkachova-T.-I.:
+    individualname: Tkachova, T. I.
+    role: creator
+  National-Technical-University-Kharkiv-Polytechnic-Institute:
+    individualname: National Technical University Kharkiv Polytechnic Institute
+    role: creator
+content_info: {}

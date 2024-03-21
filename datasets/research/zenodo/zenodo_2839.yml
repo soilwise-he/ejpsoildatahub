@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1133241
+  dataseturi: https://doi.org/10.5281/zenodo.1133241
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Olive Mill Waste Water Spreading On Soil Microbial Activity.
+    Short Term Effect On Carbon And Nitrogen Mineralization Process
+  abstract: 'Mineralization is the core of the symbiotic relation between soil - microorganism
+    and plant. It is the generator of mineral elements essential to the plants nutrition.
+    Microorganisms are the main biotic actors in this process. The product of the
+    mineralization depends, on the one hand, on the biomass of the soil and on the
+    other hand on the quantity, nature and characteristics of the organic matter.
+
+
+    The monitoring of the mineralization is therefore essential after any input of
+    organic matter with a view to its valorisation which effects are unpredictable.
+
+
+    It is in this context that we propose to study the impact of the three successive
+    annual intakes of OMWW on the process of mineralization of organic matter and
+    the soil content of carbon and mineral nitrogen.'
+  keywords:
+    default:
+      keywords:
+        subject: mineral nitrogen
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-12-26'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1133241
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1133240
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dakhli-Raja:
+    individualname: Dakhli Raja
+    role: creator
+    organization: ''
+    url: ''
+  Khatteli-Houcine:
+    individualname: Khatteli Houcine
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

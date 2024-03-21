@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6823568
+  dataseturi: https://doi.org/10.5281/zenodo.6823568
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil biological health: a major factor in increasing the productivity of
+    the rice-wheat cropping system'
+  abstract: 'This article ''Soil biological health: a major factor in increasing the
+    productivity of the rice-wheat cropping system'' appeared in the International
+    Rice Research Notes series, created by the International Rice Research Institute
+    (IRRI) to expedite communication among scientists concerned with the development
+    of improved technology for rice and rice-based systems. The series is a mechanism
+    to help scientists keep each other informed of current rice research findings.
+    The concise scientific notes are meant to encourage rice scientists to communicate
+    with one another to obtain details on the research reported.'
+  keywords:
+    default:
+      keywords:
+        subject: Crop yield
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2005-06-01'
+    publication: '2005'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6823568
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6823567
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Banu-S.-P.:
+    individualname: Banu, S. P.
+    role: creator
+    organization: ''
+    url: ''
+  Shaheed-M.-A.:
+    individualname: Shaheed, M. A.
+    role: creator
+    organization: ''
+    url: ''
+  Siddique-A.-A.:
+    individualname: Siddique, A. A.
+    role: creator
+    organization: ''
+    url: ''
+  Nahar-M.-A.:
+    individualname: Nahar, M. A.
+    role: creator
+    organization: ''
+    url: ''
+  Ahmed-H.-U.:
+    individualname: Ahmed, H. U.
+    role: creator
+    organization: ''
+    url: ''
+  Devare-M.-H.:
+    individualname: Devare, M. H.
+    role: creator
+    organization: ''
+    url: ''
+  Duxbury-J.-M.:
+    individualname: Duxbury, J. M.
+    role: creator
+    organization: ''
+    url: ''
+  Lauren-J.-G.:
+    individualname: Lauren, J. G.
+    role: creator
+    organization: ''
+    url: ''
+  Abawi-G.-S.:
+    individualname: Abawi, G. S.
+    role: creator
+    organization: ''
+    url: ''
+  Meisner-C.-A.:
+    individualname: Meisner, C. A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

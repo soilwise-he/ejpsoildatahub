@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1330945
+  dataseturi: https://doi.org/10.5281/zenodo.1330945
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction Method Of Extenics Theory For Assessment Of Bearing Capacity Of
+    Lateritic Soil Foundation
+  abstract: Base on extenics theory, the statistical physical and mechanical properties
+    from laboratory experiments are used to evaluate the bearing capacity of lateritic
+    soil foundation. The properties include water content, bulk density, liquid limit,
+    cohesion, and so on. The matter-element and the dependent function are defined.
+    Then the synthesis dependent degree and the final grade index are calculated.
+    The results show that predicted outcomes can be matched with the in-situ test
+    data, and a evaluate grade associate with bearing capacity can be deduced. The
+    results provide guidance to assess and determine the bearing capacity grade of
+    lateritic soil foundation.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-03-28'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1330945
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1330944
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wei-Bai:
+    individualname: Wei Bai
+    role: creator
+  Ling-Wei-Kong:
+    individualname: Ling-Wei Kong
+    role: creator
+  Ai-Guo-Guo:
+    individualname: Ai-Guo Guo
+    role: creator
+  Bai-Wei:
+    individualname: Bai, Wei
+    role: ''
+    organization: ''
+    url: ''
+  Kong-Ling-Wei:
+    individualname: Kong, Ling-Wei
+    role: ''
+    organization: ''
+    url: ''
+  Guo-Ai-Guo:
+    individualname: Guo, Ai-Guo
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

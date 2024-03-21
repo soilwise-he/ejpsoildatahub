@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2673001
+  dataseturi: https://doi.org/10.5281/zenodo.2673001
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECT OF SOIL STRUCTURE INTERACTION ON RESPONSE REDUCTION FACTOR FOR PIER
+    OF SKEW BRIDGE
+  abstract: "Bridges are inevitable structures which plays an important role in the\
+    \ development of the country. The bridge design should be strong, economical and\
+    \ safe during earthquake. In the present study, pier of skew bridge is analyzed\
+    \ using FEM based software MIDAS Civil. For the analysis of the pier, displacement\
+    \ controlled nonlinear static pushover analysis method is used. The primary aim\
+    \ of the study is to compare Response Reduction Factor with and without consideration\
+    \ of soil structure interaction on pile foundation as per Applied Technology Council\
+    \ (ATC \u2013 19). After comparison, it is observed that base shear has been decreased\
+    \ up to 20% and time period increases up to 14% while considering soil structure\
+    \ interaction."
+  keywords:
+    default:
+      keywords:
+        subject: Skew Bridge Pier, Response Reduction Factor, Push Over Analysis,
+          Soil Structure Interaction.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-05-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2673001
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2673000
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dhrupa-Suthar*1-V.-R.-Panchal2--D.-K.-Parikh3:
+    individualname: Dhrupa Suthar*1, V. R. Panchal2 & D. K. Parikh3
+    role: creator
+    organization: '*1Post Graduate student (Structural Engineering), M. S. Patel Department
+      of Civil Engineering, Chandubhai S. Patel Institute of Technology, Charotar
+      University of Science and Technology, Changa, Gujarat, India 2Professor and
+      Head, M. S. Patel Department of Civil Engineering, Chandubhai S. Patel Institute
+      of Technology, Charotar University of Science and Technology, Changa, Gujarat,
+      India 3Project Head, Bridge Department, Multi Media Consultant Pvt. Ltd. Ahmedabad,
+      India'
+    url: ''
+content_info: {}

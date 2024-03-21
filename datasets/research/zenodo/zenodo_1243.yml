@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2572613
+  dataseturi: https://doi.org/10.5281/zenodo.2572613
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: ISOPLETHS OF SUBGRADE SOIL PROPERTIES FOR JIGAWA AND KANO STATES OF NIGERIA
+  abstract: 'An engineering classification map and isopleths are produced for the
+    subgrade soils of Jigawa and Kano
+
+
+    States of Nigeria. Usage is made of historical and existing results of soil and
+    materials investigations in
+
+
+    the area, with a view to harnessing these resources and reducing the efforts,
+    time and money to be
+
+
+    expended in carrying out preliminary investigations in connection with future
+    planning, design, location
+
+
+    and construction of road projects in the area.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-02-19'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2572613
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2572612
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-A.-Okunade:
+    individualname: E. A. Okunade
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

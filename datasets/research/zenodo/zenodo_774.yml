@@ -1,0 +1,114 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2649273
+  dataseturi: https://doi.org/10.5281/zenodo.2649273
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Turfgrass Establishment on Soil Microbiota Using Illumina Sequencing
+  abstract: Soil bacteria and fungi play key roles in ecosystem functioning and the
+    maintenance of soil fertility.Many studies have been carried out to assess the
+    effects of plant on microorganism communities indifferent environments. However,
+    little is known about whether turfgrass establishment affects soil microbial community.
+    Therefore, in the present study, the microbial diversity in turfgrass soil and
+    vacant land soil were studied by high-throughput sequencing technique, and the
+    corresponding analysis of microbial composition were conducted. The results showed
+    that the bacteria and fungi in the soil of turfgrass are richer than that of vacant
+    land. The difference of soil microbial community atthe genera level is more significant
+    than that at phylum level. Among bacteria, a total of one dominantgenus and 91
+    non-dominant genera were shared by the two samples. Five dominant genera and 66non-dominant
+    genera were present only in sample CP4 (turfgrass soil), and 13 dominant genera
+    and17 non-dominant genera only in sample CP0 (vacant land).Among fungi, a total
+    of 5 dominant genera and 71 non-dominant genera were shared by the two samples,
+    8 dominant genera and 23 non-dominant genera were present only in sample CP4,
+    and 6 dominant genera and 20 non-dominant genera only in sample CP0. The results
+    also indicated that both dominant and non-dominant microbial populations differed
+    greatly in the two samples, as did the overall soil microbial community structure.This
+    study provides previously unknown information regarding the impact of turfgrass
+    establishment on soil microbial communities and also lays a foundation for further
+    investigations into microbiota in turfgrass soil.
+  keywords:
+    default:
+      keywords:
+        subject: community
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-04-23'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2649273
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2649272
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhang-Weibing:
+    individualname: Zhang, Weibing
+    role: creator
+    organization: College of Pratacultural Science/Ministry of Education, Key Laboratory
+      of Grassland Ecosystem/Pratacultural Engineer-ing,  Laboratory  of  Gansu  Province/Sino-U.S.  Center  for  Grazing  Land  Ecosystem  Sustainability,  Gansu
+      Agricultural University; College of Food Science and Technology Engineering,
+      Gansu Agricultural University
+    url: ''
+  Zhang-Zhongmin:
+    individualname: Zhang, Zhongmin
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Wang-Yue:
+    individualname: Wang, Yue
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Ai-Duiyuan:
+    individualname: Ai, Duiyuan
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Wen-Pengchen:
+    individualname: Wen, Pengchen
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Zhu-Yan:
+    individualname: Zhu, Yan
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Cao-Lei:
+    individualname: Cao, Lei
+    role: creator
+    organization: College of Food Science and Technology Engineering, Gansu Agricultural
+      University
+    url: ''
+  Yao-Tuo:
+    individualname: Yao, Tuo
+    role: creator
+    organization: College of Pratacultural Science/Ministry of Education, Key Laboratory
+      of Grassland Ecosystem/Pratacultural Engineer-ing,  Laboratory  of  Gansu  Province/Sino-U.S.  Center  for  Grazing  Land  Ecosystem  Sustainability,  Gansu
+      Agricultural University
+    url: ''
+content_info: {}

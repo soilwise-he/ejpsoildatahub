@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3792528
+  dataseturi: https://doi.org/10.5281/zenodo.3792528
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Runway Pavement Design of an International Airport using FAARFIELD Software
+    and Stabilizing Subgrade Soil
+  abstract: The growth of air transport is one of the remarkable developments and
+    it is increasing day by day. Airport Authority of India (AAI) realized that its
+    facilities at Sardar Patel International Airport at Hansol, Ahmedabad working
+    beyond its capacity. Due to this need, Greenfield airport at Dholera Special Investment
+    Region (SIR), Gujarat was proposed. This Research paper aims to design the airfield
+    pavement for various alternatives using FAARFIELD software. In general, the soil
+    type of Dholera region is fine grained and having CBR value less than 5. The need
+    for soil subgrade improvement is prior to commencement for construction. So, the
+    soil needs stabilization process to increase its strength. These processes include
+    cement, lime, terrasil as stabilizing agent. Most effective combination is 2%
+    cement and 0.06% terrasil which give optimum strength. Final design carried out
+    using FAARFIELD software for (i) Flexible (ii) Rigid pavement. The thickness comparison
+    for both with and without stabilization (2% cement and 0.06% Terrasil) was done.
+    Cost comparison between with and without stabilization process is also given.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-06'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3792528
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3792527
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ayushi-P.-Shah:
+    individualname: Ayushi P. Shah
+    role: creator
+    organization: M.Tech Student, Department of Civil Engineering, Birla Vishvakarma
+      Mahavidyalaya Engineering College, Vallabha Vidhyanagar, Gujarat, India
+    url: ''
+  L.-B.-Zala:
+    individualname: L. B. Zala
+    role: creator
+    organization: Head, Department of Civil Engineering, Birla Vishvakarma Mahavidyalaya
+      Engineering College, Vallabha Vidhyanagar, Gujarat, India
+    url: ''
+  Amit.-A.-Amin:
+    individualname: Amit. A. Amin
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Birla Vishvakarma
+      Mahavidyalaya Engineering College, Vallabha Vidhyanagar, Gujarat, India
+    url: ''
+content_info: {}

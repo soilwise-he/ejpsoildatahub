@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dang_2022
+  dataseturi: https://doi.org/10.3897/oneeco.7.e76410
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Guidelines and a supporting toolbox for parameterising key soil hydraulic
+    properties in hydrological studies and broader integrated modelling
+  abstract: '&lt;p&gt;Information on soil hydraulic properties (e.g. soil moisture
+    pressure relationships and hydraulic conductivity) is valuable for a wide range
+    of disciplines including hydrology, ecology, environmental management and agriculture.
+    However, this information is often not readily available as direct measurements
+    are costly and time-consuming. Furthermore, as more complex representations of
+    soils are being built into environmental models, users and developers often require
+    sound hydraulic property information, while having limited access to specialist
+    knowledge. Although indirect methods have been developed to obtain soil hydraulic
+    properties from easily measurable or readily available soil properties via pedo-transfer
+    functions (PTFs), few articles provide guidance for obtaining soil hydraulic properties
+    over a wide range of geoclimatic and regional data availability contexts. The
+    aim of this study is, therefore, to develop guidelines and an associated spatially
+    referenced toolbox, NB_PTFs, to speed the process of acquiring sensible soil hydraulic
+    properties for different geoclimatic and data-rich/sparse regions. The guide compiles
+    available information about soil hydraulic properties, as well as a large number
+    (151) of PTFs, not collated in any other guidance to date. NB_PTFs is an open-source
+    ArcGIS toolbox which allows users to quickly get values, graphs and spatial distributions
+    of soil hydraulic properties. The soil hydraulic properties, obtained using the
+    guide and the toolbox, can be used as inputs for various models amongst other
+    purposes. To demonstrate the use of the guidelines and the toolbox in different
+    geoclimatic and data-availability contexts, the paper presents two case studies:
+    the Vietnamese Mekong Delta and New Zealand Hurunui catchment. The Vietnamese
+    Mekong Delta shows the use of these guidelines in a tropical, flat location with
+    limited information on soil physical, chemical and hydraulic properties. The Hurunui
+    catchment represents a case study for a semi-arid and hilly area in an area with
+    detailed soil information.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Pedo-transfer functions
+      - soil moisture content
+      - soil water content
+      - soil hydraulic conductivity
+      - data sparse
+      - hydrology
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Guidelines and a supporting toolbox for parameterising key soil hydraulic
+      properties in hydrological studies and broader integrated modelling
+    url: http://dx.doi.org/10.3897/oneeco.7.e76410
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Dang-Nguyet:
+    individualname: Dang, Nguyet
+    role: creator
+  Jackson-Bethanna:
+    individualname: Jackson, Bethanna
+    role: creator
+  Tomscha-Stephanie:
+    individualname: Tomscha, Stephanie
+    role: creator
+  Lilburne-Linda:
+    individualname: Lilburne, Linda
+    role: creator
+  Burkhard-Kremena:
+    individualname: Burkhard, Kremena
+    role: creator
+  Tran-Dung-Duc:
+    individualname: Tran, Dung Duc
+    role: creator
+  Phi-Long:
+    individualname: Phi, Long
+    role: creator
+  Benavidez-Rubianca:
+    individualname: Benavidez, Rubianca
+    role: creator
+content_info: {}

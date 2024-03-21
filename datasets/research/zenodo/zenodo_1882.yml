@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7681869
+  dataseturi: https://doi.org/10.5281/zenodo.7681869
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Intelligent IoT based soil monitoring and irrigation system using fuzzy logic
+    control and Nodemcuesp8266 Microcontroller
+  abstract: Internet of things (IoT), a well-known branch of computer science that
+    has introduced intelligent farming to green agriculture. IoT depicts a self-configuring
+    chain of components. The efficient implementation helps agriculture, a self- discipline
+    as nicely as thriving for quality, increased yield and reduced human work. Development
+    of irrigated agriculture has become one of the most reliable strategies of increasing
+    world food supply in order to meet the ever-increasing demand for food by the
+    increasingly complex and expanding global population of Homo sapiens. In areas
+    of little rainfall, full-scale irrigation is practices, but some of these irrigation
+    methods are not very efficient thus causing farmers to lose about 50% of water
+    supplied. The study is aim at evaluating environmental parameters such as soil
+    moisture, temperature and humidity while using the acquired data to develop an
+    effective intelligent IoT based automated soil monitoring and irrigation system.
+    These data are stored to the IoT Thing-Speak platform in order to analyze past
+    conditions of plants and to predict their performance. Using the moisture sensor
+    and the NodeMCUESP8266 microprocessor, this procedure will continue until the
+    ideal moisture level is reached. Environmental conditions are monitored using
+    temperature and humidity sensors. An intelligent IoT based automated soil monitoring
+    and irrigation system get real-time data, increase the crop performance and reduce
+    the water that is lost in the irrigation process, also reduce the time spent on
+    the field.
+  keywords:
+    default:
+      keywords:
+        subject: IoT; Thing-speak; NodeMCU; DHT 11; Soil Moisture sensor; Temperature
+          and Humidity sensor
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7681869
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7681868
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Justice-Chikezie-Anunuso:
+    individualname: Justice Chikezie Anunuso
+    role: creator
+  Fred-O.-Agonga:
+    individualname: Fred O. Agonga
+    role: creator
+  Babawuya-Alkali:
+    individualname: Babawuya Alkali
+    role: creator
+    organization: Department of Mechatronics Engineering, Federal University of Technology,
+      Minna, Nigeria.
+    url: ''
+  Akeem-O.-Anifowoshe:
+    individualname: Akeem O. Anifowoshe
+    role: creator
+  Callistus-T.-Ikwouazom:
+    individualname: Callistus T. Ikwouazom
+    role: creator
+  Jatau-E.-Ayuba:
+    individualname: Jatau E. Ayuba
+    role: creator
+    organization: Department of Mechanical Engineering, Niger State Polytechnic, Zungeru,
+      Niger State, Nigeria.
+    url: ''
+  Anunuso-Justice-Chikezie:
+    individualname: Anunuso, Justice Chikezie
+    role: ''
+    organization: Department of Mechatronics Engineering, Federal University of Technology,
+      Minna, Nigeria.
+    url: ''
+  Agonga-Fred-O.:
+    individualname: Agonga, Fred O.
+    role: ''
+    organization: Department of Mechanical Engineering, Niger Delta University, Wilberforce
+      Island, Bayelsa State, Nigeria.
+    url: ''
+  Anifowoshe-Akeem-O.:
+    individualname: Anifowoshe, Akeem O.
+    role: ''
+    organization: Nigerian Stored Product Research Institute, Lagos Zonal Office,
+      Nigeria.
+    url: ''
+  Ikwouazom-Callistus-T.:
+    individualname: Ikwouazom, Callistus T.
+    role: ''
+    organization: Department of Information and Media Technology, Federal University
+      of Technology, Minna, Nigeria.
+    url: ''
+content_info: {}

@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7614837
+  dataseturi: https://doi.org/10.5281/zenodo.7614837
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Germination and seedling growth of Moringa oleifera, Moringa stenopetala
+    and Phaseolus vulgaris grown in polluted soil amended with coal fly ash | IJAAR
+    2022
+  abstract: 'A germination test was carried out to identify plants that can germinate
+    and survive in polluted soil (with and without ash) collected 2.5km east and 2.5km
+    west, 20km west and 55km west (control) of the BCL Cu/Ni mine smelter in Selebi-Phikwe,
+    Botswana. The experiment was carried out using <em>Phaseolus vulgaris</em>, <em>Moringa
+    oleifera</em> and <em>Moringa stenopetala</em>. Soil acidity and heavy metal stress
+    reduced germination percentage, coefficient rate of germination, root and shoot
+    growth and dry weight, root: shoot, vigor index, and tolerance index of all species<em>.</em>
+    Percentage reduction followed the order 2.5km west &lt; 20km west &lt; 2.5km east
+    &lt; 55km west. <em>Phaseolus vulgaris</em>, <em>Moringa oleifera</em>, and <em>Moringa
+    stenopetala</em> germinated in all soils. Their ability to germinate in polluted
+    soil indicates tolerance to heavy metal and soil acidity stress and so they have
+    the potential for use in phytoremediation of polluted soils around the mine. <em>Phaseolus
+    vulgaris</em> had the highest overall germination performance but there was no
+    significant difference between the <em>Moringa</em>s. Application of coal fly
+    ash increased all the germination parameters and so coal fly ash has the potential
+    for use in amending polluted soil around the mine for phytoremediation purposes.
+    Published by the <strong>International Journal of Agronomy and Agricultural Research
+    | IJAAR</strong>'
+  keywords:
+    default:
+      keywords:
+        subject: Moringa stenopetala
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-03-12'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7614837
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.7614836
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raviro-Vurayai:
+    individualname: Raviro Vurayai
+    role: creator
+    organization: Department of Biological Sciences, University of Botswana, Gaborone,
+      Botswana
+    url: ''
+  Baleseng-Moseki:
+    individualname: Baleseng Moseki
+    role: creator
+    organization: Department of Biological Sciences, University of Botswana, Gaborone,
+      Botswana
+    url: ''
+  Bonang-Nkoane:
+    individualname: Bonang Nkoane
+    role: creator
+    organization: Department of Chemistry, University of Botswana, Gaborone, Botswana
+    url: ''
+  Padmaja-Chaturvedi:
+    individualname: Padmaja Chaturvedi
+    role: creator
+    organization: Department of Biological Sciences, University of Botswana, Gaborone,
+      Botswana
+    url: ''
+content_info: {}

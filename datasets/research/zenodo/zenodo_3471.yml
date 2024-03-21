@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: S_2020
+  dataseturi: https://doi.org/10.35940/ijeat.C6227.029320
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Implementation of Farm Weeding and Soil Moisturization Techniques using Agribot
+  abstract: '&lt;p&gt;Agriculture plays a vital role in Indian economy sector as it
+    contributes about 17% to the total GDP. This agribot project aims at reducing
+    the work of farmers in addition to increasing the speed and accuracy of the work.
+    It fulfills the fundamental functions of agriculture such as seed sowing, fertilizer
+    mist and arm gripper. The above feature is carried out using Arduino mega 2560,
+    soil moisturization sensor, temperature sensor (LM35 sensor), L293D driver, DC
+    servo motor, ESP8266 module, relay, power supply, WIFI camera and mobile app.
+    Our project work is implemented using IOT methodology. This system is efficient
+    and operator friendly. This is particularly important for workers in the area
+    where health and jobs are potentially harmful.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Agribot
+      - Android App
+      - IoT
+      - Sowing
+      - Spraying
+      - Weeding.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Implementation of Farm Weeding and Soil Moisturization Techniques using
+      Agribot
+    url: http://dx.doi.org/10.35940/ijeat.C6227.029320
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shalini-S:
+    individualname: Shalini S
+    role: creator
+  Kalaiselvi-S:
+    individualname: Kalaiselvi S
+    role: creator
+  Logeshwari-M:
+    individualname: Logeshwari M
+    role: creator
+  Pavithra-P:
+    individualname: Pavithra P
+    role: creator
+  S-Shalini:
+    individualname: S, Shalini
+    role: creator
+  S-Kalaiselvi:
+    individualname: S, Kalaiselvi
+    role: creator
+  M-Logeshwari:
+    individualname: M, Logeshwari
+    role: creator
+  P-Pavithra:
+    individualname: P, Pavithra
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

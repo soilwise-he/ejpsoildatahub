@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Latorre_2021
+  dataseturi: https://doi.org/10.1016/j.jhydrol.2021.126551
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Smartphone-based tension disc infiltrometer for soil hydraulic characterisation
+  abstract: '&lt;p&gt;The tension disc infiltrometer has become a widespread method
+    to measure soil hydraulic properties under unsaturated conditions. Although several
+    automated devices have been developed, most designs include an elongated water
+    reservoir and a pressure transducer with electronic components to register the
+    water level, increasing its cost and limiting its application. The objective of
+    this work is to present a new tension disc infiltrometer with a compact design
+    of 10&nbsp;cm diameter and height, where the water level is monitored by a smartphone
+    camera. The infiltration curve is determined from the automated analysis of the
+    images recorded by the smartphone without additional electronic components. The
+    device was first validated in the laboratory by comparing visual measurements
+    (V), the camera imagery (Ca) and a pressure transducer (PT). Next, it was tested
+    on field infiltration experiments. Robust fits (R&lt;sup&gt;2&lt;/sup&gt; =&nbsp;0.99)
+    were found between the water level measured with Ca in the laboratory and those
+    obtained with V and PT procedures. The Ca method is accurate, robust and independent
+    of the relative camera position. Good fits were also observed between Ca water
+    level and those obtained with PT in the field experiments. Similar hydraulic conductivity
+    and sorptivity values were obtained with both sensors using the numerical solution
+    of the Haverkamp (NSH) equation. The compact infiltrometer, in conjunction with
+    the smartphone camera, is an accurate, accessible, portable and easy-to-use field-based
+    device for soil hydraulic characterisation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Smartphone-based tension disc infiltrometer for soil hydraulic characterisation
+    url: http://dx.doi.org/10.1016/j.jhydrol.2021.126551
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Latorre-Borja:
+    individualname: Latorre, Borja
+    role: creator
+  Moret-Fernandez-David:
+    individualname: "Moret-Fern\xE1ndez, David"
+    role: creator
+  Michael-N.-Lyons:
+    individualname: Michael N., Lyons
+    role: creator
+  Palacio-Sara:
+    individualname: Palacio, Sara
+    role: creator
+  Latorre-B.:
+    individualname: Latorre, B.
+    role: creator
+  Moret-Ferndegndez-D.:
+    individualname: "Moret-Fern\u221A\xB0ndez, D."
+    role: creator
+  Lyons-M.N.:
+    individualname: Lyons, M.N.
+    role: creator
+  Palacio-S.:
+    individualname: Palacio, S.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

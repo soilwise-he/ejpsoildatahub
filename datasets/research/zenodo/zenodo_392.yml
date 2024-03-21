@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Thomas_1915
+  dataseturi: https://doi.org/10.1021/ie50084a012
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The Lime: Magnesia Ratio in Soil Amendments.'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The Lime: Magnesia Ratio in Soil Amendments.'
+    url: http://dx.doi.org/10.1021/ie50084a012
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thomas-Walter:
+    individualname: Thomas, Walter
+    role: creator
+  Frear-William:
+    individualname: Frear, William
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

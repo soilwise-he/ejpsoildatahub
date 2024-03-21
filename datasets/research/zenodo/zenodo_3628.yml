@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2663094
+  dataseturi: https://doi.org/10.5281/zenodo.2663094
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Heavy Metals and Polycyclic Aromatic Hydrocarbons in Roadside Soil Samples:
+    A Review'
+  abstract: Diverse contaminants released into the environment through progress of
+    urbanization and industrialization adversely affect human health. Among various
+    sources of contaminants, especially, in big cities, automobiles play a significant
+    role in aggravating the pollution. Various pollutants viz., heavy metals (Pb,
+    Mn, Ni, Zn, As, Hg, Cd) and Polyaromatic hydrocarbons (Benzo-a-pyrene, fluoranthene,
+    pyrene, benzo-b-anthracene, benzo-b-fluoranthene, acenaphthylene, fluorine, phenantherene,
+    anthracene, chrysene, benzo-k-fluoranthene, benzo-e-pyrene, indenol-1,2,3-cd-pyrene,
+    dibenzo-a,h-anthracene, benzo-ghi-perylene) are released by vehicles. Further,
+    these pollutants are expected to cause severe mutagenic, genotoxic and carcinogenic
+    effects. Considering this, many authors monitored the levels of pollution in roadside
+    soil, water and plants. The present review focuses upon the analysis and effects
+    of heavy metals and polycyclic aromatic hydrocarbons from the roadside samples.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-11-23'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2663094
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2663093
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rajwant-Kaur:
+    individualname: Rajwant Kaur
+    role: creator
+  Jatinder-Kaur-Katnoria:
+    individualname: Jatinder Kaur Katnoria
+    role: creator
+  Kaur-Rajwant:
+    individualname: Kaur, Rajwant
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

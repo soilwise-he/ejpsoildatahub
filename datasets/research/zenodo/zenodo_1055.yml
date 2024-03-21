@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.29583
+  dataseturi: https://doi.org/10.5281/zenodo.29583
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Proposal For Sequential Approach For Arsenic Removal From Top-Soil
+  abstract: A brief idea
+  keywords:
+    default:
+      keywords:
+        subject: detritus
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-08-26'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.29583
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khurana-Sukant:
+    individualname: Khurana, Sukant
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-6665-6892
+  Jagmag-Shail-Adrian:
+    individualname: Jagmag, Shail Adrian
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-8161-2070
+  Tripathi-Naveen:
+    individualname: Tripathi, Naveen
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0001-7754-9905
+  Sikdar-Arindam:
+    individualname: Sikdar, Arindam
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0003-3856-2562
+content_info: {}

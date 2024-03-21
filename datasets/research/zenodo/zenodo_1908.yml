@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7141782
+  dataseturi: https://doi.org/10.5281/zenodo.7141782
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Fineness and Time of Pyrites Application on Rice Yield and Alkali
+    Soil Properties
+  abstract: This article 'Effect of Fineness and Time of Pyrites Application on Rice
+    Yield and Alkali Soil Properties' appeared in the International Rice Research
+    Newsletter series, created by the International Rice Research Institute (IRRI).
+    The primary objective of this publication was to expedite communication among
+    scientists concerned with the development of improved technology for rice and
+    for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Alkaline Soils
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1987-10-01'
+    publication: '1987'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7141782
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7141781
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Singh-R.-R.:
+    individualname: Singh, R. R.
+    role: creator
+    organization: ''
+    url: ''
+  Chauhan-R.-P.:
+    individualname: Chauhan, R. P.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-M.-V.:
+    individualname: Singh, M. V.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

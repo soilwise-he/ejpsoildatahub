@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1091966
+  dataseturi: https://doi.org/10.5281/zenodo.1091966
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Examination Of The Water And Nutrient Utilization Of Maize Hybrids On Chernozem
+    Soil
+  abstract: "The research was set up on chernozem soil at the L\xE1t\xF3k\xE9p AGTC\
+    \ M\xC9K research area of the University of Debrecen in Hungary. We examined the\
+    \ yield, the yield production per 1kg NPK fertilizer and the water and nutrient\
+    \ utilization of hybrid PR37N01 and PR37M81 in 2013. We found that PR37N01 produced\
+    \ the most yield at the level of N<sub>120</sub>+P (17,476kg ha<sup>-1</sup>)\
+    \ while PR37M81 reached the highest yield at level N<sub>150</sub>+PK (16,754kg\
+    \ ha<sup>-1</sup>). Studies related to yield production per 1kg NPK indicated\
+    \ that the best results were achieved at level N<sub>30</sub>+PK compared to the\
+    \ control treatment. Yield production per 1kg NPK was17.6kg kg<sup>-1</sup> by\
+    \ P37N01 and 44.2kg kg<sup>-1</sup> by PR37M81. By comparing the water utilization\
+    \ of hybrids we found that the worst water utilization results were reached in\
+    \ the control treatment (PR37N01: 26.2kg mm<sup>-1</sup>, PR37M81: 19.5kg mm<sup>-1</sup>).\
+    \ The best water utilization values were produced at level N<sub>120</sub>+PK\
+    \ in the case of hybrid PR37N01 (32.1kg mm<sup>-1</sup>) and at N<sub>150</sub>+PK\
+    \ in the case of hybrid PR37M81 (30.8kg mm<sup>-1</sup>). We established the values\
+    \ of the nutrient reaction and the fertilizer optimum of hybrids. We discovered\
+    \ a strong relationship between the amount of fertilizer applied and the yield\
+    \ produced (r<sup>2</sup>= 0.8228\u20130.9515). The best nutrient response was\
+    \ induced by hybrid PR37N01, while the weakest results were reached by hybrid\
+    \ PR37M81."
+  keywords:
+    default:
+      keywords:
+        subject: water utilization.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-03-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1091966
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1091965
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  L.-G.-Karancsi:
+    individualname: L. G. Karancsi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

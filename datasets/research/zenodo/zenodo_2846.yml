@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8359947
+  dataseturi: https://doi.org/10.5281/zenodo.8359947
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INFLUENCE OF ENDOPHYTIC BACTERIA ON SEED GERMINATION AND SURVIVAL OF TOMATO
+    (SOLANUM LYCOPERSICUM) IN SOIL INFECTED BY FUNGI FUSARIUM OXYSPORUM
+  abstract: <em>Many different antimicrobial drugs in the world stimulate plant growth
+    and increase crop yields by reducing the spread of pathogenic fungi. However,
+    the search for new strains of more effective bacteria never stops, and drugs are
+    being developed that can give even better results. For example, many microbial
+    preparations are based on rhizosphere bacteria that stimulate plant growth. These
+    bacteria operate in the root zone and supply plants with nitrogen, phosphorus,
+    and other substances from outside the plant.</em>
+  keywords:
+    default:
+      keywords:
+        subject: fusarium oxysporum, pseudomonas chlororaphis, pseudomonas extremaustralis,
+          pseudomonas kilonensis, pseudomonas putida, capsicum annum group, solanum
+          lycopersicum, capsicum annum group
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-19'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8359947
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8359946
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Samadiy-Sitora-Abdusalimzoda-Abdusamatov-Sokhibjon-Abdusamatovich-G'afforova--Hilola-Furqat-qizi:
+    individualname: Samadiy Sitora Abdusalimzoda, Abdusamatov Sokhibjon Abdusamatovich,
+      G'afforova  Hilola Furqat qizi
+    role: creator
+  Samadiy-Sitora-Abdusalimzoda-Abdusamatov-Sokhibjon-Abdusamatovich:
+    individualname: Samadiy Sitora Abdusalimzoda, Abdusamatov Sokhibjon Abdusamatovich
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7006006
+  dataseturi: https://doi.org/10.5281/zenodo.7006006
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of soil solarization of rice nursery beds to suppress plant parasitic
+    nematodes
+  abstract: This article 'Effect of soil solarization of rice nursery beds to suppress
+    plant parasitic nematodes' appeared in the International Rice Research Notes series,
+    created by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Plant parasitic nematodes
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1996-08-01'
+    publication: '1996'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7006006
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7006005
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ganguly-A.-K.:
+    individualname: Ganguly, A. K.
+    role: creator
+    organization: ''
+    url: ''
+  Sirohi-A.:
+    individualname: Sirohi, A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

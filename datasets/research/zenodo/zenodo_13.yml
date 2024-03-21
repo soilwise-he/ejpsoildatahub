@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.891095
+  dataseturi: https://doi.org/10.5281/zenodo.891095
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil electrical conductivity imaging of the soil profile and its relationship
+    to soil properties
+  abstract: "The variability of soil properties in space and time is a challenge to\
+    \ their measurement. Currently, apparent electrical conductivity (ECa) of the\
+    \ soil profile can be used to estimate indirectly the spatial variability of the\
+    \ soil properties: salinity, texture, cation-exchange capacity and moisture content.\
+    \ An electromagnetic induction sensor does not require direct contact with the\
+    \ ground, and data collection is relatively easy, rapid, and inexpensive. This\
+    \ allows a larger number of measurements and more comprehensive coverage of sites\
+    \ than is possible with traditional soil sampling methods. A quasi-2D electromagnetic\
+    \ conductivity model for a field site was developed using electrical conductivity\
+    \ (ECa) data measured by a multi-coil DUALEM-421 sensor and a DUALEM-1s sensor.\
+    \ Relationships of estimated ECa with volumetric water content (\u0398v) and cation\
+    \ exchange capacity (CEC) were reasonably accurate (R2 = 0.62 for DUALEM-421 and\
+    \ 0.58 for DUALEM-1s and R2 = 0.68 for DUALEM-421 and 0.58 for DUALEM-1s for \u0398\
+    v and CEC, respectively). These relationships were used to derive depth profile\
+    \ images. As expected, \u0398v, CEC and the estimated ECa follow similar trends\
+    \ down the soil profile. This soil ECa imaging method shows good potential for\
+    \ predicting 2D depth profiles of certain soil properties."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.891095
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.891094
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  El-Naggar-A:
+    individualname: El-Naggar, A
+    role: creator
+    organization: Institute of Agriculture and Environment, Massey University, Palmerston
+      North, New Zealand
+    url: ''
+  Hedley-C:
+    individualname: Hedley, C
+    role: creator
+    organization: Landcare Research, Riddet Road, Massey University Campus, Palmerston
+      North 4442
+    url: ''
+  Horne-D:
+    individualname: Horne, D
+    role: creator
+    organization: Institute of Agriculture and Environment, Massey University, Palmerston
+      North, New Zealand
+    url: ''
+  Roudier-P:
+    individualname: Roudier, P
+    role: creator
+    organization: Landcare Research, Riddet Road, Massey University Campus, Palmerston
+      North 4442
+    url: ''
+  Clothier-B:
+    individualname: Clothier, B
+    role: creator
+    organization: Plant & Food Research, Batchelar Road, Palmerston North 4442
+    url: ''
+content_info: {}

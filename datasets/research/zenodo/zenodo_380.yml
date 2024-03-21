@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BOUYOUCOS_1921
+  dataseturi: https://doi.org/10.1097/00010694-192101000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A NEW CLASSIFICATION OF THE SOIL MOISTURE
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A NEW CLASSIFICATION OF THE SOIL MOISTURE
+    url: http://dx.doi.org/10.1097/00010694-192101000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bouyoucos-George:
+    individualname: Bouyoucos, George
+    role: creator
+  BOUYOUCOS-GEORGE:
+    individualname: BOUYOUCOS, GEORGE
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

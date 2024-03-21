@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7825277
+  dataseturi: https://doi.org/10.5281/zenodo.7825277
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Integrating Soil Nutrients and Location Weather Variables for Crop Yield
+    Prediction
+  abstract: '- This study is described as a recommendation<br> system that utilize
+    data from Agricultural development<br> program (ADP) Kogi State chapters of Nigeria
+    and<br> employs machine learning approach to recommend<br> suitable crops to be
+    planted according to input soil and<br> climate statistics. The purpose of this
+    study is to forecast<br> agricultural production using machine learning<br> techniques.
+    The inferred classifier models here<br> incorporate information from Random forest<br>
+    classifier,Gradient boost and Keras Regressor with<br> Gradient boost exhibiting
+    the greatest accuracy of 98.9%.<br> Forecasts made by machine learning algorithms
+    can now<br> assist farmers in choosing which plant to cultivate based<br> on key
+    variables, including temperature, rainfall, and pH<br> and soil nutrients as nitrogen,
+    phosphorous and<br> potassium. Therefore, this strategy lessens the financial<br>
+    losses that farmers experience when they decide to plant<br> the improper crops.
+    It also helps farmers in their search<br> for new crop varieties that are suitable
+    for cultivation in<br> their region.<br>'
+  keywords:
+    default:
+      keywords:
+        subject: Machine Learning, Crop Yield, Cultivation, Forecasting, Plantation,
+          Data Mining, Agriculture.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-13'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7825277
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7825276
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Oladipe-Ebenezer-Oluwole:
+    individualname: Oladipe Ebenezer Oluwole
+    role: creator
+    organization: ''
+    url: ''
+  Osaghae-Edgar.O.:
+    individualname: Osaghae Edgar.O.
+    role: creator
+    organization: ''
+    url: ''
+  Basaky-Fredrick-.D.:
+    individualname: Basaky Fredrick .D.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

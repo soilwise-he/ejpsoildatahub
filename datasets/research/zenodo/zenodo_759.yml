@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6793645
+  dataseturi: https://doi.org/10.5281/zenodo.6793645
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECT OF FLUORIDE CONTAMINATION ON MICROBIAL ENZYMATIC ACTIVITY IN SOIL
+  abstract: The accumulation of environmental contaminant such as fluoride in wetlands
+    especially in rice fields is increasing drastically by the action of fertilizers,
+    pesticides, mining, waste disposal, and atmospheric pollution of which Kuttanad,
+    the unique tropical wetland agro ecosystem is not an exception. Accumulation of
+    excess F<sup>-</sup> in the environment poses serious burden to all organisms.
+    Since soil microbial enzymes respond more quickly to various environmental conditions
+    and soil management practices than any other soil quality parameters and thus
+    used to detect early the changes in the soil health. In view of this, the activities
+    of various enzymes involved in the biogeochemical cycles such as urease, protease,
+    dehydrogenase, arylsulphatase, acid and alkaline phosphatase were investigated.
+    Result showed thatF<sup>-</sup> had an inhibitory effect on the activity of all
+    the enzymes studied possibly due to the adverse effect of F<sup>-</sup> on microorganisms.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Fluoride Content Wetland Agroecosystem Microbial Enzymes
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-06-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6793645
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6793644
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.-Roshni:
+    individualname: V. Roshni
+    role: creator
+    organization: Centre for Research and Evaluation, Bharathiar University, Coimbatore-641
+      046, Tamil Nadu. India.
+    url: ''
+content_info: {}

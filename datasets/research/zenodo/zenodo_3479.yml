@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1078122
+  dataseturi: https://doi.org/10.5281/zenodo.1078122
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Radiological Risk Assessment In Soil Samples Of Western Haryana, India
+  abstract: 'The measurements of 226Ra, 232Th and 40K using
+
+    gamma spectrometry and radon concentration and exhalation rates
+
+    measurements using solid state nuclear track (LR-115, Type-II
+
+    plastic) detectors are used to asses a first order exposure risk for the
+
+    persons residing in Fatehbad and Hissar districts of Western Haryana,
+
+    India. The concentration of Radium, Thorium and Potassium in the
+
+    soil samples varies from 13.37 Bq m-3 to 24.67 Bq m-3, 34.67 Bq m-3
+
+    to 67.34 Bq m-3 and 298.78 Bq m-3 to 405.67 Bq m-3 respectively
+
+    with average values of 18.78, 47.35 and 361.57 Bq m-3 respectively.
+
+    The radium equivalent activity (Raeq) calculated for the same soil
+
+    samples varies from 92.72 Bq m-3 to 140.6 Bq m-3 with an average
+
+    value of 111.80 Bq m-3. The values of absorbed dose and annual
+
+    effective dose (indoors and outdoors) are found to vary from 44.18
+
+    nGy h-1 to 65.23 nGy h-1, 0.22 mSv y-1 to 0.32 mSv y-1 and 0.05 mSv
+
+    y-1 to 0.08 mSv y-1 respectively. The radon concentration and
+
+    exhalation rates have also been reported. The radium equivalent
+
+    activities in all the soil samples were found to be lower than the limit
+
+    (370 Bq kg-1) set in the Organization for Economic Cooperation and
+
+    Development (OECD) report and the value of Hex in all the samples
+
+    is less than unity.'
+  keywords:
+    default:
+      keywords:
+        subject: exhalationrate.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-06-25'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1078122
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1078121
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-Mehra:
+    individualname: R. Mehra
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

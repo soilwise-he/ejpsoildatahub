@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10648758
+  dataseturi: https://doi.org/10.5281/zenodo.10648758
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Erodibility Indices under Different Land Uses of Okaba Soil
+  abstract: "ABSTRACT\n\nThe study of erodibility characteristics of Okaba soil was\
+    \ carried on forested, cultivated and residential land uses. Soil samples were\
+    \ collected at a depth of 0 \u2013 20cm from the three different land uses identified\
+    \ on topographic map of the area using soil auger. The samples were preserved\
+    \ to the laboratory and analyzed for Particle-Size by hydrometer method. Standard\
+    \ Laboratory procedures described by ASTM D 422 were performed for erodobility\
+    \ indices. Values of modified clay ratio (MCR), clay ratio (CR), dispersion ratio\
+    \ (DR), and erosion ratio (ER) were observed to be the highest at Ogane, whereas,\
+    \ water stable aggregates (WSA) were highest at Okaba Town location. Among different\
+    \ land uses these indices were in the order of cultivated > forest > residential\
+    \ but, the value for ER were equal at Forested and residential land uses. However,\
+    \ WSA followed the opposite trend. Soil loss and the erodibility indices were\
+    \ statistically correlated. Highly positive correlation of MCR and CR (R2 = 0.992\
+    \ and 0.889 respectively) were experienced with soil loss except for WSA index\
+    \ where the value was negative (0.021). DR and ER has weak correlation coefficient\
+    \ (R2 = 0.374 and 0.227 respectively). MCR and CR were observed to be better indices\
+    \ of soil erodibility in the study area these correlations were significant at\
+    \ 1% level of significance for MCR and CR, DR, ER and WSA."
+  keywords:
+    default:
+      keywords:
+        subject: Okaba, land use, Soil erodobility indices, soil loss
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-03-31'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10648758
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10648757
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-A.-Seini:
+    individualname: S. A. Seini
+    role: creator
+    organization: Department Agricultural and Bio- Environmental Engineering Technology
+      Federal College of Horticulture Dadin Kowa Gombe, Gombe State, Nigeria
+    url: ''
+  L.-A.-Oparaku:
+    individualname: L. A. Oparaku
+    role: creator
+    organization: Department of Agricultural and Environmental Engineering Federal
+      University of Agriculture Makurdi Nigeria
+    url: ''
+content_info: {}

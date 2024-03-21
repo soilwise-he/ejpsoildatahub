@@ -1,0 +1,108 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Perazzolli_2016
+  dataseturi: https://doi.org/10.1186/s12864-016-3174-4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Transcriptomic responses of a simplified soil microcosm to a plant pathogen
+    and its biocontrol agent reveal a complex reaction to harsh habitat
+  abstract: "&lt;p&gt;&lt;strong&gt;Background: &lt;/strong&gt;Soil microorganisms\
+    \ are key determinants of soil fertility and plant health. Soil phytopathogenic\
+    \ fungi are one of the most important causes of crop losses worldwide. Microbial\
+    \ biocontrol agents have been extensively studied as alternatives for controlling\
+    \ phytopathogenic soil microorganisms, but molecular interactions between them\
+    \ have mainly been characterised in dual cultures, without taking into account\
+    \ the soil microbial community. We used an RNA sequencing approach to elucidate\
+    \ the molecular interplay of a soil microbial community in response to a plant\
+    \ pathogen and its biocontrol agent, in order to examine the molecular patterns\
+    \ activated by the microorganisms.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results: &lt;/strong&gt;A\
+    \ simplified soil microcosm containing 11 soil microorganisms was incubated with\
+    \ a plant root pathogen (&lt;i&gt;Armillaria mellea&lt;/i&gt;) and its biocontrol\
+    \ agent (&lt;i&gt;Trichoderma atroviride&lt;/i&gt;) for 24\_h under controlled\
+    \ conditions. More than 46 million paired-end reads were obtained for each replicate\
+    \ and 28,309 differentially expressed genes were identified in total. Pathway\
+    \ analysis revealed complex adaptations of soil microorganisms to the harsh conditions\
+    \ of the soil matrix and to reciprocal microbial competition/cooperation relationships.\
+    \ Both the phytopathogen and its biocontrol agent were specifically recognised\
+    \ by the simplified soil microcosm: defence reaction mechanisms and neutral adaptation\
+    \ processes were activated in response to competitive (&lt;i&gt;T. atroviride&lt;/i&gt;)\
+    \ or non-competitive (&lt;i&gt;A. mellea&lt;/i&gt;) microorganisms, respectively.\
+    \ Moreover, activation of resistance mechanisms dominated in the simplified soil\
+    \ microcosm in the presence of both &lt;i&gt;A. mellea&lt;/i&gt; and &lt;i&gt;T.\
+    \ atroviride&lt;/i&gt;. Biocontrol processes of &lt;i&gt;T. atroviride&lt;/i&gt;\
+    \ were already activated during incubation in the simplified soil microcosm, possibly\
+    \ to occupy niches in a competitive ecosystem, and they were not further enhanced\
+    \ by the introduction of &lt;i&gt;A. mellea&lt;/i&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Conclusions:\
+    \ &lt;/strong&gt;This work represents an additional step towards understanding\
+    \ molecular interactions between plant pathogens and biocontrol agents within\
+    \ a soil ecosystem. Global transcriptional analysis of the simplified soil microcosm\
+    \ revealed complex metabolic adaptation in the soil environment and specific responses\
+    \ to antagonistic or neutral intruders.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Soil microbial community
+      - Soil transcriptome
+      - Biological control
+      - Plant pathogen
+      - Microbial interaction
+      - RNA-Seq
+      - Transcriptomics
+      - Gene expression
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Transcriptomic responses of a simplified soil microcosm to a plant pathogen
+      and its biocontrol agent reveal a complex reaction to harsh habitat
+    url: http://dx.doi.org/10.1186/s12864-016-3174-4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Perazzolli-Michele:
+    individualname: Perazzolli, Michele
+    role: creator
+  Herrero-Noemi:
+    individualname: "Herrero, Noem\xED"
+    role: creator
+  Sterck-Lieven:
+    individualname: Sterck, Lieven
+    role: creator
+  Lenzi-Luisa:
+    individualname: Lenzi, Luisa
+    role: creator
+  Pellegrini-Alberto:
+    individualname: Pellegrini, Alberto
+    role: creator
+  Puopolo-Gerardo:
+    individualname: Puopolo, Gerardo
+    role: creator
+  Van-de-Peer-Yves:
+    individualname: Van de Peer, Yves
+    role: creator
+  Pertot-Ilaria:
+    individualname: Pertot, Ilaria
+    role: creator
+  Herrero-Noem:
+    individualname: "Herrero, Noem\u221A\u2260"
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

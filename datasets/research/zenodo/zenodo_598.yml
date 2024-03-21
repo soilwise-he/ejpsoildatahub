@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6357510
+  dataseturi: https://doi.org/10.5281/zenodo.6357510
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Movement and Transformation of Anhydrous Ammonia in Field Soil
+  abstract: Anhydrous Ammonia Laboratory, Fertilizer Promotion &amp; Agricultural
+    Research Division,<br> Hindustan Fertilizer Corporation Ltd., Durgapur (West Bengal)
+    Movement of ammonia under the experimental condition was found to be within 3.7
+    cm radius from the line of injection and this was associated with rise of \(p\)H
+    of the soil. After 22 days of application, this pH however approached its original
+    value. Trasformation of applied NH<sub>3</sub> to NO<sub>3</sub> started from
+    the periphery of the horizontal cylindrically shaped ammonia retention zone and
+    it approached the point of injection. Appreciable nitrification started only after
+    7 days of ammonia application. Initial slow nitrification suggests preplanting
+    application of anhydrous ammonia in dry field and then incorporation of irrigation
+    water within 7 days without appreciable loss of added nitrogen through leaching
+    of nitrate.
+  keywords:
+    default:
+      keywords:
+        subject: behaviour
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1982-04-30'
+    publication: '1982'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6357510
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6357509
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-N.-BAGCHI:
+    individualname: B. N. BAGCHI
+    role: creator
+    organization: ''
+    url: ''
+  S.-N.-GHOSH:
+    individualname: S. N. GHOSH
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-GHOSH:
+    individualname: S. K. GHOSH
+    role: creator
+    organization: ''
+    url: ''
+  S.-P.-DHUA:
+    individualname: S. P. DHUA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

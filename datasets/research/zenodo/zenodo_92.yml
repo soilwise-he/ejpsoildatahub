@@ -1,0 +1,134 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wang_2021
+  dataseturi: https://doi.org/10.3389/fenvs.2021.624070
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Microbiome Structure and Function in Ecopiles Used to Remediate Petroleum-Contaminated
+    Soil
+  abstract: '&lt;p&gt;The soil microbiome consists of a vast variety of microorganisms
+    which contribute to essential ecosystem services including nutrient recycling,
+    protecting soil structure, and pathogen suppression. Recalcitrant organic compounds
+    present in soils contaminated with fuel oil can lead to a decrease in functional
+    redundancy within soil microbiomes. Ecopiling is a passive bioremediation technique
+    involving biostimulation of indigenous hydrocarbon degraders, bioaugmentation
+    through inoculation with known petroleum-degrading consortia, and phytoremediation.
+    The current study investigates the assemblage of soil microbial communities and
+    pollutant-degrading potential in soil undergoing the Ecopiling process, through
+    the amplicon marker gene and metagenomics analysis of the contaminated soil. The
+    analysis of key community members including bacteria, fungi, and nematodes revealed
+    a surprisingly diverse microbial community composition within the contaminated
+    soil. The soil bacterial community was found to be dominated by Alphaproteobacteria
+    (60&ndash;70%) with the most abundant genera such as&nbsp;&lt;em&gt;Lysobacter&lt;/em&gt;,&nbsp;&lt;em&gt;Dietzia&lt;/em&gt;,&nbsp;&lt;em&gt;Pseudomonas&lt;/em&gt;,
+    and&nbsp;&lt;em&gt;Extensimonas&lt;/em&gt;. The fungal community consisted mainly
+    of Ascomycota (50&ndash;70% relative abundance). Soil sequencing data allowed
+    the identification of key enzymes involved in the biodegradation of hydrocarbons,
+    providing a novel window into the function of individual bacterial groups in the
+    Ecopile. Although the genus&nbsp;&lt;em&gt;Lysobacter&lt;/em&gt;&nbsp;was identified
+    as the most abundant bacterial genus (11&ndash;46%) in all of the contaminated
+    soil samples, the metagenomic data were unable to confirm a role for this group
+    in petrochemical degradation. Conversely, genera with relatively low abundance
+    such as&nbsp;&lt;em&gt;Dietzia&lt;/em&gt;&nbsp;(0.4&ndash;9.0%),&nbsp;&lt;em&gt;Pusillimonas&lt;/em&gt;&nbsp;(0.7&ndash;2.3%),
+    and&nbsp;&lt;em&gt;Bradyrhizobium&lt;/em&gt;&nbsp;(0.8&ndash;1.8%) did possess
+    genes involved in aliphatic or aromatic compound degradation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Ecopiling
+      - bioremediation
+      - phytoremediation
+      - microbiome
+      - metagenomics
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Microbiome Structure and Function in Ecopiles Used to Remediate Petroleum-Contaminated
+      Soil
+    url: http://dx.doi.org/10.3389/fenvs.2021.624070
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Wang:
+    individualname: M. Wang
+    role: creator
+  D.-Garrido-Sanz:
+    individualname: D. Garrido-Sanz
+    role: creator
+  P.-Sansegundo-Lobato:
+    individualname: P. Sansegundo-Lobato
+    role: creator
+  M.-Redondo-Nieto:
+    individualname: M. Redondo-Nieto
+    role: creator
+  R.-Conlon:
+    individualname: R. Conlon
+    role: creator
+  M.-Martin:
+    individualname: M. Martin
+    role: creator
+  R.-Mali:
+    individualname: R. Mali
+    role: creator
+  X.-Liu:
+    individualname: X. Liu
+    role: creator
+  D.-N.-Dowling:
+    individualname: D. N. Dowling
+    role: creator
+  R.-Rivilla2:
+    individualname: R. Rivilla2
+    role: creator
+  K.-J.-Germaine:
+    individualname: K. J. Germaine
+    role: creator
+  Wang-M.:
+    individualname: Wang, M.
+    role: creator
+  Garrido-Sanz-D.:
+    individualname: Garrido-Sanz, D.
+    role: creator
+  Sansegundo-Lobato-P.:
+    individualname: Sansegundo-Lobato, P.
+    role: creator
+  Redondo-Nieto-M.:
+    individualname: Redondo-Nieto, M.
+    role: creator
+  Conlon-R.:
+    individualname: Conlon, R.
+    role: creator
+  Martin-M.:
+    individualname: Martin, M.
+    role: creator
+  Mali-R.:
+    individualname: Mali, R.
+    role: creator
+  Liu-X.:
+    individualname: Liu, X.
+    role: creator
+  Dowling-D.-N.:
+    individualname: Dowling, D. N.
+    role: creator
+  Rivilla-R.:
+    individualname: Rivilla, R.
+    role: creator
+  Germaine-K.-J.:
+    individualname: Germaine, K. J.
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

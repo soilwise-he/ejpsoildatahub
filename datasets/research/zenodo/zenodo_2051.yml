@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5892839
+  dataseturi: https://doi.org/10.5281/zenodo.5892839
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analysis of Seepage Beneath a Sheet Pile Wall in Homogeneous Soil by Finite
+    Element method
+  abstract: Department of Civil Engineering, Haldia Institute of Technology, West
+    Bengal, India An analytical method was followed to find flow characteristics,
+    like flow rate, exit gradient that are to be determined for seepage through a
+    uniform and homogeneous soil. The finite element program, SEEP/W was introduced
+    to analyze flow characteristics of a sheet pile wall a homogeneous soil. Extensive
+    analyses were performed for different conditions, including soil layer thickness,
+    soil hydraulic conductivity and sheet pile wall depth. The flow rate and exit
+    gradient were determined for each condition analyzed. The analysis can help a
+    designer to get solutions to the seepage problem. The results were depicted in
+    simple charts. The method was verified by comparing the results with those obtained
+    from SEEP/W program, and good agreement was noted.
+  keywords:
+    default:
+      keywords:
+        subject: hydraulic conductivity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-06-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5892839
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5892838
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ajit-Kumar-Paria:
+    individualname: Ajit Kumar Paria
+    role: creator
+  Paria-Ajit-Kumar:
+    individualname: Paria, Ajit Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

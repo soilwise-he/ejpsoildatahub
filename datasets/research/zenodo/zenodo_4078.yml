@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1332238
+  dataseturi: https://doi.org/10.5281/zenodo.1332238
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study On The Effect Of Sulphur, Glucose, Nitrogen And Plant Residues On The
+    Immobilization Of Sulphate-S In Soil
+  abstract: In order to evaluate the relationship between the sulphur (S), glucose
+    (G), nitrogen (N) and plant residues (st), sulphur immobilization and microbial
+    transformation were monitored in five soil samples from 0-30 cm of Bastam farmers
+    fields of Shahrood area following 11 treatments with different levels of Sulphur
+    (S), glucose (G), N and plant residues (wheat straw) in a randomized block design
+    with three replications and incubated over 20, 45 and 60 days, the immobilization
+    of SO4 -2-S presented as a percentage of that added, was inversely related to
+    its addition rate. Additions of glucose and plant residues increased with the
+    C-to-S ratio of the added amendments, irrespective of their origins (glucose and
+    plant residues). In the presence of C sources (glucose or plant residues). N significantly
+    increased the immobilization of SO4 -2-S, whilst the effect of N was insignificant
+    in the absence of a C amendment. In first few days the amounts of added SO4 -2-S
+    immobilized were linearly correlated with the amounts of added S recovered in
+    the soil microbial biomass. With further incubation the proportions of immobilized
+    SO4 -2-S remaining as biomass-S decreased. Decrease in biomass-S was thought to
+    be due to the conversion of biomass-S into soil organic-S. Glucose addition increased
+    the immobilization (microbial utilization and incorporation into the soil organic
+    matter) of native soil SO4 -2-S. However, N addition enhance the mineralization
+    of soil organic-S, increasing the concentration of SO4 - 2-S in soil.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-01-23'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1332238
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1332237
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Shahsavani:
+    individualname: S. Shahsavani
+    role: creator
+    organization: ''
+    url: ''
+  A.-Gholami:
+    individualname: A. Gholami
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

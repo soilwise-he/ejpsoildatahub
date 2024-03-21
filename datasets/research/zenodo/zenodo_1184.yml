@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Alekperov_2017
+  dataseturi: https://doi.org/10.1515/vzoo-2017-0024
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Ciliates of Different Trophic Groups in Samur-Yalama National Park,
+    Azerbaijan
+  abstract: 'Alekperov, I. Kh., Mamedova, V. F. (2017): Soil Ciliates Of Different
+    Trophic Groups In Samur-Yalama National Park, Azerbaijan. Vestnik Zoologii 51
+    (2): 175-178, DOI: 10.1515/vzoo-2017-0024, URL: http://dx.doi.org/10.1515/vzoo-2017-0024'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Ciliates of Different Trophic Groups in Samur-Yalama National Park,
+      Azerbaijan
+    url: http://dx.doi.org/10.1515/vzoo-2017-0024
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alekperov-I.-Kh.:
+    individualname: Alekperov, I. Kh.
+    role: creator
+  Mamedova-V.-F.:
+    individualname: Mamedova, V. F.
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MCCOOL_1917
+  dataseturi: https://doi.org/10.1097/00010694-191702000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE WATER CONTENT OF THE SOIL AND THE COMPOSITION AND CONCENTRATION OF THE
+    SOIL SOLUTION AS INDICATED BY THE FREEZINGPOINT LOWERINGS OF THE ROOTS AND TOPS
+    OF PLANTS ABSTRACT
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE WATER CONTENT OF THE SOIL AND THE COMPOSITION AND CONCENTRATION OF THE
+      SOIL SOLUTION AS INDICATED BY THE FREEZINGPOINT LOWERINGS OF THE ROOTS AND TOPS
+      OF PLANTS ABSTRACT
+    url: http://dx.doi.org/10.1097/00010694-191702000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mccool-M.-M.:
+    individualname: Mccool, M. M.
+    role: creator
+  Millar-C.-E.:
+    individualname: Millar, C. E.
+    role: creator
+  MCCOOL-M.-M.:
+    individualname: MCCOOL, M. M.
+    role: creator
+  MILLAR-C.-E.:
+    individualname: MILLAR, C. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

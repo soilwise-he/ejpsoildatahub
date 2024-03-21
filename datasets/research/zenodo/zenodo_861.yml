@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Glogov_2023
+  dataseturi: https://doi.org/10.3897/silvabalcanica.24.e104591
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Canopy influence on soil properties in Austrian pine artificial stands
+  abstract: '&lt;p&gt;The aim of the present study is to track changes in the canopy
+    (cover-abundance of the tree layer) of vegetation and cover of the forest litter,
+    and the relationship between them and the dynamics of soil parameters in Austrian
+    pine (&lt;em&gt;Pinus nigra&lt;/em&gt; Arn.) plantations. The objects of study
+    are 50-80-year-old artificial plantations of Austrian pine located in the xerothermic
+    oak belt of five mountains in the area of Sofia. In each mountain, three test
+    plots (SPs) were laid out, each measuring 400 m2 (Table 1). The main reason for
+    choosing PP is the cover abundance of the first layer. Within each SP, the following
+    metrics are measured: cover-abundance (%) of vegetation in each layer; the cover
+    of plant litter (%). From all SPs, soil samples were taken from three depths:
+    0-10 cm, 10-20 cm and 20 -30 cm. An analysis of the content of soil organic matter
+    was carried out, including: total nitrogen (N), the C/N ratio &ndash; calculation
+    method, the reaction of the soil solution (pH) in the aqueous extract and the
+    mechanical composition of the soil.&lt;/p&gt;&lt;p&gt;The results show that the
+    properties of the studied soils change to a significant extent in accordance with
+    the cover abundance, especially in the first floor of the vegetation. Soil organic
+    matter content, C/N ratio and mechanical composition are the indicators that most
+    clearly reflect the relationship between the canopy and the cover of plant litter
+    on the one hand, and soil properties. The proven, statistically significant differences
+    in the values of these indicators emphasize the role of vegetation in soil-forming
+    processes, the formation and change of soil fertility.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - cover-abundance
+      - coniferous plantations
+      - Pinus nigra
+      - soil properties
+      - Rendzinas
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Canopy influence on soil properties in Austrian pine artificial stands
+    url: http://dx.doi.org/10.3897/silvabalcanica.24.e104591
+    type: www
+contact:
+  Forest-Research-Institute-Bulgarian-Academy-of-Sciences:
+    individualname: Forest Research Institute (Bulgarian Academy of Sciences)
+    role: creator
+  Glogov-Plamen:
+    individualname: Glogov, Plamen
+    role: creator
+  Bogdanov-Simeon:
+    individualname: Bogdanov, Simeon
+    role: creator
+  Gyudorova-Stela:
+    individualname: Gyudorova, Stela
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

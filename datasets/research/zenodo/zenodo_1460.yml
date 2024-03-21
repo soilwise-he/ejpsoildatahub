@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BARNES_1906
+  dataseturi: https://doi.org/10.1056/nejm190605031541805
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Influence of Dampness of Soil and Climate on the Diseases of Respiration
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Influence of Dampness of Soil and Climate on the Diseases of Respiration
+    url: http://dx.doi.org/10.1056/nejm190605031541805
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Barnes-Henry-J.:
+    individualname: Barnes, Henry J.
+    role: creator
+  BARNES-HENRY-J.:
+    individualname: BARNES, HENRY J.
+    role: creator
+  Massachusetts-Medical-Society:
+    individualname: Massachusetts Medical Society
+    role: creator
+content_info: {}

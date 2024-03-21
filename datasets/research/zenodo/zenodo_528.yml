@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yang_2013
+  dataseturi: https://doi.org/10.1109/igarss.2013.6723645
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: US national cropland soil moisture monitoring using SMAP
+  abstract: This paper investigates at the pre-launch stage the feasibility of using
+    NASA SMAP mission results for US national operational crop soil moisture monitoring.
+    The purpose of using remote sensed SMAP data for crop soil moisture monitoring
+    is to eliminate data collection subjectivity, reduce cost, increase cropland soil
+    moisture monitoring data consistency, and operational efficiency. In this paper,
+    the SMAP simulated data product time series, such as L2_SM_A, L3_SM_A/P, L4_SM,
+    L1C-S0_HiRes are first evaluated for their suitability for NASS operational cropland
+    soil moisture monitoring by comparing SMAP results with the NASS' survey based
+    weekly soil moisture observation data for their consistency and robustness. The
+    preliminary results illustrate that SMAP products have the potential for NASS
+    operational use at least for county level soil moisture statistics. This paper
+    also explores a technical route to build a Web-service based interactive soil
+    moisture monitoring system for map visualization, dissemination, and analysis
+    based on SMAP results.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: US national cropland soil moisture monitoring using SMAP
+    url: http://dx.doi.org/10.1109/igarss.2013.6723645
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yang-Zhengwei:
+    individualname: Yang, Zhengwei
+    role: creator
+  Mueller-Rick:
+    individualname: Mueller, Rick
+    role: creator
+  Crow-Wade-T.:
+    individualname: Crow, Wade T.
+    role: creator
+  Crow-Wade:
+    individualname: Crow, Wade
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

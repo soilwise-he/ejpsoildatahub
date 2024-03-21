@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tran_2020
+  dataseturi: https://doi.org/10.1016/j.phytochem.2020.112278
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Structure elucidation and absolute configuration of metabolites from the
+    soil-derived fungus Dictyosporium digitatum using spectroscopic and computational
+    methods
+  abstract: 'Tran, Trong D., Wilson, Brice A.P., Henrich, Curtis J., Wendt, Karen
+    L., King, Jarrod, Cichewicz, Robert H., Stchigel, Alberto M., Miller, Andrew N.,
+    O''Keefe, Barry R., Gustafson, Kirk R. (2020): Structure elucidation and absolute
+    configuration of metabolites from the soil-derived fungus Dictyosporium digitatum
+    using spectroscopic and computational methods. Phytochemistry (112278) 173: 1-9,
+    DOI: 10.1016/j.phytochem.2020.112278, URL: http://dx.doi.org/10.1016/j.phytochem.2020.112278'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Structure elucidation and absolute configuration of metabolites from the
+      soil-derived fungus Dictyosporium digitatum using spectroscopic and computational
+      methods
+    url: http://dx.doi.org/10.1016/j.phytochem.2020.112278
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tran-Trong-D.:
+    individualname: Tran, Trong D.
+    role: creator
+  Wilson-Brice-A.P.:
+    individualname: Wilson, Brice A.P.
+    role: creator
+  Henrich-Curtis-J.:
+    individualname: Henrich, Curtis J.
+    role: creator
+  Wendt-Karen-L.:
+    individualname: Wendt, Karen L.
+    role: creator
+  King-Jarrod:
+    individualname: King, Jarrod
+    role: creator
+  Cichewicz-Robert-H.:
+    individualname: Cichewicz, Robert H.
+    role: creator
+  Stchigel-Alberto-M.:
+    individualname: Stchigel, Alberto M.
+    role: creator
+  Miller-Andrew-N.:
+    individualname: Miller, Andrew N.
+    role: creator
+  O'Keefe-Barry-R.:
+    individualname: O'Keefe, Barry R.
+    role: creator
+  Gustafson-Kirk-R.:
+    individualname: Gustafson, Kirk R.
+    role: creator
+  OaEUR(tm)Keefe-Barry-R.:
+    individualname: "O\xE2\u20AC\u2122Keefe, Barry R."
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

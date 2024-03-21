@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6507627
+  dataseturi: https://doi.org/10.5281/zenodo.6507627
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: On the Kinetics of Calcium Exchange from Ca-soil by Ammonium and Potassium
+    Chlorides in Aqueous Solution
+  abstract: On the Kinetics of Calcium Exchange from Ca-soil by Ammonium and Potassium
+    Chlorides in Aqueous Solution
+  keywords:
+    default:
+      keywords:
+        subject: neutral salts
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1965-12-31'
+    publication: '1965'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6507627
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6507626
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-De:
+    individualname: S. K. De
+    role: creator
+    organization: ''
+    url: ''
+  R.-C.-Jee:
+    individualname: R. C. Jee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

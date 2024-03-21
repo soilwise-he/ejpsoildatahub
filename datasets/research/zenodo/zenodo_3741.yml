@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2825188
+  dataseturi: https://doi.org/10.5281/zenodo.2825188
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect of Soil Surface Slope on Splash Distribution under Water Drop
+    Impact
+  abstract: The effects of down slope steepness on soil splash distribution under
+    a water drop impact have been investigated in this study. The equipment used are
+    the burette to simulate a water drop, a splash cup filled with sandy soil which
+    forms the source area and a splash board to collect the ejected particles. The
+    results found in this study have shown that the apparent mass increased with increasing
+    downslope angle following a linear regression equation with high coefficient of
+    determination. In the same way, the radial soil splash distribution over the distance
+    has been analyzed statistically, and an exponential function was the best fit
+    of the relationship for the different slope angles. The curves and the regressions
+    equations validate the well known FSDF and extend the theory of Van Dijk.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-08-18'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2825188
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2825187
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-Aissa:
+    individualname: H. Aissa
+    role: creator
+    organization: ''
+    url: ''
+  L.-Mouzai:
+    individualname: L. Mouzai
+    role: creator
+    organization: ''
+    url: ''
+  M.-Bouhadef:
+    individualname: M. Bouhadef
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

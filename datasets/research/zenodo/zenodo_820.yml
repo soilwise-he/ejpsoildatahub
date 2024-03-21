@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6087686
+  dataseturi: https://doi.org/10.5281/zenodo.6087686
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Exchange Behaviour of Coen33+ on Soil and Peat Hymatomelanic Acids
+  abstract: "Department of Chemistry, University of North Bengal, P. O. North Bengal\
+    \ University, Darjeeling-784 430 <em>Manuscript received 19 October 1981, revised\
+    \ 11 August 1988, accepted 17 August 1988</em> The exchange pattern or \\(Coen_3^{3+}\\\
+    ) on soil and peat hymatomelanic acids (SHy A and PHyA) resembles Langmuir type\
+    \ of curves and is dependent on pH; the stronger acidic group, e.g. COOH predominately\
+    \ participating in the interaction at lower pH. The release of Coen<sup>3+</sup>\
+    \ from Coen<sup>3+</sup>- acid complexes exhibit that the orders of reactivity\
+    \ for monovalent cations are H &gt;&gt; C<sub>s </sub>&gt; Rb&gt; K &gt; Na \\\
+    (&gt;_&lt;\\) Li for Coea<sub>3</sub> - SHyA system and H &gt;&gt; C<sub>3 </sub>&gt;\
+    \ Rb &gt; K &gt; Na &gt; Li for Coea<sub>3 </sub>-PHyA complex. The release isotherms\
+    \ for bivalent and organic cations indicate the following sequence of reactivity\
+    \ : Ba &gt; Sr \\(&gt;_&lt;\\) Ca &gt; Mg and (C<sub>2</sub>H<sub>5</sub>)<sub>4</sub>\
+    \ N &gt; (CH<sub>3</sub>)<sub>4 </sub>N. The reversals of exchangeability for\
+    \ Li and Na as well as for Ca and Sr are noticeable at lower concentration. The\
+    \ exchange isotherms with monovalent cations display that the exchange processes\
+    \ take place in three stages. The thermodynamic equilibrium constauts and Gibbs\
+    \ free energy changes for exchange reactions involving bivalent cations have been\
+    \ calculated by using Kielland's equation. The plots of logarithm of corrected\
+    \ selectivity coefficients or thermodynamic equilibrium constants against hydrated\
+    \ ionic radii and the reciprocals of the Debye- Huckel parameter <em>a</em><sup>\xB0\
+    </sup> , Indicate that the relative affinities of the ions for the exchanger substrates\
+    \ are much better correlated with <em>a</em><sup>\xB0</sup> rather than with ionic\
+    \ radii."
+  keywords:
+    default:
+      keywords:
+        subject: ion-exchange process
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1988-11-30'
+    publication: '1988'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6087686
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6087685
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.-K.-PALU:
+    individualname: U. K. PALU
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-CHAKRAVARTI:
+    individualname: S. K. CHAKRAVARTI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7147163
+  dataseturi: https://doi.org/10.5281/zenodo.7147163
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Pile dynamic versus static load tests in fine-grained deposits of Southwest
+    Iran with special attention on soil setup effects
+  abstract: "Many precast driven piles have been constructed in soft soils of southwest\
+    \ Iran in Khuzestan Province in oil, gas,<br> petrochemical and other industrial\
+    \ projects within the past 20 years. Estimating the adequate pile bearing capacity\
+    \ and<br> drivable embedment depth of piles are always a major challenging task\
+    \ both during the design and construction phases.<br> Clients have been promoted\
+    \ to carry out dynamic load test (DLT) and static load test (SLT) on both \u201C\
+    test piles\u201D and<br> \u201Cconstruction piles\u201D to optimize the pile design\
+    \ and improve the execution quality. Data sets of several projects with<br> number\
+    \ of piles ranging from 5000 to 8000 in each project are compiled for comparison\
+    \ purposes of the ultimate load<br> obtained from DLT with SLT tests. The study\
+    \ area geological stratification is mostly comprised of soft cohesive layers<br>\
+    \ on top underlain with medium stiff to stiff strata. Soil setup potential is\
+    \ understood to be considerable in the region.<br> During the pile testing program,\
+    \ it has been attempted to carry out DLT at the end of drive as well as restrike\
+    \ at different<br> time intervals up until few weeks or months. Then correlations\
+    \ for soil setup are used to determine the parameters of<br> the study site such\
+    \ as \u201CA\u201D and t0 of Skov and Denvor relation. The results have shown\
+    \ that the t0 is very variable in<br> the region ranging from 0.1 day in highly\
+    \ permeable strata up to 1 day in pure cohesive strata with low permeability.<br>\
+    \ The results also indicate that if the DLT tests are corrected for setup effects\
+    \ equivalent to the SLT time past from the<br> initial drive, more accurate agreements\
+    \ could reach. During piling operation, as it may not be feasible to wait for<br>\
+    \ sufficiently long time for the setup to occur, and usually DLT tests are carried\
+    \ out within few days from pile installation,<br> the extrapolated capacities\
+    \ considering site specific setup effects are used in verifying the design capacities.<br>\
+    \ Considerable savings are made through the explained procedure both in \u201C\
+    construction cost\u201D and \u201Cconstruction time\u201D<br> of the projects."
+  keywords:
+    default:
+      keywords:
+        subject: static load test
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7147163
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7147162
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fakharian-K.:
+    individualname: Fakharian, K.
+    role: creator
+    organization: Amirkabir University of Technology
+    url: ''
+  Behroozian-Kh.:
+    individualname: Behroozian, Kh.
+    role: creator
+    organization: Amirkabir University of Technology
+    url: ''
+  Attar-I.H.:
+    individualname: Attar, I.H.
+    role: creator
+    organization: Pars GeoEnviro Inc.
+    url: ''
+content_info: {}

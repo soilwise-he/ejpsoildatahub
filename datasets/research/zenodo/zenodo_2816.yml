@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3891535
+  dataseturi: https://doi.org/10.5281/zenodo.3891535
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Preprint
+identification:
+  title: SOIL ORGANIC CARBON CHANGES FOLLOWING DEGRADATION AND CONVERSION TO CYPRESS
+    AND TEA PLANTATIONS IN A TROPICAL MOUNTAIN FOREST OF KENYA
+  abstract: "This is the pre-print version of the article \"SOIL ORGANIC CARBON CHANGES\
+    \ FOLLOWING DEGRADATION AND CONVERSION TO CYPRESS AND TEA PLANTATIONS IN A TROPICAL\
+    \ MOUNTAIN FOREST OF KENYA\" published as final article in Plant and Soil Volume\
+    \ 422, Issue 1-2, 1 January 2018, Pages 527-539, https://doi.org/10.1007/s11104-017-3489-1\
+    \ <strong>Abstract</strong> Aims: This study investigates, in a montane forest\
+    \ in Kenya, the changes in amount and stability of soil organic carbon (SOC) as\
+    \ a consequence of: a) forest degradation, by comparing primary and degraded forests;\
+    \ b) the replacement of degraded forests with cypress and tea plantations, by\
+    \ considering sites installed at different time in the past. Methods: The SOC\
+    \ concentrations and stocks were determined in different layers to 1 m depth,\
+    \ and the SOC turnover time (TT) derived by measuring the 14C concentration in\
+    \ the layers within the 0- 30 cm depth. Results: A significant SOC decline was\
+    \ evident in the 0-5 and 5-15 cm layers of degraded forest while, on the long\
+    \ term, both plantations induced a significant SOC increase in the 0-30 cm depth.\
+    \ The longer TT\xB4s and lower SOC concentrations in the upper layers of degraded\
+    \ rather than primary forests imply an impact of forest degradation on the decomposition\
+    \ of the fast cycling SOC. Similarly, the shorter TT with increasing plantations\
+    \ age implies differences in SOC stabilization mechanisms between plantations\
+    \ and forests. Conclusions: Cypress and tea plantations established on degraded\
+    \ forests stimulate a long term SOC accrual but at the same time decrease the\
+    \ stability of the SOC pool."
+  keywords:
+    default:
+      keywords:
+        subject: Tree plantations
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3891535
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3891534
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Valentini-Riccardo:
+    individualname: Valentini Riccardo
+    role: creator
+  Chiti-Tommaso:
+    individualname: Chiti Tommaso
+    role: creator
+    organization: "Universit\xE0 degli studi della Tuscia"
+    url: ''
+  Diaz-Pines-Eugenio:
+    individualname: Diaz-Pines Eugenio
+    role: creator
+    organization: ''
+    url: ''
+  Butterbach-Bahl-Klaus:
+    individualname: Butterbach-Bahl Klaus
+    role: creator
+    organization: ''
+    url: ''
+  Marzaioli-Fabio:
+    individualname: Marzaioli Fabio
+    role: creator
+    organization: ''
+    url: ''
+  Riccardo-Valentini:
+    individualname: Riccardo, Valentini
+    role: ''
+    organization: "Universit\xE0 degli studi della Tuscia"
+    url: https://orcid.org/0000-0002-6756-5634
+content_info: {}

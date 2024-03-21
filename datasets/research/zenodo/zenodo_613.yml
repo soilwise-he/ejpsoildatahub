@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.893654
+  dataseturi: https://doi.org/10.5281/zenodo.893654
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Custom-Built Wireless Sensor Networks To Monitor Soil Moisture
+  abstract: The temporal change of soil moisture storage is one of the most critical
+    pieces of information required for efficient irrigation management. Measurement
+    of soil moisture in the past was very expensive and accounting for spatial variability
+    was largely impractical. Recent technological developments now make it possible
+    to monitor soil moisture in near real time using wireless sensor networks.  This
+    paper presents a successful application of custom-built wireless mesh sensor networks
+    based on DigiMesh protocol, a proprietary technology developed by Digi International
+    Inc. to monitor spatial distribution of soil moisture in near real time. Our system
+    is designed to transport the measured data from wireless sensor networks in the
+    field to cloud data base servers over cellular networks or Iridium satellites.
+    Data are then processed to make them available on smart phone-compatible web browsers
+    in near real time to help practitioners plan their precision irrigation scheduling.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.893654
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.893653
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ekanayake-J:
+    individualname: Ekanayake, J
+    role: creator
+    organization: "Landcare Research \u2013 Manaaki Whenua, New Zealand"
+    url: ''
+  Hedley-C:
+    individualname: Hedley, C
+    role: creator
+    organization: "Landcare Research \u2013 Manaaki Whenua, New Zealand"
+    url: ''
+content_info: {}

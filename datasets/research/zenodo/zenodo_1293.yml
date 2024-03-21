@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6880512
+  dataseturi: https://doi.org/10.5281/zenodo.6880512
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Seeder developed for direct sowing of rice under the puddled soil surface
+  abstract: This article 'Seeder Developed for Direct Sowing of Rice Under the Puddled
+    Soil Surface' appeared in the International Rice Research Notes series, created
+    by the International Rice Research Institute (IRRI) to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and rice-based systems. The series is a mechanism to help scientists keep each
+    other informed of current rice research findings. The concise scientific notes
+    are meant to encourage rice scientists to communicate with one another to obtain
+    details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: IRRI
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1995-03-01'
+    publication: '1995'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6880512
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6880511
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Borlagdan-P.-C.:
+    individualname: Borlagdan, P. C.
+    role: creator
+    organization: ''
+    url: ''
+  Yamauchi-M.:
+    individualname: Yamauchi, M.
+    role: creator
+    organization: ''
+    url: ''
+  Aragones-D.-V.:
+    individualname: Aragones, D. V.
+    role: creator
+    organization: ''
+    url: ''
+  Quick-G.-R.:
+    individualname: Quick, G. R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

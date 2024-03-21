@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bezabeh_2020
+  dataseturi: https://doi.org/10.11591/ijece.v10i4.pp4073-4079
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The effects of multiple layers feed-forward neural network transfer function
+    in digital based Ethiopian soil classification and moisture prediction
+  abstract: '&lt;p&gt;In the area of machine learning performance analysis is the
+    major task in order to get a better performance both in training and testing model.
+    In addition, performance analysis of machine learning techniques helps to identify
+    how the machine is performing on the given input and also to find any improvements
+    needed to make on the learning model. Feed-forward neural network (FFNN) has different
+    area of applications, but the epoch convergences of the network differs from the
+    usage of transfer function. In this study, to build the model for classification
+    and moisture prediction of soil, rectified linear units (ReLU), Sigmoid, hyperbolic
+    tangent (Tanh) and Gaussian transfer function of feed-forward neural network had
+    been analyzed to identify an appropriate transfer function. Color, texture, shape
+    and brisk local feature descriptor are used as a feature vector of FFNN in the
+    input layer and 4 hidden layers were considered in this study. In each hidden
+    layer 26 neurons are used. From the experiment, Gaussian transfer function outperforms
+    than ReLU, sigmoid and tanh transfer function. But the convergence rate of Gaussian
+    transfer function took more epoch than ReLU, Sigmoid and tanh.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - FFNN
+      - Gaussian transfer function
+      - ReLU transfer function
+      - Sigmoid transfer function
+      - Tanh transfer function
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The effects of multiple layers feed-forward neural network transfer function
+      in digital based Ethiopian soil classification and moisture prediction
+    url: http://dx.doi.org/10.11591/ijece.v10i4.pp4073-4079
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Belete-Biazen-Bezabeh:
+    individualname: Belete Biazen Bezabeh
+    role: creator
+  Abrham-Debasu-Mengistu:
+    individualname: Abrham Debasu Mengistu
+    role: creator
+  Bezabeh-Belete-Biazen:
+    individualname: Bezabeh, Belete Biazen
+    role: creator
+  Mengistu-Abrham-Debasu:
+    individualname: Mengistu, Abrham Debasu
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

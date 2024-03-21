@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8305802
+  dataseturi: https://doi.org/10.5281/zenodo.8305802
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECT OF THE UPPER SOFTENER OF THE SLOPED COLUMN WORKING BODY WORKING
+    ON THE SOIL OF GARDEN FIELDS ON THE ENERGY INDICATORS
+  abstract: <em>In the article, the qualitative and energetic parameters of the upper
+    softener attached to the working body with an inclined column, which works between
+    the rows of the garden without a tiller, in soil cultivation are presented with
+    the analysis of the theoretical and experimental studies conducted, and the calculations
+    of the indicators are analyzed through formulas and graphs.</em>
+  keywords:
+    default:
+      keywords:
+        subject: slope, softener, soil, energy, coverage, resistance, high, experience,
+          parameter, indicator.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-08-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8305802
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8305801
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.B.Irgashev:
+    individualname: D.B.Irgashev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

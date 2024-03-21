@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10462880
+  dataseturi: https://doi.org/10.5281/zenodo.10462880
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies of the mechanical performance of SH85 and cement-stabilized lateritic
+    aggregates soil
+  abstract: "Abstract The objective of this research is to improve the mechanical\
+    \ characteristics of lateritic soils with calcium silicate (CaSiO3) with the trade\
+    \ name SH-85 as a chemical additive and Portland cement. Laboratory tests have\
+    \ been conducted on natural lateritic gravels (particle size analysis, Atterberg\
+    \ limits, Modified Proctor test and CBR test), but also on SH-85 stabilized lateritic\
+    \ aggregates.\n\nInvestigations conducted at the University of Oregon to evaluate\
+    \ the elemental composition of the SH85 stabilizer have confirmed the use of calcium\
+    \ Silicate (CaSiO3), which formula was precisely studied by (Ndiaye et al, 2022).\
+    \ As a chemical additive the percentage of the binder was fixed at 4%. \n\nThe\
+    \ results of the tests conducted in Senegal showed that CBR increases by 192%\
+    \ for SH85 enhanced laterite compared to 183% for cement. The compression strength\
+    \ (UCS) gives a value of 2.29 MPa for SH85 treated samples against 2.01 MPa for\
+    \ Portland cement ones. The tensile strength (TS) is 0.29 MPa for SH85 treated\
+    \ samples compared to 0.26 MPa for Portland cement ones."
+  keywords:
+    default:
+      keywords:
+        subject: stabilized lateritic aggregates, Probase, SH 85, Portland cement
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10462880
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10462879
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Babacar-LY:
+    individualname: Babacar LY
+    role: creator
+    organization: "Laboratoire de M\xE9canique et Mod\xE9lisation (L2M) -UFR Sciences\
+      \ de l'Ing\xE9nieur, University of Thi\xE8s, Senegal"
+    url: ''
+  Makhaly-BA:
+    individualname: Makhaly BA
+    role: creator
+    organization: "Laboratoire de M\xE9canique et Mod\xE9lisation (L2M) -UFR Sciences\
+      \ de l'Ing\xE9nieur, University of Thi\xE8s, Senegal"
+    url: ''
+  Adama-Dione:
+    individualname: Adama Dione
+    role: creator
+    organization: Earth Sciences Institute of Dakar
+    url: ''
+content_info: {}

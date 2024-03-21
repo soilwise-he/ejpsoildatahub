@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Beeson_1897
+  dataseturi: https://doi.org/10.1021/ja02082a004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE PHYSICAL EFFECTS OF VARIOUS SALTS AND FERTILIZER INGREDIENTS UPON A SOIL
+    AS MODIFYING THE FACTORS WHICH CONTROL ITS SUPPLY OF MOISTURE.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE PHYSICAL EFFECTS OF VARIOUS SALTS AND FERTILIZER INGREDIENTS UPON A
+      SOIL AS MODIFYING THE FACTORS WHICH CONTROL ITS SUPPLY OF MOISTURE.
+    url: http://dx.doi.org/10.1021/ja02082a004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Beeson-J.-L.:
+    individualname: Beeson, J. L.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Prescott_1914
+  dataseturi: https://doi.org/10.1017/s0021859600002707
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Estimation of Phosphates in Soil Extracts
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Estimation of Phosphates in Soil Extracts
+    url: http://dx.doi.org/10.1017/s0021859600002707
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prescott-James-Arthur:
+    individualname: Prescott, James Arthur
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

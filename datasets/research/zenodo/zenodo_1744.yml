@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1238388
+  dataseturi: https://doi.org/10.5281/zenodo.1238388
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: VERTICAL DEFORMATION OF LIME REATED BASE (LTB) MODEL OF LATERITE SOIL USING
+    NUMERICAL ANALYSIS
+  abstract: This study aim to analyze and produce vertical deformation of lime treated
+    base model of laterite soil. The samples of laterite soil were obtained from Sorowako
+    Regency of East Luwu, South Sulawesi, Indonesia. The physical and mechanical properties
+    of the soil are obtained from laboratory testing, according to American Standard
+    for Testing and Materials (ASTM). The lime treated base of the laterite soil layer
+    is modeled with the dimension of length (L) = 4 m, width (W) = 2 m, and height
+    (H) = 1.5 m. Stabilization of laterite soil with lime was conducted with variations
+    of lime addition of 3, 5, 7, an 10%, under the maximum density conditions of standard
+    Proctor test results. The model of the layers consists of soil subgrade layer
+    (1.5 m), and lime treated base layer of laterite soil (0.1 m). Furthermore, the
+    physical model is numerically analyzed by the finite element method. The results
+    showed that the lime treated base layer with 10% lime content reduced the vertical
+    deformation three times less than the laterite soil without stabilization. While
+    the vertical deformation of the lime treated base layer meets the maximum deflection
+    (L/240) in the addition of 710% lime.
+  keywords:
+    default:
+      keywords:
+        subject: Vertical deformat ion, lime treated base, laterit soil, numerical
+          analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-05-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1238388
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1238387
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saing-Zubair:
+    individualname: Saing, Zubair
+    role: creator
+    organization: Universitas Muhammadiyah Maluku Utara
+    url: https://orcid.org/0000-0002-6083-7457
+content_info: {}

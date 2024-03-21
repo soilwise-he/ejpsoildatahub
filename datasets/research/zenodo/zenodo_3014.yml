@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mamedov_2019
+  dataseturi: https://doi.org/10.33619/2414-2948/40/15
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Compilation of interactive electronic soil maps and maps of ecological assessment
+    of soils of Azerbaijan on the basis of geographic information systems
+  abstract: '&lt;p&gt;On the basis of the GIS software, an electronic map platform
+    has been created covering the entire territory of the Republic of Azerbaijan,
+    which supports an interactive update mode. This map covers the entire scale of
+    the spectrum and meets the requirements of e-agriculture and other public information
+    systems, which are based on the use of data space. For conducting soil, agrochemical
+    and interdisciplinary research on the platform, a method of plastic relief was
+    developed. A detailed methodology for compiling digital soil and ecological soil
+    assessment maps using 3D visualization has also been prepared.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - geographic information system
+      - interactive map
+      - ecological assessment
+      - scorecard
+      - database
+      - information
+      - digital map
+      - agro-industrial grouping
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Compilation of interactive electronic soil maps and maps of ecological assessment
+      of soils of Azerbaijan on the basis of geographic information systems
+    url: http://dx.doi.org/10.33619/2414-2948/40/15
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mamedov-G.:
+    individualname: Mamedov, G.
+    role: creator
+  Publishing-Center-Science:
+    individualname: Publishing Center Science
+    role: creator
+  Practice:
+    individualname: Practice
+    role: creator
+content_info: {}

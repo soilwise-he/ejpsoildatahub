@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lathrop_1912
+  dataseturi: https://doi.org/10.1021/ja02210a015
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: GUANINE FROM A HEATED SOIL.1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: GUANINE FROM A HEATED SOIL.1
+    url: http://dx.doi.org/10.1021/ja02210a015
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lathrop-Elbert-C.:
+    individualname: Lathrop, Elbert C.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

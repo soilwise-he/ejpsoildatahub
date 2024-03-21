@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1055779
+  dataseturi: https://doi.org/10.5281/zenodo.1055779
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction Of Soil Hydraulic Conductivity From Particle-Size Distribution
+  abstract: 'Hydraulic conductivity is one parameter important for predicting the
+    movement of water and contaminants dissolved in the water through the soil. The
+    hydraulic conductivity is measured on soil samples in the lab and sometimes tests
+    carried out in the field. The hydraulic conductivity has been related to soil
+    particle diameter by a number of investigators. In this study, 25 set of soil
+    samples with sand texture. The results show approximately success in predicting
+    hydraulic conductivity from particle diameters data. The following relationship
+    obtained from multiple linear regressions on data (R2 = 0.52): Where d10, d50
+    and d60, are the soil particle diameter (mm) that 10%, 50% and 60% of all soil
+    particles are finer (smaller) by weight and Ks, saturated hydraulic conductivity
+    is expressed in m/day. The results of regression analysis showed that d10 play
+    a more significant role with respect to Ks, saturated hydraulic conductivity (m/day),
+    and has been named as the effective parameter in Ks calculation.'
+  keywords:
+    default:
+      keywords:
+        subject: particle-size distribution and soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-01-24'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1055779
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1055778
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.F.-Salarashayeri:
+    individualname: A.F. Salarashayeri
+    role: creator
+    organization: ''
+    url: ''
+  M.-Siosemarde:
+    individualname: M. Siosemarde
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

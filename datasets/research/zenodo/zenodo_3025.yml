@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30768
+  dataseturi: https://doi.org/10.5281/zenodo.30768
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Modelling Changes In Forest Soil Chemistry In The Oldest Spruce Stands In
+    The Potok Dupnianski Catchment In Southern Poland Using Forsafe Model
+  abstract: "The dynamic forest ecosystem model ForSAFE was applied to the oldest\
+    \ spruce forest stand in a forested catchment \u2013 the Potok Dupnia\u0144ski\
+    \ (southern Poland), to study changes in forest soil chemistry and possible recovery\
+    \ from acidification following changes in atmospheric deposition. The simulation\
+    \ shows a considerable historical acidification. The model uses data from intensive\
+    \ monitoring of a plot established in 1999 in a spruce stand which was planted\
+    \ in 1880. Observations showed that stand soil was depleted of base cations. Percent\
+    \ base saturation measured in 1999<br>\nwas between 5\u2013 8% in different soil\
+    \ layers. Notwithstanding large emission reductions in the region, forest ecosystems\
+    \ in the Potok Dupnia\u0144ski still suffer from very high loads of acidifying\
+    \ input. Soil recovery depends on future<br>\nemission, and especially on base\
+    \ cation and nitrogen deposition. While higher base cation deposition will promote\
+    \ recovery, continual elevated nitrogen deposition in the future may delay recovery\
+    \ owing to its interference in the biogeochemical cycle (e.g. by increasing base\
+    \ cation uptake from the soil)."
+  keywords:
+    default:
+      keywords:
+        subject: southern Poland
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-12-01'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30768
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Malek-Stanislaw:
+    individualname: "Ma\u0142ek, Stanis\u0142aw"
+    role: creator
+    organization: "University of Agriculture in Krakow, Faculty of Forestry, Department\
+      \ of Forest Ecology, al. 29 Listopada 46, 31-425 Krak\xF3w"
+    url: ''
+  Belyazid-Salim:
+    individualname: Belyazid, Salim
+    role: creator
+    organization: "Belyazid Consulting and Communication AB, Stationsv\xE4gen 13,\
+      \ 51734, Bollebygd, Sweden"
+    url: ''
+  Sverdrup-Harald:
+    individualname: Sverdrup, Harald
+    role: creator
+    organization: Lund University, Department of Chemical Engineering, P.O. Box 124,
+      221 00 Lund, Sweden
+    url: ''
+content_info: {}

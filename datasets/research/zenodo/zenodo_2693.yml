@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3338252
+  dataseturi: https://doi.org/10.5281/zenodo.3338252
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Some distribution peculiarities of heavy metals mobile forms in the soil
+    of ore mining region under various vegetative associations
+  abstract: Some regularities of distribution of the mobile forms of iron, manganese,
+    zinc in soils adjacent to the Northern ore mining-and-processing integrated works
+    (Kryvbass) under various vegetative associations (steppe cenoses, forest shelter
+    belts, agrophytocenoses) have been investigated. It was established, that the
+    wood vegetation causes accumulation of all metals in soils. The intensity of this
+    process amplifies with depth, i. e. their migration outside the limits of the
+    soil profile takes place. Agrophytocenoses cause accumulation of manganese and
+    iron and leaching of zinc.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2000-03-01'
+    publication: '2000'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3338252
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3338251
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.M.-Savosko:
+    individualname: V.M. Savosko
+    role: creator
+    organization: Kryvyi Rih Botanical Gardens, National Academy of Sciences of Ukraine,
+      Ukraine, Kryvyi Rih
+    url: ''
+content_info: {}

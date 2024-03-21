@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5485019
+  dataseturi: https://doi.org/10.5281/zenodo.5485019
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: The relationship between Bedrock geometry and soil solum at a regional scale
+  abstract: One of the main goals of geomorphometry is to derive the geometry attributes
+    from a topographic surface that can be used as predictive variables in the soil-landscape
+    analysis. In this study, the relationship between geometry attributes of bedrock
+    topography and soil solum in a regional scale was investigated. For this study,
+    seven geometry attributes (slope gradient, slope aspect, plan curvature, profile
+    curvature, cross-sectional curvature, maximum curvature and minimum curvature)
+    of terrain surface (DTM) and bedrock surface (DBM) was calculated. The multivariate
+    adaptive regression splines (MARS) was applied for modeling and MannWhitney U
+    test for assessing the statistically differences of the geometry attributes across
+    the groups of DTM and DBM. The results showed that there are remarkable differences
+    between DTM and DBM geometry attributes, especially the slope gradient, profile
+    curvature, maximum curvature and minimum curvature. MARS modeling showed that
+    there is a remarkable difference between the relationships of DTM and DBM geometry
+    attributes and soil solum and the model fitted based on DBM geometry attributes
+    performs better in prediction. In our opinion, the idea of using bedrock topography
+    for geomorphometric modeling of soil properties still needs further investigation,
+    especially in terms of scale issue.
+  keywords:
+    default:
+      keywords:
+        subject: Digital Soil Mapping
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-06-22'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5485019
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5485018
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  khanifar-Javad:
+    individualname: khanifar, Javad
+    role: creator
+    organization: Soil Science Department, Faculty of Agriculture, Shahid Chamran
+      University of Ahvaz, Iran
+    url: https://orcid.org/0000-0001-9287-0764
+  Khademalrasoul-Ataallah:
+    individualname: Khademalrasoul, Ataallah
+    role: creator
+    organization: Soil Science Department, Faculty of Agriculture, Shahid Chamran
+      University of Ahvaz, Iran
+    url: ''
+content_info: {}

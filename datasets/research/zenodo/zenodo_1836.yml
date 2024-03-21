@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6654150
+  dataseturi: https://doi.org/10.5281/zenodo.6654150
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: 'PHD-dissertation-code: "Improved parameter estimation for the soil erosion
+    modeling tool EROSION-3D"'
+  abstract: Source code to the dissertation project "Improved parameter estimation
+    for the soil erosion modeling tool EROSION-3D" This repo contains the *.Rmd source
+    files of my thesis project, the included source code used for data analysis and
+    processing; and the primary data compiled from different base repositories for
+    this thesis. Style files (e.g. citation, latex template), protected third party
+    software, citation information (*.bib files) and data of the base repositories
+    is available from the author upon request.
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion modeling; EROSION-3D
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6654150
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6654149
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lenz-Jonas:
+    individualname: Lenz, Jonas
+    role: creator
+    organization: TU Bergakademie Freiberg
+    url: https://orcid.org/0000-0002-6167-1161
+content_info: {}

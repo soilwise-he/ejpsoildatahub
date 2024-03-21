@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8355567
+  dataseturi: https://doi.org/10.5281/zenodo.8355567
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Surge Characteristics During Lightning Discharge
+  abstract: "An electro-dynamic model of soil has been developed that takes into account\
+    \ the frequency dependent and nonlinear soil parameters. Its primary aim is to\
+    \ examine and validate different engineering return stroke models during discharge,\
+    \ but it can successfully be used for examining and calculation of the grounding.\
+    \ The model accounts for surge behaviour in soils with a wide range of conductivities.\
+    \ The use of the new model for studies at high lightning currents reveals that\
+    \ a great change in the grounding concept can be expected compared to what was\
+    \ previously established in many studies. It is shown that the concept of soil\
+    \ impedance is not applicable in cases of nonlinear resistance and capacitance\
+    \ of the grounding. The same holds for the current reflection coefficient. The\
+    \ new model can be applied when the wavelength of each component in the channel-base\
+    \ current frequency spectrum is much greater than its skin depth in the soil.\
+    \ For most soils the new model is applicable up to 10 MHz. It shows that the channel-base\
+    \ current and the grounding characteristics are related and cannot be treated\
+    \ independently. In other words, the current pulse in any particular return stroke,\
+    \ even in the same flash, \u201Esees\u201C its own grounding impedance depending\
+    \ on its frequency content and current magnitude."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-11'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8355567
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8355566
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.-Cvetic:
+    individualname: J. Cvetic
+    role: creator
+    organization: ''
+    url: ''
+  M.-Ignjatovic:
+    individualname: "M. Ignjatovi\u0107"
+    role: creator
+    organization: ''
+    url: ''
+  F.-Heidler:
+    individualname: F. Heidler
+    role: creator
+    organization: ''
+    url: ''
+  D.-Pavlovic:
+    individualname: D. Pavlovic
+    role: creator
+  Pavlovic-D.:
+    individualname: Pavlovic, D.
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0003-2299-0570
+content_info: {}

@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465451
+  dataseturi: https://doi.org/10.5281/zenodo.3465451
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Simplified equivalent soil profiles based on liquefaction performance for
+    shallow-founded structures
+  abstract: 'Earthquake-induced liquefaction is responsible for considerable structural
+    damage. However, conventional liquefaction assessment focuses only on triggering.
+    In this paper, the eval-uation of liquefaction is refocused to consider the performance
+    of buildings. A new hazard-inde-pendent liquefaction classification is proposed
+    where the soil profile is defined as an equivalent 3-layered soil profile. The
+    classification consists of only three features, highly influential to the performance
+    of buildings: the depth of the non-liquefying crust, and the thickness and liquefaction
+    resistance of the potentially liquefiable layer. The influence of these parameters
+    is explored with reference to changes of the ground surface acceleration and foundation
+    bearing capacity. A pro-cedure to obtain the 3-layered soil profile from CPT data
+    is developed and set of soil profile classes are developed for rapid loss assessment
+    purposes. The procedure and classes are demon-strated on a case study site considering
+    100 CPT from Christchurch and a comparison is made regarding the computed LSN
+    value for the equivalent and CPT profiles.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    available: '2020-06-17'
+    accepted: '2019-06-17'
+    issued: '2019'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465451
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465450
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Millen-Maxim:
+    individualname: Millen, Maxim
+    role: creator
+    organization: CONSTRUCT, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Ferreira-Cristiana:
+    individualname: Ferreira, Cristiana
+    role: creator
+    organization: CONSTRUCT-GEO, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Gerace-A.:
+    individualname: Gerace, A.
+    role: creator
+    organization: CONSTRUCT-GEO, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+  Viana-da-Fonseca-Antonio:
+    individualname: "Viana da Fonseca, Ant\xF3nio"
+    role: creator
+    organization: CONSTRUCT-GEO, Faculty of Engineering of University of Porto, Porto,
+      Portugal
+    url: ''
+content_info: {}

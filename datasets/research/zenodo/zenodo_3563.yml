@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10091483
+  dataseturi: https://doi.org/10.5281/zenodo.10091483
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: Synthesis of the impact of sustainable soil management practices in Europe
+  abstract: "This \_synthesis \_identifies \_the knowledge \_about \_the sustainable\
+    \ \_soil management \_practices \_and their biophysical and socio-economical impacts,\
+    \ as reported by twenty five research teams of EJP SOIL participating \_countries.\_"
+  keywords:
+    default:
+      keywords:
+        subject: soil policy
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-01-29'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10091483
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10091483
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.10091482
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Paz-A.-M.:
+    individualname: Paz, A. M.
+    role: creator
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0001-7276-8447
+  Carranca-C.:
+    individualname: Carranca, C.
+    role: creator
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0003-2451-8704
+  Goncalves-M.-C.:
+    individualname: "Gon\xE7alves, M. C."
+    role: creator
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-5980-0294
+  Castanheira-N.:
+    individualname: Castanheira, N.
+    role: creator
+    organization: "Instituto Nacional de Investiga\xE7\xE3o Agr\xE1ria e Veterin\xE1\
+      ria"
+    url: 0000-0002-9276-1805
+  Miloczki-J.:
+    individualname: Miloczki, J.
+    role: creator
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Mihelic-R.:
+    individualname: "Miheli\u010D, R."
+    role: creator
+    organization: University of Ljubljana
+    url: ''
+  Carrasco-M.:
+    individualname: Carrasco, M.
+    role: creator
+    organization: "Instituto Superior T\xE9cnico"
+    url: ''
+  Vicente-C.:
+    individualname: Vicente, C.
+    role: creator
+    organization: "Instituto Superior T\xE9cnico"
+    url: ''
+content_info: {}

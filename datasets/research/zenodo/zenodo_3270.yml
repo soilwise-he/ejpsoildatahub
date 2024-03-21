@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dubovsky_1922
+  dataseturi: https://doi.org/10.1093/infdis/31.6.501
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An experimental study of the methods available for the enrichment, demonstration
+    and isolation of B. Botulinus in specimens of soil and its products, in suspected
+    food, in clinical and in necropsy material. I
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An experimental study of the methods available for the enrichment, demonstration
+      and isolation of B. Botulinus in specimens of soil and its products, in suspected
+      food, in clinical and in necropsy material. I
+    url: http://dx.doi.org/10.1093/infdis/31.6.501
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dubovsky-B.-J.:
+    individualname: Dubovsky, B. J.
+    role: creator
+  Meyer-K.-F.:
+    individualname: Meyer, K. F.
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4428967
+  dataseturi: https://doi.org/10.5281/zenodo.4428967
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Integrating decadal and century-scale root development with longer-term soil
+    development to understand terrestrial nutrient cycling
+  abstract: 'Here we present data used for analyses in the manuscript, "Walker and
+    Syers enter the Critical Zone: Integrating decadal scale root development with
+    longer term soil development to understand terrestrial nutrient cycling." These
+    include raw data from litter incubations, soil mineralogical analyses, and NPP
+    analyses. Data are presented in .csv format for use in R. We also include a table
+    of references for databases used to compile cross-site data.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-08-12'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4428967
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4282708
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hauser-Emma:
+    individualname: Hauser, Emma
+    role: creator
+    organization: University of Kansas
+    url: https://orcid.org/0000-0003-3554-3489
+  Chorover-Jon:
+    individualname: Chorover, Jon
+    role: creator
+    organization: University of Arizona
+    url: ''
+  Cook-Charles-W.:
+    individualname: Cook, Charles W.
+    role: creator
+    organization: Duke University
+    url: ''
+  Markewitz-Daniel:
+    individualname: Markewitz, Daniel
+    role: creator
+    organization: University of Georgia
+    url: ''
+  Rasmussen-Craig:
+    individualname: Rasmussen, Craig
+    role: creator
+    organization: University of Arizona
+    url: ''
+  Richter-Daniel-DeB.:
+    individualname: Richter, Daniel DeB.
+    role: creator
+    organization: Duke University
+    url: ''
+  Billings-Sharon-A.:
+    individualname: Billings, Sharon A.
+    role: creator
+    organization: University of Kansas
+    url: ''
+content_info: {}

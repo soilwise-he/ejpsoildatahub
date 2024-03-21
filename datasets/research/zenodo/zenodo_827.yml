@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7110904
+  dataseturi: https://doi.org/10.5281/zenodo.7110904
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ISOLATION OF ACTINOBACTERIES FROM THE SOIL FERROSPHERE AND THEIR IDENTIFICATION
+  abstract: "Actinobacteria is one of the bacterial groups important in terms of biofilm\
+    \ formation. Among them, representatives of <em>Streptomyces</em> sporoactinobacteria,\
+    \ some of the most active soil ammonifying bacteria, deserve attention. It is\
+    \ known that ammonifying bacteria are involved in microbially induced corrosion\
+    \ in the first stages of biofilm formation and form ammonia \u2013 a corrosion-dangerous\
+    \ metabolite. However, their diversity in soil ferrosphere remains poorly understood.\
+    \ <strong>The purpose</strong> of the work is the isolation of an actinobacterium\
+    \ strain from the soil ferrosphere and its identification. The work was carried\
+    \ out by conventional <strong>methods:</strong> general biological (preparation\
+    \ of mounts \"crushed drop\", stained smears, microscopy), microbiological (preparation\
+    \ of medium for the cultivation of bacteria, the method of ten-fold dilutions,\
+    \ Koch\u2019s method, seeding microorganisms in a liquid and agar medium, methods\
+    \ of staining of cells of bacteria and their structures (staining with fuchsin,\
+    \ methylene blue, Gram staining method in Kalina\u2019s modification), methods\
+    \ of determining physiological and biochemical properties (tests for catalase,\
+    \ oxidase, utilization of citrate, casein, fats, starch, urea, formation of indole,\
+    \ ammonia, hydrogen sulfide, MRVP-test, relation to oxygen and temperature), molecular-genetic\
+    \ (isolation of DNA from bacterial cells, polymerase chain reaction with primers\
+    \ for 16S rRNA gene, 16S rRNA gene sequencing, horizontal agarose gel electrophoresis,\
+    \ phylogenetic analysis using GenBank database and MEGA 6.0 computer program).\
+    \ <strong>Scientific novelty</strong> \u2013 from the soil ferrosphere is isolated\
+    \ a strain of actinobacteria, which by the complex of microbiological, physiological\
+    \ and biochemical properties and based on the sequence of the 16S rRNA gene fragment\
+    \ (according to the results of phylogenetic analysis) is classified as Streptomyces\
+    \ canus. It develops and expands the understanding of the diversity of corrosive\
+    \ bacteria and a set of test cultures for the study of microbial-induced corrosion\
+    \ processes. <strong>Conclusions</strong> \u2013 according to a number of microbiological,\
+    \ physiological, biochemical and genetic characteristics, the NUChC F2 strain\
+    \ is classified as <em>Streptomyces</em> and identified as <em>Streptomyces canus</em>.\
+    \ The nucleotide sequences of the 16S rRNA gene were registered in the GenBank\
+    \ database as <em>Streptomyces \u0441anus</em> MG924748 and MG924855. The isolated\
+    \ strain is ammonifying, thus potentially corrosion-active, and can be used in\
+    \ the study of microbial-induced corrosion processes. According to the level of\
+    \ biosafety, bacteria of the <em>S. canus</em> species belong to the 1st risk\
+    \ group (according to the German Technical Rules for biological agents) and are\
+    \ safe for human health."
+  keywords:
+    default:
+      keywords:
+        subject: 16S pRNA gene
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2022-09-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7110904
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7110903
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tkachuk-Nataliia:
+    individualname: Tkachuk Nataliia
+    role: creator
+  Zelena-Liubov:
+    individualname: Zelena Liubov
+    role: creator
+  Olhovik-Yevheniy:
+    individualname: Olhovik Yevheniy
+    role: creator
+  Nataliia-Tkachuk:
+    individualname: Nataliia, Tkachuk
+    role: ''
+    organization: T.H.Shevchenko National University "Chernihiv Colehium", Chernihiv,
+      Ukraine
+    url: https://orcid.org/0000-0002-5115-7716
+  Liubov-Zelena:
+    individualname: Liubov, Zelena
+    role: ''
+    organization: Danylo Zabolotny Institute of Microbiology and Virology, NAS of
+      Ukraine
+    url: https://orcid.org/0000-0002-5148-1030
+  Yevheniy-Olhovik:
+    individualname: Yevheniy, Olhovik
+    role: ''
+    organization: Chernihiv Lyceum No 32
+    url: https://orcid.org/0000-0002-8510-3820
+content_info: {}

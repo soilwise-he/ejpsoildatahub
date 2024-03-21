@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1410579
+  dataseturi: https://doi.org/10.5281/zenodo.1410579
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Hydrology Modeling To Assess Soil Water Balance In Dal Lake Basin Using Swat
+  abstract: Estimation of soil water balance for a lake basin becomes significant
+    in planning and executing sustainable management of water resources for any country.
+    This valuation includes computation of different elements involved in hydrologic
+    process and are mandatory to deal with water management problems. There are number
+    of geospatial technology based models are available to understand the hydrology
+    characteristics of any basin. In the current study hydrological model Soil and
+    water assessment tool (SWAT) integrated with QGIS has been chosen to predict the
+    water yield and soil water balance of Dal lake basin, Kashmir valley. SWAT is
+    a physically based integrated watershed model and it is suitable to use worldwide
+    for any complex watershed. Dal lake catchment is not only highly diverse but also
+    covers a huge area of 309 Km2.QSWAT interface for QGIS has been used to carry
+    out the analysis for the time period of 34 years from 1979 to 2013, Data such
+    as slope, Landuse and Landcover (LULC), Soil and weather which includes daily
+    precipitation, temperature, solar radiation, wind speed and Relative humidity
+    has been used and processed on monthly time scale basis. Results of hydrological
+    parameters includes Evapotranspiration, Actual Evapotranspiration (AET), Groundwater
+    Contribution, Potential Evapotranspiration (PET) and Surface runoff are analyzed
+    and represented as both in numbers and as wells as maps.
+  keywords:
+    default:
+      keywords:
+        subject: QSWAT, watershed delineation, SCS Curve, Runoff, Potential evapotranspiration
+          (PET)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-09-07'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1410579
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1409065
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  CV-Nishikanth:
+    individualname: CV Nishikanth
+    role: creator
+    organization: ''
+    url: ''
+  S.Vasudevan:
+    individualname: S.Vasudevan
+    role: creator
+    organization: ''
+    url: ''
+  P.-Balamurugan:
+    individualname: P. Balamurugan
+    role: creator
+    organization: ''
+    url: ''
+  R.-Selvaganapathi:
+    individualname: R. Selvaganapathi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

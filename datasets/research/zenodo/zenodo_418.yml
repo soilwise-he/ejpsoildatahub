@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3250851
+  dataseturi: https://doi.org/10.5281/zenodo.3250851
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Growth Test with Lepidium sativum L. for Soil Monitoring of Sites, Part of
+    the Bulgarian National Soil Monitoring System
+  abstract: 'The publication deals with the application of Lepidium sativum L. biotest
+    for the study<br>
+
+    of soils from three sites included in the National Soil Monitoring Network. There
+    were no<br>
+
+    exceedances of the limit values of the soil indicators in the monitored sites.
+    The obtained<br>
+
+    results presented the existence of strong correlations between the bio test seeds
+    and sprouts<br>
+
+    development and the variation in nitrogen content and the concentration of cobalt,
+    nickel, zinc<br>
+
+    and copper in the soil. The results of this study have shown some possibilities
+    for L. Sativum<br>
+
+    L. usage in soil monitoring, especially for the influence of soil nutrient elements
+    (nitrogen)<br>
+
+    and microelements on the plants and thus for determining soil functional capacity
+    and ability<br>
+
+    to provide material and support services.'
+  keywords:
+    default:
+      keywords:
+        subject: soil monitoring, biotest, Lepidium sativum L., functional soil diagnistics,
+          germination energy
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-20'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3250851
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3250850
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Boteva-Silvena:
+    individualname: Boteva, Silvena
+    role: creator
+    organization: St. Kl. Ohridski" University of Sofia, Faculty of Biology, 8 D.
+      Tzankov Blvd., 1164 Sofia, Bulgaria
+    url: ''
+  Lyubenova-Mariyana:
+    individualname: Lyubenova, Mariyana
+    role: creator
+    organization: St. Kl. Ohridski" University of Sofia, Faculty of Biology, 8 D.
+      Tzankov Blvd., 1164 Sofia, Bulgaria
+    url: ''
+  Kalcheva-Hristina:
+    individualname: Kalcheva, Hristina
+    role: creator
+    organization: Institute of Biodiversity and Ecosystem Research, Bulgarian Academy
+      of Sciences, 2 Gagarin Street, 1113 Sofia, Bulgaria
+    url: ''
+content_info: {}

@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7129322
+  dataseturi: https://doi.org/10.5281/zenodo.7129322
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Deterioration of Soil Health Due to Stubble Burning: Solution to its Root
+    Cause'
+  abstract: "Stubble burning has a great impact on environment, health of soil. The\
+    \ most often burned material is sugarcane leaves, followed by wheat and paddy.\
+    \ One centimeter of soil is heated by burning paddy straw, raising the soil's\
+    \ temperature to 33.8 to 42.2\xB0C. According to reports, the fire steadily reduced\
+    \ soil biological activity and organic matter by eradicating the bacterial and\
+    \ fungal populations necessary for a fruitful soil. Carbon in the ash cannot exist\
+    \ as a food source for the micro-organisms and acts only as a support for them.\
+    \ Thus, the activity of micro-organisms and their population declines which results\
+    \ in disruption of various biological processes in the soil."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7129322
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7129321
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sukhdip-Singh:
+    individualname: Sukhdip Singh
+    role: creator
+    organization: Lecturer Chemistry, SGRM Govt Girls Sr Sec Smart School Zira, Ferozepur,
+      Punjab, India 142047Lecturer Chemistry, SGRM Govt Girls Sr Sec Smart School
+      Zira, Ferozepur, Punjab, India 142047
+    url: ''
+content_info: {}

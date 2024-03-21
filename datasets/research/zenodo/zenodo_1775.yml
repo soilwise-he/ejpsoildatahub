@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7990338
+  dataseturi: https://doi.org/10.5281/zenodo.7990338
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil Carbon Stocks in Long Term Organic Crop Production System: Dynamics,
+    Relationships and Prospects'
+  abstract: "Quantification of soil organic carbon (SOC) stocks as indices of soil\
+    \ health, crop productivity and environmental sustainability necessitates the\
+    \ conduct of this research. A three-year field experiment was established to evaluate\
+    \ the dynamics, relationships and prospects of soil carbon storage under organic\
+    \ crop production system. The experiment involved four studies in Randomized Complete\
+    \ Block Design with two factors replicated thrice. Factor A for the various studies\
+    \ included corn, leafy vegetables, root vegetables and fruit vegetables. Factor\
+    \ B comprised of liquid organic amendments such as fish amino acid (FAA), fermented\
+    \ plant juice (FPJ), vermi tea and formulated organic fertilizer (FOF) which were\
+    \ submitted to the laboratory for nutrient analysis. Recommended management practices\
+    \ for the production of various crops were followed. Crop yield data were recorded.\
+    \ Composite soil samples were processed and brought to the Soils Laboratory for\
+    \ analysis of soil pH, % organic matter, total nitrogen, available phosphorus\
+    \ and exchangeable potassium. After two croppings, there was a declining trend\
+    \ in SOC of plots grown with corn, leafy, root and fruit vegetables applied with\
+    \ organic amendments. Among the soil chemical properties, pH, available P and\
+    \ exchangeable K were found to be significantly correlated to corn yield. Best\
+    \ fitted regression equation to estimate corn yield is given as: Yield <sub>(corn)</sub>\
+    \ = 15.19 + (-1.45*pH) + (-0.06*P) + (-0.01*K), R<sup>2</sup>=0.5528. Soil organic\
+    \ carbon was found to be significantly correlated with soil pH, available P and\
+    \ exchangeable K. Application of FOF resulted to the highest SOC accumulation\
+    \ rate (\u2206C=2.07 t/ha/yr) and shortest year (PY=22.52 yrs) to achieve potential\
+    \ SOC pool for corn; leafy vegetables (\u2206C=3.29 t/ha/yr; PY=14.13 yrs) and\
+    \ fruit vegetables (\u2206C=2.65 t/ha/yr; PY=17.58 yrs). For root vegetable production,\
+    \ application of FAA showed the highest SOC accumulation rate (\u2206C=4.72 t/ha/yr)\
+    \ and shortest year to achieve potential SOC pool (PY=9.86 yrs)."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-31'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7990338
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7990337
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ryan-T.-Sarimong:
+    individualname: Ryan T. Sarimong
+    role: creator
+  Sarimong-Ryan-T.:
+    individualname: Sarimong, Ryan T.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

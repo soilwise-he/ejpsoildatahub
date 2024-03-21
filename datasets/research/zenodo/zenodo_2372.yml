@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: CHERLINKA_2022
+  dataseturi: https://doi.org/10.33542/GC2022-2-05
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Methods of modeling and mapping of the soil bulk density: a case study from
+    Chernivtsi region, Ukraine'
+  abstract: '&lt;p&gt;Soil monitoring programs in many countries often do not measure
+    such an indicator as soil bulk density. At the same time, modern problems of assessing
+    the condition of the soil cover require its use in soil management of agricultural
+    landscapes. We see the solution to this problem in geospatial modeling. We have
+    developed a technique for simulating soil bulk density, the algorithm of which
+    consists of five stages: the creation of model maps of agro-industrial soil groups,
+    modeling of a clay content map, construction of a map of humus content, selection
+    of empirical dependences of soil bulk density on humus and clay content with evaluation
+    reliability of these dependencies and their implementation in GRASS GIS and, finally,
+    cartographic modeling of the spatial continuous distribution of soil bulk density.
+    At the same time, parameters for improving the quality of methods modeling and
+    mapping the soil bulk density were established. First of all, this is an increase
+    in the sampling dataset of density, humus, and clay content to improve the reliability
+    of the selected regression formula. It is also an improvement in the quality of
+    spatial modeling of the humus content using geostatistical methods or modeling.
+    To improve the clay content map, it is necessary to increase the resolution of
+    DEM and predictors, to choose more accurate sources of DEM and prediction algorithms.
+    The application of the presented methodology is shown in a part of Chernivtsi
+    region, Ukraine, with the possibility of use on the scale of the entire country.&lt;/p&gt;
+
+
+    &lt;p&gt;URL:&nbsp;&lt;a href="https://www.gcass.science.upjs.sk/"&gt;https://www.gcass.science.upjs.sk/&lt;/a&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil bulk density
+      - humus
+      - clay
+      - modeling
+      - simulation
+      - morphometric parameters
+      - DEM
+      - predictive algorithms
+      - regression
+      - Geographia Cassoviensis
+      - "Pr\xEDrodovedeck\xE1 fakulta UPJ\u0160"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Methods of modeling and mapping of the soil bulk density: a case study
+      from Chernivtsi region, Ukraine'
+    url: http://dx.doi.org/10.33542/GC2022-2-05
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vasyl-CHERLINKA:
+    individualname: Vasyl CHERLINKA
+    role: creator
+  Yuriy-DMYTRUK:
+    individualname: Yuriy DMYTRUK
+    role: creator
+  Liubov-CHERLINKA:
+    individualname: Liubov CHERLINKA
+    role: creator
+  Mykhailo-GUNCHAK:
+    individualname: Mykhailo GUNCHAK
+    role: creator
+  Volodymyr-SOBKO:
+    individualname: Volodymyr SOBKO
+    role: creator
+  CHERLINKA-Vasyl:
+    individualname: CHERLINKA, Vasyl
+    role: creator
+  DMYTRUK-Yuriy:
+    individualname: DMYTRUK, Yuriy
+    role: creator
+  CHERLINKA-Liubov:
+    individualname: CHERLINKA, Liubov
+    role: creator
+  GUNCHAK-Mykhailo:
+    individualname: GUNCHAK, Mykhailo
+    role: creator
+  SOBKO-Volodymyr:
+    individualname: SOBKO, Volodymyr
+    role: creator
+  Pavol-Jozef-Safarik-University-in-Kosice:
+    individualname: Pavol Jozef Safarik University in Kosice
+    role: creator
+content_info: {}

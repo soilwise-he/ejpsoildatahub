@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: YOUNG_1893
+  dataseturi: https://doi.org/10.1680/imotp.1893.20448
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: FOUNDATIONS IN BLACK COTTON SOIL IN INDIA.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: FOUNDATIONS IN BLACK COTTON SOIL IN INDIA.
+    url: http://dx.doi.org/10.1680/imotp.1893.20448
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Young-E.-H.:
+    individualname: Young, E. H.
+    role: creator
+  YOUNG-E-H:
+    individualname: YOUNG, E H
+    role: creator
+  Thomas-Telford-Ltd.:
+    individualname: Thomas Telford Ltd.
+    role: creator
+content_info: {}

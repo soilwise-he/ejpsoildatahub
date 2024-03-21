@@ -1,0 +1,132 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hubert_2023
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2023.162668
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Influence of grain size, organic carbon and organic matter residue content
+    on the sorption of per- and polyfluoroalkyl substances in aqueous film forming
+    foam contaminated soils - Implications for remediation using soil washing
+  abstract:
+  - '&lt;p&gt;Abstract:&lt;/p&gt;
+
+
+    &lt;p&gt;A soil that was historically contaminated with Aqueous Film Forming Foam
+    (AFFF) was dry sieved into size fractions&lt;br&gt;
+
+    representative of those produced during soil washing. Batch sorption tests were
+    then conducted to investigate the&lt;br&gt;
+
+    effect of soil parameters on in situ per- and polyfluoroalkyl substances (PFAS)
+    sorption of these different size fractions:&lt;br&gt;
+
+    &lt; 0.063 mm, 0.063 to 0.5 mm, 0.5 to 2 mm, 2 to 4 mm, 4 to 8 mm, and soil organic
+    matter residues (SOMR). PFOS&lt;br&gt;
+
+    (513 ng/g), 6:2 FTS (132 ng/g) and PFHxS (58 ng/g) were the most dominant PFAS
+    in the AFFF contaminated soil.&lt;br&gt;
+
+    Non-spiked, in situ Kd values for 19 PFAS ranged from 0.2 to 138 L/Kg (log Kd
+    &minus;0.8 to 2.14) for the bulk soil and&lt;br&gt;
+
+    were dependant on the head group and perfluorinated chain length (spanning C4
+    to C13). The Kd values increased&lt;br&gt;
+
+    with decreasing grain size and increasing organic carbon content (OC), which were
+    correlated to each other. For example,&lt;br&gt;
+
+    the PFOS Kd value for silt and clay (&lt; 0.063mm, 17.1 L/Kg, log Kd 1.23) were
+    approximately 30 times higher compared&lt;br&gt;
+
+    to the gravel fraction (4 to 8 mm, 0.6 L/Kg, log Kd&minus;0.25). The highest PFOS
+    Kd value (116.6 L/Kg, log Kd 2.07)&lt;br&gt;
+
+    was found for the SOMRfraction, which had the highest OC content. Koc values for
+    PFOS ranged from6.9 L/Kg (log Koc&lt;br&gt;
+
+    0.84) for the gravel fraction to 1906 L/Kg (log Koc 3.28) for the silt and clay,
+    indicating that the mineral composition of&lt;br&gt;
+
+    the different size fractions also influenced sorption. The results here emphasize
+    the need to separate coarse-grained&lt;br&gt;
+
+    fractions and fine-grained fractions, and in particular the SOMR, to optimize
+    the soil washing process. Higher Kd values&lt;br&gt;
+
+    for the smaller size fractions indicate that coarser soils are better suited for
+    soil washing.&lt;/p&gt;'
+  - "This project received funding from the European Union's Horizon 2020\nresearch\
+    \ and innovation program under the Marie Sk\u0142odowska-Curie grant\nagreement\
+    \ No. 860665 (PERFORCE3 Innovative Training Network), grant\nagreement No 101036756\
+    \ (ZeroPM) and the Research Council of Norway\nproject SLUDGEFFECT (RCN 302371).\
+    \ PFAS Analysis was carried out in\nthe EnviroChemistry Lab at NTNU."
+  keywords:
+    default:
+      keywords:
+      - organic residues
+      - partitioning
+      - remediation
+      - contaminated soil
+      - Koc
+      - PFAS chain-length
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Influence of grain size, organic carbon and organic matter residue content
+      on the sorption of per- and polyfluoroalkyl substances in aqueous film forming
+      foam contaminated soils - Implications for remediation using soil washing
+    url: http://dx.doi.org/10.1016/j.scitotenv.2023.162668
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hubert-Michel:
+    individualname: Hubert, Michel
+    role: creator
+  Arp-H.-Hans-Peter:
+    individualname: Arp H. Hans Peter
+    role: creator
+  Hansen-C.-Mona:
+    individualname: Hansen C. Mona
+    role: creator
+  Castro-Gabriela:
+    individualname: Castro, Gabriela
+    role: creator
+  Meyn-Thomas:
+    individualname: Meyn, Thomas
+    role: creator
+  Asimakopoulos-G.-Alexandros:
+    individualname: Asimakopoulos G. Alexandros
+    role: creator
+  Hale-E.-Sarah:
+    individualname: Hale E. Sarah
+    role: creator
+  Arp-Hans-Peter-H.:
+    individualname: Arp, Hans Peter H.
+    role: creator
+  Hansen-Mona-Cecilie:
+    individualname: Hansen, Mona Cecilie
+    role: creator
+  Asimakopoulos-Alexandros-G.:
+    individualname: Asimakopoulos, Alexandros G.
+    role: creator
+  Hale-Sarah-E.:
+    individualname: Hale, Sarah E.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

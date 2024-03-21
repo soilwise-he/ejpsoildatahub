@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8172320
+  dataseturi: https://doi.org/10.5281/zenodo.8172320
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Progressive collapse and soil stress analyses of Manupali steel truss bridge
+    in Lantapan, Bukidnon under hydraulic and traffic threats
+  abstract: "Bridges designed to comply with current design codes may not provide\
+    \ enough strength to arrest a possible local failure following an abnormal event,\
+    \ thus leading to a progressive collapse. One may employ different approaches\
+    \ that vary according to linearity and dynamicity to analyze the potential of\
+    \ a structure to progressive collapse. Together with a prior risk assessment,\
+    \ this study analyzed the susceptibility of the Manupali steel truss bridge to\
+    \ progressive collapse using an adapted nonlinear static approach and assessed\
+    \ the bridge\u2019s pile foundation capacity concerning changes in the imposed\
+    \ stresses caused by the dynamic effects of progressive collapse. Using P-Delta\
+    \ analysis in STAAD.Pro CONNECT Edition V22, this study determined that under\
+    \ its self-weight, the Manupali steel truss bridge is susceptible to progressive\
+    \ collapse, i.e., it is fracture critical. Nonetheless, being such does not mean\
+    \ the bridge is inherently unsafe, only that it lacks redundancy in the design.\
+    \ Furthermore, this study found that a collapse does not significantly detrimentally\
+    \ affect the foundation system except when the dynamic effect is so tremendous.\
+    \ With the results, this study recommends that the design of bridges should consider\
+    \ abnormal load cases to mitigate progressive collapse."
+  keywords:
+    default:
+      keywords:
+        subject: Progressive Collapse; Steel Truss Bridge; Nonlinear Static; Dynamic
+          Amplification Factor; Demand-Capacity Ratio; Hydraulic Threats
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-04-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8172320
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8172319
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reymarvelos-M.-Oros:
+    individualname: Reymarvelos M. Oros
+    role: creator
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+  Jonrick-G.-Escol:
+    individualname: Jonrick G. Escol
+    role: creator
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+  Ritz-Crizelle-M.-Mabilen:
+    individualname: Ritz Crizelle M. Mabilen
+    role: creator
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+  Cyril-Grace-U.-Rapista:
+    individualname: Cyril Grace U. Rapista
+    role: creator
+  Nin-Christian-G.-Hufana:
+    individualname: Nin Christian G. Hufana
+    role: creator
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+  Irish-S.-Tambis:
+    individualname: Irish S. Tambis
+    role: creator
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+  Rapista-Cyril-Grace-U.:
+    individualname: Rapista, Cyril Grace U.
+    role: ''
+    organization: Department of Civil Engineering, College of Engineering, Central
+      Mindanao University, Bukidnon, Philippines.
+    url: ''
+content_info: {}

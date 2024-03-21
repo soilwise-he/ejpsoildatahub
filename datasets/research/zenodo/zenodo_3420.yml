@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1315788
+  dataseturi: https://doi.org/10.5281/zenodo.1315788
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impact Of Interface Soil Layer On Groundwater Aquifer Behaviour
+  abstract: "The geological environment where the groundwater is collected represents\
+    \ the most important element that affects the behaviour of groundwater aquifer.\
+    \ As groundwater is a worldwide vital resource, it requires knowing the parameters\
+    \ that affect this source accurately so that the conceptualized mathematical models\
+    \ would be acceptable to the broadest ranges. Therefore, groundwater models have\
+    \ recently become an effective and efficient tool to investigate groundwater aquifer\
+    \ behaviours. Groundwater aquifer may contain aquitards, aquicludes, or interfaces\
+    \ within its geological formations. Aquitards and aquicludes have geological formations\
+    \ that forced the modellers to include those formations within the conceptualized\
+    \ groundwater models, while interfaces are commonly neglected from the conceptualization\
+    \ process because the modellers believe that the interface has no effect on aquifer\
+    \ behaviour. The current research highlights the impact of an interface existing\
+    \ in a real unconfined groundwater aquifer called Dibdibba, located in Al-Najaf\
+    \ City, Iraq where it has a river called the Euphrates River that passes through\
+    \ the eastern part of this city. Dibdibba groundwater aquifer consists of two\
+    \ types of soil layers separated by an interface soil layer. A groundwater model\
+    \ is built for Al-Najaf City to explore the impact of this interface. Calibration\
+    \ process is done using PEST 'Parameter ESTimation' approach and the best Dibdibba\
+    \ groundwater model is obtained. When the soil interface is conceptualized, results\
+    \ show that the groundwater tables are significantly affected by that interface\
+    \ through appearing dry areas of 56.24 km\xB2 and 6.16 km\xB2 in the upper and\
+    \ lower layers of the aquifer, respectively. The Euphrates River will also leak\
+    \ water into the groundwater aquifer of 7359 m\xB3/day. While these results are\
+    \ changed when the soil interface is neglected where the dry area became 0.16\
+    \ km\xB2, the Euphrates River leakage became 6334 m\xB3/day. In addition, the\
+    \ conceptualized models (with and without interface) reveal different responses\
+    \ for the change in the recharge rates applied on the aquifer through the uncertainty\
+    \ analysis test. The aquifer of Dibdibba in Al-Najaf City shows a slight deficit\
+    \ in the amount of water supplied by the current pumping scheme and also notices\
+    \ that the Euphrates River suffers from stresses applied to the aquifer. Ultimately,\
+    \ this study shows a crucial need to represent the interface soil layer in model\
+    \ conceptualization to be the intended and future predicted behaviours more reliable\
+    \ for consideration purposes."
+  keywords:
+    default:
+      keywords:
+        subject: Visual MODFLOW.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-05'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1315788
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1315787
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hayder-H.-Kareem:
+    individualname: Hayder H. Kareem
+    role: creator
+  Shunqi-Pan:
+    individualname: Shunqi Pan
+    role: creator
+    organization: ''
+    url: ''
+  Kareem-Hayder-H.:
+    individualname: Kareem, Hayder H.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

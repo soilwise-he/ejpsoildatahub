@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KNOWLES_1919
+  dataseturi: https://doi.org/10.1038/103205a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A Possible Case of Partial Sterilisation in Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A Possible Case of Partial Sterilisation in Soil
+    url: http://dx.doi.org/10.1038/103205a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Knowles-F.:
+    individualname: Knowles, F.
+    role: creator
+  KNOWLES-F.:
+    individualname: KNOWLES, F.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10608732
+  dataseturi: https://doi.org/10.5281/zenodo.10608732
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: State of the Art in Unsaturated Soil Testing
+  abstract: "Abstract In most soil mechanics laboratories, studies on soil behaviour\
+    \ are systematically carried out under saturated conditions in accordance with\
+    \ the TERZAGHI postulate. However, due to climatic conditions (arid, semi-arid,\
+    \ extreme continental), soils are often in a state of unsaturation and no longer\
+    \ meet Terzaghi's laws. These soils undergo alternating dry and wet seasons and\
+    \ are subject to drainage and humidification cycles. Depending on their nature,\
+    \ and especially in the case of fine soils, these variations in water status can\
+    \ lead to disorders due to phenomena such as swelling, shrinkage, or collapse.\
+    \ It is then necessary to have a good knowledge of these soils. To study unsaturated\
+    \ soils, it is then important to understand the phenomena which take place there\
+    \ and their mechanical behavior. \n\nThe present article therefore proposes to\
+    \ present an overview of the different phenomena that characterize unsaturated\
+    \ soils and particularly the tests proposed to explain their mechanical behavior.\n\
+    \nTaking into account and controlling the unsaturated state of soils will allow\
+    \ to solve in a more efficient way the problems related to structures such as:\
+    \ embankment dams, dikes, road embankments, slopes, tunnels."
+  keywords:
+    default:
+      keywords:
+        subject: Unsaturated soils - suction - water retention - hydromechanical behavior
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-31'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10608732
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10608731
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bertrand-GBAFFONOU:
+    individualname: Bertrand GBAFFONOU
+    role: creator
+    organization: University of Abomey-Calavi (UAC)
+    url: ''
+  Yvette-TANKPINOU-KIKI:
+    individualname: Yvette TANKPINOU KIKI
+    role: creator
+    organization: National University of Science, Technology, Engineering and Mathematics
+      (UNSTIM)
+    url: ''
+  Virtus-TOHOUNGBA:
+    individualname: Virtus TOHOUNGBA
+    role: creator
+    organization: University of Abomey-Calavi (UAC)
+    url: ''
+  Victor-S.-GBAGUIDI:
+    individualname: Victor S. GBAGUIDI
+    role: creator
+    organization: University of Abomey-Calavi (UAC)
+    url: ''
+content_info: {}

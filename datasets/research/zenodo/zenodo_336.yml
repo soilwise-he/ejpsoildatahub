@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Rosen_1908
+  dataseturi: https://doi.org/10.1086/329699
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Absorptive Power of a Cultivated Soil
+  abstract: 'Volume: 46 ; Start Page: 224 ; End Page: 229'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Absorptive Power of a Cultivated Soil
+    url: http://dx.doi.org/10.1086/329699
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rosen-Joseph:
+    individualname: Rosen, Joseph
+    role: creator
+  Heller-Charles:
+    individualname: Heller, Charles
+    role: creator
+  University-of-Chicago-Press:
+    individualname: University of Chicago Press
+    role: creator
+content_info: {}

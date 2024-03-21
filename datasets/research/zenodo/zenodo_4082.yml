@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1130969
+  dataseturi: https://doi.org/10.5281/zenodo.1130969
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects Of Irrigation Scheduling And Soil Management On Maize (Zea Mays L.)
+    Yield In Guinea Savannah Zone Of Nigeria
+  abstract: The main objective of any irrigation program is the development of an
+    efficient water management system to sustain crop growth and development and avoid
+    physiological water stress in the growing plants. Field experiment to evaluate
+    the effects of some soil moisture conservation practices on yield and water use
+    efficiency (WUE) of maize was carried out in three locations (i.e. Mubi and Yola
+    in the northern Guinea Savannah and Ganye in the southern Guinea Savannah of Adamawa
+    State, Nigeria) during the dry seasons of 2013 and 2014. The experiment consisted
+    of three different irrigation levels (7, 10 and 12 day irrigation intervals),
+    two levels of mulch (mulch and un-mulched) and two tillage practices (no tillage
+    and minimum tillage) arranged in a randomized complete block design with split-split
+    plot arrangement and replicated three times. The Blaney-Criddle method was used
+    for measuring crop evapotranspiration. The results indicated that seven-day irrigation
+    intervals and mulched treatment were found to have significant effect (P&gt;0.05)
+    on grain yield and water use efficiency in all the locations. The main effect
+    of tillage was non-significant (P&lt;0.05) on grain yield and WUE. The interaction
+    effects of irrigation and mulch were significant (P&gt;0.05) on grain yield and
+    WUE at Mubi and Yola. Generally, higher grain yield and WUE were recorded on mulched
+    and seven-day irrigation intervals, whereas lower values were recorded on un-mulched
+    with 12-day irrigation intervals. Tillage exerts little influence on the yield
+    and WUE. Results from Ganye were found to be generally higher than those recorded
+    in Mubi and Yola; it also showed that an irrigation interval of 10 days with mulching
+    could be adopted for the Ganye area, while seven days interval is more appropriate
+    for Mubi and Yola.
+  keywords:
+    default:
+      keywords:
+        subject: guinea savannah.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-03'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1130969
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1130968
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.-Alhassan:
+    individualname: I. Alhassan
+    role: creator
+    organization: ''
+    url: ''
+  A.-M.-Saddiq:
+    individualname: A. M. Saddiq
+    role: creator
+    organization: ''
+    url: ''
+  A.-G.-Gashua:
+    individualname: A. G. Gashua
+    role: creator
+    organization: ''
+    url: ''
+  K.-K.-Gwio-Kura:
+    individualname: K. K. Gwio-Kura
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

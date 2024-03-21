@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1256500
+  dataseturi: https://doi.org/10.5281/zenodo.1256500
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Erosion Risk Assessment Using Gis Based Usle Model For Soil And Water
+    Conservation Planning In Somodo Watershed, South West Ethiopia
+  abstract: "<strong><em>Abstract</em></strong><strong>\u2014</strong> <em>Soil erosion\
+    \ is natural phenomena and is modified by biophysical environment comprising soil,\
+    \ climate, terrain, ground cover and their interactions. Due to different factors,\
+    \ it is difficult to make watershed management successful in all areas at one\
+    \ time. Because of this, prioritization of sub watershed is very important for\
+    \ soil conservation planning and implementation. In Somodo watershed more than\
+    \ five years different soil and water conservation technologies were implemented\
+    \ and satisfactory result was not recorded. In this aspect, it is important to\
+    \ consider further watershed management  planning., This study therefore investigated\
+    \ soil erosion risk assessment using GIS and USLE model for soil and water conservation\
+    \ in Somodo watershed southwestern Ethiopia with the aim of estimating soil erosion\
+    \ rate and identify soil erosion hot pot areas through prioritization of sub watershed\
+    \ in Somodo watershed by the help of GIS based USLE model. Both primary and secondary\
+    \ data sources were used for model input. These data were computed at a grid level\
+    \ with 30*30m resolution and then overlaid to generate mean annual soil loss by\
+    \ the help of raster calculator in Arc GIS tool. Results of the study showed that,\
+    \ the mean annual soil loss of the watershed was 18.69 ton ha<sup>-1</sup> year<sup>-1</sup>\
+    \ ranging from 0 to 131.21. More than 75% of the watershed have soil loss greater\
+    \ than 20 ton ha<sup>-1</sup> year<sup>-1</sup> and only 25% of the area have\
+    \ soil loss less than 10</em> <em>ton ha<sup>-1</sup> year<sup>-1</sup>.On the\
+    \ bases of mean annual soil loss SW-4, SW-6 and SW-7 were under slight (0-10 ton\
+    \ ha<sup>-1</sup> year<sup>-1</sup>) erosion severity level, while the remaining\
+    \  SW-2, SW-3 and SW-8 were under moderate (10-20 ton ha<sup>-1</sup> year<sup>-1</sup>)\
+    \ level. And SW-1 was in high (20-30 ton ha<sup>-1</sup> year<sup>-1</sup>) erosion\
+    \ severity level, where as SW-5 and SW-9 were found in very high (&gt;30 ton ha<sup>-1</sup>\
+    \ year<sup>-1</sup>) erosion severity level. Since large area of the watershed\
+    \ has soil loss more than tolerable level (11 ton ha<sup>-1</sup> year<sup>-1</sup>)\
+    \ attention should be given to identify erosion hot spot areas to minimize the\
+    \ on-site and off-site problems. Therefore, the study suggested that for effective\
+    \ watershed management and soil conservation planning, these sub-watershed priorities\
+    \ should be used in the watershed. </em>"
+  keywords:
+    default:
+      keywords:
+        subject: Soil loss, GIS, USLE, Hot spot and prioritization.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-05-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1256500
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1256499
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gizaw-Tesfaye:
+    individualname: Gizaw Tesfaye
+    role: creator
+    organization: ''
+    url: ''
+  Yalemtsehay-Debebe:
+    individualname: Yalemtsehay Debebe
+    role: creator
+    organization: ''
+    url: ''
+  Kalkidan-Fikirie:
+    individualname: Kalkidan Fikirie
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

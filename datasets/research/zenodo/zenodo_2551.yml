@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10208790
+  dataseturi: https://doi.org/10.5281/zenodo.10208790
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: PRODUCTIVITY OF AGRICULTURAL CROPS DEPENDING ON THE METHODS OF SOIL TILLAGE
+    IN THE CONDITIONS OF POLISSYA OF UKRAINE
+  abstract: One of the key tasks of modern agriculture is effective management of
+    the soil ecosystem, preventing the spread of soil degradation processes and preserving
+    its energy potential. In this sense, the aim of the study was to study the possibility
+    of improving the main agrophysical and hydro-physical indicators of the arable
+    layer of light gray forest soil as a component of managing the fertility of light
+    soils in Polesya and the formation of productive agrocenosis.
+  keywords:
+    default:
+      keywords:
+        subject: density of addition of the soil, soil porosity, crop yields, agrotechnology,
+          light gray forest soils.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-27'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10208790
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10208789
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Sciences-of-Europe:
+    individualname: Sciences of Europe
+    role: creator
+  Rachok-M.:
+    individualname: Rachok M.
+    role: creator
+    organization: ''
+    url: ''
+  Prokopchuk-I.:
+    individualname: Prokopchuk I.
+    role: creator
+    organization: ''
+    url: ''
+  Panchenko-O.:
+    individualname: Panchenko O.
+    role: creator
+    organization: ''
+    url: ''
+  Kapraliuk-A.:
+    individualname: Kapraliuk A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

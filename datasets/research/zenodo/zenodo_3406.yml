@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3669224
+  dataseturi: https://doi.org/10.5281/zenodo.3669224
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of Nanozeolite Particles on Improvement of Clayey Soil
+  abstract: The problem of soil stabilization has been one of the important issues
+    in geotechnical engineering. Nowadays, nanomaterials have revolutionized many
+    industries. In this research, improvement of the Kerman fine-grained soil by nanozeolite
+    and nanobentonite additives separately has been investigated using Atterberg Limits
+    and unconfined compression test. In unconfined compression test, the samples were
+    prepared with 3, 5 and 7% nano additives, with 1, 7 and 28 days curing time with
+    strain control method. Finally, the effect of different percentages of nanozeolite
+    and nanobentonite on the geotechnical behavior and characteristics of Kerman fine-grained
+    soil was investigated. The results showed that with increasing the amount of nanozeolite
+    and also nanobentonite to fine-grained soil, the soil exhibits more compression
+    strength. So that by adding 7% nanozeolite and nanobentonite with 1 day curing,
+    the unconfined compression strength is 1.18 and 2.1 times higher than the unstabilized
+    soil. In addition, the failure strain decreases in samples containing nanozeolite,
+    whereas it increases in the presence of nanobentonite. Increasing the percentage
+    of nanozeolite and nanobentonite also increased the elasticity modulus of soil.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-01-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3669224
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3669223
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Goodarzian:
+    individualname: A. Goodarzian
+    role: creator
+    organization: ''
+    url: ''
+  A.-Ghasemipanah:
+    individualname: A. Ghasemipanah
+    role: creator
+    organization: ''
+    url: ''
+  R.-Ziaie-Moayed:
+    individualname: R. Ziaie Moayed
+    role: creator
+    organization: ''
+    url: ''
+  H.-Niroumand:
+    individualname: H. Niroumand
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

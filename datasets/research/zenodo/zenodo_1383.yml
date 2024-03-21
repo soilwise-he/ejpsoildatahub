@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1119161
+  dataseturi: https://doi.org/10.5281/zenodo.1119161
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Comparison Of Simulation Methods For Backfill Soil Pressure  On Filled
+    Shell Structures
+  abstract: The article presents a comparative analysis of two computational methods
+    modelling soil backing of large diameter shells with infill that are installed
+    on the compressible base. The structure under consideration is a thin metal or
+    reinforced concrete shell (usually cylindrical one) filled with soil of coarse
+    fraction. Thin shells with infill are widely used in hydraulic, industrial, civil,
+    and transport engineering. They are also used in various climatic conditions when
+    constructing quays, piers, jetties, breakwaters, retaining walls, bridge foundations,
+    and other facilities. At present, the possibility of their use in the reconstruction
+    and development of structures of the Arctic ports is being considered. Of the
+    two simulation methods of backfill soil as a part of numerical modelling of thin
+    shell with infill, the principal one is that of modelling backfill soil as elasto-plastic
+    medium. The Mohr-Coulomb model was chosen as the analytical one to describe the
+    processes ongoing in the depth of soil. The simplified method of constructing
+    assumes the simulation of backfill soil as a distributed load over the shell surface,
+    whose value is determined by normative documents. The comparison of the calculation
+    results has made it possible to estimate potential errors when using simplified
+    methods of modelling loads.
+  keywords:
+    default:
+      keywords:
+        subject: shell with infill, numerical simulation, modeling methods, surface
+          load
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-26'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1119161
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1119160
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  TSIMBELMAN-NIKITA:
+    individualname: TSIMBELMAN NIKITA
+    role: creator
+    organization: ''
+    url: ''
+  CHERNOVA-TATIANA:
+    individualname: CHERNOVA TATIANA
+    role: creator
+    organization: ''
+    url: ''
+  MOSINA-POLINA:
+    individualname: MOSINA POLINA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

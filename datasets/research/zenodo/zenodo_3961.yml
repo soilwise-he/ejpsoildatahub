@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2021705
+  dataseturi: https://doi.org/10.5281/zenodo.2021705
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of Footing Shape on Bearing Capacity and Settlement of Closely Spaced
+    Footings on Sandy Soil
+  abstract: The bearing capacity of closely spaced shallow footings alters with their
+    spacing and the shape of footing. In this study, the bearing capacity and settlement
+    of two adjacent footings constructed on a sand layer are investigated. The effect
+    of different footing shapes including square, circular, ring and strip on sandy
+    soil is captured in the calculations. The investigations are carried out numerically
+    using PLAXIS-3D software and analytically employing conventional settlement equations.
+    For this purpose, foundations are modelled in the program with practical dimensions
+    and various spacing ratios ranging from 1 to 5. The spacing ratio is defined as
+    the centre-to-centre distance to the width of foundations (S/B). Overall, 24 models
+    are analyzed; and the results are compared and discussed in detail. It can be
+    concluded that the presence of adjacent foundation leads to the reduction in bearing
+    capacity for round shape footings while it can increase the bearing capacity of
+    rectangular footings in some specific distances.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-10-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2021705
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2021704
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Shafaghat:
+    individualname: A. Shafaghat
+    role: creator
+    organization: ''
+    url: ''
+  H.-Khabbaz:
+    individualname: H. Khabbaz
+    role: creator
+    organization: ''
+    url: ''
+  S.-Moravej:
+    individualname: S. Moravej
+    role: creator
+    organization: ''
+    url: ''
+  Ah.-Shafaghat:
+    individualname: Ah. Shafaghat
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

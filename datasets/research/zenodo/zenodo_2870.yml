@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1000425
+  dataseturi: https://doi.org/10.5281/zenodo.1000425
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Modelling Soil Co2 Production And Transport With Dynamic Source And Diffusion
+    Terms: Testing The Steady-State Assumption Using Detect V1.0'
+  abstract: Our work evaluated the appropriateness of the common steady-state (SS)
+    assumption, for example when partitioning soil respiration of CO<sub>2</sub> into
+    recently photosynthesized carbon (C) and older C.  Using a new model of soil CO2
+    production and transport we found that the SS assumption is valid most of the
+    time, especially in sand/silt soils.  Non-SS conditions occurred mainly for the
+    few days following large rain event in all soil types, but the non-SS period was
+    prolonged and magnified in clay soils.
+  keywords:
+    default:
+      keywords:
+        subject: soil CO2, steady-state, non steady-state, soil respiration
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1000425
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1000424
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ryan-Edmund:
+    individualname: Ryan, Edmund
+    role: creator
+    organization: Lancaster University
+    url: ''
+  Ogle-Kiona:
+    individualname: Ogle, Kiona
+    role: creator
+    organization: Northern Arizona University
+    url: ''
+  Kropp-Heather:
+    individualname: Kropp, Heather
+    role: creator
+    organization: Colgate University
+    url: ''
+  Samuels-Crow-Kimberly-E.:
+    individualname: Samuels-Crow, Kimberly E.
+    role: creator
+    organization: Northern Arizona University
+    url: ''
+  Carrillo-Yolima:
+    individualname: Carrillo, Yolima
+    role: creator
+    organization: Western Sydney University
+    url: ''
+  Pendall-Elise:
+    individualname: Pendall, Elise
+    role: creator
+    organization: Western Sydney University
+    url: ''
+content_info: {}

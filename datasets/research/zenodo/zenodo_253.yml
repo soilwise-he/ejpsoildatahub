@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6384041
+  dataseturi: https://doi.org/10.5281/zenodo.6384041
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil geochemical test data with pXRF
+  abstract: This is the soil geochemical test data with pXRF in Central Nuocang.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6384041
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6384040
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bei-Pang:
+    individualname: Bei Pang
+    role: creator
+  Pang-Bei:
+    individualname: Pang, Bei
+    role: ''
+    organization: pb@cugb.edu.cn
+    url: ''
+content_info: {}

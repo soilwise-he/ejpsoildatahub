@@ -1,0 +1,141 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8402
+  dataseturi: https://doi.org/10.5281/zenodo.8402
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Quality Changes And Quality Status: A Case Study Of The Subtropical
+    China Region Ultisol'
+  abstract: "Aims: To provide a soil quality assessment frame work and threshold limits\
+    \ for assessing soil quality in Ultisol of subtropical China region. Study Design:\
+    \ Selected minimum data set for soil quality assessment and threshold limits for\
+    \ the study were total carbon, nitrogen, soil pH and phosphorus, biomass carbon,\
+    \ nitrogen and phosphorus, maize grain and fresh potato tuber yields. Soil data\
+    \ (2000-2010), maize grain and fresh potato yield data (2000-2009) from a long\
+    \ term experiment under the Institute of subtropical Agriculture, China were analyzed\
+    \ using the SAS statistical package and means were graphically compared to determine\
+    \ threshold limits for selected data set and fitted into a soil quality model.\
+    \ Place and Duration of Study: The key Laboratory for Agro-ecological Processes\
+    \ in Subtropical Regions, Chinese Academy of Sciences; Institute of Subtropical\
+    \ Agriculture, Changsha, Hunan China long-term experimental site in Taoyuan county,\
+    \ conducted from the year 2000 to 2010. Methodology: Soils samples at the experimental\
+    \ fields were obtained from depths 0-20 cm using an auger at each replicate in\
+    \ triplicates and homogenized to obtain a composite sub sample, air-dried, sieved\
+    \ through 2.0 mm to obtain samples for analysis in the Laboratory. Parameters\
+    \ analyzed for were organic carbon concentration, measured by the combustion method\
+    \ using an automated C/N analyzer (Vario MAX CN, Elemental Co., Germany) while\
+    \ total nitrogen was by the Kjeldahl method of ISSCAS (1978). Microbial carbon,\
+    \ nitrogen and phosphorus levels were determined using the chloroform-fumigationextraction\
+    \ method (Jenkinson and Powlson, 1976; Vance et al., 1987; Brookes et al., 1982)\
+    \ and adopting the conversion factors 0.45 (Wu et al., 1990), 0.45 (Brookes et\
+    \ al., 1985), and 0.29 (Wu et al., 2000) respectively for the C, N and P. Extractable\
+    \ N and Olson P were taken from values obtained from the non fumigated soil samples.\
+    \ Data obtained were statistically analyzed using the SAS package for ANOVA and\
+    \ significant means were separated using the Duncan\u2019s New Multiple Range\
+    \ Test (DNMRT). Treatment means were also matched graphically to delineate critical\
+    \ threshold limits between classes for each parameter. Soil quality was assessed\
+    \ by using the Parr et al. (1992) equation; SQ =\u0192(SP,P,E,H, ER,BD,FQ, MI);\
+    \ where SQ= soil quality, SP= soil properties, P = potential productivity, E=environmental\
+    \ factor, H= health (human/animal), ER= erodibility, BD= biodiversity, FQ= food\
+    \ quality and MI= management input. A score scale of 1 to 5 was used in the assessment\
+    \ of parameters in the model; where 1 is best and 5 is the worst condition. However,\
+    \ E, H, ER, FQ and MI were each scored 1.0 because the long-term experiment has\
+    \ an environmental component, health factor, biodiversity, food quality and management\
+    \ input components that are being optimally managed. Therefore SQ= f(SP, P) was\
+    \ used to assess quality of the Ultisol at the uplands and slope land locations.\
+    \ Results: At the uplands, the practice of maize-rape/marsh residue+NK (8.54gkg-1\
+    \ C, 1.0 gkg-1 N and 5.67 mgkg-1 P) treatments could be rotated with Maize-rape/nil\
+    \ fertilizer (7.51 gkg-1 C, 0.87 gkg-1 and 0.39 mgkg-1 P) to encourage improved\
+    \ soil quality by allowing for more years with soil carbon sequestration, nitrogen\
+    \ and phosphorus credit than years of depletion and discourage soil degradation.\
+    \ At the slope lands, treatments that combined application of organic and inorganic\
+    \ fertilizer materials [Sweet potato-rape/NP+straw (7.18 gkg-1 C, 0.88 gkg-1 N\
+    \ and 0.38 mgkg-1 P) and Peanut-broadbean/NP+straw (6.81 gkg-1 C, 0.86 gkg-1 N\
+    \ and 0.38 mgkg-1 P)] improved soil quality significantly over time by sequestering\
+    \ significantly higher total carbon, nitrogen and phosphorus better than sole\
+    \ inorganic fertilizer [Sweet potato-rape/NPK (6.52 gkg-1 C, 0.81 gkg-1 N and\
+    \ 0.38 mgkg-1 P)]. Conclusion: Ultisol at the upland positions had better quality\
+    \ (SQ1) than those at the slope (SQ2) positions. Threshold limits for nutrients,\
+    \ pH and yield of maize and Fresh Potato tubers in the subtropical China region\
+    \ Ultisol was developed."
+  keywords:
+    default:
+      keywords:
+        subject: land use management.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-03-07'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8402
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Odunze-A.-C.:
+    individualname: Odunze, A. C.
+    role: creator
+    organization: 'Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China; Present affiliation: Department of Soil Science/IAR, Faculty
+      of Agriculture, Ahmadu Bello University, P. M. B 1044, Zaria Nigeria.'
+    url: ''
+  Jinshui-Wu:
+    individualname: Jinshui, Wu
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+  Shoulong-Liu:
+    individualname: Shoulong, Liu
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+  Hanhua-Zhu:
+    individualname: Hanhua, Zhu
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+  Tida-Ge:
+    individualname: Tida, Ge
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+  Yi-Wang:
+    individualname: Yi, Wang
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+  Qiao-Luo:
+    individualname: Qiao, Luo
+    role: creator
+    organization: Key Laboratory of Agro-ecological Processes in Subtropical Region,
+      Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha
+      410125, China.
+    url: ''
+content_info: {}

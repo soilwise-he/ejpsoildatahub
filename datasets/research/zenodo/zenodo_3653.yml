@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: El_Gendy_2020
+  dataseturi: https://doi.org/10.35940/ijeat.D9103.049420
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Behavior of Embankments Constructed on Soft Soil Deposits Reinforced with
+    Rigid Inclusions
+  abstract: '&lt;p&gt;Large settlement associated with the construction of embankments
+    on soft soil deposits is a challenging geotechnical problem that needs a special
+    treatment. Reinforcing the embankments utilizing geosynthetics is an effective
+    technique used to reduce the differential settlement, while the total settlement
+    is unchanged. A more efficient technique is utilizing a combination between soft
+    soil reinforcement using piles or rigid inclusions, thus increasing the equivalent
+    stiffness of the entire soft soil stratum, and a load transfer layer reinforced
+    by one or more layers of geosynthetics on top of the inclusions&#39; head, in
+    order to improve the load distribution process between the rigid elements. In
+    this paper, the behavior of soft soil deposits reinforced with rigid inclusions
+    is studied using three-dimensional finite element analysis, utilizing the &quot;PLAXIS
+    3D 2020&quot; software. Verification of the adopted modeling procedures is performed
+    by the back analysis of a well-documented case study of a physical laboratory
+    scaled model. Results of the numerical model showed a good agreement with the
+    laboratory measurements in terms of both the settlement and load distribution
+    aspects. Furthermore, results of both the developed numerical model and selected
+    performed numerical analyses, from the literature, for the same case study, were
+    compared showing better efficiency of the developed model compared to others and
+    more consistency with the real behavior of the laboratory model. The verified
+    model confirmed the efficiency of increasing the friction angle of the embankment
+    on the load transfer mechanism between the rigid inclusions, and hence decreasing
+    the resultant settlement.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Soft Soil
+      - Rigid inclusions
+      - Piled embankment
+      - Numerical model.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Behavior of Embankments Constructed on Soft Soil Deposits Reinforced with
+      Rigid Inclusions
+    url: http://dx.doi.org/10.35940/ijeat.D9103.049420
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohamed-M.-S.-El-Gendy:
+    individualname: Mohamed M. S. El-Gendy
+    role: creator
+  Ayman-L.-Fayed:
+    individualname: Ayman L. Fayed
+    role: creator
+  Yasser-M.-El-Mossallamy:
+    individualname: Yasser M. El-Mossallamy
+    role: creator
+  El-Gendy-Mohamed-M.-S.:
+    individualname: El-Gendy, Mohamed M. S.
+    role: creator
+  Fayed-Ayman-L.:
+    individualname: Fayed, Ayman L.
+    role: creator
+  El-Mossallamy-Yasser-M.:
+    individualname: El-Mossallamy, Yasser M.
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

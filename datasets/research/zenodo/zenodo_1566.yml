@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1218641
+  dataseturi: https://doi.org/10.5281/zenodo.1218641
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of The Effect Of Cement Waste On Cbr Behavior Of Clay Soil
+  abstract: This research focused on the potential utilization of cement waste (CW)
+    as a stabilizer to improve the compressive strength of clay soil. .A series of
+    laboratory compaction and CBR tests were carried out. Soil specimens were compacted
+    at maximum dry density with different percentages of cement waste 3%, 6%, 9%,
+    12% and 15% of weight of clay soil). Results indicate that an increasing of cement
+    waste content decreases the maximum dry density and the optimum moisture content
+    (OMC). Soil became non plastic when the addition of cement waste content was equal
+    to or greater than 9% of weight of clay soil. An increasing of cement waste content
+    increased the CBR values of clay soil and the highest value was 8.3 times the
+    CBR of non treated soil and it was achieved at 9% of cement waste.
+  keywords:
+    default:
+      keywords:
+        subject: Clay soil, Cement kiln dust, stabilization, compaction and CBR
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-04-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1218641
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1218640
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-A.-Mohammed1-A.Rahman-E.-Mohammed2:
+    individualname: M. A. Mohammed1, A.Rahman E. Mohammed2
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

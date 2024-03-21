@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10546207
+  dataseturi: https://doi.org/10.5281/zenodo.10546207
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Yield Targeting and Integrated Plant Nutrition System to Fix Critical Levels
+    of Soil Available N, P and K for Hybrid Brinjal in Inceptisols of Andhra Pradesh
+  abstract: In order to maintain sustainable soil fertility for long run, the recommendations
+    are made to apply sufficient fertilisers to meet both the nutrient requirements
+    of the crop and to built-up the nutrient level in the soil to a critical soil
+    test level over a scheduled time frame. Soil test level is sustained at, or above,
+    the critical level by using fertiliser rates that should replace the nutrients
+    removed by the crop. The critical level is the soil test level at which maximum
+    yield is achieved. Critical soil test values for available N, P and K were low
+    under IPNS treatments (NPK + FYM @ 25 t ha-1) as compared to NPK alone which in
+    turn resulted in saving of NPK fertilisers. Irrespective of treatments, higher
+    yield targeting resulted in higher critical levels of nutrients in soil.
+  keywords:
+    default:
+      keywords:
+        subject: hybrid brinjal
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-21'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10546207
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10546206
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  IJRAMT:
+    individualname: IJRAMT
+    role: creator
+  Kumar-Chintada-Kiran:
+    individualname: Kumar, Chintada Kiran
+    role: creator
+    organization: Associate Professor, College of Horticulture, Dr. YSR Horticultural
+      University, Parvathipuram, Andhra Pradesh, India
+    url: ''
+  Geethanjali-Kotla:
+    individualname: Geethanjali, Kotla
+    role: creator
+    organization: Assistant Professor, College of Horticulture, Dr. YSR Horticultural
+      University, Parvathipuram, Andhra Pradesh, India
+    url: ''
+content_info: {}

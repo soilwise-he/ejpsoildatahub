@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jodidi_1913
+  dataseturi: https://doi.org/10.1016/s0016-0032(13)90726-2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The chemistry of humus, with special reference to the relation of humus to
+    the soil and to the plant
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The chemistry of humus, with special reference to the relation of humus
+      to the soil and to the plant
+    url: http://dx.doi.org/10.1016/s0016-0032(13)90726-2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jodidi-S.-L.:
+    individualname: Jodidi, S. L.
+    role: creator
+  Jodidi-S.L.:
+    individualname: Jodidi, S.L.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

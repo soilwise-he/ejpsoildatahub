@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Macedo_2020
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2020.139563
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The impact of manure and soil texture on antimicrobial resistance gene levels
+    in farmlands and adjacent ditches
+  abstract: '&lt;p&gt;Manure application can spread antimicrobial resistance (AMR)
+    from manure to soil and surface water. This study evaluated the role of the soil
+    texture on the dynamics of antimicrobial resistance genes (ARGs) in soils and
+    sur- rounding surface waters. Six dairy farms with distinct soil textures (clay,
+    sand, and peat) were sampled at different time points after the application of
+    manure, and three representative ARGs sul1, erm(B), and tet(W) were quantified
+    with qPCR. Manuring initially increased levels of erm(B) by 1.5 &plusmn; 0.5 log
+    copies/kg of soil and tet (W) by 0.8 &plusmn; 0.4 log copies/kg across soil textures,
+    after which levels gradually declined. In surface waters from clay environments,
+    regardless of the ARG, the gene levels initially increased by 2.6 &plusmn; 1.6
+    log copies/L, after which levels gradually declined. The gene decay in soils was
+    strongly dependent on the type of ARG (erm (B) &lt; tet(W) &lt; sul1; half-lives
+    of 7, 11, and 75 days, respectively), while in water, the decay was primarily
+    dependent on the soil texture adjacent to the sampled surface water (clay &lt;
+    peat &lt; sand; half-lives of 2, 6, and 10 days, respectively). Finally, recovery
+    of ARG levels was predicted after 29&ndash;42 days. The results thus showed that
+    there was not a complete restoration of ARGs in soils between rounds of manure
+    application. In conclusion, this study demonstrates that rather than showing similar
+    dynamics of decay, factors such as the type of ARG and soil texture drive the
+    ARG persistence in the environment.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The impact of manure and soil texture on antimicrobial resistance gene levels
+      in farmlands and adjacent ditches
+    url: http://dx.doi.org/10.1016/j.scitotenv.2020.139563
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Macedo-Goncalo:
+    individualname: "Macedo, Gon\xE7alo"
+    role: creator
+  Hernandez-Lucia:
+    individualname: Hernandez, Lucia
+    role: creator
+  van-der-Maas-Peter:
+    individualname: van der Maas, Peter
+    role: creator
+  Heederik-Dick:
+    individualname: Heederik, Dick
+    role: creator
+  Mevius-Dik:
+    individualname: Mevius, Dik
+    role: creator
+  Schmitt-Heike:
+    individualname: Schmitt, Heike
+    role: creator
+  Macedo-Gonssalo:
+    individualname: "Macedo, Gon\u221A\xDFalo"
+    role: creator
+  Hernandez-Leal-Lucia:
+    individualname: Hernandez-Leal, Lucia
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

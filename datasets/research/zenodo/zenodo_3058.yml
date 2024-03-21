@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2576698
+  dataseturi: https://doi.org/10.5281/zenodo.2576698
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Pedotransfer Functions for Cation Exchange Capacity, Available Water Holding
+    Capacity and Soil Organic Carbon for Representative Soils of Southern Highland
+    Zone of Tanzania
+  abstract: 'ABSTRACT: Pedotransfer functions are useful tools in estimating the not
+    easily measured and expensive soil properties. They are especially valuable in
+    settings such as the SHZT where limited direct soil measurements are available.
+    The objective of this study was to develop a series of pedotransfer functions
+    and then evaluate which ones best estimate cation exchange capacity (CEC), available
+    water holding capacity (AWHC) and soil organic carbon (SOC). Data from 20 horizons
+    of four representative pedons was used to evaluate the most predictive properties.
+    Best fit multiple linear regressions were used to obtain relationships and identify
+    property coefficients. Examples of pedotransfer functions developed for the SHZT
+    are %SOC = 0.1*hue-0.03*value0.034chroma (n = 20, r2 = 0.74), CEC (meq/100g) =
+    0.44*%clay + 9.6%SOC (n=20, r2 = 0.93), and, AWHC (mm/m) = 14.7%SOC + 0.82%clay
+    + 0.35%silt + 0.51%sand (n=12; r2 = 0.96). All color attributes are for moist
+    samples. The results of predicted CEC, AWHC, and SOC were compared to those measured
+    in the laboratory using the t-test, and the two methods did not differ significantly;
+    two-sided p-value=0.93. These results indicate the promising potential of using
+    the easily measured soil properties and cheap in fiscal terms to estimate the
+    not easily measured soil properties.'
+  keywords:
+    default:
+      keywords:
+        subject: http://www.ijoabs.com/publications-of-ijoabs/article/31/
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-10-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2576698
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2576697
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Johnson-G.-Mtama:
+    individualname: Johnson G. Mtama
+    role: creator
+  C.-Lee-Burras:
+    individualname: C. Lee Burras
+    role: creator
+    organization: Iowa State University, 1126 Agronomy, Iowa State University, Ames,
+      Iowa, USA
+    url: ''
+  Balthazar-M.-Msanya:
+    individualname: Balthazar M. Msanya
+    role: creator
+    organization: Sokoine University of Agriculture, College of Agriculture, Department
+      of Soil and Geological Sciences, Morogoro, Tanzania
+    url: ''
+  Mtama-Johnson-G.:
+    individualname: Mtama, Johnson G.
+    role: ''
+    organization: Tanzania Agricultural Research Institute, TARI-Uyole Mbeya, Tanzania
+    url: ''
+content_info: {}

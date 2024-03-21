@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132274
+  dataseturi: https://doi.org/10.5281/zenodo.1132274
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Impacts Of Climate Change On Water Resources Of Greater Zab And Lesser Zab
+    Basins, Iraq, Using Soil And Water Assessment Tool Model
+  abstract: The Greater Zab and Lesser Zab are the major tributaries of Tigris River
+    contributing the largest flow volumes into the river. The impacts of climate change
+    on water resources in these basins have not been well addressed. To gain a better
+    understanding of the effects of climate change on water resources of the study
+    area in near future (2049-2069) as well as in distant future (2080-2099), Soil
+    and Water Assessment Tool (SWAT) was applied. The model was first calibrated for
+    the period from 1979 to 2004 to test its suitability in describing the hydrological
+    processes in the basins. The SWAT model showed a good performance in simulating
+    streamflow. The calibrated model was then used to evaluate the impacts of climate
+    change on water resources. Six general circulation models (GCMs) from phase five
+    of the Coupled Model Intercomparison Project (CMIP5) under three Representative
+    Concentration Pathways (RCPs) RCP 2.6, RCP 4.5, and RCP 8.5 for periods of 2049-2069
+    and 2080-2099 were used to project the climate change impacts on these basins.
+    The results demonstrated a significant decline in water resources availability
+    in the future.
+  keywords:
+    default:
+      keywords:
+        subject: SWAT.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-08-04'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132274
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132273
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nahlah-Abbas:
+    individualname: Nahlah Abbas
+    role: creator
+  Saleh-A.-Wasimi:
+    individualname: Saleh A. Wasimi
+    role: creator
+  Nadhir-Al-Ansari:
+    individualname: Nadhir Al-Ansari
+    role: creator
+    organization: ''
+    url: ''
+  Abbas-Nahlah:
+    individualname: Abbas, Nahlah
+    role: ''
+    organization: ''
+    url: ''
+  Wasimi-Saleh-A.:
+    individualname: Wasimi, Saleh A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

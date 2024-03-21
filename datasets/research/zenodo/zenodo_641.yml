@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6623291
+  dataseturi: https://doi.org/10.5281/zenodo.6623291
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: NITROGEN FIXATION IN SOIL NOT WHOLLY A BACTERIAL PROCESS.
+  abstract: Fixation of nitrogen may not be wholly associated with bacterial activity
+    as has hitherto been believed but can also take place under completely sterile
+    conditions even with silica, zinc oxide, aluminium oxide, ferric oxide, etc. when
+    they are mixed with energy materials such as glucose and others. The energy available
+    from the oxidation is probably responsible for such fixation in the complete absence
+    of micro-organisms, and the reaction in light is much greater than in the dark.
+  keywords:
+    default:
+      keywords:
+        subject: Oxide of Metals
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1939-12-31'
+    publication: '1939'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6623291
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6623290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-R.-DHAR:
+    individualname: N. R. DHAR
+    role: creator
+    organization: ''
+    url: ''
+  E.-V.-SESHACHARYULU:
+    individualname: E. V. SESHACHARYULU
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

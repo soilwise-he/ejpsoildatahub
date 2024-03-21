@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: O_Brien_1905
+  dataseturi: https://doi.org/10.1086/453500
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Seed and Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Seed and Soil
+    url: http://dx.doi.org/10.1086/453500
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O'Brien-Agnes-W.:
+    individualname: "O\u2019Brien, Agnes W."
+    role: creator
+  University-of-Chicago-Press:
+    individualname: University of Chicago Press
+    role: creator
+content_info: {}

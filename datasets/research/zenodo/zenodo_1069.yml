@@ -1,0 +1,48 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6759057
+  dataseturi: https://doi.org/10.5281/zenodo.6759057
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Modified Micro-method for the Estimation of Nitrogen in Soil.
+  abstract: A Modified Micro-method for the Estimation of Nitrogen in Soil.
+  keywords:
+    default:
+      keywords:
+        subject: Nitrogen
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1936-12-31'
+    publication: '1936'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6759057
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6759056
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SRISH-KUMAR-SAHA:
+    individualname: SRISH KUMAR SAHA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

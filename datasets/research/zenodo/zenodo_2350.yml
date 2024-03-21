@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Parzych_2014
+  dataseturi: https://doi.org/10.2478/frp-2014-0020
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The heavy metal content of soil and shoots of Vaccinium myrtillus L. in\
+    \ the S\u0142owi\u0144ski National Park"
+  abstract: "&lt;p&gt;The research was carried out in the S\u0142owi\u0144ski National\
+    \ Park, in an area with 15 research stations in pine coniferous forests situated\
+    \ at locations (1) inaccessible to tourists, (2) most frequently visited by tourists\
+    \ as well as (3) in the vicinity of parking lots. The analysed samples comprised\
+    \ surface generic levels (Ol, Ofh, A), aboveground material (shoots; leaves and\
+    \ stems) and below-ground material (roots) of bilberry (&lt;em&gt;Vaccinium myrtillus&lt;/em&gt;).\
+    \ The performed analyses showed statistically significant Spearman&rsquo;s correlation\
+    \ coefficients for Zn content in the &lsquo;soil &ndash; stems:&rsquo; (r = -0.44,\
+    \ p &lt; 0.05, n = 45) relationship and the &lsquo;soil &ndash; roots&rsquo; relationship\
+    \ (r = -0.52, p &lt; 0.05, n = 45). Accordingly, there were significant statistical\
+    \ differences (U Mann-Whitney test) in zinc content in the &lsquo;stems&lt;br\
+    \ /&gt;\n&ndash; roots&rsquo; relationship and the &lsquo;leaves &ndash; roots&rsquo;\
+    \ relationship. Furthermore, the obtained results reveal an excessive accumulation\
+    \ of Mn in &lt;em&gt;V. myrtillus&lt;/em&gt;. The content of the investigated\
+    \ heavy metals in &lt;em&gt;V. myrtillus&lt;/em&gt; shoots decreased in&lt;br\
+    \ /&gt;\nthe following order: Mn &gt; Fe &gt; Zn &gt; Cu.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - bilberry
+      - leaves
+      - stems
+      - roots
+      - accumulation of Zn, Fe, Cu, Mn
+      - protected area
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The heavy metal content of soil and shoots of Vaccinium myrtillus L. in\
+      \ the S\u0142owi\u0144ski National Park"
+    url: http://dx.doi.org/10.2478/frp-2014-0020
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Parzych-Agnieszka:
+    individualname: Parzych, Agnieszka
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6400977
+  dataseturi: https://doi.org/10.5281/zenodo.6400977
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Protein on Soil Erosion by Water
+  abstract: Department of Chemistry, University of Allahabad, Allahabad-2, (U.P.)
+    <em>Manuscript received 14 February, 1975; accepted 29 May, 1975</em> The effect
+    of protein (gelatine) on eroded and uneroded soils (0-20 ems. depth) collected
+    from semidesert (Agra); Arid (Allahabad), semi-arid (Saharanpur), sub-humid (Gorakhpnr).
+    Vindhyan(Mtrzapur) and uundelkhand (Jhansi) regions of the State of Uttar Pradesh
+    (India) was observed. These soils were treated with 1% and 2% gelatine and kept
+    for 15 days and 30 days for reaction in aqueous media. Generally, the eroded soils
+    have lower erosion coefficients with 1% gelatine than those of uneroded soils.
+    Greater period of contact between the gelatine and soils (here 30 days) with both
+    the concentration recorded lower erosion coefficients (better check of soil erosion)
+    except those of Vindhayao and sub-humid regions.
+  keywords:
+    default:
+      keywords:
+        subject: Organic substances
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1975-10-31'
+    publication: '1975'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6400977
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6400976
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+  SUBHASH-CHANDRA:
+    individualname: SUBHASH CHANDRA
+    role: creator
+    organization: ''
+    url: ''
+  SHARAFAT-ALI:
+    individualname: SHARAFAT ALI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

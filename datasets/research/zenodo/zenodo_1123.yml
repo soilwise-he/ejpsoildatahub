@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.891171
+  dataseturi: https://doi.org/10.5281/zenodo.891171
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Algae Of Class Chlorophyceae Of Gomel (Belarus) Streets Roadside Lawns
+  abstract: "In this article presents the results of studying the composition of green\
+    \ algae of class \u0421hlorophyceae soils of roadside lawns in some streets of\
+    \ the city of Gomel.\n\nResearch methods: field, laboratory and culture.\n\nIn\
+    \ total 20 species of green algae belonging to 12 genera, 9 families, 4 orders\
+    \ of class \u0421hlorophyceae were identified. Algae of the order of Volvocales\
+    \ and Protosiphonales predominated (30% each). Algae of the order of Chroococcales\
+    \ accounted for 25%, Scenedesmales accounted for 15%. Among the families the largest\
+    \ number of species characterized Chlamydomonadaceae (30%). Less represented were\
+    \ Chlorosarcinaceaea and Chlorococcaceae (20% each). The families Actinochloridaceae,\
+    \ Neospongiococcaceae, Cylindrocapsaceae, Bracteacoccaceae, Oocystaceae, Scenedesmaceae\
+    \ included 1 species.\n\nEcological analysis showed that all the Chlorophycea\u0441\
+    ea detected are edaphophilic. Most species were representatives of the Ch\u2013\
+    life form (62%). Less represented in the spectrum of life forms were species of\
+    \ C\u2013 and X\u2013forms (27% and 11%).\n\nIt is shown that as the transport\
+    \ load decreases, an increase in the amount of Chlorophycea\u0441ea in lawn grass\
+    \ occurs due to the expansion of the Chlorococcales order in the groupings. In\
+    \ the soil of almost all the streets, there is a tendency to expand the species\
+    \ richness of Chlorophycea\u0441ea with increasing distance from the roadway.\n\
+    \nOn all sites the prevalence of algae of the Ch\u2013life form remained. At the\
+    \ same time, as the intensity of the transport load decreases, an increase in\
+    \ the number of Ch\u2013form species is noted, which is related to the expansion\
+    \ of the species composition of algae of less disturbed sites. At most sites in\
+    \ 5 m from the roadway, an increase in the proportion of algae of the C\u2013\
+    life form in the spectra is noted, which is associated with an improvement in\
+    \ the conditions for algae: an increase in soil moisture and a certain decrease\
+    \ in the effect of exhaust gases."
+  keywords:
+    default:
+      keywords:
+        subject: "Chlorophycea\u0441ea"
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-09-15'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.891171
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.891170
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reinskaya-Yu.:
+    individualname: Reinskaya Yu.
+    role: creator
+    organization: ''
+    url: ''
+  Bachura-Yu.:
+    individualname: Bachura Yu.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10727598
+  dataseturi: https://doi.org/10.5281/zenodo.10727598
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Moisture Sensed Automatic Irrigation System
+  abstract: 'ABSTRACT
+
+
+    Improving irrigation efficiency can contribute greatly to reducing production
+    costs of crops, making the agriculture industry more competitive and sustainable.
+    Through proper irrigation, average plant yields can be maintained (or increased)
+    while minimizing environmental and other impacts caused by excessive application
+    of water and subsequent agrichemical leaching. Many years ago, irrigation had
+    to be done manually and it involved a lot of labour and material costs. However,
+    recent technological advances have made soil water sensors available for efficient
+    and automatic operation of irrigation systems. Automatic soil moisture sensor-based
+    irrigation seeks to maintain a desired soil water range in the root zone that
+    is optimal for plant growth. This report therefore illustrates how by using an
+    automatic soil moisture sensor based irrigation system, the issue of water wastage,
+    agrichemical wastage and time spent on irrigation can be effectively tackled without
+    adversely affecting crop yield, leading to optimal irrigation and ultimately an
+    optimal agricultural system as a whole. Here we make use of an Arduino microcontroller
+    interfaced with a soil moisture sensor. The microcontroller triggers an electronic
+    valve ON or OFF based on readings taken from the soil moisture sensor. The model
+    used here is miniaturized for the purpose of demonstration. It can however be
+    implemented on a larger scale as in a farm or garden to reap its full benefits.'
+  keywords:
+    default:
+      keywords:
+        subject: sensor, irrigation, arduino, optimal, miniaturized, microcontroller
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-12-31'
+    publication: '2018'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10727598
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10727597
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.N.-Ochuba:
+    individualname: M.N. Ochuba
+    role: creator
+    organization: Department of Electrical and Electronic Engineering, University
+      of Port Harcourt, Choba, Rivers State, Nigeria
+    url: ''
+  M.-Ehikhamenle:
+    individualname: M. Ehikhamenle
+    role: creator
+    organization: Department of Electrical and Electronic Engineering, University
+      of Port Harcourt, Choba, Rivers State, Nigeria
+    url: ''
+content_info: {}

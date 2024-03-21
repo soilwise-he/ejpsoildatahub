@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Stelmokaitis_2017
+  dataseturi: https://doi.org/10.5755/j01.sace.17.4.16298
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Investigation of Vibrations Influence on Clay Soil Parameters
+  abstract: The behavior of clay under different frequencies encountered during a
+    dynamic loading events like impact, wind, explosions, seismic, machine foundations
+    is very difficult to analyse, so an attempt has been made to study the behaviour
+    of clay subjected to different range of frequency applied in a laboratory setting
+    on a representative clay sample obtained from a local source in Lithuania. A detailed
+    characterisation of clay has been conducted to classify its index properties and
+    engineering properties to study its behaviour under static loading and subjected
+    to cycling loading using a vibrating table to test its mechanical properties such
+    as compressibility, cohesion, friction angle, oedometric modulus of elasticity.
+    In this paper the range of frequencies that are to be applied to the clay sample
+    vary between 10 Hz and 50 Hz. Direct shear tests on clay samples are conducted
+    under static and cyclic loading and investigated vibrations influence to strength
+    parameters of soil. The effect of vibrations on clay oedometric modulus is determined
+    by doing oedometer tests under the same conditions as shear tests. The testing
+    showed that vibrations change mechanical properties of clay and it is important
+    to evaluate this influence on strength parameters of soil. The investigation suggested
+    that the behavior of clay subjected to vibrations becomes similar to undrained
+    clay
+  keywords:
+    default:
+      keywords:
+      - angle of friction
+      - clay
+      - consolidation
+      - shear
+      - vibrations.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Investigation of Vibrations Influence on Clay Soil Parameters
+    url: http://dx.doi.org/10.5755/j01.sace.17.4.16298
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kitovas-Vadimas:
+    individualname: Kitovas, Vadimas
+    role: creator
+  Stelmokaitis-Gediminas:
+    individualname: Stelmokaitis, Gediminas
+    role: creator
+  Dorosevas-Viktoras:
+    individualname: "Doro\u0161evas, Viktoras"
+    role: creator
+  Kaunas-University-of-Technology-KTU:
+    individualname: Kaunas University of Technology (KTU)
+    role: creator
+content_info: {}

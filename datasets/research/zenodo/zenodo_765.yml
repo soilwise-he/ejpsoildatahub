@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8415380
+  dataseturi: https://doi.org/10.5281/zenodo.8415380
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECT OF SOIL ORGANIC CARBON FRACTIONS ON CLIMATE CHANGE
+  abstract: Soil organic matter (SOM), and soil organic carbon (SOC) plays a significant
+    role in all organisms' life in the world (Brevik, Slaughter et al. 2020). The
+    soil organic carbon (SOC) influences soil physical (Ito and Wagai 2017, Razzaghi,
+    Vignozzi et al. 2017, Toosi, Kravchenko et al. 2017), chemical (Beare, McNeill
+    et al. 2014, Curtin, Beare et al. 2015), and biological properties (Tang, Luo
+    et al. 2021, Serafim, Mendes et al. 2023).
+  keywords:
+    default:
+      keywords:
+        subject: CLIMATE
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8415380
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8415379
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  IKSAD-PUBLICATION-HOUSE:
+    individualname: IKSAD PUBLICATION HOUSE
+    role: creator
+  RAZZAGHI-Somayyeh:
+    individualname: RAZZAGHI, Somayyeh
+    role: creator
+    organization: Erciyes University
+    url: 0000-0002-8028-452X
+  CELIK-Ahmet:
+    individualname: "CEL\u0130K, Ahmet"
+    role: creator
+    organization: Adiyaman University
+    url: 0000-0001-8958-4978
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kulmatiski_2008
+  dataseturi: https://doi.org/10.1111/j.1461-0248.2008.01209.x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Plant\u2013soil feedbacks: a meta\u2010analytical review"
+  abstract: Recent studies suggest that plant-soil feedbacks (PSFs) may provide mechanisms
+    for plant diversity, succession, and invasion.  To determine whether there is
+    general support for these hypotheses, we conducted a meta-analysis of PSF experiments,
+    determining effect sizes among plant types, ecosystems, and experimental approaches.  Overall,
+    PSFs had a medium negative effect size, indicating that most plants create soils
+    that decrease growth of conspecifics.  PSFs were very large and negative for annual
+    and early-successional species, supporting the hypothesis that PSFs maintain diversity
+    by accelerating species replacement (e.g., succession).  Across all studies, non-native
+    plants did not benefit from PSFs; however, in studies that measured non-native
+    and native PSFs in the same study system, non-natives did benefit from PSFs.  In
+    a comparison of life-forms, grasses demonstrated more negative PSFs than forbs,
+    shrubs, and trees.  A review of PSF methodologies showed that experiments using
+    sterilized/inoculated soils, greenhouse conditions, and manipulative experiments
+    to cultivate soils exaggerated PSFs compared to experiments that used whole field
+    soils, field conditions, and natural experiments to cultivate soils, respectively.  Our
+    findings provide broad support for the role of PSFs in plant community assembly,
+    but also underscore the need for expanded testing under field conditions.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Plant\u2013soil feedbacks: a meta\u2010analytical review"
+    url: http://dx.doi.org/10.1111/j.1461-0248.2008.01209.x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kulmatiski-Andrew:
+    individualname: Kulmatiski, Andrew
+    role: creator
+  Beard-Karen-H.:
+    individualname: Beard, Karen H.
+    role: creator
+  Stevens-John-R.:
+    individualname: Stevens, John R.
+    role: creator
+  Cobbold-Stephanie-M.:
+    individualname: Cobbold, Stephanie M.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

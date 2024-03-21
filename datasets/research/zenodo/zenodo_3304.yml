@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1059962
+  dataseturi: https://doi.org/10.5281/zenodo.1059962
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Improvement Using Cement Dust Mixture
+  abstract: 'Day by day technology increases and problems
+
+    associated with this technology also increase. Several researches
+
+    were carried out to investigate the deployment of such material safely
+
+    in geotechnical engineering in particular and civil engineering in
+
+    general. However, different types of waste material have such as
+
+    cement duct, fly ash and slag been proven to be suitable in several
+
+    applications. In this research cement dust mixed with different
+
+    percentages of sand will be used in some civil engineering
+
+    application as will be explained later in this paper throughout filed
+
+    and laboratory test. The used mixer (waste material with sand) prove
+
+    high performance, durability to environmental condition, low cost
+
+    and high benefits. At higher cement dust ratio, small cement ratio is
+
+    valuable for compressive strength and permeability. Also at small
+
+    cement dust ratio higher cement ratio is valuable for compressive
+
+    strength.'
+  keywords:
+    default:
+      keywords:
+        subject: permeability
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-10-27'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1059962
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1059961
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohie-Eldin-Mohamed-Afifiy-Elmashad:
+    individualname: Mohie Eldin Mohamed Afifiy Elmashad
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

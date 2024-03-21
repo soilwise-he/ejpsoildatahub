@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6427206
+  dataseturi: https://doi.org/10.5281/zenodo.6427206
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Indian Rockphosphates for Direct Application to the Soil
+  abstract: Division of Soil Science and Agricultural Chemistry, Indian Agricultural
+    Research Institute, New Delhi <em>Manuscript received 23 December 1972; accepted
+    7 May 1973</em> The phosphorus fertilizer value of Laccadive and Mussoorie phosphates
+    for direct application was compared with the Gafsa phosphate in a green house
+    experiment. Indian rock phosphates inspite of low analysis with respect to Phosphorus
+    compare fairly well with imported Gafsa rock phosphate when evaluated on the basis
+    of dry matter yield and phosphorus content of pea crop.
+  keywords:
+    default:
+      keywords:
+        subject: Application to the Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1973-06-30'
+    publication: '1973'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6427206
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6427205
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DASHRATH-SINGH:
+    individualname: DASHRATH SINGH
+    role: creator
+    organization: ''
+    url: ''
+  N.-P.-DATTA:
+    individualname: N. P. DATTA
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

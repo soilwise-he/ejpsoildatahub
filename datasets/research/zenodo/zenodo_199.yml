@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Miller_1921
+  dataseturi: https://doi.org/10.2136/sssaj1921.0361599500b120010006x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Utilization of the Soil Survey
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Utilization of the Soil Survey
+    url: http://dx.doi.org/10.2136/sssaj1921.0361599500b120010006x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Miller-M.-F.:
+    individualname: Miller, M. F.
+    role: creator
+  Wiancko-A.-T.:
+    individualname: Wiancko, A. T.
+    role: creator
+  Krusekopf-H.-H.:
+    individualname: Krusekopf, H. H.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

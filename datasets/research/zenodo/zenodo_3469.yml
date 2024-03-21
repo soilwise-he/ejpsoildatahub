@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1463571
+  dataseturi: https://doi.org/10.5281/zenodo.1463571
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Earthquake Response Of Structures Considering Soil-Structure Interaction:
+    An Overview'
+  abstract: The Indian seismic outline code IS:1893 (Part 1) (BIS, 2016) proposes
+    overlooking Soil-Structure Interaction (SSI) examines for seismic plan of structures
+    situated on shake or shake like material. In any case, for a structure laying
+    on soil, it is basic that the collaboration impacts be considered during its investigation.
+    Soil-structure interaction (SSI) plays an important role in seismic response of
+    multi-storey structures. SSI can have a significant influence on the calculated
+    in-structure response spectra, and the calculated seismic design demand forces
+    for multi-storey buildings subjected to earthquake loading combinations. There
+    are numerous parameters that influence the reaction of a structure to ground excitations1,
+    for example, shape, size and geometry of the structure, kind of establishment,
+    soil attributes and so forth. At the point when the ground shakes, the base of
+    a building will swing forward and backward, bringing about differential removals.
+    The aim of this study is to increase understanding about the impact of the establishment
+    compose on the seismic powers in the multi-story building. The investigation helps
+    in making mindfulness about the significance of the establishment, for example,
+    nearness to the wellspring of tremors and the quake safe outline of structures.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-10-16'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1463571
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1463570
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kumar-Vanshaj:
+    individualname: Kumar Vanshaj
+    role: creator
+  Abhishek-Mishra:
+    individualname: Abhishek Mishra
+    role: creator
+    organization: ''
+    url: ''
+  Vanshaj-Kumar:
+    individualname: Vanshaj, Kumar
+    role: ''
+    organization: PhD Scholar, Department of Civil Engineering, Institute of Engineering
+      and Technology (IET), Lucknow, U.P., India
+    url: ''
+content_info: {}

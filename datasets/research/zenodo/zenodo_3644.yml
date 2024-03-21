@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1338826
+  dataseturi: https://doi.org/10.5281/zenodo.1338826
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of Soil Stiffness And Strength For Quality Control Of Compacted
+    Earthwork
+  abstract: "Microstructure and fabric of soils play an important<br>\nrole on structural\
+    \ properties e.g. stiffness and strength of compacted<br>\nearthwork. Traditional\
+    \ quality control monitoring based on moisturedensity<br>\ntests neither reflects\
+    \ the variability of soil microstructure nor<br>\nprovides a direct assessment\
+    \ of structural property, which is the<br>\nultimate objective of the earthwork\
+    \ quality control. Since stiffness<br>\nand strength are sensitive to soil microstructure\
+    \ and fabric, any<br>\nindependent test methods that provide simple, rapid, and\
+    \ direct<br>\nmeasurement of stiffness and strength are anticipated to provide\
+    \ an<br>\neffective assessment of compacted earthen materials\u2019 uniformity.\
+    \ In<br>\nthis study, the soil stiffness gauge (SSG) and the dynamic cone<br>\n\
+    penetrometer (DCP) were respectively utilized to measure and<br>\nmonitor the\
+    \ stiffness and strength in companion with traditional<br>\nmoisture-density measurements\
+    \ of various earthen materials used in<br>\nThailand road construction projects.\
+    \ The practical earthwork quality<br>\ncontrol criteria are presented herein in\
+    \ order to assure proper<br>\nearthwork quality control and uniform structural\
+    \ property of<br>\ncompacted earthworks."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-01-15'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1338826
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1338825
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Sawangsuriya:
+    individualname: A. Sawangsuriya
+    role: creator
+    organization: ''
+    url: ''
+  T.-B.-Edil:
+    individualname: T. B. Edil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

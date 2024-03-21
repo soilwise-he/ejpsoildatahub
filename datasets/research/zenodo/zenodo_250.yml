@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Munro_1886
+  dataseturi: https://doi.org/10.1038/scientificamerican01021886-8342bsupp
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Analysis of Black Soil of Manitoba
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Analysis of Black Soil of Manitoba
+    url: http://dx.doi.org/10.1038/scientificamerican01021886-8342bsupp
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Munro-J.-M.-H.:
+    individualname: Munro, J. M. H.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

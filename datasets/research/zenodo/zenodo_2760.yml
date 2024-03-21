@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5767853
+  dataseturi: https://doi.org/10.5281/zenodo.5767853
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Organic Matter (SOM) Content on True Particle Density and
+    other Physical Properties of Sudan Savannah Entisols
+  abstract: The study aimed to determine the effect of long-term cultivation and soil
+    organic matter (SOM) content on the particle density (Pd) and other physical properties
+    of an Entisols in Usmanu Danfodiyo University Teachings and Research farm.. Soil
+    samples were taken from six different spots (A, B, C, D, E, and F) at the depth
+    of 0-15 and 15-30 cm. The field experiment was laid in RCB design and replicated
+    three times each at a depth, totalling 36 samples. Purposive random sampling was
+    used at 50 m intervals from one spot to another. The results show that interaction
+    between sampling spots and sampling depths of the soil was significant (p&lt;0.05)
+    in terms of total porosity (TP), SOM content, bulk density (Bd), and Pd. Averagely,
+    there was a significant (p&lt;0.05) difference between 0-15 cm and 15-30 cm in
+    terms of TP, Bd, and SOM content with the higher values of TP and OM observed
+    in the 0-15 cm depth. The results show that spots near the shelterbelt (C and
+    E) had higher OM, TP, and lower Bd and Pd. In terms of the textural class, differences
+    were also observed among the sampling spots with C and E having sandy loam while
+    the remaining spots had sand texture. Pd was higher in lower OM spots (A, B, D,
+    F). The study revealed that whenever the standard Pd value (2.65 Mg m-3) was used
+    to calculate TP of the soil, particularly spot C and E, it is being overestimated
+    by 2-3%. It is therefore recommended that OM and crop residues should be incorporated
+    and returned immediately after harvesting to help improve the soil properties.
+    When soil is rich in OM, it is recommended that constant value (2.65 Mg m-3) should
+    not be used to calculate its porosity, but rather the actual (measured) Pd of
+    the soil.
+  keywords:
+    default:
+      keywords:
+        subject: bulk density, microorganisms, porosity, sandy texture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-12-08'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5767853
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.5767852
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nabayi-Abba:
+    individualname: Nabayi, Abba
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Federal University
+      Dutse, Jigawa state. Nigeria. Ibrahim Aliyu bye-pass. PMB 7156. Dutse, Jigawa
+      state
+    url: ''
+  Girei-Abubakar-Halilu:
+    individualname: Girei, Abubakar Halilu
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Federal University
+      Dutse, Jigawa state. Nigeria. Ibrahim Aliyu bye-pass. PMB 7156. Dutse, Jigawa
+      state
+    url: ''
+  Hayatu-Nafiu-Garba:
+    individualname: Hayatu, Nafiu Garba
+    role: creator
+    organization: Department of Soil Science and Agricultural Engineering, Faculty
+      of Agriculture, Usmanu Danfodiyo University, Sokoto. PMB 2346 Sokoto state,
+      Nigeria.
+    url: ''
+  Garba-Jamilu:
+    individualname: Garba, Jamilu
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Ahmadu Bello
+      University Zaria. Kaduna State. Nigeria.
+    url: ''
+  Santuraki-Hassan-Aliyu:
+    individualname: Santuraki, Hassan Aliyu
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Federal University
+      Dutse, Jigawa state. Nigeria. Ibrahim Aliyu bye-pass. PMB 7156. Dutse, Jigawa
+      state
+    url: ''
+content_info: {}

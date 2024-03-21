@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6468966
+  dataseturi: https://doi.org/10.5281/zenodo.6468966
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Coupling Novel Soil Moisture-Suction Sensors and UAV Photogrammetry Technology
+    to the Performance of Highway Embankments
+  abstract: The movement of water plays a critical role in the mechanical performance
+    and service life of transportation infrastructure, especially for pavement subgrades
+    and highway embankments consisting of high-plasticity, expansive soils that saturate
+    and ultimately lead to infrastructure distress. Shallow slides along highway embankments
+    are ubiquitous across Region 6 because long-term wetting and drying cycles considerably
+    weaken these compacted soils. In the aftermath of heavy rains, pore-water pressures
+    increase to a critical threshold such that a failure occurs. The implications
+    of embankment failures range from repeated maintenance repairs to long-term road
+    closures. A comprehensive approach to model highway embankments comprising of
+    laboratory testing, setup, and field data collection using unmanned aerial vehicles
+    has been proposed in this study.
+  keywords:
+    default:
+      keywords:
+        subject: Slope stability, embankments, unmanned aerial vehicles
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-10-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6468966
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6468965
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Navid-H.-Jafari:
+    individualname: Navid H. Jafari
+    role: creator
+  Anand-J.-Puppala:
+    individualname: Anand J. Puppala
+    role: creator
+  Xinbao-Yu:
+    individualname: Xinbao Yu
+    role: creator
+    organization: University of Texas at Arlington
+    url: ''
+  Surya-Sarat-Chandra-Congress:
+    individualname: Surya Sarat Chandra Congress
+    role: creator
+  Jafari-Navid-H.:
+    individualname: Jafari, Navid H.
+    role: ''
+    organization: Louisiana State University
+    url: ''
+  Puppala-Anand-J.:
+    individualname: Puppala, Anand J.
+    role: ''
+    organization: Texas A&M University
+    url: ''
+  Congress-Surya-Sarat-Chandra:
+    individualname: Congress, Surya Sarat Chandra
+    role: ''
+    organization: Texas A&M University
+    url: ''
+content_info: {}

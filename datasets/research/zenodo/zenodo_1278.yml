@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8030607
+  dataseturi: https://doi.org/10.5281/zenodo.8030607
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Productivity of date palm as affected by irrigation in a sandy soil
+  abstract: "A field experiment was conducted on drip irrigated date palm trees (Barhi\
+    \ var.) in a private farm during the 2020 and 2021 seasons to evaluate the effect\
+    \ of five irrigation treatments (120, 100, 80, and 60% ETo and farmer practice)\
+    \ on amounts of applied irrigation water (AIW), consumptive use (CU), date yield\
+    \ and its components, fruit quality, water use efficiency (WUE), water productivity\
+    \ (WP), consumed electric energy, net income, a local date crop coefficient (Kc)\
+    \ and yield response factor (Ky). Results revealed that, average ETo values varied\
+    \ between 1.26 mm/day in December and 9.85 mm/day in July. The 2\u2013year average\
+    \ AIW values were 17 377, 14 546, 11 715, 8 885 and 24 680 m<sup>3</sup>/ha for\
+    \ the 120, 100, 80 and 60% ETo treatments and farmer practice, respectively. Highest\
+    \ and lowest fruit yields of 39.2 and 15.2 t/ha were recorded for the 120% and\
+    \ 60% ETo treatments, respectively. The WP values of the same treatments were\
+    \ 2.27 and 1.23 kg fruits/m<sup>3</sup>. Seasonal average Kc value of 0.74 is\
+    \ obtained for the 120% ETo treatment. The Ky value of 1.187 is obtained for the\
+    \ Barhi variety. The lowest consumed energy (64.7%) and highest net income (31.8%)\
+    \ were recorded for 60% and 120% ETo treatments compared with farmer practice."
+  keywords:
+    default:
+      keywords:
+        subject: net income
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8030607
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8030606
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmed-M.-TAHA:
+    individualname: Ahmed M. TAHA
+    role: creator
+  Hamdy-E.-KHALIFA:
+    individualname: Hamdy E. KHALIFA
+    role: creator
+  TAHA-Ahmed-M.:
+    individualname: TAHA, Ahmed M.
+    role: ''
+    organization: Soils, Water and Environment Research Institute (SWERI), Agricultural
+      Research Center (ARC), Egypt
+    url: ''
+  KHALIFA-Hamdy-E.:
+    individualname: KHALIFA, Hamdy E.
+    role: ''
+    organization: Soils, Water and Environment Research Institute (SWERI), Agricultural
+      Research Center (ARC), Egypt
+    url: ''
+content_info: {}

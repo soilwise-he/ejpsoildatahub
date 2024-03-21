@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7537136
+  dataseturi: https://doi.org/10.5281/zenodo.7537136
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Leaching of Heavy Metals from Contaminated Soil Stabilised by Portland Cement
+    and Slag Bremen
+  abstract: 'Leaching behaviour is an important evidence of soil quality. The assessment
+    of leaching of heavy metals from the contaminated soil is vital for environmental
+    applications. However, leaching may differ in soil stabilised by various ratios
+    of binders. In this study we measured leaching behaviour of soil contaminated
+    by As, Cd, Co, Cr, Cu, Hg, Ni, Pb, V, Zn, methyl Hg, aliphatic compounds of hydrocarbons,
+    polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs) and
+    dissolved organic carbon (DOC). To evaluate leaching of these substances we tested
+    the effects of changed amount of binder (120 kg and 150 kg) and binder ratios
+    (70/30 %, 50/50 % and 30/70 %) added to soil samples. Soil was dredged from several
+    stations in Ostrand area, SCA Sundsvall Ortvikens Pappersbruk. The results demonstrated
+    a systematically decreasing leaching with the increased slag. The contribution
+    of this research include: (i) devising systematic approach to extract information
+    on leaching from stabilised soil collected from the coastal area of Bothnian Bay,
+    (ii) developing a workflow for stabilising soils by various combination of Portland
+    cement Basement CEM II/A-V (SS EN 197-1) and ground granulated blast furnace slag
+    (GGBFS), Bremen type (SS EN 15167-1), (iii) determining water ratio and density
+    for the untreated and stabilised soil and performing comparative analysis, (iv)
+    evaluating chemical content of pollutants and toxic elements in the aggregated
+    soil samples. Treatment of the contaminated soil by binders improved its parameters
+    by the increased strength and decreased leaching of heavy metals and toxic elements.'
+  keywords:
+    default:
+      keywords:
+        subject: cementitious materials
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-01-14'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7537136
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.2478/eces-2022-0039
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.7537135
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: creator
+    organization: "Universit\xE9 Libre de Bruxelles, \xC9cole polytechnique de Bruxelles\
+      \ (Brussels Faculty of Engineering), Laboratory of Image Synthesis and Analysis\
+      \ (LISA)"
+    url: https://orcid.org/0000-0002-5759-1089
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: creator
+    organization: "Lund University, Lunds Tekniska H\xF6gskola (Faculty of Engineering),\
+      \ Department of Building and Environmental Technology, Division of Building\
+      \ Materials"
+    url: https://orcid.org/0000-0002-0577-9936
+content_info: {}

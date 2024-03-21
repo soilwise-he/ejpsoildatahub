@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5831967
+  dataseturi: https://doi.org/10.5281/zenodo.5831967
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Initial classification of soil based on color characteristic in Jabal Al-Akhdar
+    region, Libya
+  abstract: The study was conducted in Al-Jabal Al-Akhdar region to classify soil
+    based on color. Therefore, 48 soil sectors representing a region were chosen to
+    study some important natural and chemical properties. The study aimed to divide
+    the soils of the area into classification units based on the difference in soil
+    color. Remote sensing techniques also contributed to placing soils in similar
+    groups by relying on the classification process according to (Maximum Likelihood
+    Classifier) method. The results indicate the possibility of using color in classifying
+    soils into homogeneous units within the group and differences between units of
+    other soils based on some of their properties. The study also showed the significance
+    of remote sensing technology to separating soils based on a morphological characteristic,
+    producing land cover map with an overall accuracy of (92%), and the Kappa test
+    (0.91). In addition to producing a classification soil map for the total studied
+    area with less accuracy, and the decrease in the overall accuracy which was estimated
+    (61%) and the Kappa index test (0.58) is due to the presence of some areas covered
+    with vegetation cover and the remains of herbs and crops. The overall accuracy
+    (0.75%) and the overall Kappa index test (0.73) were increased for all taxonomic
+    units after excluding areas that occurred within the vegetation lands.
+  keywords:
+    default:
+      keywords:
+        subject: Jabal Al Akhdar, Libya
+  status: ''
+  language: ara
+  dates:
+    creation: ''
+    issued: '2021-06-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5831967
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5831966
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdelrahman-Y-FA:
+    individualname: Abdelrahman, Y FA
+    role: creator
+    organization: Department of Natural Resources, Faculty of Natural Resources, Omar
+      Al-Mukhtar University, Al-Bayda, Libya
+    url: ''
+  Albukhari-Abdulsalam:
+    individualname: Albukhari, Abdulsalam
+    role: creator
+    organization: Department of Forestry and Range, Faculty of Natural Resources,
+      Omar Al-Mukhtar University, Al-Bayda, Libya
+    url: https://orcid.org/0000-0002-3372-5863
+  Aburas-M-M:
+    individualname: Aburas, M M
+    role: creator
+    organization: Department of Soil and Water, Faculty of Agriculture, Omar Al-Mukhtar
+      University, Al-Bayda, Libya
+    url: ''
+  Abdelqader-A-M:
+    individualname: Abdelqader, A M
+    role: creator
+    organization: Department of Forestry and Range, Faculty of Natural Resources,
+      Omar Al-Mukhtar University, Al-Bayda, Libya
+    url: ''
+content_info: {}

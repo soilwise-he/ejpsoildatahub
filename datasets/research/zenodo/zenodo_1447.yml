@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6364503
+  dataseturi: https://doi.org/10.5281/zenodo.6364503
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on the Transformation of Iron Phosphates in Buffer and Acid Soil
+    Systems
+  abstract: Vivekananda College, Calcutta and Barasat Govt. College, Barasat, 24-Parganas
+    <em>Manuscript received 22 February 1977, accepted 9 January 1980</em> Chemical
+    transformation of different iron phosphates in contact with buffer and acid soils
+    systems at different <em>p</em>Hs<em> </em>4.8, 5.2, 5.8 and 6.2 were studied.
+    The results indicate that these iron phosphates undergo hydrolysis reactions and
+    basic (hydroxy) phosphates were ultimately converted to FePO<sub>4</sub>.2H<sub>2</sub>O.
+    Such transformation were effected by different probable chemical reactions.
+  keywords:
+    default:
+      keywords:
+        subject: hydrolysis reactions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1980-02-29'
+    publication: '1980'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6364503
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6364502
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-HAJRA:
+    individualname: A. HAJRA
+    role: creator
+    organization: ''
+    url: ''
+  S.-N.-CHAKRAVARTI:
+    individualname: S. N. CHAKRAVARTI
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

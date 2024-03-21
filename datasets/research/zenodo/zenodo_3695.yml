@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1094573
+  dataseturi: https://doi.org/10.5281/zenodo.1094573
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phylogenetic Characterization Of Atrazine-Degrading Bacteria Isolated From
+    Agricultural Soil In Eastern Thailand
+  abstract: In this study sugarcane field soils with a long history of atrazine application
+    in Chachoengsao and Chonburi provinces have been explored for their potential
+    of atrazine biodegradation. For the atrazine degrading bacteria isolation, the
+    soils used in this study named ACS and ACB were inoculated in MS-medium containing
+    atrazine. Six short rod and gram-negative bacterial isolates, which were able
+    to use this herbicide as a sole source of nitrogen, were isolated and named as
+    ACS1, ACB1, ACB3, ACB4, ACB5 and ACB6. From the 16S rDNA nucleotide sequence analysis,
+    the isolated bacteria ACS1 and ACB4 were identified as <em>Rhizobium </em>sp<em>.</em>
+    with 89.1-98.7% nucleotide identity, ACB1 and ACB5 were identified as <em>Stenotrophomonas
+    </em>sp<em>. </em>with 91.0-92.8% nucleotide identity, whereas ACB3 and ACB6 were
+    <em>Klebsiella </em>sp<em>. </em>with 97.4-97.8% nucleotide identity<em>.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Thai isolate bacteria.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-08-02'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1094573
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1094572
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sawangjit-Sopid:
+    individualname: Sawangjit Sopid
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

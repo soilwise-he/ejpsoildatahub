@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1332730
+  dataseturi: https://doi.org/10.5281/zenodo.1332730
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Mathematical Model For Predicting Isothermal Soil Moisture Profiles Using
+    Finite Difference Method
+  abstract: Subgrade moisture content varies with environmental and soil conditions
+    and has significant influence on pavement performance. Therefore, it is important
+    to establish realistic estimates of expected subgrade moisture contents to account
+    for the effects of this variable on predicted pavement performance during the
+    design stage properly. The initial boundary soil suction profile for a given pavement
+    is a critical factor in determining expected moisture variations in the subgrade
+    for given pavement and climatic and soil conditions. Several numerical models
+    have been developed for predicting water and solute transport in saturated and
+    unsaturated subgrade soils. Soil hydraulic properties are required for quantitatively
+    describing water and chemical transport processes in soils by the numerical models.
+    The required hydraulic properties are hydraulic conductivity, water diffusivity,
+    and specific water capacity. The objective of this paper was to determine isothermal
+    moisture profiles in a soil fill and predict the soil moisture movement above
+    the ground water table using a simple one-dimensional finite difference model.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2007-01-27'
+    publication: '2007'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1332730
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1332729
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kasthurirangan-Gopalakrishnan:
+    individualname: Kasthurirangan Gopalakrishnan
+    role: creator
+    organization: ''
+    url: ''
+  Anshu-Manik:
+    individualname: Anshu Manik
+    role: creator
+  Manik-Anshu:
+    individualname: Manik, Anshu
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

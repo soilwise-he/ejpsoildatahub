@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1197906
+  dataseturi: https://doi.org/10.5281/zenodo.1197906
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessing The Suitability Of Drainage Water For Irrigation In View Of Soil-Meliorative
+    Conditions
+  abstract: "The purpose of the work was to assess the suitability of drainage and\
+    \ discharge waters for irrigation, taking into account soil-reclamation conditions.\
+    \ Assessment of the suitability of drainage water for irrigation of agricultural\
+    \ land is carried out taking into account the indicators characterizing the properties\
+    \ of soils and substances entering the soil during agricultural production \u2014\
+    \ nitrogen, potassium, phosphorus, calcium, magnesium, chlorides and sulfates.\
+    \ The study of the chemical composition of drainage outflow was carried out on\
+    \ the territory of Semikarakorskii district of Rostov region near Anastasiadis\
+    \ farm. Within the boundaries of the study area is implemented vegetable crop\
+    \ rotation: onion \u2014 medium cabbage \u2014 potatoes \u2014 late cabbage. In\
+    \ 2017, the onion was grown on the territory of the plot. To predict the degree\
+    \ of pollution of drainage and discharge waters it is necessary to study the dynamics\
+    \ of mineralization and composition of soil solutions and soil absorbing complex,\
+    \ the mechanism of fertilizer removal. Calculations showed that the concentration\
+    \ of biogenic elements, for example, nitrogen, in drainage and discharge waters\
+    \ depends on the doses of fertilizers, the degree of digestibility of their soil\
+    \ and soil-meliorative conditions of the site."
+  keywords:
+    default:
+      keywords:
+        subject: suitability
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-03-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1197906
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1197905
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vasiliev-D.:
+    individualname: Vasiliev, D.
+    role: creator
+    organization: Russian scientific research institute of land improvement problems
+    url: ''
+  Domashenko-Yu.:
+    individualname: Domashenko Yu.
+    role: creator
+    organization: ''
+    url: ''
+  Vasiliev-S.:
+    individualname: Vasiliev, S.
+    role: creator
+    organization: Russian scientific research institute of land improvement problems
+    url: ''
+content_info: {}

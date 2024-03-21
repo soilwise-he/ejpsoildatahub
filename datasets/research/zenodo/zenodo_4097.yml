@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5113403
+  dataseturi: https://doi.org/10.5281/zenodo.5113403
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Concentration of Zinc and Lead in the soil around a non-ferrous metal smelter\
+    \ KGH \"Boles\u0142aw\" in Bukowno near Olkusz"
+  abstract: "The objective of the study was evaluate zinc and lead contamination in\
+    \ the upper, organic layer of the soil around zinc and lead smelting plant KGH\
+    \ \"Boles\u0142aw\" in Bukowno near Olkusz. The study material were samples of\
+    \ the upper layer (0-5 cm) of the soil collected at the distance of 10, 25, 50,\
+    \ 100, 150, 200, 250 m, and further each of the 250 m up to 3000 m sections in\
+    \ 8 directions: N, NE, E, SE, S, SW, W and NW. The most contaminated soil samples\
+    \ were found at the distance of up about 1000 m from the subject plant. The most\
+    \ polluted is the NE and SW area. Pollution of the NE area is related to wind\
+    \ direction. The SW area could be a zinc and lead are outcrop, or else, it was\
+    \ contaminated when used as a dumping ground for the waste from the plant in the\
+    \ past. Heavy pollution of this area with zinc and lead could case serious damage\
+    \ to living organisms in the area close to the plant."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2001-01-01'
+    publication: '2001'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5113403
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5113402
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Edyta-Sierka:
+    individualname: Edyta Sierka
+    role: creator
+  Bernard-Palowski:
+    individualname: Bernard Palowski
+    role: creator
+  Tadeusz-Kimsa:
+    individualname: Tadeusz Kimsa
+    role: creator
+  I.-Lukasik:
+    individualname: "I. \u0141ukasik"
+    role: creator
+    organization: ''
+    url: ''
+  R.-Ciepal:
+    individualname: "R. Ciepa\u0142"
+    role: creator
+    organization: ''
+    url: ''
+  Sierka-Edyta:
+    individualname: Sierka, Edyta
+    role: ''
+    organization: University of Silesia
+    url: https://orcid.org/0000-0003-3317-4552
+  Palowski-Bernard:
+    individualname: Palowski, Bernard
+    role: ''
+    organization: ''
+    url: ''
+  Kimsa-Tadeusz:
+    individualname: Kimsa, Tadeusz
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

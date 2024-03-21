@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5229164
+  dataseturi: https://doi.org/10.5281/zenodo.5229164
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Bearing Capacity of Isolated Square Skirted Foundation on Cohesionless Soil:
+    An Experimental and Analytical Study'
+  abstract: "Skirted foundations are being used increasingly for foundations of offshore\
+    \ structures, the popular name of that foundations is bucket foundations. The\
+    \ provision of skirts on the periphery of shallow foundation will result in increasing\
+    \ confinement of soil and hence improvement in state of stress as well as soil\
+    \ structure interaction. The present paper describes study of model square skirted\
+    \ foundation for axial loads in cohesionless soils. The parameters like aspect\
+    \ ratio of skirt (skirt length), skirt angle \u03B1, depth of placement of foundation\
+    \ are considered in experiments and compared with model plane footing without\
+    \ skirts. Bearing capacity of the model foundations were carried out by stress\
+    \ controlled plate load test. Results shows considerable increase in bearing capacity\
+    \ because of provision of skirts, hence skirted foundations is suitable for on\
+    \ shore structures also. The governing mechanism for the behaviour of skirted\
+    \ foundations is explained."
+  keywords:
+    default:
+      keywords:
+        subject: Skirted foundations, mechanism of skirted footing, confinement effect,
+          model plate load test
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-08-21'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5229164
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5229163
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Samir-Parmar:
+    individualname: Samir Parmar
+    role: creator
+  R.M.-Patel:
+    individualname: R.M. Patel
+    role: creator
+    organization: Retd. Professor, L.D.Engg. Collage, Ahmedabad, India.
+    url: ''
+  Parmar-Samir:
+    individualname: Parmar, Samir
+    role: ''
+    organization: Assistant Professor, DDU, Nadiad, Gujarat, India.
+    url: ''
+content_info: {}

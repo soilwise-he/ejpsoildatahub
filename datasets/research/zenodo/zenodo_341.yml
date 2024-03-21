@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ogg_1920
+  dataseturi: https://doi.org/10.1017/s0021859600006298
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Studies of a Scottish drift soil. II
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Studies of a Scottish drift soil. II
+    url: http://dx.doi.org/10.1017/s0021859600006298
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ogg-William-Gammie:
+    individualname: Ogg, William Gammie
+    role: creator
+  Hendrick-James:
+    individualname: Hendrick, James
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

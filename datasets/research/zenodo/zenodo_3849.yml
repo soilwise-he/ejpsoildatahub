@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1314869
+  dataseturi: https://doi.org/10.5281/zenodo.1314869
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Soil Contamination On Chemical Composition And Quality Of Aronia
+    (Aronia Melanocarpa) Fruits
+  abstract: A field study was conducted to evaluate the chemical composition and quality
+    of the Aronia fruits, as well as the possibilities of Aronia cultivation on soils
+    contaminated with heavy metals. The experiment was performed on an agricultural
+    field contaminated by the Non-Ferrous-Metal Works (NFMW) near Plovdiv, Bulgaria.
+    The study included four varieties of Aronia; Aron variety, Hugin variety, Viking
+    variety and Nero variety. The Aronia was cultivated according to the conventional
+    technology on areas at a different distance from the source of pollution NFMW-
+    Plovdiv (1 km, 3.5 km, and 15 km). The concentrations of macroelements, microelements,
+    and heavy metals in Aronia fruits were determined. The dry matter content, ash,
+    sugars, proteins, and fats were also determined. Aronia is a crop that is tolerant
+    to heavy metals and can successfully be grown on soils contaminated with heavy
+    metals. The increased content of heavy metals in the soil leads to less absorption
+    of the nutrients (Ca, Mg and P) in the fruit of the Aronia. Soil pollution with
+    heavy metals does not affect the quality of the Aronia fruit varieties.
+  keywords:
+    default:
+      keywords:
+        subject: quality.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-11-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1314869
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1314868
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Violina-R.-Angelova:
+    individualname: Violina R. Angelova
+    role: creator
+  Sava-G.-Tabakov:
+    individualname: Sava G. Tabakov
+    role: creator
+  Aleksander-B.-Peltekov:
+    individualname: Aleksander B. Peltekov
+    role: creator
+  Krasimir-I.-Ivanov:
+    individualname: Krasimir I. Ivanov
+    role: creator
+  Angelova-Violina-R.:
+    individualname: Angelova, Violina R.
+    role: ''
+    organization: ''
+    url: ''
+  Tabakov-Sava-G.:
+    individualname: Tabakov, Sava G.
+    role: ''
+    organization: ''
+    url: ''
+  Peltekov-Aleksander-B.:
+    individualname: Peltekov, Aleksander B.
+    role: ''
+    organization: ''
+    url: ''
+  Ivanov-Krasimir-I.:
+    individualname: Ivanov, Krasimir I.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

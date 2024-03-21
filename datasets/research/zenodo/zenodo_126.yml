@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.897742
+  dataseturi: https://doi.org/10.5281/zenodo.897742
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Geotechnical Study Of Baghdad Soil
+  abstract: This paper comprises the study and analysis of Baghdad soil for 23 geotechnical
+    properties which were extracted from field tests of 630 boreholes with depth taken
+    to 30m and representing 200 sites. Soil investigation reports are collected from
+    different laboratory tests. The soil layers were divided into each 2m, which means
+    15 studied layers and the soil properties values were adopted and submitted in
+    tables and digital maps to represent the variation of soil properties values with
+    depth and relationships between the properties values. Different softwares and
+    tools were implemented for digital maps preparation. The results clarify that
+    Baghdad upper soil layer is mainly fill with poor strength. The stratum is erratic
+    and non-homogenous with water levels near the natural ground surface. Baghdad
+    soil is generally alkaline with high concentration of sulphates in the upper layers.
+  keywords:
+    default:
+      keywords:
+        subject: Geotechnical properties, Sediments homogeneity, Baghdad Soil.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-09-20'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.897742
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.897741
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hussein-H.-Karim*-Safaa-J.-Wadaa:
+    individualname: Hussein H. Karim*, Safaa J. Wadaa
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

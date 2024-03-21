@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8200563
+  dataseturi: https://doi.org/10.5281/zenodo.8200563
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil And Building Interaction Under Earthquake Loads
+  abstract: <em>Soil-building interaction is an important factor to reduce the damage
+    of structures under various dynamic effects. This interaction refers to the effect
+    of dynamic properties of the ground such as seismic wave propagation, dispersion,
+    reflection and absorption on the seismic performance of the structure. Therefore,
+    it is of great importance to consider the soil-foundation interaction during building
+    design and construction. Soil-foundation interaction depends on many factors that
+    determine how structures will behave under earthquake loads. These factors include
+    building material, building geometry, soil properties, selected foundation system
+    and earthquake loads. The influence of these factors is taken into account during
+    the design and construction of structures and the seismic performance of the structure
+    is improved by taking appropriate measures. Local soil effects play an important
+    role in earthquake resistant building design. For example, in the 2023 Kahramanmaras
+    earthquake of magnitude 7.7 and 7.6, buildings were severely damaged due to soil.
+    As a result of the examination of the damaged buildings, it was observed that
+    the soil-foundation-structure relationship was not established properly. One of
+    the most prominent features of the collapsed buildings is the low bearing capacity
+    of the soils on which the foundations sit. Within the scope of this study, how
+    the soil type, soil structure and the properties of the selected foundation system
+    affect the behaviour of the structure is investigated. By considering soil-structure
+    interaction, how the structure will behave on the appropriate soil and determination
+    of the foundation system suitable for the soil are emphasised. The foundation
+    system of the building is selected by considering the soil classes and the requirements
+    of the 2018 Turkey Building Earthquake Code are taken into consideration. A sample
+    building modelling was carried out by making calculations and simulations were
+    made in IDECAD programme. In this way, it is aimed to reveal the relationship
+    between the soil and the structure in a healthy way.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Soil-structure interaction, soil, 2018 building earthquake code,
+          earthquake, structure damage
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8200563
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8200562
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ishak-Eroglu:
+    individualname: "\u0130shak Ero\u011Flu"
+    role: creator
+  Cengiz-Ipek:
+    individualname: "Cengiz \u0130pek"
+    role: creator
+  Eroglu-Ishak:
+    individualname: "Ero\u011Flu, \u0130shak"
+    role: ''
+    organization: "\u0130stanbul Medeniyet \xDCniversitesi"
+    url: https://orcid.org/0009-0002-9496-0311
+  Ipek-Cengiz:
+    individualname: "\u0130pek, Cengiz"
+    role: ''
+    organization: "\u0130stanbul Medeniyet \xDCniversitesi"
+    url: https://orcid.org/0000-0001-5319-1048
+content_info: {}

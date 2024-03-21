@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7811067
+  dataseturi: https://doi.org/10.5281/zenodo.7811067
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Micronutrients Linked to Human Health in India
+  abstract: The repository contains code used to process data, analyze data, and create
+    figures and tables for Morton et al. It also contains the publicly available raw
+    data files used in the study. Since the raw data used from the National Family
+    Health Surveys (NFHS) requires registration, it is not included in the repository,
+    but we have provided sufficient information to retrieve the health data and covariates
+    used in the study. Since the Bihar shapefile was purchased by Stanford University
+    for use by Stanford affiliates, it is not included in the repository. Interim
+    and processed data files are available upon request, and, for files containing
+    NFHS data, proof of registration with the NFHS. Interim and processed data files
+    containing Bihar shapefile data are not available to non-Stanford University affiliates,
+    but are available to Stanford University affiliates or upon proof of license to
+    use the data.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-05-01'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7811067
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7811066
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Claire-Morton:
+    individualname: Claire Morton
+    role: creator
+  Hemant-Pullabhotla:
+    individualname: Hemant Pullabhotla
+    role: creator
+  Leah-Bevis:
+    individualname: Leah Bevis
+    role: creator
+  David-B.-Lobell:
+    individualname: David B. Lobell
+    role: creator
+  Morton-Claire:
+    individualname: Morton, Claire
+    role: ''
+    organization: Stanford University
+    url: https://orcid.org/0000-0002-2824-765X
+  Pullabhotla-Hemant:
+    individualname: Pullabhotla, Hemant
+    role: ''
+    organization: Deakin University
+    url: ''
+  Bevis-Leah:
+    individualname: Bevis, Leah
+    role: ''
+    organization: Ohio State University
+    url: ''
+  Lobell-David-B.:
+    individualname: Lobell, David B.
+    role: ''
+    organization: Stanford University
+    url: ''
+content_info: {}

@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3591366
+  dataseturi: https://doi.org/10.5281/zenodo.3591366
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Calculation of Metal Pollution Index and Enrichment Factor in Sodic Soil
+    from Salt Production Area
+  abstract: 'In the present paper, the sodic soil samples were collected from the
+    salt production area of Thakhauttaw, Hanlin, Sataung Gyi and Paline, Shwebo District,
+    Sagaing Region. These samples were studied on the elemental analysis using the
+    energy dispersive x ray fluorescence EDXRF spectroscopy. In order to evaluate
+    the contamination status of metals, assessment indices such as metal pollution
+    index MPI and enrichment factors EFs have been calculated by using the metal concentrations
+    from the EDXRF results. The values of metal pollution index MPI for all samples
+    were less than 1. This indicating the sodic soil was no significant of metal pollution.
+    The results of enrichment factors show that Ca and Mn considerable enriched levels
+    in the soil. According to health physics point of view, the overall study suggests
+    that the sodic soil from salt production area were not metal contaminated and
+    long term consumption cannot be cause potential health risks to consumers. Tin
+    Htun Naing | Kyaw Kyaw Naing | Hla Win Aung | Wunna Ko | Khin Maung Htwe "Calculation
+    of Metal Pollution Index and Enrichment Factor in Sodic Soil from Salt Production
+    Area" Published in International Journal of Trend in Scientific Research and Development
+    (ijtsrd), ISSN: 2456-6470, Volume-3 | Issue-5 , August 2019, URL: https://www.ijtsrd.com/papers/ijtsrd26771.pdf'
+  keywords:
+    default:
+      keywords:
+        subject: metal pollution index (MPI)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-22'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3591366
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3591365
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tin-Htun-Naing:
+    individualname: Tin Htun Naing
+    role: creator
+  Kyaw-Kyaw-Naing:
+    individualname: Kyaw Kyaw Naing
+    role: creator
+    organization: ''
+    url: ''
+  Hla-Win-Aung:
+    individualname: Hla Win Aung
+    role: creator
+    organization: ''
+    url: ''
+  Khin-Maung-Htwe:
+    individualname: Khin Maung Htwe
+    role: creator
+    organization: ''
+    url: ''
+  Wunna-Ko:
+    individualname: Wunna Ko
+    role: creator
+    organization: ''
+    url: ''
+  Naing-Tin-Htun:
+    individualname: Naing, Tin Htun
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

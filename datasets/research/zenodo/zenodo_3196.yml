@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BOROVEC_2013
+  dataseturi: https://doi.org/10.11646/zootaxa.3646.5.1
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil insect research in South Africa. 1. A new genus of terricolous weevils
+    with four new species from the Richtersveld National Park (Coleoptera: Curculionidae:
+    Entiminae: Trachyphloeini)'
+  abstract: 'Borovec, R., Meregalli, M. (2013): Soil insect research in South Africa.
+    1. A new genus of terricolous weevils with four new species from the Richtersveld
+    National Park (Coleoptera: Curculionidae: Entiminae: Trachyphloeini). Zootaxa
+    3646 (5): 501-515, DOI: 10.11646/zootaxa.3646.5.1'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Plantae
+      - Tracheophyta
+      - Magnoliopsida
+      - Boraginales
+      - Boraginaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil insect research in South Africa. 1. A new genus of terricolous weevils
+      with four new species from the Richtersveld National Park (Coleoptera: Curculionidae:
+      Entiminae: Trachyphloeini)'
+    url: http://dx.doi.org/10.11646/zootaxa.3646.5.1
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Borovec-R.:
+    individualname: Borovec, R.
+    role: creator
+  Meregalli-M.:
+    individualname: Meregalli, M.
+    role: creator
+  BOROVEC-R.:
+    individualname: BOROVEC, R.
+    role: creator
+  MEREGALLI-M.:
+    individualname: MEREGALLI, M.
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: D_N_2021
+  dataseturi: https://doi.org/10.35940/ijeat.C2270.0210321
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An AI solution for Soil Fertility and Crop Friendliness Detection and Monitoring
+  abstract: '&lt;p&gt;Agriculture is the main occupation of India and more than 50%
+    of people are dependent on agriculture. Research on agriculture will strengthen
+    the economic growth of the country. Technologies play a vital role to bolster
+    the agriculture. Since soil is the main fount of agriculture , there is a need
+    for significant approach to help the farmer to test and monitor the soil and its
+    properties ,which will boost the fertility of the soil thereby intensifying the
+    crop growth, also if crop recommendations are imparted to farmers in a proper
+    way, crop yield can be enhanced to meet the growing demand for the food. Proper
+    awareness on soil will benefit the farmers to grow the right and healthy crop.
+    To overcome the disadvantages of traditional soil testing practices we are proposing
+    an approach which has Deep learning, an artificial intelligence(AI) technique
+    and IOT features . This helps in getting fast and accurate result. Soil fertility
+    can be calculated by parameters like pH level, temperature, Moisture content of
+    the soil,temperature, humidity and NPK(nitrogen, phosphorus, and potassium) ,organic
+    matter, carbon level. Weather and Climatic conditions along with the soil parameters
+    will help to evaluate the soil fertility. The lacking nutrients in the soil and
+    needed nutrients/fertilizers to boost the soil fertility can be suggested to the
+    farmers and also the crops which can be suitably grown from the given soil sample
+    and nutrients required for all the recommended crops to enhance the yield can
+    be suggested to the farmers.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Artificial Intelligence
+      - Deep learning
+      - Crop recommendation
+      - NPK
+      - Soil fertility .
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An AI solution for Soil Fertility and Crop Friendliness Detection and Monitoring
+    url: http://dx.doi.org/10.35940/ijeat.C2270.0210321
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Varshitha-D-N:
+    individualname: Varshitha D N
+    role: creator
+  Savita-Choudhary:
+    individualname: Savita Choudhary
+    role: creator
+  D-N-Varshitha:
+    individualname: D N, Varshitha
+    role: creator
+  Choudhary-Dr.-Savita:
+    individualname: Choudhary, Dr. Savita
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

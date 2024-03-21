@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10257518
+  dataseturi: https://doi.org/10.5281/zenodo.10257518
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of Biochar Application as a Carbon Substrate on Cotton Plant Growth
+    and Some Soil Enzymes
+  abstract: 'Biochar is a soil amendment that can influence many biotic processes
+    in the soil. When applied to soil with low organic matter content, it improves
+    the physical, chemical, and biological properties of the soil, thereby enhancing
+    soil quality. This study was conducted to examine the potential effects of different
+    ratios of biochar applied to a calcareous soil on the growth of cotton plants
+    and soil biology. The study comprised four treatments: a control group without
+    biochar application and three different levels of biochar application (3%, 6%,
+    9%). As a result, biochar application increased the uptake of nitrogen, potassium,
+    iron, and boron in cotton plants. It significantly increased the NDVI (Normalized
+    Difference Vegetation Index) and SPAD values used to assess the plant''s nitrogen
+    status. By triggering an increase in the activity of nitrate reductase enzymes
+    in the plant leaves, biochar application notably hindered nitrate accumulation,
+    particularly in the case of the 6% biochar application. Additionally, biochar
+    significantly increased the soil enzymes dehydrogenase and urease, contributing
+    positively to the C and N cycles in the soil. The study results demonstrate that
+    biochar application can enhance the uptake of plant nutrient elements from the
+    soil and increase soil enzyme activity in cotton plants.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-04'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10257518
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10257517
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  RAMAZANOGLU-Emrah:
+    individualname: RAMAZANOGLU, Emrah
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

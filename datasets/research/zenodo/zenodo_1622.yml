@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Suni_2023
+  dataseturi: https://doi.org/10.1016/j.flora.2023.152295
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Responses of floral traits to water limitation across soil types and along
+    climatic gradients
+  abstract: '&lt;p&gt;This code pertains to the content of Suni et al. (2023), published
+    in the journal &lt;em&gt;Flora&lt;/em&gt;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Responses of floral traits to water limitation across soil types and along
+      climatic gradients
+    url: http://dx.doi.org/10.1016/j.flora.2023.152295
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sevan-Suni:
+    individualname: Sevan Suni
+    role: creator
+  Allyson-Kuwana:
+    individualname: Allyson Kuwana
+    role: creator
+  Nicole-Ibanez:
+    individualname: Nicole Ibanez
+    role: creator
+  Suni-Sevan:
+    individualname: Suni, Sevan
+    role: creator
+  Kuwana-Allyson:
+    individualname: Kuwana, Allyson
+    role: creator
+  Iba+-ez-Nicole:
+    individualname: "Iba\u221A\xB1ez, Nicole"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

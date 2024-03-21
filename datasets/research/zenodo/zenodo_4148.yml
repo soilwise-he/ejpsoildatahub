@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10511027
+  dataseturi: https://doi.org/10.5281/zenodo.10511027
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Growth and Yield Performance of Sweet Melon as Affected by Years of Usage
+    for Formulated Treated Soil in North Central Nigeria
+  abstract: Abstract The study was carried out at the National Centre for Agricultural
+    Mechanization Ilorin Kwara State, Nigeria to evaluate the performance of formulated/treated
+    soil used over a period of three years for vegetable production in a greenhouse,
+    using response to sweet melon (galia f1) as case study. The experiment was conducted
+    using a completely randomized design with four replications. Data were collected
+    on the growth and yield of sweet melon and analyzed using analysis of variance
+    (ANOVA) at 5% level of significant difference and Duncan multiple range tests
+    was used to separate the means. The result showed that the average values of fruit
+    yield obtained from the freshly formulated/treated soil, formulated/treated used
+    soil and untreated soil (the control) are 5.45kg; 4.70kg and 1.95kg respectively.
+    It is therefore concluded that the formulated treated soil as described in this
+    work can be used in greenhouse melon farming, sustainably with good productivity
+    for minimum of three years.
+  keywords:
+    default:
+      keywords:
+        subject: Formulated soil, Greenhouse, Yield, Sweet melon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-02-28'
+    publication: '2022'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10511027
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10511026
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salman-S.I.:
+    individualname: Salman S.I.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+  Ahmed-H.-A.:
+    individualname: Ahmed H. A.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+  Adekeye-S.-A.:
+    individualname: Adekeye S. A.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+  Baker-A.-T.:
+    individualname: Baker A. T.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+  Waheed-A.:
+    individualname: Waheed A.
+    role: creator
+    organization: Department of Performance and Motoring Evaluation National Centre
+      for Agricultural Mechanization (NCAM). P.M.B. 1525, Ilorin, Kwara State - Nigeria
+    url: ''
+  James-D.:
+    individualname: James D.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+  Makanjuola-M.B.:
+    individualname: Makanjuola M.B.
+    role: creator
+    organization: Department of Land and Water Engineering
+    url: ''
+content_info: {}

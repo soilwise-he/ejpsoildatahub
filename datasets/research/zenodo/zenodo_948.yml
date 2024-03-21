@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sherman_1980
+  dataseturi: https://doi.org/10.1109/tns.1980.4330914
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Measurement of Trace Radionuclides in Soil by L X-Ray Spectrometry
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Measurement of Trace Radionuclides in Soil by L X-Ray Spectrometry
+    url: http://dx.doi.org/10.1109/tns.1980.4330914
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sherman-I.-S.:
+    individualname: Sherman, I. S.
+    role: creator
+  Strauss-M.-G.:
+    individualname: Strauss, M. G.
+    role: creator
+  Pehl-R.-H.:
+    individualname: Pehl, R. H.
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+content_info: {}

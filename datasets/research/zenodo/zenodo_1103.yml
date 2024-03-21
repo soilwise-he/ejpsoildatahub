@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.274971
+  dataseturi: https://doi.org/10.5281/zenodo.274971
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'A new soil-dwelling palpigrade species from Northern Italy (Palpigradi:
+    Eukoeneniidae)'
+  abstract: 'Christian, Erhard (2009): A new soil-dwelling palpigrade species from
+    Northern Italy (Palpigradi: Eukoeneniidae). Zootaxa 2136: 59-68, DOI: 10.5281/zenodo.274971'
+  keywords:
+    default:
+      keywords:
+        subject: Eukoeneniidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2009-12-31'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.274971
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.6214077
+    type: WWW:LINK
+    title: HasPart
+  r3:
+    url: https://doi.org/10.5281/zenodo.274972
+    type: WWW:LINK
+    title: HasPart
+  r4:
+    url: https://doi.org/10.5281/zenodo.274973
+    type: WWW:LINK
+    title: HasPart
+  r5:
+    url: https://doi.org/10.5281/zenodo.274974
+    type: WWW:LINK
+    title: HasPart
+  r6:
+    url: https://doi.org/10.5281/zenodo.274975
+    type: WWW:LINK
+    title: HasPart
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Christian-Erhard:
+    individualname: Christian, Erhard
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

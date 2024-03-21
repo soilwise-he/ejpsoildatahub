@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4476976
+  dataseturi: https://doi.org/10.5281/zenodo.4476976
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Temporal and Cultivar-Specific Effects on Potato Root and Soil Fungal Diversity
+  abstract: The soil fungal community plays an important role in determining plant
+    growth and health. In this study, we investigated the fungal diversity and community
+    composition in the root and soil of 21 potato (<em>Solanum tuberosum</em> L.)
+    cultivars using high-throughput sequencing at three different time points across
+    the growing season. In soil and roots, the fungal richness and relative abundance
+    of pathogens and saprotrophs were mainly affected by sampling time. While sampling
+    time affected fungal composition in soil, root fungal communities were also significantly
+    affected by cultivar. The cultivar had the strongest effect on diversity of pathogens
+    and abundance of particular pathogen species. Our results demonstrate changes
+    in soil and root fungal communities of potato over the growing season, as well
+    as highlighting the importance of potato cultivar on root fungal communities and
+    abundance of pathogens. This work was funded by the European Commission Horizon
+    2020 project SoildiverAgro [grant agreement 817819].
+  keywords:
+    default:
+      keywords:
+        subject: potato cultivars
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-10-09'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4476976
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4476975
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Loit-Kaire:
+    individualname: Loit, Kaire
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: https://orcid.org/0000-0002-0426-990X
+  Soonvald-Liina:
+    individualname: Soonvald, Liina
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: ''
+  Astover-Alar:
+    individualname: Astover, Alar
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: https://orcid.org/0000-0002-8924-6925
+  Runno-Paurson-Eve:
+    individualname: Runno-Paurson, Eve
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: ''
+  Opik-Maarja:
+    individualname: "\xD6pik, Maarja"
+    role: creator
+    organization: University of Tartu
+    url: ''
+  Tedersoo-Leho:
+    individualname: Tedersoo, Leho
+    role: creator
+    organization: University of Tartu
+    url: https://orcid.org/0000-0002-1635-1249
+content_info: {}

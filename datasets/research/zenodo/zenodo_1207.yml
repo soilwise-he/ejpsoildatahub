@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Crowther_1915
+  dataseturi: https://doi.org/10.1017/s002185960000263x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Influence on Crop and Soil of Manures applied to Permanent Meadow
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Influence on Crop and Soil of Manures applied to Permanent Meadow
+    url: http://dx.doi.org/10.1017/s002185960000263x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Crowther-Charles:
+    individualname: Crowther, Charles
+    role: creator
+  Ruston-Arthur-G.:
+    individualname: Ruston, Arthur G.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

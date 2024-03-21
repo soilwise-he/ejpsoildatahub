@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Waddell_1903
+  dataseturi: https://doi.org/10.1016/s0140-6736(01)73086-3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOIL NITRIFICATION v. THE INCIDENCE OF MALARIA AND OTHER MOSQUITO-BORNE DISEASES.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOIL NITRIFICATION v. THE INCIDENCE OF MALARIA AND OTHER MOSQUITO-BORNE
+      DISEASES.
+    url: http://dx.doi.org/10.1016/s0140-6736(01)73086-3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Waddell-ArthurR:
+    individualname: Waddell, ArthurR
+    role: creator
+  Waddell-ArthurR.:
+    individualname: Waddell, ArthurR.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

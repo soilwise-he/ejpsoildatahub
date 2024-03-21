@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5034168
+  dataseturi: https://doi.org/10.5281/zenodo.5034168
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Influence of soil in oak root system on its response to bending
+  abstract: Tree root system belongs to a key factor of the tree stability because
+    it provides the anchorage point to the ground/soil, beside its physiological purpose.
+    Therefore, to assess the tree stability with a certainty, it is needed to have
+    information about tree root-plate, ie. to know roots health state, its geometrical
+    distribution in a space with respect to a tree and surrounding objects, to know
+    properties of the ground (soil) and to know material properties of roots. This
+    work assessed 10 oak trees in terms of their reaction to bending induced by a
+    standard pulling test accompanied with optical technique based on digital image
+    correlation to obtain displacement at various locations of tree. Trees were tested
+    in both intact state and with soil removed from the surface of the root plate.
+    Results showed that performed soil removal did not have statistically significant
+    effect on apparent tree stiffness. The same conclusions were found based on data
+    provided by both inclinometers and digital camera.
+  keywords:
+    default:
+      keywords:
+        subject: ultrasonic air stream method
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-25'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5034168
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5034167
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vaclav-Sebera:
+    individualname: "V\xE1clav Sebera"
+    role: creator
+  Jan-Tippner:
+    individualname: Jan Tippner
+    role: creator
+  Vinko-Paulic:
+    individualname: Vinko Paulic
+    role: creator
+  Ludek-Praus:
+    individualname: "Lud\u011Bk Praus"
+    role: creator
+    organization: Mendel University in Brno
+    url: ''
+  Barbora-Vojackova:
+    individualname: "Barbora Voj\xE1\u010Dkov\xE1"
+    role: creator
+  Martin-Brabec:
+    individualname: Martin Brabec
+    role: creator
+  Jaromir-Milch:
+    individualname: "Jarom\xEDr Milch"
+    role: creator
+  Sebera-Vaclav:
+    individualname: "Sebera, V\xE1clav"
+    role: ''
+    organization: Mendel University in Brno; InnoRenew CoE
+    url: ''
+  Tippner-Jan:
+    individualname: Tippner, Jan
+    role: ''
+    organization: Mendel University in Brno
+    url: ''
+  Paulic-Vinko:
+    individualname: Paulic, Vinko
+    role: ''
+    organization: University of Zagreb, Faculty of Forestry, Department of Forest
+      Ecology and Silviculture
+    url: ''
+  Vojackova-Barbora:
+    individualname: "Voj\xE1\u010Dkov\xE1, Barbora"
+    role: ''
+    organization: Mendel University in Brno
+    url: ''
+  Brabec-Martin:
+    individualname: Brabec, Martin
+    role: ''
+    organization: Mendel University in Brno
+    url: ''
+  Milch-Jaromir:
+    individualname: "Milch, Jarom\xEDr"
+    role: ''
+    organization: Mendel University in Brno
+    url: ''
+content_info: {}

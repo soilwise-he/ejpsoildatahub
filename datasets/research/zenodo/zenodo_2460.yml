@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.833369
+  dataseturi: https://doi.org/10.5281/zenodo.833369
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment Of Geotechnical Properties Of Migmatite-Derived Residual Soil
+    From Ilorin, Southwestern Nigeria, As Barrier In Sanitary Landfills
+  abstract: This study investigates the geotechnical properties of a migmatite - derived
+    soil from southwestern Nigeria for its potential use as barrier in sanitary landfill.
+    The required parameters for soils to be considered as barrier such as grain size
+    distribution, Atterberg consistency limits, maximum dry density (MDD) and the
+    coefficient of permeability were determined. Results obtained show that the hydraulic
+    conductivity is lower than the suggested limit (1 x 10<sup>-7</sup>cm/s) of the
+    various waste regulatory agencies. In addition, it has adequate basic geotechnical
+    properties, strength and the shrinkage potential upon drying. These properties
+    suggest the potential suitability of the soil as a barrier in containment facility
+    for disposal of waste material.
+  keywords:
+    default:
+      keywords:
+        subject: Barrier, Hydraulic conductivity, Residual soil, Unconfined shear
+          strength
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-07-21'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.833369
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.833368
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Olusegun-O.-Ige:
+    individualname: Olusegun O. Ige
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8090804
+  dataseturi: https://doi.org/10.5281/zenodo.8090804
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Salt Accumulation, Physiological Responses, and Yield Simulation of
+    Winter Wheat to Alternate Saline and Fresh Water Irrigation in the North China
+    Plain
+  abstract: "Large amounts of shallow underground water typically with salt content\
+    \ at around 4.7 dS m<sup>\u22121</sup> are available in the North Chain Plain\
+    \ (NCP), which requires managing and thus can be properly used in irrigated agriculture\
+    \ to relieve the increasing pressure on fresh water in this region for supplementary\
+    \ irrigation. Field experiments were conducted to investigate the soil salt accumulation,\
+    \ responses, and yield simulation of winter wheat to the alternate irrigation\
+    \ strategies during 2017\u20132019. Five irrigation strategies included rain-fed\
+    \ cultivation (NI), fresh and saline water irrigation (FS), fresh water irrigation\
+    \ (FF), saline water irrigation (SS), and saline and fresh water irrigation (SF)\
+    \ during the growth stages. Irrigation with saline water increased soil salinity\
+    \ level and could be balanced annually; however, the leaf gas exchange of winter\
+    \ wheat was almost not significantly affected. The salinity caused by saline water\
+    \ irrigation negatively influenced the vegetative growth. The grain yield was\
+    \ increased by 24% and 32% under the FS and SF treatments compared to NI, while\
+    \ a minor reduction by 12% and 5% in yield under these treatments was recorded\
+    \ compared with the FF treatment. The SALTMED model was calibrated and validated\
+    \ to predict yield, and the high value of the R<sup>2</sup> reflected a good agreement\
+    \ between modeled and observed values, indicating that the SALTMED model was able\
+    \ to simulate grain yield under the alternate irrigation strategies in the regional\
+    \ climate condition. Supplementary irrigation using saline water at the stem elongation\
+    \ stage and fresh water at the flowering stage is a practical solution to achieve\
+    \ comparable yields with low risk of salt accumulation for winter wheat particularly\
+    \ in the NCP."
+  keywords:
+    default:
+      keywords:
+        subject: Yield
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-12'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8090804
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090803
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rajesh-Kumar-Soothar:
+    individualname: Rajesh Kumar Soothar
+    role: creator
+  Chao-Wang:
+    individualname: Chao Wang
+    role: creator
+  Li-Li:
+    individualname: Li, Li
+    role: creator
+    organization: ''
+    url: ''
+  Ningbo-Cui:
+    individualname: Ningbo Cui
+    role: creator
+    organization: ''
+    url: ''
+  Wenying-Zhang:
+    individualname: Wenying Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Yaosheng-Wang:
+    individualname: Yaosheng Wang
+    role: creator
+    organization: ''
+    url: ''
+  Soothar-Rajesh-Kumar:
+    individualname: Soothar, Rajesh Kumar
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Chao:
+    individualname: Wang, Chao
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

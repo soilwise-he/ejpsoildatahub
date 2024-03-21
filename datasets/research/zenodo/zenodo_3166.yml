@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McWeeney_1903
+  dataseturi: https://doi.org/10.1007/bf03169742
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Methods of isolating the typhoid bacillus from soil, water, f\xE6ces, etc.,\
+    \ with special reference to (and demonstration of) the new method of Drigalski\
+    \ and Conradi"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Methods of isolating the typhoid bacillus from soil, water, f\xE6ces, etc.,\
+      \ with special reference to (and demonstration of) the new method of Drigalski\
+      \ and Conradi"
+    url: http://dx.doi.org/10.1007/bf03169742
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McWeeney-E.-J.:
+    individualname: McWeeney, E. J.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

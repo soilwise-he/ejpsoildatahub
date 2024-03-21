@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7336200
+  dataseturi: https://doi.org/10.5281/zenodo.7336200
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: the impact of evaporation fractionation on the inverse estimation of soil
+    hydraulic and isotope transport parameters
+  abstract: paper
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    available: '2023-11-23'
+    accepted: '2022-11-18'
+    issued: '2022'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7336200
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7336199
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  tiantian-zhou:
+    individualname: tiantian zhou
+    role: creator
+  Tiantian-Zhou:
+    individualname: Tiantian Zhou
+    role: ''
+    organization: university of california, riverside
+    url: ''
+content_info: {}

@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3953115
+  dataseturi: https://doi.org/10.5281/zenodo.3953115
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Rainfall Induced Saline Soil Management through Leaching
+  abstract: "<em>This study was conducted in the experimental farm of Bangladesh Agricultural\
+    \ University (BAU) to evaluate rainfall-induced leaching of salt in the field\
+    \ soil over time. There were five treatments </em><em>-</em><em> I<sub>1</sub>:\
+    \ soil irrigated with fresh water, I<sub>2</sub>: soil irrigated with saline water\
+    \ of electrical conductivity (EC) = 4 dS/m, I<sub>3</sub>: soil irrigated with\
+    \ saline water of EC = 7 dS/m, I<sub>4</sub>: soil irrigated with saline water\
+    \ of EC = 10 dS/m, and I<sub>5</sub>: soil irrigated with saline water of EC =\
+    \ 13 dS/m. The treatments were replicated thrice. Soil samples were collected\
+    \ from each plot at 0</em><em>-</em><em>20, 20</em><em>-</em><em>40, 40</em><em>-</em><em>60\
+    \ cm soil profiles at, usually, 15 days interval. By determining the electrical\
+    \ conductivity of the samples salt leaching pattern in the treatments at different\
+    \ depths was evaluated. Variation of soul pH was also evaluated. At the end of\
+    \ the rainy season, the salt accumulated due to irrigation completely leached\
+    \ out of the top 0</em><em>-</em><em>20 cm soil profile in all treatments. The\
+    \ salt from the upper soil profile (0</em><em>-</em><em>20 cm) leached down and\
+    \ increased the salinity of the lower soil profiles. At the end of the rainy season,\
+    \ the salinity in the lower soil profile did not reduce to its initial value,\
+    \ implying that the rainfall was not enough to wash out the imposed salinity from\
+    \ the entire root zone soil. At the early period of rainy season, the rainfall\
+    \ was relatively little, but the rate of EC reduction was high, especially in\
+    \ the soil with high salinity (treatments I<sub>4</sub> and I<sub>5</sub>). At\
+    \ the later period, on the other hand, the EC reduction rate was relatively low\
+    \ although rainfall was high. It is concluded that, irrigation with high saline\
+    \ water (EC \u22657 dS/m) caused accumulation of salt in excess of that washed\
+    \ out by monsoon rainfall.</em>"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-07-21'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3953115
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3953114
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Palash-Kumar-Kundu:
+    individualname: Palash Kumar Kundu
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Md.-Ferdous-Parvez:
+    individualname: Md. Ferdous Parvez
+    role: creator
+    organization: Lecturer, EXIM Bank Agricultural University Bangladesh.
+    url: ''
+  Dr.-Tapos-Kumar-Acharjee:
+    individualname: Dr. Tapos Kumar Acharjee
+    role: creator
+    organization: Associate Professor, Bangladesh Agricultural University, Mymensingh
+    url: ''
+  Sheikh-Maniruzzaman:
+    individualname: Sheikh Maniruzzaman
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Sanjoy-Kumar-Debsharma:
+    individualname: Sanjoy Kumar Debsharma
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Golam-Sarwar-Jahan:
+    individualname: Golam Sarwar Jahan
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Hasibur-Rahaman-Hera:
+    individualname: Hasibur Rahaman Hera
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Aishik-Debnath:
+    individualname: Aishik Debnath
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+  Md.-Rezoan-Bin-Hafiz-Pranto:
+    individualname: Md. Rezoan Bin Hafiz Pranto
+    role: creator
+    organization: Scientific Officer, Bangladesh Rice Research Institute,Gazipur.
+    url: ''
+content_info: {}

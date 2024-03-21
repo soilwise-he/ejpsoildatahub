@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Heydari_2017
+  dataseturi: https://doi.org/10.5091/plecevo.2017.1344
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effects of fire disturbance on alpha and beta diversity and on beta diversity
+    components of soil seed banks and aboveground vegetation
+  abstract: "&lt;b&gt;Background and aims&lt;/b&gt; \u2013 Although an understanding\
+    \ of the effects of fire severity on diversity components of the soil seed bank\
+    \ (SSB) and aboveground vegetation (AGV) is important to inform conservation and\
+    \ restoration practices of biodiversity, the effects of fire severity on \u03B1\
+    - and \u03B2-diversity of SSB and AGV are poorly understood. While \u03B2-diversity\
+    \ is shaped by spatial turnover and nestedness, research on the effects of fire\
+    \ severity on these components of \u03B2-diversity is limited. We aimed to determine\
+    \ the effects of low and high fire severity on species richness and \u03B1- (within\
+    \ sample) and \u03B2- (among sample) diversity components on the relationship\
+    \ between the SSB and AGV. Since turnover and nestedness are components of \u03B2\
+    -diversity, we assessed their patterns of change after dif ferent fire intensities\
+    \ in the SSB and AGV.&lt;br&gt;&lt;b&gt;Methods&lt;/b&gt; \u2013 Soil seed bank\
+    \ samples were collected from the same 180 sample points used for measurement\
+    \ of AGV in semi-arid &lt;i&gt; Quercus persica&lt;/i&gt; woodlands. Additive\
+    \ partitioning diversity was used to divide total diversi ty into \u03B1-and \u03B2\
+    -diversity of the SSB and the AGV. Total \u03B2-diversity of the SSB and AGV was\
+    \ additively partitioned into spatial turnover and nestedness.&lt;br&gt;&lt;b&gt;Key\
+    \ results&lt;/b&gt; \u2013 Fire severity had significant effects on \u03B1- and\
+    \ \u03B2-diversity of both the SSB and AGV. The highest and lowest richness and\
+    \ \u03B1- and \u03B2-diversity in both the SSB and AGV were found in low and high\
+    \ severity fire sites, respectively. Partitioning \u03B2-diversity of the SSB\
+    \ and the AGV into turnover and nestedness components revealed that spatial turnover\
+    \ was the main contributor to \u03B2-diversity. High fire severity significantly\
+    \ increased similarity between SSB and AGV.&lt;br&gt;&lt;b&gt;Conclusions&lt;/b&gt;\
+    \ \u2013 Low, but not high, severity fire can increase species diversity in the\
+    \ AGV and SSB, and it has the potential to serve as a tool for management and\
+    \ restoration of semi-arid Mediterranean regions, thereby enhancing plant diversity\
+    \ and structural heterogeneity. However, high severity fire may lead to loss of\
+    \ many species in both the SSB and the AGV resulting in loss of biodiversity."
+  keywords:
+    default:
+      keywords:
+      - SEMI-ARID
+      - ADDITIVE PARTITIONING
+      - DISTURBANCE
+      - NESTEDNESS
+      - TURNOVER
+      - WOODLAND
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Effects of fire disturbance on alpha and beta diversity and on beta diversity
+      components of soil seed banks and aboveground vegetation
+    url: http://dx.doi.org/10.5091/plecevo.2017.1344
+    type: www
+contact:
+  Meise-Botanic-Garden:
+    individualname: Meise Botanic Garden
+    role: creator
+  Royal-Botanical-Society-of-Belgium:
+    individualname: Royal Botanical Society of Belgium
+    role: creator
+  Heydari-Mehdi:
+    individualname: Heydari, Mehdi
+    role: creator
+  Omidipour-Reza:
+    individualname: Omidipour, Reza
+    role: creator
+  Abedi-Mehdi:
+    individualname: Abedi, Mehdi
+    role: creator
+  Baskin-Carol:
+    individualname: Baskin, Carol
+    role: creator
+  Agentschap-Plantentuin-Meise:
+    individualname: Agentschap Plantentuin Meise
+    role: creator
+content_info: {}

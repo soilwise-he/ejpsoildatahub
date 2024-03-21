@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6416972
+  dataseturi: https://doi.org/10.5281/zenodo.6416972
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on Soil Humic Substances. Part I. Fractionation of Fulvic acid and
+    Characterization of Sugar Components
+  abstract: Department of Macromolecules, Indian Association for the Cultivation of
+    Science, Calcutta-700032 <em>Manuscript received 11 February 1974 ; accepted 23
+    May 1974</em> Fulvic acid was isolated from soil humic substance and the barium
+    salt of it was precipitated at different pH values (4.8, 8.0 and unprecipitated
+    one) to give three fractions which were collected and purified by reprecipitation.
+    Two fractions were shown to be homogeneous by electrophoresis and paper chromatography.
+    Potentiometrie titrations were carried out on these three fractions to characterise
+    them. The sugars and amino acids present in them were identified. One of the fractions
+    was enzymati ally degraded to give galaetose, arabinose and a pentasaccharide.
+    The structure of this oligosaccharide was elucidated.
+  keywords:
+    default:
+      keywords:
+        subject: Characterization of Sugar
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1974-07-31'
+    publication: '1974'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6416972
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6416971
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-MAJUMDAR:
+    individualname: S. K. MAJUMDAR
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-BANERJEE:
+    individualname: S. K. BANERJEE
+    role: creator
+    organization: ''
+    url: ''
+  C.-V.-N.-RAO:
+    individualname: C. V. N. RAO
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

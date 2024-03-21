@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1055433
+  dataseturi: https://doi.org/10.5281/zenodo.1055433
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Ionic Strength On Mercury Adsorption On Contaminated Soil
+  abstract: 'Mercury adsorption on soil was investigated at
+
+    different ionic strengths using Ca(NO3)2 as a background electrolyte.
+
+    Results fitted the Langmuir equation and the adsorption isotherms
+
+    reached a plateau at higher equilibrium concentrations. Increasing
+
+    ionic strength decreased the sorption of mercury, due to the
+
+    competition of Ca ions for the sorption sites in the soils. The
+
+    influence of ionic strength was related to the mechanisms of heavy
+
+    metal sorption by the soil. These results can be of practical
+
+    importance both in the agriculture and contaminated soils since the
+
+    solubility of mercury in soils are strictly dependent on the adsorption
+
+    and release process.'
+  keywords:
+    default:
+      keywords:
+        subject: competitive sorption.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-06-29'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1055433
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1055432
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-Petruzzelli:
+    individualname: G. Petruzzelli
+    role: creator
+    organization: ''
+    url: ''
+  F.-Pedron:
+    individualname: F. Pedron
+    role: creator
+    organization: ''
+    url: ''
+  I.-Rosellini:
+    individualname: I. Rosellini
+    role: creator
+    organization: ''
+    url: ''
+  E.-Tassi:
+    individualname: E. Tassi
+    role: creator
+    organization: ''
+    url: ''
+  F.-Gorini:
+    individualname: F. Gorini
+    role: creator
+    organization: ''
+    url: ''
+  B.-Pezzarossa:
+    individualname: B. Pezzarossa
+    role: creator
+    organization: ''
+    url: ''
+  M.-Barbafieri:
+    individualname: M. Barbafieri
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

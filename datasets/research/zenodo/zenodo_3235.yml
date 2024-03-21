@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1198114
+  dataseturi: https://doi.org/10.5281/zenodo.1198114
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Content Of Selenium And Heavy Metals In The Soil Of The Territory Of
+    The Secondary School No. 14 In The Nefteyugansk Of The Khanty-Mansi Autonomous
+    Okrug - Yugra
+  abstract: "In the article the results of researches of analytical indicators of\
+    \ soil samples on the territory of the secondary school no. 14 the city of Nefteyugansk\
+    \ of the Khanty\u2013Mansi Autonomous okrug \u2014 Yugra. The article presents\
+    \ the results of studies of selenium and antagonist elements: lead, copper, cadmium,\
+    \ arsenic and zinc. The authors emphasize that the content of selenium in the\
+    \ soil in the Nefteyugansk, Khanty\u2013Mansi Autonomous okrug \u2014 Yugra can\
+    \ be attributed to calendarization. The amount of selenium does not change. It\
+    \ was found that the content of heavy metals in the soil in this area varies widely.\
+    \ This is due, first of all, to the acidic reaction environments of soils, their\
+    \ low degree of mineralization and natural waters, as well as an increased content\
+    \ of toxic elements \u2014 lead, arsenic and copper."
+  keywords:
+    default:
+      keywords:
+        subject: spring water
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-03-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1198114
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1198113
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gabidullina-E.:
+    individualname: Gabidullina, E.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Kozlova-G.:
+    individualname: Kozlova, G.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Onina-S.:
+    individualname: Onina, S.
+    role: creator
+    organization: Bashkir State University
+    url: ''
+  Kozlov-V.:
+    individualname: Kozlov, V.
+    role: creator
+    organization: Russian State University for the Humanities
+    url: ''
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6528144
+  dataseturi: https://doi.org/10.5281/zenodo.6528144
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Role of Soil Microbes in Disease Control and as a Probiotics
+  abstract: Microbes are used in variety of ways due to their unique properties. Microbes
+    have potential to use in biocontrol agents and used as probiotics in clinical
+    prospective. The main bacterial species Bacillus and Pseudomonasuse as controlling
+    agent of various vector borne diseases in plants and animals. Soil microbes helpful
+    checking soil health and soil quality also. Microbes utility is varies with their
+    use in different prospective.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-05-08'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6528144
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6528143
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jyoti-Dalal:
+    individualname: Jyoti Dalal
+    role: creator
+  Pushaplata:
+    individualname: Pushaplata
+    role: creator
+    organization: ''
+    url: ''
+  Ankur:
+    individualname: Ankur
+    role: creator
+    organization: ''
+    url: ''
+  Amit-Kumar:
+    individualname: Amit Kumar
+    role: creator
+  Parvatisharma:
+    individualname: Parvatisharma
+    role: creator
+    organization: ''
+    url: ''
+  Dalal-Jyoti:
+    individualname: Dalal, Jyoti
+    role: ''
+    organization: ''
+    url: ''
+  Kumar-Amit:
+    individualname: Kumar, Amit
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

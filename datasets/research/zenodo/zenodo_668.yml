@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7683584
+  dataseturi: https://doi.org/10.5281/zenodo.7683584
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Structural Analysis of Multistoried Building with different soil conditions
+  abstract: '<em>According to the current version of the IS: 1893-2002, practically
+    all multi-story buildings must be examined as three-dimensional systems. Buildings
+    can be conceptualised as having symmetrical mass, stiffness, and layout. Using
+    the most latest software, STAAD Pro, the research will assess and compare the
+    seismic response of a G+15 story RCC frame structure with different soil conditions
+    (Hard, Medium, and Soft soil) for seismic Zone IV. The structural and seismic
+    properties of Models M1, M2, and M3 are identical, with the exception of the type
+    of soil. The models are seismically evaluated using the Equivalent Static method
+    utilising the STAAD Pro V8i software. The model''s response is examined using
+    the maximum storey displacement, base shear, and story drift. The purpose of the
+    study is to assess the stability of the three models in diverse soil type scenarios.
+    Reaction spectrum analysis (RSA) on common RC construction frames with different
+    soil types is the project''s main objective. The results of the analysis for typical
+    constructions both with and without seismic impacts will be compared.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Story Drift, Seismic Analysis, Story Displacement and Base Shear.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-02-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7683584
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7683583
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raghunandan-Choyal:
+    individualname: Raghunandan Choyal
+    role: creator
+    organization: PG Student, Department of Civil Engineering, Prashanti Institute
+      of Technology & Science, Ujjain, India
+    url: ''
+  Prof.-Rahul-Sharma:
+    individualname: Prof. Rahul Sharma
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Prashanti
+      Institute of Technology & Science, Ujjain, India
+    url: ''
+content_info: {}

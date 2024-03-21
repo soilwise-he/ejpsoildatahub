@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2653889
+  dataseturi: https://doi.org/10.5281/zenodo.2653889
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Performance of Soilwat Model for Soil Physical Properties Simulation in Auchi,
+    Edo State
+  abstract: "<strong>The physical properties of soils are dominant factors affecting\
+    \ the use of a soil which determine the availability of O<sub>2</sub> in soils,\
+    \ the mobility of water into and through soils and case of root penetration and\
+    \ also the chemical and biological behavior of soil. The aim of this paper was\
+    \ to investigate the performance of soil physical properties data that was OILWAT\
+    \ model in the prediction of soil physical properties adapted from previous study\
+    \ in the Department of Agricultural and Bio-Environmental Engineering Technology.\
+    \ SOILWAT performed poorly in simulating volumetric moisture content, the equation\
+    \ of the line obtained is y = 0.0403x + 15.428, with the R\xB2 = 0.0274, the RMSE\
+    \ value is 4.21 which is quite large compare to the model\u2019s ability to simulate\
+    \ bulk density and saturated hydraulic conductivity. When compared with the measured\
+    \ data, SOILWAT significantly simulated Bulk Density (BD) for Sandy loam and sandy\
+    \ clay loam soil having a perfect agreement between the observed and simulated\
+    \ values (R<sup>2</sup> = 0.90, p&lt;0.05; RMSE of 0.033 and regression equation\
+    \ given as; y = x \u2013 0.33). The model significantly predicted the Saturated\
+    \ hydraulic conductivity, with R<sup>2</sup> value of 0.92 and root mean square\
+    \ error (RMSE) 0.03, the equation of best fit obtained is y = x+0.21, since sample\
+    \ environment (confinement and overburden) are not represented in laboratory procedures,\
+    \ laboratory data may not always agree with field data.</strong>"
+  keywords:
+    default:
+      keywords:
+        subject: Soil properties, Soilwat, Bulk density, Overburden, field data
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-04-29'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2653889
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2653888
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ajayi-A.-S:
+    individualname: Ajayi A. S
+    role: creator
+    organization: ''
+    url: ''
+  Eriakha-E.-C:
+    individualname: Eriakha E. C
+    role: creator
+    organization: ''
+    url: ''
+  Abu-Malik:
+    individualname: Abu Malik
+    role: creator
+  Ibrahim-Rasheed:
+    individualname: Ibrahim Rasheed
+    role: creator
+  Malik-Abu:
+    individualname: Malik, Abu
+    role: ''
+    organization: Department of Agricultural Technology, Auchi Polytechnic Auchi Edo
+      State Nigeria
+    url: ''
+  Rasheed-Ibrahim:
+    individualname: Rasheed, Ibrahim
+    role: ''
+    organization: Department of Agricultural and Bio-Environmental Engineering Technology,
+      Auchi Polytechnic Auchi, Edo State Nigeria
+    url: ''
+content_info: {}

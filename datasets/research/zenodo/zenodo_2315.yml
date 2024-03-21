@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6319654
+  dataseturi: https://doi.org/10.5281/zenodo.6319654
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: lmmobilisation and Release of Sulphur in Soil following Addition of Organic
+    Materials of Varying Decomposability and Composition
+  abstract: "Department of Agricultural Chemistry and Soil Science, Bidhan Chandra\
+    \ Krishi Viswavidyalaya, Kalyani-741 235<br> <em>Manuscript received 25 March\
+    \ 1982, revised 21 July 1984, accepted 8 June 1985</em> Laboratory incubation\
+    \ studies were conducted on immobilisation and release of sulphur from native\
+    \ soil organic matter and added organic matter of different compo\xADsition and\
+    \ decomposability. Mineralisation of sulphur from native soil organic matter was\
+    \ found to depend on its organic sulphur content and not so much on C : S ratio\
+    \ or available sulphate sulphur content of the soil. However, sulphur mineralising\
+    \ capacity of added organic matter depends on the concentration of sulphur in\
+    \ the added organic matter and upon the initial sulphate sulphur content of the\
+    \ soil. The results show the value of organic matter addition as well as its nature\
+    \ and source of available sulphate sulphur in soil."
+  keywords:
+    default:
+      keywords:
+        subject: organic
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1985-06-30'
+    publication: '1985'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6319654
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6319653
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  PARTHA-MUKHOPADHYAY:
+    individualname: PARTHA MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  ASIT-K-MUKHOPADHYAY:
+    individualname: ASIT K MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

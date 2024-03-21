@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3386133
+  dataseturi: https://doi.org/10.5281/zenodo.3386133
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Forensic Examination of Soil Samples from the Point of View of Physico-Chemical
+    Expertise
+  abstract: 'ABSTRACT: The potential of forensic expertise in the analysis of soil
+    samples has been recognized for a century now, but over the last 20 years, these
+    types of evidence have been much more widely used both as an investigative tool
+    and as evidence in court. Forensic Chemistry is at the crossroads of science with
+    the law, being a discipline apart from its applicability to the judiciary. Samples
+    are obtained from various objects and often contain only very small amounts of
+    chemicals. Most of the time, the sample harvested on the spot is no longer sampled,
+    but it is actually the sample to be analyzed. This is also the condition of aggregation
+    of the sample, the homogeneity of the sample/matrix or the compounds sought. Sometimes,
+    however, even the evidence can be considered chemically homogeneous, and then
+    representative samples (paints, textiles, plastics, etc.) can be sampled. The
+    rest of the materials are heterogeneous (soil, building materials, fire residues,
+    etc.). The extremely rapid evolution of science in recent years has resulted in
+    the development of new, powerful and performing technologies. This evolution and
+    the refinement of analytical tools make it possible at present to perform forensic
+    investigations at the smallest scale of dimensions, with greater sensitivity and
+    with great differentiation intervals. At the same time it is possible to discover
+    unpredictable or previously inaccessible samples. KEYWORDS: chromatography, forensic
+    expertise, samples, spectrometry, trace soil'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-09-04'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3386133
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3386132
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Georgiana-Mardare-Balusescu:
+    individualname: "Georgiana Mardare (B\u0103lu\u0219escu)"
+    role: creator
+    organization: ''
+    url: ''
+  Nicoleta-Elena-Heghes:
+    individualname: "Nicoleta-Elena Heghe\u0219"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

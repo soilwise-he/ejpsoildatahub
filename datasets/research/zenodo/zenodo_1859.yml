@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Finn_1982
+  dataseturi: https://doi.org/10.1109/oceans.1982.1151728
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil loss in developing countries and its relationship to marine resources:
+    Examples from east africa'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil loss in developing countries and its relationship to marine resources:
+      Examples from east africa'
+    url: http://dx.doi.org/10.1109/oceans.1982.1151728
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Finn-D.:
+    individualname: Finn, D.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+content_info: {}

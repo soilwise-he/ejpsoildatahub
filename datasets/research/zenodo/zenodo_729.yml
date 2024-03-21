@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROBINSON_1922
+  dataseturi: https://doi.org/10.1097/00010694-192206000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'ACID SOIL STUDIES: III. THE INFLUENCE OF CALCIUM CARBONATE, CALCIUM OXIDE,
+    AND CALCIUM SULFATE ON THE SOLUBLE SOIL NUTRIENTS OF ACID SOILS'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'ACID SOIL STUDIES: III. THE INFLUENCE OF CALCIUM CARBONATE, CALCIUM OXIDE,
+      AND CALCIUM SULFATE ON THE SOLUBLE SOIL NUTRIENTS OF ACID SOILS'
+    url: http://dx.doi.org/10.1097/00010694-192206000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robinson-R.-H.:
+    individualname: Robinson, R. H.
+    role: creator
+  Bullis-D.-E.:
+    individualname: Bullis, D. E.
+    role: creator
+  ROBINSON-R.-H.:
+    individualname: ROBINSON, R. H.
+    role: creator
+  BULLIS-D.-E.:
+    individualname: BULLIS, D. E.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

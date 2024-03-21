@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: S__1900
+  dataseturi: https://doi.org/10.1038/061561a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Lectures on Some of the Physical Properties of Soil
+  abstract: xv, 231, [1] p.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Lectures on Some of the Physical Properties of Soil
+    url: http://dx.doi.org/10.1038/061561a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-W.:
+    individualname: S., W.
+    role: creator
+  Warington-Robert-1838-1907:
+    individualname: Warington, Robert 1838-1907
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

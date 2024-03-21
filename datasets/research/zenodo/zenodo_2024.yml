@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1188086
+  dataseturi: https://doi.org/10.5281/zenodo.1188086
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Poultry Manure Application And Fallow Improves Peanut Production In A Sandy
+    Soil Under Continuous Cultivation
+  abstract: <em>To meet our food security demands, Papua New Guinea (PNG) needs to
+    improve smallholder subsistence agriculture by promoting the production of cash
+    crops that mature early and have a high market value. Peanut is a typical example
+    of a cash crop which potentially has a high market value, but pod yields are low
+    due to declinein soil quality. A field experiment was conducted under 4 different
+    land use systems (LUS) to evaluate the effects of continuous peanut cultivation
+    on peanut pod yield and on selected soil properties. Peanut pod yield declined
+    significantly under the continuous peanut and peanut/corn rotation systems; while
+    the poultry manure and land fallow systems significantly increased pod yield.
+    Over the 3 cropping seasons, significant changes in organic carbon; extractable
+    potassium and CEC in all cropping systems occurred, while changes in total N was
+    significant in the peanut/corn rotation and poultry manure cropping systems only.
+    No significant changes in bulk density; field capacity; electrical conductivity;
+    soil pH and available phosphorus were observed in all the 4 LUS over the 3 cropping
+    seasons. We suggest that adequate fallow periods of more than 1 year and poultry
+    manures are applied to enhance soil quality and improve peanut productivity and/or
+    sustain peanut production in marginal lands under continuous cultivation.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Continuous cultivation, land use systems, peanut pod yield, soil
+          properties.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-02-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1188086
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1188085
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  James-Aipa:
+    individualname: James Aipa
+    role: creator
+  Patrick-S.-Michael:
+    individualname: Patrick S. Michael
+    role: creator
+  Aipa-James:
+    individualname: Aipa, James
+    role: ''
+    organization: ''
+    url: ''
+  Michael-Patrick-S.:
+    individualname: Michael, Patrick S.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

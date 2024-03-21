@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6009426
+  dataseturi: https://doi.org/10.5281/zenodo.6009426
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies of Biosurfactant Producing Oil Contaminated Soil
+  abstract: Bioremedial use of microbes is becoming significant in combating pollution
+    problems. These studies were initiated with the same approach to find microbial
+    species capable to produce biosurfactant and make the oil-contaminated soil suitable
+    for plant growth. Initially seven bacterial strains and two yeasts were screened
+    with the outcome of most impressive potential in only one of them and it was identified
+    as Pseudomonas aeruginosa JCM5962 (T) by 16S rDNA technique. The organism shows
+    production of rhamnolipid biosurfactant, as per FTIR report analysis, in the exponential
+    growth phase but more in stationary phase. It can use sesame oil meals as cheap
+    carbon source and beef extract as a nitrogen source. For production of biosurfactant
+    C/N ratio is 60, i.e., stress on nitrogen contents is giving good results. It
+    can grow in presence of 5% of oil contents which is significant as a bioremedial
+    property. Critical mycelial concentration of rhamnolipid produced is 29mg/100ml
+    and reducing surface tension to 27 Dynes/cm when production conditions provided
+    are optimal.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-02-08'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6009426
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6009425
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  MKES-Publication:
+    individualname: MKES Publication
+    role: creator
+  Dr.-Sunita-Sanjay-Dange:
+    individualname: Dr. Sunita Sanjay Dange
+    role: creator
+    organization: Assistant Professor
+    url: ''
+content_info: {}

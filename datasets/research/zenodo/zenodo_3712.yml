@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1331875
+  dataseturi: https://doi.org/10.5281/zenodo.1331875
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Geometric And Material Nonlinear Analysis Of Reinforced Concrete Structure
+    Considering Soil-Structure Interaction
+  abstract: 'In the present research, a finite element model is
+
+    presented to study the geometrical and material nonlinear behavior of
+
+    reinforced concrete plane frames considering soil-structure
+
+    interaction. The nonlinear behaviors of concrete and reinforcing steel
+
+    are considered both in compression and tension up to failure. The
+
+    model takes account also for the number, diameter, and distribution
+
+    of rebar along every cross section. Soil behavior is taken into
+
+    consideration using four different models; namely: linear-, nonlinear
+
+    Winkler''s model, and linear-, nonlinear continuum model. A
+
+    computer program (NARC) is specially developed in order to
+
+    perform the analysis. The results achieved by the present model show
+
+    good agreement with both theoretical and experimental published
+
+    literature. The nonlinear behavior of a rectangular frame resting on
+
+    soft soil up to failure using the proposed model is introduced for
+
+    demonstration.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-10-24'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1331875
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1331874
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohamed-M.-El-Gendy:
+    individualname: Mohamed M. El-Gendy
+    role: creator
+  Ibrahim-A.-El-Arabi:
+    individualname: Ibrahim A. El-Arabi
+    role: creator
+  Rafik-W.-Abdel-Missih:
+    individualname: Rafik W. Abdel-Missih
+    role: creator
+  Omar-A.-Kandil:
+    individualname: Omar A. Kandil
+    role: creator
+  El-Gendy-Mohamed-M.:
+    individualname: El-Gendy, Mohamed M.
+    role: ''
+    organization: ''
+    url: ''
+  El-Arabi-Ibrahim-A.:
+    individualname: El-Arabi, Ibrahim A.
+    role: ''
+    organization: ''
+    url: ''
+  Abdel-Missih-Rafik-W.:
+    individualname: Abdel-Missih, Rafik W.
+    role: ''
+    organization: ''
+    url: ''
+  Kandil-Omar-A.:
+    individualname: Kandil, Omar A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

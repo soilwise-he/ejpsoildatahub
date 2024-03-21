@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gregory_1860
+  dataseturi: https://doi.org/10.1080/03746606009467703
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: II.Notes on the Action of the Soil on Vegetation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: II.Notes on the Action of the Soil on Vegetation
+    url: http://dx.doi.org/10.1080/03746606009467703
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gregory:
+    individualname: Gregory
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

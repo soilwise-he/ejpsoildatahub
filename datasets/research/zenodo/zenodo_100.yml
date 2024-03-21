@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: O_Neill_1902
+  dataseturi: https://doi.org/10.1016/s0140-6736(01)51357-4
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE SEED AND THE SOIL.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE SEED AND THE SOIL.
+    url: http://dx.doi.org/10.1016/s0140-6736(01)51357-4
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  O'Neill-William:
+    individualname: O'Neill, William
+    role: creator
+  OaEUR(tm)Neill-William:
+    individualname: "O\xE2\u20AC\u2122Neill, William"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

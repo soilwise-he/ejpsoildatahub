@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7898389
+  dataseturi: https://doi.org/10.5281/zenodo.7898389
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: DEPENDENCE OF PHYTOMETRIC PARAMETERS OF AGROCENOSES ON AGROPHYSICAL INDICATORS
+    OF SOIL
+  abstract: "An express-evaluation of the level of development of field agrocenoses\
+    \ phytomass and agrophysical soil indicators is necessary for rapid technological\
+    \ optimization of the growing conditions of crops in order to more fully realize\
+    \ their productive potential, as well as to preserve and reproduce soil fertility.\
+    \ The research was carried out in 2020\u20132022 at the experimental field of\
+    \ the Orenburg State Agrarian University. The objects of research were the normalized\
+    \ difference vegetation index (NDVI) of agrocenoses of winter wheat (Triticum\
+    \ aestivum L.), spring wheat (Triticum aestivum L.), oat (Avena sativa L.) cultivated\
+    \ under minimum tillage technology and soil agrophysical parameters (hardness,\
+    \ humidity, density) at the experimental site. NDVI was determined using remote\
+    \ sensing data and a hand-held sensor Green Seek\u0435r Handheld Crop Sensor,\
+    \ Model HCS\u2013100. The penetrologger Eijkelkamp 06.15.SA was used to determine\
+    \ the hardness of the soil; the density of the arable soil layer was determined\
+    \ by N.A. Kachinsky drilling method; soil moisture was determined by the thermostatic-weight\
+    \ method. Digital material was processed using generally accepted methods of statistical\
+    \ analysis. We have established the acceptability of modern instrumental methods\
+    \ (using portable devices) for determining phytometric parameters of crops and\
+    \ agrophysical properties of soils; the undoubted advantages of these devices\
+    \ are their ease of use and speed of obtaining results. The high convergence between\
+    \ the results of NDVI determination using satellite images and those obtained\
+    \ by ground scanning was confirmed. The dependence of phytometric parameters of\
+    \ oat agrocenosis (according to NDVI) on agrophysical indicators of the soil was\
+    \ revealed. The most pronounced inverse relationship (r = \u20130.52) was observed\
+    \ between NDVI and the density of the upper soil horizon (5\u201310 cm), as well\
+    \ as between NDVI and the hardness of the soil layers: 5-10 cm (r = \u20130.43)\
+    \ and 25\u201330 cm (r = \u20130.52). With a certain degree of conditionality,\
+    \ this connection can be explained by the transition to direct sowing in modern\
+    \ agricultural technologies and the legacy of deep tillage in retrospect, which\
+    \ created a compacted soil layer in these horizons."
+  keywords:
+    default:
+      keywords:
+        subject: remote sensing data, phytometric parameters of crops, agrophysical
+          properties of soil, penetration resistance, oat (Avena sativa L.).
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2023-05-05'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7898389
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7898388
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gulyanov-Yu.-A.:
+    individualname: Gulyanov Yu., A.
+    role: creator
+    organization: "Institute of the Steppe of the Ural Branch of the Russian Academy\
+      \ of Sciences \u2013 a separate unit of the Federal State Budgetary Scientific\
+      \ Institution \"Orenburg Federal Research Center\" of the Ural Branch of the\
+      \ Russian Academy of Sciences"
+    url: ''
+  Polyakov-D.G.:
+    individualname: Polyakov, D.G.
+    role: creator
+    organization: "Institute of the Steppe of the Ural Branch of the Russian Academy\
+      \ of Sciences \u2013 a separate unit of the Federal State Budgetary Scientific\
+      \ Institution \"Orenburg Federal Research Center\" of the Ural Branch of the\
+      \ Russian Academy of Sciences"
+    url: ''
+content_info: {}

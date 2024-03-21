@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Robinson_1916
+  dataseturi: https://doi.org/10.1021/i500002a016
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A COMPARISON OF METHODS FOR THE DETERMINATION OF SOIL PHOSPHORUS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A COMPARISON OF METHODS FOR THE DETERMINATION OF SOIL PHOSPHORUS
+    url: http://dx.doi.org/10.1021/i500002a016
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robinson-W.-O.:
+    individualname: Robinson, W. O.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

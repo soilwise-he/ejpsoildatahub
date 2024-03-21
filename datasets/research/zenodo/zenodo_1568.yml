@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.3897/aca.6.e109202
+  dataseturi: https://doi.org/10.3897/aca.6.e109202
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Illegal Dumping of Oil and Gas Wastewaters Alters Semi-Arid Soil Microbial
+    Communities
+  abstract: "&lt;p&gt;The Permian Basin, underlying New Mexico and Texas, is one of\
+    \ the most productive oil and gas (OG) provinces in the United States. Oil and\
+    \ gas production yields large volumes of wastewater with complex chemistries.\
+    \ The environmental health risks posed by these OG wastewaters are not well understood,\
+    \ particularly in the case of accidental or intentional releases. Starting in\
+    \ November 2017, 39 illegal dumps of OG wastewater were identified in southeastern\
+    \ New Mexico that released approximately 6.4x105 liters of fluid onto desert soils.\
+    \ To evaluate the impacts of these releases on soils, we analyzed changes in soil\
+    \ geochemistry and microbial community composition by comparing soils from within\
+    \ OG wastewater dump-affected zones to corresponding unaffected zones with no\
+    \ known releases. We observed significant (p&lt;0.01) changes in soil geochemistry\
+    \ for all dump-affected samples compared to controls, reflecting the residual\
+    \ salts and hydrocarbons left behind by the OG-wastewater release (e.g., enriched\
+    \ in sodium (Na), chloride (Cl), and bromide (Br)). Illumina 16S iTag sequencing\
+    \ revealed significant (p&lt;0.01) differences in microbial community structure\
+    \ between dump and control zones. Furthermore, soils from dump areas had significantly\
+    \ (p&lt;0.01) lower alpha diversity and exhibited differences in phylogenetic\
+    \ composition. Dump-affected soil samples showed an increase in halophilic and\
+    \ halotolerant taxa, such as members of the Marinobacteraceae, Halomonadaceae,\
+    \ and Halobacteroidaceae, suggesting that the high salinity of the dumped OG wastewater\
+    \ exerted a selective pressure on microbial communities. Taxa related to known\
+    \ hydrocarbon-degrading organisms, e.g., &lt;em&gt;Marinobacter,\_Salegentibacter,\
+    \ Chromohalobacter&lt;/em&gt;, and &lt;em&gt;Alcanivorax&lt;/em&gt;, were also\
+    \ detected in the dump-affected soil-sample communities. The microbial communities\
+    \ in control soils were dominated by taxa ubiquitous in, and well adapted to,\
+    \ arid and nutrient-deprived soil environments including photosynthetic Cyanobacteria,\
+    \ hydrogen-oxidizing Actinobacteria and Acidobacteria, and nitrogen-fixing Alphaproteobacteria.\
+    \ This study demonstrated that OG-wastewater dumps can lead to shifts in microbial\
+    \ community composition and function towards salt- and hydrocarbon-tolerant taxa\
+    \ that are not typically found in desert soils, thus altering the impacted dryland\
+    \ soil ecosystem. Loss of key microbial taxa, such as those that increase arid\
+    \ soil fertility, or promote plant health, could result in cascading affects to\
+    \ myriad ecosystem services such as loss of flora. Further studies are needed\
+    \ to explore the potential for using halophilic and hydrocarbon-degrading taxa\
+    \ to bioremediate OG-wastewater affected lands.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - microbial ecology
+      - contaminants
+      - environmental health
+      - desert
+      - ecosystems
+      - energy development
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Akob-Denise:
+    individualname: Akob, Denise
+    role: creator
+  Kashani-Mitra:
+    individualname: Kashani, Mitra
+    role: creator
+  Engle-Mark:
+    individualname: Engle, Mark
+    role: creator
+  Kent-Douglas:
+    individualname: Kent, Douglas
+    role: creator
+  Gregston-Terry:
+    individualname: Gregston, Terry
+    role: creator
+  Cozzarelli-Isabelle:
+    individualname: Cozzarelli, Isabelle
+    role: creator
+  Mumford-Adam:
+    individualname: Mumford, Adam
+    role: creator
+  Varonka-Matthew:
+    individualname: Varonka, Matthew
+    role: creator
+  Harris-Cassandra:
+    individualname: Harris, Cassandra
+    role: creator
+content_info: {}

@@ -1,0 +1,122 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8092683
+  dataseturi: https://doi.org/10.5281/zenodo.8092683
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A framework for determining the total salt content of soil profiles using
+    time-series Sentinel-2 images and a random forest-temporal convolution network
+  abstract: Soil salinization causes a deterioration in soil health and threatens
+    crop growth. Rapid identification of salinization in farmlands is of great significance
+    to improve soil functions and to maintain sustainable land management. As salt
+    moves in soil profiles during plowing and irrigation, the commonly used protocol
+    for measuring and monitoring salt content in topsoil does not provide a thorough
+    assessment. In order to quantify and comprehensively evaluate the salt content
+    in deep soil, this study developed a novel framework for monitoring total salt
+    content in the soil profile to a depth of 1 m by combining information from time-series
+    satellite images and machine learning. The field experiments were conducted in
+    Alar, Southern Xinjiang, with a total of 120 soil samples and 582 measurements
+    of EM38-MK2 apparent electrical conductivity in 2019 and 2020 to quantify the
+    vertical variation in the salt content. A total of 42 covariates derived from
+    time-series Sentinel-2 images, including 20 salinity indices, 10 soil indices,
+    and 12 vegetation indices were used for modeling salinity in the soil profile.
+    From the total covariates, 22 were selected using the Random Forest. Soil salinity
+    which was modeled using a Temporal Convolution Network in 2019 and 2020 and forecast
+    for 2021. The model effectively revealed the spatial and temporal variability
+    of the salt content in the soil profile with R<sup>2</sup> of 0.71 and 0.65 for
+    2019 and 2020, respectively. The proposed new framework provides an effective
+    method to estimate the salt content in the soil profile for precision agriculture
+    in arid and semi-arid regions.
+  keywords:
+    default:
+      keywords:
+        subject: Time-series images
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-15'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8092683
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8092682
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nan-Wang:
+    individualname: Nan Wang
+    role: creator
+  Jie-Peng:
+    individualname: Jie Peng
+    role: creator
+  Jie-Xue:
+    individualname: Jie Xue
+    role: creator
+  Xianglin-Zhang:
+    individualname: Xianglin Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Jingyi-Huang:
+    individualname: Jingyi Huang
+    role: creator
+    organization: ''
+    url: ''
+  Asim-Biswas:
+    individualname: Asim Biswas
+    role: creator
+  Yong-He:
+    individualname: Yong He
+    role: creator
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: ''
+    organization: ''
+    url: ''
+  Peng-Jie:
+    individualname: Peng, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Xue-Jie:
+    individualname: Xue, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Biswas-Asim:
+    individualname: Biswas, Asim
+    role: ''
+    organization: ''
+    url: ''
+  He-Yong:
+    individualname: He, Yong
+    role: ''
+    organization: ''
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

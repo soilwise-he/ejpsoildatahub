@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cameron_1915
+  dataseturi: https://doi.org/10.1126/science.41.1065.794
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Monographs on Biochemistry. Soil Conditions and Plant Growth\n         \
+    \   . By Edward J. Russell, D.Sc. (Lond.), Director of the Rothamsted Experimental\
+    \ Station, Harpenden; with diagrams. New Edition. Longmans, Green and Co., 1915.\
+    \ Pp. 150."
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Monographs on Biochemistry. Soil Conditions and Plant Growth\n        \
+      \    . By Edward J. Russell, D.Sc. (Lond.), Director of the Rothamsted Experimental\
+      \ Station, Harpenden; with diagrams. New Edition. Longmans, Green and Co., 1915.\
+      \ Pp. 150."
+    url: http://dx.doi.org/10.1126/science.41.1065.794
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cameron-F.-K.:
+    individualname: Cameron, F. K.
+    role: creator
+  Cameron-Frank-K.:
+    individualname: Cameron, Frank K.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

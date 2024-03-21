@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Greenfield_1916
+  dataseturi: https://doi.org/10.1093/infdis/19.4.647
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Presence of Soil and Fecal Strains of Organisms of the Colon-Aerogenes
+    Group in the Waters of Kansas
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Presence of Soil and Fecal Strains of Organisms of the Colon-Aerogenes
+      Group in the Waters of Kansas
+    url: http://dx.doi.org/10.1093/infdis/19.4.647
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Greenfield-M.:
+    individualname: Greenfield, M.
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

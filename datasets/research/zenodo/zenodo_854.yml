@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7484276
+  dataseturi: https://doi.org/10.5281/zenodo.7484276
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Extraction Refinement Oily of Soil and Microbe Decomposition of Hydrocorbons
+  abstract: With the purpose of improving the physical substances of oily soil, rehabilitation
+    of its ability to reproduce the biomass and improving the soil ecology, the conduction
+    of a two - stage recovery arrangements is tasted. During the first stage, the
+    major part of the oil pollutant (97-99 %) is extracted from the soil by means
+    of organic solvent and water as a process of extract ional refinement, and complete
+    refinement of the soil by means of microbe decomposition is carried out on the
+    second stage.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-12-12'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7484276
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7484275
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.S.-Hasanov:
+    individualname: G.S. Hasanov
+    role: creator
+    organization: ''
+    url: ''
+  F.Z.-Abdullaev:
+    individualname: F.Z. Abdullaev
+    role: creator
+    organization: ''
+    url: ''
+  N.M.-Ismailov:
+    individualname: N.M. Ismailov
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

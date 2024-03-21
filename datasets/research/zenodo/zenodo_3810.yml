@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1107223
+  dataseturi: https://doi.org/10.5281/zenodo.1107223
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Developing A Town Based Soil Database To Assess The Sensitive Zones In Nutrient
+    Management
+  abstract: "For this study, a town based soil database created in\nG\xFCm\xFCs\xE7\
+    ay District of Biga Town, \xC7anakkale, Turkey. Crop and\nlivestock production\
+    \ are major activities in the district. Nutrient\nmanagement is mainly based on\
+    \ commercial fertilizer application\nignoring the livestock manure. Within the\
+    \ boundaries of district, 122\nsoil sampling points determined over the satellite\
+    \ image. Soil samples\ncollected from the determined points with the help of handheld\n\
+    Global Positioning System. Labeled samples were sent to a\ncommercial laboratory\
+    \ to determine 11 soil parameters including\nsalinity, pH, lime, organic matter,\
+    \ nitrogen, phosphorus, potassium,\niron, manganese, copper and zinc. Based on\
+    \ the test results soil maps\nfor mentioned parameters were developed using remote\
+    \ sensing, GIS,\nand geostatistical analysis. In this study we developed a GIS\
+    \ database\nthat will be used for soil nutrient management. Methods were\nexplained\
+    \ and soil maps and their interpretations were summarized in\nthe study."
+  keywords:
+    default:
+      keywords:
+        subject: Soil Mapping.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-06-03'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1107223
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1107222
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sefa-Aksu:
+    individualname: Sefa Aksu
+    role: creator
+  Unal-Kizil:
+    individualname: "\xDCnal K\u0131z\u0131l"
+    role: creator
+  Aksu-Sefa:
+    individualname: Aksu, Sefa
+    role: ''
+    organization: ''
+    url: ''
+  Kizil-Unal:
+    individualname: "K\u0131z\u0131l, \xDCnal"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

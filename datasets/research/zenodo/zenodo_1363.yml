@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4390468
+  dataseturi: https://doi.org/10.5281/zenodo.4390468
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Impact of Soil Desalination on Reduction of Iron Concentration in Groundwater
+  abstract: Brackish water is one source of clean water and drinking water in coastal
+    areas, river estuaries, and small islands. Various studies have carried out that
+    the use of clay can reduce minerals in the water. This research aims to find out
+    and analyze the Cascade Aerator System and Rapid Sand Filter based on Clay in
+    Reducing Iron Concentration in Well Water. The type of research used is experimental
+    with a quantitative approach. In this study, the researchers used the Pretest-Posttest
+    Control Group Design. The study's location was conducted on Sapuli Island in Pangkep
+    Regency, South Sulawesi Province, and Sindulang Satu Village in Manado City, Central
+    Sulawesi Province. The study's design used a Completely Randomized Design (CRD)
+    with a combination of treatments that obtained 6 x 3 = 18 treatment combinations.
+    This study's population is all well water that is in two research areas, and then
+    the sample collection technique is used simple random sampling with 15 samples
+    of well water. The research obtained a decrease in the maximum average iron (Fe)
+    level obtained reached 57.27% by adding a 20-gram of clay as desalination in 10
+    liters of well water. The decline that occurred in the two study sites did not
+    differ significantly. Reduction of Iron (Fe) levels through Cascade aerators and
+    Rapid Sand Filters by adding clay as a binder due to the material of kaolin in
+    clay.
+  keywords:
+    default:
+      keywords:
+        subject: Water Quality
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-24'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4390468
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4390467
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ronny:
+    individualname: Ronny
+    role: creator
+  Mulyadi:
+    individualname: Mulyadi
+    role: creator
+    organization: Politeknik Kesehatan Kemenkes Makassar
+    url: ''
+  -Ronny:
+    individualname: ', Ronny'
+    role: ''
+    organization: Politeknik Kesehatan Kemenkes Makassar
+    url: ''
+content_info: {}

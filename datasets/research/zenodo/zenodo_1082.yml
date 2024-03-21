@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3842961
+  dataseturi: https://doi.org/10.5281/zenodo.3842961
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: 'BioPET: dedicated plant and soil micro-organism positron emission tomography
+    system'
+  abstract: The Nuclear Imaging Detector Development group at the Department of Physics,
+    University of Regina is developing Canada's first positron emission tomography
+    (PET) system for plant physiological function studies In its current configuration
+    the system consists<br> of four detectors heads, each with active area of 48x48
+    mm2 In a typical arrangement the four detectors are grouped in two pairs of opposing
+    heads for detecting coincident events from positron annihilation, however the
+    system geometry, data acquisition and image reconstruction are flexible and can
+    be easily reconfigured on-demand to accommodate other scanner configurations The
+    detector pairs can be scanned along the vertical axis allowing to image plants
+    up to 50 cm tall, while the plant within the Field of View (FOV) of the scanner
+    can be rotated on a precision controlled motorized platform to provide a complete
+    3D coverage of the plant Current development and characterization of the plant
+    PET system will be presented.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-03'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3842961
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3842960
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Canadian-Nuclear-Society:
+    individualname: Canadian Nuclear Society
+    role: creator
+  Talebitaher-Alireza:
+    individualname: Talebitaher, Alireza
+    role: creator
+    organization: University of Regina
+    url: ''
+  Chang-Yu-Fen:
+    individualname: Chang, Yu-Fen
+    role: creator
+    organization: University of Regina & University of Bergen
+    url: https://orcid.org/0000-0002-9147-9162
+  Thompson-Kyle:
+    individualname: Thompson, Kyle
+    role: creator
+    organization: University of Regina
+    url: ''
+  Papandreou-Zisis:
+    individualname: Papandreou, Zisis
+    role: creator
+    organization: University of Regina
+    url: ''
+  Mamet-Steven:
+    individualname: Mamet, Steven
+    role: creator
+    organization: University of Saskatchewan
+    url: ''
+  Siciliano-Steven-D.:
+    individualname: Siciliano, Steven D.
+    role: creator
+    organization: University of Saskatchewan
+    url: ''
+  Lee-Seung-Joon:
+    individualname: Lee, Seung Joon
+    role: creator
+    organization: Thomas Jefferson National Accelerator Facility
+    url: ''
+  McKisson-Jack-E.:
+    individualname: McKisson, Jack E.
+    role: creator
+    organization: Thomas Jefferson National Accelerator Facility
+    url: ''
+  Kross-Brian:
+    individualname: Kross, Brian
+    role: creator
+    organization: Thomas Jefferson National Accelerator Facility
+    url: ''
+  Teymurazyan-Aram:
+    individualname: Teymurazyan, Aram
+    role: creator
+    organization: University of Regina
+    url: ''
+content_info: {}

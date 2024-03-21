@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7320675
+  dataseturi: https://doi.org/10.5281/zenodo.7320675
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Phosphorus Fertilization and Soil Moisture Regimes on Phosphorus
+    Content of Rice Crop
+  abstract: This article 'Effect of Phosphorus Fertilization and Soil Moisture Regimes
+    on Phosphorus Content of Rice Crop' appeared in the International Rice Research
+    Newsletter series, created by the International Rice Research Institute (IRRI).
+    The primary objective of this publication was to expedite communication among
+    scientists concerned with the development of improved technology for rice and
+    for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Phosphorus Content
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1983-02-01'
+    publication: '1983'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7320675
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7320674
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bora-P.-K.:
+    individualname: Bora, P. K.
+    role: creator
+    organization: ''
+    url: ''
+  Goswami-N.-N.:
+    individualname: Goswami, N. N.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

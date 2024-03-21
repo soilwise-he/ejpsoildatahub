@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3403909
+  dataseturi: https://doi.org/10.5281/zenodo.3403909
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Cross-Biome Drivers of Soil Bacterial Alpha Diversity on a Worldwide Scale
+  abstract: We lack a defined suite of attributes that allow us to universally predict
+    the distribution of bacterial diversity across and within globally distributed
+    biomes. Using data from a global survey, including 237 locations and multiple
+    environmental predictors, we found that only ultraviolet light, forest environments,
+    soil carbon and pH can be considered as significant and globally consistent predictors
+    of soil bacterial diversity, valid within and across biomes (arid, temperate and
+    continental). Bacterial diversity always peaked in grasslands, with moderate-to-low
+    carbon and ultraviolet light levels, and high soil pH. Using these environmental
+    data, we generated the first global predictive map of the distribution of soil
+    bacterial diversity. Our work helps to identify a unique set of environmental
+    attributes for universally predicting the distribution of soil bacterial diversity.
+    This knowledge is key to help predict changes in ecosystem functioning and the
+    provision of essential services under changing environments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-01-02'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3403909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3403908
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Delgado-Baquerizo-Manuel:
+    individualname: Delgado-Baquerizo, Manuel
+    role: creator
+    organization: ''
+    url: ''
+  Eldridge-David:
+    individualname: Eldridge David
+    role: creator
+  David-Eldridge:
+    individualname: David, Eldridge
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

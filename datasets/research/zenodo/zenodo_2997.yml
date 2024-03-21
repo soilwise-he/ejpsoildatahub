@@ -1,0 +1,132 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6953817
+  dataseturi: https://doi.org/10.5281/zenodo.6953817
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Terraced Landscapes as NBSs for Geo-Hydrological Hazard Mitigation: Towards
+    a Methodology for Debris and Soil Volume Estimations through a LiDAR Survey'
+  abstract: "Terraced landscapes are widely applied in many mountainous regions around\
+    \ the world<br> as a result of the necessity to practice subsistence agriculture.\
+    \ Hence, they can be regarded as one of<br> the most diffused anthropogenic modifications\
+    \ of the Earth\u2019s surface. Different techniques have<br> been used for their\
+    \ implementation leading to the artificial immobilization of debris and soil along<br>\
+    \ the slopes whose surface is interrupted by a sequence of sub-horizontal and\
+    \ sub-vertical areas often<br> using stone walls. In some areas of the world,\
+    \ such interventions are thousands of years old and<br> their resistance to the\
+    \ degradation caused by the morphogenetic system can be attributed to the<br>\
+    \ permeability of the stone walls as well as to their regular maintenance. In\
+    \ some other areas, the lack<br> of maintenance has been the main cause for degradation\
+    \ processes ending with their collapse. The<br> effects of climate change manifested\
+    \ through higher intensities and higher frequencies of rainfall<br> are likely\
+    \ to accelerate the degradation process further by causing terraces to act as\
+    \ a source of debris<br> or hyperconcentrated flow. This will in turn increase\
+    \ the severity of geo-hydrological hazards. The<br> measures concerning reduction\
+    \ of geo-hydrological hazards caused by are sought through<br> identification\
+    \ of abandoned terraces and assessment of the potential for their sudden collapse.\
+    \ The<br> present paper describes a framework for identification of abandoned\
+    \ terraces and estimation of the<br> potential volume of shallow landslides that\
+    \ can be generated. The research conducted aims to<br> advance the existing hazard\
+    \ assessment practices by combining numerical modeling with<br> processing of\
+    \ high-resolution LiDAR data. A new algorithm is developed to support localization\
+    \ of<br> terraces. The catchment scale approach applied to eight smaller catchments\
+    \ enables estimation of<br> the total volume of soil and debris trapped along\
+    \ the slopes. It also generated some important<br> quantitative data which will\
+    \ be used in the future risk assessment work. The work has been carried<br> out\
+    \ within the EU-funded H2020 project RECONECT."
+  keywords:
+    default:
+      keywords:
+        subject: nature-based solutions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-08-02'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6953817
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6953816
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Guido-Paliaga:
+    individualname: Guido Paliaga
+    role: creator
+  Fabio-Luino:
+    individualname: Fabio Luino
+    role: creator
+  Laura-Turconi:
+    individualname: Laura Turconi
+    role: creator
+  Mario-Profeta:
+    individualname: Mario Profeta
+    role: creator
+  Zoran-Vojinovic:
+    individualname: Zoran Vojinovic
+    role: creator
+  Sara-Cucchiaro:
+    individualname: Sara Cucchiaro
+    role: creator
+  Francesco-Faccini:
+    individualname: Francesco Faccini
+    role: creator
+  Paliaga-Guido:
+    individualname: Paliaga, Guido
+    role: ''
+    organization: Istituto di Ricerca per la Protezione Idrogeologica, Consiglio Nazionale
+      delle Ricerche
+    url: ''
+  Luino-Fabio:
+    individualname: Luino, Fabio
+    role: ''
+    organization: Istituto di Ricerca per la Protezione Idrogeologica, Consiglio Nazionale
+      delle Ricerche
+    url: ''
+  Turconi-Laura:
+    individualname: Turconi, Laura
+    role: ''
+    organization: Istituto di Ricerca per la Protezione Idrogeologica, Consiglio Nazionale
+      delle Ricerche
+    url: ''
+  Profeta-Mario:
+    individualname: Profeta, Mario
+    role: ''
+    organization: Indipendent Researcher
+    url: ''
+  Vojinovic-Zoran:
+    individualname: Vojinovic, Zoran
+    role: ''
+    organization: IHE Delft Institute for Water Education
+    url: ''
+  Cucchiaro-Sara:
+    individualname: Cucchiaro, Sara
+    role: ''
+    organization: Department of Agricultural, Food, Environmental and Animal Sciences,
+      University of Udine
+    url: ''
+  Faccini-Francesco:
+    individualname: Faccini, Francesco
+    role: ''
+    organization: Istituto di Ricerca per la Protezione Idrogeologica, Consiglio Nazionale
+      delle Ricerche
+    url: ''
+content_info: {}

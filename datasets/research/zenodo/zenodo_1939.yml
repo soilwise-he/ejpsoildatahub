@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5122976
+  dataseturi: https://doi.org/10.5281/zenodo.5122976
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: National soil inventory of Scotland (NSIS_1); site location, sampling and
+    profile description protocols. (1978-1988)
+  abstract: Soil sampling protocols for the first National Soil Inventory of Scotland
+    (1978-88) based on original, non-attributed documentation by J.M. Ragg, J.H. Gauld,
+    J.S. Bibby and G.Hudson with additional contributions by Soil Survey of Scotland
+    Staff. The technical report provides definitions of terminology used in site and
+    profile descriptions and accompanies the NSIS 10km dataset (DOI:10.5281/zenodo.4650230)
+    and outlines the principles behind the Inventory.
+  keywords:
+    default:
+      keywords:
+        subject: Scotland
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-07-22'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5122976
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5122975
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lilly-A.:
+    individualname: Lilly, A.
+    role: creator
+    organization: ''
+    url: https://orcid.org/0000-0002-0142-9269
+  Bell-J.S.:
+    individualname: Bell, J.S.
+    role: creator
+    organization: ''
+    url: ''
+  Hudson-G.:
+    individualname: Hudson, G.
+    role: creator
+    organization: ''
+    url: ''
+  Nolan-A.J.:
+    individualname: Nolan, A.J.
+    role: creator
+    organization: ''
+    url: ''
+  Towers-W.:
+    individualname: Towers, W.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

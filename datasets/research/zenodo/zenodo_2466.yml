@@ -1,0 +1,113 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10494743
+  dataseturi: https://doi.org/10.5281/zenodo.10494743
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effectiveness of integrated solarization technology in managing soil-borne
+    pathogens and weeds in citrus seedlings under greenhouse conditions
+  abstract: "Solarization Technology utilizes solar radiation to kill soil-borne pests,\
+    \ diseases, and weeds in an environmentally and eco-friendly way. In this study,\
+    \ we assessed the efficacy of integrating solarisation with sticky traps on two\
+    \ potting mixtures (sawdust and soil) for three Citrus species (Citrus sinensis,\_\
+    C. reticulata,\_and\_C. limon). Eight treatments were tested viz., non-solarized\
+    \ sawdust, non-solarized soil, solarized soil, solarized soil with sticky traps,\
+    \ non-solarized soil with sticky traps, non-solarized sawdust with sticky traps,\
+    \ solarized sawdust, and solarized sawdust with sticky traps, each replicated\
+    \ thrice and were arranged in a randomized complete block design (RCBD). Thirty\
+    \ sterilized seeds of each Citrus species were sown per treatment and monitored\
+    \ for one year in 2019. Analysis of variance (ANOVA) revealed a significant difference\
+    \ in weed control between the treatments at p \u2264 0.05. Tukey\u2019s post hoc\
+    \ test showed weed growth differences between treatments with sawdust and ones\
+    \ with soil as media. More weeds grew in non-solarized soil (32%), compared to\
+    \ non-solarized soil with sticky traps (30%), solarized soil with sticky traps\
+    \ (21%), solarized soil (17%), and treatments with sawdust media did not allow\
+    \ weed growth (0%). A Kruskal Wallis test revealed a significant effect of treatments\
+    \ on the survival percentage of\_Citrus\_seedlings (X2\_= 36.008, df = 7, p< 0.001),\
+    \ mean of chewed leaves (X2\_= 20.850, df = 7, p = 0.004) and percentage levels\
+    \ of low chlorophyll (X2\_= 21.073, df = 7, p =0.004) at the p \u2264 0.05 level.\
+    \ Highest number of Citrus seedlings with folded leaves were observed in non-solarized\
+    \ sawdust with sticky traps (mean rank = 119.50), followed by non-solarized soil\
+    \ with sticky traps (112.22), and solarized sawdust (107.69), while the lowest\
+    \ in non-solarized sawdust (90.96), solarized soil (90.91), non-solarized soil\
+    \ (88.25), solarized sawdust with sticky traps (85.44) and lastly solarized soil\
+    \ with sticky traps (82.54).\_Citrus\_seedlings with sawdust media were observed\
+    \ to be nitrogen deficient (Mean ranks 118.43 - 141.63). Solarized soil with sticky\
+    \ traps had the least number of\_Citrus seedlings with leaf miner symptoms (Mean\
+    \ rank = 12.50). Therefore, solarized soil with sticky traps was the most suitable\
+    \ treatment for the control of soil-borne pathogens. Treatments with sawdust media\
+    \ effectively stopped weed growth while those with solarized soil media reduced\
+    \ their growth. Integration of sticky traps was very pivotal in the management\
+    \ of whiteflies and other honey dew secreting insects. We recommend a similar\
+    \ study under field conditions."
+  keywords:
+    default:
+      keywords:
+        subject: Diseases
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10494743
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10494742
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ronald-Kisekka:
+    individualname: Ronald Kisekka
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+  Miriam-G.-Masibo:
+    individualname: Miriam G. Masibo
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+  Samuel-Ongerep:
+    individualname: Samuel Ongerep
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+  Emilly-Kamusiime:
+    individualname: Emilly Kamusiime
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+  Sarah-Musiimenta:
+    individualname: Sarah Musiimenta
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+  Bernadette-Kabonesa:
+    individualname: Bernadette Kabonesa
+    role: creator
+    organization: National Agricultural Research Organization, Plot 3, Lugard Avenue,
+      Entebbe, P.O. Box 295, Entebbe, Uganda.
+    url: ''
+content_info: {}

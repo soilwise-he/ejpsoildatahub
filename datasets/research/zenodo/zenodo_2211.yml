@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Crosetto_2018
+  dataseturi: https://doi.org/10.1007/s10346-018-0965-5
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Monitoring soil creep landsliding in an urban area using persistent scatterer
+    interferometry (El Papiol, Catalonia, Spain)
+  abstract: '&lt;p&gt;Soil creep is characterised by slow displacement, with depths
+    of a few meters and loosely defined limits. Buildings and infrastructure located
+    on slopes affected by such landslides may suffer significant damages if their
+    foundations are poorly dimensioned. The presence of soil creep in urban areas
+    makes it necessary to develop landslide activity maps, derive hazard maps, and
+    implement risk management plans. Even though both geological and geomorphological
+    analyses can provide basic information, it is often necessary to use additional
+    techniques to obtain information about ground displacements. This paper proposes
+    a method to derive a soil creep activity map using a multi-approach analysis based
+    on geological, geomorphological, and persistent scatterer interferometry (PSI)
+    data. PSI is a satellite-based technique to estimate land displacement velocity.
+    The work described in this paper was carried out in the town of El Papiol, in
+    the metropolitan area of Barcelona (Spain). This is an urban area that has been
+    heavily affected by soil creep over the past decades. The results achieved show
+    that PSI data substantially improve the information provided by the geological
+    and geomorphological analyses and make it possible to accurately define the landslide
+    area and estimate its activity.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Remote sensing
+      - SAR
+      - Displacements
+      - Creep
+      - Activity map
+      - El Papiol
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Monitoring soil creep landsliding in an urban area using persistent scatterer
+      interferometry (El Papiol, Catalonia, Spain)
+    url: http://dx.doi.org/10.1007/s10346-018-0965-5
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Crosetto-Michele:
+    individualname: Crosetto, Michele
+    role: creator
+  Copons-Ramon:
+    individualname: Copons, Ramon
+    role: creator
+  Cuevas-Gonzalez-Maria:
+    individualname: "Cuevas-Gonz\xE1lez, Mar\xEDa"
+    role: creator
+  Devanthery-Nuria:
+    individualname: "Devanth\xE9ry, N\xFAria"
+    role: creator
+  Monserrat-Oriol:
+    individualname: Monserrat, Oriol
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wood_1921
+  dataseturi: https://doi.org/10.1002/jctb.5000402418
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Soil conditions and plant growth. By E. J. Russell. The Rothamsted Monographs
+    on Agricultural Science. Pp. xii+406. (London: Longmans, Green and Co. 1921.)
+    Price 16s. net'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Soil conditions and plant growth. By E. J. Russell. The Rothamsted Monographs
+      on Agricultural Science. Pp. xii+406. (London: Longmans, Green and Co. 1921.)
+      Price 16s. net'
+    url: http://dx.doi.org/10.1002/jctb.5000402418
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wood-T.-B.:
+    individualname: Wood, T. B.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

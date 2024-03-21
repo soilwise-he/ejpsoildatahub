@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.22034/jcema.2020.105446
+  dataseturi: https://doi.org/10.22034/jcema.2020.105446
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Effect of Soil Behavior Model on Drilling Response of Anchor-reinforced Excavation
+  abstract: '&lt;p&gt;The reinforced elements such as nailing and anchor have been
+    widely used for the stability of excavation and trench because of not taking up
+    a large space, improved soil properties by injection, greater safety and possibility
+    of being used as permanent retaining structure. Due to the complex behavior of
+    reinforced excavation, the stability analysis of reinforced excavation is performed
+    by finite element method. Some factors such as boundary interval, dimensions and
+    type of elements, and type of behavior model of materials affect the numerical
+    results. Due to the complex behavior of the soil stress-strain, influence from
+    stress path and loading history, and existence of groundwater, different behavior
+    models have been proposed to simulate the materials. In this study, the effect
+    of soil behavior model on the response of anchored excavation was investigated.
+    For this purpose, using the finite element method in the plane strain conditions,
+    the excavation reinforced with anchorage system was simulated for different geometrical
+    conditions, and the results of the excavation response were compared for the Mohr-Coulomb,
+    Drucker-Prager, and modified Cam-Clay behavior models. In the shallow excavation,
+    it was found that the Mohr-Coulomb behavior model has the least displacement and
+    the Drucker-Prager behavior model has the largest lateral displacement. The Drucker-Prager
+    behavior model should be considered as a reliable criterion for the design and
+    control of the excavation because of the greater results regarding the lateral
+    displacement of excavation and generally, excavation deformation.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - reinforced excavation
+      - lateral displacement
+      - Mohr-Coulomb
+      - Drucker-Prager
+      - Cam-Clay
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mehran-Javanmard:
+    individualname: Mehran Javanmard
+    role: creator
+  Mehdi-Noruzi:
+    individualname: Mehdi Noruzi
+    role: creator
+content_info: {}

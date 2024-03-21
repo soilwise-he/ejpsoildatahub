@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6544073
+  dataseturi: https://doi.org/10.5281/zenodo.6544073
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "SPATIAL CHARACTERIZATION OF THE USE AND OCCUPATION OF SOIL IN THE S\xC3\
+    O MARCOS INDIGENOUS LAND"
+  abstract: "This article addresses the theme of indigenous lands in Roraima, reflecting\
+    \ on the process of use and occupation of indigenous lands. In this sense, this\
+    \ research aims to analyze in a bibliographical way the process of land use and\
+    \ occupation in the Alto S\xE3o Marcos ethnoregion in order to characterize the\
+    \ region. The methodology starts from an exploratory descriptive literature review\
+    \ under a qualitative approach and content analysis. Thus, the research becomes\
+    \ relevant for raising questions about land use and occupation, showing that this\
+    \ occupation for long periods without proper management can cause irreversible\
+    \ socio-environmental impacts on the landscape and socio-economic impacts on native\
+    \ communities."
+  keywords:
+    default:
+      keywords:
+        subject: Roraima
+  status: ''
+  language: por
+  dates:
+    creation: ''
+    issued: '2022-05-12'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6544073
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6544072
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  VILELA-Pollyana-Fontinelle:
+    individualname: VILELA, Pollyana Fontinelle
+    role: creator
+    organization: Universidade Federal de Roraima (UFRR)
+    url: https://orcid.org/0000-0002-9989-6796
+  FALCAO-Marcia-Teixeira:
+    individualname: "FALC\xC3O, M\xE1rcia Teixeira"
+    role: creator
+    organization: Universidade Estadual de Roraima (UERR)
+    url: https://orcid.org/0000-0003-3190-3192
+content_info: {}

@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3522135
+  dataseturi: https://doi.org/10.5281/zenodo.3522135
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Report
+identification:
+  title: 'Soil-Recycled Aggregate-Geopolymer Road Base/Subbase Mixtures: Steps Towards
+    Sustainability'
+  abstract: This study deals with the development of Soil-Geopolymer mixtures using
+    flyash, alkali activator and recycled aggregates (RAG) including recycled concrete
+    (RCA) and reclaimed asphalt (RAP) as an alternative to soil-cement for pavement
+    base and subbase layers. Several mix constituents were varied such as flyash type
+    and content, RCA and RAP content and ratio of sodium silicate and sodium hydroxide.
+    Experiment design was established and mechanical and durability characteristics
+    of Soil-RAG-Geopolymer mixtures were evaluated and then compared to the conventional
+    soil-cement mixtures. The results of the testing showed that for the selected
+    Soil-RAG-Geopolymer mixtures the strength, stiffness, permanent deformation, and
+    durability characteristics were either comparable or better than the soil-cement
+    mixtures. However, such mixtures required more curing time at room temperature
+    to achieve needed strength. In order to further optimize the practical applications
+    of this technology in the field, other variables such as molarity of alkali activator,
+    curing conditions, early strength development at room and ambient temperatures,
+    gradation of RAG and shrinkage characteristics need be investigated.
+  keywords:
+    default:
+      keywords:
+        subject: Soil stabilization, Geopolymers, Flyash, Recycled aggregate, RAP,
+          RCA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-10-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3522135
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3522134
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohammad-Khattak:
+    individualname: Mohammad Khattak
+    role: creator
+  Daniel-Odion:
+    individualname: Daniel Odion
+    role: creator
+  Khattak-Mohammad:
+    individualname: Khattak, Mohammad
+    role: ''
+    organization: University of Louisiana at Lafayette
+    url: https://orcid.org/0000-0003-2780-4909
+  Odion-Daniel:
+    individualname: Odion, Daniel
+    role: ''
+    organization: University of Louisiana at Lafayette
+    url: https://orcid.org/0000-0001-9739-017X
+content_info: {}

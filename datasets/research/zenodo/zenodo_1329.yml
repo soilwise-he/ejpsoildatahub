@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SHIVE_1918
+  dataseturi: https://doi.org/10.1097/00010694-191802000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: TOXICITY OF MONOBASIC PHOSPHATES TOWARDS SOYBEANS GROWN IN SOIL-AND SOLUTION-CULTURES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: TOXICITY OF MONOBASIC PHOSPHATES TOWARDS SOYBEANS GROWN IN SOIL-AND SOLUTION-CULTURES
+    url: http://dx.doi.org/10.1097/00010694-191802000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Shive-John-W.:
+    individualname: Shive, John W.
+    role: creator
+  SHIVE-JOHN-W.:
+    individualname: SHIVE, JOHN W.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

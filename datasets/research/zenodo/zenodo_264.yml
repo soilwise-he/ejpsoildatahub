@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7740584
+  dataseturi: https://doi.org/10.5281/zenodo.7740584
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Carbon Status of SRUC Platforms
+  abstract: The work package of M8/M9 includes assessing the soil carbon storage and
+    stability of samples collected from agricultural research platforms across Scotland.
+    In conjunction with C2, the unique network of experimental platform research sites
+    within SRUC were sampled and these will be used to baseline the soil carbon status
+    of these soils. The same fields in these platforms will be sampled in five years
+    to estimate the effect of management on carbon soil carbon status.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7740584
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7740583
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Boyko-Rose:
+    individualname: Boyko, Rose
+    role: creator
+    organization: SRUC
+    url: https://orcid.org/0000-0002-2350-8814
+  Hargreaves-Paul:
+    individualname: Hargreaves, Paul
+    role: creator
+    organization: SRUC
+    url: ''
+  Watson-Christine:
+    individualname: Watson, Christine
+    role: creator
+    organization: SRUC
+    url: ''
+content_info: {}

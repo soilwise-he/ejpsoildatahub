@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7035909
+  dataseturi: https://doi.org/10.5281/zenodo.7035909
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Tomato Cultivation in Different Soil Covers
+  abstract: '<em>Moving towards sustainability is a trend in agriculture today. Changing
+    agricultural production systems based on traditional techniques is a necessity,
+    mainly due to the growing concern with environmental and product quality. Thus,
+    the aim of this study was to evaluate the different soil cover in tomato cultivation.
+    The coverings studied were arranged in a randomized block design, with 4 coverings,
+    being the coverings used: live covering (forage peanut), mulch (crotalaria straw
+    and millet), mulching and without mulch/hoeing. Plant height, number of leaves
+    and stem diameter were evaluated up to 30 days after transplanting (DAT). At 30
+    DAT, chlorophyll a, chlorophyll b and total chlorophyll were evaluated. The harvest
+    was carried out manually, and the fresh fruit mass, the number of fruits per plant-1
+    and the color parameters (a*, b* and L*) were evaluated. The white plastic cover
+    was superior to the other soil covers, where plants with larger stem diameter,
+    a greater number of fruits per plant and fruits with less yellow pericarp color
+    were observed.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Solanum lycopersicum; tillage system; plastic cover, live cover,
+          straw.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-04-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7035909
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7035908
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Roberto-Gomes-Vital:
+    individualname: Roberto Gomes Vital
+    role: creator
+  Zeuxis-Rosa-Nascimento:
+    individualname: Zeuxis Rosa Nascimento
+    role: creator
+    organization: ''
+    url: ''
+  Juliana-Nascimento-Silva:
+    individualname: Juliana Nascimento Silva
+    role: creator
+  Marcos-Lopes-Rodovalho:
+    individualname: Marcos Lopes Rodovalho
+    role: creator
+  Abadia-dos-Reis-Nascimento:
+    individualname: Abadia dos Reis Nascimento
+    role: creator
+  Vital-Roberto-Gomes:
+    individualname: Vital, Roberto Gomes
+    role: ''
+    organization: ''
+    url: ''
+  Silva-Juliana-Nascimento:
+    individualname: Silva, Juliana Nascimento
+    role: ''
+    organization: ''
+    url: ''
+  Rodovalho-Marcos-Lopes:
+    individualname: Rodovalho, Marcos Lopes
+    role: ''
+    organization: ''
+    url: ''
+  Abadia-Dos-Reis-Nascimento:
+    individualname: Abadia Dos Reis Nascimento
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

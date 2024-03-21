@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6386254
+  dataseturi: https://doi.org/10.5281/zenodo.6386254
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: pH Titration Curves of Some Uttar Pradesh Soil Clays in Aqueous Hydrochloric
+    Acid Medium
+  abstract: 'Department of Chemistry, University of Allahabad, Allahabad <em>Manuscript
+    received 3 February 1972; revised 15 November 1975; accepted 29 January 1976</em>
+    The buffering capacity of fourteen (14) soil clays obtained from twelve different
+    soils of U.P. (India) has been determined in simple hydrochloric acid medium.
+    The maximum buffering capacity shown by the different soil clay-hydrochloric-acid
+    systems has been found to lie in the following order : Varanasi old alluvium clay
+    &gt; Acid clay &gt; Kanpur old alluvium clay &gt; Kabar clay &gt; Kanpur recent
+    Alluvium clay &gt; Rakar clay &gt; Parwa clay &gt; Alkali clay &gt; Varanasi recent
+    alluvium clay &gt; Mar clay &gt; Vindhyan clay &gt; Tarai clay &gt; Hill clay
+    &gt; Bhabar clay. The buffering property of clay minerals constituting the different
+    soil clays is assigned primarily to the OH-groups present in the alumina octahedra
+    and silica-tetrahedra sheets of the clay minerals. pH of the soil clays appear
+    to influence this buffering property in the sense that soil clays of higher \(p\)H
+    consume less of alkali (except Tarai clay which consumes comparatively more alkali
+    though it is having high pH value).'
+  keywords:
+    default:
+      keywords:
+        subject: solution
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1976-04-30'
+    publication: '1976'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6386254
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6386253
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-SINGH:
+    individualname: G. SINGH
+    role: creator
+    organization: ''
+    url: ''
+  SHARAFAT-ALI:
+    individualname: SHARAFAT ALI
+    role: creator
+    organization: ''
+    url: ''
+  D.-PALIT:
+    individualname: D. PALIT
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

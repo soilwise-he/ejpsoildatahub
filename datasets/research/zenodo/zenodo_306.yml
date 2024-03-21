@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8009854
+  dataseturi: https://doi.org/10.5281/zenodo.8009854
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Higher soil moisture increases forest temperature buffering
+  abstract: "Abstract\n\n\nForests can buffer the understory against temperature extremes\
+    \ often creating cooler microclimates during warm summer days compared to temperatures\
+    \ outside the forest. The buffering of maximum temperatures in the understory\
+    \ results from a combination of canopy shading and air cooling through soil water\
+    \ evaporation and plant transpiration. Therefore, buffering capacity of forests\
+    \ depends on canopy cover and soil moisture content, which are increasingly threatened\
+    \ by more frequent and severe canopy disturbances and soil droughts. The extent\
+    \ to which this buffering will be maintained in future conditions is unclear due\
+    \ to the lack of understanding about the relationship between soil moisture and\
+    \ air temperature buffering in interaction with canopy cover and topographic settings.\
+    \ We explored how soil moisture variability affects temperature offsets between\
+    \ outside and inside the forest on a daily basis, using temperature and soil moisture\
+    \ data from 57 sites in temperate broadleaved forests in Central Europe over four\
+    \ climatically different summer seasons. Daily maximum temperatures in forest\
+    \ understories were on average 2\xB0C cooler than outside temperatures. The buffering\
+    \ of understory temperatures was more effective when soil moisture was higher,\
+    \ and the offsets were more sensitive to soil moisture on sites with drier soils\
+    \ and on sun-exposed slopes with high topographic heat load. Based on these results,\
+    \ it can be expected that, in a warmer climate with longer dry periods, the soil-water\
+    \ limitation of forest buffering will become more prevalent and will likely lead\
+    \ to changes in understory communities. Our results support the inclusion of soil\
+    \ moisture in models and predictions of forest microclimate, understory biodiversity\
+    \ and tree regeneration, aiming to provide a more precise estimate of the effects\
+    \ of climate change."
+  keywords:
+    default:
+      keywords:
+        subject: air temperature
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-06'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8009854
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1016/j.agrformet.2023.109828
+    type: WWW:LINK
+    title: IsPublishedIn
+  r1:
+    url: https://doi.org/10.5281/zenodo.8009853
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Greiser-Caroline:
+    individualname: Greiser, Caroline
+    role: creator
+    organization: Department of Physical Geography and Bolin Centre for Climate Research,
+      Stockholm University, Sweden
+    url: 0000-0003-4023-4402
+  Hederova-Lucia:
+    individualname: "Hederov\xE1, Lucia"
+    role: creator
+    organization: "Institute of Botany of the Czech Academy of Sciences, Pr\u016F\
+      honice, Czech Republic"
+    url: 0000-0003-1283-0952
+  Vico-Giulia:
+    individualname: Vico, Giulia
+    role: creator
+    organization: 3Department of Crop Production Ecology, Swedish University of Agricultural
+      Sciences, Uppsala, Sweden
+    url: 0000-0002-7849-2653
+  Wild-Jan:
+    individualname: Wild, Jan
+    role: creator
+    organization: "Institute of Botany of the Czech Academy of Sciences, Pr\u016F\
+      honice, Czech Republic"
+    url: 0000-0003-3007-4070
+  Macek-Martin:
+    individualname: Macek, Martin
+    role: creator
+    organization: "Institute of Botany of the Czech Academy of Sciences, Pr\u016F\
+      honice, Czech Republic"
+    url: 0000-0002-5609-5921
+  Kopecky-Martin:
+    individualname: "Kopeck\xFD, Martin"
+    role: creator
+    organization: "Institute of Botany of the Czech Academy of Sciences, Pr\u016F\
+      honice, Czech Republic"
+    url: 0000-0002-1018-9316
+content_info: {}

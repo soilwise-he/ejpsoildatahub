@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3557370
+  dataseturi: https://doi.org/10.5281/zenodo.3557370
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Time Dependent Consolidation Properties of an Expansive Soil
+  abstract: In this paper, different one-dimensional consolidation property is described.
+    Analysis of different types of consolidation parameters and their behavior related
+    with settlement are accomplished. Expansive soils show various behaviors due to
+    same loading for different time intervals due to dissipation of excess pore-air
+    and pore water pressure which inevitably results in volume reduction and thus
+    the settlement occurs in expansive soils which results in very hazardous structural
+    destruction. The time interval is increased here compared to other papers. However,
+    in this paper, one dimensional consolidation test is accomplished for five different
+    loading in different time intervals by using an odometer. The values of different
+    consolidation parameters are obtained for 1, 2, 4, 8 and 15 days interval for
+    each loading. The values show that the coefficient of permeability and the coefficient
+    of consolidation have a linearly decreasing relationship with time. And the coefficient
+    of compressibility and coefficient of volume compressibility have a linearly increasing
+    relationship with time.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-11-29'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3557370
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3557369
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M-A-Hossain:
+    individualname: M A Hossain
+    role: creator
+    organization: Professor, Department of Civil Engineering, Rajshahi University
+      of Engineering and Technology, Rajshahi, Bangladesh
+    url: ''
+  S-M-M-Islam:
+    individualname: S M M Islam
+    role: creator
+    organization: UG Student, Department of Civil Engineering, Rajshahi University
+      of Engineering and Technology, Rajshahi, Bangladesh
+    url: ''
+  M-A-Islam:
+    individualname: M A Islam
+    role: creator
+    organization: UG Student, Department of Civil Engineering, Rajshahi University
+      of Engineering and Technology, Rajshahi, Bangladesh
+    url: ''
+content_info: {}

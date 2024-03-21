@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hinklns_1918
+  dataseturi: https://doi.org/10.14219/jada.archive.1918.0252
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Chemical Action of Soil Bacteria on Calcium Phosphates with the Chemical
+    Analysis of the Human Teeth
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Chemical Action of Soil Bacteria on Calcium Phosphates with the Chemical
+      Analysis of the Human Teeth
+    url: http://dx.doi.org/10.14219/jada.archive.1918.0252
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hinklns-J.-E.:
+    individualname: Hinklns, J. E.
+    role: creator
+  Hinklns-J.E.:
+    individualname: Hinklns, J.E.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

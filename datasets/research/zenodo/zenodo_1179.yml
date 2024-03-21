@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1473412
+  dataseturi: https://doi.org/10.5281/zenodo.1473412
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Degradation Biokinetics Of Used And Fresh Lube Oils In Contaminated Soil
+    Environment
+  abstract: In order to solve the problems of the soil environment caused by the discharge
+    of petroleum products especially oils used for lubrication, investigations were
+    carried out to assess the degradation of fresh and used lube oil in soil environment
+    using bacteria degraders present in the soil. This was done by introducing some
+    quantities of the pollutant (fresh and used lubricating oils) into some soil samples
+    obtained from the environment. The degradation pattern was studied by estimating
+    the level of the microbial growth using culture method and the phenol content.
+    This was done before the introduction of the pollutant and at two weekly intervals
+    for 42days. Results show that the phenol content, microbial and micro species
+    present in the soil rapidly increased to maximum and then declined. The specific
+    rate, maximum specific rate and equilibrium constants were determined using Line-Weaver
+    Burk Plots. Results obtained show that the bacteria which degraded the fresh and
+    used lube oil were inhibited by the presence of phenol which was informed during
+    the biodegradation reaction. Empirical equation for microbial growth rate using
+    the data from the experiment was obtained. The degradation of the fresh lube oil
+    occurred faster than the used lube oil. The equation is useful in monitoring and
+    predicting the performance of microorganisms in bioreactor and predicting the
+    performance of microorganisms in bioreactor containing used or fresh lube oil.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Used/fresh lube oil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-10-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1473412
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1473411
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.-P.-Ukpaka:
+    individualname: C. P. Ukpaka
+    role: creator
+    organization: ''
+    url: ''
+  E.-N.-Wami:
+    individualname: E. N. Wami
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

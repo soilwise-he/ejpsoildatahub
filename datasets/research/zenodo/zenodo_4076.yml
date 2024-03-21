@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1439336
+  dataseturi: https://doi.org/10.5281/zenodo.1439336
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Quantitative Assessment Of Potential Soil Erosion In The Eastern Siberia
+    Region (Using The Example Of The Markha River Basin)
+  abstract: '<em>The paper presents the results of estimations of potential soil erosion
+    in the basins of the small rivers of the Markha River watershed (the Lena River
+    basin), using geoinformation technologies. The creation of specialized geoinformation
+    database and GIS for the basins of small rivers of the Arctic watershed of the
+    Asian part of Russia is considered in detail, in the scale 1: 1,000,000, adopted
+    for the research, corresponding to the regional level of spatial detail. The source
+    materials for filling the geodatabase were the following: digital model of relief
+    (the unit of regular raster grid was 250*250 m), maps of climatic parameters,
+    maps of land cover properties, maps of landscape structure, and types of land
+    use. The prototype of created geodatabase was used for estimation of potential
+    soil losses on the test site, in the conditions of a flat relief - in the Markha
+    River basin. Calculations were carried out, using the mathematical formula, recommended
+    by the Scientific-Research Laboratory of Soil Erosion and Channel Processes of
+    the Moscow State University n.a. M.V. Lomonosov. This model provides for the calculations
+    of soil losses by the following categories: soil losses from snowmelt runoff,
+    soil losses from storm runoff, potential total soil losses. The maximum possible
+    values of the potential soil losses were obtained. The next stage of calculations
+    provided for additional calibration of input parameters, in particular, consideration
+    of the types of land cover. The results of calculations were approximate to the
+    actual values of soil losses. In order to verify the values of soil losses in
+    the Markha River basin, the values of                runoff of suspended sediments
+    were used. The obtained values are quite similar and comparable. The information
+    is new.</em>
+
+
+    <strong>Keywords:</strong><em> the Arctic watershed, the Asian part of Russia,
+    watershed of the Lena River, small river basins, the Markha River, GIS technologies,
+    soil losses, runoff of suspended sediments.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: the Arctic watershed, the Asian part of Russia, watershed of the
+          Lena River, small river basins, the Markha River, GIS technologies, soil
+          losses, runoff of suspended sediments.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-09-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1439336
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1439335
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Oleg-P.-Yermolaev-Kirill-A.-Maltsev-Nurgul-S.-Sihanova-Yerlan-A.-Shynbergenov:
+    individualname: Oleg P. Yermolaev, Kirill A. Maltsev, Nurgul S. Sihanova, Yerlan
+      A. Shynbergenov
+    role: creator
+  Oleg-P.-Yermolaev-Kirill-A.-Maltsev:
+    individualname: Oleg P. Yermolaev, Kirill A. Maltsev
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

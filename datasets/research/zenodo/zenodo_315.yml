@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pequeno_2023
+  dataseturi: https://doi.org/10.1080/00222933.2023.2268785
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Towards a biogeography of Amazonian soil microarthropods
+  abstract: 'Pequeno, Pedro A. C. L., Santorelli, Sergio, Ferreira, Raimundo N. C.,
+    dos Santos, Evanira M.R., Franklin, Elizabeth (2023): Towards a biogeography of
+    Amazonian soil microarthropods. Journal of Natural History 57: 1629-1636, DOI:
+    10.1080/00222933.2023.2268785, URL: http://dx.doi.org/10.1080/00222933.2023.2268785'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Towards a biogeography of Amazonian soil microarthropods
+    url: http://dx.doi.org/10.1080/00222933.2023.2268785
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pequeno-Pedro-A.-C.-L.:
+    individualname: Pequeno, Pedro A. C. L.
+    role: creator
+  Santorelli-Sergio:
+    individualname: Santorelli, Sergio
+    role: creator
+  Ferreira-Raimundo-N.-C.:
+    individualname: Ferreira, Raimundo N. C.
+    role: creator
+  dos-Santos-Evanira-M.R.:
+    individualname: dos Santos, Evanira M.R.
+    role: creator
+  Franklin-Elizabeth:
+    individualname: Franklin, Elizabeth
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

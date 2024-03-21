@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3253238
+  dataseturi: https://doi.org/10.5281/zenodo.3253238
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Details of the formation and functioning of microbic coenosis of dark grey
+    podzolized soil under the mixture of oriental bunias with fodder dock depending
+    on fertilizers
+  abstract: The results of the study of the effect of mineral fertilizers on structural
+    and functional features of microbic coenosis of the dark grey podzolized soil
+    under the mixture of bunias with hybrid dock Rumex K-1 are adduced. The biochemical
+    substantiations of nitrogenous fertilizer dose that ensures the high productivity
+    of non-traditional fodder crops, stability and balance of agroecosystem are given.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ukr
+  dates:
+    creation: ''
+    issued: '2003-09-01'
+    publication: '2003'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3253238
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3253237
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.M.-Arkhypenko:
+    individualname: F.M. Arkhypenko
+    role: creator
+    organization: Institute of Agriculture of the Ukrainian Academy of Agrarian Sciences,
+      Ukraine, Chabany
+    url: ''
+content_info: {}

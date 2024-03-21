@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1118984
+  dataseturi: https://doi.org/10.5281/zenodo.1118984
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis Of A Frame-Shear Wall Concrete Structure By Using Base Isolation
+    And Evaluation Of Structure-Soil Interaction
+  abstract: "A base isolation system is a type of earthquake-resistant structure design\
+    \ approach based on the principle of reducing a structure\u2019s earthquake response\
+    \ rather than increasing the structure\u2019s earthquake resistance capacity.\
+    \ Seismic base isolated structures have the ability to make large displacements\
+    \ relative to the level of insulation elements. This means that a large structure\
+    \ performs very small displacements between floors during an earthquake and exhibits\
+    \ a rigid body behavior. At this point, the earthquake forces acting on the structure\
+    \ decrease along with the floors. In this article a school building composed of\
+    \ frame-shear wall is resolved primarily with the traditional fixed base structure\
+    \ system, mode shapes are found and periods are obtained. For earthquake response\
+    \ analysis, earthquake loads are distributed to the floors using the equivalent\
+    \ seismic load method and structural elements experiencing capacity problems are\
+    \ found. Then, using the earthquake record, larger failure of cross sections and\
+    \ capacity problems are obtained compared to the first method. In the second stage,\
+    \ the same structure is dissolved again by placing the lead core rubber base isolators\
+    \ between the base and the vertical structural members. The periods of structures\
+    \ under earthquake load have increased significantly by utilizing base isolation,\
+    \ as a result of that spectral accelerations decreased. Thus, large decreases\
+    \ in the shear forces acting to the structure are determined and failures of cross\
+    \ sections are removed."
+  keywords:
+    default:
+      keywords:
+        subject: time history analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-12-18'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1118984
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1118983
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Polat-H.-I.:
+    individualname: Polat, H. I.
+    role: creator
+    organization: Ministry of Environment and Urban Planning, Istanbul, Turkey
+    url: ''
+content_info: {}

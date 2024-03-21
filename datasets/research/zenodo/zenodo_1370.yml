@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7437355
+  dataseturi: https://doi.org/10.5281/zenodo.7437355
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Flexibility on Building Frame Analysis and Practice in Bangladesh
+  abstract: 'To analyze and design multi-story building frames, it is a conventional
+    practice that the foundation is fixed but in actuality, the structure is ultimately
+    supported on soil that has a flexible characteristic. Typically, during the design
+    of the structure, the impact of soil-structure interaction (SSI) is disregarded
+    in Bangladesh. This soil''s flexibility may vary according to its characteristics
+    of settling loads, variations in the soil strata below the foundation, etc. When
+    earthquake loads come, the soil''s flexibility causes at varying rates, which
+    influences the design and distribution of the structural forces. The current study
+    makes an effort to acknowledge the effect of soil flexibility on the analysis
+    and design of moment frame building, especially for earthquake load. To conduct
+    this study, structures are modeled using two different approaches: (A) frame without
+    soil effect and (B) frame with SSI into account. With the aid of the ETABS program,
+    6-storied, 9-storied &amp; 12-storied RCC special moment frame building located
+    in seismic zone IV as per BNBC20 is analyzed for different approaches. To assess
+    the influence of various characteristics on the behavior of the structure, parametric
+    studies are carried out. The system''s natural periods are increased due to the
+    soil''s flexibility, which reduces the total stiffness of the building frames
+    under the foundation. Also, according to the study, the soil''s flexibility affected
+    the structural stresses and impacted the structural analysis, which must be considered
+    in the design.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil interaction; Moment frame; FEM; Earthquake; BNBC20; etc
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-14'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7437355
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7437354
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Md.-Golam-Rabbi:
+    individualname: Md. Golam Rabbi
+    role: creator
+    organization: Department of Civil Engineering, Dhaka University of Engineering
+      and Technology, Gazipur, Bangladesh.
+    url: ''
+  Md.-Faishal-Hasan:
+    individualname: Md. Faishal Hasan
+    role: creator
+    organization: Department of Civil Engineering, Rajshahi University of Engineering
+      and Technology, Rajshahi, Bangladesh.
+    url: ''
+content_info: {}

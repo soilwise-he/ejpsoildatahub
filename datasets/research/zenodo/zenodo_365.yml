@@ -1,0 +1,152 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8092735
+  dataseturi: https://doi.org/10.5281/zenodo.8092735
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mapping Soil Properties with Fixed Rank Kriging of Proximally Sensed Soil
+    Data Fused with Sentinel-2 Biophysical Parameter
+  abstract: Soil surveys with line-scanning platforms appear to have great advantages
+    over the traditional methods used to collect soil information for the development
+    of field-scale soil mapping and applications. These carry VNIR (visible and near
+    infrared) spectrometers and have been used in recent years extensively for the
+    assessment of soil fertility at the field scale, and the delineation of site-specific
+    management zones (MZ). A challenging feature of VNIR applications in precision
+    agriculture (PA) is the massiveness of the derived datasets that contain point
+    predictions of soil properties, and the interpolation techniques involved in incorporating
+    these data into site-specific management plans. In this study, fixed-rank kriging
+    (FRK) geostatistical interpolation, which is a flexible, non-stationary spatial
+    interpolation method especially suited to handling huge datasets, was applied
+    to massive VNIR soil scanner data for the production of useful, smooth interpolated
+    maps, appropriate for the delineation of site-specific MZ maps. Moreover, auxiliary
+    Sentinel-2 databased biophysical parameters NDVI (normalized difference vegetation
+    index) and fAPAR (fraction of photosynthetically active radiation absorbed by
+    the canopy) were included as covariates to improve the filtering performance of
+    the interpolator and the ability to generate uniform patterns of spatial variation
+    from which it is easier to receive a meaningful interpretation in PA applications.
+    Results from the VNIR prediction dataset obtained from a pivot-irrigated field
+    in Albacete, southeastern Spain, during 2019, have shown that FRK variants outperform
+    ordinary kriging in terms of filtering capacity, by doubling the noise removal
+    metrics while keeping the computation cost reasonably low. Such features, along
+    with the capacity to handle a large volume of spatial information, nominate the
+    method as ideal for PA applications with massive proximal and remote sensing datasets.
+  keywords:
+    default:
+      keywords:
+        subject: precision agriculture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-03-29'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8092735
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8092734
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nikolaos-Karapetsas:
+    individualname: Nikolaos Karapetsas
+    role: creator
+  Thomas-K.-Alexandridis:
+    individualname: Thomas K. Alexandridis
+    role: creator
+  George-Bilas:
+    individualname: George Bilas
+    role: creator
+  Muhammad-Abdul-Munnaf:
+    individualname: Muhammad Abdul Munnaf
+    role: creator
+  Angela-P.-Guerrero:
+    individualname: Angela P. Guerrero
+    role: creator
+  Maria-Calera:
+    individualname: Maria Calera
+    role: creator
+  Anna-Osann:
+    individualname: Anna Osann
+    role: creator
+  Anne-Gobin:
+    individualname: Anne Gobin
+    role: creator
+  Tomas-Reznik:
+    individualname: "Tom\xE1\u0161 Rezn\xEDk"
+    role: creator
+    organization: ''
+    url: ''
+  Dimitrios-Moshou:
+    individualname: Dimitrios Moshou
+    role: creator
+  Abdul-Mounem-Mouazen:
+    individualname: Abdul Mounem Mouazen
+    role: creator
+  Karapetsas-Nikolaos:
+    individualname: Karapetsas, Nikolaos
+    role: ''
+    organization: ''
+    url: ''
+  Alexandridis-Thomas-K.:
+    individualname: Alexandridis, Thomas K.
+    role: ''
+    organization: ''
+    url: ''
+  Bilas-George:
+    individualname: Bilas, George
+    role: ''
+    organization: ''
+    url: ''
+  Munnaf-Muhammad-Abdul:
+    individualname: Munnaf, Muhammad Abdul
+    role: ''
+    organization: ''
+    url: ''
+  Guerrero-Angela-P.:
+    individualname: Guerrero, Angela P.
+    role: ''
+    organization: ''
+    url: ''
+  Calera-Maria:
+    individualname: Calera, Maria
+    role: ''
+    organization: ''
+    url: ''
+  Osann-Anna:
+    individualname: Osann, Anna
+    role: ''
+    organization: ''
+    url: ''
+  Gobin-Anne:
+    individualname: Gobin, Anne
+    role: ''
+    organization: ''
+    url: ''
+  Moshou-Dimitrios:
+    individualname: Moshou, Dimitrios
+    role: ''
+    organization: ''
+    url: ''
+  Mouazen-Abdul-Mounem:
+    individualname: Mouazen, Abdul Mounem
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

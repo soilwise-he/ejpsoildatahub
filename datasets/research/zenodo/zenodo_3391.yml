@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1339676
+  dataseturi: https://doi.org/10.5281/zenodo.1339676
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparison Of Different Techniques To Estimate Surface Soil Moisture
+  abstract: "Land subsidence is a gradual settling or sudden sinking of the land surface\
+    \ from changes that take place underground. There are different causes of land\
+    \ subsidence; most notably, ground-water overdraft and severe weather conditions.\
+    \ Subsidence of the land surface due to ground water overdraft is caused by an\
+    \ increase in the intergranular pressure in unconsolidated aquifers, which results\
+    \ in a loss of buoyancy of solid particles in the zone dewatered by the falling\
+    \ water table and accordingly compaction of the aquifer. On the other hand, exploitation\
+    \ of underground water may result in significant changes in degree of saturation\
+    \ of soil layers above the water table, increasing the effective stress in these\
+    \ layers, and considerable soil settlements. This study focuses on estimation\
+    \ of soil moisture at surface using different methods. Specifically, different\
+    \ methods for the estimation of moisture content at the soil surface, as an important\
+    \ term to solve Richard\u2019s equation and estimate soil moisture profile are\
+    \ presented, and their results are discussed through comparison with field measurements\
+    \ obtained from Yanco1 station in south-eastern Australia. Surface soil moisture\
+    \ is not easy to measure at the spatial scale of a catchment. Due to the heterogeneity\
+    \ of soil type, land use, and topography, surface soil moisture may change considerably\
+    \ in space and time."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-01-06'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1339676
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1339675
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Farid-F.-Mojtahedi:
+    individualname: S. Farid F. Mojtahedi
+    role: creator
+    organization: ''
+    url: ''
+  Ali-Khosravi:
+    individualname: Ali Khosravi
+    role: creator
+  Behnaz-Naeimian:
+    individualname: Behnaz Naeimian
+    role: creator
+    organization: ''
+    url: ''
+  S.-Adel-A.-Hosseini:
+    individualname: S. Adel A. Hosseini
+    role: creator
+    organization: ''
+    url: ''
+  Khosravi-Ali:
+    individualname: Khosravi, Ali
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

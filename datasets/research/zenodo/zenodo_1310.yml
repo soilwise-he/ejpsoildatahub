@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garcia_Pausas_2022
+  dataseturi: https://doi.org/10.1111/ejss.13290
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Post\u2010fire recovery of soil microbial functions is promoted by plant\
+    \ growth"
+  abstract: '&lt;p&gt;Forest fires can alter the biological properties of soils. There
+    is increasing evidence that fires cause a shift in soil microbial communities,
+    which play a central role in forest carbon and nutrient cycling. In this study,
+    we evaluate the effect of soil heating on soil microbial functions. We hypothesised
+    that fire reduces the catabolic functional diversity of soil, and that post-fire
+    plant&lt;br&gt;
+
+    growth enhances its recovery. To test this, we experimentally heated a forest
+    soil at 200C (T200) or 450C (T450). Heated and unheated soils were then incubated
+    in tubs with or without live grass (Lolium perenne L.). We determined the functional
+    profiles by measuring the substrate-induced respiration (SIR) using the Microresp&trade;
+    technique and analysed nutrient availability at the end of the incubation. At
+    both temperatures, soil heating altered the respiration responses to substrate
+    additions and the catabolic functional diversity of soils. Functional diversity
+    was initially reduced in T200 soils but recovered at the end of the incubation.
+    In contrast, T450 soils initially maintained the catabolic functional diversity,
+    but decreased at the end of the incubation. Heating induced nutrient availability
+    stimulated the growth of grass, which in turn increased the response to several
+    substrates and increased the functional diversity to values similar to the unheated
+    controls. Our results suggest that firedriven alteration of soil microbial communities
+    has consequences at a functional level, and that the recovery of plant communities
+    enhances the recovery of soil microbial functions.&lt;br&gt;
+
+    Highlights&lt;br&gt;
+
+    &bull; Soil experimental heating altered microbial functions and reduced soil
+    functional diversity.&lt;br&gt;
+
+    &bull; Soil heating also increased nutrient availability, enhancing plant growth.&lt;br&gt;
+
+    &bull; Growth of plants promoted the recovery of soil functional diversity.&lt;br&gt;
+
+    &bull; Post-fire recovery of functional diversity may be related to the recovery
+    of photosynthetic tissues.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - aboveground biomass
+      - forest fires
+      - catabolic functional diversity
+      - soil heating
+      - soil microbial functions
+      - substrate-induced respiration
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Post\u2010fire recovery of soil microbial functions is promoted by plant\
+      \ growth"
+    url: http://dx.doi.org/10.1111/ejss.13290
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Garcia-Pausas-Jordi:
+    individualname: "Garcia\u2010Pausas, Jordi"
+    role: creator
+  Romanya-Joan:
+    individualname: "Romany\xE0, Joan"
+    role: creator
+  Casals-Pere:
+    individualname: Casals, Pere
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

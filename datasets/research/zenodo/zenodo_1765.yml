@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8198670
+  dataseturi: https://doi.org/10.5281/zenodo.8198670
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'RISK ASSESSMENT OF LEAD IN SOIL: AN ALTERNATIVE APPROACH TO CALCULATE MAXIMUM
+    TOLERABLE LEVELS'
+  abstract: Based on the Soil Protection Act, the necessity of remediation is determined
+    on the basis of intervention values, which were arrived at by modelling the potential
+    risk that contaminated soil poses for humans and the ecosystem. The remediation
+    urgency is determined by means of a risk assessment that includes site-specific
+    information. According to this methodology, the diffuse contamination of urban
+    areas with lead may form an actual risk for young children. Critical examination
+    however showed that this outcome is based on conservative model assumptions. Using
+    an alternative approach based on a mass balance study of lead in children, it
+    was calculated that actual risks are only expected to occur at levels that are
+    higher than the Dutch intervention values.
+  keywords:
+    default:
+      keywords:
+        subject: Toxicology
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1995-11-03'
+    publication: '1995'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8198670
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8198669
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rob-Theelen:
+    individualname: Rob Theelen
+    role: creator
+  A.G.-Nijhof:
+    individualname: A.G. Nijhof
+    role: creator
+    organization: ''
+    url: ''
+  Theelen-Rob:
+    individualname: Theelen, Rob
+    role: ''
+    organization: ''
+    url: https://orcid.org/0009-0002-7397-2989
+content_info: {}

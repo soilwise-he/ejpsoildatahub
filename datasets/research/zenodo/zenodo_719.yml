@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Liu_2020
+  dataseturi: https://doi.org/10.1099/ijsem.0.003718
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Nocardioides vastitatis sp. nov., isolated from Taklamakan desert soil
+  abstract: 'Liu, Shao-Wei, Xue, Chun-Mei, Li, Fei-Na, Sun, Cheng-Hang (2020): Nocardioides
+    vastitatis sp. nov., isolated from Taklamakan desert soil. International Journal
+    of Systematic and Evolutionary Microbiology 70 (1): 77-82, DOI: 10.1099/ijsem.0.003718,
+    URL: http://dx.doi.org/10.1099/ijsem.0.003718'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Actinobacteria
+      - Actinobacteridae
+      - Actinomycetales
+      - Nocardioidaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Nocardioides vastitatis sp. nov., isolated from Taklamakan desert soil
+    url: http://dx.doi.org/10.1099/ijsem.0.003718
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Liu-Shao-Wei:
+    individualname: Liu, Shao-Wei
+    role: creator
+  Xue-Chun-Mei:
+    individualname: Xue, Chun-Mei
+    role: creator
+  Li-Fei-Na:
+    individualname: Li, Fei-Na
+    role: creator
+  Sun-Cheng-Hang:
+    individualname: Sun, Cheng-Hang
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

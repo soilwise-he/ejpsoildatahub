@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5900365
+  dataseturi: https://doi.org/10.5281/zenodo.5900365
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Open Soil Atlas paper
+  abstract: Article to describe the experience of the Open Soil Atlas project
+  keywords:
+    default:
+      keywords:
+        subject: Open Soil Atlas
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-01-25'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5900365
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5900364
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anna-Verones:
+    individualname: Anna Verones
+    role: creator
+  Verones-Anna:
+    individualname: Verones, Anna
+    role: ''
+    organization: Open Soil Atlas
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ALSTINE_1918
+  dataseturi: https://doi.org/10.1097/00010694-191810000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE MOVEMENT OF PLANT-FOOD WITHIN THE SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE MOVEMENT OF PLANT-FOOD WITHIN THE SOIL
+    url: http://dx.doi.org/10.1097/00010694-191810000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alstine-E.-Van:
+    individualname: Alstine, E. Van
+    role: creator
+  ALSTINE-E.-VAN:
+    individualname: ALSTINE, E. VAN
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

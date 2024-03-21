@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Matthews_1920
+  dataseturi: https://doi.org/10.1017/s0021859600005839
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The determination of ammonia in soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The determination of ammonia in soil
+    url: http://dx.doi.org/10.1017/s0021859600005839
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Matthews-Donald-J.:
+    individualname: Matthews, Donald J.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6424562
+  dataseturi: https://doi.org/10.5281/zenodo.6424562
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Application of Infrared Spectroscopy to Erodibility Studies of the Soil
+  abstract: Department of Chemistry, University of Allahabad, Allahabad <em>Manuscript
+    received 27 April 1973; accepted 21 June 1973</em> The IR-absorption spectra of
+    un-eroded and eroded soils of semi-desert, arid, semi-avid, sub-humid, Vindhyan
+    and Bundelkhand soil-climatic regions of Uttar Pradesh, India were taken by KBr-Mull
+    technique on Perkin-Elmer infra-red spectrophotometer. This technique has been
+    found useful in characterizing eroded and un-eroded soils and also in differentiating
+    more erodible soils from erosion resistant ones.
+  keywords:
+    default:
+      keywords:
+        subject: method
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1973-08-31'
+    publication: '1973'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6424562
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6424561
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SUBHASH-CHANDRA:
+    individualname: SUBHASH CHANDRA
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-DE:
+    individualname: S. K. DE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

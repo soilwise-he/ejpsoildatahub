@@ -1,0 +1,122 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5028181
+  dataseturi: https://doi.org/10.5281/zenodo.5028181
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Inter-kingdom networks of canola microbiome reveal Bradyrhizobium as keystone
+    species and underline the importance of bulk soil in microbial studies to enhance
+    canola production.
+  abstract: 'The plant subterranean microbiota is of great importance for plant growth
+    and health as root-associated microbes can express crucial ecological functions.
+    As the microbial environment of roots is extremely diverse, identifying keystones
+    microorganisms in roots, rhizosphere and bulk soil is a necessary step towards
+    understanding the network of influence within the microbial community associated
+    with canola roots and enhancing its beneficial elements. To extract these hots-spots
+    of microbial interaction, we used inter-kingdom network analysis on the canola
+    phase of a long-term cropping system diversification experiment conducted at four
+    locations in the Canadian prairies. We wanted to verify if: (1) the bacterial
+    and fungal microbiota of canola roots, rhizosphere and bulk soil were related
+    and influenced by diversification of the crop rotation system; (2) there are common
+    or specific core-fungi and bacteria in the roots, rhizosphere, and bulk soil under
+    canola grown in different environments and levels of cropping system diversification;
+    (3) we wanted to identify hub-taxa at inter-kingdom level that could play an important
+    ecological role in the microbiota of canola. Fungi were sensitive to crop diversification
+    but not bacteria. We found no core microbiota in canola roots but identified 3
+    core fungi in the rhizosphere, one core fungus in the bulk soil and one core bacterium
+    shared in the rhizosphere and bulk soil. We identified two bacterial and one fungal
+    hub-taxa in the inter-kingdom networks of canola rhizosphere and one bacterial
+    and two fungal hub-taxa in the bulk soil. Among these inter-kingdom hub-taxa,
+    <em>Bradyrhizobium sp</em>. and <em>Mortierella sp.</em> are particularly influential
+    on the microbial community and the plant. To our knowledge, this is the first
+    time that inter-kingdom network analysis is used to identify hot spots of interactions
+    in the microbial communities associated with canola.'
+  keywords:
+    default:
+      keywords:
+        subject: network analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-24'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5028181
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5028180
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jean-Baptiste-FLOC'H:
+    individualname: Jean-Baptiste FLOC'H
+    role: creator
+    organization: "1Institut de recherche en biologie v\xE9g\xE9tale, Universit\xE9\
+      \ de Montr\xE9al and Jardin Botanique de Montr\xE9al, 4101 East, Sherbrooke\
+      \ Street, Montr\xE9al QC, Canada H1X 2B2"
+    url: ''
+  Chantal-Hamel:
+    individualname: Chantal Hamel
+    role: creator
+  Mario-Laterriere:
+    individualname: "Mario Laterri\xE8re"
+    role: creator
+  Breanne-Tidemann:
+    individualname: Breanne Tidemann
+    role: creator
+  Mohamed-Hijri:
+    individualname: Mohamed Hijri
+    role: creator
+  Marc-St-Arnaud:
+    individualname: Marc St-Arnaud
+    role: creator
+  Hamel-Chantal:
+    individualname: Hamel, Chantal
+    role: ''
+    organization: Quebec Research and Development Centre, Agriculture and Agri-Food
+      Canada, Quebec City, QC, Canada
+    url: ''
+  Laterriere-Mario:
+    individualname: "Laterri\xE8re, Mario"
+    role: ''
+    organization: 2Quebec Research and Development Centre, Agriculture and Agri-Food
+      Canada, Quebec City, QC, Canada
+    url: ''
+  Tidemann-Breanne:
+    individualname: Tidemann, Breanne
+    role: ''
+    organization: 3Lacombe Research and Development Centre, Agriculture and Agri-Food
+      Canada, Lacombe, AB, Canada
+    url: ''
+  Hijri-Mohamed:
+    individualname: Hijri, Mohamed
+    role: ''
+    organization: "1Institut de recherche en biologie v\xE9g\xE9tale, Universit\xE9\
+      \ de Montr\xE9al and Jardin Botanique de Montr\xE9al, 4101 East, Sherbrooke\
+      \ Street, Montr\xE9al QC, Canada H1X 2B2"
+    url: ''
+  St-Arnaud-Marc:
+    individualname: St-Arnaud, Marc
+    role: ''
+    organization: "1Institut de recherche en biologie v\xE9g\xE9tale, Universit\xE9\
+      \ de Montr\xE9al and Jardin Botanique de Montr\xE9al, 4101 East, Sherbrooke\
+      \ Street, Montr\xE9al QC, Canada H1X 2B2"
+    url: ''
+content_info: {}

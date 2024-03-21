@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10007298
+  dataseturi: https://doi.org/10.5281/zenodo.10007298
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Uncertainty of geotechnical parameters in heterogeneous spoil deposits of
+    finegrained soil materials from lignite mines
+  abstract: This work focuses on the geotechnical characterization of spoil materials
+    from Greek lignite mines and presents the statistical analysis, the probabilistic
+    distributions and the spatial variability of their basic engineering properties.
+    A database of laboratory test results was established, and the mean, median and
+    characteristic values and coefficients of variation are provided. In addition,
+    the geotechnical properties were analyzed to determine the appropriate statistical
+    distribution. Finally, the spatial variability of the spoils' properties was quantified
+    and the scale of variation for the vertical and horizontal directions was obtained.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10007298
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10007297
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Theocharis-Alexandros-I.:
+    individualname: Theocharis, Alexandros I.
+    role: creator
+    organization: ''
+    url: 0000-0002-1989-1195
+  Zevgolis-Ioannis-E.:
+    individualname: Zevgolis, Ioannis E.
+    role: creator
+    organization: ''
+    url: 0000-0002-2351-8692
+  Roumpos-Christos:
+    individualname: Roumpos, Christos
+    role: creator
+    organization: Public Power Corporation (Greece)
+    url: 0000-0001-9394-8041
+  Koukouzas-Nikolaos-C.:
+    individualname: Koukouzas, Nikolaos C.
+    role: creator
+    organization: ''
+    url: 0000-0002-7094-3712
+content_info: {}

@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8329154
+  dataseturi: https://doi.org/10.5281/zenodo.8329154
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Ultrasonic P- and S-Wave Reflection and CPT Soundings for Measuring Shear
+    Strength in Soil Stabilized by Deep Lime/Cement Columns in Stockholm Norvik Port
+  abstract: In this research project, the measurements of the ultrasonic P- and S-waves
+    and seismic cone penetration testing (CPT) were applied to identify subsurface
+    conditions and properties of clayey soil stabilized with lime/cement columns in
+    the Stockholm Norvik Port, Sweden. Applied geophysical methods enabled to identify
+    a connection between the resistance of soil and strength in the stabilized columns.
+    The records of the seismic tests were obtained in the laboratory of Swedish Geotechnical
+    Institute (SGI) through estimated P- and S-wave velocities using techniques of
+    resonance frequency measurement of the stabilized specimens. The CPT profiles
+    were used to evaluate the quality of the lime/cement columns of the reinforced
+    soil by the interpretation of signals. The relationship between the P- and S-waves
+    demonstrated a gain in strength during soil hardening. The quality of soil was
+    evaluated by seismic measurements with aim to achieve sufficient strength of foundations
+    prior to the construction of the infrastructure objects and industrial works.
+    Seismic CPT is an effective method essential to evaluate the correct placement
+    of the CPT inside the column. This work demonstrated the alternative seismic methods
+    supporting the up-hole technology of drilling techniques for practical purpose
+    in civil engineering and geotechnical works.
+  keywords:
+    default:
+      keywords:
+        subject: geotechnical engineering
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-26'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8329154
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.24425/aoa.2023.145243
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.8186406
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Per-Lindh:
+    individualname: Per Lindh
+    role: creator
+  Polina-Lemenkova:
+    individualname: Polina Lemenkova
+    role: creator
+  Lindh-Per:
+    individualname: Lindh, Per
+    role: ''
+    organization: Division of Building Materials, Department of Building and Environmental
+      Technology, Faculty of Engineering (LTH), Lund University
+    url: https://orcid.org/0000-0002-0577-9936
+  Lemenkova-Polina:
+    individualname: Lemenkova, Polina
+    role: ''
+    organization: "Laboratory of Image Synthesis and Analysis (LISA), \xC9cole Polytechnique\
+      \ de Bruxelles (Brussels Faculty of Engineering), Universit\xE9 Libre de Bruxelles\
+      \ (ULB)"
+    url: https://orcid.org/0000-0002-5759-1089
+content_info: {}

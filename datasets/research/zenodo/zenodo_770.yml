@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hoback_2020
+  dataseturi: https://doi.org/10.1649/0010-065X-74.2.427
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Burying Beetle (Coleoptera: Silphidae: Nicrophorus Fabricius) Brooding Improves
+    Soil Fertility'
+  abstract: 'Hoback, W. Wyatt, Freeman, Lexi, Payton, Mark, Peterson, Brian C. (2020):
+    Burying Beetle (Coleoptera: Silphidae: Nicrophorus Fabricius) Brooding Improves
+    Soil Fertility. The Coleopterists Bulletin 74 (2): 427-433, DOI: 10.1649/0010-065X-74.2.427,
+    URL: http://dx.doi.org/10.1649/0010-065x-74.2.427'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Burying Beetle (Coleoptera: Silphidae: Nicrophorus Fabricius) Brooding
+      Improves Soil Fertility'
+    url: http://dx.doi.org/10.1649/0010-065X-74.2.427
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hoback-W.-Wyatt:
+    individualname: Hoback, W. Wyatt
+    role: creator
+  Freeman-Lexi:
+    individualname: Freeman, Lexi
+    role: creator
+  Payton-Mark:
+    individualname: Payton, Mark
+    role: creator
+  Peterson-Brian-C.:
+    individualname: Peterson, Brian C.
+    role: creator
+  Coleopterists-Society:
+    individualname: Coleopterists Society
+    role: creator
+content_info: {}

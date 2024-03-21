@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5168329
+  dataseturi: https://doi.org/10.5281/zenodo.5168329
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative analysis of linear dynamic responses and undamped systems of
+    soil-pile-footing interaction for various soil media
+  abstract: It is seen from recent earthquakes that in case of fixed-base foundation
+    system, damped systems have proved to be longing the lifespan of the structure
+    by lengthening the lateral fundamental period that leads to higher damping in
+    comparison to the assumptions of a fixed-base system. In this study, to better
+    understand the phenomenon involved in soil-pile interaction a finite element simulation
+    model is developed in Abaqus FEA software. The numerical model made for transient
+    analysis follows Rayleigh's Damping Coefficient model for material damping. In
+    this paper, a rational analysis of Dynamic Response of a Short-Bored Pile is made
+    subject to axial load by the Finite Element Method. The analysis is performed
+    using finite element Abaqus CAE software. The Soil media is developed for sand
+    soil and clay soil with pile material as Mild Steel and RCC, and analysis is made
+    for the combination of each material group with the incremental axial load. The
+    same FE model is studied for damped material used in piles which results in a
+    drastic change in displacement pattern.
+  keywords:
+    default:
+      keywords:
+        subject: Friction Soils; Cohesive Soil; Mohr-Coulomb; Abaqus CAE; Damping
+          Response; Soil-Pile System
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5168329
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5168328
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Meghna-Pathak:
+    individualname: Meghna Pathak
+    role: creator
+    organization: Department of Civil Engineering, Mahakal Institute of Technology
+      and Management, Ujjain M.P. India.
+    url: ''
+  Ravindra-Pathak:
+    individualname: Ravindra Pathak
+    role: creator
+    organization: Department of Civil Engineering, Ujjain Engineering College, Ujjain
+      M.P. India.
+    url: ''
+  Jagdish-Narayan-Vyas:
+    individualname: Jagdish Narayan Vyas
+    role: creator
+  Vyas-Jagdish-Narayan:
+    individualname: Vyas, Jagdish Narayan
+    role: ''
+    organization: Department of Civil Engineering, Mahakal Institute of Technology
+      and Management, Ujjain M.P. India.
+    url: ''
+content_info: {}

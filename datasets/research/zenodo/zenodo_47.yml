@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Peloff_1916
+  dataseturi: https://doi.org/10.1097/00010694-191606000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF SOIL REACTION ON AMMONIFICATION BY CERTAIN SOIL FUNGI
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF SOIL REACTION ON AMMONIFICATION BY CERTAIN SOIL FUNGI
+    url: http://dx.doi.org/10.1097/00010694-191606000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peloff-Nicholas:
+    individualname: Peloff, Nicholas
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

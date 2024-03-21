@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: MCLEAN_1914
+  dataseturi: https://doi.org/10.1126/science.40.1021.140-a
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: AMMONIFYING POWER OF SOIL-INHABITING FUNGI
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: AMMONIFYING POWER OF SOIL-INHABITING FUNGI
+    url: http://dx.doi.org/10.1126/science.40.1021.140-a
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mclean-H.-C.:
+    individualname: Mclean, H. C.
+    role: creator
+  Wilson-G.-W.:
+    individualname: Wilson, G. W.
+    role: creator
+  MCLEAN-H.-C.:
+    individualname: MCLEAN, H. C.
+    role: creator
+  WILSON-G.-W.:
+    individualname: WILSON, G. W.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

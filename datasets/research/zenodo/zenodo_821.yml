@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7006546
+  dataseturi: https://doi.org/10.5281/zenodo.7006546
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Rice Hull Ash Applied to Soil Reduces Leaf Blast Incidence
+  abstract: This article 'Rice Hull Ash Applied to Soil Reduces Leaf Blast Incidence'
+    appeared in the International Rice Research Notes series, created by the International
+    Rice Research Institute (IRRI) to expedite communication among scientists concerned
+    with the development of improved technology for rice and rice-based systems. The
+    series is a mechanism to help scientists keep each other informed of current rice
+    research findings. The concise scientific notes are meant to encourage rice scientists
+    to communicate with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Ash
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1995-09-01'
+    publication: '1995'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7006546
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7006545
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kumbhar-C.-T.:
+    individualname: Kumbhar, C. T.
+    role: creator
+    organization: ''
+    url: ''
+  Nevase-A.-G.:
+    individualname: Nevase, A. G.
+    role: creator
+    organization: ''
+    url: ''
+  Savant-N.-K.:
+    individualname: Savant, N. K.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

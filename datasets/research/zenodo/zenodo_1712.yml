@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7777268
+  dataseturi: https://doi.org/10.5281/zenodo.7777268
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Performance of Laterite soil used as an adsorbent for the removal of heavy
+    metals.
+  abstract: Assistant Professor, Civil Engineering Department, Haldia Institute of
+    Technology, Hatiberia, Haldia, Purba Medinipur-721657, India Associate Professor,
+    Civil Engineering Department, Haldia Institute of Technology, Hatiberia, Haldia,
+    Purba Medinipur-721657, India <em>E-mail</em>:saikatat@gmail.com,bijolimondal15@gmail.com
+    Our society is very concerned about the rising levels of soil and ground water
+    pollution brought on by anthropogenic percolation of heavy metals. Concentration
+    of heavy metals are the major concern for the environment as they are toxic and
+    non-biodegradable and having their high potential to pollute surface as well as
+    underground water. Heavy Metals make the water unfit for plants and humans. It
+    is discharged straight from zinc processing units, dyeing industries, galvanizing
+    industries, and metal industries. etc. Different removal processes are applied
+    to separate heavy metals from the effluents like phase separation, reverse osmosis,
+    evaporation etc. However, these processes have some demerits, including a high
+    reagent demand, erratic metal ion removal, the production of toxic sludge, etc.
+    In this study, we have used adsorption process because it is easy to handle and
+    simplicity and low cost. The research work is to determine the performance of
+    laterite soil used as an adsorbent for removal of Zn &amp; Cu. To evaluate the
+    adsorption capacity of soil, adsorption isotherms and kinetic studies were carried
+    out at different starting concentrations of adsorbate (5, 10 mg L<sup>-1</sup>)
+    at a constant pH of 8, with varied adsorbent doses (5, 10 g L<sup>-1</sup>), and
+    an equilibrium contact period of 120 minutes. The adsorbent capacity of the adsorption
+    process was determined using the linear, Langmuir, and Freundlich isotherm models.
+    The Langmuir isotherm at a soil dose of 5.0 g L<sup>-1</sup> best matched the
+    results of the Zn adsorption test, with R<sup>2</sup>=0.922 and RMSE=0.000962.
+    Similar patterns were revealed by the results of a Cu adsorption test with adsorbent
+    dose of 5 g L<sup>-1 </sup>having R<sup>2</sup>=0.989 and RMSE=0.000588.
+  keywords:
+    default:
+      keywords:
+        subject: laterite soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-02-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7777268
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7777267
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saikat-Shome:
+    individualname: Saikat Shome
+    role: creator
+    organization: ''
+    url: ''
+  Bijoli-Mondal:
+    individualname: Bijoli Mondal
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

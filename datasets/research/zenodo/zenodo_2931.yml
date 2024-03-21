@@ -1,0 +1,127 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3420213
+  dataseturi: https://doi.org/10.5281/zenodo.3420213
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: 'From soil surveys to archaeological sites and beyond: research strategies
+    and original approaches for interpreting soils, anthropic activity, and environmental
+    changes'
+  abstract: "Brief summary: This paper is the introduction chapter of the book:<br>\
+    \ <strong>Soils as records of past and Present. From soil surveys to archaeological\
+    \ sites: research strategies for interpreting soil characteristics.</strong> Proceedings\
+    \ of the Geoarchaeological Meeting Bruges (Belgium), 6 &amp; 7 November, 2019.\
+    \ Raakvlak, Bruges. Judit De\xE1k, Carole Ampe, and Jari Hinsch Mikkelsen (Eds.).\
+    \ Publisher: Raakvlak, Archaeology, Monuments and Landscapes of Bruges and Hinterland,\
+    \ Belgium , www.raakvlak.be <strong>ISBN 978 90 76297 811</strong> The importance\
+    \ of soil science in various research fields has increased tremendously over the\
+    \ past decades. Soils are among the most fundamental elements that support life\
+    \ on Earth. They provide numerous ecosystem services and document past environments\
+    \ and cultural heritage. Many renowned scholars contributed to this understanding;\
+    \ amongst them Roger Langohr. For more than 50 years he has been an international\
+    \ authority within various fields of soil science research and as such he contributed\
+    \ substantially to the improvement of interdisciplinary research strategies. His\
+    \ holistic approach on understanding the book of nature through field observations\
+    \ of soils has inspired researchers from far beyond the borders of Belgium. Those\
+    \ who had the privilege to follow his lectures or collaborate with him have learned\
+    \ that to understand soils, one has to start in the field by observing the soil\
+    \ characteristics, by drawing them, and by recording their vertical and horizontal\
+    \ variability. Additionally, profiles should (always) be made very deep and wide\
+    \ (deeper and wider than they are often dug) to overcome local variability. One\
+    \ also needs to face the complexity and be aware of the fact that the absence\
+    \ of features is as important as their presence. We were also taught that soils\
+    \ have to be studied on various scales, from a macro to a micro scale , passing\
+    \ through mesoscale. Each soil profile can be considered as a page in the book\
+    \ of the history of the larger soilscape. Thus, in order to understand the whole\
+    \ story, one needs to read all the pages and chapters. With this book, we would\
+    \ like to pay honour to all the scientific contribution of Roger Langohr, who\
+    \ manages to fascinate, motivate and promote scientists that are active in various\
+    \ research fields and come from all parts of the world. In the past few decades,\
+    \ soil science has contributed greatly to discussions on climatic and environmental\
+    \ changes, as well as to the understanding of various topics of human impact on\
+    \ landscapes and the environment. This book aims to address these complex issues\
+    \ and demonstrate how they are approached and unravelled through past and current\
+    \ interdisciplinary research. The twenty-one papers composing this book address\
+    \ a broad range of subjects and cover a wide geographical scope: soils and related\
+    \ questions from Belgium, France, Hungary, Luxembourg, Spain, and Switzerland\
+    \ are presented. These contributions testify that an interdisciplinary approach,\
+    \ since long advocated by Roger Langohr, works well and proves it to be a successful\
+    \ tactic. This book is the result of a participative international project that\
+    \ took place between December 2018 and November 2019. Organising and meeting and\
+    \ publishing a book for the day of the meeting in less than one year was only\
+    \ possible thanks to the strong motivation and dedication of not only the organisers,\
+    \ but also of all the contributors and reviewers. Despite the considerable extra\
+    \ working load, the authors and co-authors of the papers in this book managed\
+    \ to write and submit their contributions in record time. They were also asked\
+    \ to assume not only the scientific and copyrights responsibility of their work,\
+    \ but also the verification of content and formatting of bibliographic data included.\
+    \ The 14 scientific reviewers played a crucial role in the accomplishment of this\
+    \ publication. Their constructive remarks and suggestions contributed generously\
+    \ to the scientific quality of the papers, while their rapid feedback and interactions\
+    \ were decisive in meeting the deadline and having all the papers in the book.\
+    \ This book is not only a printed document. It is also a collection of a freely\
+    \ available (open access) documents. All of them have an individual digital object\
+    \ identifier (doi, indicated on each paper) and are hosted by the non-commercial\
+    \ depository archive (Zenodo). Moreover, the authors keep the copyright of their\
+    \ contribution. The online contributions are distributed under the Creative Commons\
+    \ Attribution Share Alike, 4.0 License (CC-BY-SA)."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-11-07'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3420213
+    type: WWW:LINK
+    title: IsDerivedFrom
+  r1:
+    url: https://doi.org/10.5281/zenodo.3420212
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Publisher-Raakvlak-Archaeology-Monuments:
+    individualname: Publisher Raakvlak Archaeology, Monuments
+    role: creator
+  Landscapes-of-Bruges:
+    individualname: Landscapes of Bruges
+    role: creator
+  Hinterland-Belgium--www.raakvlak.be:
+    individualname: Hinterland, Belgium , www.raakvlak.be
+    role: creator
+  Deak-Judit:
+    individualname: "De\xE1k, Judit"
+    role: creator
+    organization: 4terres, Switzerland
+    url: https://orcid.org/0000-0001-9802-9394
+  Ampe-Carole:
+    individualname: Ampe, Carole
+    role: creator
+    organization: Vlaamse Landmaatschappij, regio West, Belgium
+    url: ''
+  Mikkelsen-Hinsch-Jari:
+    individualname: Mikkelsen Hinsch, Jari
+    role: creator
+    organization: Raakvlak, Archaeology, Monuments and Landscapes of Bruges and Hinterland,
+      Belgium
+    url: https://orcid.org/0000-0002-4189-8879
+content_info: {}

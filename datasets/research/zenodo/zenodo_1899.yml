@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: B_net_2017
+  dataseturi: https://doi.org/10.1016/j.gete.2016.09.001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Chemical potential of a two-component liquid in porous media: The case of
+    unsaturated soil'
+  abstract: "&lt;p&gt;The aim of this paper is to propose a method to determine the\
+    \ chemical potential of two miscible components of a solution in porous media,\
+    \ particularly in the case of an unsaturated soil. It is limited to the capillary\
+    \ state; the equilibrium of the liquid phase in the soil is determined by gas\u2013\
+    liquid interfaces whose geometry obeys Laplace's law. Deduction of the chemical\
+    \ potential of the two components from the chemical potential of pure water is\
+    \ based on the assumption that, for the same volume occupied by the fluid phase\
+    \ in the porous medium, the geometry of the fluid phase is independent of the\
+    \ composition of the solution. The expressions of the chemical potentials of the\
+    \ two components were established. They show the superposition of two effects:\
+    \ the effect of interfacial forces and the effect of the presence of the other\
+    \ component. A study of the water\u2013alcohol solution in a clayey silty sand\
+    \ soil was then conducted to alcohol mole fractions between 0 and 0.15 and water\
+    \ content in the 5%\u201315% range. In this field, the chemical potential of the\
+    \ water was seen to be affected by the capillary effects below a water content\
+    \ of 10%. Above that, its variation as a function of the mole fraction of alcohol\
+    \ differed little from that of the potential of the water in a free solution.\
+    \ The chemical potential of the alcohol was little affected by the capillary effects.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Chemical potential of a two-component liquid in porous media: The case
+      of unsaturated soil'
+    url: http://dx.doi.org/10.1016/j.gete.2016.09.001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Benet-Jean-Claude:
+    individualname: Benet, Jean-Claude
+    role: creator
+  Jamin-Frederic:
+    individualname: "Jamin, Fr\xE9d\xE9ric"
+    role: creator
+  El-Youssoufi-Moulay-Said:
+    individualname: "El Youssoufi, Moulay Sa\xEFd"
+    role: creator
+  Benet-J.C.:
+    individualname: "B\xE9net, J.C."
+    role: creator
+  Jamin-F.:
+    individualname: Jamin, F.
+    role: creator
+  El-Youssoufi-M.S.:
+    individualname: El Youssoufi, M.S.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

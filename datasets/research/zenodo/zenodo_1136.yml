@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Greenan_1995
+  dataseturi: https://doi.org/10.1080/00103629509369465
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A microscale method for colorimetric determination of urea in soil extracts
+  abstract: "The diacetyl monoxime colorimetric method of determining urea in soil\
+    \ extracts was modified for microplate format. A 100\u2010\u03BCL aliquot of extract\
+    \ was treated with color reagent in a disposable plastic microtiter plate (96\
+    \ wells/plate), and color was developed by heating the plate in a low\u2010temperature\
+    \ oven at 87\xB0C for 55 min. After cooling for 20 min at ambient temperature,\
+    \ absorbance measurements were simultaneously performed on all 96 wells using\
+    \ a microplate reader. The microscale method was faster and more convenient than\
+    \ the conventional method; moreover, the volume of waste was markedly reduced.\
+    \ Studies to compare the two methods showed very little difference in accuracy,\
+    \ precision, or sensitivity."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A microscale method for colorimetric determination of urea in soil extracts
+    url: http://dx.doi.org/10.1080/00103629509369465
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Greenan-N.-S.:
+    individualname: Greenan, N. S.
+    role: creator
+  Mulvaney-R.-L.:
+    individualname: Mulvaney, R. L.
+    role: creator
+  Sims-G.-K.:
+    individualname: Sims, G. K.
+    role: creator
+  Greenan-N.S.:
+    individualname: Greenan, N.S.
+    role: creator
+  Mulvaney-R.L.:
+    individualname: Mulvaney, R.L.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

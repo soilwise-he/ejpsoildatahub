@@ -1,0 +1,131 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yuzevych_2019
+  dataseturi: https://doi.org/10.15587/1729-4061.2019.174488
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Improving the diagnostics of underground pipelines at oil\xADand\xADgas\
+    \ enterprises based on determining hydrogen exponent (PH) of the soil media applying\
+    \ neural networks"
+  abstract: '&lt;p&gt;A set of key parameters and information flows has been formed
+    to simulate stages of probing the outside surface of underground metal pipelines
+    (UMP) taking into account pH of the soil contacting with the pipe metal.&lt;/p&gt;
+
+
+    &lt;p&gt;Specimens of 17G1S steel placed in acid, alkaline and neutral media were
+    examined using a polarization potential meter in a complex with a contactless
+    current meter. Principles of application of neural networks (NN) in processing
+    experimental results were formulated. A database has been developed. It meets
+    the initial conditions for controlling the soil pH at the boundary with the metal
+    under real conditions.&lt;/p&gt;
+
+
+    &lt;p&gt;Elements of the optimization approach for assessing pH of a coated UMP
+    in the soil medium were proposed. The approach is based on the multiplicative
+    qualimetric criterion of quality for the UMP section taking into account two groups
+    of coefficients. The first group of coefficients refers to the internal coefficients
+    and characterizes the metal pipeline and the second group refers to the external
+    medium (i.e., soil electrolyte). Elements of the optimization approach for assessing
+    pH of the coated pipeline in the soil medium were proposed.&lt;/p&gt;
+
+
+    &lt;p&gt;An NN was presented for the &quot;pipeline-coating&quot; system, which:&lt;/p&gt;
+
+
+    &lt;p&gt;1)&nbsp;is capable of solving the problem of cluster analysis and image
+    classification;&lt;/p&gt;
+
+
+    &lt;p&gt;2)&nbsp;makes it possible to process data without their prior spectral
+    transformation operating with discrete counts of information signals.&lt;/p&gt;
+
+
+    &lt;p&gt;The proposed NN type allows it to dynamically expand its own knowledge
+    base of possible types of defects in controlled objects (pipelines) in the process
+    of operation. With the help of the NN, soil pH was assessed for an UMP of 17G1S
+    steel for three situations.&lt;/p&gt;
+
+
+    &lt;p&gt;The above information is important for improving the methods for controlling
+    oil-and-gas enterprise UMPs, in particular, the methods for a correct assessment
+    of anode current density in metal defects taking into account nonlinear character
+    of informative parameters.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - underground pipelines
+      - oil-and-gas enterprises
+      - corrosion currents
+      - polarization potential
+      - hydrogen exponent
+      - neural network
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Improving the diagnostics of underground pipelines at oil\xADand\xADgas\
+      \ enterprises based on determining hydrogen exponent (PH) of the soil media\
+      \ applying neural networks"
+    url: http://dx.doi.org/10.15587/1729-4061.2019.174488
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Larysa-Yuzevych:
+    individualname: Larysa Yuzevych
+    role: creator
+  Ruslan-Skrynkovskyy:
+    individualname: Ruslan Skrynkovskyy
+    role: creator
+  Volodymyr-Yuzevych:
+    individualname: Volodymyr Yuzevych
+    role: creator
+  Vitalii-Lozovan:
+    individualname: Vitalii Lozovan
+    role: creator
+  Grzegorz-Pawlowski:
+    individualname: Grzegorz Pawlowski
+    role: creator
+  Mykhailo-Yasinskyi:
+    individualname: Mykhailo Yasinskyi
+    role: creator
+  Ihor-Ogirko:
+    individualname: Ihor Ogirko
+    role: creator
+  Yuzevych-Larysa:
+    individualname: Yuzevych, Larysa
+    role: creator
+  Skrynkovskyy-Ruslan:
+    individualname: Skrynkovskyy, Ruslan
+    role: creator
+  Yuzevych-Volodymyr:
+    individualname: Yuzevych, Volodymyr
+    role: creator
+  Lozovan-Vitalii:
+    individualname: Lozovan, Vitalii
+    role: creator
+  Pawlowski-Grzegorz:
+    individualname: Pawlowski, Grzegorz
+    role: creator
+  Yasinskyi-Mykhailo:
+    individualname: Yasinskyi, Mykhailo
+    role: creator
+  Ogirko-Ihor:
+    individualname: Ogirko, Ihor
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

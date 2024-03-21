@@ -1,0 +1,167 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Rossi_2017
+  dataseturi: https://doi.org/10.1016/j.ecoleng.2017.08.010
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Sensitivity of the landslide model LAPSUS_LS to vegetation and soil parameters
+  abstract: '&lt;p&gt;The influence of vegetation on slope stability is well understood
+    at the slope level but scaling up to the catchment&lt;br&gt;
+
+    level is still a challenge, partially because of a lack of suitable data to validate
+    models. We tested the physical&lt;br&gt;
+
+    landslide model, LAPSUS_LS, which models slope stability at the catchment scale.
+    LAPSUS_LS combines a hydrological&lt;br&gt;
+
+    model with a Limit Equilibrium Method model, and calculates the factor of safety
+    of individual cells&lt;br&gt;
+
+    based on their hydrological and geomorphological characteristics. We tested two
+    types of vegetation on slope&lt;br&gt;
+
+    stability: (i) coffee monoculture (Coffea arabica) and (ii) a mixed plantation
+    of coffee and deep rooting Erythrina&lt;br&gt;
+
+    (Erythrina poeppigiana) trees. Using soil and root data from Costa Rica, we performed
+    simulations to test the&lt;br&gt;
+
+    response of LAPSUS_LS to root reinforcement, soil bulk density, transmissivity,
+    internal friction angle and depth&lt;br&gt;
+
+    of shear plane. Furthermore, we modified the model to include biomass surcharge
+    effect in the calculations.&lt;br&gt;
+
+    Results show that LAPSUS_LS was most sensitive to changes in additional cohesion
+    from roots. When the depth of&lt;br&gt;
+
+    the shear plane was fixed at 1.0 m, slopes were not unstable. However, when the
+    shear plane was fixed to 1.5 m,&lt;br&gt;
+
+    the mixed plantation of coffee and trees stabilized slopes, but the coffee monoculture
+    was highly unstable,&lt;br&gt;
+
+    because root reinforcement was low at a depth of 1.5 m. Soil transmissivity had
+    a limited impact on the results&lt;br&gt;
+
+    compared to bulk density and internal friction angle. Biomass surcharge did not
+    have any significant effect on&lt;br&gt;
+
+    the simulations. In conclusion, LAPSUS_LS responded well to the soil and vegetation
+    input data, and is a suitable&lt;br&gt;
+
+    candidate for modeling the stability of vegetated slopes at the catchment level.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Modeling
+      - Cohesion
+      - Roots
+      - Soil
+      - Transmissivity
+      - Bulk density
+      - Slope stability
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Sensitivity of the landslide model LAPSUS_LS to vegetation and soil parameters
+    url: http://dx.doi.org/10.1016/j.ecoleng.2017.08.010
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lorenzo-MW-Rossi:
+    individualname: Lorenzo MW Rossi
+    role: creator
+  Bruno-Rapidel:
+    individualname: Bruno Rapidel
+    role: creator
+  Olivier-Roupsard:
+    individualname: Olivier Roupsard
+    role: creator
+  Mario-Villatoro-Sanchez:
+    individualname: Mario Villatoro-Sanchez
+    role: creator
+  Zhun-Mao:
+    individualname: Zhun Mao
+    role: creator
+  Jerome-Nespolous:
+    individualname: Jerome Nespolous
+    role: creator
+  Jerome-Perez:
+    individualname: Jerome Perez
+    role: creator
+  Ivan-Prieto:
+    individualname: Ivan Prieto
+    role: creator
+  Catherine-Roumet:
+    individualname: Catherine Roumet
+    role: creator
+  Klaas-Metselaar:
+    individualname: Klaas Metselaar
+    role: creator
+  Jerome-Schoorl:
+    individualname: Jerome Schoorl
+    role: creator
+  Lieven-Claessens:
+    individualname: Lieven Claessens
+    role: creator
+  Alexia-Stokes:
+    individualname: Alexia Stokes
+    role: creator
+  Rossi-L.M.W.:
+    individualname: Rossi, L.M.W.
+    role: creator
+  Rapidel-B.:
+    individualname: Rapidel, B.
+    role: creator
+  Roupsard-O.:
+    individualname: Roupsard, O.
+    role: creator
+  Villatoro-sanchez-M.:
+    individualname: "Villatoro-s\xE1nchez, M."
+    role: creator
+  Mao-Z.:
+    individualname: Mao, Z.
+    role: creator
+  Nespoulous-J.:
+    individualname: Nespoulous, J.
+    role: creator
+  Perez-J.:
+    individualname: Perez, J.
+    role: creator
+  Prieto-I.:
+    individualname: Prieto, I.
+    role: creator
+  Roumet-C.:
+    individualname: Roumet, C.
+    role: creator
+  Metselaar-K.:
+    individualname: Metselaar, K.
+    role: creator
+  Schoorl-J.M.:
+    individualname: Schoorl, J.M.
+    role: creator
+  Claessens-L.:
+    individualname: Claessens, L.
+    role: creator
+  Stokes-A.:
+    individualname: Stokes, A.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

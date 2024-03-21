@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7583171
+  dataseturi: https://doi.org/10.5281/zenodo.7583171
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'SOIL ORGANIC CARBON MODELLING: A REVIEW'
+  abstract: "Organic carbon is one of the major components in the soil matrix. Due\
+    \ to ceaseless reactions (physical and chemical and biological), which define\
+    \ the soil\u2019s efficiency and characteristics. The use of conventional nonrenewable\
+    \ energy sources produces greenhouse gas resulting in global warming. Global warming\
+    \ is a major concern for many scientists as this is heading toward climate change\
+    \ resulting in dynamic changes in soil organic carbon stock. To control the alarming\
+    \ increase of greenhouse gas in our atmosphere we need to understand the dynamics\
+    \ and modeling of soil organic carbon. In present days continuous, monotonous\
+    \ conventional cropping method is the reason for the loss of soil organic carbon\
+    \ from the soil, a prominent reason for soil degradation and desertification.\
+    \ Proper knowledge of soil organic carbon dynamics helps us to manage our agronomical\
+    \ field and go towards sustainable agriculture"
+  keywords:
+    default:
+      keywords:
+        subject: Carbon Pool, Caron Flux, Soil Organic Carbon, Global Warming and
+          Climate Change, Soil Organic Carbon Model
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7583171
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7583170
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tirtharaj-Patra:
+    individualname: Tirtharaj Patra
+    role: creator
+  Princy-Thakur:
+    individualname: Princy Thakur
+    role: creator
+    organization: ''
+    url: ''
+  Meraj-Ahmed:
+    individualname: Meraj Ahmed
+    role: creator
+    organization: ''
+    url: ''
+  Raghunandan-Singh-Khatana:
+    individualname: Raghunandan Singh Khatana
+    role: creator
+    organization: ''
+    url: ''
+  Patra-Tirtharaj:
+    individualname: Patra, Tirtharaj
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-5356-8885
+content_info: {}

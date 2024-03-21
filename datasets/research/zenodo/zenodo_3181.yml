@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10061576
+  dataseturi: https://doi.org/10.5281/zenodo.10061576
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Reconstruction of root zone soil moisture according to the data from passive
+    microwave radiometer and machine learning in the arid steppe region of Southern
+    Western Siberia
+  abstract: "Our study focuses on reconstruction root zone soil moisture (RZSM) in\
+    \ the Kulunda plain, a representative dry steppe area in southern Western Siberia,\
+    \ using remote sensing data (RSD) and machine learning techniques. We employed\
+    \ modern machine learning methods with soil surface layer moisture data from the\
+    \ AMSR2 passive microwave radiometer as the primary predictor. Additionally, we\
+    \ incorporated data from local meteorological and soil hydrological stations,\
+    \ as well as gravity lysimeter data for 2015\u20132017. This choice of predictors\
+    \ was based on the extensive time series of continuous observations and the availability\
+    \ of selected meteorological parameters. Among the machine learning models we\
+    \ evaluated, Random Forest (RF) and Extreme Gradient Boosting (XGW) yielded the\
+    \ best results, achieving statistical metrics of R-squared (R2) values of 0.96\
+    \ and 0.94, respectively, with corresponding root mean square error (RMSE) values\
+    \ of 0.34 and 0.41."
+  keywords:
+    default:
+      keywords:
+        subject: Western Siberia
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-04'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10061576
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10061575
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Altai-State-University:
+    individualname: Altai State University
+    role: creator
+  Bondarovich-Andrei-A.:
+    individualname: Bondarovich, Andrei A.
+    role: creator
+    organization: Altai State University, 61 Lenin Ave., Barnaul, 656049, Russia
+    url: 0000-0001-9326-642X
+  Mordvin-Egor-Yu.:
+    individualname: Mordvin, Egor Yu.
+    role: creator
+    organization: Altai State University, 61 Lenin Ave., Barnaul, 656049, Russia
+    url: ''
+  Pochyomin-Nikita-M.:
+    individualname: Pochyomin, Nikita M.
+    role: creator
+    organization: Altai State University, 61 Lenin Ave., Barnaul, 656049, Russia
+    url: ''
+  Lagutin-Anatoly-A.:
+    individualname: Lagutin, Anatoly A.
+    role: creator
+    organization: Altai State University, 61 Lenin Ave., Barnaul, 656049, Russia
+    url: ''
+content_info: {}

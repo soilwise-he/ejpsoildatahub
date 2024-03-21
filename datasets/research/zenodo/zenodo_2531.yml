@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10007138
+  dataseturi: https://doi.org/10.5281/zenodo.10007138
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Numerical Analyses for the Investigation of Soil Improvement Methods in Settlement
+    Issues of Spoil Materials from Lignite Mines
+  abstract: 'The response of a massive heap from lignite mines'' spoils is being investigated
+    when used as a foundation soil for a typical embankment. Due to the high compressibility
+    of the spoil material and in order to limit large settlements, the effects of
+    three soil improvement methods were analyzed: dynamic compaction, stone columns,
+    and deep soil mixing using fly ash. The settlements were analyzed using 2D finite
+    elements under plane strain conditions and assuming dry conditions. Two constitutive
+    models were employed, the Mohr-Coulomb and the Hardening Soil.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10007138
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10007137
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Papagiannis-Angelos:
+    individualname: Papagiannis, Angelos
+    role: creator
+    organization: ''
+    url: ''
+  Theocharis-Alexandros-I.:
+    individualname: Theocharis, Alexandros I.
+    role: creator
+    organization: ''
+    url: 0000-0002-1989-1195
+  Tsiagkas-Dimitrios:
+    individualname: Tsiagkas, Dimitrios
+    role: creator
+    organization: ''
+    url: ''
+  Koukouzas-Nikolaos-C.:
+    individualname: Koukouzas, Nikolaos C.
+    role: creator
+    organization: ''
+    url: 0000-0002-7094-3712
+  Zevgolis-Ioannis-E.:
+    individualname: Zevgolis, Ioannis E.
+    role: creator
+    organization: ''
+    url: 0000-0002-2351-8692
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Jodidi_1912
+  dataseturi: https://doi.org/10.1021/ja02202a018
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE CHEMICAL NATURE OF THE ORGANIC NITROGEN IN THE SOIL. [SECOND PAPER.]
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE CHEMICAL NATURE OF THE ORGANIC NITROGEN IN THE SOIL. [SECOND PAPER.]
+    url: http://dx.doi.org/10.1021/ja02202a018
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jodidi-S.-L.:
+    individualname: Jodidi, S. L.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

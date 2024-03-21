@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1091626
+  dataseturi: https://doi.org/10.5281/zenodo.1091626
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Soil In The Allelopathic Potential Of Artemisia Herba-Alba
+    And Oudneya Africana Crude Powder On Growth Of Weeds
+  abstract: "The present study aimed to investigate the effect of two type of soil\
+    \ (clay and sandy soils) in the potential allelopathic effects of <em>Artemisia\
+    \ herba-alba, Oudneya africana</em> crude powder (0, 1, 3 and 6%) on some growth\
+    \ parameters of two weeds (<em>Bromus tectorum </em>and <em>Melilotus indica</em>)\
+    \ under laboratory conditions (pot experiment).\n\n The experimental findings\
+    \ have reported that the donor species crude powder concentrations were suppressing\
+    \ to shoot length (SL), root length (RL) and the leaf number (LN)) in both soil\
+    \ types and caused a gradual reduction particularly when they are high. However,\
+    \ the reduction degree was varied and species, concentration dependent. The suppressive\
+    \ effect of the two donors on the two weedy species was in the following order<em>\
+    \ Melilotus indica &gt; Bromus tectorum.</em> Generally, the growth parameters\
+    \ of two recipient species were significantly decreased with the increase of each\
+    \ of the donor species crude powder concentration levels. Concerning the type\
+    \ of soil stoical analyses indicated that significant difference between clay\
+    \ and sandy soils."
+  keywords:
+    default:
+      keywords:
+        subject: weeds.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-03-02'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1091626
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1091625
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salhi-Nesrine:
+    individualname: Salhi Nesrine
+    role: creator
+    organization: ''
+    url: ''
+  Salama-M.-El-Darier:
+    individualname: Salama M. El-Darier
+    role: creator
+  Halilat-M.-El-Taher:
+    individualname: Halilat M. El-Taher
+    role: creator
+    organization: ''
+    url: ''
+  El-Darier-Salama-M.:
+    individualname: El-Darier, Salama M.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

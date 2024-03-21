@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398504
+  dataseturi: https://doi.org/10.5281/zenodo.10398504
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Pocket sized NIR spectrometer coupled to Smart phone for analysis of Rice
+    Integrity the case of: Soil health, fertilizer authenticity and grain quality.'
+  abstract: "Rice consumption is on the increase world-wide and quality inputs are\
+    \ require to aid production. This research seeks to provide a user-friendly and\
+    \ reliable onsite analytical tool using a pocket-sized NIR spectrometer coupled\
+    \ with smart phone for detecting; soil fertility, fertilizer integrity and rice\
+    \ grain authenticity. A total of 110 soil samples from 0-15 cm, 1530 cm and 30-45\
+    \ cm layers from the field of different land use cropping systems, 126 fertilizer\
+    \ samples from two main types (authentic and expired) and 900 rice samples comprising\
+    \ three varieties (Jasmine, Agra and Exbaika) were all collected from different\
+    \ locations. Principal component analysis (PCA) was used to extract relevant information\
+    \ from the spectral data set. The results obtained showed that; SVM had 98.61%\
+    \ classification rate of soil from different cropping system. Si-PLS was superior\
+    \ in predicting N, P, K, Mg2+, Ca2+ and pH at: 0.571, 0.779, 0.910, 0.778, 0.826\
+    \ and 0.904 for Rp2. For the identification of fertilizer authenticity, FD-SVM\
+    \ gave 99.20% identification rate. For the quantification of the adulterants in\
+    \ fertilizer, Si-PLS was found to be superior and showed an excellent predictive\
+    \ potential of Rpre2 = 0.95\u20130.98. For the authentication of rice quality\
+    \ grades, the classification rate was 91.62% by SVM while identification rate\
+    \ based on country of origin gave 90.84%. For the differentiation of local rice\
+    \ from imported ones, KNN had 100%. For the optimum identification of rice from\
+    \ country of origin, powdered samples had a better performance compared to rice\
+    \ grain, at an accuracy of 98% by using SD-PLSDA. For simultaneous detection of\
+    \ rice variety integrity, higher accuracy was found when powdered rice samples\
+    \ were used compared to rice grain. The best result was obtained by Si-PLS at\
+    \ R2 at 0.94. This study has shown that pocket-sized NIR spectrometer coupled\
+    \ with multivariate algorithm and smartphone devices could provide a promising\
+    \ tool for sustainable rice production and ensure the integrity and quality of\
+    \ soil, fertilizer, variety and avoid adulteration fraud. This tool could be useful\
+    \ to soil scientist, breeders, rice farmers, millers, and consumers."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398504
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398503
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teye-Ernest:
+    individualname: Teye, Ernest
+    role: creator
+    organization: University of Cape Coast, Cape Coast, Ghana
+    url: ''
+content_info: {}

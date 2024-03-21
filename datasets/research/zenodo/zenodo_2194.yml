@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8090575
+  dataseturi: https://doi.org/10.5281/zenodo.8090575
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Rapid Determination of Soil Class Based on Visible-Near Infrared, Mid-Infrared
+    Spectroscopy and Data Fusion
+  abstract: Wise soil management requires detailed soil information, but conventional
+    soil class mapping in a rather coarse spatial resolution cannot meet the demand
+    for precision agriculture. With the advantages of non-destructiveness, rapid cost-efficiency,
+    and labor savings, the spectroscopic technique has proved its high potential for
+    success in soil classification. Previous studies mainly focused on predicting
+    soil classes using a single sensor. In this study, we attempted to compare the
+    predictive ability of visible near infrared (vis-NIR) spectra, mid-infrared (MIR)
+    spectra, and their fused spectra for soil classification. A total of 146 soil
+    profiles were collected from Zhejiang, China, and the soil properties and spectra
+    were measured by their genetic horizons. Along with easy-to-measure auxiliary
+    soil information (soil organic matter, soil texture, color and pH), four spectral
+    data, including vis-NIR, MIR, their simple combination (vis-NIR-MIR), and outer
+    product analysis (OPA) fused spectra, were used for soil classification using
+    a multiple objectives mixed support vector machine model. The independent validation
+    results showed that the classification model using MIR (accuracy of 64.5%) was
+    slightly better than that using vis-NIR (accuracy of 64.2%). The predictive model
+    built on vis-NIR-MIR did not improve the classification accuracy, having the lowest
+    accuracy of 61.1%, which likely resulted from an over-fitting problem. The model
+    based on OPA fused spectra performed best with an accuracy of 68.4%. Our results
+    prove the potential of fusing vis-NIR and MIR using OPA for improving prediction
+    ability for soil classification.
+  keywords:
+    default:
+      keywords:
+        subject: soil classification
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-05-09'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8090575
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8090574
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hanyi-Xu:
+    individualname: Hanyi Xu
+    role: creator
+    organization: ''
+    url: ''
+  Dongyun-Xu:
+    individualname: Dongyun Xu
+    role: creator
+    organization: ''
+    url: ''
+  Songchao-Chen:
+    individualname: Songchao Chen
+    role: creator
+    organization: ''
+    url: ''
+  Wanzhu-Ma:
+    individualname: Wanzhu Ma
+    role: creator
+    organization: ''
+    url: ''
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

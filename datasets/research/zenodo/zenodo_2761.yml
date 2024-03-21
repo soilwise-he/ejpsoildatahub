@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3662757
+  dataseturi: https://doi.org/10.5281/zenodo.3662757
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Response of bacterial community structure to different biochar addition dosages
+    in Karst yellow soil planted with ryegrass and daylily
+  abstract: All sequences data
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-02-11'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3662757
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3662756
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Luo-Songping:
+    individualname: Luo Songping
+    role: creator
+  He-Binghui:
+    individualname: He Binghui
+    role: creator
+  Song-Dandan:
+    individualname: Song Dandan
+    role: creator
+  Li-Tianyang:
+    individualname: Li Tianyang
+    role: creator
+  Wu-Yaopeng:
+    individualname: Wu Yaopeng
+    role: creator
+  Songping-Luo:
+    individualname: Songping, Luo
+    role: ''
+    organization: Southwest University
+    url: https://orcid.org/0000-0003-4361-5198
+  Binghui-He:
+    individualname: Binghui, He
+    role: ''
+    organization: Southwest University
+    url: ''
+  Dandan-Song:
+    individualname: Dandan, Song
+    role: ''
+    organization: Southwest University
+    url: ''
+  Tianyang-Li:
+    individualname: Tianyang, Li
+    role: ''
+    organization: Southwest University
+    url: ''
+  Yaopeng-Wu:
+    individualname: Yaopeng, Wu
+    role: ''
+    organization: Southwest University
+    url: ''
+content_info: {}

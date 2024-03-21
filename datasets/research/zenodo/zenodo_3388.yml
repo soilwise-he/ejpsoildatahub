@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3345254
+  dataseturi: https://doi.org/10.5281/zenodo.3345254
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Organic Carbon Stock Estimation Based on Digital Map of Organic Carbon
+    Stock in 30-cm Soil Layer of Russia
+  abstract: "<strong>ABSTRACT</strong> Digital map of organic carbon stock in 30-cm\
+    \ soil layer of Russia was created within the frameworks of FAO UN project \"\
+    Global Soil Organic Carbon Map\" (GSOC17). Our objective was to develop and test\
+    \ algorithms for soil organic carbon stock (SOC) mapping on the basis of information\
+    \ accumulated in the Information System \u201CSoil-Geographic Database of Russia\u201D\
+    , i.e. vectorized soil maps, analytical characteristics of reference profiles\
+    \ and results of monitoring surveys. Calculations of the basic SOC map have performed\
+    \ in the form of synthesis of two types of source data: a map of the entire territory\
+    \ of Russia based on the Soil Map of RSFSR at the scale of 1:2.5 M (ed. V.M. Fridland,\
+    \ 1988) combined with irregular grid of about 2000 soil profiles and maps of several\
+    \ agricultural regions based on the large- and medium-scale soil maps and a dense\
+    \ grid of regular soil observations. Both maps were merged in one layer by superimposing\
+    \ more detailed maps over the map of entire territory. The SOC map for forest\
+    \ litter was calculated on the base of previously published map adapted to the\
+    \ GSOC17 requirements. The SOC map for muck and peaty horizons of semihydromorphic\
+    \ soils was calculated by using the averaged and expert estimations of stock values.\
+    \ The final version of the SOC map of Russia is a per pixel sum of all above maps.\
+    \ Our calculations indicate that the total carbon stock in 30-cm soil layer of\
+    \ Russia is about 150 Pg, and nearly half of this stock (45%) is concentrated\
+    \ in organogenic horizons."
+  keywords:
+    default:
+      keywords:
+        subject: digital map
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-07-08'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3345254
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3271554
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chernova-O.V:
+    individualname: Chernova, O.V
+    role: creator
+    organization: A.N. Severtsov Institute of Ecology and Evolution RAS
+    url: ''
+  Golozubov-O.M:
+    individualname: Golozubov, O.M
+    role: creator
+    organization: Lomonosov Moscow State University
+    url: ''
+content_info: {}

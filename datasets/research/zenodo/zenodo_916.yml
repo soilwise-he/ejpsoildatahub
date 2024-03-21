@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3370529
+  dataseturi: https://doi.org/10.5281/zenodo.3370529
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Treatment of Diesel Oil Contaminated Soil by Ex-situ Bioremediation
+  abstract: "Treatment of oil-polluted soil is a challenging problem faced by all\
+    \ refineries and petrochemical industries. In this research study, bioremediation\
+    \ of diesel oil contaminated soil was conducted for diesel concentration ranging\
+    \ from 5% to 20%. The physicochemical characteristics of diesel oil contaminated\
+    \ soil were studied. The effects of soil amendments, namely coconut ash powder,\
+    \ biofilter activated sludge, and NPK fertilizer, on total petroleum hydrocarbon\
+    \ removal efficiency were studied. The maximum total petroleum hydrocarbon removal\
+    \ efficiency achieved was 94.5% when 4g NPK, 40g of activated sludge and 40g of\
+    \ coconut ash powder per 1000g of contaminated soil were used. The studies on\
+    \ the effect of temperature confirmed the optimal temperature as 35\xB0C. The\
+    \ parametric studies confirmed that the degradation efficiency decreased with\
+    \ increase in diesel oil concentration."
+  keywords:
+    default:
+      keywords:
+        subject: efficiency
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-12'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3370529
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3370528
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rajamohan-Natarajan:
+    individualname: Rajamohan, Natarajan
+    role: creator
+    organization: Faculty of Engineering, Sohar University, Sohar, Oman rnatarajan@su.edu.om
+    url: ''
+  Manivasagan-Rajasimman:
+    individualname: Manivasagan, Rajasimman
+    role: creator
+    organization: Department of Chemical Engineering, Annamalai University, Tamil
+      Nadu, India simms@rediffmail.com
+    url: ''
+  Al-Fazari-Fatma:
+    individualname: Al Fazari, Fatma
+    role: creator
+    organization: Faculty of Engineering, Sohar University, Sohar, Oman fatmafazari1000@gmail.com
+    url: ''
+content_info: {}

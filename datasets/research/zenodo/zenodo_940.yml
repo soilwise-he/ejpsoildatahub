@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5641946
+  dataseturi: https://doi.org/10.5281/zenodo.5641946
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Metal contamination in cultivated vegetables and soil receiving untreated
+    industrial wastewater
+  abstract: "Department of Environmental Science, The University of Burdwan, Golapbag,<br>\
+    \ Burdwan-713 104, West Bengal, India<br> E-mail : banenvs@gmail.com<br> <em>Manuscript\
+    \ received 16 November 2017, revised 24 January 2018, accepted 25 January 2018</em>\
+    \ The present study focuses on the analysis of industrial wastewater, characterization\
+    \ of agricultural<br> soil and to examine the heavy metal (Pb, Cd, Mn, Zn and\
+    \ Cu) content in some selected vegetables<br> grown on agricultural land receiving\
+    \ untreated wastewater. The unscientific disposal of untreated wastewater<br>\
+    \ has resulted in an accumulation of heavy metals in soils which may not only\
+    \ result in soil contamination,<br> but also lead to elevated metal uptake by\
+    \ vegetables/crops and ultimately affect the food chain. The concentrations<br>\
+    \ (mg/L) of heavy metals in the wastewater samples ranged between Pb : 0.082\u2013\
+    0.279, Cd : 0.007\u2013<br> 0.098, Mn : 0.697\u20130.875, Zn : 0.595\u20130.887\
+    \ and Cu : 0.362\u20130.482. Average metal concentration in untreated<br> wastewater\
+    \ was in the sequence of Mn &gt; Zn &gt; Cu &gt; Pb &gt; Cd, wastewater irrigated\
+    \ contaminated soil<br> also followed the same sequence though BCF followed the\
+    \ sequence of Cd &gt; Mn &gt; Zn &gt; Pb &gt; Cu. The<br> high concentration of\
+    \ Cd was found in <em>Phaseolus vulgaris</em> (9.865 mg/kg) with its bioconcentration\
+    \ factor (BCF)<br> value (3.446) followed by <em>Pisum sativum</em> (Ave. : 9.742\
+    \ mg/kg; BCF : 3.403) and <em>Spinacia oleracea</em> (Ave. :<br> 9.241 mg/kg;\
+    \ BCF: 3.228). High level of metal concentrations was also observed in the other\
+    \ vegetables analyzed.<br> This may be due to the accumulation of heavy metals\
+    \ in the agricultural soil due to long-term irrigation.<br> The higher values\
+    \ of metal concentration and BCF indicated heavy metal contamination in the wastewater<br>\
+    \ irrigated site that is may creates a major threat of negative impact on human\
+    \ health."
+  keywords:
+    default:
+      keywords:
+        subject: health risk
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-02-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5641946
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5641945
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ruma-Banerjee:
+    individualname: Ruma Banerjee
+    role: creator
+    organization: ''
+    url: ''
+  Apurba-Ratan-Ghosh:
+    individualname: Apurba Ratan Ghosh
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

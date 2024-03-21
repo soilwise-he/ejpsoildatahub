@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1109601
+  dataseturi: https://doi.org/10.5281/zenodo.1109601
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study On Seismic Performance Of Reinforced Soil Walls To Modify The Pseudo
+    Static Method
+  abstract: 'This study, tries to suggest a design method based on
+
+    displacement using finite difference numerical modeling in
+
+    reinforcing soil retaining wall with steel strip. In this case, dynamic
+
+    loading characteristics such as duration, frequency, peak ground
+
+    acceleration, geometrical characteristics of reinforced soil structure
+
+    and type of the site are considered to correct the pseudo static method
+
+    and finally introduce the pseudo static coefficient as a function of
+
+    seismic performance level and peak ground acceleration. For this
+
+    purpose, the influence of dynamic loading characteristics,
+
+    reinforcement length, height of reinforced system and type of the site
+
+    are investigated on seismic behavior of reinforcing soil retaining wall
+
+    with steel strip. Numerical results illustrate that the seismic response
+
+    of this type of wall is highly dependent to cumulative absolute
+
+    velocity, maximum acceleration, and height and reinforcement length
+
+    so that the reinforcement length can be introduced as the main factor
+
+    in shape of failure. Considering the loading parameters, geometric parameters
+    of the
+
+    wall and type of the site showed that the used method in this study
+
+    leads to efficient designs in comparison with other methods, which
+
+    are usually based on limit-equilibrium concept. The outputs show the
+
+    over-estimation of equilibrium design methods in comparison with
+
+    proposed displacement based methods here.'
+  keywords:
+    default:
+      keywords:
+        subject: failure shape.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-10-03'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1109601
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1109600
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Majid-Yazdandoust:
+    individualname: Majid Yazdandoust
+    role: creator
+  Yazdandoust-Majid:
+    individualname: Yazdandoust, Majid
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

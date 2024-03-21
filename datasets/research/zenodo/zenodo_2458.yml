@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3822014
+  dataseturi: https://doi.org/10.5281/zenodo.3822014
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A Comparison between Linear and Equivalent Linear Ground Response Analysis
+    of the Sub-Soil of Ganakbari, Dhaka, Bangladesh
+  abstract: Site-specific dynamic response analysis is the key step to ensure site
+    safety against probable seismic hazards. One-dimensional(1-D) ground response
+    analysis is widely used in engineering practices to predict the dynamic response
+    of a site. This paper deals with the comparison of two frequency-dependent methods
+    of 1-D ground response analysis-Linear and Equivalent Linear for ground response
+    analysis of the sub-soil of Ganakbari, Savar, Dhaka. SPT N values were collected
+    from the literature published earlier by various researchers. Shear wave velocity
+    was determined by using a universal correlation of Shear wave velocity and Standard
+    Penetration Test values.[6]. Analyses were performed using DEEPSOIL software for
+    both linear and equivalent linear methods. As input motion, Kobe earthquake, Kocaeli
+    earthquake, Northridge earthquake, Nahanni Earthquake, and Parkfield earthquake
+    was used. The Response spectrum, the Peak Ground Acceleration, maximum strain,
+    maximum stress ratio, and the amplification factor was determined and represented
+    in this paper from both linear and equivalent linear analysis. Linear analysis
+    results were compared with those of the equivalent linear method. Differences
+    were found between the site responses predictions from linear and equivalent linear
+    methods though both are 1-D frequency domain-based analysis methods.
+  keywords:
+    default:
+      keywords:
+        subject: http://hbrppublication.com/journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-12'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3822014
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3822013
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raqib-Al-Mahmood:
+    individualname: Raqib Al Mahmood
+    role: creator
+    organization: Graduate Student, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+  A.-S.-M.-Fahad-Hossain:
+    individualname: A. S. M. Fahad Hossain
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+  Md.-Munirul-Islam:
+    individualname: Md. Munirul Islam
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+content_info: {}

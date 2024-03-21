@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1413035
+  dataseturi: https://doi.org/10.5281/zenodo.1413035
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Waste Water Treatment Using Soil Bioreactor
+  abstract: 'The main focus of this project is to bring the water to acceptable limits
+    of pollution control board with green technology and economy. For this purpose,
+    we decided to treat the sugar factory waste water using a soil bioreactor. This
+    is a latest green technology to treat water. We are trying to bring the water
+    up to level which becomes suitable for irrigation. The social impact of the project
+    is that farmer will get good quality water for irrigation. Sugar industry will
+    get a very economical and green technology to treating their waste water. So,
+    we are expecting that sugar factories will use this technique.
+
+
+    https://journalnx.com/journal-article/20150638'
+  keywords:
+    default:
+      keywords:
+        subject: waste treatment
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-05-02'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1413035
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1413034
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yuvraj-Rajendra-Shi-:
+    individualname: Yuvraj Rajendra Shi ,
+    role: creator
+    organization: ''
+    url: ''
+  Ganesh-Ashok-Shinde:
+    individualname: Ganesh Ashok Shinde
+    role: creator
+  Shinde-Ganesh-Ashok:
+    individualname: Shinde, Ganesh Ashok
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

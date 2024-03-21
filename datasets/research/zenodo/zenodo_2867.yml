@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6955810
+  dataseturi: https://doi.org/10.5281/zenodo.6955810
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Use of microplot technique to evaluate the effect of herbicide and organic
+    fertilizer on dehydrogenase activity in lowland rice soil
+  abstract: This article 'Use of microplot technique to evaluate the effect of herbicide
+    and organic fertilizer on dehydrogenase activity in lowland rice soil' appeared
+    in the International Rice Research Notes series, created by the International
+    Rice Research Institute (IRRI) to expedite communication among scientists concerned
+    with the development of improved technology for rice and rice-based systems. The
+    series is a mechanism to help scientists keep each other informed of current rice
+    research findings. The concise scientific notes are meant to encourage rice scientists
+    to communicate with one another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Electron transfer
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2003-06-01'
+    publication: '2003'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6955810
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6955809
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Asis-C.-A.-Jr.:
+    individualname: Asis, C. A. Jr.
+    role: creator
+    organization: ''
+    url: ''
+  Corales-R.-C.:
+    individualname: Corales, R. C.
+    role: creator
+    organization: ''
+    url: ''
+  Sajor-J.-T.:
+    individualname: Sajor, J. T.
+    role: creator
+    organization: ''
+    url: ''
+  Joshi-R.-C.:
+    individualname: Joshi, R. C.
+    role: creator
+    organization: ''
+    url: ''
+  dela-Cruz-M.-C.:
+    individualname: dela Cruz, M. C.
+    role: creator
+    organization: ''
+    url: ''
+  Tadeo-B.-D.:
+    individualname: Tadeo, B. D.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

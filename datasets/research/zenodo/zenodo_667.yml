@@ -1,0 +1,116 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Molineux_2014
+  dataseturi: https://doi.org/10.1016/j.scitotenv.2014.06.045
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Manipulating soil microbial communities in extensive green roof substrates
+  abstract:
+  - '&lt;p&gt;There has been very little investigation into the soil microbial community
+    on green roofs, yet this below ground habitat is vital for ecosystem functioning.
+    Green roofs are often harsh environments that would greatly benefit from having
+    a healthy microbial system, allowing efficient nutrient cycling and a degree of
+    drought tolerance in dry summer months. To test if green roof microbial communities
+    could be manipulated, we added mycorrhizal fungi and a microbial mixture (&lsquo;compost
+    tea&rsquo;) to green roof rootzones, composed mainly of crushed brick or crushed
+    concrete. The study revealed that growing media type and depth play a vital role
+    in the microbial ecology of green roofs. There are complex relationships between
+    depth and type of substrate and the biomass of different microbial groups, with
+    no clear pattern being observed. Following the addition of inoculants, bacterial
+    groups tended to increase in biomass in shallower substrates, whereas fungal biomass
+    change was dependent on depth and type of substrate. Increased fungal biomass
+    was found in shallow plots containing more crushed concrete and deeper plots containing
+    more crushed brick where compost tea (a live mixture of beneficial bacteria) was
+    added, perhaps due to the presence of helper bacteria for arbuscular mycorrhizal
+    fungi (AMF). Often there was not an additive affect of the microbial inoculations
+    but instead an antagonistic interaction between the added AM fungi and the compost
+    tea. This suggests that some species of microbes may not be compatible with others,
+    as competition for limited resources occurs within the various substrates. The
+    overall results suggest that microbial inoculations of green roof habitats are
+    sustainable. They need only be done once for increased biomass to be found in
+    subsequent years, indicating that this is a novel and viable method of enhancing
+    roof community composition.&lt;/p&gt;'
+  - 'We manipulated microbial communities in a green roof rootzone by adding arbuscular
+    mycorrhizal fungi and a microbial mixture (''compost tea'').
+
+
+    Inoculants generally increased bacterial biomass in shallower substrates.
+
+
+    Compost tea increased fungal biomass in shallow plots containing more crushed
+    concrete and deeper plots containing more crushed brick.
+
+
+    Often there was an antagonistic interaction between the AM fungi and compost tea
+    treatments.
+
+
+    Treatments seemed sustainable and further inoculations were not required (in this
+    short-term study).'
+  keywords:
+    default:
+      keywords:
+      - Nature-based solutions
+      - Green Roof
+      - Green infrastructure
+      - Climate Change
+      - Nature-based Solutions
+      - Connecting Nature
+      - Urban green space availability
+      - Sustainability
+      - Resilience
+      - Urban Policy
+      - Living roof
+      - Transitioning
+      - Fungi
+      - Bacteria
+      - Microbes
+      - PLFA
+      - Biodiversity
+      - Arbuscular mycorrhizal fungi
+      - Biodiverse roof
+      - Compost tea
+      - Phospholipid fatty acid analysis
+      - Growing media
+      - Microbial biomass
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Manipulating soil microbial communities in extensive green roof substrates
+    url: http://dx.doi.org/10.1016/j.scitotenv.2014.06.045
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Molineux-Chloe-J.:
+    individualname: Molineux, Chloe J.
+    role: creator
+  Connop-Stuart:
+    individualname: Connop, Stuart
+    role: creator
+  Genge-Alan-C.:
+    individualname: Genge, Alan C.
+    role: creator
+  Connop-Stuart-P.:
+    individualname: Connop, Stuart P.
+    role: creator
+  Gange-Alan-C.:
+    individualname: Gange, Alan C.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

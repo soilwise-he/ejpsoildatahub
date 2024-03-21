@@ -1,0 +1,146 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8085605
+  dataseturi: https://doi.org/10.5281/zenodo.8085605
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluating validation strategies on the performance of soil property prediction
+    from regional to continental spectral data
+  abstract: "Visible-near infrared (vis\u2013NIR) spectroscopy has been widely used\
+    \ to characterize soil information from field to global scales. Before applying\
+    \ a calibrated spectral predictive model to acquire soil information, either independent\
+    \ validation or <em>k</em>-fold cross validation is used to evaluate model performance.\
+    \ However, there is no consensus on which validation strategy is more suitable\
+    \ and robust when evaluating model performance for the studies in different scales.\
+    \ The objective of this study is to evaluate and compare the model performance\
+    \ of two validation strategies coupling different calibration sizes (a ratio of\
+    \ calibration to validation of 2:1, 4:1 and 9:1) and calibration sampling strategies\
+    \ (random sampling (RS), rank, Kennard-Stone (KS), rank-Kennard-Stone (RKS) and\
+    \ conditioned Latin hypercube sampling (cLHS)) across scales. A total of 17,272\
+    \ vis\u2013NIR spectra of mineral soils from LUCAS data (continental scale) and\
+    \ their soil organic carbon (SOC) and clay contents were used in this study, and\
+    \ the dataset was further split into national (2761 samples in France) and five\
+    \ regional datasets (110 to 248 samples from five French administrative regions).\
+    \ To eliminate the effect of changing validation set on the model performance,\
+    \ a consistent test set (20% of total samples at each scale) was split to evaluate\
+    \ all the combinations involved in two validation strategies. The Lin\u2019s concordance\
+    \ correlation coefficient (CCC) of the cubist model were stable for both SOC and\
+    \ clay for different calibration sizes, calibration sampling and validation strategies\
+    \ for a large calibration size (&gt;1400) at the national and continental scales.\
+    \ A larger calibration size can potentially improve model performance for a small\
+    \ dataset (&lt;300) at the regional scale, and a wider calibration range would\
+    \ result in better model performance. No silver bullet was found among the different\
+    \ calibration sampling strategies at the regional scale. For five French regions\
+    \ (small data set), we found a high variation (95th percentile minus the 5th percentile)\
+    \ in the CCC among the models built from 50 repeated RS (0.10\u20130.44 for SOC,\
+    \ 0.16\u20130.52 for clay) and cLHS (0.08\u20130.40 for SOC, 0.12\u20130.36 for\
+    \ clay). This finding indicates that a one-time RS or cLHS for selecting the calibration\
+    \ set has high uncertainty in model evaluation for a small dataset and therefore\
+    \ should be used with caution. Therefore, we suggest the following: (1) for a\
+    \ large data set (thousands), either one-time random sampling for independent\
+    \ validation or <em>k</em>-fold cross validation would be appropriate; (2) for\
+    \ a small data set (dozens to hundreds), <em>k</em>-fold cross validation and/or\
+    \ repeated random sampling for independent validation would be more robust for\
+    \ spectral predictive model evaluation."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-04-22'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8085605
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8085604
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chen-Songchao:
+    individualname: Chen, Songchao
+    role: creator
+    organization: "Institute of Applied Remote Sensing and Information Technology,\
+      \ College of Environmental and Resource Sciences, Zhejiang University; INRAE,\
+      \ Unit\xE9 InfoSol, Orl\xE9ans"
+    url: ''
+  Xu-Hanyi:
+    individualname: Xu, Hanyi
+    role: creator
+    organization: Institute of Applied Remote Sensing and Information Technology,
+      College of Environmental and Resource Sciences, Zhejiang University
+    url: ''
+  Xu-Dongyun:
+    individualname: Xu, Dongyun
+    role: creator
+    organization: Institute of Applied Remote Sensing and Information Technology,
+      College of Environmental and Resource Sciences, Zhejiang University
+    url: ''
+  Ji-Wenjun:
+    individualname: Ji, Wenjun
+    role: creator
+    organization: College of Land Science and Technology, China Agricultural University,
+      Beijing
+    url: ''
+  Li-Shuo:
+    individualname: Li, Shuo
+    role: creator
+    organization: Key Laboratory for Geographical Process Analysis & Simulation, Central
+      China Normal University, Wuhan
+    url: ''
+  Yang-Meihua:
+    individualname: Yang, Meihua
+    role: creator
+    organization: Department of Environmental Engineering, Yuzhang Normal University,
+      Nanchang
+    url: ''
+  Hu-Bifeng:
+    individualname: Hu, Bifeng
+    role: creator
+    organization: Department of Land Resource Management, School of Tourism and Urban
+      Management, Jiangxi University of Finance and Economics, Nanchang
+    url: ''
+  Zhou-Yin:
+    individualname: Zhou, Yin
+    role: creator
+    organization: Institute of Applied Remote Sensing and Information Technology,
+      College of Environmental and Resource Sciences; Institute of Land Science and
+      Property Management, School of Public Affairs, Zhejiang University
+    url: ''
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: creator
+    organization: Institute of Applied Remote Sensing and Information Technology,
+      College of Environmental and Resource Sciences, Zhejiang University
+    url: ''
+  Arrouays-Dominique:
+    individualname: Arrouays, Dominique
+    role: creator
+    organization: "INRAE, Unit\xE9 InfoSol, Orl\xE9ans"
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: creator
+    organization: Institute of Applied Remote Sensing and Information Technology,
+      College of Environmental and Resource Sciences, Zhejiang University; Key Laboratory
+      of Spectroscopy Sensing, Ministry of Agriculture and Rural Affairs, Hangzhou
+    url: ''
+content_info: {}

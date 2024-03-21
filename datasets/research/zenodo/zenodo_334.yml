@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6800940
+  dataseturi: https://doi.org/10.5281/zenodo.6800940
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of Light on Nitrification in Soil.
+  abstract: Influence of Light on Nitrification in Soil.
+  keywords:
+    default:
+      keywords:
+        subject: reaction
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1933-12-31'
+    publication: '1933'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6800940
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6800939
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-R.-DHAR:
+    individualname: N. R. DHAR
+    role: creator
+    organization: ''
+    url: ''
+  A.-K.-BHATTACHARYA:
+    individualname: A. K. BHATTACHARYA
+    role: creator
+    organization: ''
+    url: ''
+  N.-N.-BISWAS:
+    individualname: N. N. BISWAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

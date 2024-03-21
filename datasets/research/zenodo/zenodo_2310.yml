@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Nassirkhani_2017
+  dataseturi: https://doi.org/10.1515/vzoo-2017-0020
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A Redescription of Acanthocreagris iranica (Pseudoscorpiones, Neobisiidae)
+    Inhabiting Soil Under Oak Trees in Zagros Forest, Western Iran
+  abstract: 'Nassirkhani, M., Mirab-Balou, M., Bazgir, M., Zamani, M. (2017): A Redescription
+    Of Acanthocreagris Iranica (Pseudoscorpiones, Neobisiidae) Inhabiting Soil Under
+    Oak Trees In Zagros Forest, Western Iran. Vestnik Zoologii 51 (2): 143-150, DOI:
+    10.1515/vzoo-2017-0020, URL: http://dx.doi.org/10.1515/vzoo-2017-0020'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Arachnida
+      - Pseudoscorpiones
+      - Neobisiidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A Redescription of Acanthocreagris iranica (Pseudoscorpiones, Neobisiidae)
+      Inhabiting Soil Under Oak Trees in Zagros Forest, Western Iran
+    url: http://dx.doi.org/10.1515/vzoo-2017-0020
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nassirkhani-M.:
+    individualname: Nassirkhani, M.
+    role: creator
+  Mirab-Balou-M.:
+    individualname: Mirab-Balou, M.
+    role: creator
+  Bazgir-M.:
+    individualname: Bazgir, M.
+    role: creator
+  Zamani-M.:
+    individualname: Zamani, M.
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

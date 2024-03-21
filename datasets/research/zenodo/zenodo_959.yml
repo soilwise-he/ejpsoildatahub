@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8287266
+  dataseturi: https://doi.org/10.5281/zenodo.8287266
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil/Phytofisionomy eu Relationship in Southeast of Chapada Diamantina, Bahia,
+    Brazil
+  abstract: "This study aims to characterize the physicochemical aspects of the soils\
+    \ of southeastern Chapada Diamantina-Bahia related to the phytophysiognomies of\
+    \ this area, rupestrian field, small savanna (savanna fields), small dense savanna\
+    \ (savanna fields), savanna (Cerrado), dry thorny forest (Caatinga), dry thorny\
+    \ forest/savanna, scrub (Carrasco-ecotone), forest island (seasonal semi-deciduous\
+    \ forest-Cap\xE3o) and seasonal semi-deciduous forest. To achieve the research\
+    \ objective, soil samples were collected in each plant formation and analyzed\
+    \ in the soil laboratory of ESALQ-USP in order to identify soil fertility through\
+    \ the determination of pH, organic matter, phosphorus, potassium, calcium, magnesium,\
+    \ potential acidity, sum of bases, cation exchange capacity and base saturation.\
+    \ The composition of soil particles was also checked; that is, the texture, step\
+    \ made in the terrestrial ecosystems laboratory of the Department of Ecology of\
+    \ USP and in the soil laboratory of ESALQ. Another important factor also studied\
+    \ was to show the variations in the vegetation cover in the region as a function\
+    \ of soil moisture in the different existing physiographic environments. Another\
+    \ study carried out was a comparison between the average soil moisture data with\
+    \ precipitation data from three locations with very different phytophysiognomies.\
+    \ The soils found in this part of Bahia can be classified into 5 classes, with\
+    \ a predominance of oxisols. All of these classes have a great diversity of physical\
+    \ and chemical properties, as can be seen in photographs and in particle size\
+    \ and fertility analyzes. The deepest soils are located in the Central Pediplano\
+    \ of Chapada Diamantina where the dirty field, the clean field, the executioner\
+    \ and the semideciduous seasonal forest (Cap\xE3o) are located, and the shallower\
+    \ soils were found in the rupestrian field, dry thorny forest, and savanna fields,\
+    \ the latter located on a hillside. As for the variations in water in the region's\
+    \ soil, the data indicate that there were large spatial variations in humidity\
+    \ in both the rainy and dry periods."
+  keywords:
+    default:
+      keywords:
+        subject: phytophysiognomies, soils, Chapada Diamantina, Brazil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-18'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8287266
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8287265
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nobrega:
+    individualname: Nobrega
+    role: creator
+    organization: Marcelo Araujo da
+    url: ''
+  Boas:
+    individualname: Boas
+    role: creator
+    organization: Ariel Moura Vilas
+    url: ''
+content_info: {}

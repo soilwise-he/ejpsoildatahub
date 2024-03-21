@@ -1,0 +1,124 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10389897
+  dataseturi: https://doi.org/10.5281/zenodo.10389897
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: D 2.2 SERENA Soil threats and soil ecosystem services of interest in SERENA
+  abstract: "This report from task 2.2 of the EJP SOIL SERENA project presents definitions,\
+    \ information and indicators related to soil threats, soil ecosystem services\
+    \ (SES) and their bundles relevant for European member states. A significant part\
+    \ of the work consisted in finding common harmonised definitions for the soil\
+    \ threats and ES between the 16 participating European member states in SERENA.\
+    \ Based on these harmonised definitions, a prioritisation of soil threats and\
+    \ SES was done by each member state. This resulted in an overall ranking of the\
+    \ soil threats and SES in order from high to lower interest for SERENA. The soil\
+    \ threat \u2018Loss of soil organic carbon\u2019 and the SES \u2018Soil organic\
+    \ carbon and Greenhouse gas and climate regulation/carbon sequestration\u2019\
+    \ were scored with the highest priority. Finally, an additional translation was\
+    \ done from technical English to a non-soil-expert language for each soil threat\
+    \ and SES. This translation and the prioritisation of the soil threats and SES\
+    \ will be evaluated by the SERENA stakeholders in WP1 of the SERENA project. The\
+    \ selection of specific indicators and the assessment of thresholds for the soil\
+    \ threats and SES of interest in SERENA will be done by WP2 T2.3."
+  keywords:
+    default:
+      keywords:
+        subject: indicators
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-15'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10389897
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10389896
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Foldal-Cecilie-Birgitte:
+    individualname: Foldal, Cecilie Birgitte
+    role: creator
+    organization: 'Austria Research Centre for Forest: Vienna, AT'
+    url: 0000-0002-3853-314X
+  Oorts-Katrien:
+    individualname: Oorts, Katrien
+    role: creator
+    organization: 'Vlaamse overheid, Departement Omgeving: Brussel, BE'
+    url: 0000-0003-1997-4473
+  Rodrigo-Anton:
+    individualname: "Rodrigo, Ant\xF3n"
+    role: Researcher
+    organization: ''
+    url: ''
+  Boruvka-Lubos:
+    individualname: "Bor\u016Fvka, Lubo\u0161"
+    role: Researcher
+    organization: Czech University of Life Sciences Prague
+    url: ''
+  Buttafuoco-Gabriele:
+    individualname: Buttafuoco, Gabriele
+    role: Researcher
+    organization: Consiglio Nazionale delle Ricerche (CNR)
+    url: ''
+  Calzolari-Costanza:
+    individualname: Calzolari, Costanza
+    role: Researcher
+    organization: Consiglio Nazionale delle Ricerche (CNR)
+    url: ''
+  Feiza-Virginijus:
+    individualname: Feiza, Virginijus
+    role: Researcher
+    organization: 'Lithuanian Research Centre for Agriculture and Forestry: Akademija,
+      Kedainiai distr., LT'
+    url: 0000-0002-9616-1137
+  Lennart-Leyla:
+    individualname: Lennart, Leyla
+    role: Researcher
+    organization: Wageningen University & Research
+    url: 0000-0001-7425-6971
+  Klimkowicz-Pawlas-Agnieszka:
+    individualname: Klimkowicz-Pawlas, Agnieszka
+    role: Researcher
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0002-4529-5274
+  Medina-Eduardo:
+    individualname: Medina, Eduardo
+    role: Researcher
+    organization: Consiglio Nazionale delle Ricerche (CNR)
+    url: ''
+  Piccini-Chiara:
+    individualname: Piccini, Chiara
+    role: Researcher
+    organization: ''
+    url: 0000-0002-8915-5601
+  Pindral-Sylwia:
+    individualname: Pindral, Sylwia
+    role: Researcher
+    organization: Institute of Soil Science and Plant Cultivation
+    url: 0000-0002-1065-8004
+  Salomez-Joost:
+    individualname: Salomez, Joost
+    role: Researcher
+    organization: 'Vlaamse overheid, Departement Omgeving: Brussel, BE'
+    url: ''
+content_info: {}

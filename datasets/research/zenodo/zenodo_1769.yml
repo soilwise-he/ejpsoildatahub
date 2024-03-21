@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4400137
+  dataseturi: https://doi.org/10.5281/zenodo.4400137
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Vulnerability of Potential Soil Erosion and Risk Assessment at Hilly Farms
+    using InSAR Technology
+  abstract: "Soil erosion is a serious environmental challenge which is persistently\
+    \ diminishing the available land resource in many places around the world, particularly\
+    \ the highlands areas. The traditional approach of estimating the magnitude of\
+    \ erosion is tedious, costly, and considerably time consuming. This study is aimed\
+    \ at assessing the risk level associated with soil erosion at hilly areas of Cameron\
+    \ Highlands through Interferometric Synthetic Aperture Radar (InSAR). The digital\
+    \ elevation model with 5 m resolution was utilized to generate the slope map for\
+    \ the highlands. Soil erosion rates was estimated using universal soil loss equation,\
+    \ while information about land use and cover were sourced from relevant government\
+    \ agencies. The analysis shows that, there was about 217.5 km2 (30.5%) of highlands\
+    \ fall under severely steep zone with slope \u2265 45-degree. Moreover, erosion\
+    \ risk assessment indicated that; 66.3%, 11.4%, 11.7% and 10.8% of the severe\
+    \ sloppy lands are classified as very low to high susceptible to soil erosion\
+    \ respectively. In general, the risk of soil erosion is relatively low and could\
+    \ be attributed to large vegetation coverage despite steep slopes. However, there\
+    \ is need to deploy a control measures to reduce soil disturbance activities on\
+    \ highlands with extremely steep slope as a proactive measures to minimize the\
+    \ effect of potential soil erosion."
+  keywords:
+    default:
+      keywords:
+        subject: Erosivity; Soil Erodibility; GIS; USLE; Cameron Highlands.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-28'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4400137
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3841099
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nuraddeen-Mukhtar-Nasidi:
+    individualname: Nuraddeen Mukhtar Nasidi
+    role: creator
+  Aimrun-Wayayok:
+    individualname: Aimrun Wayayok
+    role: creator
+  Ahmad-Fikri-Abdullah:
+    individualname: Ahmad Fikri Abdullah
+    role: creator
+  Muhamad-Saufi-Mohd-Kassim:
+    individualname: Muhamad Saufi Mohd Kassim
+    role: creator
+  Nasidi-Nuraddeen-Mukhtar:
+    individualname: Nasidi, Nuraddeen Mukhtar
+    role: ''
+    organization: Department of Biological and Agricultural Engineering, Faculty of
+      Engineering, Universiti Putra Malaysia. 43300 Selangor, Malaysia, Department
+      of Agricultural and Environmental Engineering, Bayero University, Kano. P.M.B.
+      3011, Kano, Nigeria
+    url: https://orcid.org/0000-0002-7933-8906
+  Wayayok-Aimrun:
+    individualname: Wayayok, Aimrun
+    role: ''
+    organization: Department of Biological and Agricultural Engineering, Faculty of
+      Engineering, Universiti Putra Malaysia. 43300 Selangor, Malaysia, SMART Farming
+      Technology Research Center, Faculty of Engineering, Universiti Putra Malaysia.
+      43300 Selangor, Malaysia
+    url: https://orcid.org/0000-0003-4650-8988
+  Abdullah-Ahmad-Fikri:
+    individualname: Abdullah, Ahmad Fikri
+    role: ''
+    organization: Department of Biological and Agricultural Engineering, Faculty of
+      Engineering, Universiti Putra Malaysia. 43300 Selangor, Malaysia, SMART Farming
+      Technology Research Center, Faculty of Engineering, Universiti Putra Malaysia.
+      43300 Selangor, Malaysia
+    url: https://orcid.org/0000-0003-3589-1459
+  Kassim-Muhamad-Saufi-Mohd:
+    individualname: Kassim, Muhamad Saufi Mohd
+    role: ''
+    organization: Department of Biological and Agricultural Engineering, Faculty of
+      Engineering, Universiti Putra Malaysia. 43300 Selangor, Malaysia, SMART Farming
+      Technology Research Center, Faculty of Engineering, Universiti Putra Malaysia.
+      43300 Selangor, Malaysia
+    url: https://orcid.org/0000-0001-7726-4336
+content_info: {}

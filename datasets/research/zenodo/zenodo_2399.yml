@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7489186
+  dataseturi: https://doi.org/10.5281/zenodo.7489186
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mapping the Resilient Modulus of a Soil at Any Stress State Using Results
+    of two RLT Tests
+  abstract: 'This upload contains input data used in a study with a title "mapping
+    the resilient modulus of a soil at any stress state using results of two RLT tests"
+    and the results. Data description: 1. Input MR Data: Input data extracted from
+    the Long-Term Pavement Performance (LTPP) database and used for model development.
+    2. Sample Group: Sample group after grouping the data based on the soil sample
+    on which the tests are done. 3. MR Data after Preprocessing: The final form of
+    the data after data preprocessing was done. 4. MR Data after Preprocessing (After
+    Excluding State Code 20): The final form of the data after data preprocessing
+    was done and after excluding data from state code 20 (Kansas). 5. MR Data after
+    Preprocessing (For State Code 20): The final form of the data after data preprocessing
+    was done, for state code 20 (Kansas). 6. Hyper-parameter Tuning using Optuna (XGBoost):
+    Hyper-parameter tuning results obtained from the Optuna library for XGBoost. 7.
+    Hyper-parameter Tuning using Optuna (Neural Network): Hyper-parameter tuning results
+    obtained from the Optuna library for neural network. 8. Final Model (XGBoost):
+    Model developed using XGBoost (saved as a .sav file). 9. Final Model (Neural Network):
+    Model developed using neural network (saved as a .sav file). 10. Measured and
+    Predicted MR on Testing Dataset (XGBoost): Table of measured MR values and MR
+    values predicted using the XGBoost model for the testing dataset. 11. Measured
+    and Predicted MR on Testing Dataset (Neural Network): Table of measured MR values
+    and MR values predicted using the neural network model for the testing dataset.
+    12. Measured and Predicted MR on New Dataset (XGBoost): Table of measured MR values
+    and MR values predicted using the XGBoost model for a data from a new location.
+    13. Measured and Predicted MR on New Dataset (Neural Network): Table of measured
+    MR values and MR values predicted using the neural network model for a data from
+    a new location.'
+  keywords:
+    default:
+      keywords:
+        subject: Resilient modulus, XGBoost, machine learning, pavement
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7489186
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7489185
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anonymous:
+    individualname: Anonymous
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3645478
+  dataseturi: https://doi.org/10.5281/zenodo.3645478
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Crude oil degradation in loamy soil using Neem root extracts: An experimental
+    study'
+  abstract: The biodegradability of Total Petroleum Hydrocarbon (TPH) in loamy soil
+    amended using neem root extracts was investigated in this study. The neem roots
+    were soaked separately into predetermined volume of water to extract liquids from
+    the roots. The solution of neem-water and extract was then used as treatment to
+    remediate crude oil polluted loamy soil. The loamy soil was used for this study.
+    The physicochemical properties of the loamy soil before pollution, after pollution
+    and at the 84<sup>th</sup> day of treatment were determined, while analysis for
+    the total bacteria count and TPH were carried out for 84<sup>th</sup> days at
+    14 days interval. Density, electrical conductivity (EC), moisture content (MC),
+    total organic carbon (TOC), total nitrogen (TN) and phosphorus (P) in the soils
+    increased after pollution, except for pH, which was the opposite. However, density,
+    EC, MC, TOC, TN and P decreased remarkably with time under treatment, while pH
+    increased from acidity to neutrality after the treatments. The total bacteria
+    count increased across the soils with treatments up to the 56th day of analysis,
+    but declined gradually thereafter due to depletion of the nutrients in the loamy
+    soil. The degradation of TPH in the loamy soil decreased across the process, but
+    higher in the loamy soil with treatment. However, TPH removal was higher with
+    treatment in water solution with performed of neem extract. The TPH degradation
+    percentage at the 84<sup>th</sup> day was determined and the response thus observed
+    was promising for the degradation of pollutant in soil.
+  keywords:
+    default:
+      keywords:
+        subject: Biodegradability
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-07-01'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3645478
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3645477
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chukwuemeka-Peter-Ukpaka:
+    individualname: Chukwuemeka Peter Ukpaka
+    role: creator
+    organization: Department of Chemical/Petrochemical Engineering, Rivers State University,
+      Port Harcourt, Rivers State, Nigeria
+    url: ''
+  Sinee-Barilee-Lezorghia:
+    individualname: Sinee Barilee Lezorghia
+    role: creator
+    organization: Department of Chemical/Petrochemical Engineering, Rivers State University,
+      Port Harcourt, Rivers State, Nigeria
+    url: ''
+  Harmony-Nwosu:
+    individualname: Harmony Nwosu
+    role: creator
+  Nwosu-Harmony:
+    individualname: Nwosu, Harmony
+    role: ''
+    organization: Department of Petroleum Engineering, Rivers State University, Port
+      Harcourt, Rivers State, Nigeria
+    url: ''
+content_info: {}

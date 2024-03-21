@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1058613
+  dataseturi: https://doi.org/10.5281/zenodo.1058613
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Different Fertilization Methods On Soil Biological Indexes
+  abstract: 'Fertilization plays an important role in crop growth and soil improvement.
+    This study was conducted to determine the best fertilization system for wheat
+    production. Experiments were arranged in a complete block design with three replications
+    in two years. Main plots consisted of six methods of fertilization including (N1):
+    farmyard manure; (N2): compost; (N3): chemical fertilizers; (N4): farmyard manure
+    + compost; (N5): farmyard manure + compost + chemical fertilizers and (N6): control
+    were arranged in sub plots. The addition of compost or farm yard manure significantly
+    increased the soil microbial biomass carbon in comparison to the chemical fertilizer.
+    The dehydrogenase, phosphatase and urease activities in the N3 treatment were
+    significantly lower than in the farm yard manure and compost treatments.'
+  keywords:
+    default:
+      keywords:
+        subject: wheat.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-06-27'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1058613
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1058612
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khosro-Mohammadi:
+    individualname: Khosro Mohammadi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

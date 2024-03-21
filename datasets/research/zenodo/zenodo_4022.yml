@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1058417
+  dataseturi: https://doi.org/10.5281/zenodo.1058417
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Drafting The Design And Development Of Micro- Controller Based Portable Soil
+    Moisture Sensor For Advancement In Agro Engineering
+  abstract: 'Moisture is an important consideration in many
+
+    aspects ranging from irrigation, soil chemistry, golf course, corrosion
+
+    and erosion, road conditions, weather predictions, livestock feed
+
+    moisture levels, water seepage etc. Vegetation and crops always
+
+    depend more on the moisture available at the root level than on
+
+    precipitation occurrence. In this paper, design of an instrument is
+
+    discussed which tells about the variation in the moisture contents of
+
+    soil. This is done by measuring the amount of water content in soil by
+
+    finding the variation in capacitance of soil with the help of a
+
+    capacitive sensor. The greatest advantage of soil moisture sensor is
+
+    reduced water consumption. The sensor is also be used to set lower
+
+    and upper threshold to maintain optimum soil moisture saturation and
+
+    minimize water wilting, contributes to deeper plant root growth
+
+    ,reduced soil run off /leaching and less favorable condition for insects
+
+    and fungal diseases. Capacitance method is preferred because, it
+
+    provides absolute amount of water content and also measures water
+
+    content at any depth.'
+  keywords:
+    default:
+      keywords:
+        subject: Irrigation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-06-27'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1058417
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1058416
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Guneet-Mander:
+    individualname: Guneet Mander
+    role: creator
+    organization: ''
+    url: ''
+  Gurinder-Pal-Singh:
+    individualname: Gurinder Pal Singh
+    role: creator
+  Singh-Gurinder-Pal:
+    individualname: Singh, Gurinder Pal
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

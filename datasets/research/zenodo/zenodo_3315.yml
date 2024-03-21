@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Masram_2020
+  dataseturi: https://doi.org/10.35940/ijeat.D8978.049420
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Determination using PH Nutrient Relatively
+  abstract: '&lt;p&gt;INDIA, an agriculture-based country where the economy is dependent
+    on agriculture and climatic conditions. Primary reason of this project is to fulfil
+    the needs of farming quality by reducing excessive fertilizer abuse by controlling
+    some parameters. So, the parameters are temperature, moisture, light, Ph through
+    which we can identify the suitable crop and its nutrition level. Our project uses
+    3 types of sensors to increase productivity of the crops. Soil testing for productivity
+    is taken by proposal of supplements needs. We are using Arduino UNO with the sensors.
+    Determining the pH of soil is one of the key parameters for improving crop quality
+    so the amount of the amount of fertilizer used is adequate and not excessive for
+    the crops. Other main sensors used are light and hygrometer sensors. We can classify
+    plants based on their light needs like high, medium or low. So, the light received
+    by the crops depends upon the nearness of light. We should adequately address
+    spatial variation for crop productivity when we consider pH to rejuvenate agriculture.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - FERTILITY OF SOIL
+      - NPK
+      - REAL TIME DETECTION
+      - PH RANGE FOR CROPS.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Determination using PH Nutrient Relatively
+    url: http://dx.doi.org/10.35940/ijeat.D8978.049420
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bharati-Masram:
+    individualname: Bharati Masram
+    role: creator
+  Harsh-Mehta:
+    individualname: Harsh Mehta
+    role: creator
+  Harshal-Bokade:
+    individualname: Harshal Bokade
+    role: creator
+  Hritik-Jain:
+    individualname: Hritik Jain
+    role: creator
+  Shrawani-Wankhede:
+    individualname: Shrawani Wankhede
+    role: creator
+  Masram-Bharati:
+    individualname: Masram, Bharati
+    role: creator
+  Mehta-Harsh:
+    individualname: Mehta, Harsh
+    role: creator
+  Bokade-Harshal:
+    individualname: Bokade, Harshal
+    role: creator
+  Jain-Hritik:
+    individualname: Jain, Hritik
+    role: creator
+  Wankhede-Shrawani:
+    individualname: Wankhede, Shrawani
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

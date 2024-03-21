@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7985544
+  dataseturi: https://doi.org/10.5281/zenodo.7985544
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: AUTOMATIC IRRIGATION SYSTEM USING SOIL MOISTURE SENSOR AND TEMPERATURE SENSOR
+  abstract: The productivity of the crop depends on the soil, fertilizers, and water.
+    The fertilizers provide micronutrients for vegetable farming like nitrogen, zinc,
+    and others. To meet the increasing demand for food, crops should be able to withstand
+    the adverse effects produced by the environment and unpredictable sources. The
+    structure of smart agriculture is similar to networks, which are designed in 3
+    layers. Sensor layer to get information about various parameters, products, and
+    operating environment. Transport layer to communicate the obtained information
+    in between the various devices and as well as to and from a remote server. Application
+    layer to analyse, visualize and predict the data for further actions to be implemented.
+    In the proposed system, it uses multilinear regression to predict the water levels
+    and micro-nutrients that are excess for the crop cultivation because farmers need
+    analog data, not digital data. So that they can take necessary precautionary steps
+    to protect the field from getting damaged.
+  keywords:
+    default:
+      keywords:
+        subject: Agriculture,Microcontroller,sensors,Iot,Irrigation system
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-30'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7985544
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7985543
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B-Alekhya-hima-bindu:
+    individualname: B Alekhya hima bindu
+    role: creator
+  B-Alekhya-Hima-Bindu:
+    individualname: B Alekhya Hima Bindu
+    role: ''
+    organization: Santhiram engineering college
+    url: ''
+content_info: {}

@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10088337
+  dataseturi: https://doi.org/10.5281/zenodo.10088337
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A novel soluble di-iron monooxygenase from the soil bacterium Solimonas soli
+  abstract: Uploaded as required by the journal Environmental Microbiology.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10088337
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10088336
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Environmental-Microbiology:
+    individualname: Environmental Microbiology
+    role: creator
+  Yang-Sui-Nin-Nicholas:
+    individualname: Yang, Sui Nin Nicholas
+    role: creator
+    organization: ''
+    url: ''
+  Haritos-Victoria:
+    individualname: Haritos, Victoria
+    role: creator
+    organization: ''
+    url: ''
+  Kertesz-Michael:
+    individualname: Kertesz, Michael
+    role: creator
+    organization: ''
+    url: ''
+  Coleman-Nicholas:
+    individualname: Coleman, Nicholas
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

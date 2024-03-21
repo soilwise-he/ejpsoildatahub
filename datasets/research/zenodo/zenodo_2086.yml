@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7001773
+  dataseturi: https://doi.org/10.5281/zenodo.7001773
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of cultivating a rice crop under aerobic conditions with film mulching
+    on soil microbial activity
+  abstract: This article 'Effects of cultivating a rice crop under aerobic conditions
+    with film mulching on soil microbial activity' appeared in the International Rice
+    Research Notes series, created by the International Rice Research Institute (IRRI)
+    to expedite communication among scientists concerned with the development of improved
+    technology for rice and rice-based systems. The series is a mechanism to help
+    scientists keep each other informed of current rice research findings. The concise
+    scientific notes are meant to encourage rice scientists to communicate with one
+    another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: Aerobic conditions
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006-06-01'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7001773
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7001772
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cai-K.-Z.:
+    individualname: Cai, K. Z.
+    role: creator
+    organization: ''
+    url: ''
+  Luo-S.-M.:
+    individualname: Luo, S. M.
+    role: creator
+    organization: ''
+    url: ''
+  Fang-X.-A.:
+    individualname: Fang, X. A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

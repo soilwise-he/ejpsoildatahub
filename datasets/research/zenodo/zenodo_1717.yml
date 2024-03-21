@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: McGeorge_1914
+  dataseturi: https://doi.org/10.1021/ie50063a019
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Heat upon the Solubility of the Mineral Constituents of the
+    Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Heat upon the Solubility of the Mineral Constituents of the
+      Soil
+    url: http://dx.doi.org/10.1021/ie50063a019
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  McGeorge-William:
+    individualname: McGeorge, William
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

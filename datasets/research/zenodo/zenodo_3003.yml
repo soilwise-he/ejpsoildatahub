@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.999285
+  dataseturi: https://doi.org/10.5281/zenodo.999285
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Isolation Of Neurospora Crassa From Cocoa Farm Soil, Antibacterial And Identification
+    Of Bioactive Compounds In The Extract Using Gas Chromatography - Mass Spectrometer
+  abstract: 'Soil has been a free gift of nature that the creator has giving mankind
+    for exploration, there is a world-wide effort by the pharmaceutical chemists to
+    continue to search for new antibiotics, anti-viral, antiparasitic and host of
+    other novel drugs as a result of the grave consequences posed by the current diseases
+    that have developed resistance to many of the known drugs. Neurospora crassa from
+    Fifty years old cocoa farm soil in Ikota, Nigeria was isolated, cultured to yield
+    maximum bioactive compounds using locally designed and fabricated fermenter and
+    bioactive compounds were extracted in ethyl acetate and purified through column
+    chromatography. The fraction X5 was screened for antibacterial activities using
+    agar well diffusion; it has strong zones of inhibition (mm) against Staphylococcus
+    aureus, Bacillus substillis, and Escherichia coli. The results were better than
+    streptomycin standard. The strong antibacterial activities displayed may be connected
+    to the presence of bioactive compounds revealed by the  Gc-Ms and these are: 1H-indene,2,3-dihydro-4-methyl
+    having retention time 5.485, height area 310344 and % total 8.267; 1H-Indene,2,3-dihydro-1,2-dimethyl  with
+    retention time 6.375, height area 99678 and % total 3.214 and 1H-indene,1-ethylidene
+    having retention time 8.743, height area 134010 and % total 3.567, Naphthalene
+    having retention time 6.191, % of total 18.907 and peak height 700240. From the
+    research work, the cocoa farm soil is an eye opener for the pharmaceutical chemists
+    where they can beam their search point into for the discovery of new and novel
+    compounds that may have various biological activities.'
+  keywords:
+    default:
+      keywords:
+        subject: cocoa farm soil fermenter, antibacterial, 1H-indene, 2,3-dihydro-4-methyl,
+          1H-Indene,2, 3-dihydro-1, 2-dimethyl, 1H-indene,1-ethylidene and Naphthalene
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-01-11'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.999285
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.999284
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adewole-E:
+    individualname: Adewole E
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

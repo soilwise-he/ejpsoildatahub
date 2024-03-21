@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bumstead_1904
+  dataseturi: https://doi.org/10.2475/ajs.s4-17.98.97
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Properties of a radio-active gas found in the soil and water near New Haven
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Properties of a radio-active gas found in the soil and water near New Haven
+    url: http://dx.doi.org/10.2475/ajs.s4-17.98.97
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bumstead-H.-A.:
+    individualname: Bumstead, H. A.
+    role: creator
+  Wheeler-L.-P.:
+    individualname: Wheeler, L. P.
+    role: creator
+  American-Journal-of-Science-AJS:
+    individualname: American Journal of Science (AJS)
+    role: creator
+content_info: {}

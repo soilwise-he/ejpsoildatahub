@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.827091
+  dataseturi: https://doi.org/10.5281/zenodo.827091
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Report
+identification:
+  title: Assessment Of The Potential Risks Associated With The Proposed Use Of Composted
+    Waste From The Production Of Bacitracin As A Soil Additive
+  abstract: 'Bacitracin is a hexapeptide antibiotic produced by some strains of B.
+    licheniformis. It is mainly active against Grampositive bacteria, although many
+    differences in susceptibility exist among the bacterial species.<br>
+
+    The Norwegian Food Safety Authority commissioned a risk assessment regarding the
+    use of composted waste material from production of bacitracin, as a soil additive.
+    The Panel on Biological Hazards concludes that the risks to human health and the
+    environment posed by residual bacitracin present in the finished product are minimal.
+    As Bacillus licheniformis is considered non-pathogenic the risk posed by this
+    bacterium to human health or the environment is very low. It is reasonable to
+    assume that during the early composting process horizontal transfer of bacitracin
+    and erythromycin resistance genes, from the B. licheniformis producer strain to
+    environmental bacteria, will exceed background levels. This is considered to represent
+    a low risk to human health and the environment.'
+  keywords:
+    default:
+      keywords:
+        subject: http://id.agrisemantics.org/gacs/C5232
+        subjectScheme: url
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006-05-10'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.827091
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.827090
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Norwegian-Scientific-Committee-for-Food-Safety:
+    individualname: Norwegian Scientific Committee for Food Safety
+    role: creator
+  Norwegian-Scientific-Committee-For-Food-Safety:
+    individualname: Norwegian Scientific Committee For Food Safety
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

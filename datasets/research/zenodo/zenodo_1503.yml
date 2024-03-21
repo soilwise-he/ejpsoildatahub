@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5004212
+  dataseturi: https://doi.org/10.5281/zenodo.5004212
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Study on Imidacloprid Induced Intoxication and Its Biodegradation by Soil
+    Isolate Bacillus weihenstephanensis
+  abstract: '<strong>Aims: </strong>The study was conducted to investigate the effect
+    of imidacloprid on biochemical parameters and soil isolate growth. The soil isolate
+    was also studied for imidacloprid degradation. <strong>Study Design: </strong>The
+    soil isolate was identified and used for toxicity testing. The isolate of <em>Bacillus
+    weihenstephanensis</em> was further tested for its ability to degrade imidacloprid
+    in minimal salt medium (MSM) and tryptic soya medium (TSB). The role of plasmid
+    in imidacloprid degradation was established by curing experiments. <strong>Place
+    and Duration of Study: </strong>Department of Biotechnology and Microbiology,
+    Karnatak University, Dharwad, India between June 2011 and December 2012. <strong>Methodology:
+    </strong>The soil isolate was identified by morphological, biochemical characters
+    and 16s rDNA identification. Effect of imidacloprid on DNA, RNA, protein, glucose
+    and growth in soil isolate was studied with 10<sup>-3</sup> to 10<sup>-7</sup>
+    molar imidacloprid for 96 h. Imidacloprid degradation was determined in MSM and
+    TSB for 28 days with samples taken on 7, 14, 21 and 28<sup>th</sup> day. The insecticide
+    concentration was tested by HPLC. Plasmid curing was performed. <strong>Results:
+    </strong>The soil isolate was identified as <em>Bacillus weihenstephanensis</em>.
+    The study involving soil isolate <em>Bacillus weihenstephanensis</em> with 10<sup>-3</sup>
+    to 10<sup>-7</sup> molar imidacloprid showed significant (P&lt;0.05) decrease
+    in content of DNA, RNA, protein, glucose and growth. <em>Bacillus weihenstephanensis</em>
+    in MSM and TSB showed 46 and 78% imidacloprid degradation in four weeks. The plasmid
+    of <em>Bacillus weihenstephanensis</em> was cured in fourth generation. 18.80%
+    and 75% degradation observed in cured and non cure cells of <em>Bacillus weihenstephanensis
+    </em>in TSB. <strong>Conclusion: </strong>Study showed that imidacloprid affects
+    the biochemical contents and intern growth of soil isolate <em>Bacillus weihenstephanensis</em>.
+    Study also revealed that <em>Bacillus</em> <em>weihenstephanensis </em>was able
+    to degrade imidacloprid in MSM and TSB. Further plasmid curing revealed that the
+    genes for imidacloprid degradation are located both in plasmid and chromosome.
+    The soil isolate was able to utilize imidacloprid as sole carbon and nitrogen
+    source as indicated by its growth in MSM.'
+  keywords:
+    default:
+      keywords:
+        subject: biodegradation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-04'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5004212
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5004211
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  Arun-Shetti:
+    individualname: Arun Shetti
+    role: creator
+  B.-B.-Kaliwal:
+    individualname: B. B. Kaliwal
+    role: creator
+    organization: Department of Computer Application, Visvesvaraya Technological University,
+      P. G. Center Gulbarga, India.
+    url: ''
+  R.-B.-Kaliwal:
+    individualname: R. B. Kaliwal
+    role: creator
+    organization: Department of Biotechnology and Microbiology, Karnatak University,
+      Dharwad, India.
+    url: ''
+  Shetti-Arun:
+    individualname: Shetti, Arun
+    role: ''
+    organization: Department of Botany, GMS Academy First Grade College, P. B. Road,
+      Davangere, India.
+    url: ''
+content_info: {}

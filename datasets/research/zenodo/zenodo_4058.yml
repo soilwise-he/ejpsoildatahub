@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2655902
+  dataseturi: https://doi.org/10.5281/zenodo.2655902
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Production of Organic Solvent Tolerant Hydrolytic Enzymes (Amylase and Protease)
+    by Bacteria Isolated from Soil of a Dairy Farm
+  abstract: Organic solvent tolerant amylases and proteases of microbial origin are
+    in great demand for their application in transglycosylation of water-insoluble
+    flavanoids and in peptide synthesizing reaction in organic media. Most of the
+    amylases and proteases are unstable in presence of organic solvent. In the present
+    work two different bacterial strains M-11 and VP-07 were isolated from the soil
+    sample of a dairy farm in Delhi, India, for the efficient production of extracellular
+    amylase and protease through their screening on starch agar (SA) and skimmed milk
+    agar (SMA) plates, respectively. Both the strains (M-11 and VP-07) were identified
+    based on morphological, biochemical and 16S rRNA gene sequencing methods. After
+    analysis through Ez-Taxon software, the strains M-11 and VP-07 were found to have
+    maximum pairwise similarity of 98.63% and 100% with Bacillus subtilis subsp. inaquosorum
+    BGSC 3A28 and Bacillus anthracis ATCC 14578 and were therefore identified as Bacillus
+    sp. UKS1 and Bacillus sp. UKS2, respectively. Time course study of enzyme activity
+    and bacterial growth has shown that both strains exhibited typical sigmoid growth
+    behavior and maximum production of amylase (180 U/ml) and protease (78 U/ml) by
+    these strains (UKS1 and UKS2) was commenced during stationary phase of growth
+    at 24 and 20 h, respectively. Thereafter, both amylase and protease were tested
+    for their tolerance towards organic solvents and were found to be active as well
+    stable in p-xylene (130% and 115%), chloroform (110% and 112%), isooctane (119%
+    and 107%), benzene (121% and 104%), n-hexane (116% and 103%) and toluene (112%
+    and 101%, respectively). Owing to such properties, these enzymes can be exploited
+    for their potential application in industries for organic synthesis.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-01-20'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2655902
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2655901
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alok-Kumar:
+    individualname: Alok Kumar
+    role: creator
+  Hari-Ram:
+    individualname: Hari Ram
+    role: creator
+  Lebin-Thomas:
+    individualname: Lebin Thomas
+    role: creator
+    organization: ''
+    url: ''
+  Ved-Pal-Singh:
+    individualname: Ved Pal Singh
+    role: creator
+    organization: ''
+    url: ''
+  Kumar-Alok:
+    individualname: Kumar, Alok
+    role: ''
+    organization: ''
+    url: ''
+  Ram-Hari:
+    individualname: Ram, Hari
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

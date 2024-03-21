@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3607793
+  dataseturi: https://doi.org/10.5281/zenodo.3607793
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Using GIS and Map Data for the Analysis of the Relationship between Soil
+    and Groundwater Quality at Saline Soil Area of Kham Sakaesaeng District, Nakhon
+    Ratchasima, Thailand
+  abstract: The study area is Kham Sakaesaeng District in Nakhon Ratchasima Province,
+    the south section of Northeastern Thailand, located in the Lower Khorat-Ubol Basin.
+    This region is the one of saline soil area, located in a dry plateau and regularly
+    experience standing with periods of floods and alternating with periods of drought.
+    Especially, the drought in the summer season causes the major saline soil and
+    saline water problems of this region. The general cause of dry land salting resulted
+    from salting on irrigated land, and an excess of water leading to the rising water
+    table in the aquifer. The purpose of this study is to determine the relationship
+    of physical and chemical properties between the soil and groundwater. The soil
+    and groundwater samples were collected in both rainy and summer seasons. The content
+    of pH, electrical conductivity (EC), total dissolved solids (TDS), chloride and
+    salinity were investigated. The experimental result of soil and groundwater samples
+    show the slightly pH less than 7, EC (186 to 8,156 us/cm and 960 to 10,712 us/cm),
+    TDS (93 to 3,940 ppm and 480 to 5,356 ppm), chloride content (45.58 to 4,177,015
+    mg/l and 227.90 to 9,216,736 mg/l), and salinity (0.07 to 4.82 ppt and 0.24 to
+    14.46 ppt) in the rainy and summer seasons, respectively. The distribution of
+    chloride content and salinity content were interpolated and displayed as a map
+    by using ArcMap 10.3 program, according to the season. The result of saline soil
+    and brined groundwater in the study area were related to the low-lying topography,
+    drought area, and salt-source exposure. Especially, the Rock Salt Member of Maha
+    Sarakham Formation was exposed or lies near the ground surface in this study area.
+    During the rainy season, salt was eroded or weathered from the salt-source rock
+    formation and transported by surface flow or leached into the groundwater. In
+    the dry season, the ground surface is dry enough resulting salt precipitates from
+    the brined surface water or rises from the brined groundwater influencing the
+    increasing content of chloride and salinity in the ground surface and groundwater.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-14'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3607793
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3607792
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  W.-Thongwat:
+    individualname: W. Thongwat
+    role: creator
+    organization: ''
+    url: ''
+  B.-Terakulsatit:
+    individualname: B. Terakulsatit
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

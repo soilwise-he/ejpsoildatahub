@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7688040
+  dataseturi: https://doi.org/10.5281/zenodo.7688040
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: PROFILE DESCRIPTION AND SOIL SAMPLING PROTOCOLS FOR THE NATIONAL SOIL INVENTORY
+    OF SCOTLAND (2007-2009)
+  abstract: 'The National Soil Inventory of Scotland (NSIS 1978-88) dataset was collected
+    at locations arranged on a 10 km grid across the country. The soil and landscape
+    at each sampling location are described and a wide range of soil properties are
+    measured in the laboratory from soil samples taken at these locations. These include
+    contextual information describing the surrounding landscape (such as slope and
+    vegetation) and detailed chemical and physical analyses of each horizon (layer)
+    within the soil profile. Between 2007 and 2009, 25% of these sites were revisited
+    and resampled to: determine evidence of change in soil properties compare sampling
+    methods measure new soil attributes to test their suitability as indicators of
+    soil quality develop and test new methods for assessing soil quality These protocols
+    outline the sampling procedures and the definitions for the recording of the environmental
+    and morphological characteristics at each site. The document consists of two main
+    parts: the protocols for recording site and morphological characteristics and
+    the sampling protocols. Within the former, the document describes and defines
+    the attributes used to describe the site; the soil morphological attributes of
+    organic horizons and the soil morphological attributes of mineral horizons. Appendices
+    show an example of the profile description profoma, the rock type codes and the
+    horizon nomenclature. Related documentation (NSIS 1978-88) and a paper outlining
+    changes in soil carbon stocks are also available ( DOI:10.5281/zenodo.4650230
+    and <em>https://doi.org/10.1111/ejss.12041</em><em>). The work was funded by the
+    Scottish Government.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Detecting change
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-03-01'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7688040
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7688039
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lilly-A.:
+    individualname: Lilly, A.
+    role: creator
+    organization: James Hutton Institute
+    url: https://orcid.org/0000-0002-0142-9269
+  Bell-J.S.:
+    individualname: Bell, J.S.
+    role: creator
+    organization: James Hutton Institute
+    url: ''
+  Hudson-G.:
+    individualname: Hudson, G.
+    role: creator
+    organization: James Hutton Institute
+    url: ''
+  Nolan-A.J.:
+    individualname: Nolan, A.J.
+    role: creator
+    organization: James Hutton Institute
+    url: ''
+  Towers-W.:
+    individualname: Towers, W.
+    role: creator
+    organization: James Hutton Institute
+    url: ''
+content_info: {}

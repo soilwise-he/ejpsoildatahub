@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8320840
+  dataseturi: https://doi.org/10.5281/zenodo.8320840
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Study of Saline Water Effect on Geotechnical Properties of High Plastic Soil
+  abstract: In this project work, we observed how the fine-<br> grained soil properties
+    affect by saline water. In the laboratory, several tests were conducted. The test
+    was<br> conducted with and without Sodium Chloride<br> concentration. By adding
+    Sodium chloride concentration<br> to the soil, the liquid and plastic limit decreases
+    with<br> increases its concentration. As we know for the<br> classification of
+    soil, the liquid limit was an important<br> factor. So in this project work, we
+    study how salinity<br> affects liquid limit and how it is carried out for future<br>
+    work purposes. Also, the plastic limit is affected by saline<br> water, so plasticity
+    index varies. Here we have discussed<br> the result and the relative graphs such
+    as Liquid limit vs<br> NaCl concentration on High plastic soil, Plastic limit
+    vs<br> NaCl concentration on High plastic soil, OMC vs NaCl<br> concentration
+    on High plastic soil, MDD vs NaCl<br> concentration on High plastic soil and also
+    compared the<br> results of distilled water.
+  keywords:
+    default:
+      keywords:
+        subject: Liquid limit, Plastic limit, Standard Proctor, Saline water.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-05'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8320840
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8318758
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chandan-Kumar-Behera:
+    individualname: Chandan Kumar Behera
+    role: creator
+  Lopamudra-Sahoo:
+    individualname: Lopamudra Sahoo
+    role: creator
+    organization: ''
+    url: ''
+  Pankaj-Kumar-Dash:
+    individualname: Pankaj Kumar Dash
+    role: creator
+  Behera-Chandan-Kumar:
+    individualname: Behera, Chandan Kumar
+    role: ''
+    organization: ''
+    url: ''
+  Dash-Pankaj-Kumar:
+    individualname: Dash, Pankaj Kumar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

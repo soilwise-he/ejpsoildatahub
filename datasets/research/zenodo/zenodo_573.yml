@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10184814
+  dataseturi: https://doi.org/10.5281/zenodo.10184814
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Woody and herbaceous invasive alien plant species derived biochars are potentially
+    optimal for soil amendment, soil remediation, and carbon storage
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: 2023/2024
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10184814
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10184813
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ceriani-Alex:
+    individualname: Ceriani, Alex
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: 0009-0007-9470-3063
+  Dalle-Fratte-Michele:
+    individualname: Dalle Fratte, Michele
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: 0000-0002-7907-1586
+  Agosto-Gustavo:
+    individualname: Agosto, Gustavo
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: ''
+  Beatrice-Peter:
+    individualname: Beatrice, Peter
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: 0000-0001-8331-8273
+  Reguzzoni-Marcella:
+    individualname: Reguzzoni, Marcella
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: 0000-0003-3738-6632
+  Bettucci-Lorenzo:
+    individualname: Bettucci, Lorenzo
+    role: creator
+    organization: Re-Cord, Renewable Energy Consortium for R&D
+    url: 0009-0009-5804-6654
+  Casini-David:
+    individualname: Casini, David
+    role: creator
+    organization: Re-Cord, Renewable Energy Consortium for R&D
+    url: 0000-0002-8106-2611
+  Cerabolini-Bruno-Enrico-Leone:
+    individualname: Cerabolini, Bruno Enrico Leone
+    role: creator
+    organization: "Universit\xE0 degli studi dell'Insubria"
+    url: 0000-0002-3793-0733
+  Montagnoli-Antonio:
+    individualname: Montagnoli, Antonio
+    role: creator
+    organization: "Universit\xE0 degli Studi dell'Insubria"
+    url: 0000-0002-8921-0754
+content_info: {}

@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3949779
+  dataseturi: https://doi.org/10.5281/zenodo.3949779
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of Minerology on the Engineering Properties of Lateritic Soil
+  abstract: Laterite is a soil which is having a high content of iron and aluminium
+    and is mostly found in hot and wet tropical areas. They are formed through a process
+    known as Laterization which is a combination of intensive and prolonged chemical
+    process and leaching. The mineralogical compound of various samples of lateritic
+    soils will be identified by carrying out microscopic analysis. The influence of
+    mineralogical composition on bearing capacity will be investigated by carrying
+    out laboratory scale load tests on model footings.
+  keywords:
+    default:
+      keywords:
+        subject: Laterite, Laterization, chemical weathering, oxides, mineral content,
+          soil, engineering properties, microscopic analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-07-17'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3949779
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3949778
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amrutha-U.A.:
+    individualname: Amrutha, U.A.
+    role: creator
+    organization: Student, Department of Civil Engineering, LBSITW, Trivandrum, Kerala,
+      India.
+    url: ''
+  Anjana-S.-Kumar:
+    individualname: Anjana S. Kumar
+    role: creator
+  Gopika-Chandran:
+    individualname: Gopika Chandran
+    role: creator
+    organization: Student, Department of Civil Engineering, LBSITW, Trivandrum, Kerala,
+      India.
+    url: ''
+  Jaseena-Amsaj-N.:
+    individualname: Jaseena Amsaj, N.
+    role: creator
+    organization: Student, Department of Civil Engineering, LBSITW, Trivandrum, Kerala,
+      India.
+    url: ''
+  Shruthi-Johnson:
+    individualname: Shruthi Johnson
+    role: creator
+    organization: Associate Professor, Department of Civil Engineering, LBSITW, Trivandrum,
+      Kerala, India.
+    url: ''
+  Dr.Jayamohan-J.:
+    individualname: Dr.Jayamohan, J.
+    role: creator
+    organization: Professor, Department of Civil Engineering, LBSITW, Trivandrum,
+      Kerala, India.
+    url: ''
+  Kumar-Anjana-S.:
+    individualname: Kumar, Anjana S.
+    role: ''
+    organization: Student, Department of Civil Engineering, LBSITW, Trivandrum, Kerala,
+      India.
+    url: ''
+content_info: {}

@@ -1,0 +1,132 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mart_nez_Cuesta_2023
+  dataseturi: https://doi.org/10.3389/fmicb.2023.1158130
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Field scale biodegradation of total petroleum hydrocarbons and soil restoration
+    by Ecopiles: microbiological analysis of the process'
+  abstract: '&lt;p&gt;Ecopiling is a method for biodegradation of hydrocarbons in
+    soils. It derives from Biopiles, but phytoremediation is added to biostimulation
+    with nitrogen fertilization and bioaugmentation with local bacteria. We have constructed
+    seven Ecopiles with soil heavily polluted with hydrocarbons in Carlow (Ireland).
+    The aim of the study was to analyze changes in the microbial community during
+    ecopiling. In the course of 18&thinsp;months of remediation, total petroleum hydrocarbons
+    values decreased in 99 and 88% on average for aliphatics and aromatics, respectively,
+    indicating a successful biodegradation. Community analysis showed that bacterial
+    alfa diversity (Shannon Index), increased with the degradation of hydrocarbons,
+    starting at an average value of 7.59 and ending at an average value of 9.38. Beta-diversity
+    analysis, was performed using Bray-Curtis distances and PCoA ordination, where
+    the two first principal components (PCs) explain the 17 and 14% of the observed
+    variance, respectively. The results show that samples tend to cluster by sampling
+    time instead of by Ecopile. This pattern is supported by the hierarchical clustering
+    analysis, where most samples from the same timepoint clustered together. We used
+    DSeq2 to determine the differential abundance of bacterial populations in Ecopiles
+    at the beginning and the end of the treatment. While TPHs degraders are more abundant
+    at the start of the experiment, these populations are substituted by bacterial
+    populations typical of clean soils by the end of the biodegradation process. Similar
+    results are found for the fungal community, indicating that the microbial community
+    follows a succession along the process. This succession starts with a TPH degraders
+    or tolerant enriched community, and finish with a microbial community typical
+    of clean soils.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Ecopile
+      - hydrocarbon
+      - bioremediation
+      - microbial succession
+      - microbiota
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Field scale biodegradation of total petroleum hydrocarbons and soil restoration
+      by Ecopiles: microbiological analysis of the process'
+    url: http://dx.doi.org/10.3389/fmicb.2023.1158130
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ruben-Martinez-Cuesta:
+    individualname: "Ruben Mart\xEDnez-Cuesta"
+    role: creator
+  Robert-Conlon:
+    individualname: Robert Conlon
+    role: creator
+  Mutian-Wang:
+    individualname: Mutian Wang
+    role: creator
+  Esther-Blanco-Romero:
+    individualname: Esther Blanco-Romero
+    role: creator
+  David-Duran:
+    individualname: "David Dur\xE1n"
+    role: creator
+  Miguel-Redondo-Nieto:
+    individualname: Miguel Redondo-Nieto
+    role: creator
+  David-Dowling:
+    individualname: David Dowling
+    role: creator
+  Daniel-Garrido-Sanz:
+    individualname: Daniel Garrido-Sanz
+    role: creator
+  Marta-Martin:
+    individualname: Marta Martin
+    role: creator
+  Kieran-Germaine:
+    individualname: Kieran Germaine
+    role: creator
+  Rafael-Rivilla:
+    individualname: Rafael Rivilla
+    role: creator
+  Martinez-Cuesta-Ruben:
+    individualname: "Mart\xEDnez-Cuesta, Ruben"
+    role: creator
+  Conlon-Robert:
+    individualname: Conlon, Robert
+    role: creator
+  Wang-Mutian:
+    individualname: Wang, Mutian
+    role: creator
+  Blanco-Romero-Esther:
+    individualname: Blanco-Romero, Esther
+    role: creator
+  Duran-David:
+    individualname: "Dur\xE1n, David"
+    role: creator
+  Redondo-Nieto-Miguel:
+    individualname: Redondo-Nieto, Miguel
+    role: creator
+  Dowling-David:
+    individualname: Dowling, David
+    role: creator
+  Garrido-Sanz-Daniel:
+    individualname: Garrido-Sanz, Daniel
+    role: creator
+  Martin-Marta:
+    individualname: Martin, Marta
+    role: creator
+  Germaine-Kieran:
+    individualname: Germaine, Kieran
+    role: creator
+  Rivilla-Rafael:
+    individualname: Rivilla, Rafael
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

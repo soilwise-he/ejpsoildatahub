@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10400244
+  dataseturi: https://doi.org/10.5281/zenodo.10400244
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil fauna associated with different intensification levels in rice rotation
+    systems of Uruguay.
+  abstract: 'The soil fauna is composed of a large variety of organisms with different
+    sizes and adaptive strategies that determine the way they influence soil processes.
+    Given the role they play in soils, they are good indicators of soil conservation
+    status. Abundance and presence parameters of soil fauna are used to assess soil
+    health status. Rice is one of the main crops in Uruguay with an export-oriented
+    production. Uruguayan rice agroecosystem was historically rotated with pastures
+    and, more recently, with other crops like sorghum and soybean. Economic pressure
+    due to the demand for food affects the farmer''s rotation design, increasing the
+    frequency of rice or shortening the pasture phase in the rotation cycle. These
+    processes of intensification impose soil changes that can affect the associated
+    diversity. To know how these changes can affect the diversity and conservation
+    of soil fauna we conducted a study in a long-term experiment on rice rotation
+    systems in eastern Uruguay. The soil fauna composition was studied in four contrasting
+    rotations: continuous rice (CR), rice and long pasture (RP), rice and short pasture
+    (RSP), and rice and soybean (RS). Soil fauna was extracted from soil monoliths
+    (0-10 and 10-20 cm) and pitfall traps during 2020-2021 and 2021-2022 during sowing
+    and after harvest. The effects of rotation on the diversity, abundance, and functional
+    groups of soil fauna were determined to infer the soil health status of each system.
+    No major differences were found in the number of taxa among the rotations studied.
+    The abundance of soil fauna decreased in the second season sampled in all rotations,
+    which may be due to sensitivity crop intensification effects, such as phytosanitary
+    products exposure and management practices, without ruling out the effects of
+    sampling effort. Community composition showed that RSP and RS were the most similar
+    in both years, pointing to an effect of similar fallow time between rice plantings.
+    The similarity index showed that, although the abundance of the fauna was affected,
+    a similar behavior was maintained in the two sampling years. This result may indicate
+    a degree of adaptation of the organisms observed.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10400244
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10400243
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  De-Los-Santos-Patricia:
+    individualname: De Los Santos, Patricia
+    role: creator
+    organization: Cenur, Rivera, Uruguay
+    url: ''
+  Benamu-Marco:
+    individualname: Benamu, Marco
+    role: creator
+    organization: INIA, Treinta y Tres, Uruguay
+    url: ''
+  Martinez-Sebastian:
+    individualname: "Mart\xEDnez, Sebasti\xE1n"
+    role: creator
+    organization: INIA, Treinta y Tres, Uruguay
+    url: ''
+content_info: {}

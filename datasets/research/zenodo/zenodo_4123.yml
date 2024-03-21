@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3465459
+  dataseturi: https://doi.org/10.5281/zenodo.3465459
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Assessment of earthquake-induced- risk of soil liquefaction using CPT-based
+    methods: application to the case study of Cavezzo municipality (Italy)'
+  abstract: Geophysical Research Abstracts, European Geosciences Union General Assembly
+    2019, EGU 2019, April 7-12 2019, Vienna, Austria.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-09-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3465459
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3465458
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gomez-J.C.:
+    individualname: Gomez, J.C.
+    role: creator
+    organization: Helmholtzcentre Potsdam German Research Centre for Geosciences,
+      Potsdam, Germany
+    url: ''
+  Bozzoni-F.:
+    individualname: Bozzoni, F.
+    role: creator
+    organization: EUCENTRE
+    url: ''
+  Fama-A.:
+    individualname: "Fam\xE0, A."
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Lai-C.-G.:
+    individualname: Lai, C. G.
+    role: creator
+    organization: University of Pavia
+    url: ''
+content_info: {}

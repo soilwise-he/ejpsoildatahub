@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: RUSSELL_1912
+  dataseturi: https://doi.org/10.1038/088541a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The Story of the Soil: from the Basis of Absolute Science and Real Life'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The Story of the Soil: from the Basis of Absolute Science and Real Life'
+    url: http://dx.doi.org/10.1038/088541a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hopkins-Cyril-G.-Cyril-George-1866-1919:
+    individualname: Hopkins, Cyril G. (Cyril George) 1866-1919
+    role: creator
+  Russell-E.-J.:
+    individualname: Russell, E. J.
+    role: creator
+  RUSSELL-E.-J.:
+    individualname: RUSSELL, E. J.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

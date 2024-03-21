@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6622321
+  dataseturi: https://doi.org/10.5281/zenodo.6622321
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: NEW ASPECTS OF NITROGEN FIXATION AND CONSERVATION IN THE SOIL. PART III INFLUENCE
+    OF LIGHT ON BACTERIAL NUMBERS AND NITROGEN FIXATION.
+  abstract: "Nitrogen fixation is always greater in the soils exposed to sunlight\
+    \ than in those kept in dark or covered, while the numbers of azotobacter, total\
+    \ bacteria and fungi are less in the former than in the latter. The optimum temperature\
+    \ for azotobacter is 35\xB0 in tropical soils as against 25\xB0 (26--30\xB0) in\
+    \ temperate climates. The observed greater nitrogen fixation in the exposed soils\
+    \ is not at all due to the increase of temperature but is caused by sunlight.\
+    \ On the addition of cellulosic substances, the available nitrogen decreases.\
+    \ Organic manures like co\" dung, hay. molasses etc. are beneficial because they\
+    \ fix atmospheric nitrogen in the soil."
+  keywords:
+    default:
+      keywords:
+        subject: Oxidation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1939-12-31'
+    publication: '1939'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6622321
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6622320
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-R.-DHAR:
+    individualname: N. R. DHAR
+    role: creator
+    organization: ''
+    url: ''
+  E.-V.-SESHACHARYULU:
+    individualname: E. V. SESHACHARYULU
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

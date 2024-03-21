@@ -1,0 +1,118 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Diongue_2022
+  dataseturi: https://doi.org/10.5194/egusphere-egu22-9499
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Comparing the performances of Pedotransfer Functions with Hydrus 1D Inverse
+    Parameters Estimation in a deep cultivated sahelian soil
+  abstract:
+  - '&lt;p&gt;Abstract&lt;/p&gt;
+
+
+    &lt;p&gt;Knowledge about soil water balance and ecosystem water partitioning is
+    crucial for managing soils in semi-arid areas like the Sahel, but hydraulic parameters
+    are hardly available to run either parsimonious or detailed process models. This
+    study aims at bridging this parameterization gap in a typical deep (&gt; 2m) loamy
+    sand soil from the groundnut basin in Senegal[1]. Five approaches of soil hydraulic
+    parameterization with a range of different complexity were compared: (1) the lookup
+    table of Carsel and Parrish (1988) that use only the soil texture class known
+    as &ldquo;Class PTFs&rdquo;, (2) Rosetta PTFs from only topsoil characterization,
+    (3) Rosetta PTFs with a detailed multilayer soil characterization, and inverse
+    estimation from soil moisture using Hydrus-1D, considering the soil column either
+    as (4) a single soil material and (5) with three-layered soil material. We compared
+    the predicted (i) soil water content (SWC) with high-frequency measurements from
+    15 cm down to 200 cm deep and (ii) actual evapotranspiration (ET) with Eddy Covariance
+    (EC) data during four consecutive growing seasons under a rotation of pearl millet
+    and peanut crops. The simplest methods (1 &amp; 2) resulted in a significant bias
+    of the predicted SWC, with, however, some predictive ability of Method 2 to simulate
+    the general trends of Swc, especially under peanut crops. Method 3 behaved reasonably
+    with average RMSE for SWC, varying between 0.029 and 0.023 cm&lt;sup&gt;-3&lt;/sup&gt;&nbsp;cm&lt;sup&gt;-3&lt;/sup&gt;.
+    Method 4 further improved the predictions with RMSE ranging from 0.013 to 0.020
+    cm&lt;sup&gt;-3&lt;/sup&gt;&nbsp;cm&lt;sup&gt;-3&lt;/sup&gt;. The best agreement
+    was found under peanut using Method 5 (RMSE &le; 0.013 cm&lt;sup&gt;3&lt;/sup&gt;&nbsp;cm&lt;sup&gt;-3&lt;/sup&gt;).
+    Methods 3, 4 or 5 behaved satisfactorily for predicting ET whatever the crop,
+    e.g. Method 4 (RMSE= 0.05 cm day-1, NSE= 0.9 and R&sup2;= 0.93) for pearl millet.&lt;/p&gt;'
+  - 'EGU 2022, 3-8 April 2022, Session SSS6.7: Advancing soil parameterization in
+    Earth system modelling.'
+  keywords:
+    default:
+      keywords:
+      - soil
+      - soil water balance
+      - sahel
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Comparing the performances of Pedotransfer Functions with Hydrus 1D Inverse
+      Parameters Estimation in a deep cultivated sahelian soil
+    url: http://dx.doi.org/10.5194/egusphere-egu22-9499
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Djim-M-L-Diongue:
+    individualname: Djim M L Diongue
+    role: creator
+  Frederic-C-Do:
+    individualname: Frederic C Do
+    role: creator
+  Christine-Stumpp:
+    individualname: Christine Stumpp
+    role: creator
+  Didier-Orange:
+    individualname: Didier Orange
+    role: creator
+  Christophe-Jourdan:
+    individualname: Christophe Jourdan
+    role: creator
+  Sidy-Sow:
+    individualname: Sidy Sow
+    role: creator
+  Serigne-Faye:
+    individualname: Serigne Faye
+    role: creator
+  Olivier-Roupsard:
+    individualname: Olivier Roupsard
+    role: creator
+  Diongue-Djim-M-L:
+    individualname: Diongue, Djim M L
+    role: creator
+  Do-Frederic-C:
+    individualname: Do, Frederic C
+    role: creator
+  Stumpp-Christine:
+    individualname: Stumpp, Christine
+    role: creator
+  Orange-Didier:
+    individualname: Orange, Didier
+    role: creator
+  Jourdan-Christophe:
+    individualname: Jourdan, Christophe
+    role: creator
+  Sow-Sidy:
+    individualname: Sow, Sidy
+    role: creator
+  Faye-Serigne:
+    individualname: Faye, Serigne
+    role: creator
+  Roupsard-Olivier:
+    individualname: Roupsard, Olivier
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

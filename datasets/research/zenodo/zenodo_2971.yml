@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3459067
+  dataseturi: https://doi.org/10.5281/zenodo.3459067
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Soil-archaeological researches of territory of a fortress Nienschanz on
+    a complex siting Okhta-Centre (St.-Petersburg): Memory of a landscape'
+  abstract: Basic components of the initial soil cover of the Okhta river mouth region
+    (sod-gleyed and gley soils) are characterized.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-03-15'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3459067
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3459066
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rusakov-A.V.:
+    individualname: Rusakov, A.V.
+    role: creator
+    organization: Saint Petersburg State University, St.-Petersburg, Russia
+    url: ''
+  Nikonov-A.A.:
+    individualname: Nikonov, A.A.
+    role: creator
+    organization: Institute Physics of the Earth, the Russian Academy of Sciences,
+      Moscow
+    url: ''
+  Pinachina-D.V.:
+    individualname: Pinachina, D.V.
+    role: creator
+    organization: Saint Petersburg State University, St.-Petersburg, Russia
+    url: ''
+content_info: {}

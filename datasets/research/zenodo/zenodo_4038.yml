@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1311614
+  dataseturi: https://doi.org/10.5281/zenodo.1311614
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Estuary Soil Sediments Derived Actinobacterial Isolates From Puducherry\
+    \ Region \u2013 Identification, Characterization And Antibacterial Properties\
+    \ Of Streptomyces Pas 9"
+  abstract: The actinobacterial strains were isolated from the soil sediments of estuary
+    region in Puducherry. The isolated strains of Actinobacteria were screened for
+    antimicrobial activities and the strain (actinobacterial strain PAS9) which proved
+    a broad spectrum activity was further selected for detailed biochemical characterizations.
+    The findings confirmed that the selected strain belonged to the genus Streptomyces
+    group. In this study, in addition to the evaluation of the antibacterial activity
+    of the selected strain against a battery of common human pathogens, the strain
+    is to be molecularly evaluated by sequencing the 16S rRNA gene.
+  keywords:
+    default:
+      keywords:
+        subject: 10.5281/zenodo.1311614
+        subjectScheme: doi
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-03-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1311614
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1311613
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Priya-M:
+    individualname: Priya M
+    role: creator
+  M-Priya:
+    individualname: M, Priya
+    role: ''
+    organization: Department of Microbiology, Indira Gandhi College of Arts and Science,
+      Puducherry-605 009, India
+    url: ''
+content_info: {}

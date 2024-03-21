@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Baum_2012
+  dataseturi: https://doi.org/10.3897/biorisk.7.2699
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Stand age characteristics and soil properties affect species composition
+    of vascular plants in short rotation coppice plantations
+  abstract: "&lt;p&gt;Woody biomass plantations on agricultural sites are an attractive\
+    \ source of biomass for bioenergy, but their effects on local biodiversity are\
+    \ unclear. This study\u2019s objective was to evaluate the influences of light\
+    \ availability, plantation age, and soil properties on phytodiversity in short\
+    \ rotation coppice (SRC) plantations. Ground vegetation mapping, irradiance measurement\
+    \ (PAR), and surface soil analyses were conducted in 15 willow and poplar SRC\
+    \ plantations in Central Sweden and Northern Germany. We performed different multivariate\
+    \ statistical methods like cluster analysis (CA), principal component analysis\
+    \ (PCA), and canonical correspondence analysis (CCA) in order to analyze species\
+    \ composition and the influence of irradiance, age, and soil properties on phytodiversity.\
+    \ CA revealed highest species composition similarities in SRC plantations in close\
+    \ proximity. PCA identified humus quality/essential plant nutrients, plantation\
+    \ age/irradiance effects, soil acidity and shoot age as the four principal components\
+    \ of the recorded parameters. The ground vegetation cover was negatively correlated\
+    \ with the plantation age component and positively with the nutrient component.\
+    \ With an increase in the plantation age component, a shift in species composition\
+    \ was proven towards more forest habitat species, more nutrient-demanding species,\
+    \ and increasing occurrence of indicator species for basic soils. Applying Ellenberg\
+    \ indicator values, basic soil indicator species corresponded in occurrence to\
+    \ increasing nutrient availability. However, species richness was not related\
+    \ to any of our studied site variables. Judged from CCA, species composition in\
+    \ SRC plantations was influenced by plantation age/irradiance, and nutrient availability;\
+    \ soil acidity and shoot age had no significant influence. Young poplar and willow\
+    \ SRC plantations showed greatest variation in photosynthetically active radiation\
+    \ (PAR). Our findings suggest that phytodiversity in SRC plantations depends mainly\
+    \ on plantation age and thus shifts over time.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - biodiversity
+      - poplar (Populus sp.)
+      - willow (Salix sp.)
+      - species composition
+      - photosynthetically active radiation (PAR)
+      - irradiance
+      - multivariate analysis
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Stand age characteristics and soil properties affect species composition
+      of vascular plants in short rotation coppice plantations
+    url: http://dx.doi.org/10.3897/biorisk.7.2699
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Baum-Sarah:
+    individualname: Baum, Sarah
+    role: creator
+  Weih-Martin:
+    individualname: Weih, Martin
+    role: creator
+  Bolte-Andreas:
+    individualname: Bolte, Andreas
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

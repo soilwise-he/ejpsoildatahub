@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Corral_Pazos_de_Provens_2018
+  dataseturi: https://doi.org/10.1002/ldr.3121
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Estimating the very fine sand fraction for calculating the soil erodibility\
+    \ K\u2010factor"
+  abstract: ''
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Estimating the very fine sand fraction for calculating the soil erodibility\
+      \ K\u2010factor"
+    url: http://dx.doi.org/10.1002/ldr.3121
+    type: www
+contact:
+  Wiley:
+    individualname: Wiley
+    role: creator
+  Corral-Pazos-de-Provens-Eva:
+    individualname: "Corral\u2010Pazos\u2010de\u2010Provens, Eva"
+    role: creator
+  Domingo-Santos-Juan-M.:
+    individualname: "Domingo\u2010Santos, Juan M."
+    role: creator
+  Rapp-Arraras-Igor:
+    individualname: "Rapp\u2010Arrar\xE1s, \xCDgor"
+    role: creator
+content_info: {}

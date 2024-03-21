@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Yandong_2013
+  dataseturi: https://doi.org/10.21307/ijssis-2017-569
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Analysis and Experimental Study of Optimal Soil Moisture Sensor Probe Length
+  abstract: two parallel needle moisture sensors has been widely used in Soil moisture
+    detection equipment, for example, frequency domain (FD), time domain reflectometry
+    (TDR) and standing wave ratio (SWR) measurement. The design of probe's port impedance
+    is key technology parameters to soil moisture sensor. In this study, according
+    to the relationships between the length and impedance characteristics of terminal
+    open and closed state probe were presented based on two-pin probe structure of
+    parallel resistance model. The best probe structure was simulated by high frequency
+    structure simulator software HFSS, which based on Maxwell's equations and finite
+    element method. According to experiment of soil water content by organic solution,
+    the theoretical analysis of the best structure of probe was further validated.
+  keywords:
+    default:
+      keywords:
+      - soil water content
+      - sensor
+      - length of probe
+      - impedance
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Analysis and Experimental Study of Optimal Soil Moisture Sensor Probe Length
+    url: http://dx.doi.org/10.21307/ijssis-2017-569
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yandong-Zhao:
+    individualname: Yandong, Zhao
+    role: creator
+  Mingjun-Nie:
+    individualname: Mingjun, Nie
+    role: creator
+  Walter-de-Gruyter-GmbH:
+    individualname: Walter de Gruyter GmbH
+    role: creator
+content_info: {}

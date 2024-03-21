@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Omelych_2021
+  dataseturi: https://doi.org/10.15587/1729-4061.2021.235845
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Improvement of the methodology for the assessment of soil biogenic pollution
+    through the use of geoecological approaches and the use of information technologies
+  abstract: '&lt;p&gt;The study of the components of the balance of biogenic elements
+    in anthropogenic ecosystems has been carried out and the mechanism for calculating
+    the balance of biogenic elements has been determined. The necessity of improving
+    the existing methodology is proved, which consists in preliminary modeling of
+    the catchment area using geoinformation methods. On the example of the mouth of
+    the river, a drainage area was modeled in Oril, during which the boundaries and
+    total catchment area were determined, which is 39.7 thousand hectares. Experimental
+    studies have determined the area of land according to their types of nature use
+    (industrial, residential, forestry and agricultural, etc.). It has been established
+    that only 15% of the investigated lands have agricultural use, however, it is
+    this type of nature management that most contributes to biogenic pollution of
+    this ecosystem. According to the results of calculations, it is determined that
+    up to 10 thousand tons of nitrogen and phosphorus, respectively, are accumulated
+    in the soil due to the excess use of mineral fertilizers. The results obtained
+    indicate the feasibility and practical attractiveness of the proposed approach
+    for calculating the balance of nutrients. Improvements include the application
+    of digital elevation model and normalized vegetation index geodata obtained using
+    ArcGIS Desktop software. It is shown that the technique used will allow obtaining
+    the results of the adjusted volumes of nitrogen and phosphorus accumulation in
+    soils and indicating the sources of their input.&lt;/p&gt;
+
+
+    &lt;p&gt;Thus, there are grounds for improving the methodology for calculating
+    the balance of nutrients through the use of information technology. The geoecological
+    approach will intensify the monitoring of nutrients, which will help to regulate
+    the pressure on the ecosystem&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil pollution
+      - nutrient balance
+      - drainage area modeling
+      - normalized vegetation index
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Improvement of the methodology for the assessment of soil biogenic pollution
+      through the use of geoecological approaches and the use of information technologies
+    url: http://dx.doi.org/10.15587/1729-4061.2021.235845
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Iryna-Omelych:
+    individualname: Iryna Omelych
+    role: creator
+  Natalia-Neposhyvailenko:
+    individualname: Natalia Neposhyvailenko
+    role: creator
+  Oleksandr-Zberovskyi:
+    individualname: Oleksandr Zberovskyi
+    role: creator
+  Iryna-Korniienko:
+    individualname: Iryna Korniienko
+    role: creator
+  Omelych-Iryna:
+    individualname: Omelych, Iryna
+    role: creator
+  Neposhyvailenko-Natalia:
+    individualname: Neposhyvailenko, Natalia
+    role: creator
+  Zberovskyi-Oleksandr:
+    individualname: Zberovskyi, Oleksandr
+    role: creator
+  Korniienko-Iryna:
+    individualname: Korniienko, Iryna
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

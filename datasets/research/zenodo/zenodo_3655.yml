@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4599103
+  dataseturi: https://doi.org/10.5281/zenodo.4599103
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: A study on prediction of soil properties content based on machine learning
+    models
+  abstract: The Indian economy is dependent on the agricultural sector. Although focused
+    on industrialization, agriculture remains an important sector of the Indian economy,
+    both in terms of contribution to gross domestic product (GDP) and jobs for millions
+    of people across the country. One of the key factors for productive agriculture
+    is soil. The purpose of the work is to predict the type of terrain using data
+    mining classification methods. Agricultural properties and soil ownership play
+    a crucial role in agricultural decision-making. Now-a-days there is a need to
+    study the nutrient status in lower horizons of the soil. Soil testing has played
+    historical role in evaluating soil fertility maintenance and in sustainable agriculture.
+    Soil testing shall also play its crucial role in precision agriculture. At present
+    there is a need to develop basic inventory as per soil test basis and necessary
+    information has to be built into the system for translating the results of soil
+    test to achieve the crop production goal in new era. To achieve this goal Machine
+    Learning approach is used for predicting the soil properties.
+  keywords:
+    default:
+      keywords:
+        subject: yield prediction, data mining, soil analysis, machine learning
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-11'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4599103
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4599102
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kamlesh-Namdev:
+    individualname: Kamlesh Namdev
+    role: creator
+  Namdev-Kamlesh:
+    individualname: Namdev, Kamlesh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Boshkova_2020
+  dataseturi: https://doi.org/10.15587/1729-4061.2020.210684
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Development of a soil regenerator with a granular nozzle for greenhouses
+  abstract: '&lt;p&gt;The results of the development of a regenerative-type heat exchange
+    unit for greenhouses are presented. The creation of a soil regenerator is conditioned
+    by energy and economic expediency. In spring in the daytime, the air in greenhouses
+    is intensely heated by solar radiation, and at night it can be cooled below the
+    allowable temperature. Heat accumulation during the day and using this heat at
+    night will reduce the need for heaters even to their complete exclusion. The soil
+    regenerator contains a dense layer of granular material that is blown through
+    by the air from the inner space of a greenhouse. This solution makes it possible
+    to intensify significantly the heat exchange. To determine the mean intercomponent
+    heat exchange factor, the empirical dependence, taking into consideration the
+    effect of duration of the heat exchange process, was obtained. We developed the
+    procedure of thermal design calculation of a regenerator, using which the main
+    geometric characteristics of the heat exchange area are determined. The results
+    of the calculation of the soil regenerator for a greenhouse with the surface area
+    of 18&nbsp;m&lt;sup&gt;2&lt;/sup&gt;&nbsp;for the conditions of the warm continental
+    climate were presented. The developed soil regenerator contains 5&nbsp;channels
+    that are 5.75&nbsp;m long, filled with rubble. It was obtained that for the average
+    solar radiation flow Q&lt;sub&gt;c&lt;/sub&gt;=2,160&nbsp;W and the duration of
+    operation of the soil regenerator &tau;&lt;sub&gt;&Sigma;&lt;/sub&gt;=6&nbsp;hours,
+    the accumulated heat at night can be consumed for 2.6&nbsp;hours at the average
+    ambient temperature t&lt;sub&gt;1&lt;/sub&gt;=7&nbsp;&deg;C. As the ambient temperature
+    rises, the time of regenerator operation will increase. The proposed soil regenerator
+    is characterized by the design simplicity and its application will lead to an
+    increase in energy costs to maintain the temperature mode in a greenhouse&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - solar radiation
+      - heat accumulation
+      - heat calculation procedure
+      - factor of intercomponent heat exchange
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Development of a soil regenerator with a granular nozzle for greenhouses
+    url: http://dx.doi.org/10.15587/1729-4061.2020.210684
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Irina-Boshkova:
+    individualname: Irina Boshkova
+    role: creator
+  Natalya-Volgusheva:
+    individualname: Natalya Volgusheva
+    role: creator
+  Antonina-Solodka:
+    individualname: Antonina Solodka
+    role: creator
+  Ihor-Mukminov:
+    individualname: Ihor Mukminov
+    role: creator
+  Oksana-Bondarenko:
+    individualname: Oksana Bondarenko
+    role: creator
+  Boshkova-Irina:
+    individualname: Boshkova, Irina
+    role: creator
+  Volgusheva-Natalya:
+    individualname: Volgusheva, Natalya
+    role: creator
+  Solodka-Antonina:
+    individualname: Solodka, Antonina
+    role: creator
+  Mukminov-Ihor:
+    individualname: Mukminov, Ihor
+    role: creator
+  Bondarenko-Oksana:
+    individualname: Bondarenko, Oksana
+    role: creator
+  Private-Company-Technology-Center:
+    individualname: Private Company Technology Center
+    role: creator
+content_info: {}

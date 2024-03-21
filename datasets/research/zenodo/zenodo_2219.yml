@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2587066
+  dataseturi: https://doi.org/10.5281/zenodo.2587066
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Some Features of Cambisols Soil-Forming Process from Training and Experimental
+    Forest Range (TEFR) "Petrohan" Region.
+  abstract: Dystric/eutric Cambisols diagnostic features from TEFR Petrohan were investigated
+    in the present study, which morphologically corresponded to Podzols. Diagnostic
+    horizons were investigated to establish presence or absence of podsolization process
+    and to classify the soil type according to the modern requirements of WRB, (2006,
+    2007; 2014). Humus forming process insitu, clearly expressed in the Ah horizon,
+    acidification, degradation of clay minerals, formation of E horizon, which is
+    clay-poor with increased content of sand, accumulation of Fe and other mobile
+    elements in Bw horizon were established. The metamorphic Bw horizon had some diagnostic
+    properties, which met these of spodic horizon. This horizon is specific for the
+    Podzols. The content of organic carbon in it was less than 0.5 %. Cambisols properties
+    are predominant.It was established that the soil-forming process in the investigated
+    Cambisols is directed to podsolization process.
+  keywords:
+    default:
+      keywords:
+        subject: Cambisols, Podzols, org.C, albic, spodic diagnostic horizon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-12-28'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2587066
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2587065
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Petrova-Kameliya:
+    individualname: Petrova, Kameliya
+    role: creator
+    organization: University of Forestry
+    url: ''
+content_info: {}

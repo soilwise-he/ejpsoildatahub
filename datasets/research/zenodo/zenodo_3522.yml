@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4558372
+  dataseturi: https://doi.org/10.5281/zenodo.4558372
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Heavy Metal Content of Cocoa Plantation Soil in East Kolaka, Indonesia
+  abstract: Investigations of pH and heavy metals contents of Pb, Cd, Ni, Cu, and
+    Zn in cocoa plantations soil of East Kolaka has been conducted by using pH starter
+    Ohaus 3000 and Atomic Absorption Spectroscopy (AAS) Shimadzu AA6300. Based on
+    the investigation, it is known that acidic soil plantation with pH ranges between
+    4.45 to 6.26, and also contains Pb, Cd, Ni, Cu, and Zn with an average concentration
+    (mg/kg) are 1.45, 0.02, 0.85, 0.77, and 1.49, respectively. The existence of Pb
+    and Cd in plantation soil have been exceeded the WHO permissible, whereas Ni,
+    Cu, and Zn is still within the permissible limits. Acidic soil plantation will
+    give opportunity metal ions such as Pb 2+, Cd2+, Ni2+, Cu2+, Zn2+, and Al3+ absorbed
+    by plants. Thus causing the accumulation in plant tissues and make the cocoa plants
+    stress of heavy metals.
+  keywords:
+    default:
+      keywords:
+        subject: cocoa plantation soil, heavy metals, pH, cocoa plant (Theobroma cacao
+          L.)
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-05-31'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4558372
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4558371
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zul-Arham:
+    individualname: Zul Arham
+    role: creator
+    organization: Department of Mathematics and Natural Sciences, Faculty of Tarbiyah,
+      Institute Agama Islam Negeri (IAIN) Kendari
+    url: ''
+  La-Ode-Asmin:
+    individualname: La Ode Asmin
+    role: creator
+  Rosmini:
+    individualname: Rosmini
+    role: creator
+    organization: Department of Mathematics and Natural Sciences, Faculty of Tarbiyah,
+      Institute Agama Islam Negeri (IAIN) Kendari
+    url: ''
+  Muhammad-Nurdin:
+    individualname: Muhammad Nurdin
+    role: creator
+  Asmin-La-Ode:
+    individualname: Asmin, La Ode
+    role: ''
+    organization: Department of Mathematics and Natural Sciences, Faculty of Tarbiyah,
+      Institute Agama Islam Negeri (IAIN) Kendari
+    url: https://orcid.org/0000-0002-2902-196X
+  Nurdin-Muhammad:
+    individualname: Nurdin, Muhammad
+    role: ''
+    organization: Department of Chemistry, Faculty of Mathematics and Natural Sciences,
+      Universitas Halu Oleo, Kendari
+    url: ''
+content_info: {}

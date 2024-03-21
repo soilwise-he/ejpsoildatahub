@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6107133
+  dataseturi: https://doi.org/10.5281/zenodo.6107133
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Thesis
+identification:
+  title: 'Using soil samples and footwear to improve forensic palynology: A study
+    about where a soil sample could best be taken along a transect from parking space
+    to dumping site when investigating a crime scene'
+  abstract: This study investigates the transfer of soil to shoe soles when a perpetrator
+    disposes of a corpse in a forested area. During such an action soil is transferred
+    to the shoe soles, but it is unknown which point(s) along the transect transfers
+    the most soil to the shoe soles. This information is needed for taking a soil
+    sample at a crime scene to make a comparison between the crime scene and the shoes
+    which are thought to be linked with the crime. Previous research has mainly been
+    focused on case studies while experimental data is lacking. This study will therefore
+    focus on collecting experimental data by simulating the dumping of a corpse at
+    five different locations. The pollen underneath the boots and the pollen along
+    the transect are compared with each other to see where the highest similarity
+    between the boots and the transect could be found. The similarity indicates where
+    the transfer of soil to the shoe soles is highest and thus where a soil sample
+    during investigation of a crime scene should be taken. The point with the highest
+    similarity to the boots varies between the locations. This indicates that the
+    transfer of soil to shoe soles does not happen at a set point along the transect,
+    but depends on different factors, like moisture, ground coverage and compacted
+    soil. The locations Heemskerk, IJsselstein and Bosrand showed the highest similarity
+    with the points which were the muddiest, had the lowest amount of compacted soil
+    or had limited ground coverage. The locations Schaapsallee and Utrechtse Heuvelrug
+    showed the highest similarity with the average of the total transect because the
+    moisture, ground coverage and compacted soil were comparable throughout the complete
+    transect. In addition, the total transect showed a high similarity with the boots
+    at every location. However, when the amounts of moisture, ground coverage and
+    compacted soil varied along a transect, there was always one point along that
+    transect with a higher similarity to the boots than they had with the total transect.
+    In conclusions, the point(s) were soil is transferred to shoes are the muddiest
+    part, the points with limited ground coverage or the least compacted soil. However,
+    if the whole transect shows similarities in these factors, it is best to take
+    multiple samples along the transect from which the average could be used.
+  keywords:
+    default:
+      keywords:
+        subject: DCA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-02-21'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6107133
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6107132
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  van-Leeuwen:
+    individualname: van Leeuwen
+    role: creator
+  Van-Leeuwen-:
+    individualname: 'Van Leeuwen, '
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

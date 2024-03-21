@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091727
+  dataseturi: https://doi.org/10.5281/zenodo.8091727
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil erosion assessment in the Blue Nile Basin driven by a novel RUSLE-GEE
+    framework
+  abstract: "Assessment of soil loss and understanding its major drivers are essential\
+    \ to implement targeted management interventions. We have proposed and developed\
+    \ a Revised Universal Soil Loss Equation framework fully implemented in the Google\
+    \ Earth Engine cloud platform (RUSLE-GEE) for high spatial resolution (90 m) soil\
+    \ erosion assessment. Using RUSLE-GEE, we analyzed the soil loss rate for different\
+    \ erosion levels, land cover types, and slopes in the Blue Nile Basin. The results\
+    \ showed that the mean soil loss rate is 39.73, 57.98, and 6.40 t ha<sup>\u2212\
+    1</sup> yr<sup>\u22121</sup> for the entire Blue Nile, Upper Blue Nile, and Lower\
+    \ Blue Nile Basins, respectively. Our results also indicated that soil protection\
+    \ measures should be implemented in approximately 27% of the Blue Nile Basin,\
+    \ as these areas face a moderate to high risk of erosion (&gt;10 t ha<sup>\u2212\
+    1</sup> yr<sup>\u22121</sup> ). In addition, downscaling the Tropical RainfallMeasuring\
+    \ Mission (TRMM) precipitation data from 25 km to 1 km spatial resolution significantly\
+    \ impacts rainfall erosivity and soil loss rate. In terms of soil erosion assessment,\
+    \ the study showed the rapid characterization of soil loss rates that could be\
+    \ used to prioritize erosion mitigation plans to support sustainable land resources\
+    \ and tackle land degradation in the Blue Nile Basin."
+  keywords:
+    default:
+      keywords:
+        subject: TRMM spatial downscaling
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-06-12'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091727
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8091726
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdelrazek-Elnashar:
+    individualname: Abdelrazek Elnashar
+    role: creator
+    organization: ''
+    url: ''
+  Hongwei-Zeng:
+    individualname: Hongwei Zeng
+    role: creator
+    organization: ''
+    url: ''
+  Bingfang-Wu:
+    individualname: Bingfang Wu
+    role: creator
+    organization: ''
+    url: ''
+  Ayele-Almaw-Fenta:
+    individualname: Ayele Almaw Fenta
+    role: creator
+    organization: ''
+    url: ''
+  Mohsen-Nabil:
+    individualname: Mohsen Nabil
+    role: creator
+  Robert-Duerler:
+    individualname: Robert Duerler
+    role: creator
+  Nabil-Mohsen:
+    individualname: Nabil, Mohsen
+    role: ''
+    organization: ''
+    url: ''
+  Duerler-Robert:
+    individualname: Duerler, Robert
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

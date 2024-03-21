@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1127577
+  dataseturi: https://doi.org/10.5281/zenodo.1127577
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects Of Reclaimed Agro-Industrial Wastewater For Long-Term Irrigation
+    Of Herbaceous Crops On Soil Chemical Properties
+  abstract: "Worldwide, about two-thirds of industrial and domestic wastewater effluent\
+    \ is discharged without treatment, which can cause contamination and eutrophication\
+    \ of the water. In particular, for Mediterranean countries, irrigation with treated\
+    \ wastewater would mitigate the water stress and support the agricultural sector.\
+    \ Changing global weather patterns will make the situation worse, due to increased\
+    \ susceptibility to drought, which can cause major environmental, social, and\
+    \ economic problems. The study was carried out in open field in an intensive agricultural\
+    \ area of the Apulian region in Southern Italy where freshwater resources are\
+    \ often scarce. As well as providing a water resource, irrigation with treated\
+    \ wastewater represents a significant source of nutrients for soil\u2013plant\
+    \ systems. However, the use of wastewater might have further effects on soil.\
+    \ This study thus investigated the long-term impact of irrigation with reclaimed\
+    \ agro-industrial wastewater on the chemical characteristics of the soil. Two\
+    \ crops (processing tomato and broccoli) were cultivated in succession in Stornarella\
+    \ (Foggia) over four years from 2012 to 2016 using two types of irrigation water:\
+    \ groundwater and tertiary treated agro-industrial wastewater that had undergone\
+    \ an activated sludge process, sedimentation filtration, and UV radiation. Chemical\
+    \ analyses were performed on the irrigation waters and soil samples. The treated\
+    \ wastewater was characterised by high levels of several chemical parameters including\
+    \ TSS, EC, COD, BOD<sub>5</sub>, Na<sup>+</sup>, Ca<sup>2+</sup>, Mg<sup>2+</sup>,\
+    \ NH<sub>4</sub>-N, PO<sub>4</sub>-P, K<sup>+</sup>, SAR and CaCO<sub>3</sub>,\
+    \ as compared with the groundwater. However, despite these higher levels, the\
+    \ mean content of several chemical parameters in the soil did not show relevant\
+    \ differences between the irrigation treatments, in terms of the chemical features\
+    \ of the soil."
+  keywords:
+    default:
+      keywords:
+        subject: tomato.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-10-02'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1127577
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1127576
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-Tarantino:
+    individualname: E. Tarantino
+    role: creator
+    organization: ''
+    url: ''
+  G.-Disciglio:
+    individualname: G. Disciglio
+    role: creator
+    organization: ''
+    url: ''
+  G.-Gatta:
+    individualname: G. Gatta
+    role: creator
+    organization: ''
+    url: ''
+  L.-Frabboni:
+    individualname: L. Frabboni
+    role: creator
+    organization: ''
+    url: ''
+  A.-Libutti:
+    individualname: A. Libutti
+    role: creator
+    organization: ''
+    url: ''
+  A.-Tarantino:
+    individualname: A. Tarantino
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

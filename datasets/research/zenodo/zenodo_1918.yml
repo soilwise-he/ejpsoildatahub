@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7218533
+  dataseturi: https://doi.org/10.5281/zenodo.7218533
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Performance of Upland Breeding Lines and Germplasm Under Periodic Moisture
+    Stress in Erosion-Susceptible Soil
+  abstract: This article 'Performance of Upland Breeding Lines and Germplasm Under
+    Periodic Moisture Stress in Erosion-Susceptible Soil' appeared in the International
+    Rice Research Newsletter series, created by the International Rice Research Institute
+    (IRRI). The primary objective of this publication was to expedite communication
+    among scientists concerned with the development of improved technology for rice
+    and for rice based cropping systems. This publication will report what scientists
+    are doing to increase the production of rice in as much as this crop feeds the
+    most densely populated and land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Erosion Susceptible Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1991-12-01'
+    publication: '1991'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7218533
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7218532
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pramanik-S.:
+    individualname: Pramanik, S.
+    role: creator
+    organization: ''
+    url: ''
+  Gupta-S.:
+    individualname: Gupta, S.
+    role: creator
+    organization: ''
+    url: ''
+  Arraudeau-M.:
+    individualname: Arraudeau, M.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

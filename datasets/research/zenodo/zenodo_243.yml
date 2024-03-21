@@ -1,0 +1,141 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5812233
+  dataseturi: https://doi.org/10.5281/zenodo.5812233
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of Biochar and Silicate Application on Soil Enzyme Activities under
+    Nighttime Warming in Paddy Soil
+  abstract: "Climate warming has one of important characteristics that the temperature\
+    \ increase at night is greater than that during the day. Many reports have been\
+    \ available regarding the effects of nighttime warming, silicate or biochar application\
+    \ on the growth, physiology and yield in rice, but it is unclear regarding the\
+    \ effects of the three factors on soil enzyme activities in paddy fields. A field\
+    \ simulation experiment was carried out to investigate the effects of biochar\
+    \ and silicate supply on soil enzyme activities in rice soil under nighttime warming.\
+    \ The orthogonal experimental design with three-factor and three-level was adopted\
+    \ in the experiment. The nighttime warming was treated by covering the rice canopy\
+    \ with aluminum foil reflective film at night (19:00~6:00). The nighttime warming\
+    \ was set at three levels, ambient temperature control (W0), covering rice canopy\
+    \ with 5mm aluminum foil film (W1), and with 11 mm aluminum foil film (W2); biochar\
+    \ supply was designed with 3 levels, i.e., control (B0), 7.5 t\xB7hm<sup>-2</sup>\
+    \ biochar (B1) and 17.5 t\xB7hm<sup>-2</sup> (B2); silicate application had three\
+    \ levels, i.e., control (Si0), steel slag powder (Si1, 200 kg\xB7hm<sup>-2</sup>),\
+    \ and ore powder (Si2, 200 kg\xB7hm<sup>-2</sup>). Root bag method was used to\
+    \ separate rhizospheric soil from non-rhizospheric soil. The soil samples were\
+    \ collected at rice main growth periods (elongation, booting, flowering and filling)\
+    \ to determine the activities of urease, invertase, cellulase and protease in\
+    \ the soil. The results showed that, the activities of urease, invertase and cellulase\
+    \ in non-rhizospheric soil increased under nighttime warming with 5 mm reflective\
+    \ film (W1). Soil invertase and protease activities increased in the treatment\
+    \ without biochar application (B0), while urease and cellulase activities enhanced\
+    \ in the treatment with biochar application (B1 and B2). Silicate application\
+    \ increased the activities of soil enzymes mentioned above. This study suggests\
+    \ the treatment with W2B1Si0 is the optimal combination. Soil enzyme activities\
+    \ were inhibited in the treatment with W2B1Si0, implying that the decomposition\
+    \ of organic carbon and nitrogen in paddy soil will be likely decreased with applying\
+    \ biochar without silicate supply under climate warming."
+  keywords:
+    default:
+      keywords:
+        subject: NIGHTTIME WARMING, BIOCHAR, SILICATE, RICE, SOIL ENZYME ACTIVITY
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-31'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5812233
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5812232
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Du-Zeyun:
+    individualname: Du Zeyun
+    role: creator
+  Zhu-Huaiwei:
+    individualname: Zhu Huaiwei
+    role: creator
+  Lou-Yunsheng:
+    individualname: Lou Yunsheng
+    role: creator
+  Tao-Simin:
+    individualname: Tao Simin
+    role: creator
+  Xing-Yuyuan:
+    individualname: Xing Yuyuan
+    role: creator
+  Wang-Kun:
+    individualname: Wang Kun
+    role: creator
+  Liu-Jian:
+    individualname: Liu Jian
+    role: creator
+  Du-Zeyun-:
+    individualname: 'Du Zeyun, '
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+  Huaiwei-Zhu:
+    individualname: Huaiwei, Zhu
+    role: ''
+    organization: Guangdong Provincial Ecological Meteorological Center, No. 312 Dong-guan-zhuang
+      Road, Tianhe District, Guangzhou 510641, Guangdong Prov., China
+    url: ''
+  Yunsheng-Lou:
+    individualname: Yunsheng, Lou
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+  Simin-Tao:
+    individualname: Simin, Tao
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+  Yuyuan-Xing:
+    individualname: Yuyuan, Xing
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+  Kun-Wang:
+    individualname: Kun, Wang
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+  Jian-Liu:
+    individualname: Jian, Liu
+    role: ''
+    organization: Jiangsu Key Laboratory of Agricultural Meteorology, School of Applied
+      Meteorology, Nanjing University of Information Science and Technology, No.219
+      Ningliu Road, Pukou District, Nanjing 210044, Jiangsu Prov., China
+    url: ''
+content_info: {}

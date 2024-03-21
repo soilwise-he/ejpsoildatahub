@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hien_2022
+  dataseturi: https://doi.org/10.3390/rs14102380
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Moisture Influence on the FTIR Spectrum of Salt-Affected Soils
+  abstract: "&lt;p&gt;Soil salinity has a major impact on agricultural production.\
+    \ In a changing climate with&lt;br&gt;\nrising sea-levels, low-lying coastal areas\
+    \ are increasingly inundated whereby saltwater gradually&lt;br&gt;\ncontaminates\
+    \ the soil. Drought prone areas may suffer from salinity due to high evapotranspiration&lt;br&gt;\n\
+    rates in combination with the use of saline irrigation water. Salinity is difficult\
+    \ to monitor because soil&lt;br&gt;\nmoisture affects the soil&rsquo;s spectral\
+    \ signature. We conducted Fourier-transform infrared spectroscopy&lt;br&gt;\n\
+    on alluvial and sandy soil samples in the coastal estuary of the Red River Delta.\
+    \ The soils are&lt;br&gt;\ncontaminated with NaCl, Na2CO3 and Na2SO4 salts. In\
+    \ an experiment of salt contamination, we&lt;br&gt;\nestablished that three ranges\
+    \ of the spectrum were strongly influenced by both salt and moisture&lt;br&gt;\n\
+    content in the soil, at wavenumbers 3200&ndash;3400 cm\U001000001 (2.9&ndash;3.1\
+    \ m); 1600&ndash;1700 cm\U001000001 (5.9&ndash;6.3 m);&lt;br&gt;\n900&ndash;1100\
+    \ cm\U001000001 (9.1&ndash;11.1 m). The Na2CO3 contaminated soil and the spectral\
+    \ value had a linear&lt;br&gt;\nrelationship between wavelengths 6.9 and 7.4 m.\
+    \ At wavelength 6.99 m, there was no relationship&lt;br&gt;\nbetween absorbance\
+    \ and soil moisture, but the absorbance was proportional to the salt content&lt;br&gt;\n\
+    (R2 = 0.85; RMSE = 0.68 g) and electrical conductivity (R2 = 0.50; RMSE = 3.8\
+    \ dS/m). The relationship&lt;br&gt;\nbetween soil moisture and spectral absorbance\
+    \ value was high at wavelengths below 6.7 m, resulting&lt;br&gt;\nin a quadratic\
+    \ relation between soil moisture and absorbance at wavelength 6.13 m (R2 = 0.80;&lt;br&gt;\n\
+    RMSE = 5.2%). The spectral signatures and equations might be useful for mapping\
+    \ salt-affected soils,&lt;br&gt;\nparticularly in difficult to access locations.\
+    \ Technological advances in thermal satellite sensors may&lt;br&gt;\noffer possibilities\
+    \ for monitoring soil salinity.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - soil
+      - salinity
+      - Fourier-transform infrared spectroscopy
+      - FTIR
+      - Vietnam
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Moisture Influence on the FTIR Spectrum of Salt-Affected Soils
+    url: http://dx.doi.org/10.3390/rs14102380
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Le-Thi-Thu-H.:
+    individualname: Le Thi Thu, H.
+    role: creator
+  Gobin-A.:
+    individualname: Gobin, A.
+    role: creator
+  Duong-Thi-L.:
+    individualname: Duong Thi, L.
+    role: creator
+  Dang-Tran-Q.:
+    individualname: Dang Tran, Q.
+    role: creator
+  Nguyen-Thi-H.:
+    individualname: Nguyen Thi, H.
+    role: creator
+  Nguyen-Ngoc-T.:
+    individualname: Nguyen Ngoc, T.
+    role: creator
+  Nguyen-Thanh-B.:
+    individualname: Nguyen Thanh, B.
+    role: creator
+  Vu-Thi-Kim-D.:
+    individualname: Vu Thi Kim, D.
+    role: creator
+  Pham-Ha-L.:
+    individualname: Pham Ha, L.
+    role: creator
+  Hien-Le-Thi-Thu:
+    individualname: Hien, Le Thi Thu
+    role: creator
+  Gobin-Anne:
+    individualname: Gobin, Anne
+    role: creator
+  Lim-Duong-Thi:
+    individualname: Lim, Duong Thi
+    role: creator
+  Quan-Dang-Tran:
+    individualname: Quan, Dang Tran
+    role: creator
+  Hue-Nguyen-Thi:
+    individualname: Hue, Nguyen Thi
+    role: creator
+  Thang-Nguyen-Ngoc:
+    individualname: Thang, Nguyen Ngoc
+    role: creator
+  Binh-Nguyen-Thanh:
+    individualname: Binh, Nguyen Thanh
+    role: creator
+  Dung-Vu-Thi-Kim:
+    individualname: Dung, Vu Thi Kim
+    role: creator
+  Linh-Pham-Ha:
+    individualname: Linh, Pham Ha
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

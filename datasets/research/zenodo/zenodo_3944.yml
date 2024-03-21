@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1484934
+  dataseturi: https://doi.org/10.5281/zenodo.1484934
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Temperature And Nh3 Concentration On Nh3 Oxidising Archaea
+    And Bacteria In Agricultural Soil.
+  abstract: The aim of this study was to study the effect of temperature and NH4+concentration
+    on NH4+oxidising activity and community structures of bacterial and archaeal NH4+oxidisers
+    in Scottish soil. Microcosms were amended with low and high NH4+ concentration
+    and incubated at five different temperatures (15, 20, 25, 30 and 35oC) for 28
+    days. Nitrification activity, AOA and AOB growth increased with temperature and
+    AOB growth were greatest at 30oC in microcosms incubated with high NH4+ concentration,
+    while AOA growth was detected, irrespective of soil NH4+ concentration and at
+    all incubation temperature except 35oC. AOB growth was detected at 35oC even in
+    microcosms incubated with low NH4+ concentration. There was a greater change in
+    the community structure of AOA and AOB with an increase in temperature only. This
+    probably suggests that NH4+ oxidation was dominated by AOA at low concentration
+    between 15 - 30 oC and at 35 oC AOB were able to grow when the competition with
+    AOA for NH4+ in soil was relieved by high temperature (35 oC) that inhibited AOA
+    growth. The differences in AOA and AOB responses to temperature could suggest
+    an additional niche differentiating factor between AOA and AOB. Temperature but
+    not NH4+ is one of the key environmental factors responsible for changes in the
+    relative abundance and community structure of AOA and AOB in soil.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Nitrification Enrichment Temperature Growth Ammonium Community
+          Structure.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-10-12'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1484934
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1484933
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marcus-O.-Bello.:
+    individualname: Marcus O. Bello.
+    role: creator
+  Bello.-Marcus-O.:
+    individualname: Bello., Marcus O.
+    role: ''
+    organization: Microbiology Department, AdekunleAjasin University AkungbaAkoko,
+      Ondo State, PMB 001, Nigeria.
+    url: ''
+content_info: {}

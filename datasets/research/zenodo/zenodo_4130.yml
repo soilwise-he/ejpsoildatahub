@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1110309
+  dataseturi: https://doi.org/10.5281/zenodo.1110309
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effect Of Randomly Distributed Polypropylene Fibers Borogypsum Fly Ash
+    And Cement On Freezing-Thawing Durability Of A Fine-Grained Soil
+  abstract: 'A number of studies have been conducted recently to
+
+    investigate the influence of randomly oriented fibers on some
+
+    engineering properties of cohesive and cohesionless soils. However,
+
+    few studies have been carried out on freezing-thawing behavior of
+
+    fine-grained soils modified with discrete fiber inclusions and additive
+
+    materials. This experimental study was performed to investigate the
+
+    effect of randomly distributed polypropylene fibers (PP) and some
+
+    additive materials [e.g.., borogypsum (BG), fly ash (FA) and cement
+
+    (C)] on freezing-thawing durability (mass losses) of a fine-grained
+
+    soil for 6, 12, and 18 cycles. The Taguchi method was applied to the
+
+    experiments and a standard L9 orthogonal array (OA) with four
+
+    factors and three levels were chosen. A series of freezing-thawing
+
+    tests were conducted on each specimen. 0-20% BG, 0-20% FA, 0-
+
+    0.25% PP and 0-3% of C by total dry weight of mixture were used in
+
+    the preparation of specimens. Experimental results showed that the
+
+    most effective materials for the freezing-thawing durability (mass
+
+    losses) of the samples were borogypsum and fly ash. The values of
+
+    mass losses for 6, 12 and 18 cycles in optimum conditions were
+
+    16.1%, 5.1% and 3.6%, respectively.'
+  keywords:
+    default:
+      keywords:
+        subject: Reinforced soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-10-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1110309
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1110308
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmet-Sahin-Zaimoglu:
+    individualname: "Ahmet \u015Eahin Zaimo\u011Flu"
+    role: creator
+  Zaimoglu-Ahmet-Sahin:
+    individualname: "Zaimo\u011Flu, Ahmet \u015Eahin"
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

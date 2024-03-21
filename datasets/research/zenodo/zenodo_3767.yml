@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10579228
+  dataseturi: https://doi.org/10.5281/zenodo.10579228
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Effect of Sewage Sludge Applied to Vetch + Barley Mixture on Some Soil
+    Properties
+  abstract: Abstract This study was carried out to determine the effect of sewage
+    sludge applied to vetch + barley mixture on some soil properties. The research
+    was conducted in a randomized complete block design in four replications in the
+    experimental fields of Ege University, Faculty of Agriculture in Bornova for two
+    years in 2015 and 2016. In research beside control and mineral fertilizer 10,
+    20 and 30 t ha-1 treated sludge was applied into the soil. In trial pH, EC, organic
+    matter and calcitic lime were investigated. Although the application affected
+    pH and salinity in both years, organic matter was affected in the first year of
+    study. Applications had no affect on calcitic lime. As a result of study, it is
+    seen that sewage sludge applications decreased pH and increased organic matter
+    and soil salinity.
+  keywords:
+    default:
+      keywords:
+        subject: Calcitic lime, mineral fertilizer, organic matter, pH, salt
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-04-30'
+    publication: '2021'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10579228
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10579227
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seda-RAJABI-KHIABANI:
+    individualname: Seda RAJABI KHIABANI
+    role: creator
+    organization: Ege University, Faculty of Agriculture, Dept. of Field Crops, Bornova,
+      Izmir, TURKEY
+    url: ''
+  A.-Esen-CELENA.:
+    individualname: A. Esen CELENA.
+    role: creator
+    organization: Ege University, Faculty of Agriculture, Dept. of Field Crops, Bornova,
+      Izmir, TURKEY
+    url: ''
+content_info: {}

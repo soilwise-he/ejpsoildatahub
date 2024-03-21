@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Alway_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010023x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Early Definition of Soil Types
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Early Definition of Soil Types
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010023x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alway-F.-J.:
+    individualname: Alway, F. J.
+    role: creator
+  McMiller-P.-R.:
+    individualname: McMiller, P. R.
+    role: creator
+  Alway-F.J.:
+    individualname: Alway, F.J.
+    role: creator
+  McMiller-P.R.:
+    individualname: McMiller, P.R.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

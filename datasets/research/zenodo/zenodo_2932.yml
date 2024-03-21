@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6938704
+  dataseturi: https://doi.org/10.5281/zenodo.6938704
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Environment-Monitoring IoT Devices Powered by a TEG Which Converts Thermal
+    Flux between Air and Near-Surface Soil into Electrical Energy
+  abstract: "Energy harvesting has an essential role in the development of reliable\
+    \ devices for environmental<br> wireless sensor networks (EWSN) in the Internet\
+    \ of Things (IoT), without considering<br> the need to replace discharged batteries.\
+    \ Thermoelectric energy is a renewable energy source that<br> can be exploited\
+    \ in order to efficiently charge a battery. The paper presents a simulation of\
+    \ an<br> environment monitoring device powered by a thermoelectric generator (TEG)\
+    \ that harvests energy<br> from the temperature difference between air and soil.\
+    \ The simulation represents a mathematical<br> description of an EWSN, which consists\
+    \ of a sensor model powered by a DC/DC boost converter via<br> a TEG and a load,\
+    \ which simulates data transmission, a control algorithm and data collection.\
+    \ The<br> results section provides a detailed description of the harvested energy\
+    \ parameters and properties<br> and their possibilities for use. The harvested\
+    \ energy allows supplying the load with an average<br> power of 129.04 W and maximum\
+    \ power of 752.27 W. The first part of the results section examines<br> the process\
+    \ of temperature differences and the daily amount of harvested energy. The second\
+    \ part<br> of the results section provides a comprehensive analysis of various\
+    \ settings for the EWSN device\u2019s<br> operational period and sleep consumption.\
+    \ The study investigates the device\u2019s number of operational<br> cycles, quantity\
+    \ of energy used, discharge time, failures and overheads."
+  keywords:
+    default:
+      keywords:
+        subject: thermoelectric generator; energy harvesting; IoT;WSN; DC/DC boost
+          converter; LoRaWAN
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-07-29'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6938704
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6938703
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Paterova-Tereza:
+    individualname: Paterova Tereza
+    role: creator
+    organization: VSB - TUO
+    url: ''
+  Prauzek-Michal:
+    individualname: Prauzek Michal
+    role: creator
+    organization: VSB - TUO
+    url: ''
+  Konecny-Jaromir:
+    individualname: Konecny Jaromir
+    role: creator
+    organization: VSB - TUO
+    url: ''
+  Ozana-Stepan:
+    individualname: Ozana Stepan
+    role: creator
+  Zmij-Petr:
+    individualname: Zmij Petr
+    role: creator
+    organization: VSB - TUO
+    url: ''
+  Stankus-Martin:
+    individualname: Stankus Martin
+    role: creator
+    organization: VSB - TUO
+    url: ''
+  Weise:
+    individualname: Weise
+    role: creator
+    organization: Dieter
+    url: ''
+  Pierer:
+    individualname: Pierer
+    role: creator
+    organization: Alexandr
+    url: ''
+  Stepan-Ozana:
+    individualname: Stepan, Ozana
+    role: ''
+    organization: VSB - TUO
+    url: ''
+content_info: {}

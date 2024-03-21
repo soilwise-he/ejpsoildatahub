@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Husni_2018
+  dataseturi: https://doi.org/10.11591/ijeecs.v11.i1.pp169-174
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Moisture Monitoring Using Field Programmable Gate Array
+  abstract: '&lt;p&gt;This paper presents a solution for remote monitoring and sensing
+    of different agricultural parameters that effect the plant growth and productivity.
+    Hardware descriptive language has been used for the implementation of proposed
+    topology on Field Programmable Gate Arrays. The hardware used for this purpose
+    is an Altera board. The simulated results take into consideration the environmental
+    factors such as the humidity, soil moisture content and the temperature. The proposed
+    system continuously monitors the environmental changes for any updates. The system
+    also controls a water motor that is turned on as the system senses the reduction
+    in moisture content. The system implementation on hard wave level show promising
+    results and have been discussed in detailed.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Altera
+      - FPGA
+      - Remote Monitoring
+      - Soil
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Moisture Monitoring Using Field Programmable Gate Array
+    url: http://dx.doi.org/10.11591/ijeecs.v11.i1.pp169-174
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Muhammed-Ihsan-Husni:
+    individualname: Muhammed Ihsan Husni
+    role: creator
+  Mohammed-Kareem-Hussein:
+    individualname: Mohammed Kareem Hussein
+    role: creator
+  Mohd-Shamian-Bin-Zainal:
+    individualname: Mohd Shamian Bin Zainal
+    role: creator
+  Shipun-Anuar-Bin-Hamzah:
+    individualname: Shipun Anuar Bin Hamzah
+    role: creator
+  Danial-Bin-Md-Nor:
+    individualname: Danial Bin Md Nor
+    role: creator
+  Hazwaj-Bin-Mhd-Poad:
+    individualname: Hazwaj Bin Mhd Poad
+    role: creator
+  Husni-Muhammed-Ihsan:
+    individualname: Husni, Muhammed Ihsan
+    role: creator
+  Hussein-Mohammed-Kareem:
+    individualname: Hussein, Mohammed Kareem
+    role: creator
+  Zainal-Mohd-Shamian-Bin:
+    individualname: Zainal, Mohd Shamian Bin
+    role: creator
+  Hamzah-Anuar-Bin:
+    individualname: Hamzah, Anuar Bin
+    role: creator
+  Nor-Danial-Bin-Md:
+    individualname: Nor, Danial Bin Md
+    role: creator
+  Poad-Hazwaj-Bin-Mhd:
+    individualname: Poad, Hazwaj Bin Mhd
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

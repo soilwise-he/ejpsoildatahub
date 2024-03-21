@@ -1,0 +1,140 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1109555
+  dataseturi: https://doi.org/10.5281/zenodo.1109555
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Automated Soil Erosion Monitoring System (Asems)
+  abstract: 'The advancements in technology allow the
+
+    development of a new system that can continuously measure surface
+
+    soil erosion. Continuous soil erosion measurements are required in
+
+    order to comprehend the erosional processes and propose effective
+
+    and efficient conservation measures to mitigate surface erosion.
+
+    Mitigating soil erosion, especially in Mediterranean countries such as
+
+    Greece, is essential in order to maintain environmental and
+
+    agricultural sustainability. In this paper, we present the Automated
+
+    Soil Erosion Monitoring System (ASEMS) that measures surface soil
+
+    erosion along with other factors that impact erosional process.
+
+    Specifically, this system measures ground level changes (surface soil
+
+    erosion), rainfall, air temperature, soil temperature, and soil moisture.
+
+    Another important innovation is that the data will be collected by
+
+    remote communication. In addition, stakeholder''s awareness is a key
+
+    factor to help reduce any environmental problem. The different
+
+    dissemination activities that were utilized are described. The overall
+
+    outcomes were the development of a new innovative system that can
+
+    measure erosion very accurately. These data from the system help
+
+    study the process of erosion and find the best possible methods to
+
+    reduce erosion. The dissemination activities enhance the stakeholders
+
+    and public''s awareness on surface soil erosion problems and will lead
+
+    to the adoption of more effective soil erosion conservation practices
+
+    in Greece.'
+  keywords:
+    default:
+      keywords:
+        subject: conservation practices.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-09-03'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1109555
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1109554
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  George-N.-Zaimes:
+    individualname: George N. Zaimes
+    role: creator
+  Valasia-Iakovoglou:
+    individualname: Valasia Iakovoglou
+    role: creator
+    organization: ''
+    url: ''
+  Paschalis-Koutalakis:
+    individualname: Paschalis Koutalakis
+    role: creator
+  Konstantinos-Ioannou:
+    individualname: Konstantinos Ioannou
+    role: creator
+  Ioannis-Kosmadakis:
+    individualname: Ioannis Kosmadakis
+    role: creator
+  Panagiotis-Tsardaklis:
+    individualname: Panagiotis Tsardaklis
+    role: creator
+  Theodoros-Laopoulos:
+    individualname: Theodoros Laopoulos
+    role: creator
+  Zaimes-George-N.:
+    individualname: Zaimes, George N.
+    role: ''
+    organization: ''
+    url: ''
+  Koutalakis-Paschalis:
+    individualname: Koutalakis, Paschalis
+    role: ''
+    organization: ''
+    url: ''
+  Ioannou-Konstantinos:
+    individualname: Ioannou, Konstantinos
+    role: ''
+    organization: ''
+    url: ''
+  Kosmadakis-Ioannis:
+    individualname: Kosmadakis, Ioannis
+    role: ''
+    organization: ''
+    url: ''
+  Tsardaklis-Panagiotis:
+    individualname: Tsardaklis, Panagiotis
+    role: ''
+    organization: ''
+    url: ''
+  Laopoulos-Theodoros:
+    individualname: Laopoulos, Theodoros
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

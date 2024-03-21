@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Marquina_2019
+  dataseturi: https://doi.org/10.1101/597302
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Establishing insect community composition using metabarcoding of soil samples,
+    and preservative ethanol and homogenate from Malaise trap catches: surprising
+    inconsistencies between methods'
+  abstract: '&lt;p&gt;Raw reads from metabarcoding of Malaise trap (tissue homogenate
+    and filtered ethanol) and soil (humus and leaf litter) with&nbsp;Illumina MiSeq
+    (COI + 16S markers), from the article &quot;Surprising inconsistencies between
+    sampling methods for terrestrial arthropods with metabarcoding: soil samples and
+    preservative ethanol and homogenate from Malaise trap catches.&quot;&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Establishing insect community composition using metabarcoding of soil samples,
+      and preservative ethanol and homogenate from Malaise trap catches: surprising
+      inconsistencies between methods'
+    url: http://dx.doi.org/10.1101/597302
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Marquina-Daniel:
+    individualname: Marquina, Daniel
+    role: creator
+  Esparza-Salas-Rodrigo:
+    individualname: Esparza-Salas, Rodrigo
+    role: creator
+  Roslin-Tomas:
+    individualname: Roslin, Tomas
+    role: creator
+  Ronquist-Fredrik:
+    individualname: Ronquist, Fredrik
+    role: creator
+  Cold-Spring-Harbor-Laboratory:
+    individualname: Cold Spring Harbor Laboratory
+    role: creator
+content_info: {}

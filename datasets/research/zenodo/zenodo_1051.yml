@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8200483
+  dataseturi: https://doi.org/10.5281/zenodo.8200483
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: An Assessment of Soil Resource of Hisar District Using Geospatial Technology
+  abstract: Soil and water are the main vital non-renewable natural resources that
+    are the base of all practices monitoring production of agriculture. Over exploitation
+    of land &amp; water resources create substantial changes in the land use which
+    have hostile consequence to the natural environment. As the land resources have
+    been sole resources of sustenance of mankind, the timely mapping, management and
+    monitoring of land resources became a prime requisite for developmental management
+    of natural resources. Latest technologies like Geo-informatics have developed
+    as significant tools in present era for management and monitoring of water and
+    land resources. Thus the novelty of the present research is to access the soil
+    and water resources in Hisar district.
+  keywords:
+    default:
+      keywords:
+        subject: Resources Management
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-06'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8200483
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8200482
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sandeep-Kumar:
+    individualname: Sandeep Kumar
+    role: creator
+  Sahab-Deen:
+    individualname: Sahab Deen
+    role: creator
+  Sonu:
+    individualname: Sonu
+    role: creator
+    organization: ''
+    url: ''
+  Manoj:
+    individualname: Manoj
+    role: creator
+  Kumar-Sandeep:
+    individualname: Kumar, Sandeep
+    role: ''
+    organization: ''
+    url: ''
+  Deen-Sahab:
+    individualname: Deen, Sahab
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-7976-6900
+  -Manoj:
+    individualname: ', Manoj'
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

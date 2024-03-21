@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.841190
+  dataseturi: https://doi.org/10.5281/zenodo.841190
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Calcium Chloride On Index Properties And Cbr Value Of Clayey
+    Soil
+  abstract: "Most of the problem faced by geotechnical engineers is when a given site\
+    \ does not have suitable engineering properties to support structures, roads and\
+    \ foundation. The soil of the site may be weak due to various reasons. A difficult\
+    \ problem in work exists when the soil is found to be clay or the water table\
+    \ in that region is high. Soils with high clay content generally have low shear\
+    \ strength and has tendency to swell when their moisture content is allowed to\
+    \ increase. For these reasons clayey soil is not suited for structures, roads\
+    \ and foundation. Engineering properties of clayey soil can be improved by adopting\
+    \ different methods of soil stabilization. \n\n \n\nMany stabilization methods\
+    \ are in practice for altering the engineering properties of the clayey soil.\
+    \ Common methods for stabilization of clayey soil are lime and cement stabilization.\
+    \ Soil can also be stabilized by chemical stabilization as well as physical stabilization.\
+    \ Physical stabilization includes dynamic compaction and chemical stabilization\
+    \ is done by using chemically active materials such as lime, fly ash, Portland\
+    \ cement, calcium chloride, sodium chloride, sodium silicate, magnesium chloride\
+    \ or materials having elastic properties such as bitumen.\n\n \n\nCalcium chloride\
+    \ is the ionic compound of calcium and chloride. A recent study shows that calcium\
+    \ chloride can be effectively dissolves in water quickly and provide enough calcium\
+    \ ions for exchange ionic reactions with clayey soil. Function of this chemical\
+    \ (calcium chloride) is to form into cluster of fine particles and bind them together.\n\
+    \nCalcium chloride dosage is added in 0.5% to 3.0% by weight of soil with 0.5%\
+    \ of increment in each dosage. Standard proctor test, CBR, consistency limits\
+    \ test and UCS test are performed to determine the optimum dosage of calcium chloride."
+  keywords:
+    default:
+      keywords:
+        subject: California Bearing Ratio (CBR), unconfined compressive strength test
+          (UCS), Calcium Chloride, Optimum Moisture content (OMC), Maximum Dry Density
+          (MDD)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-08-10'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.841190
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.841189
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Harpinder-Pal-Singh*-Parneet-Batish-Pardeep-Singh-Sekho:
+    individualname: Harpinder Pal Singh*, Parneet Batish, Pardeep Singh Sekho
+    role: creator
+  Harpinder-Pal-Singh*-Parneet-Batish:
+    individualname: Harpinder Pal Singh*, Parneet Batish
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

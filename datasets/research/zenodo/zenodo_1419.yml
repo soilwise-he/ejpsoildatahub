@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Krsti__2018
+  dataseturi: https://doi.org/10.3390/atmos9120492
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Cover Crops on Soil Water Balance in Rain-Fed Conditions
+  abstract: "&lt;p&gt;Soil and water conservation benefits of cover crops have been\
+    \ hypothesized as a way to mitigate and adapt to changing climatic conditions,\
+    \ but they can also have detrimental effects if rainfall is limited. Our objective\
+    \ was to quantify effects of winter cover crops&nbsp;on soil water storage and\
+    \ yield of silage maize under the agro-ecological conditions within Vojvodina\
+    \ Province in Serbia. The experiment was conducted under rain-fed conditions at\
+    \ three locations and included a control (bare fallow) plus three cover crop and\
+    \ two N rate treatments. The cover crop treatments were common vetch (Vicia sativa\
+    \ L.), triticale (x Triticosecale Wittm. ex A. Camus) and a mixture of the two\
+    \ species. All were managed as green manure and subsequently fertilized with either\
+    \ 120 or 160 kg N ha\U001000001 before planting silage maize (Zea mays L.). Cover\
+    \ crop effects on soil water storage were calculated for two periods, March&ndash;May\
+    \ and May&ndash;September/October. A Standardized Precipitation Index (SPI) used\
+    \ to characterize drought severity for 2011/2012 and 2012/2013, showed values\
+    \ of 3 and 9, respectively, for the two periods. Soil water storage was reduced\
+    \ by all cover crop treatments,&lt;br&gt;\nwith the greatest deficiency occurring\
+    \ during the extremely dry year of 2012. Previous studies have shown cover crop\
+    \ growth reduced by soil water depletion during their growing season and negative\
+    \ effects on early-season growth and development of subsequent cash crops such\
+    \ as silage maize, but if rainfall is extremely low it can also reduce cash crop\
+    \ yield. This detrimental effect of cover crops on soil water balance was confirmed\
+    \ by correlations between soil water storage and maize silage yield.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - cover crops
+      - soil
+      - water storage
+      - silage maize
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Cover Crops on Soil Water Balance in Rain-Fed Conditions
+    url: http://dx.doi.org/10.3390/atmos9120492
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dorde-Krstic:
+    individualname: "\u0110or\u0111e Krsti\u0107"
+    role: creator
+  Svetlana-Vujic:
+    individualname: "Svetlana Vuji\u0107"
+    role: creator
+  Goran-Jacimovic:
+    individualname: "Goran Ja\u0107imovi\u0107"
+    role: creator
+  Paride-D'Ottavio:
+    individualname: Paride D'Ottavio
+    role: creator
+  Zoran-Radanovic:
+    individualname: "Zoran Radanovi\u0107"
+    role: creator
+  Pero-Eric:
+    individualname: "Pero Eri\u0107"
+    role: creator
+  Branko-Cupina:
+    individualname: "Branko \u0106upina"
+    role: creator
+  Krstic-Dorde:
+    individualname: "Krsti\u0107, \u0110or\u0111e"
+    role: creator
+  Vujic-Svetlana:
+    individualname: "Vuji\u0107, Svetlana"
+    role: creator
+  Jacimovic-Goran:
+    individualname: "Ja\u0107imovi\u0107, Goran"
+    role: creator
+  D'Ottavio-Paride:
+    individualname: "D\u2019Ottavio, Paride"
+    role: creator
+  Radanovic-Zoran:
+    individualname: "Radanovi\u0107, Zoran"
+    role: creator
+  Eric-Pero:
+    individualname: "Eri\u0107, Pero"
+    role: creator
+  Cupina-Branko:
+    individualname: "\u0106upina, Branko"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

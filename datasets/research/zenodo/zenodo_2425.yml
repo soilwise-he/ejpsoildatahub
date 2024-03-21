@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7712888
+  dataseturi: https://doi.org/10.5281/zenodo.7712888
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Heavy Metal Concentration and Risk Assesment of Oil Spill Contaminated Soil
+    from Ogoni in Rivers State, Nigeria
+  abstract: "This study investigated the level of Cu, Zn, Fe, Pb, V, Ni and Cd in\
+    \ sediment samples of an oil-spillimpacted site in Ogoni land, Okenta Alode, Eleme\
+    \ local government area, Rivers state, Nigeria. Soil sediments were collected\
+    \ from six different stations, with two from each station at surface (0 \u2013\
+    \ 15 cm) and in-depth (15 \u2013 30 cm) levels. One of the stations involves a\
+    \ bioremediated site, which was used as the control for the study, while the other\
+    \ station involves oil-spill-impacted sites. Bioremediated soil, obtained at about\
+    \ 200 meter away from the contaminated site was also collected making a total\
+    \ of twelve (12) samples, with the coordinates of the locations recorded with\
+    \ GPS device. Sample preparation and analysis were carried out using American\
+    \ Society of Testing Material (ASTM) D5708 (classic wet chemistry method) using\
+    \ the appropriate NIST standards. The filtrate which was containing the heavy\
+    \ metals in solution was then analyzed using the Shimadzu-1 model of Flame Atomic\
+    \ Absorption Spectrophotometer (APHA3111). The hierarchy of the concentrations\
+    \ of metals in the sediments appeared in the trend thus; Fe &gt; Cu &gt; Zn &gt;\
+    \ Cd &gt; Ni &gt; V &gt; Pb and metals concentration in the selected stations\
+    \ descended in the order of P1/S/O1 &gt; P3/D/O2 &gt; P2/S/O1 &gt; P3/D/O2 &gt;\
+    \ P4/S/O1 &gt; P5/D/O1 &gt; P5/S/O1 &gt; P1/D/O1 &gt; P4/D/O1 &gt; P2/D/O1 &gt;\
+    \ P1/D/CO1 &gt; P1/S/CO1. The concentration of metals in the sediments were within\
+    \ the permissible limits and similarly have their ADI, THQ and HI lower than their\
+    \ respective reference dose (RfD) and less than 1, while the LCR of Cd were within\
+    \ the permissible range for carcinogens. Iron and Cd resulted to very high ecological\
+    \ risk and pollution. Also, Fe and Cd are implicated in resulting to high ecological\
+    \ risk and pollution. It is thus recommended that the rate of anthropogenic activities\
+    \ that tend to elevate heavy metals contamination and intoxication in this study\
+    \ location be reduced to curb the risk of heavy metals bioaccumulation and possible\
+    \ health effects in humans."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-09'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7712888
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7712887
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MenkitiNora-Azuka:
+    individualname: Menkiti,Nora Azuka
+    role: creator
+  Osuji-Leo.-C:
+    individualname: Osuji, Leo. C
+    role: creator
+    organization: ''
+    url: ''
+  Onojake-M.C.:
+    individualname: Onojake, M.C.
+    role: creator
+    organization: ''
+    url: ''
+  Menkiti-Nora-Azuka:
+    individualname: Menkiti, Nora Azuka
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

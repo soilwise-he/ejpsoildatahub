@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kosti__2021
+  dataseturi: https://doi.org/10.1007/s11119-021-09805-y
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Georeferenced tractor wheel slip data for prediction of spatial variability
+    in soil physical properties
+  abstract: '&lt;p&gt;The upcoming technological breakthrough in the cropping system
+    will offer a more detailed insight into soil-to-plant, man-to-soil, and man-to-plant
+    impacts, thus improving the forecasting and ensuring more efficient in-field management.
+    This study presents various on-the-go sensing procedures which were conducted
+    in order to evaluate the quality of spatial estimations of soil physical properties
+    such as soil compaction, soil moisture content, bulk density and texture. Standard
+    statistical tools showed high positive correlations between soil specific resistance
+    and soil compaction (R2 = .75), soil electromagnetic conductivity and moisture
+    content (R2 = .72) and tractor wheel slip and soil compaction (R2 = .64). Variogram
+    modeling of spatial autocorrelation gave the highest prediction error for tillage
+    resistance (9.85%), followed by cone index (4.49%), moisture content (3.7%), bulk
+    density (1.39%), clay + silt content (.98%), soil electromagnetic conductivity
+    (.95%) and the least error was obtained for tractor wheel slip (.58%). The Central
+    Composite Design (CCD) analysis confirmed significant contribution of soil compaction
+    in the modeling of the specific soil resistance and tractor wheel slip, while
+    soil moisture content and fine particle (clay + silt) content had a major impact
+    on soil electromagnetic conductivity measurement. Soil bulk density had considerable
+    importance in CCD modeling of tractor wheel slip.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Sensors
+      - On-the-go measurement
+      - On-the-go measurement
+      - Soil properties
+      - Central composite design
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Georeferenced tractor wheel slip data for prediction of spatial variability
+      in soil physical properties
+    url: http://dx.doi.org/10.1007/s11119-021-09805-y
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kostic-Marko:
+    individualname: "Kosti\u0107, Marko"
+    role: creator
+  Rajkovic-Milos:
+    individualname: "Rajkovi\u0107, Milo\u0161"
+    role: creator
+  Ljubicic-Natasa:
+    individualname: "Ljubi\u010Di\u0107, Nata\u0161a"
+    role: creator
+  Ivosevic-Bojana:
+    individualname: "Ivo\u0161evi\u0107, Bojana"
+    role: creator
+  Radulovic-Mirjana:
+    individualname: "Radulovi\u0107, Mirjana"
+    role: creator
+  Blagojevic-Dragana:
+    individualname: "Blagojevi\u0107, Dragana"
+    role: creator
+  Dedovic-Nebojsa:
+    individualname: "Dedovi\u0107, Neboj\u0161a"
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

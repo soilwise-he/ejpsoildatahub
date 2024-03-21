@@ -1,0 +1,118 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8089699
+  dataseturi: https://doi.org/10.5281/zenodo.8089699
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: High-resolution and three-dimensional mapping of soil texture of China
+  abstract: "The lack of detailed three-dimensional soil texture information largely\
+    \ restricts many applications in agriculture, hydrology, climate, ecology and\
+    \ environment. This study predicted 90 m resolution spatial variations of sand,\
+    \ silt and clay contents at a national extent across China and at multiple depths\
+    \ 0\u20135, 5\u201315, 15\u201330, 30\u201360, 60\u2013100 and 100\u2013200 cm.\
+    \ We used 4579 soil profiles collected from a national soil series inventory conducted\
+    \ recently and currently available environmental covariates. The covariates characterized\
+    \ environmental factors including climate, parent materials, terrain, vegetation\
+    \ and soil conditions. We constructed random forest models and employed a parallel\
+    \ computing strategy for the predictions of soil texture fractions based on its\
+    \ relationship with the environmental factors. Quantile regression forest was\
+    \ used to estimate the uncertainty of the predictions. Results showed that the\
+    \ predicted maps were much more accurate and detailed than the conventional linkage\
+    \ maps and the SoilGrids250m product, and could well represent spatial variation\
+    \ of soil texture across China. The relative accuracy improvement was around 245\u2013\
+    370% relative to the linkage maps and 83\u2013112% relative to the SoilGrids250m\
+    \ product with regard to the R2, and it was around 24\u201326% and 14\u201319%\
+    \ respectively with regard to the RMSE. The wide range between 5% lower and 95%\
+    \ upper prediction limits may suggest that there was a substantial room to improve\
+    \ current predictions. Besides, we found that climate and terrain factors are\
+    \ major controllers for spatial patterns of soil texture in China. The heat and\
+    \ water-driven physical and chemical weathering and wind-driven erosion processes\
+    \ primarily shape the pattern of clay content. The terrain, wind and water-driven\
+    \ deposition, erosion and transportation sorting processes of soil particles primarily\
+    \ shape the pattern of silt. The findings provide clues for modeling future soil\
+    \ evolution and for national soil security management under the background of\
+    \ global and regional environmental changes."
+  keywords:
+    default:
+      keywords:
+        subject: Uncertainty
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-11-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8089699
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8089698
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Feng-Liu:
+    individualname: Feng Liu
+    role: creator
+  Gan-Lin-Zhang:
+    individualname: Gan-Lin Zhang
+    role: creator
+  Xiaodong-Song:
+    individualname: Xiaodong Song
+    role: creator
+    organization: ''
+    url: ''
+  Decheng-Li:
+    individualname: Decheng Li
+    role: creator
+    organization: ''
+    url: ''
+  Yuguo-Zhao:
+    individualname: Yuguo Zhao
+    role: creator
+    organization: ''
+    url: ''
+  Jinling-Yang:
+    individualname: Jinling Yang
+    role: creator
+    organization: ''
+    url: ''
+  Huayong-Wu:
+    individualname: Huayong Wu
+    role: creator
+    organization: ''
+    url: ''
+  Fei-Yang:
+    individualname: Fei Yang
+    role: creator
+  Liu-Feng:
+    individualname: Liu, Feng
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Gan-Lin:
+    individualname: Zhang, Gan-Lin
+    role: ''
+    organization: ''
+    url: ''
+  Yang-Fei:
+    individualname: Yang, Fei
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

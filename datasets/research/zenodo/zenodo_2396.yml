@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10306630
+  dataseturi: https://doi.org/10.5281/zenodo.10306630
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "The Impact of traditional cocoa-based agroforestry systems on chemical soil\
+    \ fertility in southwest of C\xF4te d'Ivoire"
+  abstract: "The sustainability of cocoa farming is a major concern for C\xF4te d'Ivoire.\
+    \ Extensive and \"full sun\" cropping systems need to be reviewed. Against this\
+    \ backdrop, a study was carried out in the south-west of the country (Soubr\xE9\
+    \ and M\xE9agui), a major production zone, with the aim of assessing the impact\
+    \ of traditional agroforestry systems on soil fertility.\nTwenty-seven cocoa farms\
+    \ in the three sectors were visited. To assess the impact of cocoa-based agroforestry\
+    \ systems on soil chemical parameters, four criteria guided the choice of plots.\
+    \ These were mid-slope plots, 25 to 35 years old, unfertilized and denser in associated\
+    \ trees. Soil samples were taken from the 0-20 cm horizon. Organic carbon, total\
+    \ nitrogen, assimilable phosphorus, exchangeable bases (Ca, Mg, K and Na), cation\
+    \ exchange capacity and saturation rate were measured.\nThe results show that\
+    \ traditional cocoa-based agroforestry systems have not impoverished the soil.\
+    \ In fact, chemical fertility in these plots respects the needs of cocoa trees.\
+    \ However, the study did not show an increase in soil organic matter due to the\
+    \ fall of leaves from associated trees.\nThese results will enable the use of\
+    \ traditional agroforestry systems without fear of soil impoverishment due to\
+    \ any competition between cocoa trees and associated trees."
+  keywords:
+    default:
+      keywords:
+        subject: "C\xF4te d'Ivoire"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10306630
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10306629
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hypolith-Koffi-Kouadio:
+    individualname: Hypolith Koffi Kouadio
+    role: creator
+    organization: "University of Jean Lorougnon Gu\xE9d\xE9, Agroforestry RFU BP 150\
+      \ Daloa, C\xF4te d'Ivoire"
+    url: ''
+  Victor-Tieba-Ouattara:
+    individualname: "Victor Ti\xE8ba Ouattara"
+    role: creator
+    organization: "University of Jean Lorougnon Gu\xE9d\xE9, Agroforestry RFU BP 150\
+      \ Daloa, C\xF4te d'Ivoire"
+    url: ''
+  Stanislas-Kouakou-Koffi:
+    individualname: Stanislas Kouakou Koffi
+    role: creator
+    organization: "University of Jean Lorougnon Gu\xE9d\xE9, Agroforestry RFU BP 150\
+      \ Daloa, C\xF4te d'Ivoire"
+    url: ''
+  Jacques-Alain-Acka-Kotaix:
+    individualname: Jacques Alain Acka Kotaix
+    role: creator
+    organization: "National Center of Agronomic Research (CNRA), Cacao program, Agronomy-physiology\
+      \ Divo, C\xF4te d'Ivoire."
+    url: ''
+content_info: {}

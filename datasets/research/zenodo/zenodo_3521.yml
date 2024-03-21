@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132361
+  dataseturi: https://doi.org/10.5281/zenodo.1132361
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Methods For Preparation Of Soil Samples For Determination Of Trace Elements
+  abstract: 'It is generally accepted that only about ten microelements are vitally
+    important to all plants, and approximately ten more elements are proved to be
+    significant for the development of some species. The main methods for their determination
+    in soils are the atomic spectral techniques - AAS and ICP-OAS. Critical stage
+    to obtain correct results for content of heavy metals and nutrients in the soil
+    is the process of mineralization. A comparative study of the most widely spread
+    methods for soil sample preparation for determination of some trace elements was
+    carried out. Three most commonly used methods for sample preparation were used
+    as follows: ISO11466, EPA Method 3051 and BDS ISO 14869-1. Their capabilities
+    were assessed and their bounds of applicability in determining the levels of the
+    most important microelements in agriculture were defined.'
+  keywords:
+    default:
+      keywords:
+        subject: trace elements.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-08-02'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132361
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132360
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Krustev:
+    individualname: S. Krustev
+    role: creator
+    organization: ''
+    url: ''
+  V.-Angelova:
+    individualname: V. Angelova
+    role: creator
+    organization: ''
+    url: ''
+  K.-Ivanov:
+    individualname: K. Ivanov
+    role: creator
+    organization: ''
+    url: ''
+  P.-Zaprjanova:
+    individualname: P. Zaprjanova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

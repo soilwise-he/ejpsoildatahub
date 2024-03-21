@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7997208
+  dataseturi: https://doi.org/10.5281/zenodo.7997208
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: AGGREGATION STATUS OF FOUR NIGERIAN SOIL CLASSES TESTED UNDER DIF-FERENT
+    WATER SOAKING TIME
+  abstract: <strong>Abstract</strong> The effect of soil texture and time of soaking
+    on aggregate stability of four major soil textural classes in southeast, Nigeria
+    was evaluated. Both the wet and dry sieving techniques were used for the study.
+    Result findings indicated mean weight diameter (MWD) of clay loam texture to be
+    significantly lowest in wet sieving compared to other texture classes. Period
+    of soaking showed non-significant effect with all the indices used. Mean weight
+    diameter dry (MWDD) correlated with mean weight diameter wet (MWDW), degree of
+    aggregation (DA) and state of aggregation (SA), negatively at time 0, 30, 60,
+    90 and 120 minutes respectively. The correlation was significant at P &lt; 0.05
+    with MWDW and DA at times 0 minutes. At time 30 minutes, it was significant at
+    P &lt; 0.05 with DA, while at time 90 minutes it was significant with MWDW. At
+    time 120 minutes MWDD correlated significantly (P &lt; 0.05) with MWDW, DA and
+    SA. These results showed that the period of soaking had some contributions to
+    the stability of soil aggregates especially with the trend in the correlation
+    matrix between MWD dry and MWD wet, DA and SA.
+  keywords:
+    default:
+      keywords:
+        subject: Aggregation, mean weight diameter, soaking, stability indices, texture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7997208
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7997207
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nweke-I.:
+    individualname: Nweke, I.
+    role: creator
+    organization: Department of Soil Science Chukwuemeka Odumegwu Ojukwu University,
+      Anambra State
+    url: ''
+  Ijeh-A.:
+    individualname: Ijeh, A.
+    role: creator
+    organization: Nwafor Orizu College of Education Nsugbe, Anambra State, Nigeria
+    url: ''
+  Okafor-J.:
+    individualname: Okafor, J.
+    role: creator
+    organization: Department of Soil and Land Resource Management, Nnamdi Azikiwe
+      University, Awka, Anambra, Ni-geria
+    url: ''
+  Ngonadi-E.:
+    individualname: Ngonadi, E.
+    role: creator
+    organization: Department of Crop Science and Horticulture Chukwuemeka Odumegwu
+      Ojukwu University
+    url: ''
+  Igili-D.:
+    individualname: Igili, D.
+    role: creator
+    organization: Department of Crop Science and Horticulture Chukwuemeka Odumegwu
+      Ojukwu University
+    url: ''
+content_info: {}

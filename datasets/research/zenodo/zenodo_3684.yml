@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4082274
+  dataseturi: https://doi.org/10.5281/zenodo.4082274
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The thermal response of soil microbial methanogenesis decreases in magnitude
+    with changing temperature
+  abstract: "Microbial methanogenesis in anaerobic soils contributes greatly to global\
+    \ methane (CH<sub>4</sub>) release, and understanding its response to temperature\
+    \ is fundamental to predicting the feedback between this potent greenhouse gas\
+    \ and climate change. A compensatory thermal response in microbial activity over\
+    \ time can reduce the response of respiratory carbon (C) release to temperature\
+    \ change, as shown for carbon dioxide (CO<sub>2</sub>) in aerobic soils. However,\
+    \ whether microbial methanogenesis also shows a compensatory response to temperature\
+    \ change remains unknown. Here, we used anaerobic wetland soils from the Greater\
+    \ Khingan Range and the Tibetan Plateau to investigate how 160 days of experimental\
+    \ warming (+4\xB0C) and cooling (-4\xB0C) affect the thermal response of microbial\
+    \ CH<sub>4</sub> respiration and whether these responses correspond to changes\
+    \ in microbial community dynamics. The mass-specific CH<sub>4</sub> respiration\
+    \ rates of methanogens decreased with warming and increased with cooling, suggesting\
+    \ that microbial methanogenesis exhibited compensatory responses to temperature\
+    \ changes. Furthermore, changes in the species composition of methanogenic community\
+    \ under warming and cooling largely explained the compensatory response in the\
+    \ soils. The stimulatory effect of climate warming on soil microbe-driven CH<sub>4</sub>\
+    \ emissions may thus be smaller than that currently predicted, with important\
+    \ consequences for atmospheric CH<sub>4</sub> concentrations."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-10-20'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4082274
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3872962
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hongyang-Chen:
+    individualname: Hongyang Chen
+    role: creator
+    organization: Fudan University
+    url: ''
+  Ting-Zhu:
+    individualname: Ting Zhu
+    role: creator
+  Bo-Li:
+    individualname: Bo Li
+    role: creator
+  Changming-Fang:
+    individualname: Changming Fang
+    role: creator
+    organization: Fudan University
+    url: ''
+  Ming-Nie:
+    individualname: Ming Nie
+    role: creator
+  Zhu-Ting:
+    individualname: Zhu, Ting
+    role: ''
+    organization: Fudan University
+    url: ''
+  Li-Bo:
+    individualname: Li, Bo
+    role: ''
+    organization: Fudan University
+    url: ''
+  Nie-Ming:
+    individualname: Nie, Ming
+    role: ''
+    organization: Fudan University
+    url: ''
+content_info: {}

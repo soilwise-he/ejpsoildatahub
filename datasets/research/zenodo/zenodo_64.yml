@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5554370
+  dataseturi: https://doi.org/10.5281/zenodo.5554370
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: Soil Organic Carbon (OC)
+  abstract: Soil organic carbon improve soil structure, water retention, soil biodiversity,
+    buffering capacity and the cycling and storage of plant nutrients. In addition,
+    the mineralization of soil organic carbon provides plant nutrients, especially
+    nitrogen, phosphorus and sulfur (S), as well as with micronutrients. Therefore,
+    the measure of soil organic carbon levels is necessary to determine the soil fertility.
+    The Walkley-Black method was chosen as it is a simplified method, which provides
+    accurate measurements on soils with high organic carbon content. <strong>Application
+    and Principle</strong> The Walkley-Black (WB) method (Walkley and Black, 1934)
+    determines soil organic carbon (OC) by oxidising carbon with acidic dichromate
+    (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>). The oxidation step is followed by
+    titration of excess dichromate with ferrous sulfate. The OC is calculated from
+    the the difference between the total dichromate added and the amount of dichromate
+    left unreacted after the OC oxidation. The method provides an estimate of soil
+    Organic Matter from OC determination assuming that the fraction of soil OC reacted
+    and the amount of OC in soil OM. This method was widely considered a standard
+    method for OM after its development, but the advance of thermal decomposition
+    instruments has resulted in its limited use. Instead loss on ignition and thermal
+    decomposition methods are more widely used due to their ability to analyse samples
+    in a more time efficient manner.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-09-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5554370
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5554369
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Savvas-Dimitrios-Karavidas-Ioannis-Ntatsi-Georgia:
+    individualname: Savvas Dimitrios, Karavidas Ioannis, Ntatsi Georgia
+    role: creator
+  Savvas-Dimitrios-Karavidas-Ioannis:
+    individualname: Savvas Dimitrios, Karavidas Ioannis
+    role: ''
+    organization: Agricultural University of Athens
+    url: ''
+content_info: {}

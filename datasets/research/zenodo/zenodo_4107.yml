@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3741354
+  dataseturi: https://doi.org/10.5281/zenodo.3741354
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Assessment of Serviceability Fluctuation of RC Frame Building for Similar
+    Type of Soil Based on Bangladesh National Building Codes (BNBC)
+  abstract: Since the beginning of modern age, building a structure on a soft soil
+    has always been a challenge for engineers. Apart from gravity loads, effect lateral
+    load like earthquake load can vary due to soil type. The problem of soil-structure
+    interaction in the seismic analysis and design of structures has become increasingly
+    important, as it may be inevitable to build structures at locations with less
+    favorable geotechnical conditions in seismically active regions. The study was
+    carried out to assess the effect of soil stiffness and conditions on RC frame
+    displacement based on BNBC 2006 and proposed BNBC 2015. The variation in structural
+    displacement due to different cases is investigated in this research. The structural
+    displacements based on BNBC 2015 are always greater than that of BNBC 2006 for
+    all proposed cases, considering similar soil condition. For all soil conditions,
+    maximum increment in deflection generated for case 5 while the lowest increment
+    found for case 2, as the analyses were static linear consideration, the earthquake
+    load greatly influenced by the seismic zone coefficients. As the second highest
+    deflection occurred in case 2 with the least increment, the structural cost in
+    case 2 areas would be comparatively high considering the other areas but the structures
+    will be least critical for new code consideration when the other parameters are
+    same.
+  keywords:
+    default:
+      keywords:
+        subject: Seismic analysis, Soil Condition, BNBC 2006, BNBC 2015, Deflection
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-04-06'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3741354
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3741353
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Md.-Tasbirul-Islam:
+    individualname: Md. Tasbirul Islam
+    role: creator
+    organization: ''
+    url: ''
+  Md.-Reazul-Mumin:
+    individualname: Md. Reazul Mumin
+    role: creator
+    organization: ''
+    url: ''
+  Sariah-Ismail:
+    individualname: Sariah Ismail
+    role: creator
+    organization: ''
+    url: ''
+  Shafiqul-Islam:
+    individualname: Shafiqul Islam
+    role: creator
+    organization: ''
+    url: ''
+  Sristi-Das-Gupta:
+    individualname: Sristi Das Gupta
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

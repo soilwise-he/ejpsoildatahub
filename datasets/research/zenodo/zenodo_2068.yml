@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10170384
+  dataseturi: https://doi.org/10.5281/zenodo.10170384
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ADJUSTING THE AMOUNT OF ARAL SEA SOIL ELEMENTS IN EQUIVALENT PROPORTIONS
+    FOR PLANT GROWTH AND DEVELOPMENT
+  abstract: The dried bottom of the Aral Sea is a global threat to the environment.
+    From this, one can imagine what a global difficult task faces scientists who are
+    looking for possible ways to lay a dried-up seabed and help the natural process
+    to fix sandy areas containing toxicants and devoid of vegetation [1-3]. A toxic
+    salt-dust mixture is carried by the winds around the Aral Sea and its adjacent
+    territory [2-4].
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-11-21'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10170384
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10170383
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abdiganiev-E.A.:
+    individualname: Abdiganiev, E.A.
+    role: creator
+    organization: ''
+    url: ''
+  Babaniyazov-B.J.:
+    individualname: Babaniyazov, B.J.
+    role: creator
+    organization: ''
+    url: ''
+  Burkhiev-F.Z.:
+    individualname: Burkhiev, F.Z.
+    role: creator
+    organization: ''
+    url: ''
+  Kushiev-Kh.Kh.:
+    individualname: Kushiev, Kh.Kh.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

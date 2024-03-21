@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8193
+  dataseturi: https://doi.org/10.5281/zenodo.8193
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determinants Of Farmers' Decision On Soil Fertility Management Options For
+    Maize Production In Southern Ethiopia
+  abstract: "In Ethiopia, food insecurity has always been a burning problem. The gap\
+    \ between demand for and supply of food can be minimized through protecting and\
+    \ managing soil fertility and thereby increasing productivity of crops. This study\
+    \ was conducted in major maize growing areas of southern Ethiopia. The objectives\
+    \ of the study were to assess soil fertility management options available to smallholder\
+    \ farmers and identify the factors that affect their decision making to apply\
+    \ a given alternative in maize crop. The study was based on the cross sectional\
+    \ data obtained from a random sample of 385 smallholder farmers. A multinomial\
+    \ logit model was employed to identify socioeconomic, institutional and environmental\
+    \ factors determining farmers\u2019 decision regarding the choice of a particular\
+    \ soil fertility management option. The result indicated that size of farm, access\
+    \ to credit, availability of extension services and training pertaining to soil\
+    \ fertility management were important factors affecting the decision to use a\
+    \ particular soil fertility management practice."
+  keywords:
+    default:
+      keywords:
+        subject: soil fertility management.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2013-02-27'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8193
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Geta-Endrias:
+    individualname: Geta, Endrias
+    role: creator
+    organization: Department of Agricultural Economics, Haramaya University, P.o.Box
+      138, Dire Dawa, Ethiopia.
+    url: ''
+  Bogale-Ayalneh:
+    individualname: Bogale, Ayalneh
+    role: creator
+    organization: African Centre for Food Security, University of Kwazulu Natal, South
+      Africa.
+    url: ''
+  Kassa-Belay:
+    individualname: Kassa, Belay
+    role: creator
+    organization: Department of Agricultural Economics, Haramaya University, P.o.Box
+      138, Dire Dawa, Ethiopia.
+    url: ''
+  Elias-Eyasu:
+    individualname: Elias, Eyasu
+    role: creator
+    organization: Wageningen UR Liaison Office, Addis Ababa, Ethiopia.
+    url: ''
+content_info: {}

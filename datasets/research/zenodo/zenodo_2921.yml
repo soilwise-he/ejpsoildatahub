@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: JOFFE_1922
+  dataseturi: https://doi.org/10.1097/00010694-192212000-00010
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'ACID PHOSPHATE PRODUCTION BY THE LIPMAN PROCESS: I. EFFECT OF MOISTURE CONTENT
+    OF SULFUR-FLOATS-SOIL MIXTURES ON SULFUR OXIDATION ACTIVITIES'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'ACID PHOSPHATE PRODUCTION BY THE LIPMAN PROCESS: I. EFFECT OF MOISTURE
+      CONTENT OF SULFUR-FLOATS-SOIL MIXTURES ON SULFUR OXIDATION ACTIVITIES'
+    url: http://dx.doi.org/10.1097/00010694-192212000-00010
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Joffe-Jacob-S.:
+    individualname: Joffe, Jacob S.
+    role: creator
+  JOFFE-JACOB-S.:
+    individualname: JOFFE, JACOB S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

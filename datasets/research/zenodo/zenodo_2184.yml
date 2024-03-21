@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10613709
+  dataseturi: https://doi.org/10.5281/zenodo.10613709
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Toxicity of bitumen on soil fertility bacteria - Nitrobacter and Nitrosomonas
+    from Tekulu Waterside, Rivers State, Nigeria
+  abstract: "Toxicity of bitumen on Nitrosomonas and Nitrobacter from Tekulu Waterside,\
+    \ Bodo in Gokana Local government area of Ogoni, Rivers State, Nigeria was carried\
+    \ out using standard analytical procedures. The density, API and flash point of\
+    \ the bitumen used in this study at 15\xB0C was 0.9898 g/cm3, API at 60\xB0F value\
+    \ of 11.46 and >200\xB0C respectively. The total TPH and PAH constituent of the\
+    \ bitumen was 20,549.77 mg/L and 924.09 mg/L respectively. Analysis of the effect\
+    \ of different concentration (50 mg/L, 250 mg/L, 500 mg/L, 750 mg/L and 1000 mg/L)\
+    \ of bitumen on Nitrosomonas sp. over a period (24hrs, 48hrs. 72hrs and 96hrs)\
+    \ revealed that the mortality of the organism increased as the concentration of\
+    \ the toxicant. The mortality was also affected by the duration of exposure. The\
+    \ probit analysis on the lethal concentration (LC10, LC20\_and LC50) of the bitumen\
+    \ on Nitrosomonas sp. was 223.32 mg/L, 369.682 mg/L and 969.622 mg/L respectively\
+    \ and Nitrobacter sp. 587.837 mg/L, 765.74 mg/L and 1269.841 mg/L respectively,\
+    \ when exposed for 96 hours revealed a varying mortality status. The LC50\_of\
+    \ the bitumen on Nitrosomonas sp. peaked at 48hrs. The study shows that bitumen\
+    \ was more toxic to Nitrosomonas than Nitrobacter sp. based on the findings of\
+    \ the study, it is recommended that test organisms (Nitrosomonas\_sp. and\_Nitrobacter\
+    \ sp.) could serve as a potential tool for eco-toxicological assay and pollution\
+    \ biomarker."
+  keywords:
+    default:
+      keywords:
+        subject: Mortality
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10613709
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10613708
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chidi-Juliet-Nwankwo:
+    individualname: Chidi Juliet Nwankwo
+    role: creator
+    organization: Department of Microbiology, Faculty of Science, University of Port
+      Harcourt, Rivers State, Nigeria.
+    url: ''
+  Lucky-Obukowho-Odokuma:
+    individualname: Lucky Obukowho Odokuma
+    role: creator
+    organization: Department of Microbiology, Faculty of Science, University of Port
+      Harcourt, Rivers State, Nigeria.
+    url: ''
+  Chimezie-Jason-Ogugbue:
+    individualname: Chimezie Jason Ogugbue
+    role: creator
+    organization: Department of Microbiology, Faculty of Science, University of Port
+      Harcourt, Rivers State, Nigeria.
+    url: ''
+content_info: {}

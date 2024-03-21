@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1312190
+  dataseturi: https://doi.org/10.5281/zenodo.1312190
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'The Current State Of Studying The Changes In The Forms And Bioavailability
+    Of Copper And Zinc In The Soil-Plant System: Optimal Design Studies For Monitoring
+    On Large Sample Arrays'
+  abstract: "To describe the biotransformation of copper and zinc in the soil, the\
+    \ directions of study of accumulation and transformation in soils of copper and\
+    \ zinc in science are distinguished. These are studies of man-caused contaminated\
+    \ areas that have developed under the influence of the anthropogenic factor \u2014\
+    \ due to their proximity to industrial enterprises, location near cities; studies\
+    \ with the artificial creation of a model of acculturation or man-made pollution\
+    \ through the introduction of the element into the soil, through the introduction\
+    \ of multicomponent fertilizer compositions in microfilm and field experiments.\
+    \ The analysis of Russian and foreign scientific publications over the past 20\
+    \ years has been done on the elibrary.ru portal, in the electronic catalog of\
+    \ the Russian State Library, among the dissertations on earth sciences, foreign\
+    \ electronic resources \u2014 Consortium of University Scientific Publishers Europe,\
+    \ Google Academy, Web of Science, Scopus, ERIH PLUS, \xABNature\xBB registered.\n\
+    \nStudies of changes in bioavailability and the fractional composition of zinc\
+    \ and copper in a soil are analyzed, and the effect of these processes on organic\
+    \ and mineral fertilizer systems is less influenced by the long-term application."
+  keywords:
+    default:
+      keywords:
+        subject: sources of receipt of metals
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2018-07-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1312190
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1312189
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kuzina-L.:
+    individualname: Kuzina, L.
+    role: creator
+    organization: Moscow State University
+    url: https://orcid.org/0000-0002-9299-4422
+content_info: {}

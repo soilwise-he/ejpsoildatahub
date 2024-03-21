@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Prevost_1881
+  dataseturi: https://doi.org/10.1039/ct8813900475
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "LXIV.\u2014The effects of the growth of plants on the amount of matter removed\
+    \ from the soil by rain"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "LXIV.\u2014The effects of the growth of plants on the amount of matter\
+      \ removed from the soil by rain"
+    url: http://dx.doi.org/10.1039/ct8813900475
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prevost-E.-W.:
+    individualname: Prevost, E. W.
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

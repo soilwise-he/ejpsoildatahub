@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Shabani_2022
+  dataseturi: https://doi.org/10.1016/j.cscm.2022.e00957
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Model updating of a masonry tower based on operational modal analysis: The
+    role of soil-structure interaction'
+  abstract: '&lt;p&gt;Vibration-based finite element model (FEM) updating of cultural
+    heritage assets is gaining so much attraction these days since destructive tests
+    are usually not allowed to be performed. In this study, a framework for developing
+    three-dimensional (3D) FEMs is proposed using 3D laser scanners and applied on
+    Slottsfjell tower, a stone masonry tower in T&oslash;nsberg, Norway. Operational
+    modal analysis (OMA) was done based on the ambient vibration testing (AVT) data
+    to define the frequency values and corresponding mode shapes of the tower. Mechanical
+    properties of the t&oslash;nsbergite stone were utilized to derive the base values
+    of the material properties of the homogenized masonry for performing sensitivity
+    analysis and FEM updating. To investigate the effect of the soil-structure interaction
+    (SSI) on the FEM updating results, three FEMs are developed. The fixed-base model
+    is the FEM without considering the SSI effects, and two other FEMs are developed
+    using the substructure and direct methods for simulating the SSI effects. Sensitivity
+    analysis was performed to investigate the effective parameters on the dynamic
+    characteristics of the models. FEM updating was conducted on the three FEMs, and
+    results are compared to each other to show the role of the SSI on the FEM updating
+    results. The resonance effect can cause damage to buildings located even in low
+    seismicity zones. For this aim, the risk of resonance effect has been evaluated
+    for the tower. Finally, linear dynamic analysis was performed on the three calibrated
+    models, and the results were compared to each other.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Digital twins
+      - Model updating
+      - Soil-structure interaction
+      - Masonry tower
+      - Operational modal analysis
+      - Resonance effect
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Model updating of a masonry tower based on operational modal analysis:
+      The role of soil-structure interaction'
+    url: http://dx.doi.org/10.1016/j.cscm.2022.e00957
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Amirhosein-Shabani:
+    individualname: Amirhosein Shabani
+    role: creator
+  Mohyeddin-Feyzabadi:
+    individualname: Mohyeddin Feyzabadi
+    role: creator
+  Mahdi-Kioumarsi:
+    individualname: Mahdi Kioumarsi
+    role: creator
+  Shabani-Amirhosein:
+    individualname: Shabani, Amirhosein
+    role: creator
+  Feyzabadi-Mohyeddin:
+    individualname: Feyzabadi, Mohyeddin
+    role: creator
+  Kioumarsi-Mahdi:
+    individualname: Kioumarsi, Mahdi
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

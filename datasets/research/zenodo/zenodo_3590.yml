@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1055036
+  dataseturi: https://doi.org/10.5281/zenodo.1055036
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effects Of Rain And Overland Flow Powers On Agricultural Soil Erodibility
+  abstract: 'The purpose of this investigation is to relate the rain
+
+    power and the overland flow power to soil erodibility to assess the
+
+    effects of both parameters on soil erosion using variable rainfall
+
+    intensity on remoulded agricultural soil. Six rainfall intensities were
+
+    used to simulate the natural rainfall and are as follows: 12.4mm/h,
+
+    20.3mm/h, 28.6mm/h, 52mm/h, 73.5mm/h and 103mm/h. The results
+
+    have shown that the relationship between overland flow power and
+
+    rain power is best represented by a linear function (R2=0.99). As
+
+    regards the relationships between soil erodibility factor and rain and
+
+    overland flow powers, the evolution of both parameters with the
+
+    erodibility factor follow a polynomial function with high coefficient
+
+    of determination. From their coefficients of determination (R2=0.95)
+
+    for rain power and (R2=0.96) for overland flow power, we can
+
+    conclude that the flow has more power to detach particles than rain.
+
+    This could be explained by the fact that the presence of particles,
+
+    already detached by rain and transported by the flow, give the flow
+
+    more weight and then contribute to the detachment of particles by
+
+    collision.'
+  keywords:
+    default:
+      keywords:
+        subject: rainfall intensity.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-04-27'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1055036
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1055035
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Moussouni:
+    individualname: A. Moussouni
+    role: creator
+    organization: ''
+    url: ''
+  L.-Mouzai:
+    individualname: L. Mouzai
+    role: creator
+    organization: ''
+    url: ''
+  M.-Bouhadef:
+    individualname: M. Bouhadef
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

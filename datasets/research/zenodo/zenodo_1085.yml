@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Warington_1887
+  dataseturi: https://doi.org/10.1039/ct8875100118
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "XVII.\u2014On the distribution of the nitrifying organism in the soil"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "XVII.\u2014On the distribution of the nitrifying organism in the soil"
+    url: http://dx.doi.org/10.1039/ct8875100118
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Warington-R.:
+    individualname: Warington, R.
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

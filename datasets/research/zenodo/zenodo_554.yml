@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6297210
+  dataseturi: https://doi.org/10.5281/zenodo.6297210
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spectrophotometric Determination of Selenium in Soil and Alloys
+  abstract: Department of Chemistry. University of Mysore, Mysore-570 006 Department
+    of Chemistry, University of Agricultural Sciences, Bangalore-560 024 <em>Manuscript
+    received 27 July 1987, revised 9 February 1988, accepted 22 April 1988</em> A
+    rapid method for spectrophotometric micro determination of selenium using propericiazine
+    has been reported. A red radical cation is formed at 7-9 <em>M</em> HCI which
+    absorbs maximum at 515 nm and stable for 2 h. Beer's Jaw is obeyed for upto 3.5
+    \(\mu\)g selenium per ml. The molar absorptivity and Sandell's sensitivity are
+    3.736 K 10<sup>4</sup> dm<sup>3</sup> mol-<sup>1</sup> cm-<sup>1 </sup>and 0.002
+    \(\mu\)g cm<sup>-1</sup>, respectively. The optimum reaction conditions and other
+    analytical parameters are evaluated. The proposed method is simple, rapid, selective
+    and can be used for the determination of selenium content in soil and alloys.
+  keywords:
+    default:
+      keywords:
+        subject: diverse ions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1988-07-31'
+    publication: '1988'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6297210
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6297209
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-KESHAVAN:
+    individualname: B. KESHAVAN
+    role: creator
+    organization: ''
+    url: ''
+  P.-NAGARAJA:
+    individualname: P. NAGARAJA
+    role: creator
+    organization: ''
+    url: ''
+  S.-SUNDER-RAJ:
+    individualname: S. SUNDER RAJ
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1112236
+  dataseturi: https://doi.org/10.5281/zenodo.1112236
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Thermal Technologies Applications For Soil Remediation
+  abstract: This paper discusses the importance of having a good initial characterization
+    of soil samples when thermal desorption has to be applied to polluted soils for
+    the removal of contaminants. Particular attention has to be devoted on the desorption
+    kinetics of the samples to identify the gases evolved during the heating, and
+    contaminant degradation pathways. In this study, two samples coming from different
+    points of the same contaminated site were considered. The samples are much different
+    from each other. Moreover, the presence of high initial quantity of heavy hydrocarbons
+    strongly affected the performance of thermal desorption, resulting in formation
+    of dangerous intermediates. Analytical techniques such TGA (Thermogravimetric
+    Analysis), DSC (Differential Scanning Calorimetry) and GC-MS (Gas Chromatography-Mass)
+    provided a good support to give correct indication for field application.
+  keywords:
+    default:
+      keywords:
+        subject: thermogravimetric measurements.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-02-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1112236
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1112235
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-de-Folly-d'Auris:
+    individualname: A. de Folly d'Auris
+    role: creator
+  R.-Bagatin:
+    individualname: R. Bagatin
+    role: creator
+    organization: ''
+    url: ''
+  P.-Filtri:
+    individualname: P. Filtri
+    role: creator
+    organization: ''
+    url: ''
+  A.-De-Folly-D'Auris:
+    individualname: A. De Folly D'Auris
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

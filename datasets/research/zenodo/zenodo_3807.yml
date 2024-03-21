@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4870526
+  dataseturi: https://doi.org/10.5281/zenodo.4870526
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Effect of EDTA and LMWOAs on Zinc Fraction Redistribution and Kinetic Release
+    from Soil
+  abstract: 'In the present investigation, we studied the speciation and kinetic aspects
+    of Zinc (Zn) release from artificially Zinc contaminated soil, under the treatment
+    of synthetic chelating agent ethylenediaminetetraacetic acid (EDTA) and low molecular
+    weight organic acids (LMWOAs). Addition of EDTA and LMWOAs significantly increased
+    the exchangeable fraction of Zn by 4.91-5.68, 3-4.33, 2.25- 2.89, 2.38-2.80 times
+    under the treatment of EDTA, citric acid, oxalic acid, and malic acid respectively.
+    Kinetic modeling (two first order reaction model) of Zn release vs. time distinguished
+    two metal pools: readily labile and less labile. There was a high release of Zn
+    by EDTA (24.9%-34.7%) compared to the LMWOA (4.3%-6.4%). In this study, it was
+    also shown that the Q1of Zn released under the EDTA treatment was positively correlated
+    with exchangeable, carbonate bound and Fe-Mn bound fractions suggesting that <br>
+    EDTA can release Zn associated with these fractions, whereas LMWOA can release
+    Zn only from exchangeable fraction.'
+  keywords:
+    default:
+      keywords:
+        subject: Kinetic release
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-04-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4870526
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4870525
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Green-Feather:
+    individualname: Green Feather
+    role: creator
+  Syed-Yakub-Ali:
+    individualname: Syed Yakub Ali
+    role: creator
+  Moumita-Paul:
+    individualname: Moumita Paul
+    role: creator
+    organization: ''
+    url: ''
+  Syed-Yunus-Ali:
+    individualname: Syed Yunus Ali
+    role: creator
+  Debopriya-Bhattacharyya:
+    individualname: Debopriya Bhattacharyya
+    role: creator
+    organization: ''
+    url: ''
+  Shibani-Chaudhury:
+    individualname: Shibani Chaudhury
+    role: creator
+    organization: ''
+    url: ''
+  Ali-Syed-Yakub:
+    individualname: Ali, Syed Yakub
+    role: ''
+    organization: ''
+    url: ''
+  Ali-Syed-Yunus:
+    individualname: Ali, Syed Yunus
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

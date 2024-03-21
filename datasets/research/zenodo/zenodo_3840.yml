@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2576148
+  dataseturi: https://doi.org/10.5281/zenodo.2576148
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "DEVELOPMENT OF SOIL INFORMATION SYSTEM USING GIS \u2013 A CASE STUDY OF\
+    \ TIRUPATI TOWN, ANDHRA PRADESH"
+  abstract: Geographical Information System is a very effective tool for capturing,
+    displaying and analyzing geographically referenced data.GIS can be used for obtaining
+    data at inaccessible locations, data visualization, data processing as well as
+    preparation of post processing graphs and charts. This paper highlights creation
+    of a soil resource inventory and database creation for thematic mapping using
+    GIS.The results illustrate the vast potential of GIS towards soil mapping and
+    effective management of soil data base. By using GIS, the users can produce the
+    maps of soil classifications; obtain engineering information regarding soil type,
+    an initial indication of soil properties.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Properties, Information System, GIS.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-02-23'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2576148
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2576147
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V-Shiva-Chandra*1-Dr.-R.-Sandhya-Rani2--G.-Padmaja3:
+    individualname: V Shiva Chandra*1, Dr. R. Sandhya Rani2 & G. Padmaja3
+    role: creator
+    organization: '*1,3Assistant Professor, Department of Civil Engineering, MVSR
+      Engineering College, Nadergul, Hyderabad, Telangana, India 2Associate Professor,
+      Department of Civil Engineering, MVSR Engineering College, Nadergul, Hyderabad,
+      Telangana, India'
+    url: ''
+content_info: {}

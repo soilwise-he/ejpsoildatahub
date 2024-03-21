@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gao_2018
+  dataseturi: https://doi.org/10.1099/ijsem.0.002780
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Pseudonocardia lutea sp. nov., a novel actinobacterium isolated from soil
+    in Chad
+  abstract: 'Gao, Yuhang, Piao, Chenyu, Wang, Han, Shi, Linlin, Guo, Xiaowei, Song,
+    Jia, Xiang, Wensheng, Zhao, Junwei, Wang, Xiangjing (2018): Pseudonocardia lutea
+    sp. nov., a novel actinobacterium isolated from soil in Chad. International Journal
+    of Systematic and Evolutionary Microbiology 68 (6): 1992-1997, DOI: 10.1099/ijsem.0.002780,
+    URL: http://dx.doi.org/10.1099/ijsem.0.002780'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Actinobacteria
+      - Actinobacteridae
+      - Actinomycetales
+      - Pseudonocardiaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Pseudonocardia lutea sp. nov., a novel actinobacterium isolated from soil
+      in Chad
+    url: http://dx.doi.org/10.1099/ijsem.0.002780
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gao-Yuhang:
+    individualname: Gao, Yuhang
+    role: creator
+  Piao-Chenyu:
+    individualname: Piao, Chenyu
+    role: creator
+  Wang-Han:
+    individualname: Wang, Han
+    role: creator
+  Shi-Linlin:
+    individualname: Shi, Linlin
+    role: creator
+  Guo-Xiaowei:
+    individualname: Guo, Xiaowei
+    role: creator
+  Song-Jia:
+    individualname: Song, Jia
+    role: creator
+  Xiang-Wensheng:
+    individualname: Xiang, Wensheng
+    role: creator
+  Zhao-Junwei:
+    individualname: Zhao, Junwei
+    role: creator
+  Wang-Xiangjing:
+    individualname: Wang, Xiangjing
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

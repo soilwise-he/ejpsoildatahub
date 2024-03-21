@@ -1,0 +1,51 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: RICE_1918
+  dataseturi: https://doi.org/10.1097/00010694-191805000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE INVERSION OF CANE SUGAR BY SOILS AND ALLIED SUBSTANCES AND THE NATURE
+    OF SOIL ACIDITY
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE INVERSION OF CANE SUGAR BY SOILS AND ALLIED SUBSTANCES AND THE NATURE
+      OF SOIL ACIDITY
+    url: http://dx.doi.org/10.1097/00010694-191805000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rice-F.-E.:
+    individualname: Rice, F. E.
+    role: creator
+  Osugi-S.:
+    individualname: Osugi, S.
+    role: creator
+  RICE-F.-E.:
+    individualname: RICE, F. E.
+    role: creator
+  OSUGI-S.:
+    individualname: OSUGI, S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

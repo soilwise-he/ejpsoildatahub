@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3239260
+  dataseturi: https://doi.org/10.5281/zenodo.3239260
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of integrated watershed management on vegetation cover, soil organic
+    carbon and soil fertility in mid-hills of Nepal
+  abstract: This research was objectively carried out to evaluate the effect of integrated
+    management on watersheds. Thus, well managed and poorly managed watersheds were
+    selected; where samples from three altitudinal ranges, four land use types and
+    three consecutive soil depths were taken. Changes in vegetation cover were also
+    analysed. The result showed an increase in vegetation cover by 27.82 % in well
+    managed, and decrease in vegetation cover by 38.33% in poorly managed watershed
+    from 1992 to 2015.  Soil organic carbon was found highest (43.57 t/ha) in shrublands
+    of altitudinal range of 1700 -2000 m of well managed, and lowest (3.94 t/ha) in
+    shrublands of below 1700m in poorly managed watershed. This paper summarises that
+    the integrated watershed management is crucial for increasing organic carbon content
+    at the watershed level, as a contribution to climate change mitigation.
+  keywords:
+    default:
+      keywords:
+        subject: Soil organic carbon, soil fertility indicators, watershed management,
+          vegetation cover.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-05'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3239260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3239259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kishor-ARYAL:
+    individualname: Kishor ARYAL
+    role: creator
+    organization: ''
+    url: ''
+  Prakash-Singh-THAPA:
+    individualname: Prakash Singh THAPA
+    role: creator
+  Pasang-TAMANG:
+    individualname: Pasang TAMANG
+    role: creator
+    organization: ''
+    url: ''
+  Diwakar-BHATTARAI:
+    individualname: Diwakar BHATTARAI
+    role: creator
+    organization: ''
+    url: ''
+  Saroj-Kumar-CHAUDHARY:
+    individualname: Saroj Kumar CHAUDHARY
+    role: creator
+  Ram-Asheshwar-MANDAL:
+    individualname: Ram Asheshwar MANDAL
+    role: creator
+  THAPA-Prakash-Singh:
+    individualname: THAPA, Prakash Singh
+    role: ''
+    organization: Department of Forests and Soil Conservation, Kathmandu
+    url: ''
+  CHAUDHARY-Saroj-Kumar:
+    individualname: CHAUDHARY, Saroj Kumar
+    role: ''
+    organization: Forest Research and Training Centre, Kathmandu,
+    url: ''
+  MANDAL-Ram-Asheshwar:
+    individualname: MANDAL, Ram Asheshwar
+    role: ''
+    organization: Kathmandu Forestry College, Kathmandu, Nepal
+    url: ''
+content_info: {}

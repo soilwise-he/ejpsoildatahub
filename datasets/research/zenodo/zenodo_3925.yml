@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2636862
+  dataseturi: https://doi.org/10.5281/zenodo.2636862
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: DETERMINATION OF THERMAL CONDUCTIVITY FOR ADOBE (CLAY SOIL) MIXED WITH DIFFERENT
+    PROPORTIONS OF QUARTZ (SHARP SAND)
+  abstract: "This research investigated the thermal conductivity of Adobe mixed with\
+    \ Quartz in view of their availability usage as building materials. The thermal\
+    \ conductivities of disc made from AdobeQuartz chippings were determined. The\
+    \ values of the thermal conductivities obtained were between 0.6Wm-1k-1and 0.9Wm-1k-1,\
+    \ these values could be used to identify Adobe/Quartz as one of the engineering\
+    \ materials used in building construction. Adobe/Quartz was prepared in discs\
+    \ form of the same diameters and thicknesses and was also compressed under the\
+    \ same pressure of 15 atmospheres (100: 0, 95: 5and 80: 20). The average values\
+    \ of the thermal conductivities were between 0.07Wm-1\u04A0-1 and 0.93Wm-1\u04A0\
+    -1, for sample contained the proportion of (80:20) and the sample of ratio (95:5).\
+    \ MATLAB 7.0 and EXCEL software were used in the various computations, especially\
+    \ in determining dT/dt, Root mean square error (RMSE), Curve fittings parameter\
+    \ and the correlation coefficient, R2. An average correlation coefficient of 0.78\
+    \ was existed between Adobe-Quartz ratio and thermal conductivity. The equation,\
+    \ y = -0.11x2 + 0.01x + 1.03 is the general equation that can be used for the\
+    \ prediction of average thermal conductivity at various ratios. Where y is the\
+    \ average thermal conductivity and x here signifies the ratios. This also indicates\
+    \ that compacted Adobe-Quartz of low density will be a suitable thermal insulator\
+    \ when used as aggregates in walls."
+  keywords:
+    default:
+      keywords:
+        subject: Thermal Conductivity; Adobe; Quartz; Lee Disc and Resistivity.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-03-31'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2636862
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2636861
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K-Singh:
+    individualname: S. K Singh
+    role: creator
+    organization: ''
+    url: ''
+  Ngaram-S.-M.:
+    individualname: Ngaram S., M.
+    role: creator
+    organization: Department of Science Laboratory Technology (Physics Unit), Federal
+      Polytechnic Mubi, Adamawa State, Nigeria.
+    url: ''
+  Wante-H.-P.:
+    individualname: Wante H., P.
+    role: creator
+    organization: Department of Science Laboratory Technology (Physics Unit), Federal
+      Polytechnic Mubi, Adamawa State, Nigeria.
+    url: ''
+content_info: {}

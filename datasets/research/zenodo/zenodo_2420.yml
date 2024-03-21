@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5851958
+  dataseturi: https://doi.org/10.5281/zenodo.5851958
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 2,4-Dihydroxybenzophenone benzoic hydrazone for spectrophotometric determination
+    of copper(II) and iron(III) in soil and cement
+  abstract: "Department of Chemistry, Sri Krishnadevaraya University, Anantapur-515\
+    \ 003, India <em>Manuscript received 23 May 1997, revised 28 December 1998, accepted\
+    \ 4 February 1999</em> 2,4-Dihydroxybenzophenone benzoic hydrazone (<strong>DHBPBH)</strong>\
+    \ is employed as an analytical reagent for the spectrophotometric determination\
+    \ of copper and iron. The reagent forms 1 : 1 greenish yellow coloured complex\
+    \ with copper(II) at pH 4.0 and \u03BB<sub>max</sub> 380 nm (E 1.55 x 10<sup>4</sup>\
+    \ dm<sup>3</sup> mol<sup>-1</sup> cm<sup>-1</sup>); Sandell's sensitivity 0.004\
+    \ \xB5g cm<sup>-2</sup>, and Beer's law range 0.31-2.2 \xB5g ml<sup>-1</sup>.\
+    \ It results a brown coloured 2: 3 complex with iron(lll) at pH 5.0 and \u03BB\
+    <sub>max</sub> 380 nm (E 2.8 x 10<sup>4</sup> dm<sup>3</sup> mol<sup>-1</sup>\
+    \ cm<sup>-1</sup>); Sandell's sensitivity 0.002 \xB5g em<sup>-1</sup> and Beer's\
+    \ law range 0.14-1.0 \xB5g ml<sup>-1</sup>. The method has been applied for the\
+    \ determination of copper in soil and alloy samples and iron( Ill) in cement sample."
+  keywords:
+    default:
+      keywords:
+        subject: Stock solutions
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1999-05-31'
+    publication: '1999'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5851958
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5851957
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  V.-Krishna-Reddy:
+    individualname: V. Krishna Reddy
+    role: creator
+    organization: ''
+    url: ''
+  J-Thippaiah:
+    individualname: J, Thippaiah
+    role: creator
+    organization: ''
+    url: ''
+  C.-Kesava-Rao:
+    individualname: C. Kesava Rao
+    role: creator
+    organization: ''
+    url: ''
+  P.-Raveendra-Reddy:
+    individualname: P. Raveendra Reddy
+    role: creator
+    organization: ''
+    url: ''
+  T.-Sreenivasulu-Reddy:
+    individualname: T. Sreenivasulu Reddy
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

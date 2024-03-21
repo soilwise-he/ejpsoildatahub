@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2659602
+  dataseturi: https://doi.org/10.5281/zenodo.2659602
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Shock Response Analysis of Soil-Structure Systems Induced by Near-Fault Pulses
+  abstract: "Shock response analysis of the soil\u2013structure systems induced by\
+    \ near\u2013fault pulses is investigated. Vibration transmissibility of the soil\u2013\
+    structure systems is evaluated by Shock Response Spectra (SRS). Medium\u2013to\u2013\
+    high rise buildings with different aspect ratios located on different soil types\
+    \ as well as different foundations with respect to vertical load bearing safety\
+    \ factors are studied. Two types of mathematical near\u2013fault pulses, i.e.\
+    \ forward directivity and fling step, with different pulse periods as well as\
+    \ pulse amplitudes are selected as incident ground shock. Linear versus nonlinear\
+    \ Soil\u2013Structure Interaction (SSI) condition are considered alternatively\
+    \ and the corresponding results are compared. The results show that nonlinear\
+    \ SSI is likely to amplify the acceleration responses when subjected to long\u2013\
+    period incident pulses with normalized period exceeding a threshold. It is also\
+    \ shown that this threshold correlates with soil type, so that increased shear\u2013\
+    wave velocity of the underlying soil makes the threshold period decrease."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-04-22'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2659602
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2659601
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-Masaeli:
+    individualname: H. Masaeli
+    role: creator
+    organization: ''
+    url: ''
+  R.-Ziaei:
+    individualname: R. Ziaei
+    role: creator
+    organization: ''
+    url: ''
+  F.-Khoshnoudian:
+    individualname: F. Khoshnoudian
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

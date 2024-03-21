@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1062374
+  dataseturi: https://doi.org/10.5281/zenodo.1062374
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Remediation Of Petroleum Hydrocarbon-Contaminated Soil Slurry By Fenton Oxidation
+  abstract: "Theobjective of this study was to evaluate the optimal\ntreatment condition\
+    \ of Fenton oxidation process to removal\ncontaminant in soil slurry contaminated\
+    \ by petroleum hydrocarbons.\nThis research studied somefactors that affect the\
+    \ removal efficiency\nof petroleum hydrocarbons in soil slurry including molar\
+    \ ratio of\nhydrogen peroxide (H2O2) to ferrous ion(Fe2+), pH condition and\n\
+    reaction time.The resultsdemonstrated that the optimum condition\nwas that the\
+    \ molar ratio of H2O2:Fe3+ was 200:1,the pHwas 4.0and\nthe rate of reaction was\
+    \ increasing rapidly from starting point to 7th\nhour and destruction kinetic\
+    \ rate (k) was 0.24 h-1. Approximately\n96% of petroleum hydrocarbon was observed(initialtotal\
+    \ petroleum\nhydrocarbon (TPH) concentration = 70\xB17gkg-1)"
+  keywords:
+    default:
+      keywords:
+        subject: Remediation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-09-29'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1062374
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1062373
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  C.-Pongcharoen:
+    individualname: C. Pongcharoen
+    role: creator
+    organization: ''
+    url: ''
+  K.-Kaiyavongand-T.-Satapanajaru:
+    individualname: K. Kaiyavongand T. Satapanajaru
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

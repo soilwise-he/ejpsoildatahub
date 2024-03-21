@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3887414
+  dataseturi: https://doi.org/10.5281/zenodo.3887414
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Temporal annual and seasonal NDVI variation of Sagarmatha national park,
+    Nepal and its relationship with precipitation and soil moisture
+  abstract: <em>The researches related to the national parks are important for detecting
+    changes, managing and protecting resources in them. The vegetation change study
+    is more vital as vegetation is the part of every ecosystems and functioning of
+    the park. There had been limited study regarding vegetation changes and impact
+    of climatic and environmental factor on greenery in Nepal. To fill this gap, our
+    study applied satellite based NDVI, precipitation and soil moisture data to inspect
+    changes in vegetation and their relation with climatic variables in Sagarmatha
+    National Park (SNP). Our study revealed that the greenery contributors, forests,
+    shrubs, grasslands and agricultural lands had increased during period of 2000-2018.
+    These changes was due to reverse effect of both precipitation and soil moisture.
+    In light of these findings, we assured that the greenery of the park was well
+    preserved during these 18 years. Our research provided ecological and social implication
+    for the SNP region as plan and polices regarding wellbeing of both vegetation
+    and local dwellers could be formulated based on vegetation condition of park.
+    </em>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-06-10'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3887414
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3887413
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sadrish-Dabadi:
+    individualname: Sadrish Dabadi
+    role: creator
+    organization: Key Laboratory of Alpine Ecology, Institute of Tibetan Plateau Research,
+      Chinese Academy of Sciences, Beijing, 100101, China
+    url: ''
+  Gulfam-Hussain:
+    individualname: Gulfam Hussain
+    role: creator
+    organization: Key Laboratory of Continental Collision and Plateau Uplift, Institute
+      of Tibetan Plateau Research, Chinese Academy of Sciences (CAS), Beijing 100101,
+      China
+    url: ''
+  Ranjana-Regmi:
+    individualname: Ranjana Regmi
+    role: creator
+  Regmi-Ranjana:
+    individualname: Regmi, Ranjana
+    role: ''
+    organization: Key Laboratory of Tibetan Environment Changes and Land Surface Processes,
+      Institute of Tibetan Plateau Research, Chinese Academy of Science, Beijing,
+      100101, China
+    url: ''
+content_info: {}

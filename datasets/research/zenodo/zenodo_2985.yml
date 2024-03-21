@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5716669
+  dataseturi: https://doi.org/10.5281/zenodo.5716669
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Isolation of Bacillus thuringiensis strains from Saudi Arabia soil and study
+    of their potential efficiency against the lepidopteran pest Ephestia kuehniella
+  abstract: Insect pests represent a major threat to food crops and human health,
+    and therefore have to be combated in several ways, including chemical methods.
+    However, researchers demonstrated that these molecules are dangerous for the farmers,
+    consumers and the environment in general. For this reason, scientists permanently
+    searched environment friendly alternatives such as the use of the bacterium <em>Bacillus
+    thuringiensis</em> classified as one of the best insect pathogens. This microorganism
+    is known by its ability to produce two types of insecticidal proteins, Vegetative
+    insecticidal proteins (Vip) and delta-endotoxins produced during vegetative and
+    sporulation stages of growth, respectively. In the present study, 15 <em>B. thuringiensis</em>
+    strains were isolated from soil collected from different regions in Saudi Arabia
+    (Al Baha, Jeddah, Khulis and Yanbu). <em>B. thuringiensis</em> isolates were then
+    classified according to the shape of their parasporal crystals identified under
+    microscope and proteins content of these crystals. Delta-endotoxins efficiency
+    of the different isolates was investigated and promising strains were identified
+    as very active. After 5 days-treatment, <em>B. thuringiensis </em>isolates 14
+    and 7 killed <em>Ephestia kuehniella</em> larvae with low LC<sub>50</sub> of about
+    59.18 and 65.67 mg/cm<sup>2</sup>, respectively. The results described in the
+    present study proved that the new <em>B. thuringiensis</em> isolates could be
+    of a great interest in the control of lepidopteran pests by using their delta-endotoxins
+    in bioinsecticide formulations.
+  keywords:
+    default:
+      keywords:
+        subject: Bacillus thuringiensis; Delta-endotoxins; Biocontrol; Ephestia kuehniella
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5716669
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5716668
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fidaa-Ibrahim-Kallaf:
+    individualname: Fidaa Ibrahim Kallaf
+    role: creator
+    organization: Department of Biology, Faculty of Science and Arts at Khulis, University
+      of Jeddah, Jeddah, Saudi Arabia.
+    url: ''
+  Hanen-Boukedi:
+    individualname: Hanen Boukedi
+    role: creator
+    organization: Laboratory of Biopesticides, Centre of Biotechnology of Sfax, Sfax,
+      Tunisia.
+    url: ''
+  Dalel-Daassi:
+    individualname: "Dalel Da\xE2ssi"
+    role: creator
+    organization: Department of Biology, Faculty of Science and Arts at Khulis, University
+      of Jeddah, Jeddah, Saudi Arabia.
+    url: ''
+  Lobna-Abdelkefi-Mesrati:
+    individualname: Lobna Abdelkefi-Mesrati
+    role: creator
+    organization: Higher Institute of Biotechnology of Sfax, University of Sfax, Sfax,
+      Tunisia.
+    url: ''
+content_info: {}

@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7462882
+  dataseturi: https://doi.org/10.5281/zenodo.7462882
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: IMPACT OF SOIL TEXTURE AND NUMBER OF CELLS ON ELECTRICITY GENERATION UNDER
+    CLOSED SYSTEM
+  abstract: <strong>Abstract</strong> This study aimed to investigate the effect of
+    three textured soils on electricity generation using a different number of cells
+    (2, 4, 6, and 8) under a closed system. The voltage and current readings were
+    measured at an interval of every 24 hours for ten days, using a voltmeter, electric
+    light bulb, and a hand calculator. Experimental results indicated that voltage
+    values were found in the same range for the different soils and cells number.
+    When using 2 and 4 cells, the voltage reading remained stable until the end of
+    the experiment, giving the lowest values for voltage and current. Maximum voltage
+    and current were achieved with 8 cells. In general, the voltage, current, and
+    power reading decrease with decreasing number of cells. The best soil to use for
+    generation of electricity was the silty clay loam (S3), delivering a peak voltage
+    of 3.297 mV, a peak current of 0.039 mA, and a power of 0.115 mW after 240 hours.
+    The power obtained was the same as a trend of the current.
+  keywords:
+    default:
+      keywords:
+        subject: Renewable Energy, Soil, Texture, Number of Cells, Closed System
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7462882
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7462881
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  HANI-M.A.-HUSSEIN:
+    individualname: HANI M.A. HUSSEIN
+    role: creator
+    organization: "Department of Soil and Water Science - College of Agric. Engine.\
+      \ Sci. \u2013 University of Duhok, Kurdistan Region, Iraq."
+    url: ''
+  KHALIDA-ABDUL-KARIM-HASSAN:
+    individualname: KHALIDA ABDUL-KARIM HASSAN
+    role: creator
+    organization: "Department of Soil and Water Science - College of Agric. Engine.\
+      \ Sci. \u2013 University of Duhok, Kurdistan Region, Iraq."
+    url: ''
+  MOHAMMED-ALI-FAYYADH:
+    individualname: MOHAMMED ALI FAYYADH
+    role: creator
+    organization: "Department of Soil and Water Science - College of Agric. Engine.\
+      \ Sci. \u2013 University of Duhok, Kurdistan Region, Iraq."
+    url: ''
+content_info: {}

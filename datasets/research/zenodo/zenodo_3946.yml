@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3299913
+  dataseturi: https://doi.org/10.5281/zenodo.3299913
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'On the Fixed Rainfall Intensity: Effects on Overland Flow Resistance, Shear
+    Velocity and on Soil Erosion'
+  abstract: "Raindrops and overland flow both are erosive parameters but they do not\
+    \ act by the same way. The overland flow alone tends to shear the soil horizontally\
+    \ and concentrates into rills. In the presence of rain, the soil particles are\
+    \ removed from the soil surface in the form of a uniform sheet layer. In addition\
+    \ to this, raindrops falling on the flow roughen the water and soil surface depending\
+    \ on the flow depth, and retard the velocity, therefore influence shear velocity\
+    \ and Manning\u2019s factor. To investigate this part, agricultural sandy soil,\
+    \ rainfall simulator and a laboratory soil tray of 0.2x1x3 m were the base of\
+    \ this work. Five overland flow depths of 0; 3.28; 4.28; 5.16; 5.60; 5.80 mm were\
+    \ generated under a rainfall intensity of 217.2 mm/h. Sediment concentration control\
+    \ is based on the proportionality of depth/microtopography. The soil loose is\
+    \ directly related to the presence of rain splash on thin sheet flow. The effect\
+    \ of shear velocity on sediment concentration is limited by the value of 5.28\
+    \ cm/s. In addition to this, the rain splash reduces the soil roughness by breaking\
+    \ the soil crests. The rainfall intensity is the major factor influencing depth\
+    \ and soil erosion. In the presence of rainfall, the shear velocity of the flow\
+    \ is due to two simultaneous effects. The first, which is horizontal, comes from\
+    \ the flow and the second, vertical, is due to the raindrops."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3299913
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3299912
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  L.-Mouzai:
+    individualname: L. Mouzai
+    role: creator
+    organization: ''
+    url: ''
+  M.-Bouhadef:
+    individualname: M. Bouhadef
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

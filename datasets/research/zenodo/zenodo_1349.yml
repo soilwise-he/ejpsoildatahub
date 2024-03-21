@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4318751
+  dataseturi: https://doi.org/10.5281/zenodo.4318751
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Ameliorative Effect of Biochar Application on Selected Chemical Properties
+    of Acidic Soil
+  abstract: "This research was conducted at the screenhouse of Biological Science,\
+    \ Usmanu Danfodiyo University, Sokoto, Nigeria, to determine the ameliorative\
+    \ effect of biochar application on selected chemical properties of acidic soil.\
+    \ The acidic soil used for the experiment was collected from Centre for Agricultural\
+    \ and Pastoral Research (CAPAR), Dabagi, Usmanu Danfodiyo University, Sokoto while\
+    \ the biochar used was obtained from Labana Rice Mill, Brinin-Kebbi, Kebbi State.\
+    \ The biochar was applied at rate of 0, 10, 20, 30, 40, 50, 60 and 70 t/ha. The\
+    \ experiment was laid out in a completely randomized design (CRD) and replicated\
+    \ three times. Data were collected on some soil chemical properties and were subjected\
+    \ to Analysis of Variance (ANOVA) and significant means were separated using Duncan\u2019\
+    s Multiple Range Test at 5% level of significance. The results showed that successive\
+    \ increment in biochar rates virtually increased all the soil chemical properties\
+    \ tested for, with 70 t/ha of biochar rate significantly (p\u22640.05) higher\
+    \ than the other biochar rates. A field trial of long term experiment with lower\
+    \ doses of biochar rates supplemented with inorganic fertilizer should be conducted\
+    \ in order to have more feasible doses of biochar in the remediation of acidic\
+    \ soil."
+  keywords:
+    default:
+      keywords:
+        subject: acidic soil, biochar, chemical properties, remediation, screenhouse
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-12'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4318751
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4318750
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yusif-Sunusi:
+    individualname: Yusif, Sunusi
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Federal University
+      Dutse, Nigeria
+    url: ''
+  Mohammed-Mansur:
+    individualname: Mohammed, Mansur
+    role: creator
+    organization: Department of Geography, Bayero University Kano, Nigeria
+    url: ''
+  Popoola-Nurudeen:
+    individualname: Popoola, Nurudeen
+    role: creator
+    organization: Department of Soil Science and Agricultural Engineering, Faculty
+      of Agriculture, Usmanu Danfodiyo University, Sokoto, Nigeria
+    url: ''
+  Yekeen-Hammed:
+    individualname: Yekeen, Hammed
+    role: creator
+    organization: Department of Soil Science and Agricultural Engineering, Faculty
+      of Agriculture, Usmanu Danfodiyo University, Sokoto, Nigeria
+    url: ''
+  Nabayi-Abba:
+    individualname: Nabayi, Abba
+    role: creator
+    organization: Department of Soil Science, Faculty of Agriculture, Federal University
+      Dutse, Nigeria
+    url: ''
+  Yakubu-Hamid:
+    individualname: Yakubu, Hamid
+    role: creator
+    organization: Department of Soil Science and Agricultural Engineering, Faculty
+      of Agriculture, Usmanu Danfodiyo University, Sokoto, Nigeria
+    url: ''
+content_info: {}

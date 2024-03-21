@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Salisbury_1921
+  dataseturi: https://doi.org/10.2307/2255768
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A New Classification of the Soil Moisture.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A New Classification of the Soil Moisture.
+    url: http://dx.doi.org/10.2307/2255768
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salisbury-E.-J.:
+    individualname: Salisbury, E. J.
+    role: creator
+  Bouyoucos-G.:
+    individualname: Bouyoucos, G.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

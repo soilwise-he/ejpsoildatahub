@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5732773
+  dataseturi: https://doi.org/10.5281/zenodo.5732773
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of liming on the changes of different forms of potassium in an acid
+    soil treated with N and K fertilizers
+  abstract: 'Department of Agricultural Chemistry and Soil Science, Bidhan Chandra
+    Krishi Viswavidyalaya, Mohanpur-741 252, Nadia, West Bengal, India <em>E-mail</em>
+    : rumadas13@gmail.com <em>Manuscript received online 11 February 2014, revised
+    03 March 2014, accepted 08 March 2014</em> A laboratory experiment was conducted
+    to study the effect of liming on the transformation of different forms of potassium
+    in a strongly acidic silty loam soil (pH 4.56) treated with nitrogenous and potassic
+    fertilizers. Irrespective of treatments, liming initially decreased the water
+    soluble and exchangeable K but increased the non-exchangeable K in soil. Water
+    soluble K was significantly increased in limed soil throughout its incubation
+    period, whereas it showed a decreasing trend in unlimed acid soil. Highest amount
+    of exchangeable K was observed in acid soil after 90 days of incubation, whereas
+    water soluble and non-exchangeable K were found to be highest in half and full
+    limed soil respectively. Combined application of nitrogen and potassium fertilizer
+    significantly increased the water soluble K. However exchangeable K was increased
+    in sole potassium fertilizer treated system. Application of N along with K fertilizer
+    influenced soil K fixation and release of K because of its antagonistic interaction
+    between NH<sub>4</sub><sup>+</sup> and K<sup>+</sup> for the same fixing sites.'
+  keywords:
+    default:
+      keywords:
+        subject: water soluble K
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-09-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5732773
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5732772
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ruma-Das:
+    individualname: Ruma Das
+    role: creator
+    organization: ''
+    url: ''
+  Dipankar-Saha:
+    individualname: Dipankar Saha
+    role: creator
+  Saha-Dipankar:
+    individualname: Saha, Dipankar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

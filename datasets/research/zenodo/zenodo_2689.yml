@@ -1,0 +1,123 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Pejak_2022
+  dataseturi: https://doi.org/10.3390/rs14092256
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soya Yield Prediction on a Within-Field Scale Using Machine Learning Models
+    Trained on Sentinel-2 and Soil Data
+  abstract: '&lt;p&gt;Agriculture is the backbone and the main sector of the industry
+    for many countries in the world. Assessing crop yields is key to optimising on-field
+    decisions and defining sustainable agricultural strategies. Remote sensing applications
+    have greatly enhanced our ability to monitor and manage farming operation. The
+    main objective of this research was to evaluate machine learning system for within-field
+    soyayield prediction trained on Sentinel-2 multispectral images and soil parameters.
+    Multispectral images used in the study came from ESA&rsquo;s Sentinel-2 satellites.
+    A total of 3 cloud-free Sentinel-2 multispectral images per year from specific
+    periods of vegetation were used to obtain the time-series necessary for crop yield
+    prediction. Yield monitor data were collected in three crop seasons (2018, 2019
+    and 2020) from a number of farms located in Upper Austria. The ground-truth database
+    consisted of information about the location of the fields and crop yield monitor
+    data on 411 ha of farmland. A novel method, namely the Polygon-Pixel Interpolation,
+    for optimal fitting yield monitor data with satellite images is introduced. Several
+    machine learning algorithms, such as Multiple Linear Regression, Support Vector
+    Machine, eXtreme Gradient Boosting, Stochastic Gradient Descent and Random Forest,
+    were compared for their performance in soya yield prediction. Among the tested
+    machine learning algorithms, Stochastic Gradient Descent regression model performed
+    better than the others, with a mean absolute error of 4.36 kg/pixel (0.436 t/ha)
+    and a correlation coefficient of 0.83%.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - precision agriculture
+      - remote sensing
+      - polygon-pixel intersection (PPI)
+      - stochastic gradient descent (SGD)
+      - high performance computing (HPC)
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soya Yield Prediction on a Within-Field Scale Using Machine Learning Models
+      Trained on Sentinel-2 and Soil Data
+    url: http://dx.doi.org/10.3390/rs14092256
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Branislav-Pejak:
+    individualname: Branislav Pejak
+    role: creator
+  Predrag-Lugonja:
+    individualname: Predrag Lugonja
+    role: creator
+  Aleksandar-Antic:
+    individualname: "Aleksandar Anti\u0107"
+    role: creator
+  Marko-Panic:
+    individualname: "Marko Pani\u0107"
+    role: creator
+  Milos-Pandzic:
+    individualname: "Milo\u0161 Pand\u017Ei\u0107"
+    role: creator
+  Emmanouil-Alecakis:
+    individualname: Emmanouil Alecakis
+    role: creator
+  Philip-Mavrepis:
+    individualname: Philip Mavrepis
+    role: creator
+  Naweiluo-Zhou:
+    individualname: Naweiluo Zhou
+    role: creator
+  Oskar-Marko:
+    individualname: Oskar Marko
+    role: creator
+  Vladimir-Crnojevic:
+    individualname: "Vladimir Crnojevi\u0107"
+    role: creator
+  Pejak-Branislav:
+    individualname: Pejak, Branislav
+    role: creator
+  Lugonja-Predrag:
+    individualname: Lugonja, Predrag
+    role: creator
+  Antic-Aleksandar:
+    individualname: "Anti\u0107, Aleksandar"
+    role: creator
+  Panic-Marko:
+    individualname: "Pani\u0107, Marko"
+    role: creator
+  Pandzic-Milos:
+    individualname: "Pand\u017Ei\u0107, Milo\u0161"
+    role: creator
+  Alexakis-Emmanouil:
+    individualname: Alexakis, Emmanouil
+    role: creator
+  Mavrepis-Philip:
+    individualname: Mavrepis, Philip
+    role: creator
+  Zhou-Naweiluo:
+    individualname: Zhou, Naweiluo
+    role: creator
+  Marko-Oskar:
+    individualname: Marko, Oskar
+    role: creator
+  Crnojevic-Vladimir:
+    individualname: "Crnojevi\u0107, Vladimir"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

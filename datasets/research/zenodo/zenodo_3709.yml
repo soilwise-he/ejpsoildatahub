@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Buba_2015
+  dataseturi: https://doi.org/10.15580/GJEMPS.2015.3.051215071
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Geospatial Analysis of Lead Concentration in the Soil of Anka, Zamfara State,
+    Nigeria
+  abstract: '&lt;p&gt;In March 2010, Medecins Sans Frontieres (Doctors Without Borders)
+    reported an outbreak of lead poisoning in some parts of Zamfara State, Nigeria.
+    This was alleged to have been caused by massive environmental contamination due
+    to local ore processing. Most of the studies conducted on the problem so far have
+    been limited to the clinical component. Analysis of the spatial dimension of the
+    problem is inadequately known. The present study investigates the spatial dimension
+    of lead concentration in the soil of the study area. In addition, the concentration
+    of copper and cadmium which occur in association with lead was also determined
+    in order to ascertain their level of toxicity, and hence their contribution to
+    the degradation of the soil. Soil samples were collected and analyzed for the
+    concentration of lead, copper, and cadmium. Inverse Distance Weighting (IDW) spatial
+    interpolation technique was employed to determine the spatial distribution of
+    lead, copper and cadmium concentration, while comparative analysis was employed
+    to determine their toxicity. Descriptive and t-Test (inferential) statistical
+    analyses were utilized to establish a relationship between local gold ore processing
+    and the concentration of lead in the study area. The results show high concentration
+    of lead in areas where local ore processing is taking place and low concentration
+    in non-ore processing areas, while concentration of copper and cadmium were seen
+    to be within thresholds of internationally accepted standards. Student t-Test
+    statistics applied to lead concentration values in mining and non-mining villages
+    showed that T (tabulated) at 95% confidence level 0.05 &gt; T (calculated) 0.000005.
+    This implies there is a significant difference between the concentration of lead
+    in mining and non-mining areas.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Geospatial
+      - Heavy metals
+      - Ore processing
+      - Environmental contamination
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Geospatial Analysis of Lead Concentration in the Soil of Anka, Zamfara State,
+      Nigeria
+    url: http://dx.doi.org/10.15580/GJEMPS.2015.3.051215071
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Buba-Felix-Ndukson:
+    individualname: Buba, Felix Ndukson
+    role: creator
+  Aboyeji-Olatunji-Sunday:
+    individualname: Aboyeji, Olatunji Sunday
+    role: creator
+  Olatunji-Sunday-Aboyeji:
+    individualname: Olatunji, Sunday Aboyeji
+    role: creator
+  Greener-Journals:
+    individualname: Greener Journals
+    role: creator
+content_info: {}

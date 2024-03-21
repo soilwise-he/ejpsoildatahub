@@ -1,0 +1,108 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2533176
+  dataseturi: https://doi.org/10.5281/zenodo.2533176
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: SOIL MANAGEMENT TECHNIQUES FOR THE CONTROL OF JUVENILE POPULATIONS OF SPITTLEBUGS
+    IN OLIVE GROVES
+  abstract: "In the olive groves, the main factor regulating spittlebugs population\
+    \ level is the abundances of vegetables ground cover and its species composition.<br>\n\
+    Control of the juvenile\u2019s vector population by soil tilling to reduce the\
+    \ emergence of adults represents one of the most efficient and environmentally\
+    \ sustainable approach toward the control of the spread of <em>Xylella </em><em>fastidiosa</em><em>\
+    \ </em>in the infected area, or to reduce the risk of its establishment in the\
+    \ buffer zones or free areas. In order to identify alternative strategies for\
+    \ soil management in olive groves, for two consecutive years (2017 \u2013 2018)\
+    \ we compared five different soil management techniques: (i) natural and undisturbed\
+    \ ground vegetation; (ii) soil tilling performed twice (in early winter and in\
+    \ spring when the majority of the nymphs were at the IV instar); (iii) soil tilling\
+    \ performed only in winter; (iv) sowing <em>Lolium </em>spp; (v) sowing <em>Hordeum\
+    \ vulgare</em>.<br>\nTwo surveys per year were carried out. In each thesis, of\
+    \ approx. 3,000m2, 30 subplots of 0.25 m2 randomly distributed were surveyed by\
+    \ counting the number of spittle/plants and number of specimens (<em>P. </em><em>spumarius</em>\
+    \ and <em>N. </em><em>campestris</em>)/spittle. Soil tilling performed in winter\
+    \ and spring, effectively reduced almost to zero the presence of both spittlebug\
+    \ species, with an Abbott\u2019s index equal to 99.6%. Conversely, when soil tilling\
+    \ was performed only in winter, it proved to be effective for reducing <em>N.\
+    \ </em><em>campestris</em><em> </em>population (Abbott\u2019s index ranged from\
+    \ 50% to 60%) but not for <em>P. </em><em>spumarius</em>. Sowing in winter Lolium\
+    \ spp. and Hordeum vulgare reduced <em>P. </em><em>spumarius</em> juvenile populations,\
+    \ with an Abbott\u2019s index of 60% and 40%, respectively. Whereas, results were\
+    \ inconsistent for <em>N. </em><em>campestris</em>: in 2017 on both Poaceae treatment,\
+    \ the juvenile populations were lower than on the undisturbed natural ground cover,\
+    \ with an Abbott index equal to 58% (<em>Lolium</em>) and 86% (<em>Hordeum vulgare</em>),\
+    \ while the population resulting mostly abundant during survey carried out in\
+    \ 2018. These data further support the effectiveness of mechanical interventions\
+    \ for reducing incidence of juvenile of spittlebugs, and that using poaceae species\
+    \ to replace the ground vegetation may contribute to lowering<em> P. </em><em>spumarius</em>\
+    \ populations."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-10-23'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2533176
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2533175
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dongiovanni-C.:
+    individualname: Dongiovanni, C.
+    role: creator
+    organization: CRSFA
+    url: ''
+  Cavalieri-V:
+    individualname: Cavalieri V
+    role: creator
+    organization: ''
+    url: ''
+  Fumarola-G.:
+    individualname: Fumarola, G.
+    role: creator
+    organization: CRSFA
+    url: ''
+  Di-Carolo-M:
+    individualname: Di Carolo M,
+    role: creator
+    organization: CRSFA
+    url: ''
+  Ciniero-A.:
+    individualname: Ciniero, A.
+    role: creator
+    organization: CRSFA
+    url: ''
+  Altamura-G.:
+    individualname: Altamura, G.
+    role: creator
+    organization: IPSP-CNR
+    url: ''
+  Saponari-M.:
+    individualname: Saponari, M.
+    role: creator
+    organization: IPSP-CNR
+    url: ''
+content_info: {}

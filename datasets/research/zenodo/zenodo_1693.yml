@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hopkins_1902
+  dataseturi: https://doi.org/10.1021/ja02026a003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: FIXATION OF ATMOSPHERIC NITROGEN BY ALFALFA ON ORDINARY PRAIRIE SOIL UNDER
+    VARIOUS TREATMENTS.1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: FIXATION OF ATMOSPHERIC NITROGEN BY ALFALFA ON ORDINARY PRAIRIE SOIL UNDER
+      VARIOUS TREATMENTS.1
+    url: http://dx.doi.org/10.1021/ja02026a003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hopkins-Cyril-G.:
+    individualname: Hopkins, Cyril G.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

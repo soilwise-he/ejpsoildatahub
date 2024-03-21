@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2571956
+  dataseturi: https://doi.org/10.5281/zenodo.2571956
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination of Soil Loss by Erosion in Different Land Covers Categories
+    and Slope Classes in Bovilla Watershed, Tirana, Albania
+  abstract: As a sediment production mechanism, soil erosion is the main environmental
+    threat to the Bovilla watershed, including the decline of water quality of the
+    Bovilla reservoir that provides drinking water to Tirana city (the capital of
+    Albania). Therefore, an experiment with 25 erosion plots for soil erosion monitoring
+    has been set up since June 2017. The aim was to determine the soil loss on plot
+    and watershed scale in Bovilla watershed (Tirana region) for implementation of
+    soil and water protection measures or payments for ecosystem services (PES) programs.
+    The results of erosion monitoring for the period June 2017 - May 2018 showed that
+    the highest values of surface runoff were noted in bare land of 38829.91 liters
+    on slope of 74% and the lowest values in forest land of 12840.6 liters on slope
+    of 64% while the highest values of soil loss were found in bare land of 595.15
+    t/ha on slope of 62% and lowest values in forest land of 18.99 t/ha on slope of
+    64%. These values are much higher than the average rate of soil loss in the European
+    Union (2.46 ton/ha/year). In the same sloping class, the soil loss was reduced
+    from orchard or bare land to the forest land, and in the same category of land
+    use, the soil loss increased with increasing land slope. It is necessary to conduct
+    chemical analyses of sediments to determine the amount of chemical elements leached
+    out of the soil and end up in the reservoir of Bovilla. It is concluded that PES
+    programs should be implemented for rehabilitation of sub-watersheds Ranxe, Vilez
+    and Zall-Bastar of the Bovilla watershed with valuable conservation practices.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-05'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2571956
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2571955
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Valmir-Baloshi:
+    individualname: Valmir Baloshi
+    role: creator
+  Fran-Gjoka:
+    individualname: Fran Gjoka
+    role: creator
+  Nehat-Collaku:
+    individualname: "Nehat \xC7ollaku"
+    role: creator
+  Elvin-Toromani:
+    individualname: Elvin Toromani
+    role: creator
+  Baloshi-Valmir:
+    individualname: Baloshi, Valmir
+    role: ''
+    organization: ''
+    url: ''
+  Gjoka-Fran:
+    individualname: Gjoka, Fran
+    role: ''
+    organization: ''
+    url: ''
+  Collaku-Nehat:
+    individualname: "\xC7ollaku, Nehat"
+    role: ''
+    organization: ''
+    url: ''
+  Toromani-Elvin:
+    individualname: Toromani, Elvin
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8276130
+  dataseturi: https://doi.org/10.5281/zenodo.8276130
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Project deliverable
+identification:
+  title: D-JRP15-FED-AMR-WP5.13 (Results of the soil microcosm experiments regarding
+    environmental effects on competence gene expression)_Version 2
+  abstract: 'OHEJP Project: FED-AMR'
+  keywords:
+    default:
+      keywords:
+        subject: soil microcosm
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-08-23'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8276130
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8276129
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cabal-Rosel-Adriana:
+    individualname: Cabal Rosel, Adriana
+    role: creator
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Wogerbauer-Markus:
+    individualname: "W\xF6gerbauer, Markus"
+    role: creator
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Galazka-Sonia:
+    individualname: Galazka, Sonia
+    role: creator
+    organization: Austrian Agency for Health and Food Safety
+    url: ''
+  Hassan-Marwa-M.:
+    individualname: Hassan, Marwa M.
+    role: creator
+    organization: University of Suffolk
+    url: ''
+  Chambers-Mark-A.:
+    individualname: Chambers, Mark A.
+    role: creator
+    organization: University of Suffolk
+    url: ''
+content_info: {}

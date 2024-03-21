@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4275613
+  dataseturi: https://doi.org/10.5281/zenodo.4275613
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil Loss Estimation and Change of Storage Volume Using GIS and Remote Sensing
+    Techniques: A Case of Lom Pangar Hydroelectric Dam Watershed, Cameroon'
+  abstract: "<strong>Abstract</strong>: For many purposes of hydropower production,\
+    \ many reservoirs are built throughout the planet. Because of the processes of\
+    \ erosion and sedimentation, these infrastructures are facing a big problem of\
+    \ progressive reduction of their storage capacity. Consequently, a good knowledge\
+    \ of the change of storage for proper planning and management is very important.\
+    \ The Universal Soil Loss Equation (USLE) was used to evaluate the gross erosion\
+    \ in the Lom Pangar catchment and the quantity of sediment that effectively reach\
+    \ the outlet of the catchment. The gross erosion was evaluated to be 47.2 million\
+    \ tons of soil per year with an average of 6.61 million tons per year that effectively\
+    \ reach the outlet. On the quantity that reaches the outlet, the Brune\u2019s\
+    \ sediment trap efficiency was applied and 0.1% of Lom Pangar reservoir decreases\
+    \ per year, an amount smaller than the 1% of annual worldwide reduction of water\
+    \ reservoirs. <strong>Keywords: </strong>Erosion, storage volume, reservoir, Lom\
+    \ Pangar Dam, Cameroon \xA9 International Journal of Ground Sediment &amp; Water,\
+    \ \xA9Sun Jichao. The website is http://ijgsw.comze.com/"
+  keywords:
+    default:
+      keywords:
+        subject: Cameroon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-11-16'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4275613
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4275612
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Andrew-Ako-Ako:
+    individualname: Andrew Ako Ako
+    role: creator
+  Osmanou-Njoya:
+    individualname: Osmanou Njoya
+    role: creator
+    organization: Department of Rural Engineering, University of Dschang, Dschang,
+      Cameroon
+    url: ''
+  Ako-Andrew-Ako:
+    individualname: Ako, Andrew Ako
+    role: ''
+    organization: "Hydrological Research Centre, Yaound\xE9, Cameroon"
+    url: ''
+content_info: {}

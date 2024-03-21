@@ -1,0 +1,135 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5595360
+  dataseturi: https://doi.org/10.5281/zenodo.5595360
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Savanna soil compaction, wetness and depth perturb in the kostiakov equation
+    parameters
+  abstract: "<strong>ABSTRACT</strong> Infiltration processes of agricultural soils\
+    \ have been extensively studied due to multiple applications; and for this, several\
+    \ analytical equations are available. An equation widely used is Kostiakov for\
+    \ its practical use. In spite of the weaknesses of the model, many researchers\
+    \ have employed it to study the infiltration processes in soils of the temperate\
+    \ and tropical regions. The objectives were to investigate the effects of moisture,\
+    \ soil depth, and compaction on the characteristic constants \u201C<em>a</em>\u201D\
+    , and \u201C<em>b</em>\u201D in the Kostiakov equation. The experimental unit\
+    \ consisted of nine polyvinyl cylinders, 15.24 cm in diameter and 20 cm height,\
+    \ with a soil volume of 2.50 kg deposited in each cylinder. Statistical analysis\
+    \ was organized under a randomized block design with three replications and three\
+    \ factors: humidity with five levels (3, 6, 9, 12 and 15%), soil depth (0-15,\
+    \ 15-30 and 45-60) and compaction with three levels (0, 13 and 26 blows). It could\
+    \ be concluded that the relation between the instantaneous infiltration and compaction,\
+    \ and infiltration and bulk density are inversely proportional. Parameter \u201C\
+    <em>a</em>\u201D influenced infiltration more than \u201C<em>b</em>\u201D. Soil\
+    \ texture and structure influenced \u201C<em>b</em>\u201D more than wetness. Wetness\
+    \ influenced \u201C<em>a</em>\u201D more than compaction and soil depth. Kostiakov\
+    \ parameters have physical relations to soil texture and structure. The equations\
+    \ forms should not be freely used in any soil, unless the constants characteristic\
+    \ for that particular soil are first determined. It is necessary to study in depth\
+    \ on the applicability and precision of the infiltration equations, since the\
+    \ parameters of the equation and performance vary for different soils. <strong>RESUMEN</strong>\
+    \ La infiltraci\xF3n de suelos agr\xEDcolas ha sido estudiada ampliamente por\
+    \ m\xFAltiples aplicaciones; y para ello existen varias ecuaciones disponibles.\
+    \ La ecuaci\xF3n de Kostiakov es pr\xF3digamente utilizada. Muchos investigadores\
+    \ la han empleado para estudiar la infiltraci\xF3n en suelos de diferentes regiones.\
+    \ Los objetivos consistieron en evaluar efectos de la humedad, la profundidad\
+    \ y la compactaci\xF3n sobre las constantes \u201C<em>a</em>\u201D y \u201C<em>b</em>\u201D\
+    \ de la ecuaci\xF3n de Kostiakov. La unidad experimental consisti\xF3 en nueve\
+    \ cilindros, 15,24 cm de di\xE1metro y 20 cm de altura, con un volumen de suelo\
+    \ de 2,50 kg. El an\xE1lisis estad\xEDstico se organiz\xF3 bajo dise\xF1o de bloques\
+    \ al azar con tres repeticiones y tres factores: humedad con cinco niveles (3,\
+    \ 6, 9, 12 y 15%), profundidad del suelo (0-15, 15-30 y 45-60 cm) y compactaci\xF3\
+    n con tres (0, 13 y 26 golpes). Se pudo concluir que la relaci\xF3n entre la infiltraci\xF3\
+    n instant\xE1nea y la compactaci\xF3n, as\xED como la infiltraci\xF3n y la densidad\
+    \ aparente son inversamente proporcionales. El par\xE1metro \u201C<em>a</em>\u201D\
+    \ influy\xF3 en la infiltraci\xF3n m\xE1s que el \u201C<em>b</em>\u201D. La textura\
+    \ del suelo y la estructura influyeron en \u201C<em>b</em>\u201D m\xE1s que la\
+    \ humedad. La humedad influy\xF3 en \u201C<em>a</em>\u201D m\xE1s que la compactaci\xF3\
+    n y la profundidad del suelo. Los par\xE1metros de Kostiakov tienen relaciones\
+    \ f\xEDsicas con la textura y estructura del suelo. No deber\xEDa utilizarse libremente\
+    \ las formas de ecuaciones en ning\xFAn suelo, a menos que las caracter\xEDsticas\
+    \ de ese suelo en particular se determinen en primer lugar. Es necesario estudiar\
+    \ en profundidad sobre la aplicabilidad y precisi\xF3n de las ecuaciones de infiltraci\xF3\
+    n, ya que los par\xE1metros de la ecuaci\xF3n y el rendimiento var\xEDan para\
+    \ diferentes suelos."
+  keywords:
+    default:
+      keywords:
+        subject: "an\xE1lisis de la ecuaci\xF3n"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-19'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5595360
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5595359
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hossne-Garcia-Americo:
+    individualname: "Hossne Garc\xEDa, Am\xE9rico"
+    role: creator
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: https://orcid.org/0000-0002-8897-4509
+  Mendez-Natera-Jesus:
+    individualname: "M\xE9ndez Natera, Jes\xFAs"
+    role: creator
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: ''
+  Smith-Ismariel-Josefita:
+    individualname: Smith, Ismariel Josefita
+    role: creator
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: ''
+  Vasquez-Lezama- Pedro:
+    individualname: "V\xE1squez Lezama, \_Pedro"
+    role: creator
+  Leiva-Luis:
+    individualname: Leiva, Luis
+    role: creator
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: ''
+  Gil-Alexander:
+    individualname: Gil, Alexander
+    role: creator
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: ''
+  Vasquez-Lezama-Pedro:
+    individualname: "V\xE1squez Lezama, Pedro"
+    role: ''
+    organization: "Universidad de Oriente, N\xFAcleo de Monagas, Escuela de Ingenier\xED\
+      a Agron\xF3mica, Departamento de Ingenier\xEDa Agr\xEDcola, Campus Los Guaritos,\
+      \ Matur\xEDn, Venezuela"
+    url: ''
+content_info: {}

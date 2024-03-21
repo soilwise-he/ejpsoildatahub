@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Santos_Perdomo_2024
+  dataseturi: https://doi.org/10.3897/BDJ.12.e113301
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Towards a Canary Islands barcode database for soil biodiversity: revealing
+    cryptic and unrecorded mite species diversity within insular soils'
+  abstract: '&lt;p&gt;Soil arthropod diversity contributes to a high proportion of
+    the total biodiversity on Earth. However, most soil arthropods are still undescribed,
+    hindering our understanding of soil functioning and global biodiversity estimations.
+    Inventorying soil arthropods using conventional taxonomical approaches is particularly
+    difficult and costly due to the great species richness, abundance and local-scale
+    heterogeneity of mesofauna communities and the poor taxonomic background knowledge
+    of most lineages. To alleviate this situation, we have designed and implemented
+    a molecular barcoding framework adapted to soil fauna. This pipeline includes
+    different steps, starting with a morphology-based selection of specimens which
+    are imaged. Then, DNA is extracted non-destructively. Both images and voucher
+    specimens are used to assign a taxonomic identification, based on morphology that
+    is further checked for consistency with molecular information. Using this procedure,
+    we studied 239 specimens of mites from the Canary Islands including representatives
+    of Mesostigmata, Sarcoptiformes and Trombidiformes, of which we recovered barcode
+    sequences for 168 specimens that were morphologically identified to 49 species,
+    with nine specimens that could only be identified at the genus or family levels.
+    Multiple species delimitation analyses were run to compare molecular delimitations
+    with morphological identifications, including ASAP, mlPTP, BINs and 3% and 8%
+    genetic distance thresholds. Additionally, a species-level search was carried
+    out at the Biodiversity Databank of the Canary Islands (BIOTA) to evaluate the
+    number of species in our dataset that were not previously recorded in the archipelago.
+    In parallel, a sequence-level search of our sequences was performed against BOLD
+    Systems. Our results reveal that multiple morphologically identified species correspond
+    to different molecular lineages, which points to significant levels of unknown
+    cryptic diversity within the archipelago. In addition, we evidenced that multiple
+    species in our dataset constituted new records for the Canary Islands fauna and
+    that the information for these lineages within online genetic repositories is
+    very incomplete. Our study represents the first systematic effort to catalogue
+    the soil arthropod mesofauna of the Canary Islands and establishes the basis for
+    the Canary Islands Soil Biodiversity barcode database. This resource will constitute
+    a step forward in the knowledge of these arthropods in a region of special interest.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Acari
+      - COI
+      - barcoding
+      - soil mesofauna
+      - biotic frontier
+      - species inventory
+      - oceanic islands
+      - species delimitation methods
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Towards a Canary Islands barcode database for soil biodiversity: revealing
+      cryptic and unrecorded mite species diversity within insular soils'
+    url: http://dx.doi.org/10.3897/BDJ.12.e113301
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Santos-Perdomo-Irene:
+    individualname: Santos-Perdomo, Irene
+    role: creator
+  Suarez-Daniel:
+    individualname: "Su\xE1rez, Daniel"
+    role: creator
+  Moraza-Maria-L.:
+    individualname: "Moraza, Mar\xEDa L."
+    role: creator
+  Arribas-Paula:
+    individualname: Arribas, Paula
+    role: creator
+  Andujar-Carmelo:
+    individualname: "And\xFAjar, Carmelo"
+    role: creator
+content_info: {}

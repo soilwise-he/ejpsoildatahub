@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6841946
+  dataseturi: https://doi.org/10.5281/zenodo.6841946
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Impact of crop type (Wheat and Pistachio) and soil properties (Depth, texture
+    and nitrogen content) on the amount of carbon sequestration
+  abstract: https://biology.garmsar.iau.ir/article_692771_a0fc5718987dc0edd75cc1d9428c8a83.pdf
+  keywords:
+    default:
+      keywords:
+        subject: Soil carbon
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-07-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6841946
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6841926
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahad-Madani:
+    individualname: Ahad Madani
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

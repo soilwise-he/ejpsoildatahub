@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3349600
+  dataseturi: https://doi.org/10.5281/zenodo.3349600
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "A New Inhibitor of \u03B3-aminobutric Acid Aminotransferase from Streptomyces\
+    \ sp. ZZ035 Isolated from a Folk Medicinal Soil in China"
+  abstract: "Strain ZZ035 was isolated from a folk medicinal soil in China. Polyphasic\
+    \ taxonomy procedure indicated that this strain belonged to the genus Streptomyces\
+    \ and was closest to S. cinnamonensis with high similarities (99.2%) of 16S rDNA\
+    \ sequence. 1 was isolated from the broth of this strain and identified as 5-amonimethyl-2-iminoimidazolidine-4-carboxylic\
+    \ acid. Its chemical structure was established by its spectroscopic data, and\
+    \ 1H and 13C signals were assigned by its 1H, 13C, Dept and HSQC spectra. Considering\
+    \ that 1 was a \u03B3-aminobutric acid (GABA) derivative, its inhibitory activity\
+    \ against GABA-aminotransferase (GABA-AT) was assayed, and the result showed that\
+    \ 1 can inhibit GABA-AT activity with the 50% inhibitory concentration of approximately\
+    \ 60 \u03BCM. As 1 was a 2,3-disubstituted GABA derivative not published before,\
+    \ the approximate GABA-AT inhibitory activity of 1 compared to positive control\
+    \ vigabatrin showed that 1 were worthy of further research and developing.Read\
+    \ Complete Article at ijSciences: V62017031225 AND DOI: http://dx.doi.org/10.18483/ijSci.1225"
+  keywords:
+    default:
+      keywords:
+        subject: Inhibitor
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-03-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3349600
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3349599
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xu-Xuejie:
+    individualname: Xu, Xuejie
+    role: creator
+    organization: ''
+    url: ''
+  Wu-Xuejiao:
+    individualname: Wu, Xuejiao
+    role: creator
+    organization: ''
+    url: ''
+  Yuan-Ganjun:
+    individualname: Yuan, Ganjun
+    role: creator
+    organization: ''
+    url: ''
+  Zhong-Qiwang:
+    individualname: Zhong, Qiwang
+    role: creator
+    organization: ''
+    url: ''
+  Xu-Li:
+    individualname: Xu, Li
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

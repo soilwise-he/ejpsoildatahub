@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5639280
+  dataseturi: https://doi.org/10.5281/zenodo.5639280
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Inorganic P-fractions in a waterlogged soil subjected to wetting and drying
+    cycles in presence and absence of rock phosphate
+  abstract: 'Department of Agricultural Chemistry &amp; Soil Science, Bidhan Chandra
+    Krishi Viswavidyalaya, Mohanpur-741 252, Nadia, West Bengal, India <em>E-mail
+    </em>: daspiyali199@gmail.com, 1991sayan@gmail.com, d_saha11@yahoo.com <em>Manuscript
+    received online 29 March 2016, accepted 04 April 2016</em> Phosphorus (<strong>P</strong>)
+    transformation in waterlogged soil is different from that of non-flooded situation.
+    Dryinginduced soil aeration and re-flooding periodically alters redox conditions
+    and therefore stimulate redox-sensitive processes influencing <strong>P</strong>
+    binding forms. The release of available <strong>P</strong> from indigenous rock
+    phosphate under this situation is another area of study in the present investigation.
+    Drying stimulated mineralization of organic <strong>P</strong> and increased reductantsoluble
+    forms. Drying of soils furthermore reduced its <strong>P</strong> absorption affinity.
+    Single drying at early stage and remoistening is enough to release reductant soluble
+    <strong>P</strong> into available pool. However, maintenance of two drying phases
+    and remoistening to its waterlogged situation is more effective in releasing inorganic
+    <strong>P</strong> in soils. Addition of rock phosphate further accentuates the
+    release pattern of inorganic <strong>P</strong> in soil particularly where soils
+    were subjected to 2nd drying and remoistening phase. Results also pointed out
+    that all fractions of inorganic <strong>P</strong> are closely correlated with
+    fixation and release phenomena depending upon the drying and rewetting phases.'
+  keywords:
+    default:
+      keywords:
+        subject: rock phosphate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-09-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5639280
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5639279
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Piyali-Das:
+    individualname: Piyali Das
+    role: creator
+    organization: ''
+    url: ''
+  Sayan-Majumder:
+    individualname: Sayan Majumder
+    role: creator
+    organization: ''
+    url: ''
+  Dipankar-Saha:
+    individualname: Dipankar Saha
+    role: creator
+  Saha-Dipankar:
+    individualname: Saha, Dipankar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

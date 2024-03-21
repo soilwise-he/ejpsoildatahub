@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1124325
+  dataseturi: https://doi.org/10.5281/zenodo.1124325
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative Analysis Of Soil Enzyme Activities Between Laurel-Leaved And
+    Cryptomeria Japonica Forests
+  abstract: "Soil enzyme activities in Kasuga-yama Hill Primeval Forest (Nara, Japan)\
+    \ were examined to determine levels of mineralization and metabolism. Samples\
+    \ were selected from the soil surrounding laurel-leaved (B<sub>B-1</sub>) and\
+    \ <em>C</em><em>arpinus</em><em> japonica</em> (B<sub>B-2</sub> and P<sub>w</sub>)\
+    \ trees for analysis. Cellulase, \u03B2-xylosidase, and protease activities were\
+    \ higher in B<sub>B-1</sub> samples those in B<sub>B-2 </sub>samples. These activity\
+    \ levels corresponded to the distribution of cellulose and hemicellulose in the\
+    \ soil horizons. Cellulase, \u03B2-xylosidase, and chymotrypsin activities were\
+    \ higher in soil from the P<sub>w</sub> forest than in that from the B<sub>B-2\
+    \ </sub>forest. The relationships between the soil enzymes calculated by Spearman\u2019\
+    s rank correlation indicate that the interactions between enzymes in B<sub>B-2</sub>\
+    \ samples were more complex than those in P<sub>w</sub> samples."
+  keywords:
+    default:
+      keywords:
+        subject: Spearman's rank correlation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-04-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1124325
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1124324
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ayuko-Itsuki:
+    individualname: Ayuko Itsuki
+    role: creator
+  Sachiyo-Aburatani:
+    individualname: Sachiyo Aburatani
+    role: creator
+  Itsuki-Ayuko:
+    individualname: Itsuki, Ayuko
+    role: ''
+    organization: ''
+    url: ''
+  Aburatani-Sachiyo:
+    individualname: Aburatani, Sachiyo
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

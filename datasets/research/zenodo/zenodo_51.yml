@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hagemann_2016
+  dataseturi: https://doi.org/10.5194/esd-2016-5
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil frost-induced soil moisture precipitation feedback over high northern
+    latitudes
+  abstract: '&lt;p&gt;Permafrost or perennially frozen ground is an important part
+    of the terrestrial cryosphere; roughly one quarter of Earth&#39;s land surface
+    is underlain by permafrost. The impact of the currently observed warming, which
+    is projected to persist during the coming decades due to anthropogenic CO&lt;sub&gt;2&lt;/sub&gt;
+    input, certainly has effects for the vast permafrost areas of the high northern
+    latitudes. The quantification of these effects, however, is scientifically still
+    an open question. This is partly due to the complexity of the system, where several
+    feedbacks are interacting between land and atmosphere, sometimes counterbalancing
+    each other. Moreover, until recently, many global circulation models (GCMs) and
+    Earth system models (ESMs) lacked the sufficient representation of cold region
+    physical soil processes in their land surface schemes, especially of the effects
+    of freezing and thawing of soil water for both energy and water cycles. Therefore,
+    it will be analysed in the present study how these processes impact large-scale
+    hydrology and climate over northern hemisphere high latitude land areas. For this
+    analysis, the atmosphere-land part of MPI-ESM, ECHAM6-JSBACH, is driven by prescribed
+    observed SST and sea ice in an AMIP2-type setup with and without newly implemented
+    cold region soil processes. Results show a large improvement in the simulated
+    discharge. On one hand this is related to an improved snowmelt peak of runoff
+    due to frozen soil in spring. On the other hand a subsequent reduction of soil
+    moisture leads to a positive land atmosphere feedback to precipitation over the
+    high latitudes, which reduces the model&rsquo;s wet biases in precipitation and
+    evapotranspiration during the summer. This is noteworthy as soil moisture &ndash;
+    atmosphere feedbacks have previously not been in the research focus over the high
+    latitudes. These results point out the importance of high latitude physical processes
+    at the land surface for the regional climate.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil frost-induced soil moisture precipitation feedback over high northern
+      latitudes
+    url: http://dx.doi.org/10.5194/esd-2016-5
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hagemann-Stefan:
+    individualname: Hagemann, Stefan
+    role: creator
+  Blome-Tanja:
+    individualname: Blome, Tanja
+    role: creator
+  Ekici-Altug:
+    individualname: Ekici, Altug
+    role: creator
+  Beer-Christian:
+    individualname: Beer, Christian
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

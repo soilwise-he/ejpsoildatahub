@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6401356
+  dataseturi: https://doi.org/10.5281/zenodo.6401356
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Tillage, sole and intercrop systems and soil amendment influence on sorghum
+    grain and stover nutrient levels
+  abstract: Sorghum [<em>Sorghum bicolor</em> (L) Moench) is a major grain crop in
+    Burkina Faso. A three-year experiment was conducted in the Sudanian zone to determine
+    the combined effects of tillage methods (T) and cropping systems with different
+    soil amendments (CS/SA) on plant nutrient concentrations and related this to human
+    and cattle nutrient requirements. The analysis of variance indicated that tillage,
+    soil amendment nor cropping system affected the stover nutrient concentration
+    of grain sorghum. Nitrogen, P, K, S, Ca, Mg, Zn, Mn and Cu concentrations in grain
+    were all influenced by the Y x T interaction largely due to increased nutrient
+    concentrations for no-till in 2012 and tied ridges in 2013. As grain yield increased,
+    grain N, Ca, Mg and Mn concentrations decreased while P and Zn increased. Grain
+    N, P, Mg, S, Fe and Zn concentrations met human nutritional requirements, while
+    K, Ca, Mn and Cu were deficient and merited supplementation. Nutrient gross means
+    indicated that cattle nutrient requirements were met for N, P, Mg, Fe and Zn,
+    but low for K, Ca, S, Mn and Cu. Tillage, CS/SA and Y had no or small effects
+    on the nutrient concentrations of sorghum grain and stover. The agroecological
+    zones in 2012 and 2013 indicated most nutrients to be adequate for human and cattle
+    diets, but not for K, Ca, Mn and Cu.
+  keywords:
+    default:
+      keywords:
+        subject: Compost; Fertilizer; No till; Scarifying; Tied-ridging; Crop production
+          systems
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-03-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6401356
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6401355
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pale-S:
+    individualname: "Pal\xE9 S"
+    role: creator
+    organization: Institute of Environment and Agricultural Research, 04 B.P.8645
+      Ouagadougou 04, Burkina Faso.
+    url: ''
+  Mason-SC:
+    individualname: Mason SC
+    role: creator
+  Taonda-SJ-B:
+    individualname: Taonda SJ-B
+    role: creator
+    organization: Institute of Environment and Agricultural Research, 04 B.P.8645
+      Ouagadougou 04, Burkina Faso.
+    url: ''
+  Serme-I:
+    individualname: "Serm\xE9 I"
+    role: creator
+    organization: Institute of Environment and Agricultural Research, 04 B.P.8645
+      Ouagadougou 04, Burkina Faso.
+    url: ''
+  Sohoro-A:
+    individualname: Sohoro A
+    role: creator
+    organization: Institute of Environment and Agricultural Research, 04 B.P.8645
+      Ouagadougou 04, Burkina Faso.
+    url: ''
+  SC-Mason:
+    individualname: SC, Mason
+    role: ''
+    organization: Department of Agronomy and Horticulture, University of Nebraska-Lincoln,
+      279 Plant Science, P.O. Box 830915, Lincoln, NE 68583-0915, USA.
+    url: ''
+content_info: {}

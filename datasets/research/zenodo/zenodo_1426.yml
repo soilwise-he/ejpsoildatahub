@@ -1,0 +1,105 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Manfredini_2021
+  dataseturi: https://doi.org/10.3389/fmicb.2021.698491
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Current Methods, Common Practices, and Perspectives in Tracking and Monitoring
+    Bioinoculants in Soil
+  abstract:
+  - '&lt;p&gt;Microorganisms promised to lead the bio-based revolution for a more
+    sustainable agriculture. Beneficial microorganisms could be a valid alternative
+    to the use of chemical fertilizers or pesticides. However, the increasing use
+    of microbial inoculants is also raising several questions about their efficacy
+    and their effects on the autochthonous soil microorganisms. There are two major
+    issues on the application of bioinoculants to soil: (i) their detection in soil,
+    and the analysis of their persistence and fate; (ii) the monitoring of the impact
+    of the introduced bioinoculant on native soil microbial communities. This review
+    explores the strategies and methods that can be applied to the detection of microbial
+    inoculants and to soil monitoring. The discussion includes a comprehensive critical
+    assessment of the available tools, based on morpho-phenological, molecular, and
+    microscopic analyses. The prospects for future development of protocols for regulatory
+    or commercial purposes are also discussed, underlining the need for a multi-method
+    (polyphasic) approach to ensure the necessary level of discrimination required
+    to track and monitor bioinoculants in soil.&lt;/p&gt;'
+  - Review
+  keywords:
+    default:
+      keywords:
+      - soil
+      - detection
+      - microbial inoculants
+      - bacteria
+      - fungi
+      - biofertilisers
+      - biopesticides
+      - microorganisms
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Current Methods, Common Practices, and Perspectives in Tracking and Monitoring
+      Bioinoculants in Soil
+    url: http://dx.doi.org/10.3389/fmicb.2021.698491
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Andrea-Manfredini:
+    individualname: Andrea Manfredini
+    role: creator
+  Eligio-Malusa:
+    individualname: "Eligio Malus\xE0"
+    role: creator
+  Corrado-Costa:
+    individualname: Corrado Costa
+    role: creator
+  Federico-Pallottino:
+    individualname: Federico Pallottino
+    role: creator
+  Stefano-Mocali:
+    individualname: Stefano Mocali
+    role: creator
+  Flavia-Pinzari:
+    individualname: Flavia Pinzari
+    role: creator
+  Loredana-Canfora:
+    individualname: Loredana Canfora
+    role: creator
+  Manfredini-Andrea:
+    individualname: Manfredini, Andrea
+    role: creator
+  Malus+-Eligio:
+    individualname: "Malus\u221A\u2020, Eligio"
+    role: creator
+  Costa-Corrado:
+    individualname: Costa, Corrado
+    role: creator
+  Pallottino-Federico:
+    individualname: Pallottino, Federico
+    role: creator
+  Mocali-Stefano:
+    individualname: Mocali, Stefano
+    role: creator
+  Pinzari-Flavia:
+    individualname: Pinzari, Flavia
+    role: creator
+  Canfora-Loredana:
+    individualname: Canfora, Loredana
+    role: creator
+  Frontiers-Media-SA:
+    individualname: Frontiers Media SA
+    role: creator
+content_info: {}

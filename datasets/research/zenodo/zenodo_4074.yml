@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1112187
+  dataseturi: https://doi.org/10.5281/zenodo.1112187
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Cocoa Pod Ash And Poultry Manure On Soil Properties And Cocoyam
+    Productivity Of Nutrient-Depleted Tropical Alfisol
+  abstract: 'An experiment was carried out for three consecutive years at Owo, southwest
+    Nigeria. The objective of the investigation was to determine the effect of Cocoa
+    Pod Ash (CPA) and Poultry Manure (PM) applied solely and their combined form,
+    as sources of fertilizers on soil properties, leaf nutrient composition, growth
+    and yield of cocoyam. Three soil amendments: CPA, PM (sole forms), CPA and PM
+    (mixture), were applied at 7.5 t ha<sup>-1</sup> with an inorganic fertilizer
+    (NPK 15-15-15) at 400 kg ha<sup>-1 </sup>as a reference and a natural soil fertility,
+    NSF (control), arranged in a randomized complete block design with three replications.
+    Results showed that soil amendments significantly increased (p = 0.05) corm and
+    cormel weights and growth of cocoyam, soil and leaf N, P, K, Ca and Mg, soil pH
+    and organic carbon (OC) concentrations compared with the NSF (control). The mixture
+    of CPA+PM treatment increased corm and cormel weights, plant height and leaf area
+    of cocoyam by 40, 39, 42, and 48%, respectively, compared with inorganic fertilizer
+    (NPK) and 13, 12, 15 and 7%, respectively, compared with PM alone. Sole or mixed
+    forms of soil amendments showed remarkable improvement in soil physical properties
+    compared with NPK and the NSF (control). The mixture of CPA+PM applied at 7.5
+    t ha<sup>-1</sup> was the most effective treatment in improving cocoyam yield
+    and growth parameters, soil and leaf nutrient composition.'
+  keywords:
+    default:
+      keywords:
+        subject: soil and leaf nutrient composition.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-02-03'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1112187
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1112186
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.-M.-Agbede:
+    individualname: T. M. Agbede
+    role: creator
+    organization: ''
+    url: ''
+  A.-O.-Adekiya:
+    individualname: A. O. Adekiya
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

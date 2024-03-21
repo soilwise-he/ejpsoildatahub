@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1316422
+  dataseturi: https://doi.org/10.5281/zenodo.1316422
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Lead In The Soil-Plant System Following Aged Contamination From Ceramic Wastes
+  abstract: Lead contamination of agricultural land mainly vegetated with perennial
+    ryegrass (<em>Lolium perenne</em>) has been investigated. The metal derived from
+    the discharge of sludge from a ceramic industry in the past had used lead paints.
+    The results showed very high values of lead concentration in many soil samples.
+    In order to assess the lead soil contamination, a sequential extraction with H<sub>2</sub>O,
+    KNO<sub>3</sub>, EDTA was performed, and the chemical forms of lead in the soil
+    were evaluated. More than 70% of lead was in a potentially bioavailable form.
+    Analysis of <em>Lolium perenne</em> showed elevated lead concentration. A Freundlich-like
+    model was used to describe the transferability of the metal from the soil to the
+    plant.
+  keywords:
+    default:
+      keywords:
+        subject: soil lead contamination.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-03-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1316422
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1316421
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.-Pedron:
+    individualname: F. Pedron
+    role: creator
+    organization: ''
+    url: ''
+  M.-Grifoni:
+    individualname: M. Grifoni
+    role: creator
+    organization: ''
+    url: ''
+  G.-Petruzzelli:
+    individualname: G. Petruzzelli
+    role: creator
+    organization: ''
+    url: ''
+  M.-Barbafieri:
+    individualname: M. Barbafieri
+    role: creator
+    organization: ''
+    url: ''
+  I.-Rosellini:
+    individualname: I. Rosellini
+    role: creator
+    organization: ''
+    url: ''
+  B.-Pezzarossa:
+    individualname: B. Pezzarossa
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

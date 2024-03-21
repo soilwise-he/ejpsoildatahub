@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6616684
+  dataseturi: https://doi.org/10.5281/zenodo.6616684
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: AN INVESTIGATION ON SOIL AND PEAT HUMIC ACIDS. PART I. ISOLATION AND PURIFICATION
+    OF THE ACIDS.
+  abstract: Two humic acids isolated from two Assam tea soils have been compared with
+    two commercial humic acids isolated from peat in regard to the content of C, H,
+    N, OMe, acetyl and furfural and formaldehyde-yielding groups.
+  keywords:
+    default:
+      keywords:
+        subject: Sodium hydroxide
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1940-12-31'
+    publication: '1940'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6616684
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6616683
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-C.-ESH:
+    individualname: G. C. ESH
+    role: creator
+    organization: ''
+    url: ''
+  S.-S.-GUHA-SIRCAR:
+    individualname: S. S. GUHA-SIRCAR
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

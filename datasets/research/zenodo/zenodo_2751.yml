@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.1093/jambi
+  dataseturi: https://doi.org/10.1093/jambi
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Two species-specific TaqMan-based quantitative polymerase chain reaction
+    assays for the detection in soil of Paenibacillus polymyxa inocula
+  abstract: '&lt;p&gt;Aims&lt;/p&gt;
+
+
+    &lt;p&gt;The increasingly widespread use of beneficial microbial inocula in agriculture
+    gives rise to two primary needs: i) the assessment of the environmental risk,
+    i.e. their impact on local soil microbiome and soil properties; ii) being able
+    to track them and monitor their persistence and fate to both optimize their formulation
+    and application method. In previous years, PCR-based methods have detected bacterial
+    or fungal bioinoculant at the species or strain level. However, the selective
+    detection, quantification, and monitoring of target microbial species in a complex
+    ecosystem such as soil require that the tests possess high specificity and sensitivity.&lt;/p&gt;
+
+
+    &lt;p&gt;Methods and results&lt;/p&gt;
+
+
+    &lt;p&gt;The work proposes a quantitative real-time PCR detection method using
+    TaqMan chemistry, showing high specificity and sensitivity for the&nbsp;&lt;em&gt;Paenibacillus
+    polymyxa&lt;/em&gt;&nbsp;K16 strain. The primer and probe sets were designed using
+    the polymyxin gene cluster targeting&nbsp;&lt;em&gt;pmxC&lt;/em&gt;&nbsp;and&nbsp;&lt;em&gt;pmxE&lt;/em&gt;&nbsp;sequences.
+    Validation tests showed that these assays allowed a discriminant and specific
+    detection of&nbsp;&lt;em&gt;P. polymyxa K16&lt;/em&gt;&nbsp;in soil.&lt;/p&gt;
+
+
+    &lt;p&gt;Conclusion&lt;/p&gt;
+
+
+    &lt;p&gt;The TaqMan-assay developed could thus ensure the necessary level of discrimination
+    required by commercial and regulatory purposes to detect and monitor the bioinoculant
+    in soil.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Bioinoculant
+      - molecular markers
+      - polymyxin gene
+      - PGPR
+      - TaqMan Probe
+      - qPCR
+      - RNA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Manfredini-Andrea:
+    individualname: Manfredini Andrea
+    role: creator
+  Malusa-Eligio:
+    individualname: "Malus\xE0 Eligio"
+    role: creator
+  Trzcinski-Pawel:
+    individualname: Trzcinski Pawel
+    role: creator
+  Ptaszek-Magdalena:
+    individualname: Ptaszek Magdalena
+    role: creator
+  Sas-Paszt-Lidia:
+    individualname: Sas-Paszt Lidia
+    role: creator
+  Mocali-Stefano:
+    individualname: Mocali Stefano
+    role: creator
+  Pinzari-Flavia:
+    individualname: Pinzari Flavia
+    role: creator
+  Canfora-Loredana:
+    individualname: Canfora Loredana
+    role: creator
+content_info: {}

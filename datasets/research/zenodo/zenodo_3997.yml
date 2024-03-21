@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3246673
+  dataseturi: https://doi.org/10.5281/zenodo.3246673
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Geotechnical Study of the Properties of Black Cotton Soil Treated with Cement
+    and Bone Ash as Admixture
+  abstract: 'In this study, an attempt was made to assess the effectiveness of black
+    cotton soil blended with ordinary Portland cement (OPC) and bone ash (BA) for
+    soil stabilization. The study was therefore about improvement of the properties
+    of black cotton soil with bone ash admixed with ordinary Portland cement and the
+    determination of the optimum quantity that could be used as road construction
+    material at minimal cost. Bone generated waste from slaughter houses (abattoirs)
+    could be effectively utilized for civil engineering construction works, aiming
+    at minimizing the disposal problems and reducing the environmental hazard. The
+    preliminary investigation on the black cotton soil collected along Gombe-Biu road
+    in Yamaltu (Baure village) Yamaltu Deba Local Government area of Gombe state Nigeria,
+    shows that the soil belongs to A-7-6 (31) in the American Association of State
+    Highway and Transport Officers and CH in the Unified Soil Classification Systems
+    (USCS), respectively. Ordinary Portland cement (OPC)/Bone ash (BA) blend in stepped
+    concentrations of 0, 2, 4, 6 and 8% and 0, 2, 4, 6, 8 and 10% respectively, by
+    dry weight of soil, were used to treat the soil. Compaction was carried out using
+    three energy levels namely: the British Standard Light, West African Standard
+    and the British Standard Heavy. The liquid limit decreased steadily from 65% for
+    the natural soil to 55.5% at 6% OPC / 6% BA content, while the plasticity index
+    decreased from 28.49% for the natural soil to 16.5% at 6% OPC / 6% BA treatment.
+    Generally, the maximum dry density (MDD) increased while optimum moisture content
+    (OMC) decreased with higher BA treatment. The UCS values of specimens treated
+    with 6% OPC / 6% BA increased from 752, 779 and 827kN/m2 for the natural soil
+    to 1688, 2250 and 2667kN/m2 when cured for 7, 14 and 28 days, respectively. There
+    was an increase in the unsoaked CBR values from 6, 9 and 12% for the natural soil
+    compacted with BSL, WAS and BSH energy levels to 48, 80 and 85% at 6% OPC / 6%
+    BA content. The soaked CBR values of 4, 7 and 9% for the natural soil compacted
+    with BSL, WAS and BSH energies, respectively, increased to peak values of 43,
+    71 and 74% at 6% OPC / 6% BA content. Based on the results obtained the optimum
+    of 6% OPC / 6% BA treatment on the black cotton soil could be used as sub-base
+    material when compacted with BSH. The study therefore recommended that a 50% replacement
+    of cement by the bone ash can be made to achieve a desired material for sub-base
+    pavement construction at a reduced cost.'
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-06-15'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3246673
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3246672
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmad-Muhammad:
+    individualname: Ahmad Muhammad
+    role: creator
+  Ado-Yusuf-Abdulfatah:
+    individualname: Ado Yusuf Abdulfatah
+    role: creator
+  Muhammad-Ahmad:
+    individualname: Muhammad, Ahmad
+    role: ''
+    organization: 'Research Student, Department of Civil Engineering, Bayero University
+      Kano: PMB 3011, Kano, Nigeria'
+    url: ''
+  Abdulfatah-Ado-Yusuf:
+    individualname: Abdulfatah, Ado Yusuf
+    role: ''
+    organization: 'Associate Professor, Department of Civil Engineering, Bayero University
+      Kano: PMB 3011, Kano, Nigeria'
+    url: ''
+content_info: {}

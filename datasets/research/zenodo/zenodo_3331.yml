@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1336276
+  dataseturi: https://doi.org/10.5281/zenodo.1336276
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Bone Ash Impact On Soil Shear Strength
+  abstract: Most failures of soil have been attributed to poor shear strength. Consequently,
+    the present paper investigated the suitability of cattle bone ash as a possible
+    additive to improve the shear strength of soils. Four soil samples were collected
+    and stabilized with prepared bone ash in proportions of 3%, 5%, 7%, 10%, 15% and
+    20% by dry weight. Chemical analyses of the bone ash; followed by classification,
+    compaction, and triaxial shear tests of the treated soil samples were conducted.
+    Results obtained showed that bone ash contained high proportion of calcium oxide
+    and phosphate. Addition of bone ash to soil samples led to increase in soil shear
+    strengths within the range of 22.40% to 105.18% over the strengths of the respective
+    control tests. Conversely, all samples attained maximum shear strengths at 7%
+    bone ash stabilization. The use of bone ash as an additive will therefore improve
+    the shear strength of soils; however, using bone ash quantities in excess of 7%
+    may not yield ample results.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-01-16'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1336276
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1336275
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  G.-M.-Ayininuola:
+    individualname: G. M. Ayininuola
+    role: creator
+    organization: ''
+    url: ''
+  A.-O.-Sogunro:
+    individualname: A. O. Sogunro
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

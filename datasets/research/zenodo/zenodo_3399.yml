@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Khatti_2021
+  dataseturi: https://doi.org/10.35940/ijeat.A3220.1011121
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Computation of Permeability of Soil using Artificial Intelligence Approaches
+  abstract: '&lt;p&gt;The Gaussian Process Regression (GPR), Decision Tree (DT), Relevance
+    Vector Machine (RVM), and Artificial Neural Network (ANN) AI approaches are constructed
+    in MATLAB R2020a with different hyperparameters namely, kernel function, leaf
+    size, backpropagation algorithms, number of neurons and hidden layers to compute
+    the permeability of soil. The present study is carried out using 158 datasets
+    of soil. The soil dataset consists of fine content (FC), sand content (SC), liquid
+    limit (LL), specific gravity (SG), plasticity index (PI), maximum dry density
+    (MDD) and optimum moisture content (OMC), permeability (K). Excluding the permeability
+    of soil, rest of properties of soil is used as input parameters of the AI models.
+    The best architectural and optimum performance models are identified by comparing
+    the performance of the models. Based on the performance of the AI models, the
+    NISEK_K_GPR, 10LF_K_DT, Poly _K_RVM, and GDANN_K_10H5 models have been identified
+    as the best architectural AI models. The comparison of performance of the best
+    architectural models, it is observed that the NISEK_K_GPR model outperformed the
+    other best architectural AI models. In this study, it is also observed that GPR
+    model is outperformed ANN models because of small dataset. The performance of
+    NISEK_K_GPR model is compared with models available in literature and it is concluded
+    that the GPR model has better performance and least prediction error than models
+    available in literature study.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Artificial Neural Network
+      - Gaussian Process Regression
+      - Optimum Performance
+      - Relevance Vector Machine
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Computation of Permeability of Soil using Artificial Intelligence Approaches
+    url: http://dx.doi.org/10.35940/ijeat.A3220.1011121
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jitendra-Khatti:
+    individualname: Jitendra Khatti
+    role: creator
+  Kamaldeep-Singh-Grover:
+    individualname: Kamaldeep Singh Grover
+    role: creator
+  Khatti-Jitendra:
+    individualname: Khatti, Jitendra
+    role: creator
+  Grover-Kamaldeep-Singh:
+    individualname: Grover, Kamaldeep Singh
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.4122-1.1000000197
+  dataseturi: https://doi.org/10.4122/1.1000000197
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Linking soil properties to permittivity data: Beyond the Complex Refractive
+    Index Model'
+  abstract: "The availability of reliable constitutive models linking the bulk electric\
+    \ properties\nof porous media to their inner structure is a key requirement for\
+    \ useful quantitative\napplications of non invasive methods. In this paper we\
+    \ focus on the use of dielectric\nmeasurements for (time-lapse) monitoring of\
+    \ fluid saturation changes in porous\nmaterials, e.g. via Time Domain Reflectometry\
+    \ (TDR) or ground penetrating radar\n(GPR). A number of empirical, semi-empirical\
+    \ and theoretical relationships have been\nproposed, linking the bulk dielectric\
+    \ constant with volumetric water content. Among\nthe most popular are mixing models\
+    \ that involve some form of weighted average of the\ndielectric constants of the\
+    \ components. One such model, named CRIM (complex\nrefractive index model) or\
+    \ LR (Lichteneker-Rother) has found extensive application in\nrecent years. In\
+    \ this paper we first analyze the characteristics of the CRIM by means\nof theoretical\
+    \ considerations, thus drawing a link between the CRIM and the well\nknown Archie\u2019\
+    s law used for the analysis of DC resistivity in porous media. Next, we\nuse pore-scale\
+    \ modelling and experimental results to show other characteristics of\nthe CRIM,\
+    \ and in particular the dependence of its parameters on dielectric properties\n\
+    of the components, as well as on porosity. We then proceed to assess the robustness\n\
+    of the identification of CRIM parameters in presence of synthetic data error,\
+    \ thus\nconcluding that CRIM parameters cannot, in general, be independently identified\
+    \ on\nthe basis of bulk dielectric constant versus moisture content data. A novel\n\
+    theoretical model for the dielectric response of saturated porous media is proposed\n\
+    in the second section. The new constitutive relationship incorporates the theoretical\n\
+    link with Archie\u2019s law as well as a combination of the well established Hashin\
+    \ and\nShtrikman bounds. The proposed model is shown to be able to match both\
+    \ experimental\nand pore-scale modelling data with no use of ad-hoc fitting parameters."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2006'
+    publication: '2006'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.4122/1.1000000197
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Brovelli-Alessandro:
+    individualname: Brovelli, Alessandro
+    role: creator
+    organization: ''
+    url: alessandro.brovelli@unimib.it
+  Cassiani-Giorgio:
+    individualname: Cassiani, Giorgio
+    role: creator
+    organization: ''
+    url: giorgio.cassiani@unimib.it
+content_info: {}

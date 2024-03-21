@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8111475
+  dataseturi: https://doi.org/10.5281/zenodo.8111475
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Data assimilation of boreal forest - mire ecotone soil C dynamics into Yasso07
+    model coupled with updated moisture modifier
+  abstract: "Data of forest soil respiration, soil temperature and moisture, air temperature\
+    \ and precipitation, forest inventory, litter input and soil C stocks from the\
+    \ nine site types forming boreal forest-mire ecotone in Finland (61\xBA 47', 24\xBA\
+    \ 19') . The R codes reconstructing the analysis for running the Yasso07 model\
+    \ in the original configuration and updated with soil moisture function, its calibration,\
+    \ validation, etc. used for the publication \"Tupek et al. : Modeling boreal forest\u2019\
+    s mineral soil and peat C stock dynamics with Yasso07 model coupled with updated\
+    \ moisture modifier. Geoscientific model development, 2023\"."
+  keywords:
+    default:
+      keywords:
+        subject: peat
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8111475
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8111474
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tupek-Boris:
+    individualname: Tupek, Boris
+    role: creator
+    organization: Natural Resources Institute Finland (Luke)
+    url: https://orcid.org/0000-0003-3466-0237
+  Yurova-Alla:
+    individualname: Yurova, Alla
+    role: creator
+    organization: Northwest Institute of Eco-environment and Resources China
+    url: ''
+  Lehtonen-Aleksi:
+    individualname: Lehtonen, Aleksi
+    role: creator
+    organization: Natural Resources Institute Finland (Luke)
+    url: https://orcid.org/0000-0003-1388-0388
+content_info: {}

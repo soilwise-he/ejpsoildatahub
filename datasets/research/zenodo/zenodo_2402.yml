@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7771651
+  dataseturi: https://doi.org/10.5281/zenodo.7771651
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analysis of heavy and trace metals in the soil and tap water of Qasimabad,
+    Hyderabad, Sindh Pakistan
+  abstract: <em>This research intends to analyze the impacts of automobile exhaust
+    pollutants on roadside soil and its likely contamination in the water supply network
+    through faulty rusted pipes, the study area is the Hyderabad City, suburb town
+    Qasimabad. The Qasimabad is recently established in 1988 along the flood plains
+    of River Indus, residents of the study area belong to mix population of lower
+    to middle class economy line, most of them dependent on daily wedges with some
+    small businesses of daily life grocery items, automobile parts, small restaurants
+    and street vendors. The area is also under mismanagement of municipal urban resources
+    that makes the infrastructure under low efficient and deterioration. Majority
+    of the people consume drinking water through the underground pipe network and
+    tap water, which is likely contaminated due to the exhaust gases of uncontrolled
+    automobiles. The study will suggest the causes of contamination and propose the
+    possible mitigations.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Water Quality Qaimabad Hyderabad Sindh
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-26'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7771651
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7771650
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kashif-Ahmed-Memon:
+    individualname: Kashif Ahmed Memon
+    role: creator
+  Mohammad-Hassan-Agheem:
+    individualname: Mohammad Hassan Agheem
+    role: creator
+  Zainab-Ursani:
+    individualname: Zainab Ursani
+    role: creator
+  Memon-Kashif-Ahmed:
+    individualname: Memon, Kashif Ahmed
+    role: ''
+    organization: Sindh University
+    url: ''
+  Agheem-Mohammad-Hassan:
+    individualname: Agheem, Mohammad Hassan
+    role: ''
+    organization: Sindh University
+    url: ''
+  Ursani-Zainab:
+    individualname: Ursani, Zainab
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

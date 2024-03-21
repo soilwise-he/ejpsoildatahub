@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6163395
+  dataseturi: https://doi.org/10.5281/zenodo.6163395
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determination of Mercury In Soil by Cold Vapour AAS after its Separation
+    with Aliquat-336
+  abstract: Department of Chemistry, University of Burdwan, Burdwan-713 104 <em>Manuscript
+    received</em><strong><em> </em></strong>21 June 1988 revised 27 January 1989,
+    accepted 18 April 1989 Determination of Mercury In Soil by Cold Vapour AAS after
+    its Separation with Aliquat-336
+  keywords:
+    default:
+      keywords:
+        subject: Uranium
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1989-06-30'
+    publication: '1989'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6163395
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6163394
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  SUPRA-BANDYOPADHYAY:
+    individualname: SUPRA BANDYOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  ARABINDA-K.-DAS:
+    individualname: ARABINDA K. DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

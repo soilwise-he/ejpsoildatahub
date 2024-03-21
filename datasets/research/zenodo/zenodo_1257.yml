@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Russell_1916
+  dataseturi: https://doi.org/10.1017/s0021859600002513
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The reaction between dilute acids and the phosphorus compounds of the soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The reaction between dilute acids and the phosphorus compounds of the soil
+    url: http://dx.doi.org/10.1017/s0021859600002513
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Russell-Edward-John:
+    individualname: Russell, Edward John
+    role: creator
+  Prescott-James-Arthur:
+    individualname: Prescott, James Arthur
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

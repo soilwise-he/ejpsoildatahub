@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bustamante_2020
+  dataseturi: https://doi.org/10.3390/plants9070830
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Effects of Soil Fertilization on Terpenoids and Other Carbon-Based Secondary
+    Metabolites in Rosmarinus officinalis Plants: A Comparative Study'
+  abstract:
+  - '&lt;p&gt;&lt;em&gt;Rosmarinus officinalis&lt;/em&gt; is an evergreen aromatic
+    plant with important commercial interest as it contains numerous essential oils
+    (composed of terpenoid compounds) and phenolic constituents (natural antioxidant
+    compounds). This work aims at evaluating the concomitant effects of different
+    inorganic and organic fertilization treatments and the subsequent increases in
+    soil nutrient availability on terpenoids and other carbon-based secondary metabolites,
+    e.g., flavonoids and phenolic compounds, in &lt;em&gt;Rosmarinus officinalis&lt;/em&gt;
+    leaves.&lt;/p&gt;'
+  - "This research received financial support from COST Action FP0903 under an STSM\
+    \ of Isabel Nogues at CEBAS,\nConsejo Superior de Investigaciones Cient\xEDficas\
+    \ (Murcia, Spain)"
+  keywords:
+    default:
+      keywords:
+      - compost
+      - flavonoids
+      - monoterpenes
+      - leaf phosphorus
+      - sesquiterpenes
+      - phenolic compounds
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Effects of Soil Fertilization on Terpenoids and Other Carbon-Based Secondary
+      Metabolites in Rosmarinus officinalis Plants: A Comparative Study'
+    url: http://dx.doi.org/10.3390/plants9070830
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Angeles-Bustamante-Maria:
+    individualname: "\xC1ngeles Bustamante, Maria"
+    role: creator
+  Michelozzi-Marco:
+    individualname: Michelozzi, Marco
+    role: creator
+  Barra-Caracciolo-Anna:
+    individualname: Barra Caracciolo, Anna
+    role: creator
+  Grenni-Paola:
+    individualname: Grenni, Paola
+    role: creator
+  Verbokkem-Janine:
+    individualname: Verbokkem, Janine
+    role: creator
+  Geerdink-Peter:
+    individualname: Geerdink, Peter
+    role: creator
+  Safi-Carl:
+    individualname: Safi, Carl
+    role: creator
+  Nogues-Isabel:
+    individualname: Nogues, Isabel
+    role: creator
+  Bustamante-Maria-Angeles:
+    individualname: "Bustamante, Maria \u221A\xC5ngeles"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

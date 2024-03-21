@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.154660
+  dataseturi: https://doi.org/10.5281/zenodo.154660
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Estimatethe Concentration Of Heavy Metals In Soil By Using  Trigonometric
+    Cubic B-Spline Method And Its Application In Baghdad, Iraq
+  abstract: "The aims of this paper, is to estimate the concentration of heavy metals\
+    \ such cadmium, copper, nickel,lead, and zincin soilby using trigonometric cubic\
+    \ B-spline collocation method. In this work the usual finite difference scheme\
+    \ is applied to discretize the time derivative. Trigonometric cubic B-spline basis\
+    \ functions are used as aninterpolating function in the space dimension.Whereas\
+    \ the result is the concentration of heavy metals. This method is also suggested\
+    \ to estimate the concentration of heavy metals such cadmium, copper, nickel,\
+    \ lead, and zinc in soil of Baghdad city, Iraq. Thus we can estimate the contamination\
+    \ in soil by heavy metals. The result showed that the proposed method can successfully\
+    \ estimate the concentration of heavy metals in soilfor any depth.\n\n \n\nKeywords:\
+    \ Trigonometric cubic B-spline basis functions, Cubic trigonometric B-spline collocation\
+    \ method Soil contamination, Heavy metals, Soil property."
+  keywords:
+    default:
+      keywords:
+        subject: soil property
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2016-09-22'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.154660
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hamad-Mohammed-Salih:
+    individualname: Hamad Mohammed Salih
+    role: creator
+  Luma.-N.-M.-Tawfiq:
+    individualname: Luma. N. M. Tawfiq
+    role: creator
+    organization: ''
+    url: ''
+  Zainor-Ridzuan-Yahya:
+    individualname: Zainor Ridzuan Yahya
+    role: creator
+    organization: ''
+    url: ''
+  Salih-Hamad-Mohammed:
+    individualname: Salih, Hamad Mohammed
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

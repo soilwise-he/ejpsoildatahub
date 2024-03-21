@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629896
+  dataseturi: https://doi.org/10.5281/zenodo.2629896
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects of lime and swage sludge on soil, pasture production, and tree growth
+    in a six-year-old Populus canadensis Moench silvopastoral system
+  abstract: "In many regions worldwide, silvopastoral systems are implemented to enable\
+    \ sustainable land\nuse allowing short, medium, and long-term economic returns.\
+    \ However, the short-term production in silvopastoral systems is often limited\
+    \ due to nonappropriate soil-fertility management. This study evaluated the effects\
+    \ of two doses of lime (0 and 2.5 t CaCO3 ha\u20131) and three sewage-sludge treatments\
+    \ (0, 200, and 400 kg total N ha\u20131 y\u20131 applied in 2 consecutive years)\
+    \ on soil characteristics (soil pH, soil organic matter [SOM], soil nitrogen,\
+    \ cation-exchange capacity [CEC]), pasture production, and tree growth in a silvopastoral\
+    \ system of Populus \xD7 canadensis Moench in Galicia, northern Spain during 6\
+    \ years after establishment. Soil pH increased during the experimental period\
+    \ for all treatments, although this effect was more pronounced after lime application.\
+    \ Changes in SOM and soil nitrogen content were not consistent over time, but\
+    \ sewage-sludge application seemed to result in higher values. Higher CEC was\
+    \ found for treatments with lime and sewage-sludge application. Following incorporation\
+    \ of lime and sewage sludge, pasture production was significantly enhanced (cumulative\
+    \ pasture production 51.9 t DM ha\u20131 for Lime/N400 compared to 39.0 t DM ha\u2013\
+    1 for No lime/N0). This higher pasture production also affected tree growth due\
+    \ to more severe competition between pasture and tree resulting in slower tree\
+    \ growth. Liming and application of sewage sludge are relevant measures to improve\
+    \ soil fertility and thereby optimizing the overall production of silvopastoral\
+    \ systems. However, it is important not to overintensify pasture production to\
+    \ ensure adequate tree growth."
+  keywords:
+    default:
+      keywords:
+        subject: soil pH
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-10-20'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629896
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629895
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-Rosa-Mosquera-Losada:
+    individualname: M. Rosa Mosquera-Losada
+    role: creator
+    organization: ''
+    url: ''
+  Daniel-Moran-Zuloaga:
+    individualname: "Daniel Mor\xE1n-Zuloaga"
+    role: creator
+  and-Antonio-Rigueiro-Rodriguez:
+    individualname: and Antonio Rigueiro-Rodriguez
+    role: creator
+  Moran-Zuloaga-Daniel:
+    individualname: "Mor\xE1n-Zuloaga, Daniel"
+    role: ''
+    organization: ''
+    url: ''
+  And-Antonio-Rigueiro-Rodriguez:
+    individualname: And Antonio Rigueiro-Rodriguez
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7680045
+  dataseturi: https://doi.org/10.5281/zenodo.7680045
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effects of cow dung ash and calcium hydroxide on geotechnical properties
+    of expansive and loose soil
+  abstract: "The study is an investigation into the effects of CDA and Ca (OH)<sub>2\
+    \ </sub>on geotechnical properties of expansive (Sample A) and loose soil (Sample\
+    \ B). The experiments were designed to study the effects of adding CDA in various\
+    \ percentages by weight (5%, 15% and 15%) of dry soil with 5% constant Ca (OH)<sub>2</sub>,\
+    \ which produces pozzolanic reactions in soil samples. Sample A was collected\
+    \ at Moniya, Ibadan, Sample B from The polytechnic, Ibadan and, cow dung was obtained\
+    \ from a farm settlement at Ilora, Oyo State, the dung was air dried and then\
+    \ calcined at 500 <sup>0</sup>C \u2013 600 <sup>0</sup>C, after which it was sieved\
+    \ using 600\xB5m sieve. The samples were subjected to the following laboratory\
+    \ tests; Natural moisture content, Particle (grain) size analysis, Atterberg limit\
+    \ test, Compaction test, California bearing ratio (CBR) test. The NMC test shows\
+    \ that sample A retains more water than sample B given by the values 26% and 6%\
+    \ respectively, the particle size analysis results showed that sample A has highest\
+    \ percentage of clay passing sieve no. 200 (75\xB5m) i.e. 62.86%, while sample\
+    \ B has 7.27%, this indicates that sample A with high silt clay content are susceptible\
+    \ to volume changes when wet. The liquid limit and plasticity index for sample\
+    \ A is 49% and 28% respectively while sample B is a cohesionless soil. This shows\
+    \ that sample A has high clay content and its load bearing capacity could be reduced\
+    \ when wet. The AASHTO system classified sample A as A-7-6, and sample B as A-3.\
+    \ This shows sample A is fair to poor while sample B is excellent to good. The\
+    \ maximum dry densities ranged from 1.61mg/m3 to 1.87mg/m<sup>3</sup> and Optimum\
+    \ moisture contents range from 19.2% to 16.36% respectively. The CBR value of\
+    \ sample A as to the varying percentage are 2.07%, 10.62% (0% CDA &amp; 5% Ca(OH)<sub>2</sub>)\
+    \ , 12.69%, 16.77%, 31.41% while CBR value of sample B are thus: 32.7%, 27.06%\
+    \ (0% CDA &amp; 5% Ca(OH)<sub>2</sub>), 12.09%, 16.2%, 16.74%. It was then observed\
+    \ that CDA at 15% and Ca(OH)2 at 5% is the optimum for expansive soils while adding\
+    \ CDA and Ca(OH)2 to loose soil will increase the OMC and thus reduce its engineering\
+    \ properties."
+  keywords:
+    default:
+      keywords:
+        subject: Cow Dung Ash (CDA); Calcium Hydroxide; Pozzolanic activity; Stabilization;
+          CBR
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-11-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7680045
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7680044
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raheem-S.-B:
+    individualname: Raheem S. B
+    role: creator
+    organization: Department of Civil Engineering, The Polytechnic, Ibadan, Nigeria.
+    url: ''
+  Oladiran-G.-F:
+    individualname: Oladiran G. F
+    role: creator
+    organization: Department of Civil Engineering, The Polytechnic, Ibadan, Nigeria.
+    url: ''
+  Okeniyi-A.-G:
+    individualname: Okeniyi A. G
+    role: creator
+    organization: Department of Civil Engineering, The Polytechnic, Ibadan, Nigeria.
+    url: ''
+  Adewuyi-T.-O:
+    individualname: Adewuyi T. O
+    role: creator
+    organization: Department of Civil Engineering, The Polytechnic, Ibadan, Nigeria.
+    url: ''
+content_info: {}

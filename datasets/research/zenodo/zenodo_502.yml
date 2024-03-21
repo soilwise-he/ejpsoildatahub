@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Fernow_1887
+  dataseturi: https://doi.org/10.1126/science.ns-9.214.231
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The failure of foreign trees on American soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The failure of foreign trees on American soil
+    url: http://dx.doi.org/10.1126/science.ns-9.214.231
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fernow-B.-E.:
+    individualname: Fernow, B. E.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Paz_Barzola_2022
+  dataseturi: https://doi.org/10.29019/enfoqueute.811
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Evaluaci\xF3n de la calidad del suelo en n\xFAcleos poblados cercanos a\
+    \ la zona minera aur\xEDfera de Ponce Enr\xEDquez"
+  abstract: '&lt;p&gt;The objective of the study was to evaluate soil quality in population
+    centers near gold mining areas. The concentration of heavy metals and metalloids
+    (As, Cd, Cu, Cr, Ni, Pb, and Zn) was analyzed in soil samples collected in public
+    areas, yards, gardens, and cultivation areas. As a result, it was identified that
+    the concentration of Ni and Cr exceeded the maximum permissible limit (MPL) established
+    in the Unified Text of Secondary Environmental Legislation of Ecuador (TULSMA)
+    in 100 % of the samples analyzed, while the concentration of Cu and Zn was higher
+    than the MPL in 90 % of the sites sampled. Cd exceeded the MPL in 64 % of the
+    samples, and As and Pb exceeded the MPL in 26 % and 21 % of the samples, respectively.
+    Cd, As and Pb are elements of special concern due to their high toxicity and significant
+    presence in the study area. Regarding pH analysis, values between 3.31 and 8.21
+    were obtained, indicating acidic conditions in 60 % of the soil samples, possibly
+    as a result of anthropogenic activity in the area. Strong positive correlations
+    were detected between As-Cd, Cr-Ni, Cu-Ni, and moderate correlations between Cr-Cu
+    and Pb-Zn, which is related to the mineralization of the area. Cluster analysis
+    indicated that cluster C1, characterized by a high content of potentially toxic
+    elements, is mostly located south of the study area. These preliminary results
+    can serve as a baseline for future research in the area, highlighting the importance
+    of soil quality assessment in mining areas.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - "Miner\xEDa"
+      - metales pesados
+      - "correlaci\xF3n de Spearman"
+      - "an\xE1lisis de conglomerados"
+      - calidad de los suelos
+  status: ''
+  language: spa
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Evaluaci\xF3n de la calidad del suelo en n\xFAcleos poblados cercanos a\
+      \ la zona minera aur\xEDfera de Ponce Enr\xEDquez"
+    url: http://dx.doi.org/10.29019/enfoqueute.811
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daniela-Paz-Barzola:
+    individualname: Daniela Paz-Barzola
+    role: creator
+  Kenny-Escobar-Segovia:
+    individualname: Kenny Escobar-Segovia
+    role: creator
+  Samantha-Jimenez-Oyola:
+    individualname: "Samantha Jim\xE9nez-Oyola"
+    role: creator
+  Paz-Barzola-Daniela:
+    individualname: Paz-Barzola, Daniela
+    role: creator
+  Escobar-Segovia-Kenny:
+    individualname: Escobar-Segovia, Kenny
+    role: creator
+  Jimenez-Oyola-Samantha:
+    individualname: "Jim\xE9nez Oyola, Samantha"
+    role: creator
+  Universidad-UTE:
+    individualname: Universidad UTE
+    role: creator
+content_info: {}

@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6817372
+  dataseturi: https://doi.org/10.5281/zenodo.6817372
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of soil application of ag-zyme liquid organic fertilizer on growth
+    and yield of soybean (Glycine max L.)
+  abstract: "The aim of this study was to evaluate the effect of Ag-zyme liquid organic\
+    \ fertilizer on growth and yield of soybean (<em>Glycine max</em> L.). The experiment\
+    \ was carried out at the Teaching and Research Farm of Faculty of Agriculture\
+    \ and Veterinary Medicine. The experimental was the Randomized Complete Block\
+    \ Design (RCBD) with five treatments and four replications. The treatments are\
+    \ 0 ml(T<sub>1</sub>), 50 ml(T<sub>2</sub>), 100 ml(T<sub>3</sub>), 150 ml (T<sub>4</sub>)\
+    \ and 200 ml (T<sub>5</sub>) of Ag-zyme liquid organic fertilizer. The results\
+    \ obtained showed that soil application of Ag-zyme liquid organic fertilizer at\
+    \ different rates significantly (P&lt;0.05) influenced the vegetative and yield\
+    \ parameters of soybean evaluated. The application of moderate levels of (T<sub>\xAD\
+    2</sub> and T<sub>3</sub>) Ag-zyme liquid fertilizers markedly increased the yields\
+    \ (35.595 kg/ha and 29.583 kg/ha respectively) compared to other levels and control.\
+    \ The result showed that the increase in vegetative, parameters, yield and yield\
+    \ components were correlated to mitigation effect of application of Ag-zyme liquid\
+    \ organic fertilizer during late planting in relation to harsh environmental condition."
+  keywords:
+    default:
+      keywords:
+        subject: Ag-Zyme; Liquid Organic Fertilizer; Soybean; Macro Element; Uptake
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6817372
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6817371
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ogbuehi-HC:
+    individualname: Ogbuehi HC
+    role: creator
+    organization: Department of Crop science and Biotechnology, Faculty of Agriculture
+      and Veterinary Medicine Imo State University ,P.M.B 2000,Owerri Imo State, Nigeria.
+    url: ''
+content_info: {}

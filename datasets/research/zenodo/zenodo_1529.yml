@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7179487
+  dataseturi: https://doi.org/10.5281/zenodo.7179487
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Nitrogen Loss By Ammonia Volatilization From Urea and Ammonium Chloride in
+    Flooded Soil
+  abstract: This article 'Nitrogen Loss By Ammonia Volatilization From Urea and Ammonium
+    Chloride in Flooded Soil' appeared in the International Rice Research Newsletter
+    series, created by the International Rice Research Institute (IRRI). The primary
+    objective of this publication was to expedite communication among scientists concerned
+    with the development of improved technology for rice and for rice based cropping
+    systems. This publication will report what scientists are doing to increase the
+    production of rice in as much as this crop feeds the most densely populated and
+    land scarce nations in the world.
+  keywords:
+    default:
+      keywords:
+        subject: Flooded Soils
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1990-08-01'
+    publication: '1990'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7179487
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7179486
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khind-C.-S.:
+    individualname: Khind, C. S.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-Y.:
+    individualname: Singh, Y.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-B.:
+    individualname: Singh, B.
+    role: creator
+    organization: ''
+    url: ''
+  Bajwa-M.-S.:
+    individualname: Bajwa, M. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

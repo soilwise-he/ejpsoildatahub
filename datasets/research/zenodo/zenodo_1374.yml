@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8379504
+  dataseturi: https://doi.org/10.5281/zenodo.8379504
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Fine root morphology and soil properties / Soil Organic Matter Fractions
+    in relation to root characteristics of different tree species in altitude gradient
+    of Temperate Forest in Carpathian Mountains
+  abstract: "These data were obtained from research plots located at altitudes of\
+    \ 600, 800 and 1000 m above sea level. in beech (Fagus sylvatica L.) and fir (Abies\
+    \ alba Mill.) stands. In this case, in each altitude variant, three research areas\
+    \ with beech and fir were designated. The study was conducted in the Ja\u0142\
+    owiec Massif (49\xB038\u2032 N, 19\xB020\u2032 E) in the Western Beskidy Mountains,\
+    \ in the southern part of Poland. The study took place in Magurska Nappe on the\
+    \ sandstone and shales, with domination of Cambisols (WRB, 2014). The study plots\
+    \ were established at three different elevations (600, 800 and 1,000 m a.s.l.)\
+    \ along a slope with an inclination of 15\xB0. The tested soils were characterised\
+    \ by a similar texture (average sand content was 54%, silt 42% and clay 3%). The\
+    \ average temperature of the growing season for the study plots was 12.4 \xB0\
+    C at 600 m a.s.l., 11.3 \xB0C at 800 m a.s.l. and 10.2 \xB0C at an elevation of\
+    \ 1,000 m a.s.l. Average soil moisture at 600, 800 and 1,000 m a.s.l. differed,\
+    \ at 22.74%, 29.60% and 34.10%, respectively. Tree stands growing in the same\
+    \ soil conditions were selected for the study. Tree stands of similar age and\
+    \ with the same crown density were used for the research. Basic physicochemical\
+    \ properties (pH, hydrolytic acidity, carbon and nitrogen content, basic cation\
+    \ content) and the fractional composition of SOM were determined from the soil\
+    \ samples. Additionally, we determined the basic characteristics of the roots\
+    \ (diameter, length, biomass, distribution, production)."
+  keywords:
+    default:
+      keywords:
+        subject: Soil properties
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-09'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8379504
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3390/f13101656
+    type: WWW:LINK
+    title: IsCitedBy
+  r1:
+    url: https://doi.org/10.1016/j.fecs.2022.100066
+    type: WWW:LINK
+    title: IsCitedBy
+  r2:
+    url: https://doi.org/10.5281/zenodo.8379503
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Karolina-Staszel:
+    individualname: Karolina Staszel
+    role: creator
+  Ewa-Blonska:
+    individualname: "Ewa B\u0142o\u0144ska"
+    role: creator
+  Jaroslaw-Lasota:
+    individualname: "Jaros\u0142aw Lasota"
+    role: creator
+    organization: "Department of Ecology and Silviculture, Faculty of Forestry, University\
+      \ of Agriculture in Krakow, 29 Listopada 46 Str., 31-425 Krak\xF3w, Poland"
+    url: ''
+  Staszel-Karolina:
+    individualname: Staszel, Karolina
+    role: ''
+    organization: "Department of Ecology and Silviculture, Faculty of Forestry, University\
+      \ of Agriculture in Krakow, 29 Listopada 46 Str., 31-425 Krak\xF3w, Poland"
+    url: ''
+  Blonska-Ewa:
+    individualname: "B\u0142o\u0144ska, Ewa"
+    role: ''
+    organization: "Department of Ecology and Silviculture, Faculty of Forestry, University\
+      \ of Agriculture in Krakow, 29 Listopada 46 Str., 31-425 Krak\xF3w, Poland"
+    url: ''
+content_info: {}

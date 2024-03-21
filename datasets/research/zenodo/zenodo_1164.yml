@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8086166
+  dataseturi: https://doi.org/10.5281/zenodo.8086166
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Volume estimation of soil stored in agricultural terrace systems: A geomorphometric
+    approach'
+  abstract: 'High-resolution topographic (HRT) techniques allow the mapping and characterization
+    of geomorphological<br> features with wide-ranging perspectives at multiple scales.
+    We can exploit geomorphometric information in the<br> study of the most extensive
+    and common landforms that humans have ever produced: agricultural terraces. We<br>
+    can only develop an understanding of these historical landform through in-depth
+    knowledge of their origin,<br> evolution and current state in the landscape. These
+    factors can ultimately assist in the future preservation of such<br> landforms
+    in a world increasingly affected by anthropogenic activities. From HRT surveys,
+    it is possible to<br> produce high-resolution Digital Terrain Models (DTMs) from
+    which important geomorphometric parameters<br> such as topographic curvature,
+    to identify terrace edges can be extracted, even if abandoned or covered by<br>
+    uncontrolled vegetation. By using riser bases as well as terrace edges (riser
+    tops) and through the computation of<br> minimum curvature, it is possible to
+    obtain environmentally useful information on these agricultural systems<br> such
+    as terrace soil thickness and volumes. The quantification of terrace volumes can
+    provide new benchmarks<br> for soil erosion models, new perspectives to stakeholders
+    for terrace management in terms of natural hazard and<br> offer a measure of the
+    effect of these agricultural systems on soil organic carbon sequestration. This
+    paper<br> presents the realization and testing of an innovative and rapid methodological
+    workflow to estimate the<br> anthropogenic reworked and moved soil of terrace
+    systems in different landscapes. We start with remote terrace<br> mapping at large
+    scale and then utilize more detailed HRT surveys to extract geomorphological features,
+    from<br> which the original theoretical slope-surface of terrace systems were
+    derived. These last elements were compared<br> with sub-surface information obtained
+    from the excavations across the study sites that confirm the reliability of<br>
+    the methodology used. The results of this work have produced accurate DTMs of
+    Difference (DoD) for three<br> terrace sites in central Europe in Italy and Belgium.
+    Differences between actual and theoretical terraces from<br> DTM and excavation
+    evidence have been used to estimate the soil volumes and masses used to remould
+    slopes.<br> The utilization of terrace and lynchet volumetric data, enriched by
+    geomorphometric analysis through indices<br> such as sediment conductivity provides
+    a unique and efficient methodology for the greater understanding of<br> these
+    globally important landforms, in a period of increasing land pressure.'
+  keywords:
+    default:
+      keywords:
+        subject: Volume computation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-27'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8086166
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8086165
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sara-Cucchiaro:
+    individualname: Sara Cucchiaro
+    role: creator
+  Guido-Paliaga:
+    individualname: Guido Paliaga
+    role: creator
+  Cucchiaro-Sara:
+    individualname: Cucchiaro, Sara
+    role: ''
+    organization: Department of Agricultural, Food, Environmental and Animal Sciences,
+      University of Udine
+    url: ''
+  Paliaga-Guido:
+    individualname: Paliaga, Guido
+    role: ''
+    organization: Research Institute for Geo-Hydrological Protection, National Research
+      Council,
+    url: ''
+content_info: {}

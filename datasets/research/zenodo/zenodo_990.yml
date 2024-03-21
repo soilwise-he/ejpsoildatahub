@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10550916
+  dataseturi: https://doi.org/10.5281/zenodo.10550916
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: HYGIENIC AND ECOLOGICAL SAFETY OF SOIL IN THE CONDITIONS OF UZBEKISTAN
+  abstract: "Recently, the problem of environmental protection and public health in\
+    \ most countries, including Uzbekistan,has become particularly significant \_\
+    due to the rapid development of industry and agriculture, population growth, and\
+    \ the increased impact of adverse natural and anthropological factors.One of the\
+    \ consequences of these negative factors is pollution of the environment,especially\
+    \ the soil, \_\_by harmful chemicals and microorganisms, which have a detrimental\
+    \ impact on the\_ population\u2019s health.Therefore , when conducting scientific\
+    \ research of an ecological and sanitary-hygienic nature and organizing soil protection,\
+    \ it is necessary to use common approaches and methodological techniques developed\
+    \ by science and approved by state sanitary supervision bodies."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-22'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10550916
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10550915
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Iskandarova-Sh.-T.:
+    individualname: Iskandarova, Sh. T.
+    role: creator
+    organization: ''
+    url: ''
+  Rasulova-N.-F.:
+    individualname: Rasulova, N. F.
+    role: creator
+    organization: ''
+    url: ''
+  Aminova-Amalia:
+    individualname: Aminova, Amalia
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: JOHARCHI_2018
+  dataseturi: https://doi.org/10.11646/zootaxa.4514.1.2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Some soil-inhabiting mites from Zanzibar (Acari: Laelapidae)'
+  abstract: 'Joharchi, Omid, Halliday, Bruce, Khaustov, Alexander A., Ermilov, Sergey
+    G. (2018): Some soil-inhabiting mites from Zanzibar (Acari: Laelapidae). Zootaxa
+    4514 (1): 23-40, DOI: 10.11646/zootaxa.4514.1.2'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Arachnida
+      - Mesostigmata
+      - Laelapidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Some soil-inhabiting mites from Zanzibar (Acari: Laelapidae)'
+    url: http://dx.doi.org/10.11646/zootaxa.4514.1.2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Joharchi-Omid:
+    individualname: Joharchi, Omid
+    role: creator
+  Halliday-Bruce:
+    individualname: Halliday, Bruce
+    role: creator
+  Khaustov-Alexander-A.:
+    individualname: Khaustov, Alexander A.
+    role: creator
+  Ermilov-Sergey-G.:
+    individualname: Ermilov, Sergey G.
+    role: creator
+  JOHARCHI-OMID:
+    individualname: JOHARCHI, OMID
+    role: creator
+  HALLIDAY-BRUCE:
+    individualname: HALLIDAY, BRUCE
+    role: creator
+  KHAUSTOV-ALEXANDER-A.:
+    individualname: KHAUSTOV, ALEXANDER A.
+    role: creator
+  ERMILOV-SERGEY-G.:
+    individualname: ERMILOV, SERGEY G.
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

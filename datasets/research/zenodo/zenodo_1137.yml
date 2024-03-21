@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4886610
+  dataseturi: https://doi.org/10.5281/zenodo.4886610
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Influence of the Red Wood Ant Formica lugubris Zetterstedt (Hymenoptera:
+    Formicidae) on the Surrounding Forest Soil Influence of the Red Wood Ant on the
+    Forest Soil'
+  abstract: "Red wood ants build their nests as above-ground mounds by collecting\
+    \ organic<br> materials from the forest floor. The effects of ant nest to the\
+    \ soil carbon and nitrogen along<br> with the soil pH, were measured. There was\
+    \ an increase in pH with distance from the nests<br> while there was a decrease\
+    \ in C and N concentration with the distance from the nest<br> increases. The\
+    \ carbon content at the mound and nests center was differ, with carbon<br> percentage\
+    \ more than double at the nests mound than in the center of the nest. In contrast\
+    \ the<br> nitrogen percentage was higher at the nest center but with no significant\
+    \ difference. The pH<br> was increased at the nests center while the soil was\
+    \ more acidic at greater ratio. Red wood<br> ants\u2019 mounds do not significantly\
+    \ alter the C and N concentrations in the forest ecosystem,<br> but they increase\
+    \ spatial heterogeneity of the forest floor by storing organic matter and<br>\
+    \ nutrients."
+  keywords:
+    default:
+      keywords:
+        subject: Red wood ants, pH, C and N concentrations, forest soil, forest ecosystem
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-06-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4886610
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4886609
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tsikas-Angelos:
+    individualname: Tsikas, Angelos
+    role: creator
+    organization: Department of Forestry and Management of the Environment and Natural
+      Resources, Laboratory of Forest Protection, Democritus University of Thrace,
+      School of Agricultural and Forestry Sciences
+    url: ''
+  Karanikola-Paraskevi:
+    individualname: Karanikola, Paraskevi
+    role: creator
+    organization: Department of Forestry and Management of the Environment and Natural
+      Resources, Laboratory of Soil Science, Democritus University of Thrace, School
+      of Agricultural and Forestry Sciences
+    url: ''
+  Orfanoudakis-Michail:
+    individualname: Orfanoudakis, Michail
+    role: creator
+    organization: Department of Forestry and Management of the Environment and Natural
+      Resources, Laboratory of Soil Science, Democritus University of Thrace, School
+      of Agricultural and Forestry Sciences
+    url: ''
+content_info: {}

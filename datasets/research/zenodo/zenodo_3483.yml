@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1093868
+  dataseturi: https://doi.org/10.5281/zenodo.1093868
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phytopathology Prediction In Dry Soil Using Artificial Neural Networks Modeling
+  abstract: The rapid expansion of deserts in recent decades as a result of human
+    actions combined with climatic changes has highlighted the necessity to understand
+    biological processes in arid environments. Whereas physical processes and the
+    biology of flora and fauna have been relatively well studied in marginally used
+    arid areas, knowledge of desert soil micro-organisms remains fragmentary. The
+    objective of this study is to conduct a diversity analysis of bacterial communities
+    in unvegetated arid soils. Several biological phenomena in hot deserts related
+    to microbial populations and the potential use of micro-organisms for restoring
+    hot desert environments. Dry land ecosystems have a highly heterogeneous distribution
+    of resources, with greater nutrient concentrations and microbial densities occurring
+    in vegetated than in bare soils. In this work, we found it useful to use techniques
+    of artificial intelligence in their treatment especially artificial neural networks
+    (ANN). The use of the ANN model, demonstrate his capability for addressing the
+    complex problems of uncertainty data.
+  keywords:
+    default:
+      keywords:
+        subject: Artificial neural networks.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-07-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1093868
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1093867
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.-Allag:
+    individualname: F. Allag
+    role: creator
+    organization: ''
+    url: ''
+  S.-Bouharati:
+    individualname: S. Bouharati
+    role: creator
+    organization: ''
+    url: ''
+  M.-Belmahdi:
+    individualname: M. Belmahdi
+    role: creator
+    organization: ''
+    url: ''
+  R.-Zegadi:
+    individualname: R. Zegadi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,135 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7267967
+  dataseturi: https://doi.org/10.5281/zenodo.7267967
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: International Union of Geological Sciences Manual of Standard Geochemical
+    Methods for the Global Black Soil Project
+  abstract: "<strong>Source web page:</strong> http://www.globalgeochemicalbaselines.eu/content/162/black-soil-project-manual-/\
+    \ <strong>SYNOPSIS</strong> The aims of the International Union of Geological\
+    \ Sciences <em>Commission on Global Geochemical Baselines</em> are: \u2022 To\
+    \ provide high-quality geochemical baseline data for the terrestrial part of our\
+    \ home planet Earth; \u2022 To establish a Geochemical Reference Network for levelling\
+    \ data sets of existing regional geochemical projects, and \u2022 To provide reference\
+    \ samples and sites for future monitoring of the chemical state of the World\u2019\
+    s terrestrial surface. Hence, the generated geochemical data must be of high quality,\
+    \ integrity and consistency. Sampling of Black Soil (chernozems), <em>sensu stricto</em>,\
+    \ is not included in the programme of the International Union of Geological Sciences\
+    \ (IUGS) Commission on Global Geochemical Baselines, because it is an agricultural\
+    \ soil impacted by human activities. However, it is an important agricultural\
+    \ soil, and as is considered to be among some of the most productive soil types\
+    \ in the World, it should quite rightly be studied separately from other agricultural\
+    \ soil types. The aim of the Global Black Soil Critical Zone Geo-ecological Survey\
+    \ (BASGES) is to study, in a holistic approach, the serious degradation problems\
+    \ that Black Soil types are facing all over the world because of several decades\
+    \ of intensive cultivation. Their present chemical state shall be studied by following\
+    \ the principles of the IUGS Commission on Global Geochemical Baselines for producing\
+    \ an internally consistent high-quality geochemical database. The requirements\
+    \ are to use standardised sampling and sample preparation methods, and all samples\
+    \ must be analysed in the same laboratory for the same suite of determinands/parameters,\
+    \ following a strict quality control protocol. The present manual contains comprehensive\
+    \ instructions for sample site selection, sample collection and preparation, recommendations\
+    \ for the preparation of project reference samples, laboratory analysis, quality\
+    \ control procedures that should be implemented, checking the quality of analytical\
+    \ data, required supporting information for interpretation of geochemical data,\
+    \ and need for the establishment of site-specific guideline values for Black Soil\
+    \ in the different regions of its occurrence. <strong>The URL of the pdf file\
+    \ is:</strong> https://www.globalgeochemicalbaselines.eu/datafiles/file/IUGS_Manual_of_Standard-Geochemical-Methods_for_the_Global-Black-Soil-Project.pdf\
+    \ <strong>IUGS APPROVAL FOR PUBLICATION </strong> The Executive Committee of the\
+    \ <em>International Union of Geological Sciences</em> approved the publication\
+    \ of the \u201C<em>International Union of Geological Sciences Manual of Standard\
+    \ Geochemical Methods for the Global Black Soil Project</em>\u201D at its 74<sup>th</sup>\
+    \ meeting in Busan of South Korea on the 17<sup>th</sup> of January 2020. The\
+    \ Executive Committee members Qiuming Cheng (President), Kristine Asch (Vice President),\
+    \ William Cavazza (Vice President), Stanley C. Finney (Secretary-General), Hiroshi\
+    \ Kitazato (Treasurer), Roland Oberh\xE4nsli (Past President), Ben Mapani (Councillor),\
+    \ Edmund Nickless (Councillor), Silvia Peppoloni (Councillor) and Claudia Mora\
+    \ (Councillor) are thanked for approving the publication of this manual. <strong>Supplementary\
+    \ material</strong> For planning the sampling campaign of the Global Black Soil\
+    \ regions, according to the specifications of the IUGS Commission on Global Geochemical\
+    \ Baselines, the following files should be downloaded: Google Earth kml and kmz\
+    \ files of the Global Black Soil regions: World_Black_soil_regions.zip Microsoft\
+    \ Excel Workbook of Global or Geochemical Terrestrial Network (GTN) of 7356 grid\
+    \ cells of 160x160 km Google Earth *.kml file of Geochemical Terrestrial Network\
+    \ of 7356 grid cells of 160x160 km (zip file) Microsoft Excel Workbook of 5 randomly\
+    \ selected points in each GTN grid cell of 160x160 km (version 1) Google Earth\
+    \ *.kml file of 5 randomly selected points in each GTN grid cell of 160x160 km\
+    \ (version 1 - zip file) The software programs mentioned in the Manual, <em>i.e</em>.,\
+    \ DUPREPPLOT, PDLPRECIS and ROBCOOP5 (now ROBCOOP4A) are available for downloading\
+    \ from the Software Programs web page."
+  keywords:
+    default:
+      keywords:
+        subject: manual
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-03-31'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7267967
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7267966
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Demetriades-Alecos:
+    individualname: Demetriades, Alecos
+    role: creator
+    organization: IUGS Commission on Global Geochemical Baselines
+    url: https://orcid.org/0000-0002-9343-7433
+  Huimin-Dai:
+    individualname: Huimin, Dai
+    role: creator
+    organization: Shenyang Centre of China Geological Survey, Shenyang, Liaoning Province,
+      P.R. China
+    url: ''
+  Kai-Liu:
+    individualname: Kai, Liu
+    role: creator
+    organization: Shenyang Centre of China Geological Survey, Shenyang, Liaoning Province,
+      P.R. China
+    url: ''
+  Savin-Igor:
+    individualname: Savin, Igor
+    role: creator
+    organization: V.V. Dokuchaev Soil Science Institute, People's Friendship University
+      of Russia, Moscow, Russian Federation
+    url: https://orcid.org/0000-0002-8739-5441
+  Birke-Manfred:
+    individualname: Birke, Manfred
+    role: creator
+    organization: Federal Institute for Geosciences and Natural Resources, Hannover,
+      Germany
+    url: ''
+  Johnson-Christopher-C.:
+    individualname: Johnson, Christopher C.
+    role: creator
+    organization: GeoElementary, Derby, United Kingdom
+    url: https://orcid.org/0000-0001-9908-5179
+  Argyraki-Ariadne:
+    individualname: Argyraki, Ariadne
+    role: creator
+    organization: Department of Geology and Geoenvironment, National and Kapodistrian
+      University of Athens, Athens, Hellas
+    url: https://orcid.org/0000-0002-0015-2456
+content_info: {}

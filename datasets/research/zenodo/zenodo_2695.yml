@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Basile_2020
+  dataseturi: https://doi.org/10.1016/j.agwat.2020.106338
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A modelling approach to discriminate contributions of soil hydrological properties
+    and slope gradient to water stress in Mediterranean vineyards
+  abstract: "&lt;p&gt;Grapevine is a widespread crop for grape and wine production,\
+    \ often cultivated on hilly areas. Moderate vine water stress plays an important\
+    \ role in determining high-quality viticulture. However, a precise quantification\
+    \ of the effect of hydraulic properties and slope gradient on hilly soil water\
+    \ balance and consequently on vine stress has not yet been addressed in the literature.\
+    \ The slope-gradient effect is generally taken for granted, without providing\
+    \ experiments validating such a qualitative assumption. We tested the hypothesis\
+    \ that soil hydraulic properties play a greater role than slope gradient in driving\
+    \ soil water status and vine stress. In two consecutive years, we studied an &ldquo;Aglianico&rdquo;\
+    \ vineyard grown along a 90\u202Fm slope, with up-slope soil having lower water\
+    \ holding capacity than down-slope. Up-slope vines were more stressed, as shown\
+    \ by lower leaf water potential, stomatal conductance, leaf CO&lt;sub&gt;2&lt;/sub&gt;&nbsp;assimilation\
+    \ and leaf area index, than down-slope vines.&lt;/p&gt;\n\n&lt;p&gt;Water flow\
+    \ was simulated by using the Hydrus (2D/3D) model, calibrated and validated towards\
+    \ a two-year set of soil water content measurements. Significantly lower soil\
+    \ pressure head and higher transpiration occurred in the up- than the down-slope\
+    \ site.&lt;/p&gt;\n\n&lt;p&gt;A viable procedure was developed to separate the\
+    \ effects of soil hydraulic properties and slope gradient by modelling soil water\
+    \ balance and therefore vine transpiration with and without the slope gradient.\
+    \ The simulations indicated that the difference in seasonal relative transpiration\
+    \ of 8% in 2011 and 5% in 2012 between the two sites was due to their differing\
+    \ soil hydraulic properties, and that the slope gradient had no contribution to\
+    \ this variation.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Vineyard
+      - Hydraulic properties
+      - Vine water stress
+      - Hydrus (2D/3D)
+      - Modelling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A modelling approach to discriminate contributions of soil hydrological
+      properties and slope gradient to water stress in Mediterranean vineyards
+    url: http://dx.doi.org/10.1016/j.agwat.2020.106338
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Basile-Angelo:
+    individualname: Basile, Angelo
+    role: creator
+  Albrizio-Rossella:
+    individualname: Albrizio, Rossella
+    role: creator
+  Autovino-Dario:
+    individualname: Autovino, Dario
+    role: creator
+  Bonfante-Antonello:
+    individualname: Bonfante, Antonello
+    role: creator
+  De-Mascellis-Roberto:
+    individualname: De Mascellis, Roberto
+    role: creator
+  Terribile-Fabio:
+    individualname: Terribile, Fabio
+    role: creator
+  Giorio-Pasquale:
+    individualname: Giorio, Pasquale
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

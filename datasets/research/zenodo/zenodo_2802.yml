@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5768852
+  dataseturi: https://doi.org/10.5281/zenodo.5768852
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Spectrophotometric determination of mercury(II) in environmental (water,
+    soil and biological) samples using 3-methylthiophene-2-carbaxaldehyde thiosemicarbazone
+    (3-MTAT)
+  abstract: "Department of Chemistry, Sri Krishnadevaraya University, Anantapur-515\
+    \ 003, Andhra Pradesh, India<br> <em>E-mail</em> : khussainreddy@yahoo.co.in<br>\
+    \ <em>Manuscript received 01 February 2010, revised 10 August 2010, accepted 18\
+    \ August 2010</em> Analytical applications of 3-methyllhiophene-:2-carbaxaldehyde\
+    \ thiosemicarbazone (3-MTAT) are reported for the first time. The reagent has\
+    \ been synthesized and characterized using IR, NMR and Mass spectral data. 3-MTAT\
+    \ have been used for the spectrophotometric determination of mercury(ll). The\
+    \ reagent reacts with mercury(ll) in basic medium (pH 8.0, ammonium chloride and\
+    \ ammonium buffer) to form yellow colored 1: :2 (M : L) complex. The color reaction\
+    \ is instantaneous and absorbance values remain constant for l:Z h. The molar\
+    \ absorptivity and Sandell's sensitivity of 3-MTAT method are found to be 1.87\
+    \ x 10<sup>4</sup> L mol<sup>-1</sup> cm<sup>-1</sup> and 0.0107 \u03BCg cm<sup>-2</sup>\
+    \ of mercury(ll) respectively. The method Is successfully applied to a number\
+    \ of water (potable and polluted), biological and soil samples containing mercury(II).\
+    \ The results of the proposed method in the analysis of samples are comparable\
+    \ with those obtained by dithizone method. The method bas high accuracy and precision\
+    \ (s = 0.0042 for 4 \u03BCg/ml in 3-MTAT method)."
+  keywords:
+    default:
+      keywords:
+        subject: heterocyclic thlosemlcarbazone
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-04-30'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5768852
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5768851
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  D.-Nagarjuna-Reddy:
+    individualname: D. Nagarjuna Reddy
+    role: creator
+    organization: ''
+    url: ''
+  K.-Hussain-Reddy:
+    individualname: K. Hussain Reddy
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1164102
+  dataseturi: https://doi.org/10.5281/zenodo.1164102
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Application Of Organic Matter On Entisol-Soil Affected Soil Moisture Capacity
+    And Growth Of Maize (Zea Mays L.)
+  abstract: The research aimed to know growth of maize and soil moisture retention
+    of the Luro-Entisol by application of organic matter. Field research was carried
+    out in the Odofuro / Luro Timor Leste, analysis of soil samples was done in the
+    Soil Physics Laboratory, Soil Science Department, Faculty of Agriculture, University
+    of Brawijaya, and Malang. Field experiment used the split plot design, consisting
+    of two factors and four replications, resulting in 24 units of experiments. The
+    first factor is organic matter (P) consisting of cow manure (P1) and sheep manure
+    (P2), and the second factor is dosage of manure, including without fertilizer
+    (D0), manure 5 tons ha-1 (D1) and manure of 10 tons ha-1.  Results showed that
+    dosage of manure has significantly effects on plant height, stem diameter, fresh
+    weight and dry weight of stalk, but not significant effected the soil particle
+    density, soil bulk density, total soil porosity and soil moisture.
+  keywords:
+    default:
+      keywords:
+        subject: Maize; Organic Matter; Soil Moisture.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-01-31'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1164102
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1164101
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Domingos-Pereira-Gama:
+    individualname: Domingos Pereira Gama
+    role: creator
+  Budi-Prasetya-2-Soemarno:
+    individualname: Budi Prasetya 2, Soemarno
+    role: creator
+    organization: Soil Sciences Department, Faculty of Agriculture, University of
+      Brawijaya, Malang
+    url: ''
+  Gama-Domingos-Pereira:
+    individualname: Gama, Domingos Pereira
+    role: ''
+    organization: Master of Soil-Water Management, Faculty of Agriculture, University
+      of Brawijaya, Malang
+    url: ''
+content_info: {}

@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7473593
+  dataseturi: https://doi.org/10.5281/zenodo.7473593
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Changes of Electrophoretic Spectra of Antioxidant Enzymes in Wheat Genotypes
+    Subjected to Soil Drought
+  abstract: Experiments with 6 contrasting bread (Triticum aestivum L.) and durum
+    (Triticum durum Desf.) wheat genotypes grown under field conditions have been
+    carried out to study the effect of soil drought on antioxidant enzyme activities.
+    Native polyacrylamide gel electrophoresis (PAGE) revealed the presence of 1 isoform
+    of catalase, 6 isoforms of superoxide dismutase, 7 isoforms of ascorbate peroxidase
+    and 7 isoforms of glutathione reductase in wheat leaves during drought. Mn-, Fe-,
+    Cu/Zn containing isoforms of one of the key antioxidant enzymes - superoxide dismutase-were
+    shown to function in wheat plants. It was concluded that drought caused increases
+    in APO, SOD, CAT and GR activities in wheat leaves compared with their initial
+    levels. Increases in APO and GR activities were more pronounced, indicating an
+    intense work of the ascorbate-glutathione cycle, which breaks down H2O2.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-10-08'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7473593
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7473592
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.M.-Huseynova:
+    individualname: I.M. Huseynova
+    role: creator
+    organization: ''
+    url: ''
+  D.R.-Aliyeva:
+    individualname: D.R. Aliyeva
+    role: creator
+    organization: ''
+    url: ''
+  J.A.-Aliyev:
+    individualname: J.A. Aliyev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

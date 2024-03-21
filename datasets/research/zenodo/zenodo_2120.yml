@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4318732
+  dataseturi: https://doi.org/10.5281/zenodo.4318732
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation of Soil Oxide Mineralogy in Different Bedrock Lithologies in the
+    Southern Guinea Savannah of Nigeria
+  abstract: Agriculture has very important social and economic footprint in Africa.
+    Its soil resource is however threatened by degradation resulting from mismanagement,
+    due to lack of knowledge on important soil functional properties such as mineralogy,
+    which impact many soil processes. This study was therefore conducted to access
+    variations in soil oxide mineralogy in soils formed from differing bedrock lithologies.
+    Soil sampling was carried out on soils from three different bedrock types; basement
+    complex rocks, recent alluvium, and Nupe sandstone in Kwara state, southern Guinea
+    Savannah of Nigeria. Data was subjected to analysis of variance to determine significant
+    differences in treatment means (p80 %). The highest mean percentage of 90.59 was
+    recorded in recent alluvium-derived samples, while the least value of 80.75 %
+    was recorded in basement complex-derived samples. Aluminum and iron oxides were
+    the most saturating metal oxides in all the bedrock types, and significantly higher
+    values of 5.65 % and 2.71 % for Al2O3 and Fe2O3 respectively were recorded in
+    basement complex-derived soils. Dissimilar trends of mineral oxide relationships
+    were observed in soils from the different lithologies, which are likely a result
+    of bedrock characteristic, environmental and hydrologic factors. The relationships
+    established between oxide minerals in this study could serve as a foundation for
+    subsequent investigations into mineral interactions in the soils.
+  keywords:
+    default:
+      keywords:
+        subject: soil management, oxide mineralogy, land, savannah
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-12-12'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4318732
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.4318731
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Isimikalu-Theophilus:
+    individualname: Isimikalu, Theophilus
+    role: creator
+    organization: University of Ilorin, Ilorin, Kwara State, Nigeria
+    url: ''
+  Olaniyan-John:
+    individualname: Olaniyan, John
+    role: creator
+    organization: University of Ilorin, Ilorin, Kwara State, Nigeria
+    url: ''
+  Raji-Bashiru:
+    individualname: Raji, Bashiru
+    role: creator
+    organization: University of Ilorin, Ilorin, Kwara State, Nigeria
+    url: ''
+content_info: {}

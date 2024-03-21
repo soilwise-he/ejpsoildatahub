@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Del_pine_1897
+  dataseturi: https://doi.org/10.1016/s0033-3506(98)80031-0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Note on a method used successfully for the separation of the bacillus typhosus
+    from contaminated soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Note on a method used successfully for the separation of the bacillus typhosus
+      from contaminated soil
+    url: http://dx.doi.org/10.1016/s0033-3506(98)80031-0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Delepine-Sheridan:
+    individualname: "Del\xE9pine, Sheridan"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6326628
+  dataseturi: https://doi.org/10.5281/zenodo.6326628
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Salinity and Some Physiological Indicators of Cotton Varieties
+  abstract: ABSTRACT The article deals with the information about the effect of saline
+    stress factors on some physiological parameters of medium-fiber cotton varieties.
+    According to the results of the study experiments, Bukhara-8 and Bukhara-102 cotton
+    varieties have a high level of resistance to saline stress. The degree of adaptation
+    of cotton in Bukhara-8 and Bukhara-102 varieties to soil salinity and arid unfavorable
+    environmental conditions is higher than in Bukhara-10 and Sultan, Andijan-35 varieties.
+    Variations in the value of physiological parameters studied in the cross-section
+    of varieties were found to depend on their biological and individual characteristics.
+  keywords:
+    default:
+      keywords:
+        subject: Cotton, Saline Stress, Salinity, Cell Sap Density, Daytime Water
+          Deficiency, Respiratory Rate, Adaptation.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-03-04'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6326628
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6326627
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Boltayeva-Zarina-Azamatovna:
+    individualname: Boltayeva Zarina Azamatovna
+    role: creator
+    organization: Doctoral candidate, Bukhara State University, Bukhara, UZBEKISTAN
+    url: ''
+  Kholliyev-Askar-Ergashovich:
+    individualname: Kholliyev Askar Ergashovich
+    role: creator
+    organization: DSc (Biology), Bukhara State University, Bukhara, UZBEKISTAN
+    url: ''
+content_info: {}

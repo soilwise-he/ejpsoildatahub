@@ -1,0 +1,121 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Faddeeva_Vakhrusheva_2017
+  dataseturi: https://doi.org/10.1186/s12864-017-3852-x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Coping with living in the soil: the genome of the parthenogenetic springtail
+    Folsomia candida'
+  abstract: '&lt;p&gt;&lt;strong&gt;Background: &lt;/strong&gt; &lt;i&gt;Folsomia
+    candida&lt;/i&gt; is a model in soil biology, belonging to the family of Isotomidae,
+    subclass Collembola. It reproduces parthenogenetically in the presence of &lt;i&gt;Wolbachia&lt;/i&gt;,
+    and exhibits remarkable physiological adaptations to stress. To better understand
+    these features and adaptations to life in the soil, we studied its genome in the
+    context of its parthenogenetic lifestyle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Results:
+    &lt;/strong&gt;We applied Pacific Bioscience sequencing and assembly to generate
+    a reference genome for &lt;i&gt;F. candida&lt;/i&gt; of 221.7 Mbp, comprising
+    only 162 scaffolds. The complete genome of its endosymbiont &lt;i&gt;Wolbachia&lt;/i&gt;,
+    was also assembled and turned out to be the largest strain identified so far.
+    Substantial gene family expansions and lineage-specific gene clusters were linked
+    to stress response. A large number of genes (809) were acquired by horizontal
+    gene transfer. A substantial fraction of these genes are involved in lignocellulose
+    degradation. Also, the presence of genes involved in antibiotic biosynthesis was
+    confirmed. Intra-genomic rearrangements of collinear gene clusters were observed,
+    of which 11 were organized as palindromes. The &lt;i&gt;Hox&lt;/i&gt; gene cluster
+    of &lt;i&gt;F. candida&lt;/i&gt; showed major rearrangements compared to arthropod
+    consensus cluster, resulting in a disorganized cluster.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Conclusions:
+    &lt;/strong&gt;The expansion of stress response gene families suggests that stress
+    defense was important to facilitate colonization of soils. The large number of
+    HGT genes related to lignocellulose degradation could be beneficial to unlock
+    carbohydrate sources in soil, especially those contained in decaying plant and
+    fungal organic matter. Intra- as well as inter-scaffold duplications of gene clusters
+    may be a consequence of its parthenogenetic lifestyle. This high quality genome
+    will be instrumental for evolutionary biologists investigating deep phylogenetic
+    lineages among arthropods and will provide the basis for a more mechanistic understanding
+    in soil ecology and ecotoxicology.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Collembola
+      - Intragenomic rearrangement
+      - Gene family expansions
+      - Hox genes
+      - Horizontal gene transfer
+      - Genome collinearity
+      - Carbohydrate metabolism
+      - Palindrome
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Coping with living in the soil: the genome of the parthenogenetic springtail
+      Folsomia candida'
+    url: http://dx.doi.org/10.1186/s12864-017-3852-x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Faddeeva-Vakhrusheva-Anna:
+    individualname: Faddeeva-Vakhrusheva, Anna
+    role: creator
+  Kraaijeveld-Ken:
+    individualname: Kraaijeveld, Ken
+    role: creator
+  Derks-Martijn-F.-L.:
+    individualname: Derks, Martijn F. L.
+    role: creator
+  Anvar-Seyed-Yahya:
+    individualname: Anvar, Seyed Yahya
+    role: creator
+  Agamennone-Valeria:
+    individualname: Agamennone, Valeria
+    role: creator
+  Suring-Wouter:
+    individualname: Suring, Wouter
+    role: creator
+  Kampfraath-Andries-A.:
+    individualname: Kampfraath, Andries A.
+    role: creator
+  Ellers-Jacintha:
+    individualname: Ellers, Jacintha
+    role: creator
+  Le-Ngoc-Giang:
+    individualname: Le Ngoc, Giang
+    role: creator
+  van-Gestel-Cornelis-A.-M.:
+    individualname: van Gestel, Cornelis A. M.
+    role: creator
+  Marien-Janine:
+    individualname: "Mari\xEBn, Janine"
+    role: creator
+  Smit-Sandra:
+    individualname: Smit, Sandra
+    role: creator
+  van-Straalen-Nico-M.:
+    individualname: van Straalen, Nico M.
+    role: creator
+  Roelofs-Dick:
+    individualname: Roelofs, Dick
+    role: creator
+  MariA<<n-Janine:
+    individualname: "Mari\xC3\xABn, Janine"
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

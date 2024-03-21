@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.213623
+  dataseturi: https://doi.org/10.5281/zenodo.213623
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: "Nutrient use efficiency on hump &amp; hollow systems on the South Island's\
+    \ West Coast \u2013 Guidelines for improved fertiliser use and soil nutrient management"
+  abstract: "This guide is designed to provide for information to help in management\
+    \ of fertiliser applications on hump and hollow systems on the West Coast of New\
+    \ Zealand. The guide is divided into two sections. Section 1 describes how soil,\
+    \ nutrient requirements and dry matter responses change as humps and hollows develop\
+    \ over time, and provides guidance to manage fertiliser requirements. Section\
+    \ 2 is designed to provide practical guidance on how to apply fertiliser in humps\
+    \ and hollows. The guide is based on measurements of fertiliser distribution patterns\
+    \ for two types of commonly used spreaders, Coombridge &amp; Alexander SAM and\
+    \ Robertson\xAE Transpread, two contrasting but important fertiliser products\
+    \ (urea and superphosphate), and three different widths of humps and hollows."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-11-28'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.213623
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thomas-S:
+    individualname: Thomas, S
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+  Horrocks-A:
+    individualname: Horrocks, A
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+  Tregurtha-C:
+    individualname: Tregurtha, C
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+  Horrell-R:
+    individualname: Horrell, R
+    role: creator
+    organization: AgCal NZ Limited
+    url: ''
+  Gillespie-R:
+    individualname: Gillespie, R
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+  Meenken-E:
+    individualname: Meenken, E
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+  Gosden-P:
+    individualname: Gosden, P
+    role: creator
+    organization: The New Zealand Institute for Plant and Food Research Limited
+    url: ''
+content_info: {}

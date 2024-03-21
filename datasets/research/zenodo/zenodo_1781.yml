@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8428781
+  dataseturi: https://doi.org/10.5281/zenodo.8428781
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: INVESTIGATION OF DYNAMIC BEHAVIOUR OF SOIL DAMS TAKING INTO ACCOUNT INELASTIC
+    PROPERTIES OF SOILS
+  abstract: One of the actual problems in the science of mechanics is the estimation
+    of the stress-strain state and dynamic behaviour of various structures with complex
+    geometry and heterogeneous structural features. This, in turn, requires the development
+    and use of mathematical models and computational methods to estimate the dynamic
+    state and strength parameters of structures, taking into account their structural
+    features and real material properties.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-10'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8428781
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8428780
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Z.-Kholboev-D.Jurayev-P.Matkarimov:
+    individualname: Z. Kholboev D.Jurayev P.Matkarimov
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

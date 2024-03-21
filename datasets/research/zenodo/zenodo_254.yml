@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Winter_1920
+  dataseturi: https://doi.org/10.1126/science.51.1305.18
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A Preliminary Note on Soil Acidity
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A Preliminary Note on Soil Acidity
+    url: http://dx.doi.org/10.1126/science.51.1305.18
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Winter-O.-B.:
+    individualname: Winter, O. B.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

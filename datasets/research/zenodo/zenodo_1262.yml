@@ -1,0 +1,53 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7876515
+  dataseturi: https://doi.org/10.5281/zenodo.7876515
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: FORMATION OF INDEPENDENT OBSERVATIONS OF SOIL SCIENCE TEACHING IN AGRICULTURAL
+    TECHNICAL SCHOOLS
+  abstract: <em>In the article, analyses are presented on how to conduct independent
+    work of soil scientists at a correct and high-quality level in the training of
+    highly qualified soil scientists in technical schools, and recommendations based
+    on the instructions for independent observation work are given.<strong> </strong></em>
+  keywords:
+    default:
+      keywords:
+        subject: independent observation, soil section, genetic layers, experiment,
+          humus, accumulator, reconnaissance
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-28'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7876515
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7876514
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  U.B.-Mirzaev:
+    individualname: U.B. Mirzaev
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: CZARNY_2017
+  dataseturi: https://doi.org/10.5604/01.3001.0010.4865
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Metagenomic Analysis of Soil Bacterial Community and Level of Genes Responsible
+    for Biodegradation of Aromatic Hydrocarbons
+  abstract: '&lt;p&gt;The aim of the studies was to compare the composition of soil
+    bacterial metabiomes originating from urbanized areas and areas con&shy;taminated
+    with hydrocarbons with those from agricultural soil and forest soil obtained from
+    a protected wild-life park area. It should be noted that hydrocarbons are everywhere
+    therefore bacteria capable of their utilization are present in every soil type.
+    In the hydrocarbon-contaminated soil and in the soil of anthropogenic origin,
+    the bacteria belonging to Gammaproteobacteria were dominant (28.4&ndash;36.6%),
+    whereas in the case of agricultural soil and protected wild-life park soil their
+    ratios decreased (22.8&ndash;23.0%) and were similar to that of Alphaproteobacteria.
+    No statistically significant changes were observed in terms of the Operational
+    Taxonomic Unit identified in the studies soils, however, based on the determined
+    alpha-diversity it can be established that contaminated soils were characterized
+    by lower biodiversity indices compared to agricultural and forest soils. Furthermore,
+    the dioxygenase level was also evaluated in the studied soils, which are genes
+    encoding crucial enzymes for the decomposition of mono- and polycyclic aromatic
+    hydrocarbons during the biodegradation of diesel oil (PAHRHD&alpha;GN, PAHRHD&alpha;GP,
+    xylE, Cat 2,3, ndoB). It was concluded that both the population structure of the
+    soil metabiome and the number of genes crucial for biodegradation processes differed
+    significantly between the soils. The level of analysed genes showed a similar
+    trend, as their highest number in relations to genes encoding 16S RNA was determined
+    in urban and hydrocarbon-contaminated soil.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - aromatic hydrocarbons biodegradation
+      - presence of genes responsible for degradation
+      - soil bacterial community
+      - soil metabiome
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Metagenomic Analysis of Soil Bacterial Community and Level of Genes Responsible
+      for Biodegradation of Aromatic Hydrocarbons
+    url: http://dx.doi.org/10.5604/01.3001.0010.4865
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  CZARNY-JAKUB:
+    individualname: CZARNY, JAKUB
+    role: creator
+  STANINSKA-PIETA-JUSTYNA:
+    individualname: "STANINSKA-PI\u0118TA, JUSTYNA"
+    role: creator
+  POWIERSKA-CZARNY-JOLANTA:
+    individualname: POWIERSKA-CZARNY, JOLANTA
+    role: creator
+  NOWAK-JACEK:
+    individualname: NOWAK, JACEK
+    role: creator
+  WOLKO-LUKASZ:
+    individualname: "WOLKO, \u0141UKASZ"
+    role: creator
+  PIOTROWSKA-CYPLIK-AGNIESZKA:
+    individualname: PIOTROWSKA-CYPLIK, AGNIESZKA
+    role: creator
+  Polish-Society-of-Microbiologists:
+    individualname: Polish Society of Microbiologists
+    role: creator
+content_info: {}

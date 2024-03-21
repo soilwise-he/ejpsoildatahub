@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6418147
+  dataseturi: https://doi.org/10.5281/zenodo.6418147
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mobilization of Phosphate in Relation to Ferrous-Ferric Equilibrium in Soil
+  abstract: Department of Agricultural Chemistry &amp; Soil Science, Bidhan Chandra
+    Krishi Views. Vidyalaya, Kalyani, West Bengal <em>Manuscript received 21 October
+    1976, accepted 7 February 1977</em> The mobilization of native and applied phosphate
+    in relation to ferrous-ferric equilibrium in son has been studied. Native phosphate
+    has no significant and immediate role on the conversion of ferrous Iron to ferric
+    state. But the increase in phosphate activity enhances the degree and rate of
+    oxidation of ferrous ions and as a result most of the applied phosphate are transported
+    to the non-labile pool. The fixation of applied phosphate particularly in acid
+    sons is very little effected by the exchangeable ferric iron. Possibly it is the
+    free ferric oxide which is active in retention of phosphate.
+  keywords:
+    default:
+      keywords:
+        subject: Phosphate fixation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1977-08-31'
+    publication: '1977'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6418147
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6418146
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-K.-BANERJEE:
+    individualname: S. K. BANERJEE
+    role: creator
+    organization: ''
+    url: ''
+  N.-MUKHOPADHYAY:
+    individualname: N. MUKHOPADHYAY
+    role: creator
+    organization: ''
+    url: ''
+  B.-DAS:
+    individualname: B. DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

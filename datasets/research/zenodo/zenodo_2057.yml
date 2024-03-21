@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mokhberi_2017
+  dataseturi: https://doi.org/10.15412/J.JCEMA.12010203
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Use of Stone Columns to Reduce the Settlement of Swelling Soil Using
+    Numerical Modeling
+  abstract:
+  - '&lt;p&gt;The existing soils in the nature that is used for construction cannot
+    necessarily bear the loadings on the structure. For example, in granular soils,
+    the natural soil may be very loose and show a lot of elastic settlement. Sometimes,
+    there are soft layers, saturated clay and swelling soils at the lower depths,
+    which may cause significant settlement in the structure in terms of foundation
+    load and clay layer thickness. To avoid such settlements, it is necessary to use
+    certain techniques to improve the soil condition. One of the methods that have
+    recently been widely used to reduce the settlement of soft soils and swelling
+    soils is stone columns or single piles. In this research, first of all, the parameters
+    in need for the analysis will be gained by using the experimental data, and then,
+    the static and dynamic behavior of the confined stone columns is examined with
+    geotextile and without geotextile by a group and single manner as in two-dimensional
+    form using Plaxis numerical method of the finite element and the impact of the
+    following parameters will be investigated in both static and dynamic modes: Column
+    length, column diameter, single and group behavior of columns, and soil cohesion
+    effect on the behavior of the confined stone column in geotextile and reduction
+    of soil settlement during use of stone columns. The results of this research indicate
+    correct understanding of the use of geotextile (Woven Geotextile with a specific
+    elastic normal strength) to prevent the camber and the settlement of the column
+    and increase of the strength and bearing capacity of the column.&lt;/p&gt;'
+  - Journal of Civil Engineering and Materials Application
+  keywords:
+    default:
+      keywords:
+      - Stone Column
+      - Geotextile Static
+      - dynamic analysis
+      - Single and group behavior
+      - Settlement
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Use of Stone Columns to Reduce the Settlement of Swelling Soil Using
+      Numerical Modeling
+    url: http://dx.doi.org/10.15412/J.JCEMA.12010203
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mehdi-Mokhberi:
+    individualname: Mehdi Mokhberi
+    role: creator
+  Hossein-Khademi:
+    individualname: Hossein Khademi
+    role: creator
+  Mokhberi-M.:
+    individualname: Mokhberi, M.
+    role: creator
+  Khademi-H.:
+    individualname: Khademi, H.
+    role: creator
+  OMICS-Publishing-Group:
+    individualname: OMICS Publishing Group
+    role: creator
+content_info: {}

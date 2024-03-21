@@ -1,0 +1,129 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8086073
+  dataseturi: https://doi.org/10.5281/zenodo.8086073
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Use of an Automatized System to Avoid the Deterioration of Soil in the Cultivation
+    of Asparagus in the Mexicali Valley of the Baja California, Mexico
+  abstract: An investigation was made to analyze an automatized system (AS) as electronic
+    device to supports that soil utilized to the asparagus cultivation process, in
+    an agricultural industry located in the Mexicali Valley, where is located in the
+    northwest of the Mexican Republic. This automatized system avoids the occurrence
+    of the deterioration of the soil for the presence of pH water low (acidic action),
+    and the constantly se of the pesticides to avoid presence of pests. This automatic
+    device as electronic component, have a specialized sensor, to detect when not
+    exits moisture in the soil, and with this activate a relay as electro valve and
+    connected to a water pump, to supply water to soil, and with this maintain the
+    adequate moisture, and avoid the deterioration. A microanalysis using the Scanning
+    Electron Microscopy (SEM), of the soil deterioration process was made to detect
+    when was begin this phenomena process, and invert this process to avoid the deterioration
+    action in soil. This was relevant because with the use of the AS, was increased
+    the productivity and quality of the asparagus in this agricultural industry evaluated.
+    Also, was applied a mathematical algorithm to determine the optimal steps in the
+    agricultural process from harvest action, inspection of asparagus, package activity
+    and distribution of this important vegetable. This scientific study was made in
+    2022.
+  keywords:
+    default:
+      keywords:
+        subject: Agricultural industry, automatized systema, productivity-quality
+          indices.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8086073
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8086072
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Estefany-Marli-Guzman-Ramirez:
+    individualname: "Estefany Marli Guzm\xE1n Ramirez"
+    role: creator
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Juan-Gabriel-Lopez-Hernandez:
+    individualname: "Juan Gabriel L\xF3pez Hernandez"
+    role: creator
+  Abigail-Guerrero-Guzman:
+    individualname: Abigail Guerrero Guzman
+    role: creator
+  Jesus-Andres-Garcia-Ayala:
+    individualname: "Jes\xFAs Andr\xE9s Garcia Ayala"
+    role: creator
+  Leonardo-Avila-Vargas:
+    individualname: "Leonardo \xC1vila Vargas"
+    role: creator
+  Eden-Antonio-Arce-Patron:
+    individualname: "Ed\xE9n Antonio Arce Patron"
+    role: creator
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Silvia-Estela-Vargas-Rios:
+    individualname: "Silvia Estela Vargas R\xEDos"
+    role: creator
+  Pedro-Alberto-Escarcega-Zepeda:
+    individualname: "Pedro Alberto Esc\xE1rcega Zepeda"
+    role: creator
+  Hernandez-Juan-Gabriel-Lopez:
+    individualname: "Hernandez, Juan Gabriel L\xF3pez"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Guzman-Abigail-Guerrero:
+    individualname: Guzman, Abigail Guerrero
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Ayala-Jesus-Andres-Garcia:
+    individualname: "Ayala, Jes\xFAs Andr\xE9s Garcia"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Vargas-Leonardo-Avila:
+    individualname: "Vargas, Leonardo \xC1vila"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Rios-Silvia-Estela-Vargas:
+    individualname: "R\xEDos, Silvia Estela Vargas"
+    role: ''
+    organization: "Departamento de Ciencias B\xE1sicas, Centro de Bachillerato Tecnol\xF3\
+      gico Agropecuario # 146, San Quint\xEDn, Baja California, M\xE9xico."
+    url: ''
+  Zepeda-Pedro-Alberto-Escarcega:
+    individualname: "Zepeda, Pedro Alberto Esc\xE1rcega"
+    role: ''
+    organization: "Departamento de Ingenier\xEDa Industrial-Mec\xE1nica, Tecnol\xF3\
+      gico Nacional de M\xE9xico, Instituto Tecnol\xF3gico de Mexicali, Mexicali,\
+      \ Baja California, M\xE9xico."
+    url: ''
+content_info: {}

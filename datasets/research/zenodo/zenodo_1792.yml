@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6395592
+  dataseturi: https://doi.org/10.5281/zenodo.6395592
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Quantitative Changes in Available Iron and Manganese as Influenced by Moisture
+    Regimes of Soil
+  abstract: Faculty of Agriculture, Bidhan Chandra Krishi Viswa Vidyalaya, Kalyani,
+    West Bengal. <em>Manuscript received 23 February 1976 ; accepted 30 March 1976</em>
+    The changes in the available forms of iron and manganese on moistening and drying
+    the soils were studied both under normal and sterile conditions. Under normal
+    condition moistening the soil reduced and drying increased the available and easily
+    reducible manganese, and these were attributed to biological oxidation and chemical
+    reduction respectively. Quantity of ferrous iron increased on wet incubation and
+    decreased on redrying the samples under normal condition, whereas the opposite
+    picture was noted in soils sterilized with sodium azide solution.
+  keywords:
+    default:
+      keywords:
+        subject: iron
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1976-06-30'
+    publication: '1976'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6395592
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6395591
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.-C.-DEBNATH:
+    individualname: N. C. DEBNATH
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-BANERJEE:
+    individualname: S. K. BANERJEE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

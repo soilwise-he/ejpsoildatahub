@@ -1,0 +1,145 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5117956
+  dataseturi: https://doi.org/10.5281/zenodo.5117956
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Ecological memory of recurrent drought modifies soil processes via changes
+    in soil microbial community
+  abstract: Climate change is altering the frequency and severity of drought events.
+    Recent evidence indicates that drought may produce legacy effects on soil microbial
+    communities. However, it is unclear whether precedent drought events lead to ecological
+    memory formation, i.e., the capacity of past events to influence current ecosystem
+    response trajectories. Here, we utilize a long-term field experiment in a mountain
+    grassland in central Austria with an experimental layout comparing 10 years of
+    recurrent drought events to a single drought event and ambient conditions in a
+    grassland soil. We show that recurrent droughts increase the dissimilarity of
+    microbial communities compared to control and single drought events, and enhance
+    soil multifunctionality during drought (calculated via measurements of potential
+    enzymatic activities, soil nutrient, microbial biomass stoichiometry and belowground
+    net primary productivity). Our results indicate that soil microbial community
+    composition changes in concert with its functioning, with consequences for soil
+    processes. The formation of ecological memory in soil under recurrent drought
+    may enhance the resilience of ecosystem functioning against future drought events.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-07-20'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5117956
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5117955
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alberto-Canarini:
+    individualname: Alberto Canarini
+    role: creator
+  Hannes-Schmidt:
+    individualname: Hannes Schmidt
+    role: creator
+  Lucia-Fuchslueger:
+    individualname: Lucia Fuchslueger
+    role: creator
+  Victoria-Martin:
+    individualname: Victoria Martin
+    role: creator
+  Craig-Herbold:
+    individualname: Craig Herbold
+    role: creator
+  David-Zezula:
+    individualname: David Zezula
+    role: creator
+  Philipp-Gundler:
+    individualname: "Philipp G\xFCndler"
+    role: creator
+  Roland-Hasibeder:
+    individualname: Roland Hasibeder
+    role: creator
+  Marina-Jecmenica:
+    individualname: Marina Jecmenica
+    role: creator
+  Michael-Bahn:
+    individualname: Michael Bahn
+    role: creator
+  Andreas-Richter:
+    individualname: Andreas Richter
+    role: creator
+  Canarini-Alberto:
+    individualname: Canarini, Alberto
+    role: ''
+    organization: University of Vienna
+    url: https://orcid.org/0000-0003-2516-5955
+  Schmidt-Hannes:
+    individualname: Schmidt, Hannes
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Fuchslueger-Lucia:
+    individualname: Fuchslueger, Lucia
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Martin-Victoria:
+    individualname: Martin, Victoria
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Herbold-Craig:
+    individualname: Herbold, Craig
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Zezula-David:
+    individualname: Zezula, David
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Gundler-Philipp:
+    individualname: "G\xFCndler, Philipp"
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Hasibeder-Roland:
+    individualname: Hasibeder, Roland
+    role: ''
+    organization: University of Innsbruck
+    url: ''
+  Jecmenica-Marina:
+    individualname: Jecmenica, Marina
+    role: ''
+    organization: University of Vienna
+    url: ''
+  Bahn-Michael:
+    individualname: Bahn, Michael
+    role: ''
+    organization: University of Innsbruck
+    url: ''
+  Richter-Andreas:
+    individualname: Richter, Andreas
+    role: ''
+    organization: University of Vienna
+    url: https://orcid.org/0000-0003-3282-4808
+content_info: {}

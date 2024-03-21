@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1093866
+  dataseturi: https://doi.org/10.5281/zenodo.1093866
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Phytoadaptation In Desert Soil Prediction Using Fuzzy Logic Modeling
+  abstract: In terms of ecology forecast effects of desertification, the purpose of
+    this study is to develop a predictive model of growth and adaptation of species
+    in arid environment and bioclimatic conditions. The impact of climate change and
+    the desertification phenomena is the result of combined effects in magnitude and
+    frequency of these phenomena. Like the data involved in the phytopathogenic process
+    and bacteria growth in arid soil occur in an uncertain environment because of
+    their complexity, it becomes necessary to have a suitable methodology for the
+    analysis of these variables. The basic principles of fuzzy logic those are perfectly
+    suited to this process. As input variables, we consider the physical parameters,
+    soil type, bacteria nature, and plant species concerned. The result output variable
+    is the adaptability of the species expressed by the growth rate or extinction.
+    As a conclusion, we prevent the possible strategies for adaptation, with or without
+    shifting areas of plantation and nature adequate vegetation.
+  keywords:
+    default:
+      keywords:
+        subject: Fuzzy logic.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-07-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1093866
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1093865
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S.-Bouharati:
+    individualname: S. Bouharati
+    role: creator
+    organization: ''
+    url: ''
+  F.-Allag:
+    individualname: F. Allag
+    role: creator
+    organization: ''
+    url: ''
+  M.-Belmahdi:
+    individualname: M. Belmahdi
+    role: creator
+    organization: ''
+    url: ''
+  M.-Bounechada:
+    individualname: M. Bounechada
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1087009
+  dataseturi: https://doi.org/10.5281/zenodo.1087009
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Effects Of Four Organic Cropping Sequences On Soil Phosphorous Cycling
+    And Arbuscular Mycorrhizal Fungi
+  abstract: 'Organic farmers across Saskatchewan face soil<br>
+
+    phosphorus (P) shortages. Due to the restriction on inputs in organic<br>
+
+    systems, farmers rely on crop rotation and naturally-occurring<br>
+
+    arbuscular mycorrhizal fungi (AMF) for plant P supply. Crop rotation<br>
+
+    is important for disease, pest, and weed management. Crops that are<br>
+
+    not colonized by AMF (non-mycorrhizal) can decrease colonization<br>
+
+    of a following crop. An experiment was performed to quantify soil P<br>
+
+    cycling in four cropping sequences under organic management and<br>
+
+    determine if mustard (non-mycorrhizal) was delaying the<br>
+
+    colonization of subsequent wheat. Soils from the four cropping<br>
+
+    sequences were measured for inorganic soil P (Pi), AMF spore<br>
+
+    density (SD), phospholipid fatty acid analysis (PLFA, for AMF<br>
+
+    biomarker counts), and alkaline phosphatase activity (ALPase,<br>
+
+    related to AMF metabolic activity). Plants were measured for AMF<br>
+
+    colonization and P content and uptake of above-ground biomass. A<br>
+
+    lack of difference in AMF activity indicated that mustard was not<br>
+
+    depressing colonization. Instead, AMF colonization was largely<br>
+
+    determined by crop type and crop rotation.'
+  keywords:
+    default:
+      keywords:
+        subject: soil microbiology.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-07-24'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1087009
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1087008
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-J.-Parham:
+    individualname: R. J. Parham
+    role: creator
+    organization: ''
+    url: ''
+  J.-D.-Knight:
+    individualname: J. D. Knight
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

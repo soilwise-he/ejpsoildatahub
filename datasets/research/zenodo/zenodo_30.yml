@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hershey_1896
+  dataseturi: https://doi.org/10.1126/science.4.87.261
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: An Ozark Soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: An Ozark Soil
+    url: http://dx.doi.org/10.1126/science.4.87.261
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hershey-O.-H.:
+    individualname: Hershey, O. H.
+    role: creator
+  Hershey-Oscar-H.:
+    individualname: Hershey, Oscar H.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

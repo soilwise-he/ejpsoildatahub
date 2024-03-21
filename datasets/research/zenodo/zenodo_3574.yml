@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3365582
+  dataseturi: https://doi.org/10.5281/zenodo.3365582
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of Land Cover Type, Slope, and Soil Density of Surface Runoff
+  abstract: <pre><em>One of the factors that caused flooding in Indonesia and in the
+    world is the amount of surface runoff. And in this study, it will examine surface
+    runoff with variations in land cover type, slope of land, and soil density using
+    laboratory methods. Based on the results of the study, it can be seen that the
+    effect of land cover variation on surface runoff is 75%. The variation of land
+    slope has an effect on surface runoff with R2 maximum of 0.9643 or 96.43% and
+    R2 minimum of 0.25 or 25%. Then, it was found that the cover of mini elephant
+    grass land in each experiment had low</em><em>er</em><em> discharge compared to
+    the cover of Japanese grass land and soil in seconds to 360. This indicates that
+    the cover of mini elephant grass land can minimize surface runoff and can be used
+    as a reference for grass use in a region.</em></pre>
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-08-11'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3365582
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3365581
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ratu-Husniah:
+    individualname: Ratu Husniah
+    role: creator
+    organization: ''
+    url: ''
+  Nadjadji-Anwar:
+    individualname: Nadjadji Anwar
+    role: creator
+    organization: ''
+    url: ''
+  Mahendra-Andiek-Maulana:
+    individualname: Mahendra Andiek Maulana
+    role: creator
+  Maulana-Mahendra-Andiek:
+    individualname: Maulana, Mahendra Andiek
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

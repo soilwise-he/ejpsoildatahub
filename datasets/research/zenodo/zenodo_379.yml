@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7976346
+  dataseturi: https://doi.org/10.5281/zenodo.7976346
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Moisture Conservation in Dry Land Agriculture
+  abstract: "In the current agricultural environment, the emphasis is on maximizing\
+    \ the water productivity within the land use in order to feed the growing population\
+    \ soil moisture conservation is a key component of raising water productivity.\
+    \ the preservation of soil moisture particularly in rainfed and dry land agriculture\
+    \ is a crucial component to prevent moisture deficiency in soil. Although the\
+    \ rainfall in arid and semi-arid areas is sufficient for crop growth, dry spells\
+    \ with unusual rainfall distribution during the crop\u2019s critical growth stages\
+    \ can reduce the yield by 50% to 60%. Therefore, some efficient soil moisture\
+    \ conservation techniques like mulching, deep tillage, compartmental bunding,\
+    \ and basin listing are to be adopted for successful crop production in order\
+    \ to prevent yield loss and maintain crop stands with the maximum yield. These\
+    \ methods for conserving soil moisture can also enhance soil qualities and lessen\
+    \ soil erosion and degradation."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-05-27'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7976346
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7976345
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sweta-singh:
+    individualname: Sweta singh
+    role: creator
+  Taj-Tawar:
+    individualname: Taj Tawar
+    role: creator
+    organization: ''
+    url: ''
+  Sonu:
+    individualname: Sonu
+    role: creator
+    organization: ''
+    url: ''
+  Saksham:
+    individualname: Saksham
+    role: creator
+    organization: ''
+    url: ''
+  Sadik:
+    individualname: Sadik
+    role: creator
+  Meenakshi:
+    individualname: Meenakshi
+    role: creator
+  Singh-Sweta:
+    individualname: Singh, Sweta
+    role: ''
+    organization: ''
+    url: ''
+  -Sadik:
+    individualname: ', Sadik'
+    role: ''
+    organization: ''
+    url: ''
+  -Meenakshi:
+    individualname: ', Meenakshi'
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

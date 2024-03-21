@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mayor_2012
+  dataseturi: https://doi.org/10.1016/j.ecolind.2012.03.003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Multi-scale evaluation of soil functional indicators for the assessment of
+    water and soil retention in Mediterranean semiarid landscapes
+  abstract: 'Ecosystem monitoring and assessment are often based on functional indicators,
+    which provide integrated and yet simple and affordable measures of key ecosystem
+    functions. The landscape function analysis (LFA) assesses ecosystem functioning
+    through three indices that represent basic soil functions: surface stability,
+    infiltration, and nutrient cycling. Given the high scale-dependency of hydrological
+    and erosion processes in semiarid ecosystems, the validation of the stability
+    and infiltration indices requires a multi-scale approach, which has not been applied
+    by previous works. Using records from a four-year monitoring of a semiarid landscape
+    in SE Spain, we evaluated the LFA infiltration and stability indices against quantitative
+    measurements of water and sediment flows at multiple scales. At the finest scale,
+    the indices correctly reflected the higher infiltration and lower sediment production
+    of plant patches as compared with bare-soil interpatches. The infiltration index
+    also captured the spatial variation in the infiltration capacity of bare-soil
+    interpatches. At the hillslope scale, total runoff was inversely related to the
+    average infiltration index for bare-soil interpatches, but it was not related
+    to the global infiltration index, which combines the values from both bare-soil
+    interpatches and plant patches. These results suggest that the hydrological response
+    of semiarid hillslopes depends mainly on the variation in the functioning of bare-soil
+    interpatches. Total sediment yield from the hillslope plots was not related to
+    the stability index. At the catchment scale, both the bare-soil interpatch and
+    the global infiltration indices correctly captured the variability in total runoff
+    produced by three micro-catchments of comparable size. The bare-soil infiltration
+    index predicted bare-soil infiltration rate and hillslope runoff better than common
+    simple indicators of soil functioning such as soil organic carbon, stone cover,
+    crusted bare-soil cover, bulk-density and plant cover, and exhibited a similarly
+    high indicatory potential that a variety of plant spatial-pattern indicators.
+    In contrast to the multi-scale validation of the infiltration index, the indicatory
+    potential of the stability index was only proved for the most contrasting soil
+    conditions in the study site, pointing to a lower sensitivity of this latter index.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Multi-scale evaluation of soil functional indicators for the assessment
+      of water and soil retention in Mediterranean semiarid landscapes
+    url: http://dx.doi.org/10.1016/j.ecolind.2012.03.003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-G.-Mayor:
+    individualname: A. G., Mayor
+    role: creator
+  Mayor-Angeles-G.:
+    individualname: "Mayor, \xC1ngeles G."
+    role: creator
+  Bautista-Susana:
+    individualname: Bautista, Susana
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

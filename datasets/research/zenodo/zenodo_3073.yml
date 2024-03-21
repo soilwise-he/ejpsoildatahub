@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: KOPELOFF_1917
+  dataseturi: https://doi.org/10.1097/00010694-191707000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE INFLUENCE OF FINENESS OF DIVISION OF PULVERIZED LIMESTONE ON CROP YIELD
+    AS WELL AS THE CHEMICAL AND BACTERIOLOGICAL FACTORS IN SOIL FERTILITY
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE INFLUENCE OF FINENESS OF DIVISION OF PULVERIZED LIMESTONE ON CROP YIELD
+      AS WELL AS THE CHEMICAL AND BACTERIOLOGICAL FACTORS IN SOIL FERTILITY
+    url: http://dx.doi.org/10.1097/00010694-191707000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kopeloff-Nicholas:
+    individualname: Kopeloff, Nicholas
+    role: creator
+  KOPELOFF-NICHOLAS:
+    individualname: KOPELOFF, NICHOLAS
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

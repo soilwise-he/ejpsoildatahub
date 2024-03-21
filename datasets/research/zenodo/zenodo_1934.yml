@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8045906
+  dataseturi: https://doi.org/10.5281/zenodo.8045906
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE RESULTS OF THE STUDY OF PHYSICAL, MECHANICAL AND TECHNOLOGICAL PROPERTIES
+    IN BASIC SOIL CULTIVATION
+  abstract: Qualitative softening of compacted soil and weed control is the main purpose
+    of tillage. Soil softening improves the physical and mechanical properties of
+    the soil, the water, air, heat and nutrient regimes, also improves the activity
+    of various beneficial micro-organisms, accelerates the breakdown of organic matter,
+    nutrients in the form are easily absorbed by plants and are formed in the soil.
+    In the following years, the focus of agricultural specialists and farmers has
+    been on the rational and efficient use of land resources and the production of
+    quality crops. This requires important measures, such as improving the reclamation
+    of irrigated land, reducing soil salinity and preventing erosion.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-16'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8045906
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8045905
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Khasanov.U.I.-Jurayev-A.A.-Mamedov.A.N.:
+    individualname: Khasanov.U.I., Jurayev A.A., Mamedov.A.N.
+    role: creator
+  Khasanov.U.I.-Jurayev-A.A.:
+    individualname: Khasanov.U.I., Jurayev A.A.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

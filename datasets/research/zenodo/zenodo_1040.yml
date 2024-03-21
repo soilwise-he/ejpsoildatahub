@@ -1,0 +1,139 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8089772
+  dataseturi: https://doi.org/10.5281/zenodo.8089772
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Pedoclimatic zone-based three-dimensional soil organic carbon mapping in
+    China
+  abstract: "Up-to-date maps of soil organic carbon (SOC) concentrations can provide\
+    \ vital information for monitoring global or regional soil C changes and soil\
+    \ quality. In this study, a national soil dataset collected in the 2010 s was\
+    \ applied to produce SOC maps of mainland China at soil depths of 0\u20135 cm,\
+    \ 5\u201315 cm, 15\u201330 cm, 30\u201360 cm, 60\u2013100 cm and 100\u2013200\
+    \ cm. A stacking ensemble learning framework was utilized to take advantage of\
+    \ the optimal predictions from individual models. A voting-based ensemble learning\
+    \ model (VELM) was proposed with consideration of pedoclimatic zones. In this\
+    \ model, three machine learning models were separately trained for every pedoclimatic\
+    \ zone, and their predictions were selectively merged together. A weighted ensemble\
+    \ learning model (WELM), in which the parameterization considered all zones (i.e.,\
+    \ the whole study area) simultaneously, was also trained for comparison. The overall\
+    \ R2 values of these two methods ranged from 0.16 to 0.57 and decreased with depth.\
+    \ Based on the independent validation, the R2 values ranged from 0.41 to 0.57\
+    \ in the topsoil (0\u20135 cm, 5\u201315 cm and 15\u201330 cm). Overall accuracy\
+    \ metrics implied that the VELM and WELM yielded nearly the same prediction performances.\
+    \ However, model validation in the pedoclimatic zones showed that the VELM obviously\
+    \ outperformed the WELM, with the VELM generally improving the accuracy by 12.6%.\
+    \ Based on the independent validation, we also compared our predictions with other\
+    \ soil map products. Although the spatial patterns were similar, the predicted\
+    \ SOC maps outperformed two other products. The comparison of the two ensemble\
+    \ models should serve as a reminder that if new national or regional soil maps\
+    \ are generated, validation based on pedoclimatic zones or other soil-landscape\
+    \ units may be necessary before applying these maps."
+  keywords:
+    default:
+      keywords:
+        subject: Model comparison
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-12-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8089772
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8089771
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xiao-Dong-Song:
+    individualname: Xiao-Dong Song
+    role: creator
+  Hua-Yong-Wu:
+    individualname: Hua-Yong Wu
+    role: creator
+  Bing-Ju:
+    individualname: Bing Ju
+    role: creator
+  Feng-Liu:
+    individualname: Feng Liu
+    role: creator
+  Fei-Yang:
+    individualname: Fei Yang
+    role: creator
+  De-Cheng-Li:
+    individualname: De-Cheng Li
+    role: creator
+  Yu-Guo-Zhao:
+    individualname: Yu-Guo Zhao
+    role: creator
+  Jin-Ling-Yang:
+    individualname: Jin-Ling Yang
+    role: creator
+  Gan-Lin-Zhang:
+    individualname: Gan-Lin Zhang
+    role: creator
+  Song-Xiao-Dong:
+    individualname: Song, Xiao-Dong
+    role: ''
+    organization: ''
+    url: ''
+  Wu-Hua-Yong:
+    individualname: Wu, Hua-Yong
+    role: ''
+    organization: ''
+    url: ''
+  Ju-Bing:
+    individualname: Ju, Bing
+    role: ''
+    organization: ''
+    url: ''
+  Liu-Feng:
+    individualname: Liu, Feng
+    role: ''
+    organization: ''
+    url: ''
+  Yang-Fei:
+    individualname: Yang, Fei
+    role: ''
+    organization: ''
+    url: ''
+  Li-De-Cheng:
+    individualname: Li, De-Cheng
+    role: ''
+    organization: ''
+    url: ''
+  Zhao-Yu-Guo:
+    individualname: Zhao, Yu-Guo
+    role: ''
+    organization: ''
+    url: ''
+  Yang-Jin-Ling:
+    individualname: Yang, Jin-Ling
+    role: ''
+    organization: ''
+    url: ''
+  Zhang-Gan-Lin:
+    individualname: Zhang, Gan-Lin
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

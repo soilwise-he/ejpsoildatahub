@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kolesnikova_2021
+  dataseturi: https://doi.org/10.3897/BDJ.9.e75586
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil invertebrates of coniferous forests along a gradient of air pollution
+    (Komi Republic)
+  abstract: '&lt;p&gt;The role of soil invertebrates in the cycle of substances, soil-forming
+    processes and the provision of ecosystem services is undeniable. Therefore, soil
+    invertebrates are valuable in bioindication studies. Comprehensive research of
+    soil invertebrates in the production area of Mondi Syktyvkar JSC as the largest
+    pulp and paper enterprise in the European part of Russia was initiated in 2003.
+    A huge amount of data about composition, abundance and structure of soil macro-
+    and mesofauna along an impact gradient was accumulated during the period from
+    2003 to 2019 years. These data can be used to study local biodiversity, monitor
+    the state of soil invertebrate communities and assess the impact of the pulp and
+    paper industry on the environment.&lt;/p&gt;&lt;p&gt;Datasets here presented include
+    information from a monitoring programme for soil invertebrates that inhabit coniferous
+    forests in the production area of Mondi Syktyvkar JSC (Komi Republic). The assemblages''
+    structure of macrofauna, collembolans and nematodes are described. Information
+    on the number of individuals of springtail species, nematodes genera and macrofauna
+    taxa is given. A total of 11146 sampling events of macrofauna, 6673 sampling events
+    of Collembola, and 2592 sampling events of Nematoda are recorded along a gradient
+    of air pollution from pulp and paper industry emissions.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - sampling event
+      - Lumbricidae
+      - Julidae
+      - Polyzoniidae
+      - Lithobiidae
+      - Carabidae
+      - Staphylinidae
+      - Elateridae
+      - Curculionidae
+      - Collembola
+      - Nematoda
+      - pine and spruce forests
+      - pulp and paper industry
+      - Komi Republic
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil invertebrates of coniferous forests along a gradient of air pollution
+      (Komi Republic)
+    url: http://dx.doi.org/10.3897/BDJ.9.e75586
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Kolesnikova-Alla:
+    individualname: Kolesnikova, Alla
+    role: creator
+  Konakova-Tatyana:
+    individualname: Konakova, Tatyana
+    role: creator
+  Taskaeva-Anastasia:
+    individualname: Taskaeva, Anastasia
+    role: creator
+  Kudrin-Alexey:
+    individualname: Kudrin, Alexey
+    role: creator
+content_info: {}

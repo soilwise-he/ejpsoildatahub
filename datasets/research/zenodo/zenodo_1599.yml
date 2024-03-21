@@ -1,0 +1,127 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cuartero_2021
+  dataseturi: https://doi.org/10.3390/agriculture11050445
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Changes in Bacterial and Fungal Soil Communities in Long-Term Organic Cropping
+    Systems
+  abstract: '&lt;p&gt;Long-term organic farming aims to reduce synthetic fertilizer
+    and pesticide use in order&lt;br&gt;
+
+    to sustainably produce and improve soil quality. To do this, there is a need for
+    more information&lt;br&gt;
+
+    about the soil microbial community, which plays a key role in a sustainable agriculture.
+    In this&lt;br&gt;
+
+    paper, we assessed the long-term effects of two organic and one conventional cropping
+    systems on&lt;br&gt;
+
+    the soil microbial community structure using high-throughput sequencing analysis,
+    as well as the&lt;br&gt;
+
+    link between these communities and the changes in the soil properties and crop
+    yield. The results&lt;br&gt;
+
+    showed that the crop yield was similar among the three cropping systems. The microbial
+    community&lt;br&gt;
+
+    changed according to cropping system. Organic cultivation with manure compost
+    and compost tea&lt;br&gt;
+
+    (Org_C) showed a change in the bacterial community associated with an improved
+    soil carbon and&lt;br&gt;
+
+    nutrient content. A linear discriminant analysis effect size showed different
+    bacteria and fungi as key&lt;br&gt;
+
+    microorganisms for each of the three different cropping systems, for conventional
+    systems (Conv),&lt;br&gt;
+
+    different microorganisms such as Nesterenkonia, Galbibacter, Gramella, Limnobacter,
+    Pseudoalteromonas,&lt;br&gt;
+
+    Pantoe, and Sporobolomyces were associated with pesticides, while for Org_C and
+    organic cultivation&lt;br&gt;
+
+    with manure (Org_M), other types of microorganisms were associated with organic
+    amendments&lt;br&gt;
+
+    with different functions, which, in some cases, reduce soil borne pathogens. However,
+    further&lt;br&gt;
+
+    investigations such as functional approaches or network analyses are need to better
+    understand the&lt;br&gt;
+
+    mechanisms behind this behavior.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - compost
+      - high-throughput sequencing
+      - sheep manure
+      - soil properties
+      - crop yield
+      - organic farming
+      - microbial community structure
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Changes in Bacterial and Fungal Soil Communities in Long-Term Organic Cropping
+      Systems
+    url: http://dx.doi.org/10.3390/agriculture11050445
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cuartero-Jessica:
+    individualname: Cuartero, Jessica
+    role: creator
+  Ozbolat-Onurcan:
+    individualname: "\xD6zbolat, Onurcan"
+    role: creator
+  Sanchez-Navarro:
+    individualname: "S\xE1nchez-Navarro"
+    role: creator
+  Egea-Cortines-Marcos:
+    individualname: Egea-Cortines, Marcos
+    role: creator
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: creator
+  Canfora-Loredana:
+    individualname: Canfora, Loredana
+    role: creator
+  Orru-Luigi:
+    individualname: "Orr\xF9, Luigi"
+    role: creator
+  Pascual-Jose-Antonio:
+    individualname: Pascual, Jose Antonio
+    role: creator
+  Vivo-Juana-Maria:
+    individualname: "Vivo, Juana-Mar\xEDa"
+    role: creator
+  Ros-Margarita:
+    individualname: Ros, Margarita
+    role: creator
+  Sanchez-Navarro-Virginia:
+    individualname: "S\xE1nchez-Navarro, Virginia"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

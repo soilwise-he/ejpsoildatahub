@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.891520
+  dataseturi: https://doi.org/10.5281/zenodo.891520
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Integrating Soil Moisture Measurements Into Pasture Growth Forecasting In
+    New Zealand'S Hill Country
+  abstract: 'Forecasting pasture growth in hill country landscapes requires information
+    about soil water retention characteristics, which will help to quantify both water
+    uptake, and its percolation below the root zone. Despite the importance of soil
+    moisture data in pasture productivity predictions, current models use low-resolution
+    estimates of water input into their soil water balance equations and plant growth
+    simulations. As a result, they frequently fail to capture the spatial and temporal
+    variability of soil moisture in hill country soils.
+
+
+    Wireless Sensor Networks (WSN) are promising in-situ measurement systems for monitoring
+    soil moisture dynamics with high temporal resolution in agricultural soils. This
+    paper presents the deployment of a soil moisture sensing network, utilising WSN
+    technology and multi-sensor probes, to monitor soil water changes over a hill
+    country farm in the northern Wairarapa region of the North Island. Processed capacitance-based
+    raw data was converted to volumetric water content by means of a factory calibration
+    function to assess sensor accuracy and to calculate soil water storage within
+    the pasture root zone.
+
+
+    The derived volumetric soil moisture data was examined in terms of its dependence
+    on the variability and influences of hill country landscape characteristics such
+    as aspect. The integration of spatially distributed sensors and multi-depth soil
+    moisture measurements from various hillslope positions showed that slope and aspect
+    exerted a significant impact on soil moisture values. Furthermore, considerable
+    differences were identified in soil water profile responses to significant rainfall
+    events and subsequent soil water redistribution.
+
+
+    Initial indications are that high-resolution time series of accurate multi-depth
+    soil moisture measurements collected by a WSN are valuable for investigating root
+    zone water movement. Sensor evaluation and data analysis suggest that these devices
+    and their associated datasets are able to contribute to an improved understanding
+    of drying and wetting cycles and soil moisture variability. Potentially, this
+    will create an opportunity to generate improved pasture growth predictions in
+    pastoral hill country environments.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.891520
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.891519
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hajdu-I:
+    individualname: Hajdu, I
+    role: creator
+    organization: New Zealand Centre for Precision Agriculture, Massey University,
+      Palmerston North
+    url: ''
+  Yule-I:
+    individualname: Yule, I
+    role: creator
+    organization: New Zealand Centre for Precision Agriculture, Massey University,
+      Palmerston North
+    url: ''
+  Bretherton-M:
+    individualname: Bretherton, M
+    role: creator
+    organization: New Zealand Centre for Precision Agriculture, Massey University,
+      Palmerston North
+    url: ''
+  Singh-R:
+    individualname: Singh, R
+    role: creator
+    organization: New Zealand Centre for Precision Agriculture, Massey University,
+      Palmerston North
+    url: ''
+  Grafton-M:
+    individualname: Grafton, M
+    role: creator
+    organization: New Zealand Centre for Precision Agriculture, Massey University,
+      Palmerston North
+    url: ''
+  Hedley-C:
+    individualname: Hedley, C
+    role: creator
+    organization: Landcare Research, Palmerston North
+    url: ''
+content_info: {}

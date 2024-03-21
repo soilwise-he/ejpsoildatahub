@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5792618
+  dataseturi: https://doi.org/10.5281/zenodo.5792618
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Multielement analysis of soil and plant species using wavelength-dispersive
+    X-ray fluorescence spectrometry
+  abstract: 'CSIR-National Geophysical Research Institute (Council of Scientific &amp;
+    Industrial Research), Hyderabad-500 606, India E-mail: keshav_krishna@ngri.res.in,
+    Keshav_aradhi@yahoo.com, Fax: 91-40-23434651 In the present study, a sequential
+    wavelength dispersive X-ray fluorescence spectrometer (WD-XRF) method for the
+    quantitative analysis of 11 elements (AI, Fe, Mg, Ca, Na, K, As, Co, Cr, Cu and
+    Zn) in soil and plant species has been developed. Certified reference materials
+    were used to calibrate and evaluate an analytical method for the determination
+    of major and trace elements in soils, while for plant species a qualitative scanning
+    method which displays peak and element identification, taking into account the
+    typical element contents in different plant specimens was performed. A calibration
+    procedure was estimated by employing six plant samples for obtaining a quantitative
+    XRF method based on empirical calibration mode. The samples were prepared as pressed
+    pellets, and analysis was performed within a total measuring time of 15 min per
+    sample. The detection limits obtained for the trace elements (1-2 mg/kg) are adequate
+    both for geochemical and environmental purposes and the accuracy of the method
+    is within the expected interval of certified values in most cases. On the whole,
+    analytical performance of the WD-XRF method proposed proved to be effective and
+    robust.'
+  keywords:
+    default:
+      keywords:
+        subject: reference materials
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2013-11-30'
+    publication: '2013'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5792618
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5792617
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keshav-Krishna-A.:
+    individualname: Keshav Krishna, A.
+    role: creator
+    organization: ''
+    url: ''
+  Rama-Mohan-K.:
+    individualname: Rama Mohan, K.
+    role: creator
+    organization: ''
+    url: ''
+  B.-Dasaram:
+    individualname: B. Dasaram
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

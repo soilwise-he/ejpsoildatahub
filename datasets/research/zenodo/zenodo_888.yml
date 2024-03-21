@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bozhkov_2022
+  dataseturi: https://doi.org/10.3897/jbgs.e98660
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Comparative analysis of soil organic carbon in selected river catchments
+  abstract: "&lt;p&gt;The present study deals with the investigation of soil organic\
+    \ carbon in two water catchments in Northern Rila, Western Bulgaria. Field research,\
+    \ combined with analysis, provided sufficient data. Six key sites were selected\
+    \ and sampled in order to estimate and compare the amount of organic and inorganic\
+    \ carbon in the topsoil. The applied criteria for the choice of sites included:\
+    \ vegetation cover, predominant soil group, level of anthropogenization and transport\
+    \ accessibility. A total number of 13 samples from both catchments were collected\
+    \ and analyzed in the Central laboratory of the Institute of Soil Science, Agrotechnologies\
+    \ and Plant Protection (ISSAPP) \"N. Pushkarov\". The results concern the amount\
+    \ and composition of soil organic matter in different soils \u2013 Cambisols (Albic,\
+    \ Humic, Dystric), Fluvisols and Umbrosols. The total carbon content of all samples\
+    \ varies between 1.23 and 9.69%. The amount of organic carbon ranges between 0.45\
+    \ and 3.73%. The results of the study prove once again that the preservation of\
+    \ natural vegetation and current condition of the soil is of great importance\
+    \ for carbon sequestration and climate change mitigation.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - carbon sequestration
+      - sampling
+      - mapping
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Comparative analysis of soil organic carbon in selected river catchments
+    url: http://dx.doi.org/10.3897/jbgs.e98660
+    type: www
+contact:
+  Bulgarian-Geographical-Society:
+    individualname: Bulgarian Geographical Society
+    role: creator
+  Bozhkov-Petko:
+    individualname: Bozhkov, Petko
+    role: creator
+  Grigorov-Borislav:
+    individualname: Grigorov, Borislav
+    role: creator
+  Sarafov-Alexandar:
+    individualname: Sarafov, Alexandar
+    role: creator
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+content_info: {}

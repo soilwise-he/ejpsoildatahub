@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Parr_1904
+  dataseturi: https://doi.org/10.1021/ja01993a008
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE DETERMINATION OF TOTAL CARBON IN COAL AND SOIL.1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE DETERMINATION OF TOTAL CARBON IN COAL AND SOIL.1
+    url: http://dx.doi.org/10.1021/ja01993a008
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Parr-S.-W.:
+    individualname: Parr, S. W.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

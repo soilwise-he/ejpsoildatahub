@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6526824
+  dataseturi: https://doi.org/10.5281/zenodo.6526824
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Corrosion Potential of Soil-metal Systems in Corrosion Cells
+  abstract: Corrosion Potential of Soil-metal Systems in Corrosion Cells
+  keywords:
+    default:
+      keywords:
+        subject: Soil-metal Systems
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1962-08-31'
+    publication: '1962'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6526824
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6526823
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.-Roy:
+    individualname: K. Roy
+    role: creator
+    organization: ''
+    url: ''
+  M.-Sarkar:
+    individualname: M. Sarkar
+    role: creator
+    organization: ''
+    url: ''
+  B.-Chatterjee:
+    individualname: B. Chatterjee
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

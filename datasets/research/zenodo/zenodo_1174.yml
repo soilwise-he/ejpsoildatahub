@@ -1,0 +1,679 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7027315
+  dataseturi: https://doi.org/10.5281/zenodo.7027315
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Global patterns in endemicity and vulnerability of soil fungi - superecoregions
+    and endemicity
+  abstract: 'This repository contains additional data associated to Tedersoo et al.
+    (2022) (https://doi.org/10.1111/gcb.16398).This repository contains those data
+    necessary to rerun the superecoregion design and the endemicity analyses as well
+    as vector maps on the endemicity and OTU richness of individual superecoregions.
+    Further data associated with the same publication, regarding the vulnerability
+    analysis, can be found here: 10.5281/zenodo.6983158. <strong>input.zip</strong>
+    - Input data needed to run the analysis scripts provided [here](https://github.com/Mycology-Microbiology-Center/Fungal_Endemicity_and_Vulnerability/superecoregions_and_endemicity).
+    The entire folder is to be copied in the working directory to run the pipeline.
+    <strong>output.zip</strong> - Further data needed to run the analysis scripts
+    provided [here](https://github.com/Mycology-Microbiology-Center/Fungal_Endemicity_and_Vulnerability/superecoregions_and_endemicity).
+    The entire folder is to be copied in the working directory to run the pipeline.
+    <strong>maps_otu_numbers_and_se_characteristics</strong> - vector maps of the
+    superecoregions and the number of OTUs and endemic OTUs per region for different
+    functional groups <strong>maps_traits_endemism</strong> - vector maps of endemicity
+    indices per region f different functional groups <strong>01_super_Ecoregions_numbers.pdf
+    </strong>- vector map of the superecoregions used in the study numbered from 1
+    - 174. <strong>legend_01_super_ecoregions_numbers.csv </strong>- legend with superecoregion
+    names for 01_super_Ecoregions_numbers.pdf. <strong>super_eoregions_results</strong>
+    - Superecoregions with number of OTUs, number of endemic OTUs and endemicity indices
+    in R data format, for further analyses and visualization <strong>super_ecoregions.shp</strong>
+    - Superecoregions with number of OTUs, number of endemic OTUs and endemicity indices
+    as shape file, for further analyses and visualization'
+  keywords:
+    default:
+      keywords:
+        subject: saprotrophs
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-08-27'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7027315
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.1111/gcb.16398
+    type: WWW:LINK
+    title: IsPublishedIn
+  r1:
+    url: https://doi.org/10.5281/zenodo.6983158
+    type: WWW:LINK
+    title: Cites
+  r2:
+    url: https://doi.org/10.5281/zenodo.7027314
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tedersoo-Leho:
+    individualname: Tedersoo, Leho
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Mikryukov-Vladimir:
+    individualname: Mikryukov, Vladimir
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Zizka-Alexander:
+    individualname: Zizka, Alexander
+    role: creator
+    organization: Department of Biology, Philipps-University, Marburg, Germany
+    url: ''
+  d-Bahram-Mohamma:
+    individualname: d Bahram, Mohamma
+    role: creator
+    organization: Department of Ecology, Swedish University of Agricultural Sciences,
+      Uppsala, Sweden
+    url: ''
+  Hagh--Doust-Niloufar:
+    individualname: Hagh- Doust, Niloufar
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Anslan-Stan:
+    individualname: Anslan, Stan
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Prylutskyi-Oleh:
+    individualname: Prylutskyi, Oleh
+    role: creator
+    organization: Department of Mycology and Plant Resistance, School of Biology,
+      V.N. Karazin Kharkiv National University, Kharkiv, Ukraine
+    url: ''
+  Delgado--Baquerizo-Manuel:
+    individualname: Delgado- Baquerizo, Manuel
+    role: creator
+    organization: "Instituto de Recursos Naturales y Agrobiolog\xEDa de Sevilla (IRNAS),\
+      \ CSIC, Sevilla, Spain"
+    url: ''
+  T.-Maestre-Fernando:
+    individualname: T. Maestre, Fernando
+    role: creator
+    organization: "Instituto Multidisciplinar para el Estudio del Medio 'Ram\xF3n\
+      \ Margalef' and Departamento de Ecolog\xEDa, Universidad de Alicante; 03690,\
+      \ Alicante, Spain"
+    url: ''
+  Parn-Jaan:
+    individualname: "P\xE4rn, Jaan"
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Opik-Maarja:
+    individualname: "\xD6pik, Maarja"
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Moora-Mari:
+    individualname: Moora, Mari
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Zobel-Martin:
+    individualname: Zobel, Martin
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Espenberg-Mikk:
+    individualname: Espenberg, Mikk
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Mander-Ulo:
+    individualname: Mander, Ulo
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Khalid-Abdul-Nasir:
+    individualname: Khalid, Abdul Nasir
+    role: creator
+    organization: Institute of Botany, University of the Punjab, Lahore, Pakistan
+    url: ''
+  Corrales-Adriana:
+    individualname: Corrales, Adriana
+    role: creator
+    organization: "Centro de Investigaciones en Microbiolog\xEDa y Biotecnolog\xED\
+      a- UR (CIMBIUR), Universidad del Rosario, Bogot\xE1, Colombia"
+    url: ''
+  Agan-Atho:
+    individualname: Agan, Atho
+    role: creator
+    organization: Institute of Forestry and Engineering, Estonian University of Life
+      Sciences, Tartu, Estonia
+    url: ''
+  Vasco--Palacios-Aida--M.:
+    individualname: "Vasco- Palacios, A\xEDda -M."
+    role: creator
+    organization: Escuela de Microbiologia, Universidad de Antioquia, Medellin, Antioquia,
+      Colombia
+    url: ''
+  Saitta-Alessandro:
+    individualname: Saitta, Alessandro
+    role: creator
+    organization: Department of Agricultural, Food and Forest Sciences, University
+      of Palermo, Palermo, Italy.
+    url: ''
+  Rinaldi-Andrea-C.:
+    individualname: Rinaldi, Andrea C.
+    role: creator
+    organization: Department of Biomedical Sciences, University of Cagliari, Cagliari,
+      Italy
+    url: ''
+  Verbeken-Annemieke:
+    individualname: Verbeken, Annemieke
+    role: creator
+    organization: Department Biology, Ghent University, Ghent, Belgium
+    url: ''
+  Sulistyo-Bobby--P.:
+    individualname: Sulistyo, Bobby  P.
+    role: creator
+    organization: Department of Biomedicine, Indonesia International Institute for
+      Life Sciences, Jakarta, Indonesia
+    url: ''
+  Tamgnoue-Boris:
+    individualname: Tamgnoue, Boris
+    role: creator
+    organization: Department of Crop Science, University of Dschang, Dschang, Cameroon
+    url: ''
+  Furneaux-Brendan:
+    individualname: Furneaux, Brendan
+    role: creator
+    organization: Department of Ecology and Genetics, Uppsala University, Uppsala,
+      Sweden
+    url: ''
+  Duarte-Ritter-Camilla:
+    individualname: Duarte Ritter, Camilla
+    role: creator
+    organization: "Departamento de Zootecnia, Universidade Federal do Paran\xE1, Curitiba,\
+      \ PR, Brazil"
+    url: ''
+  Nyamukondiwa-Casper:
+    individualname: Nyamukondiwa, Casper
+    role: creator
+    organization: Department of Biological Sciences and Biotechnology, Botswana International
+      University of Science and Technology, Palapye, Botswana
+    url: ''
+  Sharp-Cathy:
+    individualname: Sharp, Cathy
+    role: creator
+    organization: Natural History Museum of Zimbabwe, Bulawayo, Zimbabwe
+    url: ''
+  Marin-Cesar:
+    individualname: "Mar\xEDn, C\xE9sar"
+    role: creator
+    organization: "Centro de Investigaci\xF3n e Innovaci\xF3n para el Cambio Clim\xE1\
+      tico (CiiCC), Universidad SantoTom\xE1s, Santiago, Chile"
+    url: ''
+  Gohar-Daniyal:
+    individualname: Gohar, Daniyal
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Klavina-Darta:
+    individualname: Klavina, Darta
+    role: creator
+    organization: Latvian State Forest Research Insitute Silava, Salaspils, Latvia
+    url: ''
+  Sharmah-Dipon:
+    individualname: Sharmah, Dipon
+    role: creator
+    organization: Department of Botany, Jawaharlal Nehru Rajkeeya Mahavidyalaya, Pondicherry
+      University, Port Blair, India
+    url: ''
+  Dai-Dong-Qin:
+    individualname: Dai, Dong Qin
+    role: creator
+    organization: College of Biological Resource and Food Engineering, Qujing Normal
+      University, Qujing,Yunnan, China
+    url: ''
+  Nouhra-Eduardo:
+    individualname: Nouhra, Eduardo
+    role: creator
+    organization: "Instituto Multidisciplinario de Biolog\xEDa Vegetal (CONICET),\
+      \ Universidad Nacional de C\xF3rdoba, Cordoba, Argentina"
+    url: ''
+  Biersma-Elisabeth-Mechteld:
+    individualname: Biersma, Elisabeth Mechteld
+    role: creator
+    organization: Natural History Museum of Denmark, Copenhagen, Denmark
+    url: ''
+  Rahn-Elisabeth:
+    individualname: "R\xE4hn, Elisabeth"
+    role: creator
+    organization: Institute of Forestry and Engineering, Estonian University of Life
+      Sciences, Tartu, Estonia
+    url: ''
+  Cameron-Erin-K.:
+    individualname: Cameron, Erin K.
+    role: creator
+    organization: Department of Environmental Science, Saint Mary's University, Halifax,
+      Nova Scotia, Canada
+    url: ''
+  De-Crop-Eske:
+    individualname: De Crop, Eske
+    role: creator
+    organization: Department Biology, Ghent University, Ghent, Belgium
+    url: ''
+  Otsing-Eveli:
+    individualname: Otsing, Eveli
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Davydov-Evgeny-A.:
+    individualname: Davydov, Evgeny A.
+    role: creator
+    organization: Altai State University, Barnaul, Russia
+    url: ''
+  Albornoz-Felipe--E.:
+    individualname: Albornoz, Felipe  E.
+    role: creator
+    organization: CSIRO Land and Water, Wembley, WA, Australia
+    url: ''
+  Brearley-Francis-Q.:
+    individualname: Brearley, Francis Q.
+    role: creator
+    organization: Department of Natural Sciences, Manchester Metropolitan University,
+      Manchester, UK
+    url: ''
+  Buegger-Franz:
+    individualname: Buegger, Franz
+    role: creator
+    organization: "Helmholtz Zentrum M\xFCnchen, Neuherberg, Germany"
+    url: ''
+  Zahn-Geoffrey:
+    individualname: Zahn, Geoffrey
+    role: creator
+    organization: Utah Valley University, Orem UT, USA
+    url: ''
+  Bonito-Gregory:
+    individualname: Bonito, Gregory
+    role: creator
+    organization: Plant, Soil and Microbial Sciences, Michigan State University, East
+      Lansing MI, USA
+    url: ''
+  Hiiesalu-Inga:
+    individualname: Hiiesalu, Inga
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Barrio-Isabel-C.:
+    individualname: Barrio, Isabel C.
+    role: creator
+    organization: Faculty of Natural and Environmental Sciences, Agricultural University
+      of Iceland, Hvanneyri, Iceland
+    url: ''
+  Heilmann--Clausen-Jacob:
+    individualname: Heilmann- Clausen, Jacob
+    role: creator
+    organization: Center for Macroecology, Evolution and Climate, University of Copenhagen,
+      Copenhagen, Denmark
+    url: ''
+  Ankuda-Jelena:
+    individualname: Ankuda, Jelena
+    role: creator
+    organization: Department of Silviculture and Ecology, Institute of Forestry of
+      Lithuanian Research Centre for Agriculture and Forestry (LAMMC). Girionys, Lithuania.
+    url: ''
+  Kupagme-John-Y.:
+    individualname: Kupagme, John Y.
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Macia--Vicente-Jose-G:
+    individualname: "Maci\xE1- Vicente, Jose G"
+    role: creator
+    organization: Plant Ecology and Nature Conservation, Wageningen University & Research,
+      Wageningen, The Netherlands
+    url: ''
+  Djeugap--Fovo-Joseph:
+    individualname: Djeugap  Fovo, Joseph
+    role: creator
+    organization: Department of Crop Science, University of Dschang, Dschang, Cameroon
+    url: ''
+  Geml-Jozsef:
+    individualname: "Geml, J\xF3zsef"
+    role: creator
+    organization: "ELKH-EKKE Lend\xFClet Environmental Microbiome Research Group,\
+      \ Eszterh\xE1zy K\xE1roly Catholic University, Eger, Hungary"
+    url: ''
+  Alatalo-Juha-M.:
+    individualname: Alatalo, Juha M.
+    role: creator
+    organization: Environmental Science Center, Qatar University, Doha, Qatar
+    url: ''
+  Alvarez--Manjarrez-Julieta:
+    individualname: Alvarez- Manjarrez, Julieta
+    role: creator
+    organization: Biology Department, Stanford University, Stanford CA, USA
+    url: ''
+  Poldmaa-Kadri:
+    individualname: "P\xF5ldmaa, Kadri"
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Runnel-Kadri:
+    individualname: Runnel, Kadri
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Adamson--Kalev:
+    individualname: Adamson,  Kalev
+    role: creator
+  Brathen-Kari-Anne:
+    individualname: "Br\xE5then, Kari Anne"
+    role: creator
+    organization: "Department of Arctic and Marine Biology, The Arctic University\
+      \ of Norway, Troms\xF8, Norway"
+    url: ''
+  Pritsch-Karin:
+    individualname: Pritsch, Karin
+    role: creator
+    organization: "Department of Arctic and Marine Biology, The Arctic University\
+      \ of Norway, Troms\xF8, Norway"
+    url: ''
+  Tchan-Kassim-I.:
+    individualname: Tchan, Kassim I.
+    role: creator
+    organization: Research Unit Tropical Mycology and Plants-Soil Fungi Interactions,
+      University of Parakou, Parakou, Benin
+    url: ''
+  Armolaitis-Kestutis:
+    individualname: "Armolaitis, K\u0119stutis"
+    role: creator
+    organization: Department of Silviculture and Ecology, Institute of Forestry of
+      Lithuanian Research Centre for Agriculture and Forestry (LAMMC). Girionys, Lithuania.
+    url: ''
+  Hyde-Kevin-D.:
+    individualname: Hyde, Kevin D.
+    role: creator
+    organization: Center of Excellence in Fungal Research, Mae Fah Luang University,
+      Chiang Rai, Thailand
+    url: ''
+  Newsham-Kevin--K.:
+    individualname: Newsham, Kevin  K.
+    role: creator
+    organization: NERC British Antarctic Survey, High Cross, Cambridge, UK
+    url: ''
+  Panksep-Kristel:
+    individualname: Panksep, Kristel
+    role: creator
+    organization: Chair of Hydrobiology and Fishery, Estonian University of Life Sciences,
+      Tartu, Estonia
+    url: ''
+  Lateef-Adebola-A.:
+    individualname: Lateef, Adebola A.
+    role: creator
+    organization: Department of Plant Biology, University of Ilorin, Ilorin, Nigeria
+    url: ''
+  Tiirmann-Liis:
+    individualname: Tiirmann, Liis
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Hansson-Linda:
+    individualname: Hansson, Linda
+    role: creator
+    organization: Gothenburg Centre for Sustainable Development, Gothenburg, Sweden
+    url: ''
+  Lamit-Louis--J.:
+    individualname: Lamit, Louis  J.
+    role: creator
+    organization: Department of Biology, Syracuse University, Syracuse, NY, USA; and
+      Department of Environmental and Forest Biology,State University of New York
+      College of Environmental Science and Forestry, Syracuse, NY, USA.
+    url: ''
+  Saba-Malka:
+    individualname: Saba, Malka
+    role: creator
+    organization: Department of Plant Sciences, Quaid-i-Azam University, Islamabad,
+      Pakistan
+    url: ''
+  Tuomi-Maria:
+    individualname: Tuomi, Maria
+    role: creator
+    organization: "Department of Arctic and Marine Biology, The Arctic University\
+      \ of Norway, Troms\xF8, Norway"
+    url: ''
+  Gryzenhout-Marieka:
+    individualname: Gryzenhout, Marieka
+    role: creator
+    organization: Department of Genetics, University of the Free State, Bloemfontein,
+      South Africa
+    url: ''
+  Bauters-Marijn:
+    individualname: Bauters, Marijn
+    role: creator
+    organization: Department of Environment, Ghent University, Ghent, Belgium
+    url: ''
+  Piepenbring-Meike:
+    individualname: Piepenbring, Meike
+    role: creator
+    organization: Mycology Working Group, Goethe University Frankfurt am Main, Frankfurt
+      am Main, Germany
+    url: ''
+  Wijayawardene-Nalin:
+    individualname: Wijayawardene, Nalin
+    role: creator
+    organization: College of Biological Resource and Food Engineering, Qujing Normal
+      University, Qujing, Yunnan, China
+    url: ''
+  Yorou-Nourou-S.:
+    individualname: Yorou, Nourou S.
+    role: creator
+    organization: Research Unit Tropical Mycology and Plants-Soil Fungi Interactions,
+      University of Parakou, Parakou, Benin
+    url: ''
+  Kurina-Olavi:
+    individualname: Kurina, Olavi
+    role: creator
+    organization: Institute of Agricultural and Environmental Sciences, Estonian University
+      of Life Sciences, Tartu, Estonia
+    url: ''
+  Mortimer-Peter-E.:
+    individualname: Mortimer, Peter E.
+    role: creator
+    organization: Center For Mountain Futures, Kunming Institute of Botany, Chinese
+      Academy of Sciences, Kunming, China
+    url: ''
+  Meidl-Peter:
+    individualname: Meidl, Peter
+    role: creator
+    organization: "Freie Universit\xE4t Berlin, Institut f\xFCr Biologie, Berlin,\
+      \ Germany"
+    url: ''
+  Kohout-Petr:
+    individualname: Kohout, Petr
+    role: creator
+    organization: Institute of Microbiology, Czech Academy of Sciences, Prague, Czech
+      Republic
+    url: ''
+  Nilsson-R.-Henrik:
+    individualname: Nilsson, R. Henrik
+    role: creator
+    organization: Gothenburg Global Biodiversity Centre, University of Gothenburg,
+      Gothenburg, Sweden
+    url: ''
+  Puusepp-Rasmus:
+    individualname: Puusepp, Rasmus
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Drenkhan-Rein:
+    individualname: Drenkhan, Rein
+    role: creator
+    organization: Institute of Forestry and Engineering, Estonian University of Life
+      Sciences, Tartu, Estonia
+    url: ''
+  Garibay--Orijel-Roberto:
+    individualname: Garibay- Orijel, Roberto
+    role: creator
+    organization: "Instituto de Biolog\xEDa, Universidad Nacional Aut\xF3noma de M\xE9\
+      xico, Ciudad de M\xE9xico, M\xE9xico"
+    url: ''
+  Godoy-Roberto:
+    individualname: Godoy, Roberto
+    role: creator
+    organization: Instituto Ciencias Ambientales y Evolutivas, Universidad Austral
+      de Chile, Valdivia, Chile.
+    url: ''
+  Alkahtani-Saad:
+    individualname: Alkahtani, Saad
+    role: creator
+    organization: College of Science, King Saud University, Riyadh, Saudi Arabia.
+    url: ''
+  Rahimlou-Saleh:
+    individualname: Rahimlou, Saleh
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Dudov-Sergey-V.:
+    individualname: Dudov, Sergey V.
+    role: creator
+    organization: Department of Ecology and Plant Geography, Moscow Lomonosov State
+      University, Moscow, Russia
+    url: ''
+  Polme-Sergei:
+    individualname: "P\xF5lme, Sergei"
+    role: creator
+    organization: Center of Mycology and Microbiology, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Ghosh-Soumya:
+    individualname: Ghosh, Soumya
+    role: creator
+    organization: Department of Genetics, University of the Free State, Bloemfontein,
+      South Africa
+    url: ''
+  Mundra-Sunil:
+    individualname: Mundra, Sunil
+    role: creator
+    organization: College of Science, United Arab Emirates University, Abu Dhabi,
+      UAE
+    url: ''
+  Ahmed-Talaat:
+    individualname: Ahmed, Talaat
+    role: creator
+    organization: Environmental Science Center, Qatar University, Doha, Qatar
+    url: ''
+  Netherway-Tarquin:
+    individualname: Netherway, Tarquin
+    role: creator
+    organization: Department of Ecology, Swedish University of Agricultural Sciences,
+      Uppsala, Sweden
+    url: ''
+  Henkel-Terry-W.:
+    individualname: Henkel, Terry W.
+    role: creator
+    organization: Department of Biological Sciences, California State Polytechnic
+      University, Humboldt, Arcata CA, USA
+    url: ''
+  Roslin-Thomas:
+    individualname: Roslin, Thomas
+    role: creator
+    organization: Department of Ecology, Swedish University of Agricultural Sciences,
+      Uppsala, Sweden
+    url: ''
+  Nteziryayo-Vincent:
+    individualname: Nteziryayo, Vincent
+    role: creator
+    organization: Department of Food Science and Technology, University of Burundi,
+      Bujumbura, Burundi.
+    url: ''
+  Fedosov-Vladimir--E:
+    individualname: Fedosov, Vladimir  E
+    role: creator
+    organization: Department of Ecology and Plant Geography, Moscow Lomonosov State
+      University, Moscow, Russia
+    url: ''
+  Onipchenko-Vladimir--G.:
+    individualname: Onipchenko, Vladimir  G.
+    role: creator
+    organization: Department of Ecology and Plant Geography, Moscow Lomonosov State
+      University, Moscow, Russia
+    url: ''
+  Yasanthika-W.-A.-Erandi:
+    individualname: Yasanthika, W. A. Erandi
+    role: creator
+    organization: Center of Excellence in Fungal Research, Mae Fah Luang University,
+      Chiang Rai, Thailand
+    url: ''
+  Lim-Young-Woon:
+    individualname: Lim, Young Woon
+    role: creator
+    organization: School of Biological Sciences and Institute of Microbiology, Seoul
+      National University, Seoul, Korea
+    url: ''
+  Soudzilovskaia-Nadejda:
+    individualname: Soudzilovskaia, Nadejda
+    role: creator
+    organization: Centre for Environmental Sciences, Hasselt University, Hasselt,
+      Belgium
+    url: ''
+  Antonelli-Alexandre:
+    individualname: Antonelli, Alexandre
+    role: creator
+    organization: Royal Botanic Gardens, Kew, Richmond, United Kingdom
+    url: ''
+  Koljalg-Urmas:
+    individualname: "K\xF5ljalg, Urmas"
+    role: creator
+    organization: Institute of Ecology and Earth Sciences, University of Tartu, Tartu,
+      Estonia
+    url: ''
+  Abarenkov-Kessy:
+    individualname: Abarenkov, Kessy
+    role: creator
+    organization: University of Tartu Natural History Museum, Tartu, Estonia
+    url: ''
+  Adamson-Kalev:
+    individualname: Adamson, Kalev
+    role: ''
+    organization: Institute of Forestry and Engineering, Estonian University of Life
+      Sciences, Tartu, Estonia
+    url: ''
+content_info: {}

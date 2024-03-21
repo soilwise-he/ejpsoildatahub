@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.25674-so91201
+  dataseturi: https://doi.org/10.25674/so91201
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Testing soil nematode extraction efficiency using different variations of
+    the Baermann-funnel method
+  abstract: soil organisms | comparability | reproducibility | extraction methods
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.25674/so91201
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cesarz-Simone:
+    individualname: Cesarz, Simone
+    role: creator
+    organization: ''
+    url: ''
+  Schulz-Annika-Eva:
+    individualname: Schulz, Annika Eva
+    role: creator
+    organization: ''
+    url: ''
+  Beugnon-Remy:
+    individualname: "Beugnon, R\xE9my"
+    role: creator
+    organization: ''
+    url: ''
+  Eisenhauer-Nico:
+    individualname: Eisenhauer, Nico
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1081559
+  dataseturi: https://doi.org/10.5281/zenodo.1081559
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Biotransformation Of Artemisinin By Using A Novel Soil Isolated Microorganism
+  abstract: 'Artemisinin is a potential antimalarial drug effective
+
+    against the multidrug resistant forms of Malarial Parasites. The
+
+    current production of artemisinin is insufficient to meet the global
+
+    demand. In the present study microbial biotransformation of
+
+    arteannuin B, a biogenetic precursor of artemisinin to the later has
+
+    been investigated. Screening studies carried out on several soil borne
+
+    microorganisms have yielded one novel species with the
+
+    bioconversion ability. Crude cell free extract of 72h old culture of the
+
+    isolate had shown the bioconversion activity. On incubation with the
+
+    substrate arteannuin B, crude cell free extract of the isolate had
+
+    shown a bioconversion of 18.54% to artemisinin on molar basis with
+
+    a specific activity of 0.18 units/mg.'
+  keywords:
+    default:
+      keywords:
+        subject: Bioconversion
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-03-24'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1081559
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1081558
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sreenivasa-Rao-Parcha:
+    individualname: Sreenivasa Rao Parcha
+    role: creator
+    organization: ''
+    url: ''
+  Lakshmi-P:
+    individualname: Lakshmi P
+    role: creator
+  P-Lakshmi:
+    individualname: P, Lakshmi
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

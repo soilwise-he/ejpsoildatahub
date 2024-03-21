@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8257022
+  dataseturi: https://doi.org/10.5281/zenodo.8257022
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Factors Affecting Availability of Micronutrients and Factors Associated
+    with Supply and Acquisition
+  abstract: Soil Factors Affecting Availability of Micronutrients and Factors Associated
+    with Supply and Acquisition
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-06'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8257022
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8257021
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Milka-Susan-K.-B.:
+    individualname: Milka Susan K., B.
+    role: creator
+    organization: Ondokuz Mayis University
+    url: ''
+  Adarsh-S.:
+    individualname: Adarsh, S.
+    role: creator
+    organization: Kerala Agricultural University
+    url: https://orcid.org/0000-0001-8282-9223
+  Nayana-N.-L.:
+    individualname: Nayana N., L.
+    role: creator
+    organization: Annamalai University
+    url: ''
+  Devinileena-P.-S.:
+    individualname: Devinileena P., S.
+    role: creator
+    organization: Kerala Agricultural University
+    url: ''
+content_info: {}

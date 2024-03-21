@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ALWAY_1916
+  dataseturi: https://doi.org/10.1097/00010694-191611000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE VERTICAL DISTRIBUTION OF PHOSPHORUS IN THE SURFACE SOIL OF PRAIRIES
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE VERTICAL DISTRIBUTION OF PHOSPHORUS IN THE SURFACE SOIL OF PRAIRIES
+    url: http://dx.doi.org/10.1097/00010694-191611000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alway-Frederick-J.:
+    individualname: Alway, Frederick J.
+    role: creator
+  Rost-Clayton-O.:
+    individualname: Rost, Clayton O.
+    role: creator
+  ALWAY-FREDERICK-J.:
+    individualname: ALWAY, FREDERICK J.
+    role: creator
+  ROST-CLAYTON-O.:
+    individualname: ROST, CLAYTON O.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1155838
+  dataseturi: https://doi.org/10.5281/zenodo.1155838
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Working paper
+identification:
+  title: Soil Sample Before You Crop
+  abstract: From an agriculture perspective, soil has been the second most important
+    criteria, after the weather. The nature of soil determines the type of crops those
+    can be grown with best yield. In ancient time, in absence of scientific methods,
+    the soil quality was primarily determined by its physical characteristics. While
+    those methods were sufficient then, as the necessity of fertilizers to generate
+    maximum crop in limited timeframe or resources wasn't a factor, the modern expectations
+    are to generate maximum produce within available resources and hence the soil
+    selection after thorough testing comes into picture. The modern soil testing involves
+    chemical and physical analysis that later becomes an input for crop nutrient selection.
+  keywords:
+    default:
+      keywords:
+        subject: soil sampling
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-01-19'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1155838
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1155837
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Renu-Joshi:
+    individualname: Renu Joshi
+    role: creator
+  Joshi-Renu:
+    individualname: Joshi, Renu
+    role: ''
+    organization: studyofplants.com
+    url: https://orcid.org/0000-0002-8828-6220
+content_info: {}

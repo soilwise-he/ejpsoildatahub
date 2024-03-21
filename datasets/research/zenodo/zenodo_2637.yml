@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4771294
+  dataseturi: https://doi.org/10.5281/zenodo.4771294
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Accumulation of Heavy Metals in Soil and Their Transfer to Tissues of Azadirachta
+    indica Collected from Akungba-Akoko, Nigeria
+  abstract: "Levels of five heavy metals namely, cadmium, cobalt, iron, lead, and\
+    \ zinc were determined in tissues (roots, leaves and stems) of <em>Azadirachta\
+    \ indica</em> collected at different spots in Akungba-Akoko, (Nigeria). Transfer\
+    \ coefficients of the elements into the plant tissues were also determined with\
+    \ a view to quantifying the differences in bioavailability to the plant species.\
+    \ The tissues were acid-digested and analyzed by flame atomic absorption spectrophotometry.\
+    \ The levels (ppm) of heavy metals recorded in the roots, leaves and stems of\
+    \ the plant respectively ranged: Cd (0.14 \u2013 0.34, 0.09 \u2013 0.20, 0.09\
+    \ \u2013 0.33); Co (4.01 \u2013 5.48, 3.22 \u2013 5.14, 3.84 \u2013 5.40); Fe\
+    \ (82.27 \u2013 137.98, 49.20 \u2013 160.10, 58.33 \u2013 116.62); Pb (0.50 \u2013\
+    \ 0.57, 0.33 \u2013 0.97, 0.28 \u2013 0.48) and Zn (52.07 \u2013 149.94, 52.01\
+    \ \u2013 113.73, 49.58 \u2013 127.05). Fe has highest concentration while Cd has\
+    \ lowest concentration in all tissues analyzed. The stems of the plant showed\
+    \ least bioaccumulation of most metals studied and hence most suitable for medicinal\
+    \ purpose. The order of bioaccumulation by the leaves, stem barks, and roots of\
+    \ <em>Azadirachta indica</em> followed the sequence Pb &lt; Cd &lt; Zn &lt; Fe\
+    \ &lt; Co. Since metal uptake from plants is a major component of human exposure\
+    \ via the food chain, vegetative parts of <em>Azadirachta indica</em> used for\
+    \ therapeutic purposes should be collected far away from highways to reduce or\
+    \ possibly eliminate health hazards associated with the ingestion of heavy metals."
+  keywords:
+    default:
+      keywords:
+        subject: transfer coefficients
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-05-05'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4771294
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4771293
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Book-Publisher-International:
+    individualname: Book Publisher International
+    role: creator
+  B.-A.-Falusi:
+    individualname: B. A. Falusi
+    role: creator
+    organization: Department of Chemistry, Federal College of Education (Special),
+      P.M.B. 1089, Oyo, Nigeria
+    url: ''
+content_info: {}

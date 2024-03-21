@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7807517
+  dataseturi: https://doi.org/10.5281/zenodo.7807517
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Study on Fatigue and Rutting Behaviour of Flexible Pavement as a result of
+    marble dust addition in subgrade soil
+  abstract: <em>The utilization of industrial waste to enhance soil properties is
+    a cost-effective and efficient approach that also addresses waste disposal issues.
+    Thus, understanding the properties of these wastes is crucial to evaluate their
+    performance.</em> <em>This study investigated the addition of waste marble dust
+    to stabilize soil classified as CL based on the Indian Standard Classification
+    system (ISCS). The soil was mixed with marble dust at 10%, 15%, 20%, and 25% by
+    weight, and the index properties were determined at each percentage. California
+    Bearing Ratio (CBR) and Unconfined Compressive Strength (UCS) were calculated
+    at Optimum Moisture Content (OMC), which was determined by Proctor test for both
+    modified and parent soil.</em> <em>The results indicated that 20% waste marble
+    dust was optimal for strengthening the parent soil. Furthermore, an evaluation
+    was conducted to compare the observed CBR value with the predicted CBR value calculated
+    through regression analysis using SPSS. Resilient Modulus was also determined
+    for subgrade soils using equations specified by the Transportation and Road Research
+    Laboratory. Based on the obtained results, pavement thickness was determined for
+    designing flexible pavement sections according to IRC 37-2012 using IITPAVE. The
+    use of waste materials for soil improvement is becoming increasingly popular in
+    construction projects due to its economic and environmental benefits. Waste materials,
+    such as marble dust, which would otherwise be discarded as landfill can be harnessed
+    for sustainable use in construction. </em>
+  keywords:
+    default:
+      keywords:
+        subject: Industrial waste, soil, pavement, subgrade, marble dust, rutting,
+          CBR
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-04-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7807517
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7807516
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vaishali:
+    individualname: Vaishali
+    role: creator
+  Monu-Kumar:
+    individualname: Monu Kumar
+    role: creator
+    organization: Assistant Professor, Civil Engineering Department, IIMT University,
+      Meerut Uttar Pradesh, India
+    url: ''
+  Ali-Akbar:
+    individualname: Ali Akbar
+    role: creator
+  -Vaishali:
+    individualname: ', Vaishali'
+    role: ''
+    organization: M.Tech Student, Civil Engineering Department, IIMT University, Meerut
+      Uttar Pradesh, India
+    url: ''
+  Akbar-Ali:
+    individualname: Akbar, Ali
+    role: ''
+    organization: Assistant Professor, Civil Engineering Department, IIMT University,
+      Meerut Uttar Pradesh, India
+    url: ''
+content_info: {}

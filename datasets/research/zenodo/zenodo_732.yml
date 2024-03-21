@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5596907
+  dataseturi: https://doi.org/10.5281/zenodo.5596907
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Testing graphene versus classical soil improvers in a sandy calcisol
+  abstract: "In this study for the first time, Graphene was tested in a leaching batch\
+    \ experiment on a calcareous sandy soil (Calcisol) to assess its capacity to ameliorate\
+    \ soil's properties in comparison with traditional soil improvers (Compost, Biochar,\
+    \ and Zeolites). A first set of experiments was performed in triplicates using\
+    \ the saturation soil extraction method (5:1 liquid\u2013solid ratio) with deionized\
+    \ water as liquid phase and two different rates (minimum and maximum) of each\
+    \ improver. A second set of experiments (5:1 liquid\u2013solid ratio) was performed\
+    \ to understand the fate of fertilizers, using the maximum amount of soil improvers\
+    \ and two different liquid phases: NPK solution from a synthetic fertilizer and\
+    \ fertigation water from a wastewater treatment plant. EC, pH, ORP and dissolved\
+    \ O<sub>2</sub> were monitored daily for two weeks, and water samples were obtained\
+    \ at the end of the experiment to analyze DOC, major ions, and trace elements.\
+    \ Results showed that Graphene neither altered the physical\u2013chemical parameters\
+    \ nor released nutrients and heavy metals in the solution in comparison to control\
+    \ and other improvers. Biochar increased EC and pH beyond recommended limits for\
+    \ some plants growth, while Compost released NO<sub>3</sub><sup>\u2013</sup> above\
+    \ threshold limits. Batches with the NPK solution showed NH<sub>4</sub><sup>+</sup>\
+    \ accumulation in the solute for controls, and to a less extent for Zeolites,\
+    \ Graphene and Biochar, while no accumulation was recorded for Compost. NH<sub>4</sub><sup>+</sup>\
+    \ accumulation was triggered by microbial N remineralization in absence of a C\
+    \ source. Batches with fertigation water showed NO<sub>2</sub><sup>\u2013</sup>\
+    \ accumulation in the solute due to incomplete nitrification in all the improvers\
+    \ and control batches, since the available C source consumed O<sub>2</sub> that\
+    \ in turn hampered the nitrification process. Despite the above-mentioned limitations,\
+    \ Graphene performed well in comparison to the other soil improvers in reducing\
+    \ nutrients and metals leaching."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-10-25'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5596907
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5596906
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Alessandrino-L:
+    individualname: Alessandrino L
+    role: creator
+  Colombani-N:
+    individualname: Colombani N
+    role: creator
+    organization: SIMAU, Department of Materials, Environmental Sciences and Urban
+      Planning, Marche Polytechnic University, Via Brecce, Bianche 12, Ancona, 60131,
+      Italy
+    url: ''
+  Eusebi-A:
+    individualname: Eusebi A
+    role: creator
+    organization: SIMAU, Department of Materials, Environmental Sciences and Urban
+      Planning, Marche Polytechnic University, Via Brecce, Bianche 12, Ancona, 60131,
+      Italy
+    url: ''
+  Aschonitis-V:
+    individualname: Aschonitis V
+    role: creator
+    organization: Soil and Water Resources Institute, Hellenic Agricultural Organization,
+      DIMITRA, Thermi, Thessaloniki, 57001, Greece
+    url: ''
+  Mastrodicicco-M:
+    individualname: Mastrodicicco M
+    role: creator
+    organization: DiSTABiF, Department of Environmental, Biological and Pharmaceutical
+      Sciences and Technologies, Campania University "Luigi Vanvitelli", Via Vivaldi
+      43, Caserta, 81100, Italy
+    url: ''
+  L-Alessandrino:
+    individualname: L, Alessandrino
+    role: ''
+    organization: DiSTABiF, Department of Environmental, Biological and Pharmaceutical
+      Sciences and Technologies, Campania University "Luigi Vanvitelli"
+    url: ''
+content_info: {}

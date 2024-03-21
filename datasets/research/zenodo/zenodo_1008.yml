@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Xuan_Wai_2021
+  dataseturi: https://doi.org/10.11591/ijece.v11i2.pp1752-1760
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil moisture level prediction using optical technique and artificial neural
+    network
+  abstract: '&lt;p&gt;This research describes the use of an optical system combined
+    with artificial neural network (ANN) for wireless and nondestructive prediction
+    of soil moisture level. The former system comprising of near infrared (NIR) emitters
+    of wavelengths 1200 nm and 1450 nm, and a photodetector for near real time soil
+    moisture measurement in loams and peats holding different amount of water. There
+    were 63 and 90 sets of data from loams and peats, respectively, used in the development
+    of the dual stage-multiclass ANN model, wherein measurement of light attenuation
+    (from nondestructive system) was correlated with percent soil moisture (from destructive
+    gold standard approach) in pre-measurement stage. The result revealed a relatively
+    good performance in the training of the NN with regression, R, of 0.8817 and 0.8881,
+    and satisfactory error performance of 0.7898 and 1.172, for loams and peats, respectively.
+    The testing of the system on 50 new samples of loam and peat showed a considerably
+    high mean accuracy of 92% for loams while 82% was observed for peats. This study
+    attributes the poorer performance of the system used on peats to the detection
+    resolution of percent soil moisture, and structure and properties of the corresponding
+    soil. This work concluded that the developed technology may be feasible for use
+    in the future design and improvement of agricultural soil management.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - ANN
+      - Attenuation
+      - Near infrared
+      - Optical
+      - Soil moisture
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil moisture level prediction using optical technique and artificial neural
+      network
+    url: http://dx.doi.org/10.11591/ijece.v11i2.pp1752-1760
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mars-Hong-Xuan-Wai:
+    individualname: Mars Hong Xuan Wai
+    role: creator
+  Audrey-Huong:
+    individualname: Audrey Huong
+    role: creator
+  Xavier-Ngu:
+    individualname: Xavier Ngu
+    role: creator
+  Xuan-Wai-Mars-Hong:
+    individualname: Xuan Wai, Mars Hong
+    role: creator
+  Huong-Audrey:
+    individualname: Huong, Audrey
+    role: creator
+  Ngu-Xavier:
+    individualname: Ngu, Xavier
+    role: creator
+  Institute-of-Advanced-Engineering:
+    individualname: Institute of Advanced Engineering
+    role: creator
+  Science:
+    individualname: Science
+    role: creator
+content_info: {}

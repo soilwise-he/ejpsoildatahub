@@ -1,0 +1,100 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mykhailovskyi_2021
+  dataseturi: https://doi.org/10.21303/2313-8416.2021.002033
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Calculation of large-span glulam structures as a soil base-foundation-above-ground
+    structure system
+  abstract: 'The object of research. Long-span glulam arches are widely used as coatings
+    for public and sports buildings. The studies carried out concern double-hinged
+    segmental arches with spans of 60 m and more.
+
+
+
+    Description of the problem. The study of the peculiarities of the work of arches
+    as a system "soil base - foundation - above-ground structure" is associated with
+    the significant influence of uneven deformations of supports on the stress-strain
+    state of the above-ground structure. A change in the stress-strain state in the
+    structure itself, associated with uneven deformations of the foundations, can
+    lead to a significant decrease up to the complete exhaustion of the bearing capacity
+
+
+
+    Main scientific results. This article provides an analysis of the change in the
+    stress-strain state of glulam arches when calculating the system "soil base-foundation-above-ground
+    structure". It is noted that non-uniform deformations of supports have the greatest
+    influence on the stress in the support zones of the structure. The range of critical
+    non-uniform subsidence has been determined, which should be limited when calculating
+    and designing the foundations of large-span arches. It has been confirmed that
+    double-hinged glulam arches work well in conditions of uneven subsidence due to
+    the peculiarities of the design scheme.
+
+
+
+    The results of the studies carried out and the recommendations provided will significantly
+    improve the reliability of large-span structures and require mandatory inclusion
+    in the current practice of calculation and design. In addition, additional requirements
+    for the distance between mine workings for large-span structures should be introduced
+    when performing engineering and geological surveys. This distance should be reduced
+    for a clearer account of the deformability of the foundations for columnar foundations,
+    and the number of workings should be increased.
+
+
+
+    The area of practical use of the research results. The cross-section of the glulam
+    arches is selected taking into account additional deformations of the supports,
+    making it possible to avoid unpredictable damage to the structure during operation.
+
+
+
+    Innovative technological product. Glulam arches, the cross-section of which is
+    determined taking into account additional deformations from uneven subsidence
+    of the supports
+
+
+
+    Scope of application. Glulam arches calculated in this way can be used as covering
+    for public and sports buildings for various purposes.'
+  keywords:
+    default:
+      keywords:
+      - glulam
+      - large-span structures
+      - arches
+      - design scheme
+      - stress-strain state
+      - soil base-foundation-above-ground structure system
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Calculation of large-span glulam structures as a soil base-foundation-above-ground
+      structure system
+    url: http://dx.doi.org/10.21303/2313-8416.2021.002033
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mykhailovskyi-Denys:
+    individualname: Mykhailovskyi, Denys
+    role: creator
+  Skliarova-Tetiana:
+    individualname: "Skl\u0456arova, Tet\u0456ana"
+    role: creator
+  OU-Scientific-Route:
+    individualname: OU Scientific Route
+    role: creator
+content_info: {}

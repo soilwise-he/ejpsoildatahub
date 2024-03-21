@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Follett_2001
+  dataseturi: https://doi.org/10.1016/s0167-1987(01)00180-5
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil management concepts and carbon sequestration in cropland soils
+  abstract: "One of the most important terrestrial pools for carbon (C) storage and\
+    \ exchange with atmospheric CO2 is soil organic carbon (SOC). Following the advent\
+    \ of large-scale cultivation, this long-term balance was disrupted and increased\
+    \ amounts of SOC were exposed to oxidation and loss as atmospheric CO2. The result\
+    \ was a dramatic decrease in SOC. If amounts of C entering the soil exceed that\
+    \ lost to the atmosphere by oxidation, SOC increases. Such an increase can result\
+    \ from practices that include improved: (1) tillage management and cropping systems,\
+    \ (2) management to increase amount of land cover, and (3) efficient use of production\
+    \ inputs, e.g. nutrients and water. Among the most important contributors is conservation\
+    \ tillage (i.e., no-till, ridge-till, and mulch-tillage) whereby higher levels\
+    \ of residue cover are maintained than for conventional-tillage. Gains in amount\
+    \ of land area under conservation tillage between 1989 and 1998 are encouraging\
+    \ because of their contributions to soil and water conservation and for their\
+    \ potential to sequester SOC. Other important contributors are crop residue and\
+    \ biomass management and fallow reduction. Collectively, tillage management and\
+    \ cropping systems in the US are estimated to have the potential to sequester\
+    \ 30\u2013105 million metric tons of carbon (MMTC) yr\u22121. Two important examples\
+    \ of management strategies whereby land cover is increased include crop rotations\
+    \ with winter cover crops and the conservation reserve program (CRP). Such practices\
+    \ enhance SOC sequestration by increasing the amount and time during which the\
+    \ land is covered by growing plants. Crop rotations, winter cover crops, and the\
+    \ CRP combined have the potential to sequester 14\u201329 MMTC yr\u22121. Biomass\
+    \ production is increased by efficient use of production inputs. Optimum fertility\
+    \ levels and water availability in soils can directly affect quantity of crop\
+    \ residues produced for return to the soil and for SOC sequestration. Nutrient\
+    \ inputs and supplemental irrigation are estimated to have the potential to sequester\
+    \ 11\u201330 MMTC yr\u22121. In the future, it is important to acquire an improved\
+    \ understanding of SOC sequestration processes, the ability to make quantitative\
+    \ estimates of rates of SOC sequestration, and technology to enhance these rates\
+    \ in an energy- and input-efficient manner. Adoption of improved tillage practices\
+    \ and cropping systems, increased land cover, and efficient use of nutrient and\
+    \ water inputs are examples where such information is necessary."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil management concepts and carbon sequestration in cropland soils
+    url: http://dx.doi.org/10.1016/s0167-1987(01)00180-5
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Follett-R.-F.:
+    individualname: Follett, R. F.
+    role: creator
+  Follett-R.F:
+    individualname: Follett, R.F
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10574349
+  dataseturi: https://doi.org/10.5281/zenodo.10574349
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Heavy metal concentrations in soil from abandoned mining area in Barangay
+    Baluno, Zamboanga City, Philippines
+  abstract: "The study aimed to determine the extent of heavy metal contamination\
+    \ of Copper (Cu) and Lead (Pb) in the soil from the abandoned mining area in Zamboanga\
+    \ City, Philippines using the 2017 EMB Site Characterization Guidelines. Soil\
+    \ samples were randomly collected from 3 meridional blocks at 2 different soil\
+    \ depths, 0-5cm and 20-25cm. Pb and Cu concentrations, organic matter (OM) percentages,\
+    \ pH and Electrical Conductivity (EC) were analyzed using appropriate equipment\
+    \ across sampling sites. The study revealed that heavy metal content in Block\
+    \ 3 exceeded the maximum allowable concentrations based on WHO standard with an\
+    \ average mean of 3,351.00mgkg-1 Pb and 498.67mgkg-1 Cu at 20-25cm soil depth.\
+    \ Moreover, at 0-5cm soil depth, Block 3 had 4176.33mgkg-1 Pb and 494.67mgkg-1\
+    \ Cu. Furthermore, soil pH was strongly acidic across all blocks with values of\
+    \ pH 5.0 at Block 1; pH 4.7 at Block 2 and pH 4.1 at Block 3. For EC and OM percentages,\
+    \ results ranged from 183.33 \u03BCS/cm to 286.67 \u03BCS/cm and 1.81% to 4.05%,\
+    \ respectively. Using Analysis of Variance at P < 0.05, this study further revealed\
+    \ that there is a significant difference of Pb and Cu concentrations in 3 meridional\
+    \ blocks at 0.001. This indicates that heavy metal concentrations present in the\
+    \ soil varies in the 3 blocks. However, in physico-chemical parameters, only organic\
+    \ matter has significant difference in all blocks at P \u22640.01. Based from\
+    \ the findings, it is recommended that counter measures be undertaken to minimize\
+    \ further retrogressive impacts of mine tailings left in the area specifically\
+    \ in Block 3.\n\n\n\npublished by the \_Journal of Biodiversity and Environmental\
+    \ Sciences (JBES)"
+  keywords:
+    default:
+      keywords:
+        subject: Heavy metals
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-10'
+    available: '2023-06-10'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10574349
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10574348
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  International-Network-for-Natural-Sciences-|-INNSpub:
+    individualname: International Network for Natural Sciences | INNSpub
+    role: creator
+  Minsarib-L.-Kalnasa:
+    individualname: Minsarib L., Kalnasa
+    role: creator
+    organization: Department of Environmental Science, College of Forestry and Environmental
+      Studies, Western Mindanao State University, Zamboanga City, Philippines
+    url: ''
+  Alma-N.-Abug:
+    individualname: Alma N., Abug
+    role: Researcher
+    organization: Department of Environmental Science & Technology, College of Science
+      and Mathematics, University of Science and Technology of Southern Philippines,
+      Cagayan de Oro, Philippines
+    url: ''
+content_info: {}

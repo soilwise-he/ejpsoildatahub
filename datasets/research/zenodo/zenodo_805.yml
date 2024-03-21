@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https---doi.org-10.48538-frp-2017-0004
+  dataseturi: https---doi.org-10.48538-frp-2017-0004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The relationship between soil properties, enzyme activity and land use
+  abstract: '&lt;p&gt;The aim of this study was to assess the effects of different
+    types of land use (forest, tillage and pasture) on soil properties, especially
+    enzyme activity. Our investigation was carried out on 53 research plots with 11
+    plots in broadleaved forest stands, 12 plots in mixed broadleaved stands, 10 plots
+    in mixed coniferous stands, 9 plots on tillage and 11 plots on pasture. The soil
+    samples were collected from a depth of 0&ndash;15 cm after removing the organic
+    horizon. Contents of organic carbon and nitrogen, pH and soil texture were investigated.
+    Furthermore, dehydrogenase and urease activity were determined. Significant differences
+    in the enzyme activity between forest and agricultural soils were observed, thus
+    demonstrating that enzyme activity is influenced by the organic matter content
+    of the soil. The highest enzyme activity was recorded in the forest soil within
+    broadleaved stands, whilst the lowest activity was found in tillage soil, because
+    tillage soil contained significantly less organic matter. High enzymatic activity
+    of pasture soils is the combined result of vegetation type and the lack of plowing.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - forest soil
+      - dehydrogenase activity
+      - urease activity
+      - land use
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The relationship between soil properties, enzyme activity and land use
+    url: https://www.ibles.pl/web/lesne-prace-badawcze/-/doi-10-1515-frp-2017-0004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ewa-Blonska:
+    individualname: "{Ewa B\u0142o\u0144ska}"
+    role: creator
+  Jaroslaw-Lasota:
+    individualname: "Jaros\u0142aw Lasota"
+    role: creator
+  Maciej-Zwydak:
+    individualname: Maciej Zwydak
+    role: creator
+  -Jaroslaw-Lasota:
+    individualname: "{ Jaros\u0142aw Lasota}"
+    role: creator
+  -Maciej-Zwydak:
+    individualname: '{ Maciej Zwydak}'
+    role: creator
+  Instytut-Badawczy-Lesnictwa-Sekocin-Stary-Poland:
+    individualname: "Instytut Badawczy Le\u015Bnictwa, S\u0119kocin Stary, Poland"
+    role: creator
+content_info: {}

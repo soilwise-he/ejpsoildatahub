@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6044712
+  dataseturi: https://doi.org/10.5281/zenodo.6044712
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: A Selective Fluorescence Spot Test for the Detection of TCA in Soil and Water
+  abstract: Department of Applied Chemistry, Z. H. College of Engineering and Technology,
+    Aligarh Muslim University, Aligarh-202 002 Aligarh Muslim University, Aligarh-202
+    002 Manuscript received 12 December 7990, revised 24 July 1992, accepted 12 August
+    1992 A Selective Fluorescence Spot Test for the Detection of TCA in Soil and Water.
+  keywords:
+    default:
+      keywords:
+        subject: Water
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1992-11-30'
+    publication: '1992'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6044712
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6044711
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  H.-S.-RATHORE:
+    individualname: H. S. RATHORE
+    role: creator
+    organization: ''
+    url: ''
+  S.-K.-SAXENA:
+    individualname: S. K. SAXENA
+    role: creator
+    organization: ''
+    url: ''
+  T.-BEGUM:
+    individualname: T. BEGUM
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

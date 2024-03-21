@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5595667
+  dataseturi: https://doi.org/10.5281/zenodo.5595667
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Elucidation of electrochemical reduction behavior of dinitro group containing
+    pesticides Chlornidine, Dipropalin and Prodiamine residues in soil, water and
+    agricultural formulations
+  abstract: "Depatrment of Chemistry, Madanapalle Institute of Technology and Science,\
+    \ Madanapalle-517 325, Chittoor Dist., Andhra Pradesh, India <em>E-mail</em> :\
+    \ maachandu@outlook.com Department of Chemistry, Electroanalytical Lab, S. V.\
+    \ University, Tirupati-517 502, Andhra Pradesh, India An electroanalytical technique\
+    \ has introduced for the elucidation of reduction behaviour of dinitro group containing\
+    \ pesticides such as Chlornidine, Dipropalin and Prodiamine by DPAd sripping voltammetry\
+    \ on a hanging mercury drop electrode and cyclic voltammetry in universal buffer\
+    \ as supporting electrolyte. The best adsorption conditions were found to the\
+    \ reduction of dinitro group pesticides Chlornidine, Dipropalin and Prodiamine\
+    \ at pH 2.0, 4.0 and 6.0, and an accumulation potential varied from \u20130.65\
+    \ V, \u20130.60 V and \u20130.745 V with an accumulation time of 60 s, 40 s and\
+    \ 50 s respectively. The effect of stirring rate, scan rate, pulse amplitude and\
+    \ purge time were examined for the optimization of instrumental conditions and\
+    \ observed linearity range at hanging mercury drop electrode (HMDE) with a lower\
+    \ detection limit 1.94 \xD7 10<sup>\u20136</sup> M, 1.821 \xD7 10<sup>\u20136</sup>\
+    \ M and 4.522 \xD7 10<sup>\u20136</sup> M respectively for selected pesticides.\
+    \ The average recoveries obtained for Chlornidine, Dipropalin and Prodiamine in\
+    \ soil and water samples ranged from 99.1 to 99.9%. The technique has been adequately\
+    \ applied to the elucidation of Chlornidine, Dipropalin and Prodiamine in soil,\
+    \ water and green gram samples around Srikalahasthi (Thottambedu and B. N. Kandriga\
+    \ mandal) agricultural regions, Andhra Pradesh, India."
+  keywords:
+    default:
+      keywords:
+        subject: HMDE and DPAd stripping voltammetry
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-04-01'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5595667
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5595666
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kukkambakam-Chandra-Mohan:
+    individualname: Kukkambakam Chandra Mohan
+    role: creator
+    organization: ''
+    url: ''
+  T.-Chandraiah:
+    individualname: T. Chandraiah
+    role: creator
+    organization: ''
+    url: ''
+  M.-Nagaraju:
+    individualname: M. Nagaraju
+    role: creator
+    organization: ''
+    url: ''
+  N.-Y.-Sreedhar:
+    individualname: N. Y. Sreedhar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

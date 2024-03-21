@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10693699
+  dataseturi: https://doi.org/10.5281/zenodo.10693699
+  datestamp: ''
+  hierarchylevel: book
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Needs and Drivers of Change Across Europe and Land Use Types - Booklet
+  abstract: "In the following pages, the PREPSOIL project presents 20 regions\u2019\
+    \ analysis and results from literature review, workshops, and interviews in the\
+    \ Driver-Pressure-State-Impact-Response (DPSIR) framework categories. The participatory\
+    \ approach used for acquiring the knowledge necessary to fill the DPSIR conceptual\
+    \ framework was a series of workshops and interviews which spanned all of Europe.\
+    \ The workshops served as a way of validating the knowledge acquired from the\
+    \ desk analysis and gathering identified gaps in knowledge More than 500 stakeholders\
+    \ from farmers, policy and government, soil and other advisors, research, business,\
+    \ CSOs and NGOs were interacted during the participatory research process.\_\n\
+    \nRegional focused knowledge is co-generated on the existing and emerging socio-economic\
+    \ and geo-biophysical perspectives that determines the health of soils as indicated\
+    \ by their ability to provide ecosystem services. The emerging results were abstracted\
+    \ to a level to find commonalities but also specificities. These findings will\
+    \ be validated in the EU Soil Week (21-23 November, Madrid) and developed into\
+    \ a synthesis report. The synthesis report\_will elaborate the findings for each\
+    \ land use category.\n\nMore information about all the workshops organised in\
+    \ this webpage: https://prepsoil.eu/regional-soil-needs-workshops"
+  keywords:
+    default:
+      keywords:
+        subject: Healthy Soils
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-11-21'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10693699
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10693698
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bayer-Lukas:
+    individualname: Bayer, Lukas
+    role: creator
+    organization: Leibniz Centre for Agricultural Landscape Research
+    url: ''
+  Bandru-Keerthi:
+    individualname: Bandru, Keerthi
+    role: creator
+    organization: Leibniz Centre for Agricultural Landscape Research
+    url: ''
+  Helming-Katharina:
+    individualname: Helming, Katharina
+    role: creator
+    organization: Leibniz Centre for Agricultural Landscape Research
+    url: ''
+  Gomez-Pablo:
+    individualname: Gomez, Pablo
+    role: creator
+    organization: "Comisi\xF3n Sectorial de Investigaci\xF3n Cient\xEDfica"
+    url: ''
+  Sanchez-Ivan:
+    individualname: Sanchez, Ivan
+    role: creator
+    organization: "Comisi\xF3n Sectorial de Investigaci\xF3n Cient\xEDfica"
+    url: ''
+  Nougues-Laura:
+    individualname: Nougues, Laura
+    role: creator
+    organization: Deltares
+    url: ''
+  Maring-Linda:
+    individualname: Maring, Linda
+    role: creator
+    organization: Deltares
+    url: ''
+  Jordan-Sabine:
+    individualname: Jordan, Sabine
+    role: creator
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Barron-Jennie:
+    individualname: Barron, Jennie
+    role: creator
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Keesstra-Saskia:
+    individualname: Keesstra, Saskia
+    role: creator
+    organization: Wageningen University & Research
+    url: ''
+content_info: {}

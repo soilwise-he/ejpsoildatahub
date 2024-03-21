@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3266977
+  dataseturi: https://doi.org/10.5281/zenodo.3266977
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Soil and litter macrofauna in shelterbelts and adjacent cropland: changes
+    in community structure after tree planting'
+  abstract: "Studies were carried out in the vicinity of Turew near Pozna\u0144 (Western\
+    \ Poland) in the years 2003 and 2004 in three midfield shelterbelts of different\
+    \ age (150, 11, 6 years old) and along two transects across shelterbelt (6 and\
+    \ 11 years old) &gt;ecotone&gt; field at distance 15 and 50 m from the shelterbelt.\
+    \ The field located in deforested area was treated as the control. The studies\
+    \ were aimed at estimating the changes in community structure (composition, density,\
+    \ biomass) of soil and litter macrofauna, (mainly dipteran larvae), related to\
+    \ shelterbelt age both within shelterbelts as in adjoining fields. The results\
+    \ were compared to previous studies carried out in 1999-2000 in the same agricultural\
+    \ landscape. The density and biomass of soil and litter macrofauna were many times\
+    \ higher in shelterbelts (2824-870 ind. m[^-2] and 3782-521 mg.d.wt. m[^-2]) than\
+    \ in fields (483-53 ind. m[^-2] and 101-12 mg.d.wt. m[^-2]) and increased with\
+    \ the age of planted trees. The same was true for taxonomic richness. Ecotone\
+    \ zone of both transects was characterised by the greatest density and biomass\
+    \ of animals, mainly those of mobile epigeic animals, particularly the ants. The\
+    \ density and biomass values were declining in the field with the increasing distance\
+    \ from the shelterbelt. Across the transect of an older (10-11 years old) shelterbelt\
+    \ and adjacent field the density and biomass of studied animals were higher in\
+    \ all plots than across the younger (5-6 years old) one. It can be concluded,\
+    \ that the effect of the shelterbelt increases with age of planted trees. The\
+    \ results confirm the previous suggestions of the enhancement of the field macrofauna\
+    \ by forested strips. The highest similarity in taxonomic and dominance structure\
+    \ was found between the shelterbelts and their ecotones and they differed significantly\
+    \ from those in the field."
+  keywords:
+    default:
+      keywords:
+        subject: individual body mass
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2007-07-01'
+    publication: '2007'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3266977
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3266976
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Elzbieta-Olechowicz:
+    individualname: "El\u017Cbieta Olechowicz"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

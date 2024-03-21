@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hawkins_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010017x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Soil Survey and Its Relation to Canadian Agriculture
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Soil Survey and Its Relation to Canadian Agriculture
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010017x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hawkins-A.-H.:
+    individualname: Hawkins, A. H.
+    role: creator
+  Hawkins-A.H.:
+    individualname: Hawkins, A.H.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

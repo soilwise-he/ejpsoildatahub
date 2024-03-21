@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3483260
+  dataseturi: https://doi.org/10.5281/zenodo.3483260
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Arduino Based Soil Monitoring System for Suitability of Rice Plantation
+  abstract: '<em>In the past few years, technology has grown to the summit. The use
+    of computers and electronic devices has been applied in almost every aspect of
+    human life. It has thus led to the idea of the soil monitoring system. This paper
+    is about soil monitoring system for suitability of rice plantation which would
+    use a smartphone and a web application to enable the farmers to get information
+    about their field for suitability of rice plantation from a remote location. The
+    system has three components: an Arduino microcontroller and other sensors to collect
+    site data, an ethernet shield to transfer collected data to the web database,
+    a web server to handle the obtained data and a web client and a smartphone to
+    get the valuable information from the processed data. The paper focuses on the
+    features and design of the proposed system.</em>'
+  keywords:
+    default:
+      keywords:
+        subject: Soil Monitoring, Smart Agriculture, Arduino, Smart Rice Plantation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-02-28'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3483260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3483259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Suraj-Awal-:
+    individualname: Suraj Awal ,
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

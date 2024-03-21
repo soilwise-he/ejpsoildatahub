@@ -1,0 +1,50 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10448584
+  dataseturi: https://doi.org/10.5281/zenodo.10448584
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE METHOD OF FINITE ELEMENTS DETERMINING THE PRESSURE OF THE SOIL ON THE
+    PIPE.
+  abstract: Questions of the determination of the pressure of the soil are considered
+    in this work on the pipe of the cylindrical profile. The Problem is decided by
+    the method of final elements.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-01'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10448584
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10448583
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jo'rayev-Toyir:
+    individualname: Jo'rayev Toyir
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

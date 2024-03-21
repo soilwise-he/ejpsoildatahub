@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3463885
+  dataseturi: https://doi.org/10.5281/zenodo.3463885
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Study of the Effect of Organic Geopolymer for Soil Stabilization Materials
+    as Main Road Subgrade
+  abstract: "<em>Soil stabilization is an effort to improve soil properties, increase\
+    \ soil carrying capacity and soil shear strength by mixing it with chemicals or\
+    \ other additives. Stabilizing the soil aims to increase soil density, replace\
+    \ inactive materials to increase cohesion and friction resistance that arises,\
+    \ adding it to change soil\u2019s chemical and/or index, reduce the soil drainage,\
+    \ replace bad soil so that it has technical specifications as subgrade for highway\
+    \ pavement. The most commonly used and best-considered soil chemical stabilization\
+    \ material for soil is cement but it has a negative impact so organic geopolymer\
+    \ used instead of it. The organic geopolymer forming material derived from oil\
+    \ palm shell ash and alkali activator are NaOH.</em> <em>Based on the results\
+    \ of soil index properties, the initial PI soil test results was 22.92% and after\
+    \ the addition of organic geopolymer become 15.70%. Soil engineering properties\
+    \ test in the form of standard compaction testing, CBR laboratory and unconfined\
+    \ compression test (UTC). The initial standard compaction test for the soil maximum\
+    \ dry density soil was 14,00 </em><em>kN/m<sup>3</sup>, </em><em>and the optimum\
+    \ water content was 29.39%, after adding organic geopolymer the weight become\
+    \ </em><em>14,80 kN/m<sup>3</sup></em><em>, and optimum water content become 25.35\
+    \ % (qualify). The initial CBR soil test results were 6.9%, but after the addition\
+    \ of CBR organic geopolymer become 8.7% (qualify). The initial soil UCT results\
+    \ were 59,87 kPa, after the addition of UCT organic geopolymer become 90,91 kPa\
+    \ (qualify).</em>"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-09-22'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3463885
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3463884
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pakar-Gunawan-Manalu:
+    individualname: Pakar Gunawan Manalu
+    role: creator
+    organization: ''
+    url: ''
+  Rusdiansyah:
+    individualname: Rusdiansyah
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: EMERSON_1917
+  dataseturi: https://doi.org/10.1097/00010694-191705000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: ARE ALL THE SOIL BACTERIA AND STREPTOTHRICS THAT DEVELOP ON DEXTROSE AGAR
+    AZOFIERS?
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: ARE ALL THE SOIL BACTERIA AND STREPTOTHRICS THAT DEVELOP ON DEXTROSE AGAR
+      AZOFIERS?
+    url: http://dx.doi.org/10.1097/00010694-191705000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Emerson-Paul:
+    individualname: Emerson, Paul
+    role: creator
+  EMERSON-PAUL:
+    individualname: EMERSON, PAUL
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

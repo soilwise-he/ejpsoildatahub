@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5215763
+  dataseturi: https://doi.org/10.5281/zenodo.5215763
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Distribution and assembly processes of soil fungal communities along an altitudinal
+    gradient in Tibetan Plateau
+  abstract: 'Table S1: Characteristics of the study sites on the Qinghai-Tibet Plateau,
+    Table S2: Pearson correlation analysis among soil physio chemical parameters and
+    soil layers along with elevation gradients, Table S3: Fungal community alpha diversity
+    analysis performed by One-Way ANOVA, Table S4: Alpha diversity analysis of fungal
+    communities by calculating mean values of samples among altitudinal gradients.
+    Table S5: Alpha diversity analysis of fungal communities by calculating mean values
+    of samples among soil Salyers. Table S6: The Mantel test results showing relationship
+    between fungal diversity indices and environmental and geographical distance for
+    all pairwise samples using mantel test, Figure S1: Soil physicochemical factors
+    distributions along with altitudinal gradients, Figure S2: The relative abundance
+    of fungal phyla along with elevation gradients and soil layers, Figure S3: The
+    relative abundance of top 15 fungal genera along with elevation gradients and
+    soil layers. Figure S4: Linear regression analysis of dominated fungal taxa at
+    class level among soil layers and altitudinal gradients, Figure S5: (A) Boxplot
+    of Nearest Taxon Index (NTI) values of fungal communities along altitudinal gradients
+    and (B)soil layers. (C) The rank abundance distribution lognormal model based
+    on Akaike Information Criterion (AIC). The letters above boxes indicate significant
+    differences between samples (Duncan''s test, p &lt; 0.05), Figure S6: Linear regression
+    analysis of fungal taxonomic and phylogenetic beta diversity indices among altitudinal
+    gradients, Figure S7: Linear regression analysis of fungal taxonomic and phylogenetic
+    beta diversity indices among soil layers and altitudinal gradients.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-08-18'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5215763
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5133370
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hui-Cao:
+    individualname: Hui Cao
+    role: creator
+  Cao-Hui:
+    individualname: Cao, Hui
+    role: ''
+    organization: Nanjing Agricultural University, China
+    url: ''
+content_info: {}

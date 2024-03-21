@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lee_2021
+  dataseturi: https://doi.org/10.1099/ijsem.0.004566
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Arachidicoccus soli sp. nov., a bacterium isolated from soil
+  abstract: 'Lee, Shin Ae, Kim, Tae-Wan, Sang, Mee-Kyung, Song, Jaekyeong, Kwon, Soon-Wo,
+    Weon, Hang-Yeon (2021): Arachidicoccus soli sp. nov., a bacterium isolated from
+    soil. International Journal of Systematic and Evolutionary Microbiology (004566)
+    71 (1): 1-6, DOI: 10.1099/ijsem.0.004566, URL: http://dx.doi.org/10.1099/ijsem.0.004566'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Bacteria
+      - Bacteroidetes
+      - Chitinophagia
+      - Chitinophagales
+      - Chitinophagaceae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Arachidicoccus soli sp. nov., a bacterium isolated from soil
+    url: http://dx.doi.org/10.1099/ijsem.0.004566
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lee-Shin-Ae:
+    individualname: Lee, Shin Ae
+    role: creator
+  Kim-Tae-Wan:
+    individualname: Kim, Tae-Wan
+    role: creator
+  Sang-Mee-Kyung:
+    individualname: Sang, Mee-Kyung
+    role: creator
+  Song-Jaekyeong:
+    individualname: Song, Jaekyeong
+    role: creator
+  Kwon-Soon-Wo:
+    individualname: Kwon, Soon-Wo
+    role: creator
+  Weon-Hang-Yeon:
+    individualname: Weon, Hang-Yeon
+    role: creator
+  Microbiology-Society:
+    individualname: Microbiology Society
+    role: creator
+content_info: {}

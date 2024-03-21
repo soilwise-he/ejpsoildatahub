@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10652487
+  dataseturi: https://doi.org/10.5281/zenodo.10652487
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Improvement of soft soil for road construction on the north brebes tegal
+    ring road project
+  abstract: The Brebes-Tegal North Ring Road is a primary arterial road located in
+    the Central Java North Coast (Pantura) corridor that crosses Brebes Regency (12,385
+    km) and Tegal City (4,715 km), this road was built with the aim of breaking up
+    the traffic congestion that occurred in the City Center of Brebes and Tegal City.
+    In 2010, the construction of the Brebes-Tegal North Ring Road began. However,
+    in 2013 development activities temporarily stopped due to a number of problems,
+    one of which was the condition of the soil at some of the construction sites in
+    the form of swamps and ponds resulting in low soil carrying capacity which affected
+    the construction of roads on it. This condition starts from STA. 8+800 to STA.
+    17+377 from the direction of Brebes to Tegal. therefore, in December 2019 the
+    project was resumed with a design change to improve the subgrade so that it could
+    withstand the burden of road construction and passing traffic. Soil improvement
+    is carried out using geotextiles, PVD and PHD in the selected soil embankment
+    work process so as to increase the CBR value of the subgrade for the better (higher
+    CBR). In addition, in bridge construction work it is necessary to use pile slabs
+    to prevent high pile failures.
+  keywords:
+    default:
+      keywords:
+        subject: Brebes-Tegal North Ring Road
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10652487
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10652486
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Agus-Bambang-Siswanto:
+    individualname: Agus Bambang Siswanto
+    role: creator
+    organization: Engineer Professional Education Study Program, Atma Jaya Catholic
+      University of Indonesia.
+    url: ''
+  Usman-Wijaya:
+    individualname: Usman Wijaya
+    role: creator
+    organization: Civil Engineering Study Program, Krida Wacana Christian University,
+      Indonesia.
+    url: ''
+  Enny-Widawati:
+    individualname: Enny Widawati
+    role: creator
+    organization: Engineer Professional Education Study Program, Atma Jaya Catholic
+      University of Indonesia.
+    url: ''
+content_info: {}

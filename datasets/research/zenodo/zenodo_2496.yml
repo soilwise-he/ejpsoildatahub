@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4571765
+  dataseturi: https://doi.org/10.5281/zenodo.4571765
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Transfer of natural radionuclides from soil to Centella asiatica, a medicinal
+    plant grown in Colombo district, Sri Lanka
+  abstract: "Natural radionuclides are taken up by the herbs from the environment\
+    \ and are accumulated in<br> varied concentrations in different parts of the plant.\
+    \ Therefore, it is considered as a type of<br> contaminant in herbal medicines,\
+    \ which may harm consumers by long term usage. Centella<br> asiatica (L) Urban\
+    \ is a weedy plant grown in Sri Lanka, which is widely used in folk medicine<br>\
+    \ and also routinely consumed as a green leafy vegetable by the majority of the\
+    \ population. The<br> objective of the present study is to determine the transfer\
+    \ of natural radionuclides from soil to<br> C. asiatica grown in Colombo district\
+    \ and assess the safety level of routine consumption. The<br> plant and surface\
+    \ soil samples were collected from 10 different locations within Colombo<br> district\
+    \ from where the samples are mainly supplied to local markets. The activity of<br>\
+    \ radionuclides were determined by analysing gamma spectroscopy obtained using\
+    \ HPGe<br> detector. The average activity concentration of <sup>238</sup>U, <sup>232</sup>Th\
+    \ and <sup>40</sup>K in the plants were 116 \xB1<br> 38 Bq kg<sup>-1</sup>,115\
+    \ \xB1 38 Bq kg<sup>-1</sup> and 1108 \xB1 298 Bq kg<sup>-1</sup> respectively.\
+    \ The average soil to plant<br> transfer factor of 238U, <sup>232</sup>Th and\
+    \ <sup>40</sup>K were 0.5, 0.4 and 15 respectively. The threshold<br> consumption\
+    \ rates for plant samples were ranged from 1 to 28 kg yr<sup>-1</sup>. The calculated\
+    \ average<br> committed effective dose for annual intake of the C. asiatica samples\
+    \ was 0.1 mSv yr<sup>-1</sup>, while<br> the world average annual effective dose\
+    \ is reported as 0.3 mSv yr<sup>-1</sup>. The results of the present<br> study\
+    \ suggest, that the routine usage of C. asiatica as a medicinal plant as well\
+    \ as an edible<br> plant is safe in terms of the radiological health hazards.<br>"
+  keywords:
+    default:
+      keywords:
+        subject: Natural Radionuclides, medicinal plants, transfer factor, safety
+          level
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-19'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4571765
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4571764
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chandrasiri-MRDA:
+    individualname: Chandrasiri, MRDA
+    role: creator
+    organization: Department of Nuclear Science, University of Colombo
+    url: ''
+  Bandara-RMUKGMS:
+    individualname: Bandara, RMUKGMS
+    role: creator
+    organization: Department of Nuclear Science, University of Colombo
+    url: https://orcid.org/0000-0002-8472-4262
+  Lamabadusuriya-MR:
+    individualname: Lamabadusuriya, MR
+    role: creator
+    organization: Department of Nuclear Science, University of Colombo
+    url: ''
+  Kumari-KDKP:
+    individualname: Kumari, KDKP
+    role: creator
+    organization: General Sir John Kotelawala Defence University, 10390, Rathmalana
+    url: ''
+content_info: {}

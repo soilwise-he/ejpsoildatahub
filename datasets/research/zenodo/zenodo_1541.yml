@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8021514
+  dataseturi: https://doi.org/10.5281/zenodo.8021514
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Response of Mulching to Soil Moisture Content and the Yield of Lettuce
+  abstract: Mulch materials, whether organic or inorganic, prevent soil moisture loss,
+    suppress weeds, improve and maintain healthy soil structure for plant development
+    and yield. This study was carried out to evaluate the impact of mulch materials
+    (Straw Mulch, Plastic Mulch and Neem Mulch) on soil moisture content, growth,
+    and yield of lettuce as well as effective weed count with Zero Mulch as control.
+    The result showed a significant effect (P &lt; 0.05) of the mulch materials on
+    soil moisture content, leaf area, leaf and weed count as well as yield in the
+    form of fresh biomass of lettuce. The results suggest that the organic mulch (straw
+    and neem) materials enhance the growth and yield of the lettuce plant better with
+    an appreciable soil moisture conservation.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-09'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8021514
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8021513
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thelma-Ntow:
+    individualname: Thelma Ntow
+    role: creator
+  Richard-Osei-Agyemang:
+    individualname: Richard Osei Agyemang
+    role: creator
+  Eliasu-Salifu:
+    individualname: Eliasu Salifu
+    role: creator
+    organization: ''
+    url: ''
+  Ntow-Thelma:
+    individualname: Ntow, Thelma
+    role: ''
+    organization: ''
+    url: ''
+  Agyemang-Richard-Osei:
+    individualname: Agyemang, Richard Osei
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

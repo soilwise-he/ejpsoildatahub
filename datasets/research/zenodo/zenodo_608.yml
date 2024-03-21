@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hardy_1902
+  dataseturi: https://doi.org/10.1080/00369220208733346
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Botanical geography and the biological utilisation of the soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Botanical geography and the biological utilisation of the soil
+    url: http://dx.doi.org/10.1080/00369220208733346
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hardy-Marcel:
+    individualname: Hardy, Marcel
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

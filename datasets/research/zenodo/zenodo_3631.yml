@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kampas_2011
+  dataseturi: https://doi.org/10.1002/stc.494
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Modal identification of freeway overcrossings with soil-structure interaction:
+    a case study: MODAL IDENTIFICATION OF FREEWAY OVERCROSSINGS'
+  abstract: "This paper is concerned with a widely studied problem\u2014that of the\
+    \ identification of the modal characteristics of freeway overcrossings and other\
+    \ bridges, which response is interacting with their approaching embankments and\
+    \ their foundation. The study implements a sophisticated parameter estimation\
+    \ method known as the prediction error method and examines in detail the sensitivity\
+    \ of the modal characteristics (frequency and damping) of the bridge when the\
+    \ input signals are taken at the free field, at the approaching embankments and\
+    \ pile caps, and on the abutments and the pile caps. The findings of this case\
+    \ study on the Meloland Road Overcrossing with the prediction error method are\
+    \ compared with the results from past system identification studies and the results\
+    \ from finite element analyses, which examined in depth the contribution of the\
+    \ approaching embankments in the bridge response. The study concludes that despite\
+    \ the appreciable energy dissipation capability of the approaching embankments\
+    \ the concrete bridge structure, while interacting mechanically with the embankments,\
+    \ remains small."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Modal identification of freeway overcrossings with soil-structure interaction:
+      a case study: MODAL IDENTIFICATION OF FREEWAY OVERCROSSINGS'
+    url: http://dx.doi.org/10.1002/stc.494
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kampas-Georgios:
+    individualname: Kampas, Georgios
+    role: creator
+  Makris-Nikolaos:
+    individualname: "Makris, \u039Dikolaos"
+    role: creator
+  Makris-Nicos:
+    individualname: Makris, Nicos
+    role: creator
+  Hindawi-Limited:
+    individualname: Hindawi Limited
+    role: creator
+content_info: {}

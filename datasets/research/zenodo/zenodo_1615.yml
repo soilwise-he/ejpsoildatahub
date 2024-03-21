@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7484266
+  dataseturi: https://doi.org/10.5281/zenodo.7484266
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Humidity and Salt Movement in the Environment of Soil at Different Structural
+    Levels
+  abstract: The article interprets the results of the research conducted with regard
+    to the influence of the natural factors - hidrothermic regime on the salt accumulation
+    in the saline soil of the Siyezen-Sumgayit massif. A comparative analysis of the
+    water and salt migration in the soil monoliths of mixed structure strengthened
+    with the natural ecological model, reinforced with the mixed and VO polymer, and
+    a definition of the effective method of the salt movement under the influence
+    of the Natural factors, are given in the article.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-12-12'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7484266
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7484265
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.Y.-Abbasova:
+    individualname: R.Y. Abbasova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

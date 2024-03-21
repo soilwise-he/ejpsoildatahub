@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7142848
+  dataseturi: https://doi.org/10.5281/zenodo.7142848
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Analysis of Seepage Through The Dam Considering Various Soil Characteristics
+    Using an Experimental and The Finite Element Modeling Technique
+  abstract: In this study, the rate of seepage flow through the dam was investigated
+    using both experimental and numerical modeling techniques. Two different types
+    of soil samples were collected at a depth of 1m from the Auchi site in Edo State,
+    Nigeria. The soil samples were subjected to preliminary tests such as the sieve
+    analysis, the limit state (liquid limit, plastic limit and plasticity index),
+    and the specific gravity test. Notable differences in the Geotechnical properties
+    of two samples of soils were observed. The sieve analysis indicated that the particles
+    passing through a 200-sieve number of size 0.075mm were 14.32% and 13.48% respectively.
+    The liquid limit of sample 1 and sample 2 was determined to be 35% and 30%, the
+    plastic limit 20.5% and 24.3%, the plasticity index 14.5% and 5.7% and the specific
+    gravity of the two samples 2.63 and 2.65 respectively. Shear test was conducted
+    to obtain the bearing capacity of soil using Terzaghi principle thereafter, the
+    finite element analysis was used by applying SEEP/W of the Geo Studio program
+    to determine the rate of flow of seepage through the dam. The result of the analysis
+    showed that earthen dam without considering the core gave 12% difference in the
+    seepage through the earthen material, the core of hydraulic conductivity 10 times
+    less than that of the homogenous material gave 19.06% percentage difference seepage
+    rate of flow with consideration of core with k 10 times less than homogenous material
+    and the core of hydraulic conductivity 100 times less results gave 17.86% percentage
+    difference for core of k 100 times less than homogenous material. Recommendations
+    were made based on these results to reduce the rate of flow of seepage through
+    the dam.
+  keywords:
+    default:
+      keywords:
+        subject: Rate of seepage flow through the dam,Analysis of bearing capacity
+          of soil using Terzaghi principle,Experimental and finite element analysis
+          of seepage,SEEP/W of the Geo Studio application in finite element method.
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2022-10-04'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7142848
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7142847
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  T.-E.-Okeke:
+    individualname: T. E. Okeke,
+    role: creator
+    organization: Department of Civil Engineering, University of Nigeria, Nsukka,
+      Enugu State, 410101, Nigeria.
+    url: ''
+  F.-C.-Onyeka:
+    individualname: F. C. Onyeka,
+    role: creator
+    organization: Department of Civil Engineering, Edo State University Uzairue, Edo
+      State, 312102, Nigeria.
+    url: ''
+  Sule-Joseph:
+    individualname: Sule Joseph,
+    role: creator
+    organization: Department of Civil Engineering, Edo State University Uzairue, Edo
+      State, 312102, Nigeria.
+    url: ''
+content_info: {}

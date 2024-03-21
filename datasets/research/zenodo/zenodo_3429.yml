@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1060725
+  dataseturi: https://doi.org/10.5281/zenodo.1060725
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence Of Watertable Depth On Soil Sodicity And Salinity
+  abstract: 'In order to monitor the water table depth on soil profile
+
+    salinity buildup, a field study was carried out during 2006-07. Wheat
+
+    (Rabi) and Sorghum (Kharif) fodder were sown in with three
+
+    treatments. The results showed that watertable depth lowered from
+
+    1.15m to 2.89 m depth at the end of experiment. With lower of
+
+    watertable depth, pH, ECe and SAR decreased under crops both
+
+    without and with gypsum and increased in fallowing. Soil moisture
+
+    depletion was directly proportional to lowering of watertable. With the
+
+    application of irrigation water (58cm) pH, ECe and SAR were reduced
+
+    in cropped plots, reduction was higher in gypsum applied plots than
+
+    non-gypsum plots. In case of fallowing, there was increase in pH, EC,
+
+    while slight reduction occurred in SAR values. However, soil salinity
+
+    showed an increasing upward trend under fallowing and its value in
+
+    0-30 cm soil layer was the highest amongst the treatments.'
+  keywords:
+    default:
+      keywords:
+        subject: Water table
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-08-27'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1060725
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1060724
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.A.-Chandio-A.G.-Soomro:
+    individualname: F.A. Chandio-A.G. Soomro
+    role: creator
+    organization: ''
+    url: ''
+  A.H.-Memon:
+    individualname: A.H. Memon
+    role: creator
+    organization: ''
+    url: ''
+  M.A.Talpur:
+    individualname: M.A.Talpur
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7151840
+  dataseturi: https://doi.org/10.5281/zenodo.7151840
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Static and dynamic testing and design methods for driven piles in multilayered
+    soil
+  abstract: This paper summarizes the results of static and dynamic pile load tests
+    performed on fully instrumented, driven piles<br> in Indiana. The soil profiles
+    at the test site locations consist of multiple layers of soils that are typical
+    of alluvial<br> deposits found at bridge sites. In most of the cases considered,
+    closed-ended and open-ended pipe piles were driven<br> side-by-side and tested
+    to allow a comparison of the resistances mobilized in each layer of the soil profile
+    and at the<br> bases of the piles. For robustness and redundancy of the measurements,
+    the piles were instrumented with a dense<br> arrangement of electrical-resistance
+    and vibrating-wire strain gauges along the entire length of the piles. The openended<br>
+    pipe piles were specially built with a double-wall system to allow separation
+    of the internal and external<br> resistances. Slow-maintained static load test
+    protocols were followed to obtain the pile load-settlement curves with<br> appropriate
+    stiffness values. The tests were performed to large pile head settlements to allow
+    determination of ultimate<br> loads. Dynamic load tests were also performed to
+    assess their ability to predict static resistances. The results of these<br> tests
+    were compared with predictions made using recent hybrid CPT-based design methods
+    and pile driving formulas<br> applied to measured sets during driving. An assessment
+    of the methods of prediction or verification of ultimate<br> resistances is made
+    based on the results.
+  keywords:
+    default:
+      keywords:
+        subject: case histories
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7151840
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7151839
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prezzi-M:
+    individualname: Prezzi, M
+    role: creator
+    organization: Purdue University
+    url: ''
+  Sakleshpur-V:
+    individualname: Sakleshpur, V
+    role: creator
+    organization: Purdue University
+    url: ''
+content_info: {}

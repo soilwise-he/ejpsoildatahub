@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10462540
+  dataseturi: https://doi.org/10.5281/zenodo.10462540
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effect of Soil Compaction on the Subgrade Strength of Road Pavement
+  abstract: Abstract Investigations were carried out on how different compactible
+    efforts affected the subgrade strength of road pavements. At a depth of 1.0 m,
+    soil samples were taken, and subsequently subjected to compaction and California
+    bearing ratio (CBR) tests. For the standard and modified Proctor compaction tests,
+    the soil samples were poured into a mould in three and five equal layers, respectively.
+    With 25, 30, 35, 40, 45, 50, 55, and 60 blows of the 2.5kg and 4.5kg rammer with
+    a drop of 300mm and 450mm, respectively, under light and heavy compaction conditions,
+    the standard and modified Proctor hammers compacted each layer uniformly. According
+    to the proctor compaction test results, dry density increased with moisture content
+    up to a maximum point before decreasing with additional increase in moisture content
+    for the different numbers of blows. Additionally, the results of measuring the
+    soil's Optimum Moisture Content (OMC) and Maximum Dry Density (MDD) with varying
+    numbers of blows using 2.5 kg and 4.5 kg rammers revealed that while the maximum
+    dry density increased with increasing number of blows, the optimum moisture content
+    value decreased. Finally, with the 2.5kg and 4.5kg rammers, the results of the
+    CBR test at various numbers of blows at 25, 30, 35, 40, 45, 50, 55, and 60 revealed
+    an increase in CBR with increasing number of blows. According to the aforementioned
+    findings, compaction increases soils' CBR, which has an effect on the subgrade
+    strength of road pavement since it reduces pavement thickness and cost.
+  keywords:
+    default:
+      keywords:
+        subject: California Bearing Ratio, Pavement, Soil Compaction, Subgrade
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10462540
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10462539
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Awarri-A.W.:
+    individualname: Awarri A.W.
+    role: creator
+    organization: Department of Civil Engineering, Rivers State University, Port Harcourt,
+      PMB. 5080
+    url: ''
+  Otto-C.G.:
+    individualname: Otto C.G.
+    role: creator
+    organization: Department of Civil Engineering, Rivers State University, Port Harcourt,
+      PMB. 5080
+    url: ''
+content_info: {}

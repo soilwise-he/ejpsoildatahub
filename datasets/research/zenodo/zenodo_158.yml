@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: POTTER_1918
+  dataseturi: https://doi.org/10.1097/00010694-191810000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE ORGANIC PHOSPHORUS OF SOIL
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE ORGANIC PHOSPHORUS OF SOIL
+    url: http://dx.doi.org/10.1097/00010694-191810000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Potter-R.-S.:
+    individualname: Potter, R. S.
+    role: creator
+  Snyder-R.-S.:
+    individualname: Snyder, R. S.
+    role: creator
+  POTTER-R.-S.:
+    individualname: POTTER, R. S.
+    role: creator
+  SNYDER-R.-S.:
+    individualname: SNYDER, R. S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

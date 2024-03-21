@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10336217
+  dataseturi: https://doi.org/10.5281/zenodo.10336217
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Kinetics of bioremediation of crude oil polluted soil using potato peels
+    as bio-stimulant
+  abstract: "This study investigated the utilization of bio-stimulant derived from\
+    \ agro-based resource (potato peels) in the remediation of crude-oil contaminated\
+    \ soil. At a constant proportion of crude oil contamination, varying concentration\
+    \ of the biostimulant (5ml, 10ml, 15ml and 20ml) were introduced for the treatment\
+    \ (bioremediation and degradation) of the contaminated sites and left for a degradation\
+    \ period in plastic vessels. Periodic sampling of soil from each vessel was carried\
+    \ out at 5 days interval for total petroleum hydrocarbon analysis. Results indicated\
+    \ that after 20 days of exposure to the organic biostimulants, biodegradation\
+    \ of crude oil contaminated soil samples was directly proportional to the potato\
+    \ peels dosage.\_ The potato peels (PO) derived biostimulant recorded 94.43 percentage\
+    \ degradation at 20ml dosage and 20 days contact time. Oil contaminated soil samples\
+    \ amended potato peels biostimulant recorded half-life of 0.702day and biodegradation\
+    \ rate constants of 0.986day-1. The zero order kinetic model best described the\
+    \ bioremediation kinetic behaviour of the bioremediation process. The findings\
+    \ of this research suggest that potato peels can be used as an effective organic\
+    \ amendment for the biodegradation of crude oil contaminated soil."
+  keywords:
+    default:
+      keywords:
+        subject: Bioremediation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-07-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10336217
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10336216
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ezenwoko:
+    individualname: Ezenwoko
+    role: creator
+    organization: Department of Chemical Engineering, Nnamdi Azikiwe University, P.M.B
+      5025, Awka, Nigeria.
+    url: ''
+  GC:
+    individualname: GC
+    role: creator
+    organization: Department of Chemical Engineering, Nnamdi Azikiwe University, P.M.B
+      5025, Awka, Nigeria.
+    url: ''
+  Okey-Onyesolu-CF:
+    individualname: Okey-Onyesolu CF
+    role: creator
+    organization: Department of Chemical Engineering, Nnamdi Azikiwe University, P.M.B
+      5025, Awka, Nigeria.
+    url: ''
+  Okoye-CC:
+    individualname: Okoye CC
+    role: creator
+    organization: Department of Chemical Engineering, Nnamdi Azikiwe University, P.M.B
+      5025, Awka, Nigeria.
+    url: ''
+  Igbonekwu-LI:
+    individualname: Igbonekwu LI
+    role: creator
+    organization: Department of Chemical Engineering, Nnamdi Azikiwe University, P.M.B
+      5025, Awka, Nigeria.
+    url: ''
+content_info: {}

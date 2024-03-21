@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126575
+  dataseturi: https://doi.org/10.5281/zenodo.1126575
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination Of Unsaturated Soil Permeability Based On Geometric Factor
+    Development Of Constant Discharge Model
+  abstract: "After Yogyakarta earthquake in 2006, the main problem that occurred in\
+    \ the first yard of Prambanan Temple is ponding area that occurred after rainfall.\
+    \ Soil characterization needs to be determined by conducting several processes,\
+    \ especially permeability coefficient (<em>k</em>) in both saturated and unsaturated\
+    \ conditions to solve this problem. More accurate and efficient field testing\
+    \ procedure is required to obtain permeability data that present the field condition.\
+    \ One of the field permeability test equipment is Constant Discharge procedure\
+    \ to determine the permeability coefficient. Necessary adjustments of the Constant\
+    \ Discharge procedure are needed to be determined especially the value of geometric\
+    \ factor (<em>F</em>) to improve the corresponding value of permeability coefficient.\
+    \ The value of <em>k</em> will be correlated with the value of volumetric water\
+    \ content (<em>\u03B8</em>) of an unsaturated condition until saturated condition.\
+    \ The principle procedure of Constant Discharge model provides a constant flow\
+    \ in permeameter tube that flows into the ground until the water level in the\
+    \ tube becomes constant. Constant water level in the tube is highly dependent\
+    \ on the tube dimension. Every tube dimension has a shape factor called the geometric\
+    \ factor that affects the result of the test. Geometric factor value is defined\
+    \ as the characteristic of shape and radius of the tube. This research has modified\
+    \ the geometric factor parameters by using empty material tube method so that\
+    \ the geometric factor will change. Saturation level is monitored by using soil\
+    \ moisture sensor. The field test results were compared with the results of laboratory\
+    \ tests to validate the results of the test. Field and laboratory test results\
+    \ of empty tube material method have an average difference of 3.33 x 10<sup>-4</sup>\
+    \ cm/sec. The test results showed that modified geometric factor provides more\
+    \ accurate data. The improved methods of constant discharge procedure provide\
+    \ more relevant results."
+  keywords:
+    default:
+      keywords:
+        subject: unsaturated soils.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-08-04'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126575
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126574
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Rifa'i:
+    individualname: A. Rifa'i
+    role: creator
+    organization: ''
+    url: ''
+  Y.-Takeshita:
+    individualname: Y. Takeshita
+    role: creator
+    organization: ''
+    url: ''
+  M.-Komatsu:
+    individualname: M. Komatsu
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

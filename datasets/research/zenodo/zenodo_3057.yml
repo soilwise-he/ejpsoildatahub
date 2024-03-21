@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Siewert_2018
+  dataseturi: https://doi.org/10.5194/bg-15-1663-2018
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'High-resolution digital mapping of soil organic carbon in permafrost terrain
+    using machine learning: a case study in a sub-Arctic peatland environment'
+  abstract: "Soil organic carbon (SOC) stored in northern peatlands and\npermafrost-affected\
+    \ soils are key components in the global carbon cycle. This\narticle quantifies\
+    \ SOC stocks in a sub-Arctic mountainous peatland\nenvironment in the discontinuous\
+    \ permafrost zone in Abisko, northern Sweden.\nFour machine-learning techniques\
+    \ are evaluated for SOC quantification:\nmultiple linear regression, artificial\
+    \ neural networks, support vector\nmachine and random forest. The random forest\
+    \ model performed best and was\nused to predict SOC for several depth increments\
+    \ at a spatial resolution of\n1\u202Fm (1\xD71\u202Fm). A high-resolution (1\u202F\
+    m) land cover classification\ngenerated for this study is the most relevant predictive\
+    \ variable. The\nlandscape mean SOC storage (0\u2013150\u202Fcm) is estimated\
+    \ to be\n8.3\u202F\xB1\u202F8.0\u202Fkg\u202FC\u202Fm&lt;sup&gt;\u22122&lt;/sup&gt;\
+    \ and the SOC stored in the top meter\n(0\u2013100\u202Fcm) to be 7.7\u202F\xB1\
+    \u202F6.2\u202Fkg\u202FC\u202Fm&lt;sup&gt;\u22122&lt;/sup&gt;. The predictive\
+    \ modeling\nhighlights the relative importance of wetland areas and in particular\
+    \ peat\nplateaus for the landscape's SOC storage. The total SOC was also predicted\
+    \ at\nreduced spatial resolutions of 2, 10, 30, 100, 250 and 1000\u202Fm and shows\
+    \ a\nsignificant drop in land cover class detail and a tendency to underestimate\n\
+    the SOC at resolutions \u2009&gt;\u2009\u202F30\u202Fm. This is associated with\
+    \ the occurrence of\nmany small-scale wetlands forming local hot-spots of SOC\
+    \ storage that are\nomitted at coarse resolutions. Sharp transitions in SOC storage\
+    \ associated\nwith land cover and permafrost distribution are the most challenging\n\
+    methodological aspect. However, in this study, at local, regional and\ncircum-Arctic\
+    \ scales, the main factor limiting robust SOC mapping efforts is\nthe scarcity\
+    \ of soil pedon data from across the entire environmental space.\nFor the Abisko\
+    \ region, past SOC and permafrost dynamics indicate that most of\nthe SOC is barely\
+    \ 2000\_years old and very dynamic. Future research needs to\ninvestigate the\
+    \ geomorphic response of permafrost degradation and the fate of\nSOC across all\
+    \ landscape compartments in post-permafrost landscapes."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'High-resolution digital mapping of soil organic carbon in permafrost terrain
+      using machine learning: a case study in a sub-Arctic peatland environment'
+    url: http://dx.doi.org/10.5194/bg-15-1663-2018
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Siewert-M.-B.:
+    individualname: Siewert, M. B.
+    role: creator
+  Siewert-Matthias-B.:
+    individualname: Siewert, Matthias B.
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+content_info: {}

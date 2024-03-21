@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Smyth_1912
+  dataseturi: https://doi.org/10.1080/14786441008637368
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: LX. On the supply of radium emanation from the soil to the atmosphere
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: LX. On the supply of radium emanation from the soil to the atmosphere
+    url: http://dx.doi.org/10.1080/14786441008637368
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Smyth-Louis-B.:
+    individualname: Smyth, Louis B.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

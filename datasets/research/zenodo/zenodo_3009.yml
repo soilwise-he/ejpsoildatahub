@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Dosho_2022
+  dataseturi: https://doi.org/10.1007/s12892-022-00143-7
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Genotype-by-environment interaction and yield stability for grain yield of
+    quality protein maize hybrids under low and optimum soil nitrogen environments
+  abstract: '&lt;p&gt;Abstract&lt;/p&gt;
+
+
+    &lt;p&gt;Maize (Zea mays L.) yield performance is determined by the effects of
+    genotype and environment, and genotype &times; environment interaction (GEI).
+    A complete diallel crosses of 11 QPM inbred lines were evaluated under both low
+    and optimum soil nitrogen environments to identify high grain yield performance
+    and yield stability of single-cross hybrids in six environments. The results of
+    analysis of variance showed that variations among hybrids attributable to genotypes
+    (G), environments (E), and genotype &times; environment interactions (GEI) were
+    significant for grain yield. The result of the AMMI analysis showed that grain
+    yield performance of the genotypes was significantly affected by environments,
+    genotypes and GEI across six environments. The GGE biplot showed the sum of the
+    first and second principal component axes explained 61.66% of the total variation.
+    Genotype TL156583 &times; TL156612 was identified as the best genotype among hybrids
+    across six environments, and less stable than genotype MHQ138 which was the poorest
+    genotype but stable across all environments. AMMI stability value identified TL155976
+    &times; TL156583, TL156583 &times; TL155932, and TL156579 &times; TL156583 as
+    stable genotypes, and TL156583 &times; VL05128, TL156583 &times; TL147078, and
+    TL156579 &times; TL155976 as unstable ones. GGE-biplot identified genotype TL156583
+    &times; VL05128 to be the winner in E6 (Dire-Dawa optimum N) whereas genotype
+    TL156612 &times; TL148288 was the winner in E 2 (Raare optimum N) and E5 (Dire-Dawa
+    low N). Genotype TL156579 &times; TL155976 won in E1 (Raare low N) and E5 (Dire-Dawa
+    low N).&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - "AMMI \xB7 GGE biplot \xB7 G \xD7 E-interaction \xB7 Low N \xB7 Optimum N\
+        \ \xB7 Yield stability \xB7 Quality protein maize"
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Genotype-by-environment interaction and yield stability for grain yield
+      of quality protein maize hybrids under low and optimum soil nitrogen environments
+    url: http://dx.doi.org/10.1007/s12892-022-00143-7
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dosho-Bedasa-M:
+    individualname: Dosho Bedasa M
+    role: creator
+  Dosho-Bedasa-M.:
+    individualname: Dosho, Bedasa M.
+    role: creator
+  Ifie-B.-E.:
+    individualname: Ifie, B. E.
+    role: creator
+  Asante-I.-K.:
+    individualname: Asante, I. K.
+    role: creator
+  Danquah-E.-Y.:
+    individualname: Danquah, E. Y.
+    role: creator
+  Zeleke-Habtamu:
+    individualname: Zeleke, Habtamu
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

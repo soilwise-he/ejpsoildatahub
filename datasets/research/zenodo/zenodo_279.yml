@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Green_1912
+  dataseturi: https://doi.org/10.1017/s0021859600001751
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Studies on Soil Physics: Part II \u2014 The Permeability of an Ideal Soil\
+    \ to Air and Water"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Studies on Soil Physics: Part II \u2014 The Permeability of an Ideal Soil\
+      \ to Air and Water"
+    url: http://dx.doi.org/10.1017/s0021859600001751
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Green-Heber:
+    individualname: Green, Heber
+    role: creator
+  Ampt-G.-A.:
+    individualname: Ampt, G. A.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

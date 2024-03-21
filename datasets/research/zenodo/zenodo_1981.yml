@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8082199
+  dataseturi: https://doi.org/10.5281/zenodo.8082199
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Study of Strength Properties of Soil for Influence of the Inclusion of Recycled
+    Jute Strands
+  abstract: <em>In developing countries like India, the construction of a comprehensive
+    road network is a major challenge due to limited financial resources. To address
+    this, alternative materials and construction techniques are being explored to
+    improve subgrade engineering properties. One such approach is the incorporation
+    of recycled jute fiber, which is locally available and cost-effective. This study
+    involved randomly mixing jute fibers with soil and conducting CBR and Direct Shear
+    tests to evaluate the strength and shear parameters of the subgrade soil. Different
+    fiber lengths and percentages were tested, and the results indicated that the
+    addition of jute fiber improved the strength and stability of the subgrade. The
+    CBR and Direct Shear tests showed an initial increase in strength with increasing
+    fiber content up to a certain percentage, beyond which the values decreased. Permeability
+    tests were also conducted. The findings of this study demonstrate the potential
+    of recycled jute fiber as a viable additive for improving the performance of subgrade
+    soils. The increased strength and stability provided by the jute fiber can contribute
+    to the longevity and durability of road infrastructure, particularly in areas
+    with limited resources. The use of locally available materials like jute fiber
+    not only reduces construction costs but also promotes sustainable and eco-friendly
+    practices in the field of civil engineering. Further research and field implementation
+    of jute fiber reinforcement in road construction projects can pave the way for
+    more efficient and resilient transportation networks in developing countries.</em>
+  keywords:
+    default:
+      keywords:
+        subject: resources,soul, subgrade soil, materials,etc.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-06-26'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8082199
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8082198
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Er.-Praphul-Chandra-Patel:
+    individualname: Er. Praphul Chandra Patel
+    role: creator
+    organization: M. Tech Student, Civil Engineering Department, Geeta Engineering
+      College, Panipat, Haryana
+    url: ''
+  Er.-Ajay-Singh-Thakur:
+    individualname: Er. Ajay Singh Thakur
+    role: creator
+    organization: Assistant Professor, Civil Engineering Department, Geeta Engineering
+      College, Panipat, Haryana
+    url: ''
+  Dr.-Amit-Gupta:
+    individualname: Dr. Amit Gupta
+    role: creator
+    organization: Professor, Engineering Department, Geeta Engineering College, Panipat,
+      Haryana
+    url: ''
+content_info: {}

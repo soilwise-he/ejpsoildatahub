@@ -1,0 +1,112 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3463420
+  dataseturi: https://doi.org/10.5281/zenodo.3463420
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Numerical Simulation of soil liquefaction during the 20 may 2012 M6.1 Emilia
+    earthquake in Northern Italy: the case study of Pieve di Cento'
+  abstract: On May 20, 2012, a seismic event of moment magnitude MW = 6.1 hit and
+    caused severe damage on a large area in the river Po Valley, located in the northern
+    Italy. This earthquake was characterized by extensive occurrence of soil liquefaction
+    and basin effects lying over deep deposits. Within the scope of the European research
+    project titled LIQUEFACT, a reference site located in the countryside near the
+    hamlet of Pieve di Cento (at the boundary of the province of Bologna towards Ferrara)
+    was selected as a trial field in order to assess the effectiveness of several
+    mitigation measures against liquefaction. As a first step of the task, this paper
+    presents the geotechnical model of the site based on in-situ investigations and
+    pre-existing geological studies, which allowed to locate the bedrock depth. As
+    a second step, representative input motions for the LIQUEFACT project were selected
+    aiming at simulating the 20.V.2012 seismic event as well as three possible future
+    scenarios with an increasing level of seismic intensity. Finally, preliminary
+    dynamic analyses are presented, that reproduce the observed liquefaction triggering
+    after the 2012 main event and predict the seismic soil response at the test site.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-06-21'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3463420
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3463419
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chiaradonna-Anna:
+    individualname: Chiaradonna, Anna
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Ozcebe-Ali-G.:
+    individualname: Ozcebe, Ali G.
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Bozzoni-Francesca:
+    individualname: Bozzoni, Francesca
+    role: creator
+    organization: EUCENTRE
+    url: ''
+  Fama-Antonio:
+    individualname: Fama, Antonio
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Zuccolo-Elisa:
+    individualname: Zuccolo, Elisa
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Lai-Carlo-G.:
+    individualname: Lai, Carlo G.
+    role: creator
+    organization: University of Pavia
+    url: ''
+  Flora-Alessandro:
+    individualname: Flora, Alessandro
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Cosentini-Renato-M.:
+    individualname: Cosentini, Renato M.
+    role: creator
+    organization: University of Pavia
+    url: ''
+  d'Onofrio-Anna:
+    individualname: d'Onofrio, Anna
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Bilotta-Emilio:
+    individualname: Bilotta, Emilio
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+  Silvestri-Francesco:
+    individualname: Silvestri, Francesco
+    role: creator
+    organization: University of Napoli Federico II
+    url: ''
+content_info: {}

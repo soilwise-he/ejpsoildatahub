@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6417260
+  dataseturi: https://doi.org/10.5281/zenodo.6417260
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies on the Clay Mineralogy of Aligarh Soil Profiles
+  abstract: Faculty of Engineering and Technology, Aligarh Muslim University, Aligarh
+    <em>Manuscript received 30 May 1973; revised 12 December 1973; accepted 15 February
+    1974</em> Studies on the Clay Mineralogy of Aligarh Soil Profiles
+  keywords:
+    default:
+      keywords:
+        subject: method
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1974-04-30'
+    publication: '1974'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6417260
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6417259
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MOHD.-AKHTAR:
+    individualname: MOHD. AKHTAR
+    role: creator
+    organization: ''
+    url: ''
+  B.-RAMA-RAO:
+    individualname: B. RAMA RAO
+    role: creator
+    organization: ''
+    url: ''
+  J.-P.-SINGHAL:
+    individualname: J. P. SINGHAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3897048
+  dataseturi: https://doi.org/10.5281/zenodo.3897048
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Preprint
+identification:
+  title: Rapid assessment of As and other elements in naturally-contaminated calcareous
+    soil through hyperspectral VIS-NIR analysis
+  abstract: Although arsenic (As) toxicity in soil vary depending on its chemical
+    forms and oxidation states, regulatory limits for this compartment rely on total
+    As content. Conventional methods of total As determination are expensive and time-consuming.
+    The development of predictive techniques might enable a speditive assessment of
+    As contamination in those scenarios, such as thermal spring sites, where exposure
+    to the metalloid poses a threat to human health. The objective of this study was
+    to assess the suitability of Visible Near Infrared spectrophotometry for predicting
+    the total As content in highly calcareous thermal spring soils and the same aim
+    was pursued for those elements (i.e. Al, Fe and Mn) the chemistry of which is
+    tightly connected with that of As. A Partial Least Square approach, including
+    cross-validation and external independent test, was used to relate the concentrations
+    of the target elements to spectral data. The most accurate prediction was found
+    for As with Pearson's coefficient, RMSE, RPD and SEP being equal to 0.94, 69.65,
+    2.9 and 66.99, respectively. Less accurate predictions were found for Al (r=0.88;
+    RMSE=11014; RPD=1.96; SEP=11014), Fe (r=0.93; RMSE=6921.1; RPD=2.45; SEP=6462.4),
+    and Mn (r=0.92; RMSE=542.01; RPD=2.43; SEP=529.79). Pallottino, F., Stazi, S.R.,
+    D'Annibale, A., Marabottini R., Allevato E., Antonucci F., Costa C., Moscatelli,
+    M.C., Menesatti, P. (2018). Rapid assessment of As and other elements in naturally-contaminated
+    calcareous soil through hyperspectral VIS-NIR analysis. Talanta, 190, 167-173.
+    https://doi.org/10.1016/j.talanta.2018.07.082
+  keywords:
+    default:
+      keywords:
+        subject: speditive soil analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-07-29'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3897048
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3897047
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pallottino-Federico:
+    individualname: Pallottino, Federico
+    role: creator
+    organization: CREA Roma
+    url: ''
+  Stazi-Silvia-Rita:
+    individualname: Stazi, Silvia Rita
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  D'Annibale-Alessandro:
+    individualname: D'Annibale, Alessandro
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Marabottini-Rosita:
+    individualname: Marabottini, Rosita
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Allevato-Enrica:
+    individualname: Allevato, Enrica
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Antonucci-Francesca:
+    individualname: Antonucci, Francesca
+    role: creator
+    organization: CREA Roma
+    url: ''
+  Costa--Corrado:
+    individualname: Costa,  Corrado
+    role: creator
+  Moscatelli-Maria-Cristina:
+    individualname: Moscatelli, Maria Cristina
+    role: creator
+    organization: "Universit\xE0 degli Studi della Tuscia"
+    url: ''
+  Menesatti-Paolo:
+    individualname: Menesatti, Paolo
+    role: creator
+    organization: CREA Roma
+    url: ''
+  Costa-Corrado:
+    individualname: Costa, Corrado
+    role: ''
+    organization: CREA Roma
+    url: ''
+content_info: {}

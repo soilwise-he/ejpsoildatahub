@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5637767
+  dataseturi: https://doi.org/10.5281/zenodo.5637767
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Distribution and plant availability of Cd, Pb, Cu and As in different particlesize
+    soil fractions
+  abstract: "Institute of Environmental Engineering, School of Metallurgy and Environment,\
+    \ Central South University, Changsha 410083, China <em>E-mail</em> : banerjeesme@csu.edu.cn,\
+    \ banerjeeenvsc@gmail.com <em>Manuscript received 06 July 2017, accepted 08 August\
+    \ 2017</em> The present study was conducted to evaluate the distribution and plant\
+    \ availability of Cd, Pb, Cu and As in different particle-size soil fractions.\
+    \ The distribution of total heavy metals and their plant availability were investigated\
+    \ in a metal mining area in the Hunan Province, China. Soils were partitioned\
+    \ into five particle-size fractions : coarse sand (&gt; 500 \xB5m), medium sand\
+    \ (125\u2013500 \xB5m), fine sand (50\u2013125 \xB5m), silt (2\u201350 \xB5m)\
+    \ and clay (&lt;2 \xB5m). The most dominant elements in all size fractions at\
+    \ all sites are Pb and Cu followed by Cd and As. The concentration of heavy metals\
+    \ and metalloid in the studied soils ranged between 718\u2013936 mg/kg : Pb, 9.625\u2013\
+    28.352 mg/kg : Cd, 92\u2013142 mg/kg : Cu and 42.882\u201374.862 mg/kg : As. Concentrations\
+    \ of plant available Pb (42.964\u2013141.968 mg/kg), Cd (2.846\u201311.273 mg/kg),\
+    \ Cu (15.932\u201321.857 mg/kg)and As (6.954\u20139.251 mg/kg) in the soils were\
+    \ higher in the clay fraction (Pb&gt;Cu&gt;As. Cd showed a high environmental\
+    \ risk with the RAC value for the clay (18.216\u201339.761%) and silt (18.904\u2013\
+    36.181%) of the studied soil could be considered to be dangerous to surrounding\
+    \ soil ecosystem. The study reflected the relative importance of the particle\
+    \ size fractions with respect to their contribution to metal availability. The\
+    \ study also revealed that the Cd, Pb, Cu and As were characteristically enriched\
+    \ in the fine clay particles due to higher surface area and the compositional\
+    \ characteristics of the fine particles."
+  keywords:
+    default:
+      keywords:
+        subject: RAC
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-09-01'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5637767
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5637766
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Uday-Sankar-Banerjee:
+    individualname: Uday Sankar Banerjee
+    role: creator
+  Zhao-hui-Guo:
+    individualname: Zhao-hui Guo
+    role: creator
+  Kanggen-Zhou:
+    individualname: Kanggen Zhou
+    role: creator
+    organization: ''
+    url: ''
+  Li-Yuan-Chai:
+    individualname: Li-Yuan Chai
+    role: creator
+  Banerjee-Uday-Sankar:
+    individualname: Banerjee, Uday Sankar
+    role: ''
+    organization: ''
+    url: ''
+  Guo-Zhao-Hui:
+    individualname: Guo, Zhao-Hui
+    role: ''
+    organization: ''
+    url: ''
+  Chai-Li-Yuan:
+    individualname: Chai, Li-Yuan
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

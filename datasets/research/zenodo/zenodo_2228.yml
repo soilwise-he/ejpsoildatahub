@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: '1905'
+  dataseturi: https://doi.org/10.1098/rspb.1905.0055
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 10.1098-rspb.1905.0055
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 10.1098-rspb.1905.0055
+    url: http://dx.doi.org/10.1098/rspb.1905.0055
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hall-A.-D.:
+    individualname: Hall, A. D.
+    role: creator
+  Miller-N.-H.-J.:
+    individualname: Miller, N. H. J.
+    role: creator
+  The-Royal-Society:
+    individualname: The Royal Society
+    role: creator
+content_info: {}

@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6405425
+  dataseturi: https://doi.org/10.5281/zenodo.6405425
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Mobilization of Iron in Soil and Its Influence on Phosphate Availability
+    Through the Chelating Effects of Aqueous Extracts of Some Green Manuring Plant
+    Materials
+  abstract: Department of Soil Science and Agricultural Chemistry, Faculty of Agriculture,
+    University of Kalyani, West Bengal <em>Manuscript received </em>16 <em>April </em>1974;
+    <em>accepted </em>2 <em>May </em>1975 Mobilization of iron in soil through the
+    chelation effects of the aqueous extracts of Alfalfa, Berseem and <em>P. calcaratus
+    </em>plant materials, and its effect on the release of phosphate has been studied
+    with two types of West Bengal soil at different levels of pH and different submergence
+    periods. The maximal release of iron was observed in all cases on incubation of
+    the soil samples for 15 days. Irrespective of soils the order of chelating ability
+    was observed to be Alfalfa <em>&gt;</em> <em>P. calcaratus &gt; </em>Berseem.
+    No definite correlation could, however, be obtained between the release of iron
+    and phosphate availability.
+  keywords:
+    default:
+      keywords:
+        subject: Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1975-08-31'
+    publication: '1975'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6405425
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6405424
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  DHRUBAJYOTI-BHATTACHARYA:
+    individualname: DHRUBAJYOTI BHATTACHARYA
+    role: creator
+    organization: ''
+    url: ''
+  BISWANATH-DAS:
+    individualname: BISWANATH DAS
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

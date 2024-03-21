@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kellerman_1913
+  dataseturi: https://doi.org/10.1126/science.38.968.95
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "The Prevalence of\n            Bacillus radicicola\n            in Soil"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "The Prevalence of\n            Bacillus radicicola\n            in Soil"
+    url: http://dx.doi.org/10.1126/science.38.968.95
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kellerman-K.-F.:
+    individualname: Kellerman, K. F.
+    role: creator
+  Leonard-L.-T.:
+    individualname: Leonard, L. T.
+    role: creator
+  Kellerman-Karl-F.:
+    individualname: Kellerman, Karl F.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

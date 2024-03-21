@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: H_gstr_m_2018
+  dataseturi: https://doi.org/10.1029/2018JF004658
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Evaluation of a MetOp ASCAT\u2010Derived Surface Soil Moisture Product in\
+    \ Tundra Environments"
+  abstract: '&lt;p&gt;Satellite-derived surface soil moisture data are available for
+    the Arctic, but detailed validation&lt;br&gt;
+
+    is still lacking. Previous studies have shown low correlations between in situ
+    and modeled data. It is&lt;br&gt;
+
+    hypothesized that soil temperature variations after soil thaw impact MetOp ASCAT
+    satellite-derived surface&lt;br&gt;
+
+    soil moisture (SSM) measurements in wet tundra environments, as C band backscatter
+    is sensitive to&lt;br&gt;
+
+    changes in dielectric properties. We compare in situ measurements of water content
+    within the active layer&lt;br&gt;
+
+    at four sites across the Arctic in Alaska (Barrow, Sagwon, Toolik) and Siberia
+    (Tiksi), taken in the spring after&lt;br&gt;
+
+    thawing and in autumn prior to freezing. In addition to the long-term measurement
+    fields, where sensors&lt;br&gt;
+
+    are installed deeper in the ground, we designed a monitoring setup for measuring
+    moisture very close&lt;br&gt;
+
+    to the surface in the Lena River Delta, Siberia. The volumetric water content
+    (VWC) and soil temperature&lt;br&gt;
+
+    sensors were placed in the moss organic layer in order to account for the limited
+    penetration depth of&lt;br&gt;
+
+    the radar signal. ASCAT SSM variations are generally very small, in line with
+    the low variability of in situ&lt;br&gt;
+
+    VWC. Short-term changes after complete thawing of the upper organic layer, however,
+    seem to be mostly&lt;br&gt;
+
+    influenced by soil temperature. Correlations between SSM and in situ VWC are generally
+    very low, or even&lt;br&gt;
+
+    negative. Mean standard deviation matching results in a comparably high root-mean-square
+    error (on&lt;br&gt;
+
+    average 11%) for predictions of VWC. Further investigations and measurement networks
+    are needed to&lt;br&gt;
+
+    clarify factors causing temporal variation of C band backscatter in tundra regions.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Evaluation of a MetOp ASCAT\u2010Derived Surface Soil Moisture Product\
+      \ in Tundra Environments"
+    url: http://dx.doi.org/10.1029/2018JF004658
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hogstrom-Elin:
+    individualname: "H\xF6gstr\xF6m, Elin"
+    role: creator
+  Heim-Birgit:
+    individualname: Heim, Birgit
+    role: creator
+  Bartsch-Annett:
+    individualname: Bartsch, Annett
+    role: creator
+  Bergstedt-Helena:
+    individualname: Bergstedt, Helena
+    role: creator
+  Pointner-Georg:
+    individualname: Pointner, Georg
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+content_info: {}

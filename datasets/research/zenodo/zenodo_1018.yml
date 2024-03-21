@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Keenan_2023
+  dataseturi: https://doi.org/10.3897/aca.6.e107627
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Disentangling carcass size and climate effects on soil biogeochemistry during
+    decomposition
+  abstract: "&lt;p&gt;When an animal dies the decomposition of its carcass releases\
+    \ multiple compounds that become available to soil microbiota altering soil biogeochemistry.\
+    \ This zone of affected substrate is characterized by significant changes to numerous\
+    \ soil biogeochemical parameters including pH, conductivity, microbial respiration\
+    \ rates, dissolved organic carbon (DOC), C/N ratios, carbon and nitrogen stable\
+    \ isotopes (\u03B413C and&lt;em&gt;\_&lt;/em&gt;\u03B415N), and major/trace elemental\
+    \ concentrations. Although the effects of animal decomposition on these parameters\
+    \ have been recorded for various organisms and in a variety of ecosystems several\
+    \ knowledge gaps remain, including:&lt;/p&gt;the effect of carcass size; anddecomposition\
+    \ effects in prairie ecosystems (i.e., semi-arid climates).&lt;p&gt;Here, we investigate\
+    \ how soil biogeochemical parameters are affected by the decomposition of a horse\
+    \ carcass (~660 kg) in a prairie ecosystem in comparison to beavers (~18 kg) in\
+    \ a temperate forest. Three parameters were identified as significantly influenced\
+    \ by carcass size: conductivity, DOC, and microbial respiration rate. Average\
+    \ soil conductivity underneath the horse carcass was three to fifteen times higher\
+    \ than control soils and reached a maximum at 1114 ADD, while maximum soil conductivity\
+    \ values were observed after 160 ADD in beaver-associated soils. Maximum DOC concentrations\
+    \ were observed after 160 ADD in beaver-associated soil (67 \xB1 40 mg C gdw-1)\
+    \ and after 1114 ADD in horse-associated soil (326 \xB1 115 mg C gdw-1). Microbial\
+    \ respirations rates were both greater in horse-associated soil and longer-lasting\
+    \ compared to beaver-associated soil. Respiration rates were greatest in two of\
+    \ the three horse-associated soils after 1114 ADD (~733\_\xB5g CO&lt;sub&gt;2&lt;/sub&gt;-C\
+    \ gdw-1\_day-1), which significantly differs compared to beaver-associated soils\
+    \ (300 \xB1 90\_\xB5g CO&lt;sub&gt;2&lt;/sub&gt;-C gdw-1\_day-1\_at 160 ADD).\
+    \ Taken together, these results demonstrate that larger carcasses result in a\
+    \ greater release of decomposition products, including C, and greater stimulation\
+    \ of soil heterotrophic communities. Other measured biogeochemical indicators\
+    \ of decay suggest a mixed influence due to carcass size and climate, notably\_\
+    \u03B415N values of the soil, and major element concentrations. Climate was revealed\
+    \ to be more important in controlling changes to pH and gravimetric moisture than\
+    \ carcass size, with baseline soil conditions and type playing critical roles.\
+    \ Additionally, in semi-arid regions such as western South Dakota, the role of\
+    \ wet-dry cycles on carcasses undergoing decomposition may help to explain the\
+    \ pulses observed with C concentrations\_and C cycling. This study provides the\
+    \ first direct comparison of soil biogeochemistry associated with the decomposition\
+    \ of two different sized taxa decayed in two different climates. Attempting to\
+    \ normalize climate data using ADD was found to be an imperfect system that does\
+    \ not account for all climate variables affecting decomposition. Unravelling patterns\
+    \ in decomposition can better help to constrain nutrient cycling in modern and\
+    \ ancient ecosystems.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Carbon cycling
+      - hotspots
+      - soils
+      - ecosystems
+      - carrion
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Disentangling carcass size and climate effects on soil biogeochemistry during
+      decomposition
+    url: http://dx.doi.org/10.3897/aca.6.e107627
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Keenan-Sarah:
+    individualname: Keenan, Sarah
+    role: creator
+  McAndrew-Colette:
+    individualname: McAndrew, Colette
+    role: creator
+  Beeler-Scott:
+    individualname: Beeler, Scott
+    role: creator
+content_info: {}

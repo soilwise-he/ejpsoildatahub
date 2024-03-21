@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1339880
+  dataseturi: https://doi.org/10.5281/zenodo.1339880
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Poultry Manure And Nitrogen, Phosphorus, And Potassium (15:15:15)
+    Soil Amendment On Growth And Yield Of Carrot (Daucus Carota)
+  abstract: This present experiment was carried out during the 2012 cropping season,
+    at the Farming for the Future Experimental Field of the University for Development
+    Studies, Nyankpala Campus in the Northern Region of Ghana. The objective of the
+    experiment was to determine the carrot growth and yield responses to poultry manure
+    and N.P.K (15:15:15). Six treatments (Control (no amendment), 20 t/ha poultry
+    manure (PM), 40 t/ha PM, 70 t/ha PM, 35 t/ha PM + 0.11t/ha N.P.K and 0.23 t/ha
+    N.P.K) with three replications for each were laid in a Randomized Complete Block
+    Design (RCBD). Data were collected on plant height, number of leaves per plant,
+    canopy spread, root diameter, root weight, and root length. Microsoft Excel and
+    Genstat Statistical Package (9<sup>th</sup> edition) were used for the data analysis.
+    The treatment means were compared by using Least Significant Difference at 10%.
+    Generally, the results showed that there were no significant differences (P&gt;0.1)
+    among the treatments with respect to number of leaves per plant, root diameter,
+    root weight, and root length. However, significant differences occurred among
+    plant heights and canopy spreads. Plant height treated with 40 t/ha PM at the
+    fourth week after planting and canopy spread at eight weeks after planting and
+    ten weeks after planting by 70 t/ha PM and 20 t/ha PM respectively showed significant
+    difference (P&lt;0.1). The study recommended that any of the amended treatments
+    can be applied at their recommended rates to plots for carrot production, since
+    there were no significant differences among the treatments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-01-18'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1339880
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1339879
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Benjamin-Osae-Agyei:
+    individualname: Benjamin Osae Agyei
+    role: creator
+  Hypolite-Bayor:
+    individualname: Hypolite Bayor
+    role: creator
+    organization: ''
+    url: ''
+  Agyei-Benjamin-Osae:
+    individualname: Agyei, Benjamin Osae
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

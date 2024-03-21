@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7060392
+  dataseturi: https://doi.org/10.5281/zenodo.7060392
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: EFFECTIVE USE OF BIG DATA FOR PRECISION AGRICULTURE-BASED SOIL ANALYSIS AND
+    CROP FERTILITY PREDICTION
+  abstract: "<strong>Abstract</strong> In today\u2019s era to handle the increasing\
+    \ challenges of agricultural production, we need to understand the complex agricultural\
+    \ ecosystems The usage of modern digital technologies can help in monitoring the\
+    \ physical environment, help in predicting large volumes of data in an unprecedented\
+    \ pace. By using (big) data we can extract the values from it and help the farmers\
+    \ to yield productivity .Big data has been used in various industries, but not\
+    \ yet used in agriculture sector. The main objective of this paper is to perform\
+    \ a review on recent studies and research works in agriculture which employ the\
+    \ current practice of big data analysis, in order to solve various relevant problems.\
+    \ Thirty-four different studies are presented, examining the problem they address,\
+    \ the proposed solution, tools, algorithms and data used, nature and dimensions\
+    \ of big data employed, scale of use as well as overall impact. Concluding, our\
+    \ review highlights the large opportunities of big data analysis in agriculture\
+    \ towards smarter farming, precision agriculture by showing that the availability\
+    \ of hardware and software, techniques and methods for big data analysis, as well\
+    \ as the increasing openness of big data sources, shall encourage more academic\
+    \ research, public sector initiatives and business ventures in the agriculture\
+    \ sector."
+  keywords:
+    default:
+      keywords:
+        subject: '---'
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-09-07'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7060392
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7060391
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.REVATHI:
+    individualname: M.REVATHI
+    role: creator
+    organization: Research scholar, Department of Computer Science and Engineering,
+      Dr. M.G.R. Educational and Research Institute, Chennai, India.
+    url: ''
+  Dr.-N.-KANYA:
+    individualname: Dr. N. KANYA
+    role: creator
+    organization: Professor, Department of Information Technology, Dr. M.G.R. Educational
+      and Research Institute, Chennai, India.
+    url: ''
+  Dr.-VICTO-SUDHA-GEORG:
+    individualname: Dr. VICTO SUDHA GEORG
+    role: creator
+    organization: Professor, Department of Computer Science and Engineering, Dr. M.G.R.
+      Educational and Research Institute, Chennai, India.
+    url: ''
+content_info: {}

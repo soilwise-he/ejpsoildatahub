@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: SALISBURY_1922
+  dataseturi: https://doi.org/10.1093/oxfordjournals.aob.a089814
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'The Soils of Blakeney Point: A Study of Soil Reaction and Succession in
+    Relation to the Plant Covering1'
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'The Soils of Blakeney Point: A Study of Soil Reaction and Succession in
+      Relation to the Plant Covering1'
+    url: http://dx.doi.org/10.1093/oxfordjournals.aob.a089814
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Salisbury-E.-J.:
+    individualname: Salisbury, E. J.
+    role: creator
+  SALISBURY-E.-J.:
+    individualname: SALISBURY, E. J.
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+content_info: {}

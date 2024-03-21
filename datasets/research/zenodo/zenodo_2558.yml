@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6947766
+  dataseturi: https://doi.org/10.5281/zenodo.6947766
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil-borne and seed-borne pathogens of rice in rice - wheat system-based
+    farmers' fields in Uttar Pradesh
+  abstract: This article 'Soil-borne and seed-borne pathogens of rice in rice - wheat
+    system-based farmers' fields in Uttar Pradesh' appeared in the International Rice
+    Research Notes series, created by the International Rice Research Institute (IRRI)
+    to expedite communication among scientists concerned with the development of improved
+    technology for rice and rice-based systems. The series is a mechanism to help
+    scientists keep each other informed of current rice research findings. The concise
+    scientific notes are meant to encourage rice scientists to communicate with one
+    another to obtain details on the research reported.
+  keywords:
+    default:
+      keywords:
+        subject: India
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '1998-09-01'
+    publication: '1998'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6947766
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6947765
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kumar-A.:
+    individualname: Kumar, A.
+    role: creator
+    organization: ''
+    url: ''
+  Willocquet-L.:
+    individualname: Willocquet, L.
+    role: creator
+    organization: ''
+    url: ''
+  Savary-S.:
+    individualname: Savary, S.
+    role: creator
+    organization: ''
+    url: ''
+  Singh-U.-S.:
+    individualname: Singh, U. S.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

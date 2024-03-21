@@ -1,0 +1,109 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Garrido_Sanz_2019
+  dataseturi: https://doi.org/10.3390/genes10060456
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Metagenomic Insights into the Bacterial Functions of a Diesel-Degrading Consortium
+    for the Rhizoremediation of Diesel-Polluted Soil
+  abstract:
+  - '&lt;p&gt;Diesel is a complex pollutant composed of a mixture of aliphatic and
+    aromatic hydrocarbons. Because of this complexity, diesel bioremediation requires
+    multiple microorganisms, which harbor the catabolic pathways to degrade the mixture.
+    By enrichment cultivation of rhizospheric soil from a diesel-polluted site, we
+    have isolated a bacterial consortium that can grow aerobically with diesel and
+    different alkanes and polycyclic aromatic hydrocarbons (PAHs) as the sole carbon
+    and energy source. Microbiome diversity analyses based on 16S rRNA gene showed
+    that the diesel-degrading consortium consists of 76 amplicon sequence variants
+    (ASVs) and it is dominated by&nbsp;Pseudomonas,&nbsp;Aquabacterium,&nbsp;Chryseobacterium,
+    and&nbsp;Sphingomonadaceae.&nbsp;Changes in microbiome composition were observed
+    when growing on specific hydrocarbons, reflecting that different populations degrade
+    different hydrocarbons. Shotgun metagenome sequence analysis of the consortium
+    growing on diesel has identified redundant genes encoding enzymes implicated in
+    the initial oxidation of alkanes (AlkB, LadA, CYP450) and a variety of hydroxylating
+    and ring-cleavage dioxygenases involved in aromatic and polyaromatic hydrocarbon
+    degradation. The phylogenetic assignment of these enzymes to specific genera allowed
+    us to model the role of specific populations in the diesel-degrading consortium.
+    Rhizoremediation of diesel-polluted soil microcosms using the consortium, resulted
+    in an important enhancement in the reduction of total petroleum hydrocarbons (TPHs),
+    making it suited for rhizoremediation applications.&lt;/p&gt;'
+  - greenerprojecth2020
+  keywords:
+    default:
+      keywords:
+      - rhizoremediation
+      - diesel
+      - bacteria
+      - consortium
+      - metagenomics
+      - PAHs
+      - TPH
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Metagenomic Insights into the Bacterial Functions of a Diesel-Degrading
+      Consortium for the Rhizoremediation of Diesel-Polluted Soil
+    url: http://dx.doi.org/10.3390/genes10060456
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daniel-Garrido-Sanz:
+    individualname: Daniel Garrido-Sanz
+    role: creator
+  Miguel-Redondo-Nieto:
+    individualname: Miguel Redondo-Nieto
+    role: creator
+  Maria-Guirado:
+    individualname: "Mar\xEDa Guirado"
+    role: creator
+  Oscar-Pindado-Jimenez:
+    individualname: "Oscar Pindado Jim\xE9nez"
+    role: creator
+  Rocio-Millan:
+    individualname: "Roc\xEDo Mill\xE1n"
+    role: creator
+  Marta-Martin:
+    individualname: Marta Martin
+    role: creator
+  Rafael-Rivilla:
+    individualname: Rafael Rivilla
+    role: creator
+  Garrido-Sanz-Daniel:
+    individualname: Garrido-Sanz, Daniel
+    role: creator
+  Redondo-Nieto-Miguel:
+    individualname: Redondo-Nieto, Miguel
+    role: creator
+  Guirado-Maria:
+    individualname: "Guirado, Mar\xEDa"
+    role: creator
+  Pindado-Jimenez-Oscar:
+    individualname: "Pindado Jim\xE9nez, Oscar"
+    role: creator
+  Millan-Rocio:
+    individualname: "Mill\xE1n, Roc\xEDo"
+    role: creator
+  Martin-Marta:
+    individualname: Martin, Marta
+    role: creator
+  Rivilla-Rafael:
+    individualname: Rivilla, Rafael
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

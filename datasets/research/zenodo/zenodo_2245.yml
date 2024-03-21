@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10417014
+  dataseturi: https://doi.org/10.5281/zenodo.10417014
+  datestamp: ''
+  hierarchylevel: report
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Definition of scenarios on the bases of trends in relevant drivers - EJP
+    Soil SERENA Deliverable 1.4
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+        subject: Soil Science
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-12-21'
+    available: '2023-10-31'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10417014
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10417013
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Smiraglia-Daniela:
+    individualname: Smiraglia, Daniela
+    role: creator
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-0427-248X
+  Assennato-Francesca:
+    individualname: Assennato, Francesca
+    role: creator
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0003-0267-7499
+  Foldal-Cecilie:
+    individualname: Foldal, Cecilie
+    role: creator
+    organization: Austrian Research Centre for Forests
+    url: ''
+  Asins-Velis-Sabina:
+    individualname: Asins-Velis, Sabina
+    role: creator
+    organization: "Centro de Investigaciones sobre Desertificaci\xF3n"
+    url: 0000-0001-5496-3943
+  Astover-Alar:
+    individualname: Astover, Alar
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: 0000-0002-8924-6925
+  Fioramonti-Veronica:
+    individualname: Fioramonti, Veronica
+    role: creator
+    organization: ISPRA
+    url: ''
+  Kukk-Liia:
+    individualname: Kukk, Liia
+    role: creator
+    organization: Estonian University of Life Sciences
+    url: ''
+  O'Sullivan-Lilian:
+    individualname: O'Sullivan, Lilian
+    role: creator
+    organization: Teagasc - The Irish Agriculture and Food Development Authority
+    url: ''
+  Riitano-Nicola:
+    individualname: Riitano, Nicola
+    role: creator
+    organization: Istituto Superiore per la Protezione e la Ricerca Ambientale
+    url: 0000-0002-5812-2380
+  Stefanova-Milena:
+    individualname: Stefanova, Milena
+    role: creator
+    organization: ENEA
+    url: ''
+content_info: {}

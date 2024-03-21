@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4734328
+  dataseturi: https://doi.org/10.5281/zenodo.4734328
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: The Air, Water, and Soil Quality in the Surrounding of Zaatari Refugee Camp
+  abstract: This study was conducted to assess the water, air, and soil quality in
+    the surrounding of the Zaatari refugee camp. Analysis of physical and chemical
+    parameters of the surface runoff water, groundwater, wastewater, soil, and air
+    quality were conducted. The electrical conductivity, pH, Ca<sup>2+</sup>, Mg<sup>2+</sup>,
+    HCO<sub>3</sub><sup>-</sup>, K<sup>+</sup>, Na<sup>+</sup>, Cl<sup>-</sup>, NO<sub>3</sub><sup>-</sup>,
+    SO<sub>4</sub><sup>2-</sup>, and trace of the heavy metals include Zn, Mn, Cd,
+    Cr, Cu and Pb were analyzed. The sodium adsorption ratio and water salinity were
+    used to assess the feasibility of wastewater effluent for irrigation. The dust
+    settlement system was used to track the air quality within the Zaatari camp for
+    ten months. To better recognize and identify the possible source of pollution,
+    the camp area was divided into three areas (A, B, and C). Location was chosen
+    to represent the major activities and population density inside the camp. The
+    result showed the water quality parameters for the groundwater from the three
+    wells inside the camp were found to be within Jordanian drinking water standards'
+    acceptable limits. The soil profile showed high levels of heavy metals, the upper
+    soil had a much higher concentration than the lower soil, suggesting that heavy
+    metals are accumulated on the top of the soil as a result of camp activities,
+    as well as low mobility of these metals in a slightly alkaline soil climate. The
+    results also showed that there was no significant heavy metal contamination in
+    the sewage system. The inlet of the WWTP, on the other hand, had a higher concentration
+    of heavy metals than the other sites, which can be due to wastewater deposition
+    from the three sites examined. There was also no major pollution in the air quality
+    within the camp, indicating that there is no source of heavy metal contamination
+    in the area. Based on sodium adsorption ratio and water salinity analysis, the
+    feasibility of wastewater treatment plant effluent for irrigation purposes indicates
+    that wastewater is unsuitable for sensitive plants but acceptable for certain
+    salt-tolerant plants under certain conditions.
+  keywords:
+    default:
+      keywords:
+        subject: Zaatari Refugee Camp; Amman-Zarqa Basin; Heavy Metals; Wastewater;
+          Air Quality; Soil.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-04-20'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4734328
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4703803
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohammad-Alshirah:
+    individualname: Mohammad Alshirah
+    role: creator
+  Mohammad-Aljaradin:
+    individualname: Mohammad Aljaradin
+    role: creator
+  Anwar-Jiries:
+    individualname: Anwar Jiries
+    role: creator
+  Amjad-Shatnawi:
+    individualname: Amjad Shatnawi
+    role: creator
+  Alshirah-Mohammad:
+    individualname: Alshirah, Mohammad
+    role: ''
+    organization: Ministry of Agriculture,Jordan
+    url: ''
+  Aljaradin-Mohammad:
+    individualname: Aljaradin, Mohammad
+    role: ''
+    organization: Water Resources Engineering Department, Lund University, Lund, Sweden
+    url: https://orcid.org/0000-0002-7005-5360
+  Jiries-Anwar:
+    individualname: Jiries, Anwar
+    role: ''
+    organization: Faculty of Science, Mutah University, Karak, Jordan
+    url: ''
+  Shatnawi-Amjad:
+    individualname: Shatnawi, Amjad
+    role: ''
+    organization: Institute of Earth and Environmental Science, Al-AlBayt University,
+      Mafraq, Jordan
+    url: ''
+content_info: {}

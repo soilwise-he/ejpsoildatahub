@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1128141
+  dataseturi: https://doi.org/10.5281/zenodo.1128141
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Waste Bottle Chips On Strength Parameters Of Silty Soil
+  abstract: Laboratory consolidated undrained triaxial (CU) tests were carried out
+    to study the strength behavior of silty soil reinforced with randomly plastic
+    waste bottle chips. Specimens mixed with plastic waste chips in triaxial compression
+    tests with 0.25, 0.50, 0.75, 1.0, and 1.25% by dry weight of soil and tree different
+    length including 4, 8, and 12 mm. In all of the samples, the width and thickness
+    of plastic chips were kept constant. According to the results, the amount and
+    size of plastic waste bottle chips played an important role in the increasing
+    of the strength parameters of reinforced silt compared to the pure soil. Because
+    of good results, the suggested method of soil improvement can be used in many
+    engineering problems such as increasing the bearing capacity and settlement reduction
+    in foundations.
+  keywords:
+    default:
+      keywords:
+        subject: Triaxial test.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-11-01'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1128141
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1128140
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seyed-Abolhasan-Naeini:
+    individualname: Seyed Abolhasan Naeini
+    role: creator
+  Hamidreza-Rahmani:
+    individualname: Hamidreza Rahmani
+    role: creator
+    organization: ''
+    url: ''
+  Naeini-Seyed-Abolhasan:
+    individualname: Naeini, Seyed Abolhasan
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

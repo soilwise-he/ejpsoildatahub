@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ali_2023
+  dataseturi: https://doi.org/10.54105/ijse.A7573.052122
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Study of the Strain-Stress Behavior of the loess Soil and Its Numerical Modeling
+    by ABAQUS
+  abstract:
+  - '&lt;p&gt;&lt;strong&gt;Abstract: &lt;/strong&gt;This research aims to conduct
+    a laboratory study to clarify the behavior of creep in Loess soils with the change
+    of moisture content and applied stress. Soil was brought from Joseh area (southwest
+    of Homs city), and its main properties were determined, after that a series of
+    tests (time dependent deformation) were carried out for the Loess soils within
+    the unconfined compression test. The results showed that the change of moisture
+    content and applied stress on sample have a significant effect on the properties
+    of Creeping of Loess soils, and the deformations that occurred are instantaneous
+    deformations at the moment of load application, and creep deformations that begin
+    with the passage of time. Creep deformations can be divided into three stages:
+    primary creep, stable creep, and accelerated creep. The deformations were evaluated
+    using the Singh-Mitchell theory, and the results showed that the Singh-Mitchell
+    theory fits well the description of deformations over time for Loess soils, where
+    the relative error between the largest and smallest value did not exceed 15%.ABAQUS
+    program was used to numerically describe the creep behavior of Loess soils using
+    the Singh-Mitchell theory. The results showed that the Singh-Mitchell theory within
+    the ABAQUS program gave more accurate values than the computational Singh-Mitchell
+    theory, and the reason is that because of the program contains multiple parameters
+    that describe well the properties of elasticity, plasticity and viscosity for
+    any natural body.&lt;/p&gt;'
+  - "Published By: Lattice Science Publication (LSP)\n\xA9 Copyright: All rights reserved."
+  keywords:
+    default:
+      keywords:
+      - Creep
+      - Unconfined Compression Test
+      - Abaqus
+      - Singh-Mitchell
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Study of the Strain-Stress Behavior of the loess Soil and Its Numerical
+      Modeling by ABAQUS
+    url: http://dx.doi.org/10.54105/ijse.A7573.052122
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-Al-abdullah:
+    individualname: Ali, Al-abdullah
+    role: creator
+  Najla-Al-hassan:
+    individualname: Najla, Al-hassan
+    role: creator
+  Mohammad-Eid:
+    individualname: Mohammad Eid
+    role: creator
+  Lattice-Science-Publication-LSP:
+    individualname: Lattice Science Publication (LSP)
+    role: creator
+content_info: {}

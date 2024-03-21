@@ -1,0 +1,143 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3372722
+  dataseturi: https://doi.org/10.5281/zenodo.3372722
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Disentangling drought and nutrient effects on soil carbon dioxide and methane
+    fluxes in a tropical forest
+  abstract: "Tropical soils are a major contributor to the balance of greenhouse gas\
+    \ (GHG) fluxes in the atmosphere. Models of tropical GHG fluxes predict that both\
+    \ the frequency of drought events and changes in atmospheric deposition of nitrogen\
+    \ (N) will significantly affect dynamics of soil carbon dioxide (CO<sub>2</sub>)\
+    \ and methane (CH<sub>4</sub>) production and consumption. In this study, we examined\
+    \ the combined effect of a reduction in precipitation and an increase in nutrient\
+    \ availability on soil CO<sub>2</sub> and CH<sub>4</sub> fluxes in a primary French\
+    \ Guiana tropical forest. Drought conditions were simulated by intercepting precipitation\
+    \ falling through the forest canopy with tarpaulin roofs. Nutrient availability\
+    \ was manipulated through application of granular N and / or phosphorus (P) fertilizer\
+    \ to the soil. Soil water content (SWC) below the roofs decreased rapidly and\
+    \ stayed at continuously low values until roof removal, which as a consequence\
+    \ roughly doubled the duration of the dry season. After roof removal, SWC slowly\
+    \ increased but remained lower than in the control soils even after 2.5 months\
+    \ of wet-season precipitation. We showed that drought-imposed reduction in SWC\
+    \ decreased the CO<sub>2</sub> emissions (i.e CO<sub>2</sub> efflux), but strongly\
+    \ increased the CH<sub>4</sub> emissions. N, P and N \xD7 P (i.e. NP) additions\
+    \ all significantly increased CO<sub>2</sub> emission but had no effect on CH<sub>4</sub>\
+    \ fluxes. In treatments where both fertilization and drought were applied, the\
+    \ positive effect of N, P and NP fertilization on CO<sub>2</sub> efflux was reduced.\
+    \ After roof removal, soil CO<sub>2</sub> efflux was more resilient in the control\
+    \ plots than in the fertilized plots while there was only a modest effect of roof\
+    \ removal on soil CH<sub>4</sub> fluxes. Our results suggest that a combined increase\
+    \ in drought and nutrient availability in soil can locally increase the emissions\
+    \ of both CO<sub>2 </sub>and CH<sub>4</sub> from tropical soils, for a long term."
+  keywords:
+    default:
+      keywords:
+        subject: Tropical forest
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-08-20'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3372722
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.3389/fenvs.2019.00180
+    type: WWW:LINK
+    title: IsCitedBy
+  r1:
+    url: https://doi.org/10.5281/zenodo.3372721
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dr.-Laetitia-Brechet:
+    individualname: "Dr. La\xEBtitia Br\xE9chet"
+    role: creator
+  Dr.-Elodie-A.-Courtois:
+    individualname: Dr. Elodie A. Courtois
+    role: creator
+    organization: "Laboratoire Ecologie, \xE9volution, interactions des syst\xE8mes\
+      \ amazoniens (LEEISA), Universit\xE9 de Guyane, CNRS, IFREMER, Cayenne, France"
+    url: ''
+  Thomas-Saint-Germain:
+    individualname: Thomas Saint-Germain
+    role: creator
+  Prof.-Ivan-A.-Janssens:
+    individualname: Prof. Ivan A. Janssens
+    role: creator
+    organization: Centre of Excellence PLECO (Plant and Vegetation Ecology), Department
+      of Biology, University of Antwerp, Antwerp, Belgium
+    url: ''
+  Dr.-Dolores-Asensio:
+    individualname: Dr. Dolores Asensio
+    role: creator
+    organization: CREAF, Cerdanyola del Valle`s, Barcelona, Spain
+    url: ''
+  Irene-Ramirez-Rojas:
+    individualname: Irene Ramirez-Rojas
+    role: creator
+  Dr.-Jennifer-L.-Soong:
+    individualname: Dr. Jennifer L. Soong
+    role: creator
+    organization: Climate and Ecosystem Science Division, Lawrence Berkeley National
+      Laboratory, Berkeley, CA, USA
+    url: ''
+  Leandro-Van-Langenhove:
+    individualname: Leandro Van Langenhove
+    role: creator
+  Prof.-Erik-Verbruggen:
+    individualname: Prof. Erik Verbruggen
+    role: creator
+    organization: Centre of Excellence PLECO (Plant and Vegetation Ecology), Department
+      of Biology, University of Antwerp, Antwerp, Belgium
+    url: ''
+  Dr.-Clement-Stahl:
+    individualname: "Dr. Cl\xE9ment Stahl"
+    role: creator
+    organization: "INRA, UMR EcoFoG, CNRS, Cirad, AgroParisTech, Universit\xE9 des\
+      \ Antilles, Universit\xE9 de Guyane, Kourou, France"
+    url: ''
+  Brechet-Laetitia:
+    individualname: "Br\xE9chet, La\xEBtitia"
+    role: ''
+    organization: Centre of Excellence PLECO (Plant and Vegetation Ecology), Department
+      of Biology, University of Antwerp, Antwerp, Belgium
+    url: https://orcid.org/0000-0002-2744-8820
+  Saint-Germain-Thomas:
+    individualname: Saint-Germain, Thomas
+    role: ''
+    organization: "INRA, UMR EcoFoG, CNRS, Cirad, AgroParisTech, Universit\xE9 des\
+      \ Antilles, Universit\xE9 de Guyane, Kourou, France"
+    url: ''
+  Ramirez-Rojas-Irene:
+    individualname: Ramirez-Rojas, Irene
+    role: ''
+    organization: Centre of Excellence PLECO (Plant and Vegetation Ecology), Department
+      of Biology, University of Antwerp, Antwerp, Belgium
+    url: ''
+  Langenhove-Leandro-Van:
+    individualname: Langenhove, Leandro Van
+    role: ''
+    organization: Centre of Excellence PLECO (Plant and Vegetation Ecology), Department
+      of Biology, University of Antwerp, Antwerp, Belgium
+    url: ''
+content_info: {}

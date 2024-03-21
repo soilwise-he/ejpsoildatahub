@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Konakova_2020
+  dataseturi: https://doi.org/10.3897/BDJ.8.e58836
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil invertebrates occurrences in European North-East of Russia
+  abstract: '&lt;p&gt;The European North-East of Russia is the territory which includes
+    the Nenets Autonomous District, represented by the East European tundra (from
+    Kanin Peninsula to Vaigach Island), Komi Republic with its taiga ecosystems, and
+    the Urals (Northern, SubPolar and Polar). Over 20 years of systematic studies
+    of soil fauna in the studied region, a huge amount of data has accumulated that
+    can be analyzed from different positions. Considering that the representation
+    of Russian soil biota data, especially from European North-East of Russia in the
+    GBIF database is not big, our data are of great interest to the scientific world
+    community. The accumulation of such data will solve questions on national, global
+    scales using large arrays.&lt;/p&gt;&lt;p&gt;This study produced a dataset containing
+    information on occurrences on soil invertebrates (Lumbricidae, Chilopoda, Diplopda,
+    Collembola, Elateridae, Staphylinidae) in the European North-East of Russia. The
+    dataset summarizes occurrences noted in natural and disturbed forests, tundra
+    and mountain ecosystems. &lt;/p&gt;&lt;p&gt;Data from 196 geo-referenced localities
+    of European North-East of Russia (tundra, taiga and mountains ecosystems) are
+    made. A total of 5412 occurrences are included in the resource. The current project
+    surveys 13 species of earthworms, 20 species of millipedes, 246 species of springtails,
+    446 species of rove beetles, 60 species of click beetles. The diversity of soil
+    invertebrates in the European North-East of Russia has not been fully explored
+    and further exploration will lead to more taxa.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - occurrence
+      - Lumbricidae
+      - Chilopoda
+      - Diplopoda
+      - Collembola
+      - Staphylinidae
+      - Elateridae
+      - soil
+      - tundra
+      - taiga
+      - mountains
+      - North-East of Europe
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil invertebrates occurrences in European North-East of Russia
+    url: http://dx.doi.org/10.3897/BDJ.8.e58836
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Konakova-Tatyana:
+    individualname: Konakova, Tatyana
+    role: creator
+  Kolesnikova-Alla:
+    individualname: Kolesnikova, Alla
+    role: creator
+  Taskaeva-Anastasia:
+    individualname: Taskaeva, Anastasia
+    role: creator
+content_info: {}

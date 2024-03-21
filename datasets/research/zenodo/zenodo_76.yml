@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4763436
+  dataseturi: https://doi.org/10.5281/zenodo.4763436
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: INCREASING SOIL PRODUCTIVITY AND ESTABLISHING A SYSTEM OF MEASURES AGAINST
+    SOIL SALINIZATION
+  abstract: <em>This article is devoted to the system of measures against soil salinity
+    and increasing soil fertility.</em>
+  keywords:
+    default:
+      keywords:
+        subject: collector-drain, salt shaker, salt, salt wash
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2021-05-14'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4763436
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4763435
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sulaymonov-Javoxir:
+    individualname: Sulaymonov Javoxir
+    role: creator
+    organization: Tashkent institute of irrigation and agricultural mechanization
+      engineers Bukhara branch master
+    url: ''
+  Muxamadov-Qamoriddin:
+    individualname: Muxamadov Qamoriddin
+    role: creator
+    organization: Tashkent institute of irrigation and agricultural mechanization
+      engineers Bukhara branch student
+    url: ''
+  Bobojonov-Saidjon:
+    individualname: Bobojonov Saidjon
+    role: creator
+    organization: Tashkent institute of irrigation and agricultural mechanization
+      engineers Bukhara branch student
+    url: ''
+content_info: {}

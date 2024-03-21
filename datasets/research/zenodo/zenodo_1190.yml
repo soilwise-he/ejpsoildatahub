@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10522383
+  dataseturi: https://doi.org/10.5281/zenodo.10522383
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Total Hydrocarbon Content of the Bitumen Impacted  Soil in Ondo State, Nigeria
+  abstract: 'Total hydrocarbon content concentrations were determined in soil collected
+    from Agbabu, Western Nigeria, in the dry season and rainy season for two years.
+    Samples were analyzed using the UV-vis spectrophotometer (HACH 2400). The average
+    concentration of 146.89 ppm recorded in Dry Season of Year-1 was higher than the
+    100 ppm recommended for a normal soil by Regulation on the assessment of environmental
+    pollution by European Geosciences Union. 5.36 ppm in the Rainy Season of Year-1,
+    5.00 ppm in the Dry Season of Year-2 and 4.92 ppm in the Rainy Season of Year-2
+    were lower that value recommended for a normal soil. The average concentrations
+    recorded were higher than the values recorded at the control sampling points.
+    These indicate that the soil of Agbabu and Temidire has been impacted with total
+    hydrocarbon due to the bitumen deposit and other anthropogenic activities. This
+    is dangerous for the health of the rural dwellers at Agbabu and Temidire because
+    the total hydrocarbon can bioaccumulate and biomagnify and and affect the biota
+    through food chain. Compounds containing total hydrocarbon cause side effects
+    on the blood, immune system, lungs, skin and eyes. The soils of Agbabu and Temidire
+    will not require remediation because it may recover through a natural attenuation.
+    However, a program should be put in place by the stake holders to periodically
+    monitor the status of total hydrocarbon in the soil of Agbabu and Temidire in
+    Ondo State, Nigeria.
+
+
+    Keywords:- Soil, Total Hydrocarbon, Season, Bitumen, Environment.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-01-16'
+    accepted: '2024-01-16'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10522383
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10518296
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Olufunmilayo:
+    individualname: Olufunmilayo
+    role: creator
+    organization: ''
+    url: ''
+  E.-Olubunmi:
+    individualname: E. Olubunmi
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,76 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6513618
+  dataseturi: https://doi.org/10.5281/zenodo.6513618
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of Curing on Deformation of Asphalt Stabilized Subgrade Soil
+  abstract: "Soil stabilization with liquid asphalt binder can enhance the required\
+    \ strength properties of the subgrade after proper curing period to allow for\
+    \ evaporation of volatiles from the binder. In the present assessment, an attempt\
+    \ has been made to stabilized subgrade soil with cutback asphalt. Specimens of\
+    \ 100 mm diameter and 63 mm height have been prepared at optimum cutback asphalt\
+    \ requirement and at 0.5 % cutback higher and lower than the optimum. Specimens\
+    \ were separated into two groups. The first group was cured for seven days at\
+    \ the laboratory environment while the second group was cured for 30 days. Both\
+    \ groups of specimens were subjected to repeated double punching shear application\
+    \ for 1800 load repetitions at the Pneumatic Repeated Load System (PRLS) at 20\xB0\
+    C. The deformation variables (total, resilient and permanent) were monitored by\
+    \ Linear Variable Differential Transformer (LVDT). It was observed that the total\
+    \ deformation after 30 days curing declines after one load repetition by (25 and\
+    \ 20) % for (16.5 and 16) % Cutback respectively when compared to the mixtures\
+    \ after seven days curing. The resilient deformation at failure declines after\
+    \ 30 days of curing by (1.2, 15.5, and 8) % for mixtures with (16.5, 16, and 15.5)\
+    \ % cutback asphalt respectively as compared with mixtures practiced seven days\
+    \ of curing. Asphalt stabilized mixture with 16 % cutback exhibit lower permanent\
+    \ deformation of 71.5 % after 30 days curing as compared with that mixture cured\
+    \ for seven days. It was concluded that curing period is vital in the gain of\
+    \ resistance to deformation of asphalt stabilized subgrade soil. The resilient\
+    \ deformation is (2 to 7) folds higher than the permanent deformation for asphalt\
+    \ stabilized soil and increases as the binder content rises."
+  keywords:
+    default:
+      keywords:
+        subject: Curing, Stabilization, Cutback Asphalt, Repeated Shear, Deformation,
+          Subgrade Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-05-03'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6513618
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6513617
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Saad-Issa-Sarsam:
+    individualname: Saad Issa Sarsam
+    role: creator
+  Sarsam-Saad-Issa:
+    individualname: Sarsam, Saad Issa
+    role: ''
+    organization: Professor, Sarsam and Associates Consult Bureau (SACB), Baghdad,
+      Iraq. Former Head, Department of Civil Engineering, College of Engineering,
+      University of Baghdad, Iraq.
+    url: ''
+content_info: {}

@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5837583
+  dataseturi: https://doi.org/10.5281/zenodo.5837583
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'The Experimental Failure behaviour of a Prestressed Concrete Electricity
+    Transmission Pole: A Case Study for Kannauj Soil, Uttar Pradesh, India'
+  abstract: Pre-stressed Cement concrete poles are widely used for supporting electricity
+    supply lines throughout India. Its common observation that the poles fail under
+    heavy wind as well as earthquakes. The response of the poles depends upon the
+    strength of pole material, supporting soil, and depth of embedment of the pole.
+    To economize the erection its general practice to erect the pole as the self-supporting
+    pole. This paper investigates the behaviour of a prototype self-supporting electric
+    pole for two different kinds of soil compaction material with respect to monotonic
+    lateral load. Load versus displacement in loading and unloading is analysed for
+    two different soil conditions. The geotechnical design considerations are suggested
+    for the embedment of poles in soils.
+  keywords:
+    default:
+      keywords:
+        subject: "PSC poles, Full-scale field test, Design wind load, Soil\u2013structure-interaction,\
+          \ foundation soil analysis"
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-01-11'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5837583
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5837582
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Samirsinh-Parmar:
+    individualname: Samirsinh Parmar
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, D.D. University,
+      Nadiad, Gujarat, India and (Former QIP Research Scholar, Department of Civil
+      Engineering, IIT Kanpur, India.)
+    url: ''
+content_info: {}

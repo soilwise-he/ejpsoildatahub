@@ -1,0 +1,44 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hoagland_1919
+  dataseturi: https://doi.org/10.2307/2255717
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Relation to Carbon Dioxide to Soil Reaction as Measured by the Hydrogen Electrode.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Relation to Carbon Dioxide to Soil Reaction as Measured by the Hydrogen
+      Electrode.
+    url: http://dx.doi.org/10.2307/2255717
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hoagland-D.-R.:
+    individualname: Hoagland, D. R.
+    role: creator
+  Sharp-L.-T.:
+    individualname: Sharp, L. T.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

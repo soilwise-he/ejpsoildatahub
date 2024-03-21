@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Filipovi__2022
+  dataseturi: https://doi.org/10.1016/j.biosystemseng.2021.11.019
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Regional soil moisture prediction system based on Long Short-Term Memory
+    network
+  abstract: '&lt;p&gt;In the context of climate change, drought has been recognised
+    as one of the most severe threats for agricultural production since absence of
+    water is one of the most limiting factors for the growth of plants. In this study,
+    a regional system for soil moisture prediction based on ERA5 climate reanalysis
+    dataset, an open-source meteorological dataset issued by Copernicus Climate Change
+    Service, was developed. It consisted of the relevant meteorological parameters
+    for Serbia, during the period 2011e2020. Daily values of maximum and minimum air
+    temperature, precipitation and vapour pressure deficit were used as features,
+    and they were fed to recurrent neural network in order to predict volumetric soil
+    moisture for three days ahead. A Long Short-Term Memory (LSTM) network was designed
+    and trained at a regional scale using the data from the 2011-2016 period, at 28
+    locations that cover four major soil types. Validation was done on 2017-2018 data
+    and LSTM was compared with a statistical forecasting technique and a classical
+    machine learning approach. Evaluation was done with error measures commonly used
+    in literature. The resulting network yielded the lowest errors and proved to have
+    good generalisation properties. The system was tested from September 2019 to April
+    2020 using short-range weather forecasts of Yr service. It will present the cornerstone
+    of the irrigation scheduling service in AgroSense.rs, the Serbian national platform
+    for digital agriculture.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Recurrent Neural Network
+      - Long Short-Term Memory
+      - ERA5
+      - Volumetric soil moisture content
+      - Weather data
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Regional soil moisture prediction system based on Long Short-Term Memory
+      network
+    url: http://dx.doi.org/10.1016/j.biosystemseng.2021.11.019
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Filipovic-Nemanja:
+    individualname: "Filipovi\u0107, Nemanja"
+    role: creator
+  Brdar-Sanja:
+    individualname: Brdar, Sanja
+    role: creator
+  Mimic-Gordan:
+    individualname: "Mimi\u0107, Gordan"
+    role: creator
+  Marko-Oskar:
+    individualname: Marko, Oskar
+    role: creator
+  Crnojevic-Vladimir:
+    individualname: "Crnojevi\u0107, Vladimir"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

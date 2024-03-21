@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3267022
+  dataseturi: https://doi.org/10.5281/zenodo.3267022
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil-litter macrofauna in the mixed forest and midfield shelterbelts of different
+    age (Turew area, West Poland)
+  abstract: 'The paper deals with the composition, density and biomass of soil-litter
+    macrofauna in four midfield shelterbelts of different age and, comparatively,
+    in the neighbouring mixed forest. The increase was observed along with the shelterbelt
+    ageing of: 1) numbers of all macrofauna and particularly of some taxa (Symphyla,
+    Chilopoda, coleopteran larvae and imagines and some dipteran larvae), 2) biomass
+    of all macrofauna, of soil fauna (Group I) and of coleopteran larvae, 3) share
+    of zoophages in all macrofauna and in dipteran larvae, 4) share of phytophages
+    in coleopteran larvae communities, 5) average individual biomass, 6) taxonomic
+    richness and the biodiversity (H''), 7) similarity of composition and domination
+    structure of all macrofauna and of dipteran larvae to those in forest communities.
+    The decrease of density of dipteran larvae, particularly of Chironomidae and Sciaridae
+    and the share of saprophages in all macrofauna and in dipteran larvae was also
+    observed. Successional stages of more numerous invertebrate taxa in newly established
+    woodlots are described. Dipteran larvae were the pioneers in colonising newly
+    established shelterbelts, particularly larvae from two families: Chironomidae
+    and Sciaridae. Their combined contribution to the total density of dipteran larvae
+    was 92%.'
+  keywords:
+    default:
+      keywords:
+        subject: succession
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2004-05-01'
+    publication: '2004'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3267022
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3267021
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Elzbieta-Olechowicz:
+    individualname: "El\u017Cbieta Olechowicz"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3256145
+  dataseturi: https://doi.org/10.5281/zenodo.3256145
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: SOIL FERTILITY CAPABILITY CLASSIFICATION (FCC) IN THE MEKONG DELTA, VIETNAMBASED
+    ON THE CONVERSION OF SOIL MAP (WRB)
+  abstract: The study was conducted to determine the spatial distribution of soil
+    fertility capability types and its constraints for agricultural in the Mekong
+    Delta, Vietnam. The study used soil map, soil chemical and physical data as the
+    basis for developing the keys of the relationship to convert soil map classified
+    by WRB system to soil fertility map classified by the FCC system. Soil constraints
+    for agricultural cultivation from soil fertility classification were identified.
+    The research results show that Mekong Delta has thirty-five (35) FCC soil fertility
+    types. The thirteen (13)soil fertility constraints and recommendation for agricultural
+    production were also identified, such as slightly acid (<strong>a</strong><sup>-</sup>),
+    strongly acid (<strong>a</strong>), high P fixation and high Fe toxicity potential
+    (<strong>i</strong>), low available P (<strong>p</strong>), strongly actual acid
+    sulphate soils (<strong>c</strong>), slightly actual acid sulphate soils (<strong>c</strong><sup>-</sup>),
+    shallow potential acid sulphate soil (<strong>f</strong>) deep potential acid
+    sulphate soil (<strong>f</strong><sup>-</sup>), slight salinity (<strong>s</strong><sup>-</sup>),
+    strongly salinity (<strong>s</strong>), ability low supply mineral (<strong>k</strong>),
+    ability low nutrient retention (<strong>e</strong>), low organic carbon content
+    (<strong>o</strong>).
+  keywords:
+    default:
+      keywords:
+        subject: constraints, FCC, WRB, soil fertility, Mekong Delta, Vietnam.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-06-25'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3256145
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3256144
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vo-Quang-Minh*1-Le-Van-Khoa1-Thai-Thanh-Du1-Pham-Thanh-Vu1--Le-Quang-Tri1-Nguyen-Thi-Ha-Mi1-Tran-Van-Dung2:
+    individualname: Vo Quang Minh*1, Le Van Khoa1, Thai Thanh Du1, Pham Thanh Vu1
+      & Le Quang Tri1, Nguyen Thi Ha Mi1, Tran Van Dung2
+    role: creator
+  Vo-Quang-Minh*1-Le-Van-Khoa1:
+    individualname: Vo Quang Minh*1, Le Van Khoa1
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

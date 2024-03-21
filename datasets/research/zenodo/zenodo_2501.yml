@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.3390/ w14081188
+  dataseturi: https://doi.org/10.3390/ w14081188
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Estimating Yield from NDVI,Weather Data, and Soil Water Depletion for Sugar
+    Beet and Potato in Northern Belgium
+  abstract: '&lt;p&gt;Crop-yield models based on vegetation indices such as the normalized
+    difference vegetation&lt;br&gt;
+
+    index (NDVI) have been developed to monitor crop yield at higher spatial and temporal
+    resolutions&lt;br&gt;
+
+    compared to agricultural statistical data. We evaluated the model performance
+    of NDVI-based&lt;br&gt;
+
+    random forest models for sugar beet and potato farm yields in northern Belgium
+    during 2016&ndash;2018.&lt;br&gt;
+
+    We also evaluated whether weather variables and root-zone soil water depletion
+    during the growing&lt;br&gt;
+
+    season improved the model performance. The NDVI integral did not explain early
+    and late potato&lt;br&gt;
+
+    yield variability and only partly explained sugar-beet yield variability. The
+    NDVI series of early and&lt;br&gt;
+
+    late potato crops were not sensitive enough to yield affecting weather and soil
+    water conditions. We&lt;br&gt;
+
+    found that water-saturated conditions early in the growing season and elevated
+    temperatures late&lt;br&gt;
+
+    in the growing season explained a large part of the sugar-beet and late-potato
+    yield variability. The&lt;br&gt;
+
+    NDVI integral in combination with monthly precipitation, maximum temperature,
+    and root-zone soil&lt;br&gt;
+
+    water depletion during the growing season explained farm-scale sugar beet (R2
+    = 0.84, MSE = 48.8)&lt;br&gt;
+
+    and late potato (R2 = 0.56, MSE = 57.3) yield variability well from 2016 to 2018
+    in northern Belgium.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - root-zone soil water depletion
+      - AquaCrop-OSPy
+      - sugar beet
+      - potato
+      - crop yield
+      - NDVI
+      - Belgium
+      - weather impact
+      - random forest
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Vanoppen-A.:
+    individualname: Vanoppen, A.
+    role: creator
+  Gobin-A.:
+    individualname: Gobin, A.
+    role: creator
+content_info: {}

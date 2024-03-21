@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GRUZIT_1917
+  dataseturi: https://doi.org/10.1097/00010694-191703000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE EFFECT OF SOME ACIDS AND ALKALIS ON SOIL BACTERIA IN THE THE SOIL SOLUTION
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE EFFECT OF SOME ACIDS AND ALKALIS ON SOIL BACTERIA IN THE THE SOIL SOLUTION
+    url: http://dx.doi.org/10.1097/00010694-191703000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gruzit-Oswald-M.:
+    individualname: Gruzit, Oswald M.
+    role: creator
+  GRUZIT-OSWALD-M.:
+    individualname: GRUZIT, OSWALD M.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

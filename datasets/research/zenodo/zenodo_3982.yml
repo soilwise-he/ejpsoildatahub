@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1316770
+  dataseturi: https://doi.org/10.5281/zenodo.1316770
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Analysis And Modeling Of Stresses And Creeps Resulting From Soil Mechanics
+    In Southern Plains Of Kerman Province
+  abstract: Many of the engineering materials, such as behavioral metals, have at
+    least a certain level of linear behavior. It means that if the stresses are doubled,
+    the deformations would be also doubled. In fact, these materials have linear elastic
+    properties. Soils do not follow this law, for example, when compressed, soils
+    become gradually tighter. On the surface of the ground, the sand can be easily
+    deformed with a finger, but in high compressive stresses, they gain considerable
+    hardness and strength. This is mainly due to the increase in the forces among
+    the separate particles. Creeps also deform the soils under a constant load over
+    time. Clay and peat soils have creep behavior. As a result of this phenomenon,
+    structures constructed on such soils will continue their collapse over time. In
+    this paper, the researchers analyzed and modeled the stresses and creeps in the
+    southern plains of Kerman province in Iran through library-documentary, quantitative
+    and software techniques, and field survey. The results of the modeling showed
+    that these plains experienced severe stresses and had a collapse of about 26 cm
+    in the last 15 years and also creep evidence was discovered in an area with a
+    gradient of 3-6 degrees.
+  keywords:
+    default:
+      keywords:
+        subject: surface runoff.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-04-01'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1316770
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1316769
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Kourosh-Nazarian:
+    individualname: Kourosh Nazarian
+    role: creator
+  Nazarian-Kourosh:
+    individualname: Nazarian, Kourosh
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

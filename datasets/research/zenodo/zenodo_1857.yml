@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Brown_1915
+  dataseturi: https://doi.org/10.1021/ie50081a014
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of Grinding the Soil on Its Reaction as Determined by the Veitch
+    Method.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of Grinding the Soil on Its Reaction as Determined by the Veitch
+      Method.
+    url: http://dx.doi.org/10.1021/ie50081a014
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Brown-P.-E.:
+    individualname: Brown, P. E.
+    role: creator
+  Johnson-H.-W.:
+    individualname: Johnson, H. W.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

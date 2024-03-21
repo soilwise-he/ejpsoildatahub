@@ -1,0 +1,73 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1126369
+  dataseturi: https://doi.org/10.5281/zenodo.1126369
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Bioremediation Of Phenanthrene By Monocultures And Mixed Culture Bacteria
+    Isolated From Contaminated Soil
+  abstract: Three different bacteria capable of degrading phenanthrene were isolated
+    from hydrocarbon contaminated site. In this study, the phenanthrene-degrading
+    activity by defined monoculture was determined and mixed culture was identified
+    as <em>Acinetobacter</em> sp. P3d, <em>Bacillus </em>sp. P4a and <em>Pseudomonas</em>
+    sp. P6. All bacteria were able to grow in a minimal salt medium saturated with
+    phenanthrene as the sole source of carbon and energy. Phenanthrene degradation
+    efficiencies by different combinations (consortia) of these bacteria were investigated
+    and their phenanthrene degradation was evaluated by gas chromatography. Among
+    the monocultures,<em> Pseudomonas</em> sp. P6 exhibited 58.71% activity compared
+    to <em>Acinetobacter</em> sp. P3d and <em>Bacillus</em> sp. P4a which were 56.97%
+    and 53.05%, respectively after 28 days of cultivation. All consortia showed high
+    phenanthrene elimination which were 95.64, 79.37, 87.19, 79.21% for Consortia
+    A, B, C and D, respectively. The results indicate that all of the bacteria isolated
+    may effectively degrade target chemical and have a promising application in bioremediation
+    of hydrocarbon contaminated soil purposes.
+  keywords:
+    default:
+      keywords:
+        subject: Pseudomonas sp. P6.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-07-04'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1126369
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1126368
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-Fazilah:
+    individualname: A. Fazilah
+    role: creator
+    organization: ''
+    url: ''
+  I.-Darah:
+    individualname: I. Darah
+    role: creator
+    organization: ''
+    url: ''
+  I.-Noraznawati:
+    individualname: I. Noraznawati
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

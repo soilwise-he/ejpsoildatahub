@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Song_2020
+  dataseturi: https://doi.org/10.1016/j.still.2020.104672
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Can pedotransfer functions based on environmental variables improve soil
+    total nutrient mapping at a regional scale?
+  abstract: '&lt;p&gt;Numerous pedotransfer functions (PTFs) have been developed to
+    predict the soil properties of interest from other soil properties and, less commonly,
+    from environmental variables. However, only a few PTFs have been developed to
+    predict soil nutrients using environmental variables and to extrapolate them to
+    characterize spatial soil variations at a regional scale. In this study, we attempted
+    to develop PTFs for the total nitrogen (TN), total phosphorus (TP) and total potassium
+    (TK) concentrations in three typical pedo-climatic areas of China (Fujian Province,
+    Jiangsu Province and Qilian Mountains) with diverse climate, terrain and soil
+    types. A series of linear PTFs were developed to quantify the effect of terrain
+    and climate on the predictive relations between the soil nutrients and other measured
+    soil properties and environmental variables. In addition, digital soil mapping
+    (DSM) based on the random forest (RF) technique was performed to test the hypothesis
+    that the best-fit PTFs could be extrapolated, based on soil maps and environmental
+    variables, to describe regional soil variations in the soil nutrients. The root
+    mean square errors (RMSEs) of the best-fit PTFs for TN, TP and TK ranged from
+    0.21 to 0.79 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;, 0.20 to 0.58 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;,
+    and 3.68 to 5.00 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;, respectively. Different
+    RMSEs were produced by DSM, namely 0.37-1.89 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;,
+    0.19&minus;0.56 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;and 3.79-4.83 g kg&lt;sup&gt;&minus;1&lt;/sup&gt;&nbsp;for
+    TN, TP and TK, respectively. PTFs provided a sound basis for database compilation
+    if the soil properties were highly correlated. However, the extrapolation of best-fit
+    PTFs to regional scales yielded greater errors than those produced by DSM. The
+    comparison results reveal the limitations of PTFs and suggest that their performance
+    could be improved by using environmental covariates or by fitting data in areas
+    with relatively homogeneous soil landscapes. The DSM techniques may provide satisfactory
+    alternatives to predict soil data at both regional and plot scales.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Total nitrogen
+      - Total phosphorus
+      - Total potassium
+      - Random forest
+      - Regression analysis
+      - Digital soil mapping
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Can pedotransfer functions based on environmental variables improve soil
+      total nutrient mapping at a regional scale?
+    url: http://dx.doi.org/10.1016/j.still.2020.104672
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Song-Xiao-Dong:
+    individualname: Song, Xiao-Dong
+    role: creator
+  Rossiter-David-G.:
+    individualname: Rossiter, David G.
+    role: creator
+  Liu-Feng:
+    individualname: Liu, Feng
+    role: creator
+  Wu-Hua-Yong:
+    individualname: Wu, Hua-Yong
+    role: creator
+  Zhao-Xiao-Rui:
+    individualname: Zhao, Xiao-Rui
+    role: creator
+  Cao-Qi:
+    individualname: Cao, Qi
+    role: creator
+  Zhang-Gan-Lin:
+    individualname: Zhang, Gan-Lin
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

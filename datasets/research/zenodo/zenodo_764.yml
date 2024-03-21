@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7151697
+  dataseturi: https://doi.org/10.5281/zenodo.7151697
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil resistance of steel pipe piles during vibratory hammer installation
+  abstract: "In this paper, we attempted to evaluate the soil resistance during the\
+    \ installation and the bearing capacity after curing<br> time of the steel pipe\
+    \ piles by vibratory hammer installation. Four steel pipe piles with diameter\
+    \ of 114.3mm and length<br> of 11m were constructed for the test. Three piles\
+    \ were installed by a vibratory hammer with different penetration rates.<br> One\
+    \ pile was installed by a drop hammer. Dynamic measurement with axial pile head\
+    \ strain and acceleration were<br> performed during installation. As the calculation\
+    \ method of the soil resistance for vibratory hammer installation, we<br> adopted\
+    \ two methods, the single-mass model analysis method and the CASE method (Rausche\
+    \ et al., 1985) based on<br> the one-dimensional wave theory. We attempted to\
+    \ separate the soil resistance into the shaft and the toe from the shape<br> of\
+    \ the soil resistance \u2013 displacement curve. Static load tests were performed\
+    \ on all test piles with curing time of 1 day,<br> 28 days and 180 days after\
+    \ installation."
+  keywords:
+    default:
+      keywords:
+        subject: Soil resistance
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-20'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7151697
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7151696
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nishimura-S:
+    individualname: Nishimura, S
+    role: creator
+    organization: SEEDS Engineering
+    url: ''
+  Takahashi-H:
+    individualname: Takahashi, H
+    role: creator
+    organization: Chowa Kogyou Co.,
+    url: ''
+  Mori-T:
+    individualname: Mori, T
+    role: creator
+    organization: Chowa Kogyou Co.,
+    url: ''
+content_info: {}

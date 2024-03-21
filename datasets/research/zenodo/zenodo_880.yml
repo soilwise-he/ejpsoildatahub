@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1246119
+  dataseturi: https://doi.org/10.5281/zenodo.1246119
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Means For Mechanization For Sites And Solid Residue In Soil
+  abstract: "The article analyzes and describes the technical soil\u2013cultivating\
+    \ means of the rotor type, which ensures the grinding of biomass with its incorporation\
+    \ into the soil to the required depth. The advantages and disadvantages of the\
+    \ work of technical rotary\u2013type soil\u2013cultivating equipment have been\
+    \ revealed and described. The results of the economic verification of perspective\
+    \ models of rotor implements with the active drive of working elements are presented."
+  keywords:
+    default:
+      keywords:
+        subject: rotary plow
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-05-15'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1246119
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.1246118
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Orekhov-G.:
+    individualname: Orekhov G.,
+    role: creator
+    organization: Far eastern research institute to mechanizations and electrifications
+      of the agriculture to Russian academy of the agricultural sciences
+    url: https://orcid.org/0000-0002-9355-738X
+  Tsyban-A.:
+    individualname: Tsyban A.,
+    role: creator
+    organization: Far eastern research institute to mechanizations and electrifications
+      of the agriculture to Russian academy of the agricultural sciences
+    url: https://orcid.org/0000-0003-3440-8496
+  Demko-A.:
+    individualname: Demko A.,
+    role: creator
+    organization: Rokossovsky Far Eastern Higher Combined Arms Command School
+    url: ''
+content_info: {}

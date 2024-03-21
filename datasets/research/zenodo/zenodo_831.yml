@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10622987
+  dataseturi: https://doi.org/10.5281/zenodo.10622987
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Smart Agriculture: IoT-Enhanced Plant Irrigation  Through Soil Moisture
+    Analysis'
+  abstract: 'In modern agriculture, technology plays a crucial role in optimizing
+    resource utilization and improving crop yield. This research introduces an innovative
+    Automatic Plant Irriga- tion System that relies on soil moisture, integrating
+    an extensive array of sensors for moisture, temperature, and humidity. These sensors
+    are connected to an Arduino microcontroller, allowing continuous real-time monitoring
+    of soil conditions. Utilizing Wi- Fi connectivity, the collected data is efficiently
+    transmitted to a cloud-based platform, enabling seamless remote access and control.
+    Farmers can easily access essential information on soil moisture levels and environmental
+    parameters through a user- friendly mobile application or web interface. Furthermore,
+    the system incorporates actuators to regulate water flow, ensuring precise irrigation
+    schedules tailored to the specific needs of crops. The primary goal of this project
+    is to revolutionize traditional farming practices by implementing technology-driven
+    solutions that enhance water efficiency, minimize resource wastage, and optimize
+    agricultural output.Through the integration of IoT technology, the Automatic Plant
+    Irrigation System represents a forward-thinking approach to sustainable and precision
+    agricul- ture. The incorporation of IoT technology is envisioned to provide a
+    transformative impact, contributing to the advancement of agriculture through
+    improved water management and enhanced precision in irrigation practices.
+
+
+    Keywords:- IoT (Internet of Things), Smart Irrigation System, Agriculture Automation,
+    Soil Moisture Sensors,Wireless Connectivity, Cloud-based Data Transmission, Arduino
+    Microcon- Troller.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2024-02-06'
+    accepted: '2024-02-06'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10622987
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10622986
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yedhu-Gopan:
+    individualname: Yedhu Gopan
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

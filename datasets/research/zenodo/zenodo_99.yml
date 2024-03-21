@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: DYER_1910
+  dataseturi: https://doi.org/10.1038/083096a0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Fertilising Effect of Soil Sterilisation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Fertilising Effect of Soil Sterilisation
+    url: http://dx.doi.org/10.1038/083096a0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dyer-Bernard:
+    individualname: Dyer, Bernard
+    role: creator
+  DYER-BERNARD:
+    individualname: DYER, BERNARD
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

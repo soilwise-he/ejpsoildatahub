@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7385229
+  dataseturi: https://doi.org/10.5281/zenodo.7385229
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Differentiation of altitude-vegetation geosystems, taking into account the
+    calculations of vegetation indices to improve the soil erosion monitoring system
+  abstract: 'Vegetation cover is one of the main factors that cause soil erosion.
+    The lack of permanent vegetation cover leads to extensive soil erosion. Since
+    loose, dry, bare soil is the most susceptible to the erosion process. The article
+    provides material on the possibilities of calculating the vegetation indices NDVI
+    and SAVI using remote sensing images of the research object for 1990, 2000, 2010,
+    2022. The results of the research made it possible to analyze the state of the
+    flora distributed in the study area, as well as to develop measures aimed at protecting
+    the flora. Based on the analysis of the vegetation cover, it can be concluded
+    that for tree and shrub vegetation, the following were taken as the main features
+    for assessing the soil-protective capacity: the crown density of the tree and
+    shrub layer and the condition of the forest litter and ground cover.'
+  keywords:
+    default:
+      keywords:
+        subject: soil erosion, vegetation index, vegetation cover, remote sensing.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-12-01'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7385229
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7385228
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  F.A.Mamatkulova:
+    individualname: F.A.Mamatkulova
+    role: creator
+  G.T.Jalilova:
+    individualname: G.T.Jalilova
+    role: creator
+    organization: Tashkent State Agrarian University, Tashkent
+    url: ''
+  -F.A.Mamatkulova:
+    individualname: ', F.A.Mamatkulova'
+    role: ''
+    organization: Tashkent State Agrarian University, Tashkent
+    url: https://orcid.org/0000-0002-6275-4487
+content_info: {}

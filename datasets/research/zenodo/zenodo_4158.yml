@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1109423
+  dataseturi: https://doi.org/10.5281/zenodo.1109423
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Correlation Between The Sowing Date And The Yield Of Maize On Chernozem Soil,
+    In Connection With The Leaf Area Index And The Photosynthesis
+  abstract: 'Our sowing date experiment took place in the
+
+    Demonstration Garden of Institution of Plant Sciences, Centre for
+
+    Agricultural Sciences of University of Debrecen, in 2012-2014. The
+
+    paper contains data of test year 2014. Our purpose, besides several
+
+    other examinations, was to observe how sowing date influences the
+
+    leaf area index and the activity of photosynthesis of maize hybrids,
+
+    and how those factors affect fruiting. In the experiment we monitored
+
+    the change of the leaf area index and the photosynthesis of hybrids
+
+    with four different growing seasons. The results obtained confirm
+
+    that not only the environmental and agricultural factors in the
+
+    growing season have effect on the yield, but also other factors like
+
+    the leaf area index and the photosynthesis are determinative
+
+    parameters, and all those factors together, modifying the effects of
+
+    each other, develop average yields.'
+  keywords:
+    default:
+      keywords:
+        subject: photosynthetic capacity.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-09-04'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1109423
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1109422
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  E.-Bene:
+    individualname: E. Bene
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

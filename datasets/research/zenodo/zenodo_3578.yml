@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1339233
+  dataseturi: https://doi.org/10.5281/zenodo.1339233
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Construction Technology Of Modified Vacuum  Pre-Loading Method For Slurry
+    Dredged Soil
+  abstract: Slurry dredged soil at coastal area has a high water content, poor permeability,
+    and low surface intensity. Hence, it is infeasible to use vacuum preloading method
+    to treat this type of soil foundation. For the special case of super soft ground,
+    a floating bridge is first constructed on muddy soil and used as a service road
+    and platform for implementing the modified vacuum preloading method. The modified
+    technique of vacuum preloading and its construction process for the super soft
+    soil foundation improvement is then studied. Application of modified vacuum preloading
+    method shows that the technology and its construction process are highly suitable
+    for improving the super soft soil foundation in coastal areas.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2016-03-02'
+    publication: '2016'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1339233
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1339232
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-H.-Mahfouz:
+    individualname: Ali H. Mahfouz
+    role: creator
+  Gao-Ming-Jun:
+    individualname: Gao Ming-Jun
+    role: creator
+  Mohamad-Sharif:
+    individualname: Mohamad Sharif
+    role: creator
+  Mahfouz-Ali-H.:
+    individualname: Mahfouz, Ali H.
+    role: ''
+    organization: ''
+    url: ''
+  Ming-Jun-Gao:
+    individualname: Ming-Jun, Gao
+    role: ''
+    organization: ''
+    url: ''
+  Sharif-Mohamad:
+    individualname: Sharif, Mohamad
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

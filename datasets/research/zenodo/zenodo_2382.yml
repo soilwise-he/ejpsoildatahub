@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8092703
+  dataseturi: https://doi.org/10.5281/zenodo.8092703
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Digital Mapping of Soil Organic Carbon with Machine Learning in Dryland of
+    Northeast and North Plain China
+  abstract: "Due to the importance of soil organic carbon (SOC) in supporting ecosystem\
+    \ services, accurate SOC assessment is vital for scientific research and decision\
+    \ making. However, most previous studies focused on single soil depth, leading\
+    \ to a poor understanding of SOC in multiple depths. To better understand the\
+    \ spatial distribution pattern of SOC in Northeast and North China Plain, we compared\
+    \ three machine learning algorithms (i.e., Cubist, Extreme Gradient Boosting (XGBoost)\
+    \ and Random Forest (RF)) within the digital soil mapping framework. A total of\
+    \ 386 sampling sites (1584 samples) following specific criteria covering all dryland\
+    \ districts and counties and soil types in four depths (i.e., 0\u201310, 10\u2013\
+    20, 20\u201330 and 30\u201340 cm) were collected in 2017. After feature selection\
+    \ from 249 environmental covariates by the Genetic Algorithm, 29 variables were\
+    \ used to fit models. The results showed SOC increased from southern to northern\
+    \ regions in the spatial scale and decreased with soil depths. From the result\
+    \ of independent verification (validation dataset: 80 sampling sites), RF (R<sup>2</sup>\
+    \ : 0.58, 0.71, 0.73, 0.74 and RMSE: 3.49, 3.49, 2.95, 2.80 g kg<sup>\u22121</sup>\
+    \ in four depths) performed better than Cubist (R<sup>2</sup> : 0.46, 0.63, 0.67,\
+    \ 0.71 and RMSE: 3.83, 3.60, 3.03, 2.72 g kg<sup>\u22121</sup> ) and XGBoost (R<sup>2</sup>\
+    \ : 0.53, 0.67, 0.70, 0.71 and RMSE: 3.60, 3.60, 3.00, 2.83 g kg<sup>\u22121</sup>\
+    \ ) in terms of prediction accuracy and robustness. Soil, parent material and\
+    \ organism were the most important covariates in SOC prediction. This study provides\
+    \ the up-to-date spatial distribution of dryland SOC in Northeast and North China\
+    \ Plain, which is of great value for evaluating dynamics of soil quality after\
+    \ long-term cultivation."
+  keywords:
+    default:
+      keywords:
+        subject: controlling factor
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-05-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8092703
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8092702
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Xianglin-Zhang:
+    individualname: Xianglin Zhang
+    role: creator
+    organization: ''
+    url: ''
+  Jie-Xue:
+    individualname: Jie Xue
+    role: creator
+  Songchao-Chen:
+    individualname: Songchao Chen
+    role: creator
+    organization: ''
+    url: ''
+  Nan-Wang:
+    individualname: Nan Wang
+    role: creator
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Yuanfang-Huang:
+    individualname: Yuanfang Huang
+    role: creator
+    organization: ''
+    url: ''
+  Zhiqing-Zhuo:
+    individualname: Zhiqing Zhuo
+    role: creator
+    organization: ''
+    url: ''
+  Xue-Jie:
+    individualname: Xue, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: ''
+    organization: ''
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

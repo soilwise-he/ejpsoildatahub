@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Millar_1919
+  dataseturi: https://doi.org/10.2307/2255715
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Relation between Biological Activities in the Presence of Various Salts and
+    the Concentration of the Soil Solution in Different Classes of Soil.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Relation between Biological Activities in the Presence of Various Salts
+      and the Concentration of the Soil Solution in Different Classes of Soil.
+    url: http://dx.doi.org/10.2307/2255715
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Millar-C.-E.:
+    individualname: Millar, C. E.
+    role: creator
+  JSTOR:
+    individualname: JSTOR
+    role: creator
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3349787
+  dataseturi: https://doi.org/10.5281/zenodo.3349787
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Distribution Patterns of Polycyclic Aromatic Hydrocarbons in Marshy Soil
+    and Sediments in Warri, Southern Nigeria
+  abstract: 'This study was carried out to determine the seasonal distribution patterns
+    of Polycyclic Aromatic Hydrocarbons (PAHs) in marshy soil samples in Warri City,
+    Southern Nigeria. The samples were collected during dry and rainy seasons from
+    four locations within Warri and a control location in Agbarho, 20km away. Levels
+    of 16 priority PAHs listed in United States Environmental Protection Agency (USEPA)
+    were determined using Gas Chromatography coupled with Flame Ionization detector
+    (GC-FID). This study was carried from January to March and June to August 2014,
+    representing the dry and wet seasons respectively. Mean levels of individual PAHs
+    for sediment samples in the dry season ranged from 0.001mg/kg low for Acenaphthene
+    to 0.447mg/kg high for Benzo(a)pyrene while for soil samples in the dry season,
+    mean levels ranged from 0.005mg/kg low for Acenaphtylene to 1.069mg/kg high for
+    Benzo(a)pyrene. In the rainy season, individual PAH in sediments ranged from 0.001mg/kg
+    low in acenaphthylene to 0.231mg/kg high for anthracene while for soil samples,
+    mean levels of individual PAHs for rainy season ranged from 0.001mg/kg low in
+    phenanthrene to 0.090mg/kg high for Benzo(b,k)Fluoranthene. Overall, the highest
+    total concentration of individual PAH was recorded for benzo(a)pyrene with 3.302mg/kg
+    in soil samples in the dry season while the lowest total concentration was Acenaphthylene
+    with 0.012mg/kg in sediments in the rainy season. It was observed that PAHs concentration
+    was generally higher in dry than rainy seasons for soil and sediment samples.
+    This can be attributed to dissolution and washing-off of the PAHs during the rainy
+    season.Read Complete Article at ijSciences: V62017021194 AND DOI: http://dx.doi.org/10.18483/ijSci.1194'
+  keywords:
+    default:
+      keywords:
+        subject: Flame Ionization detector
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-04-30'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3349787
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3349786
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ebenezer-OGHAMA-Osayomwanbor:
+    individualname: Ebenezer OGHAMA, Osayomwanbor
+    role: creator
+    organization: ''
+    url: ''
+  Victoria-BAYOWA-Adejoke:
+    individualname: Victoria BAYOWA, Adejoke
+    role: creator
+    organization: ''
+    url: ''
+  E.-Agbozu-I.:
+    individualname: E. Agbozu, I.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

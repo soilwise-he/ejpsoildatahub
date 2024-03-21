@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1073022
+  dataseturi: https://doi.org/10.5281/zenodo.1073022
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Determination Of The Specific Activity Of Soil And Fertilizers In Sergipe
+    - Brazil
+  abstract: "Measurements of radioactivity in the environment is of great importance\
+    \ to monitor and control the levels of radiation to which man is exposed directly\
+    \ or indirectly. It is necessary to show that regardless of working or being close\
+    \ to nuclear power plants, people are daily in contact with some amount of radiation\
+    \ from the actual environment and food that are ingested, contradicting the view\
+    \ of most of them. The aim of this study was to analyze the rate of natural and\
+    \ artificial radiation from radionuclides present in cement, soil and fertilizers\
+    \ used in Sergipe State \u2013 Brazil. The radionuclide activitiesmeasured all\
+    \ samples arebelow the Brazilian limit of the exclusion and exemption criteria\
+    \ from the requirement of radiation protection.It was detected Be-7 in organic\
+    \ fertilizers that means a short interval between the brewing processes for use\
+    \ in agriculture. It was also detected an unexpected Cs-137 in some samples; however\
+    \ its activities does not represent risk for the population. Th-231 was also found\
+    \ in samples of soil and cement in the state of Sergipe that is an unprecedented\
+    \ result."
+  keywords:
+    default:
+      keywords:
+        subject: radio isotopes.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-08-22'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1073022
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1073021
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Leandro-X.-Cardoso:
+    individualname: Leandro X. Cardoso
+    role: creator
+  Susana-O.-Souza:
+    individualname: Susana O. Souza
+    role: creator
+  Fernanda-C.-L.-Ferreira:
+    individualname: Fernanda C. L. Ferreira
+    role: creator
+  Orlando-C.-Ferreira:
+    individualname: Orlando C. Ferreira
+    role: creator
+  Elenilson-Barboza:
+    individualname: Elenilson Barboza
+    role: creator
+    organization: ''
+    url: ''
+  Carlos-E.-Alhanati:
+    individualname: Carlos E. Alhanati
+    role: creator
+  Cardoso-Leandro-X.:
+    individualname: Cardoso, Leandro X.
+    role: ''
+    organization: ''
+    url: ''
+  Souza-Susana-O.:
+    individualname: Souza, Susana O.
+    role: ''
+    organization: ''
+    url: ''
+  Ferreira-Fernanda-C.-L.:
+    individualname: Ferreira, Fernanda C. L.
+    role: ''
+    organization: ''
+    url: ''
+  Ferreira-Orlando-C.:
+    individualname: Ferreira, Orlando C.
+    role: ''
+    organization: ''
+    url: ''
+  Alhanati-Carlos-E.:
+    individualname: Alhanati, Carlos E.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

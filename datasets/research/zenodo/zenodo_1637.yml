@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5876676
+  dataseturi: https://doi.org/10.5281/zenodo.5876676
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: YIELD RESPONSE TO ELEVATED SOIL BORON IN WHEAT CULTIVARS OF LOCAL AND FOREIGN
+    ORIGIN
+  abstract: The two-year field study was aimed to investigate the effect of increasing
+    soil boron treatments (3.3, 6.7 and 13.3 g H3BO3/m2) on eight wheat cultivars,
+    as well as to estimate the rate in which yield decreases followed the increase
+    in soil boron. A strong positive linear relationship was found between the treatments
+    and soil hot water extractable boron. On average, wheat yield response to elevated
+    soil boron was decrease of 7.7%. Cultivars of local origin over-yielded foreign
+    cultivars at all levels of boron supply. The estimated yield loss was 1.8% per
+    increase in soil boron of 0.1 ppm.
+  keywords:
+    default:
+      keywords:
+        subject: boron tolerance
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-06-15'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5876676
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5876675
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  MILKA-BRDAR-JOKANOVIC:
+    individualname: "MILKA BRDAR-JOKANOVI\u0106"
+    role: creator
+    organization: Institute of Field and Vegetable Crops, M. Gorkog 30, 21000 Novi
+      Sad, Serbia
+    url: ''
+  ANKICA-KONDIC-SPIKA:
+    individualname: "ANKICA KONDI\u0106-\u0160PIKA"
+    role: creator
+    organization: Institute of Field and Vegetable Crops, M. Gorkog 30, 21000 Novi
+      Sad, Serbia
+    url: ''
+  BRANKA-LJEVNAIC-MASIC:
+    individualname: "BRANKA LJEVNAI\u0106-MA\u0160I\u0106"
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg D. Obradovi\u0107\
+      a 8 21000 Novi Sad, Serbia"
+    url: ''
+  IVANA-MAKSIMOVIC:
+    individualname: "IVANA MAKSIMOVI\u0106"
+    role: creator
+    organization: "University of Novi Sad, Faculty of Agriculture, Trg D. Obradovi\u0107\
+      a 8 21000 Novi Sad, Serbia"
+    url: ''
+content_info: {}

@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7216102
+  dataseturi: https://doi.org/10.5281/zenodo.7216102
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Plastic debris impairs archaeal abundance in sub-saharan soil
+  abstract: 'Microplastic is ubiquitous in soils. The Sub-Saharan environment is largely
+    under-represented in terrestrial plastisphere research despite high levels of
+    plastic contamination and demonstrated effects of plastic on fungal communities,
+    i.e. enrichments of pathogenic fungi on plastic in Sub-Saharan Kenya. Thus, it
+    is of particular interest to investigate the effects of plastic debris in this
+    region on the prokaryotic soil microbiome and the resulting consequences. To study
+    plastic effects on prokaryotic microbiomes, soil and terrestrial plastic debris
+    were analysed by 16S rRNA gene amplicon sequencing. Investigation of the microbiome
+    revealed a strong negative plastic effect on the abundance of Archaea especially
+    on the family Nitrososphaeraceae (ammonia oxidizers). In contrast, Sphingomonadaceae
+    and multiple Bdellovibrionaceae were indicative for the plastisphere. Matching
+    of amplicons with the PlasticDB database for microbial plastic degraders and PICRUSt
+    predictions provided further information about the functional capacities of examined
+    plastisphere microbiomes such as the depletion of archaeal pathways. In addition,
+    we used the 16SPiP database to annotate sequenced bacterial candidates to potential
+    pathogenic bacteria, revealing the abundance of more than 15 potential pathogens
+    in soil and plastisphere. The combined data shows a modification of the plastisphere
+    relative to the soil microbiome, suggests plastic effects on archaeal nitrogen
+    transformation potentials and stimulates further research on specific mechanisms
+    of plastic-Archaea interactions. Also see: https://micro2022.sciencesconf.org/427491/document'
+  keywords:
+    default:
+      keywords:
+        subject: Plastisphere Community
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-11-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7216102
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7216101
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rohrbach-Stephan:
+    individualname: Rohrbach, Stephan
+    role: creator
+    organization: ''
+    url: ''
+  Gkoutselis-Gerasimos:
+    individualname: Gkoutselis, Gerasimos
+    role: creator
+    organization: ''
+    url: ''
+  Hink-Linda:
+    individualname: Hink, Linda
+    role: creator
+    organization: ''
+    url: ''
+  Weig-Alfons:
+    individualname: Weig, Alfons
+    role: creator
+    organization: ''
+    url: ''
+  Rambold-Gerhard:
+    individualname: Rambold, Gerhard
+    role: creator
+    organization: ''
+    url: ''
+  Horn-Marcus-A.:
+    individualname: Horn, Marcus A.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

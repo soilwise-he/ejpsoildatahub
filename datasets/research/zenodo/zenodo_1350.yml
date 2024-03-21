@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Zhang_2021
+  dataseturi: https://doi.org/10.3390/rs13234893
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: In Situ Observation-Constrained Global Surface Soil Moisture Using Random
+    Forest Model
+  abstract: "&lt;p&gt;The inherent biases of different long-term gridded surface soil\
+    \ moisture (SSM) products,&lt;br&gt;\nunconstrained by the in situ observations,\
+    \ implies different spatio-temporal patterns. In this study,&lt;br&gt;\nthe Random\
+    \ Forest (RF) model was trained to predict SSM from relevant land surface feature\
+    \ variables&lt;br&gt;\n(i.e., land surface temperature, vegetation indices, soil\
+    \ texture, and geographical information) and&lt;br&gt;\nprecipitation, based on\
+    \ the in situ soil moisture data of the International Soil Moisture Network&lt;br&gt;\n\
+    (ISMN.). The results of the RF model show an RMSE of 0.05 m3 m\U001000003 and\
+    \ a correlation coefficient of&lt;br&gt;\n0.9. The calculated impurity-based feature\
+    \ importance indicates that the Antecedent Precipitation&lt;br&gt;\nIndex affects\
+    \ most of the predicted soil moisture. The geographical coordinates also significantly&lt;br&gt;\n\
+    influence the prediction (i.e., RMSE was reduced to 0.03 m3 m\U001000003 after\
+    \ considering geographical&lt;br&gt;\ncoordinates), followed by land surface temperature,\
+    \ vegetation indices, and soil texture. The spatiotemporal&lt;br&gt;\npattern\
+    \ of RF predicted SSM was compared with the European Space Agency Climate&lt;br&gt;\n\
+    Change Initiative (ESA-CCI) soil moisture product, using both time-longitude and\
+    \ latitude diagrams.&lt;br&gt;\nThe results indicate that the RF SSM captures\
+    \ the spatial distribution and the daily, seasonal, and&lt;br&gt;\nannual variabilities\
+    \ globally.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: In Situ Observation-Constrained Global Surface Soil Moisture Using Random
+      Forest Model
+    url: http://dx.doi.org/10.3390/rs13234893
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Zhang-Lijie:
+    individualname: Zhang, Lijie
+    role: creator
+  Zeng-Yijian:
+    individualname: Zeng, Yijian
+    role: creator
+  Zhuang-Ruodan:
+    individualname: Zhuang, Ruodan
+    role: creator
+  Szabo-Brigitta:
+    individualname: "Szab\xF3, Brigitta"
+    role: creator
+  Manfreda-Salvatore:
+    individualname: Manfreda, Salvatore
+    role: creator
+  Han-Qianqian:
+    individualname: Han, Qianqian
+    role: creator
+  Su-Zhongbo:
+    individualname: Su, Zhongbo
+    role: creator
+  Szab>=-Brigitta:
+    individualname: "Szab\u221A\u2265, Brigitta"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

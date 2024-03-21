@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399030
+  dataseturi: https://doi.org/10.5281/zenodo.10399030
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The variability of soil as the basis for determining fertilization recommendation
+    for rice in North Sumatra, Indonesia
+  abstract: "Soil fertility and soil units at a detailed scale are needed to determine\
+    \ site-specific nutrient management. The objective of the study was to describe\
+    \ the variability of lowland rice fertility and fertilizer recommendation in North\
+    \ Sumatra. Field research was investigated at Pasar Miring Experimental Station,\
+    \ Deli Serdang District, North Sumatra Province (latitude: 3\xB0, 29', 57''N,\
+    \ longitude: 98\xB0, 54', 23'' m.a.s.l.) puddled soil with a land area of 15.33\
+    \ ha for the period August-December 2020. The study was preceded by a work desk,\
+    \ field survey, analysis of soil samples in the laboratory, data processing, and\
+    \ reporting. GIS applications are used for data processing. The soil series is\
+    \ distinguished by the type and arrangement of horizons, colors, textures, structures,\
+    \ consistency, soil reactions of each horizon, other soil chemical properties,\
+    \ and mineral properties of each horizon. The results showed that (1) Soil in\
+    \ the study area was tuff acid dacite with above alluvium cover material was sand\
+    \ and loam that it required lime and organic material to improve soil structure,\
+    \ especially on a bit rough to rough textures (2) Soil classification in the experimental\
+    \ area was Inceptisols ordo, Aquepts suborder, Endoaquepts group, Typic Endoaquepts\
+    \ subgroup, and Kotasan 1, Kotasan 2, Kotasan 3, Jaharum B1, and Jaharum B2 series;\
+    \ (3) Soil fertility map scale of 1: 2000 at depth 0-20 cm and 20-40 cm were divided\
+    \ into three categories i.e. inherent potential of soil fertility status (IP)\
+    \ with high to very low grade, organic matter and soil N status (OM) with very\
+    \ high to very low class, as well as P availability status (AP) with very high\
+    \ to medium grade; (4). Applied mineral soil + ash empty fruit bunches of palm\
+    \ oil increased rice production up to 1.3 t ha-1 (15%)."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399030
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10399029
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Girsang-Setia-Sari-Br:
+    individualname: Girsang, Setia Sari Br
+    role: creator
+    organization: Indonesian National Research and Innovation Agency Cibinong, Indonesia
+    url: ''
+content_info: {}

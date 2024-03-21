@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1110083
+  dataseturi: https://doi.org/10.5281/zenodo.1110083
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Evaluation Of Aquifer Protective Capacity And Soil Corrosivity Using Geoelectrical
+    Method
+  abstract: "A geoelectric survey was carried out in some parts of<br>\nAngwan Gwari,\
+    \ an outskirt of Lapai Local Government Area on<br>\nNiger State which belongs\
+    \ to the Nigerian Basement Complex, with<br>\nthe aim of evaluating the soil corrosivity,\
+    \ aquifer transmissivity and<br>\nprotective capacity of the area from which aquifer\
+    \ characterisation<br>\nwas made. The G41 Resistivity Meter was employed to obtain\
+    \ fifteen<br>\nSchlumberger Vertical Electrical Sounding data along profiles in\
+    \ a<br>\nsquare grid network. The data were processed using interpex 1-D<br>\n\
+    sounding inversion software, which gives vertical electrical sounding<br>\ncurves\
+    \ with layered model comprising of the apparent resistivities,<br>\noverburden\
+    \ thicknesses, and depth. This information was used to<br>\nevaluate longitudinal\
+    \ conductance and transmissivities of the layers.<br>\nThe results show generally\
+    \ low resistivities across the survey area<br>\nand an average longitudinal conductance\
+    \ variation from<br>\n0.0237Siemens in VES 6 to 0.1261Siemens in VES 15 with almost<br>\n\
+    the entire area giving values less than 1.0 Siemens. The average<br>\ntransmissivity\
+    \ values range from 96.45 \u03A9.m2 in VES 4 to 299070<br>\n\u03A9.m2 in VES 1.\
+    \ All but VES 4 and VES14 had an average<br>\noverburden greater than 400 \u03A9\
+    .m2, these results suggest that the<br>\naquifers are highly permeable to fluid\
+    \ movement within, leading to<br>\nthe possibility of enhanced migration and circulation\
+    \ of contaminants<br>\nin the groundwater system and that the area is generally\
+    \ corrosive."
+  keywords:
+    default:
+      keywords:
+        subject: transmissivity.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2015-10-03'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1110083
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1110082
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.-T.-Tsepav:
+    individualname: M. T. Tsepav
+    role: creator
+    organization: ''
+    url: ''
+  Y.-Adamu:
+    individualname: Y. Adamu
+    role: creator
+    organization: ''
+    url: ''
+  M.-A.-Umar:
+    individualname: M. A. Umar
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

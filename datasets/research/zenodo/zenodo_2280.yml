@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Carpio_2020
+  dataseturi: https://doi.org/10.3390/agronomy10081166
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Microbial Community Changes in a Field Treatment with Chlorotoluron,
+    Flufenacet and Diflufenican and Two Organic Amendments
+  abstract: '&lt;p&gt;The soil microbial activity, biomass and structure were evaluated
+    in an unamended (S) and organically amended soil treated with two commercial formulations
+    of the herbicides chlorotoluron (Erturon&reg;) and flufenacet plus diflufenican
+    (Herold&reg;) under field conditions. Soils were amended with spent mushroom substrate
+    (SMS) or green compost (GC). Soil microbial dehydrogenase activity (DHA), biomass
+    and structure determined by the phospholipid fatty acid (PLFA) profiles were recorded
+    at 0, 45, 145, 229 and 339 days after herbicide treatment. The soil DHA values
+    steadily decreased over time in the unamended soil treated with the herbicides,
+    while microbial activity was constant in the amended soils. The amended soils
+    recorded higher values of concentrations of PLFAs. Total soil microbial biomass
+    decreased over time regardless of the organic amendment or the herbicide. Herbicide
+    application sharply decreased the microbial population, with a significant modification
+    of the microbial structure in the unamended soil. In contrast, no significant
+    differences in microbial biomass and structure were detected in S + SMS and S
+    + GC, untreated or treated with herbicides. The application of SMS and GC led
+    to a significant shift in the soil microbial community regardless of the herbicides.
+    The use of SMS and GC as organic amendments had a certain buffer effect on soil
+    DHA and microbial biomass and structure after herbicide application due to the
+    higher adsorption capacity of herbicides by the amended soils.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Herbicides
+      - Field experiment
+      - Soil
+      - Green compost
+      - Spent mushroom substrate
+      - Bioindicators
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Microbial Community Changes in a Field Treatment with Chlorotoluron,
+      Flufenacet and Diflufenican and Two Organic Amendments
+    url: http://dx.doi.org/10.3390/agronomy10081166
+    type: www
+contact:
+  MDPI:
+    individualname: MDPI
+    role: creator
+  Carpio-M.-Jose:
+    individualname: "Carpio, M. Jos\xE9"
+    role: creator
+  Garcia-Delgado-Carlos:
+    individualname: "Garc\xEDa-Delgado, Carlos"
+    role: creator
+  Marin-Benito-Jesus-Maria:
+    individualname: "Mar\xEDn-Benito, Jes\xFAs Mar\xEDa"
+    role: creator
+  Sanchez-Martin-M.-Jesus:
+    individualname: "S\xE1nchez-Mart\xEDn, M. Jes\xFAs"
+    role: creator
+  Rodriguez-Cruz-M.-Sonia:
+    individualname: "Rodr\xEDguez-Cruz, M. Sonia"
+    role: creator
+  Carpio-Maria-Jose:
+    individualname: "Carpio, Mar\xEDa Jos\xE9"
+    role: creator
+  Sanchez-Martin-Maria-Jesus:
+    individualname: "S\xE1nchez-Mart\xEDn, Mar\xEDa Jes\xFAs"
+    role: creator
+  Rodriguez-Cruz-Maria-Sonia:
+    individualname: "Rodr\xEDguez-Cruz, Mar\xEDa Sonia"
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

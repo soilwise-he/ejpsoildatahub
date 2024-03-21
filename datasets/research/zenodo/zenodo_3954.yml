@@ -1,0 +1,97 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10269036
+  dataseturi: https://doi.org/10.5281/zenodo.10269036
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Hydrodynamic real-time hybrid simulation to examine aero-hydrostructural-soil
+    dynamics of offshore monopile wind turbines
+  abstract: 'Offshore wind turbines (OWTs) are expected to play a major role in the
+    energy transition from fossil fuels to renewable energy. However, OWTs are subjected
+    to complex dynamic forces due to combined wind and wave loading, along with soil-structure
+    interaction effects. Due to incompatibilities in simulating multiple dynamic forces
+    simultaneously at model scale, conventional experimental approaches are limited
+    in simulating the response of the wind turbines subjected to combined aero- and
+    hydro-dynamic forces interacting with soil-structural dynamics. Real-time hybrid
+    simulation (RTHS) is a numerical-physical simulation approach that can alleviate
+    similitude limitations by partitioning the system dynamics into physical and numerical
+    subassemblies that interact through sensors and actuators in real time. A hydrodynamic
+    RTHS framework, hydro-RTHS, is presented to simulate the response of a monopile
+    OWT subjected to simultaneous wind and wave loading. The system was partitioned
+    such that: [a] the hydrodynamics on the tower were modeled physically at model
+    scale and [b] the remaining dynamics, including aerodynamics, structural dynamics,
+    and soil effects, were modeled numerically at full scale. Wind forces applied
+    at the hub were pre-simulated and applied to the numerical soil-structure model.
+    Force feedback from the pre-determined wind loading and measured physical wave
+    loading was used in the governing equations to calculate command displacements,
+    which were physically applied using an actuator and virtually applied in the numerical
+    soil-structure model. Geometry, time, and forces used to actuate and measure the
+    physical model were scaled via Froude scaling to more realistically represent
+    the hydrodynamic forces in the governing equations. Results demonstrate that the
+    hydro-RTHS can simulate combined aero-hydro-structural-soil response of monopile
+    OWT, which cannot be obtained using conventional approaches with distorted similitude
+    effects.'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-12-05'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10269036
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10269035
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Seki-Akiri:
+    individualname: Seki, Akiri
+    role: creator
+    organization: ''
+    url: ''
+  Gadasi-Jonah:
+    individualname: Gadasi, Jonah
+    role: creator
+    organization: ''
+    url: ''
+  Simpson-Barbara:
+    individualname: Simpson, Barbara
+    role: creator
+    organization: ''
+    url: ''
+  Robertson-Bryson:
+    individualname: Robertson, Bryson
+    role: creator
+    organization: ''
+    url: ''
+  Schellenberg-Andreas:
+    individualname: Schellenberg, Andreas
+    role: creator
+    organization: ''
+    url: ''
+  Lomonaco-Pedro:
+    individualname: Lomonaco, Pedro
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

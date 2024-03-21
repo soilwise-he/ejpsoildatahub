@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7371612
+  dataseturi: https://doi.org/10.5281/zenodo.7371612
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: THE EFFECT OF MINERAL FERTILIZERS ON THE AMOUNT OF NUTRIENTS IN THE SOIL
+  abstract: <em>This article discusses the agrochemical properties of seed coating
+    with superammophos-K fertilizer, macro- and microfertilizers, the processes between
+    plants, soil and fertilizers in the life of plants, the properties of mineral
+    fertilizers in the soil, the circulation of substances as a result of the introduction
+    of mineral fertilizers into the soil, i.e. nutrients.</em>
+  keywords:
+    default:
+      keywords:
+        subject: superammophos-K fertilizer, ammoniated superphosphate, agriculture
+          of Uzbekistan, nitrogen-phosphorus fertilizers, nutrients, enzymes, mobile
+          phosphorus, magnesium phosphate, mono- and dicalcium phosphate, Background
+          + superammophos-K, Background + ammophos, monoammonium phosphate, ammonium
+          sulfate , ammonium nitrate, exchangeable potassium.
+  status: ''
+  language: uzb
+  dates:
+    creation: ''
+    issued: '2022-11-28'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7371612
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7371611
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.Arislanov-M.Abdullaev-O.Abdilalimov--O.Isomiddinov:
+    individualname: A.Arislanov M.Abdullaev O.Abdilalimov  O.Isomiddinov
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

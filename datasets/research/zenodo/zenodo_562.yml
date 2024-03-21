@@ -1,0 +1,67 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2585674
+  dataseturi: https://doi.org/10.5281/zenodo.2585674
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil, Earth and People - Our Care and Responsibility
+  abstract: "The article discusses the relationship between soils, land modern man\
+    \ and his concern and responsibility for sustainable land management. The main\
+    \ problems, which limit the rational use and protection of land are analyzed and\
+    \ also on the first place among them the improper and unfair distribution of fertile\
+    \ soils and lands, and the resulting problems on a different nature \u2013 geographic,\
+    \ demographic, ecological, food consumption and social onece The significance\
+    \ of the triadic paradigms \"soil-land-people\", \"capital-labor-science\" and\
+    \ \"wisdom-harmony-prosperity\" is noted as well as the maxims that oblige us\
+    \ to work on them. It is also emphasized that soils in Bulgaria are subject to\
+    \ natural, anthropogenic and technogenic pressures. Problems are outlined which\
+    \ are related to arable land, recommendations, guidelines and critical assessments\
+    \ of the soil scientists and the European institutions (European Parliament and\
+    \ European Commission on Agriculture and Development of Rural Areas) concerning\
+    \ the organization and management of soil and land resources."
+  keywords:
+    default:
+      keywords:
+        subject: sustainable land management, soil, land, people, problems, overconcentration
+          of land and finances, recommendations, guidelines, land use, conservation
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-12-28'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2585674
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.2585673
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Teoharov-Metodi:
+    individualname: Teoharov, Metodi
+    role: creator
+    organization: ISSAP "N. Poushkarov"
+    url: ''
+  Hristov-Biser:
+    individualname: Hristov, Biser
+    role: creator
+    organization: ISSAP "N. Poushkarov"
+    url: https://orcid.org/0000-0001-7436-0875
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Otto_1804
+  dataseturi: https://doi.org/10.1080/14786440408676448
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: X. On the influence of the component parts of the soil on vegetation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: X. On the influence of the component parts of the soil on vegetation
+    url: http://dx.doi.org/10.1080/14786440408676448
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Otto-M.:
+    individualname: Otto, M.
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

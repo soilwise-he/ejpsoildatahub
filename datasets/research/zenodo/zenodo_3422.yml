@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mahmood_2020
+  dataseturi: https://doi.org/10.35940/ijeat.F1335.089620
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Developing Expert System for Soil Stabilization under Flexible Pavement
+  abstract: '&lt;p&gt;Experts are, generally, busy and few in number. Getting them
+    to work any time and in several locations is difficult, if not impossible, and
+    requires time, cost and stress. Soil stabilization and modification represent
+    an excellent domain for the development of an expert system, which contains a
+    knowledge base of heuristic rules about types and remedies of stabilization. Thus,
+    an Expert system program is a suitable solution together with the all the unpublished
+    knowledge of the experts and combine it into a single accessible program, which
+    could come in handy whenever a novice, student or practitioner engineer need it.
+    The knowledge is extracted from literatures, questionnaire form and interviews
+    with senior pavement engineers (expert), who have long expertise in flexible pavement
+    engineering, especially in stabilization. The knowledge is then represented in
+    knowledge base and encodes to be suitably entered in expert system builder shell
+    (ES BUILDER). The system after being developed is have then to be evaluated by
+    the experts and the users, to evaluate its efficiency and to recommend improvements
+    and offer suggestions to improve the user interface. The overall commands after
+    the evaluation stated that the software was very favorable. The users were very
+    impressed by the system and it&#39;s efficient and solutions for the soil stabilization.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Expert System
+      - Soil Stabilization
+      - Flexible Pavement
+      - ES Builder.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Developing Expert System for Soil Stabilization under Flexible Pavement
+    url: http://dx.doi.org/10.35940/ijeat.F1335.089620
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mahmood-R.-Mahmood:
+    individualname: Mahmood R. Mahmood
+    role: creator
+  Ammar-A.-M.-Shubber:
+    individualname: Ammar A. M. Shubber
+    role: creator
+  Asaad-Hamdan-Maryoosh:
+    individualname: Asaad Hamdan Maryoosh
+    role: creator
+  Mahmood-Mahmood-R.:
+    individualname: Mahmood, Mahmood R.
+    role: creator
+  Shubber-Ammar-A.-M.:
+    individualname: Shubber, Ammar A. M.
+    role: creator
+  Maryoosh-Asaad-Hamdan:
+    individualname: Maryoosh, Asaad Hamdan
+    role: creator
+  Blue-Eyes-Intelligence-Engineering:
+    individualname: Blue Eyes Intelligence Engineering
+    role: creator
+  Sciences-Engineering:
+    individualname: Sciences Engineering
+    role: creator
+  Sciences-Publication---BEIESP:
+    individualname: Sciences Publication - BEIESP
+    role: creator
+content_info: {}

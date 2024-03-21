@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6392630
+  dataseturi: https://doi.org/10.5281/zenodo.6392630
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Influence of Pesticides on the Trace Element Status of Soils : Part II.
+    Effect of Nemagon on the Manganese and Iron Status of a Saline Soil'
+  abstract: Section of Chemistry, Faculty of Engineering, Aligarh Muslim University,
+    Aligarh. <em>Manuscript received 4 July 1975; revised 29 November 1975; accepted
+    6 December 1975</em> The effects of different doses of nemagon (1.2-dibromo-3
+    chloropropane) on the Mn and Fe status of a saline sodic soil over a period of
+    90 days were examined and the variance ratio, L.S.D. and correlation coefficients
+    calculated. The results revealed that 0.3 ml of the pesticide per kg. of soil
+    at an Interval of 30 days produced a most favourable significant response on water
+    soluble, exchangeable and active Mn as well as on available and exchangeable Fe.
+    All these constituents were positively correlated to each other. However, a negative
+    correlation was observed between active and reducible Mn. The effect of the chemical
+    started declining after a period of 4 weeks. The responses have been explained
+    on the basis of chemical and microbiological activity in the soil.
+  keywords:
+    default:
+      keywords:
+        subject: Nemagon
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1976-02-29'
+    publication: '1976'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6392630
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6392629
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  J.-P.-SINGHAL:
+    individualname: J. P. SINGHAL
+    role: creator
+    organization: ''
+    url: ''
+  S.-U.-KHAN:
+    individualname: S. U. KHAN
+    role: creator
+    organization: ''
+    url: ''
+  O.-P.-BANSAL:
+    individualname: O. P. BANSAL
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

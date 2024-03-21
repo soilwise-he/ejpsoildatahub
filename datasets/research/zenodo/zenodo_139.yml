@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5829947
+  dataseturi: https://doi.org/10.5281/zenodo.5829947
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil engineering properties and stabilization of Purulia soil by chemical
+    treatment (with calcium salts)
+  abstract: "Department of Chemistry, Kalyani University, Kalyani-741 235, India<br>\
+    \ <em>E-mail</em> : sujitclahiri@ yahoo.com<br> Soil Mechanics Section, River\
+    \ Research Institute, W.B., P.O. HRRI, Nadia, India<br> <em>Manuscript received\
+    \ 13 September 2004, revised 5 April 2005, accepted 25 April 2005</em> The soil\
+    \ index and engineering properties like the specific gravity, grain-size, liquid\
+    \ limit (LL), plastic limit (PL), compaction characteristics, compression index\
+    \ (Cd, etc. of Purulia soils were studied. The soil characteristics and their\
+    \ engineering properties (stabilization) can he considerably improved and strengthened\
+    \ through addition of chemicals. A systematic investigation on soil stabilization\
+    \ by CaCl<sub>2</sub> and Ca(OH)<sub>2</sub> to a Purulia soil was carried out.\
+    \ The effect of added chemicals on the engineering properties was examined to\
+    \ derive useful inferences on stabilization of \xB7the given soils by chemicals.\
+    \ Efforts have been made to oiler physico chemical explanation on soil stabilization."
+  keywords:
+    default:
+      keywords:
+        subject: compression index
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2005-08-31'
+    publication: '2005'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5829947
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5829946
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  S-.-Ghoshal:
+    individualname: S . Ghoshal
+    role: creator
+    organization: ''
+    url: ''
+  S.-S.-Dedalal:
+    individualname: S. S. Dedalal
+    role: creator
+    organization: ''
+    url: ''
+  S-.-C-.-Lahiri:
+    individualname: S . C . Lahiri
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

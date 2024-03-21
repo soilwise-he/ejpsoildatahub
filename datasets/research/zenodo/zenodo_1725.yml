@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3510168
+  dataseturi: https://doi.org/10.5281/zenodo.3510168
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Mohr-Coulomb and Hardening Soil Model Comparison of the Settlement of an
+    Embankment Dam
+  abstract: In this study, numerical analysis of an embankment dam was carried out
+    to predict settlement behavior with the use of the Mohr-Coulomb Model (MCM) and
+    of the Hardening Soil Model (HSM). The MCM was applied to all material zones of
+    the dam and the HSM was used for four major material zones that occupied significant
+    volume. The settlement response of the dam was similar for MCM and HSM for three
+    material zones (clay core, sandy gravel and random fill), each having a modulus
+    of elasticity (MOE) in the range of 25000 to 50000kPa. However, it was found that
+    after the end of the construction, the MCM showed about 57% and 50% more settlement
+    as compared to HSM when MOE of sandy siltstone varied from 70000 to 125000kPa
+    respectively. The results regarding the dam settlement predicted with the HSM
+    are in agreement with the findings in previous studies.
+  keywords:
+    default:
+      keywords:
+        subject: modulus of elasticity
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-10-13'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3510168
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3510167
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Bhutto-Amjad-Hussain:
+    individualname: Bhutto, Amjad Hussain
+    role: creator
+    organization: Department of Civil Engineering, Quaide- Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan amjadbhutto62@gmail.com
+    url: ''
+  Zardari-Shahnawaz:
+    individualname: Zardari, Shahnawaz
+    role: creator
+    organization: Department of Civil Engineering, Quaide- Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan shahnawazzardari@gmail.com
+    url: ''
+  Bhurgri-Ghulam-Shabir:
+    individualname: Bhurgri, Ghulam Shabir
+    role: creator
+    organization: Department of Civil Engineering, Quaide- Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan ghulamshabirbhurgri14@gmail.com
+    url: ''
+  Zardari-Muhammad-Auchar:
+    individualname: Zardari, Muhammad Auchar
+    role: creator
+    organization: Department of Civil Engineering, Quaid-e-Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan muhammad.auchar@quest.edu.pk
+    url: ''
+  Bhanbhro-Riaz:
+    individualname: Bhanbhro, Riaz
+    role: creator
+    organization: Department of Civil Engineering, Quaid-e-Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan riaz@quest.edu.pk
+    url: ''
+  Memon-Bashir-Ahmed:
+    individualname: Memon, Bashir Ahmed
+    role: creator
+    organization: Department of Civil Engineering, Quaid-e-Awam University of Engineering
+      Science and Technology, Nawabshah, Pakistan bashir_m@hotmail.com
+    url: ''
+  Babar-Muhammad-Munir:
+    individualname: Babar, Muhammad Munir
+    role: creator
+    organization: U.S. Pakistan Centers for Advanced Studies in Water, Mehran University
+      of Engineering & Technology, Pakistan mmunirbabar.uspcasw@faculty.muet.edu.pk
+    url: ''
+content_info: {}

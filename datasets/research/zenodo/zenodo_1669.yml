@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5763169
+  dataseturi: https://doi.org/10.5281/zenodo.5763169
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Evaluation of the physico-chemical state of the soil contaminant isolate
+    indigenous bacterial species
+  abstract: "The aim of the study is to isolate indigenous bacterial species which\
+    \ have the ability to degrade crude oil. Samples were collected from an oil polluted\
+    \ site in Ejama-Ebubu Eleme Rivers state. The samples were taken from five spot\
+    \ (A-E), of depth 0-15 (A1\u2013 E1) and 15-30 (A2\u2013 E2) in sterile polyethylene\
+    \ bags, using appropriate equipment, then taken to the laboratory for analysis,\
+    \ Physicochemical parameters such as pH, nitrate, sulphate, phosphate, total petroleum\
+    \ hydrocarbon (TPH), poly aromatic hydrocarbon (PAH), salinity, temperature, conductivity\
+    \ and heavy metals (iron, zinc, nikel, lead, chromium) were determined, The THB\
+    \ count was determined using the spread plate method on nutrient agar. Soil, sediment\
+    \ and water physicochemical parameters determined indicated that the samples had\
+    \ been exposed to hydrocarbon contamination. The Gram negative bacteria belonging\
+    \ to the genus pseudomonas is the most frequent. Other genera isolated were <em>Nocardia,\
+    \ Micrococcus,Chromobacterium, Burkholdia, Corynebacterium.</em> The study revealed\
+    \ the presence of petroleum hydrocarbons in the Ejama_Ebubu site as well as known\
+    \ genera of hydrocarbon utilizing bacteria. The biases associated with culture-dependent\
+    \ microbial enumeration techniques may limit the full description of the bacterial\
+    \ diversity in Ejama-Ebubu site. From the study, it is concluded that microorganisms\
+    \ that can degrade hydrocarbons are found in oil contaminated soil and can easily\
+    \ be isolated from these contaminated sites, although it is very difficult to\
+    \ work with aromatic hydrocarbons due to their volatility and toxic effects."
+  keywords:
+    default:
+      keywords:
+        subject: Physiochemical; Microorganisms; Biodegradation; Bacterial
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-11-30'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5763169
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5763168
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nwankwo-CC:
+    individualname: Nwankwo CC
+    role: creator
+    organization: Department of Microbiology Technology, School of Science Laboratory
+      Technology, University of Port Harcourt.
+    url: ''
+  John-Godson-N:
+    individualname: John Godson N
+    role: creator
+  Daodu-Bamidele-T:
+    individualname: Daodu Bamidele T
+    role: creator
+    organization: Department of Science Laboratory Technology, Delta State University
+      of Science and Technology, University of Port Harcourt.
+    url: ''
+  N-John-Godson:
+    individualname: N, John Godson
+    role: ''
+    organization: Department of Biochemistry/Chemistry Technology, School of Science
+      Laboratory Technology, University of Port Harcourt.
+    url: ''
+content_info: {}

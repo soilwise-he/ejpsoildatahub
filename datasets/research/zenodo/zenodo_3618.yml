@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3373542
+  dataseturi: https://doi.org/10.5281/zenodo.3373542
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Fertility Indictors in Low-Input Agriculture in Communities of Southeastern
+    Nigeria
+  abstract: 'The study investigated the fertility of soils under <em>Caladium, Costus</em>,
+    <em>Setaria</em> and <em>Imperata</em> in 10 locations of southeastern Nigeria.
+    Soil samples were collected at random on soils formed over coastal plain sands
+    of southeastern Nigeria. Soil samples were bulked, quartered and air-dried before
+    laboratory analysis. Soil samples were sieved using a 2-mm sieve and analyzed
+    for some soil fertility indices. Variation in soil fertility indices were computed
+    using analysis of variance (ANOVA) while means were separated with least significant
+    difference (LSD) at 5% level of probability. Calcium- magnesium ratios varied
+    significantly (p=0.05) among plant species, and values ranged from 3.6 (<em>Caladium</em>).
+    <em>Setaria</em> (1.9), <em>Costus</em> (1.7) and <em>Imperata</em> (0.8). Nitrate-nitrogen
+    differed significantly (p=0.05) among plant species and distributed as follows:
+    0.13 g/kg (<em>Caladium</em>), 0.12g/kg (<em>Setaria</em>), 0.11g/kg (<em>Costus</em>)
+    and 0.08 g/kg (<em>Imperata</em>). Base saturation values decreased in the order
+    of <em>Caladium</em> (56%), <em>Setaria</em>(49%), <em>Costus</em> (41%) and <em>Imperata</em>
+    (21%). These soil parameters had significant (P&lt; 0.05) positive relationships
+    with total carbon. It can be concluded that soils under <em>Caladium</em> can
+    be used to infer greater soil fertility in farmland.'
+  keywords:
+    default:
+      keywords:
+        subject: Coastal plain sands
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-11-26'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3373542
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3373541
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Onweremadu-E.U:
+    individualname: Onweremadu, E.U
+    role: creator
+    organization: Department of Soil Science and Technology, Federal University of
+      Technology, PMB 1526 Owerri, Nigeria.
+    url: ''
+  Okereke-Ejiogu-E.N:
+    individualname: Okereke, Ejiogu E.N
+    role: creator
+    organization: Department Agricultural Extension, Federal University of Technology,
+      PMB 1526 Owerri, Nigeria.
+    url: ''
+content_info: {}

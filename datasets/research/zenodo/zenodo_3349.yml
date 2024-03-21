@@ -1,0 +1,75 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1075350
+  dataseturi: https://doi.org/10.5281/zenodo.1075350
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Modeling Of Heat And Mass Transfer In Soil Plant-Atmosphere. Influence Of
+    The Spatial Variability Of Soil Hydrodynamic
+  abstract: 'The modeling of water transfer in the unsaturated zone
+
+    uses techniques and methods of the soil physics to solve the
+
+    Richards-s equation. However, there is a disaccord between the size
+
+    of the measurements provided by the soil physics and the size of the
+
+    fields of hydrological modeling problem, to which is added the
+
+    strong spatial variability of soil hydraulic properties. The objective of
+
+    this work was to develop a methodology to estimate the
+
+    hydrodynamic parameters for modeling water transfers at different
+
+    hydrological scales in the soil-plant atmosphere systems.'
+  keywords:
+    default:
+      keywords:
+        subject: Water
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2012-04-24'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1075350
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1075349
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Aouattou-Nabila:
+    individualname: Aouattou Nabila
+    role: creator
+    organization: ''
+    url: ''
+  Saighi-Mohamed:
+    individualname: Saighi Mohamed
+    role: creator
+    organization: ''
+    url: ''
+  Fekih-Malika:
+    individualname: Fekih Malika
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

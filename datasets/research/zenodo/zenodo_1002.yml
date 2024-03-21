@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8014306
+  dataseturi: https://doi.org/10.5281/zenodo.8014306
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Studies in the Heavy Metal Content in Soil Hospital Waste Dumpsite
+  abstract: "<em>Soil samples were collected from the University of Benin Teaching\
+    \ Hospital (UBTH) dumpsite and from Edo Development and Property Agency (EDPA)\
+    \ dumpsite which served as the control site. Samples were analyzed for Zn, Pb,\
+    \ Cd, Cr, Fe andMn. Samples were collected every week for six months (January-\
+    \ June). The values mean concentrations of heavy metals: Zn, Pb, Cd, Cr, Fe and\
+    \ Mn determined using AAS are 8.223\xB10.621 mg/L, 1.435\xB10.302 mg/L, 0.547\xB1\
+    0.133 mg/L, 2.788\xB10.212 mg/L, 108.608\xB118.317 mg/L, 4.418\xB10.566 mg/L for\
+    \ the control site, 18.727\xB11.397 mg/L, 2.093\xB10.236 mg/L, 0.772 \xB10.134\
+    \ mg/L, 4.972\xB10.552 mg/L, 191.337\xB129.524 mg/L, 8.052\xB11.078 mg/L for the\
+    \ dumpsite and 46.008\xB16.463 mg/L, 4.062\xB10.861 mg/L, 1.985\xB10.409 mg/L,\
+    \ 12.747\xB11.661 mg/L, 1833.667\xB1364.014 mg/L, 19.797\xB12.980 mg/L for the\
+    \ incinerator site. Analysis of variance (ANOVA) was used for analysis of data,\
+    \ a probability of &lt;0.05 was considered as significant. P-values of Zn=0, Pb=0,\
+    \ Cd=0, Cr=0, Fe=0 and Mn = 0.40897. With the P-values &lt;0.05. The various site/location\
+    \ have significant effect on the mean concentrations of the various heavy metals\
+    \ except for Mn, the various site/location had no effect on the mean concentration\
+    \ of Mn. There is a clear case of pollution since the results from the site/locations\
+    \ were higher than control site. Heavy metal concentrations in soil were lower\
+    \ than WHO maximum allowed limits. The soil at the adopted medical incinerator\
+    \ (dumpsite) had higher concentrations of heavy metals than the soil around the\
+    \ dumpsite. </em>"
+  keywords:
+    default:
+      keywords:
+        subject: soil, heavy metal, medical waste dumpsite
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8014306
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8014305
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.G.-Okunzuwa-B.Yaou:
+    individualname: I.G. Okunzuwa, B.Yaou
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4088148
+  dataseturi: https://doi.org/10.5281/zenodo.4088148
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book section
+identification:
+  title: Experiments of variety tests and seed-and soil treatment in organically cultivated
+    soybean
+  abstract: Soya production in the world has multiplied since the seventies (FAOSTAT
+    2018).
+  keywords:
+    default:
+      keywords:
+        subject: variety tests, seed, soil, treatment, soybean, icoas, 2018, conference
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2018-11-09'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4088148
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4088147
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  FiBL-Esterhazy-Federal-Ministry-Republic-of-Austria:
+    individualname: FiBL, Esterhazy, Federal Ministry Republic of Austria
+    role: creator
+  Hunyadi-E.:
+    individualname: "Hunyadi, \xC9."
+    role: creator
+    organization: "Hungarian Research Institute of Organic Agriculture (\xD6MKi),\
+      \ Hungary"
+    url: ''
+  Diveky-Ertsey-A.:
+    individualname: "Div\xE9ky-Ertsey, A."
+    role: creator
+    organization: "Szent Istv\xE1n Egyetem Kert\xE9szettudom\xE1nyi Kar, \xD6kol\xF3\
+      giai \xE9s Fenntarthat\xF3 Gazd\xE1lkod\xE1si Rendszerek Tansz\xE9k, Hungary"
+    url: ''
+content_info: {}

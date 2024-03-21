@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1001807
+  dataseturi: https://doi.org/10.5281/zenodo.1001807
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: New Developments In Proximal Soil Sensing
+  abstract: This presentation provides an overview of contemporary developments in
+    the field of proximal soil sensing (PSS) as it relates to precision agriculture.
+    The ultimate goal of PSS is to enable low-cost acquisition of accurate information
+    on spatial and temporal changes in soil properties across a landscape. Proximal
+    sensing systems rely on gathering signals from transducers placed in contact,
+    or less than 2 m away, from the target. Knowing and understanding the heterogeneity
+    of soil properties helps farmers and other land managers optimize their decision-making
+    process to develop profitable, sustainable, and environmentally friendly operations.
+    The emphasis will be placed on recent efforts in sensor fusion, when sensors that
+    measure different physical phenomena are integrated in a single platform and/or
+    data acquisition process. The recent development of the on-the-spot soil analyser
+    will be used as an example. Under this framework, several sensing methods will
+    be discussed in more detail. These include digital microscopy, soil gas analysis,
+    visible, near-infrared, mid-infrared, gamma-ray as well as laser-induced breakdown
+    spectroscopy, capacitance and apparent electrical conductivity, and ion-selective
+    membranes. Despite their various limitations, these sensing techniques, together
+    with field topography mapping, have been successfully deployed to rapidly determine
+    an array of important physical, chemical and biological soil properties. The recently
+    developed neighbourhood search analysis software has been used to numerically
+    integrate multiple geospatial data layers and produce field areas representing
+    different sensor measurement combinations as well as locating the most informative
+    calibration sites. The presentation will review several alternative approaches
+    to process PSS data to generate thematic soil maps suitable for site-specific
+    management of seed, lime, fertilizer and other soil amendments.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-10-16'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1001807
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1001806
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adamchuck-V-I:
+    individualname: Adamchuck, V I
+    role: creator
+    organization: Bioresource Engineering Department, McGill University, Ste-Anne-de-Bellevue,
+      Quebec, Canada
+    url: ''
+  Tremblay-N:
+    individualname: Tremblay, N
+    role: creator
+    organization: Agriculture and Agri-Food Canada, Saint-Jean-sur-Richelieu, Quebec,
+      Canada
+    url: ''
+content_info: {}

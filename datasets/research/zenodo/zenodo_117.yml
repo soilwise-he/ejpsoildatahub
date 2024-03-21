@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Senstius_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010029x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Reflections on Soil\u2010Survey Work"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Reflections on Soil\u2010Survey Work"
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010029x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Senstius-M.-W.:
+    individualname: Senstius, M. W.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

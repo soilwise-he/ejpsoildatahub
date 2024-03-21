@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7480351
+  dataseturi: https://doi.org/10.5281/zenodo.7480351
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Relation between Soil Salinity and Productivity of the Agricultural Plants
+  abstract: In the conditions of Shirvan steppe the influence of soil salinity on
+    the cotton productivity was studied. It was determined that the cotton growth
+    shortens, the size and weight of the cotton-bolls decrease, and the productivity
+    reduces when the salt quantity in the soils increases. Accounting the influence
+    of the salt quantity and salt composition on the productivity of the agricultural
+    plants a new classification was offered for the soils of sulphatic type of salinity.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-12-12'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7480351
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7480350
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  K.Z.-Azizov-L.Z.-Jalilova:
+    individualname: K.Z. Azizov, L.Z. Jalilova
+    role: creator
+    organization: ''
+    url: ''
+  L.Z.-Jalilova:
+    individualname: L.Z. Jalilova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

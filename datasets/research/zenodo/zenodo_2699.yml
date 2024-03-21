@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8383223
+  dataseturi: https://doi.org/10.5281/zenodo.8383223
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Quantifying CO2 emissions and carbon sequestration from digestate-amended
+    soil using natural 13C abundance as a tracer. Supplementary Material.
+  abstract: This document provides additional data, graphs, analytical and statistical
+    results related to the original research article entitled "Quantifying CO<sub>2</sub>
+    emissions and carbon sequestration from digestate-amended soil using natural <sup>13</sup>C
+    abundance as a tracer". Submitted to Agronomy-Basel MDPI.
+  keywords:
+    default:
+      keywords:
+        subject: stable carbon isotope; priming effect; soil organic carbon; nitrates
+          directive; digestate
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-27'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8383223
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8383222
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Reuland-Gregory:
+    individualname: Reuland, Gregory
+    role: creator
+    organization: Ghent University/EBA
+    url: https://orcid.org/0000-0002-7481-7799
+  Sleutel-Steven:
+    individualname: Sleutel, Steven
+    role: creator
+    organization: Ghent University
+    url: ''
+  Li-Haichao:
+    individualname: Li, Haichao
+    role: creator
+    organization: Swedish University of Agricultural Sciences
+    url: ''
+  Dekker-Harmen:
+    individualname: Dekker, Harmen
+    role: creator
+    organization: EBA
+    url: ''
+  Sigurnjak-Ivona:
+    individualname: Sigurnjak, Ivona
+    role: creator
+    organization: Ghent University
+    url: ''
+  Meers-Erik:
+    individualname: Meers, Erik
+    role: creator
+    organization: Ghent University
+    url: ''
+content_info: {}

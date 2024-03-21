@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6473209
+  dataseturi: https://doi.org/10.5281/zenodo.6473209
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Growth and Yield Performance of Radish as Affected by Different Amount of
+    EM-bokashi in Lahar Soil
+  abstract: 'Abstract: The study aimed to evaluate the effects of the different amount
+    of EM-bokashi in the performance of radish (Raphanus sativus) planted in potted
+    lahar soil in an open field. It specifically evaluated the effects of EM-bokashi
+    on the growth and yield parameters of radish. It consisted of four treatments
+    and three replications in a Randomized Complete Block Design (RCBD). The treatments
+    were the following: Treatment 1 (no application), Treatment 2 (100g), Treatment
+    3 (200 g), and Treatment 4 (300g) per pot measuring 10x10x17 inches. Based on
+    the result of the study, Treatment 4 showed a significant difference among the
+    treatments in terms of the average tuber diameter. Also, it showed a highly significant
+    difference in the average number of days to germination, final length of the longest
+    leaf, average tuber length, and average tuber weight. It is further supported
+    by LSD as it showed significant differences in control and among other treatments.<br>
+    Therefore, the application of 300g of EM-bokashi is recommended for radish production.<br>
+    Meanwhile, the researchable areas to be addressed, are the evaluation of higher
+    rates of EM-bokashi due to increasing trends in all parameters, conduct of field
+    testing, assessment of residual effect, combination with other organic fertilizers,
+    and continuous utilization in other crops, particularly long-duration crops, to
+    evaluate its effect further.'
+  keywords:
+    default:
+      keywords:
+        subject: EM-bokashi, lahar soil, organic, pot, radish
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-04-18'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6473209
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6473208
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  De-Guzman-Ronel:
+    individualname: De Guzman, Ronel
+    role: creator
+    organization: President Ramon Magsaysay State University
+    url: https://orcid.org/0000-0002-2770-6519
+  Dagupan-Jamil:
+    individualname: Dagupan, Jamil
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

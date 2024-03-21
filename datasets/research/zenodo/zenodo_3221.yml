@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6919834
+  dataseturi: https://doi.org/10.5281/zenodo.6919834
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Comparison of brown rendzina and colluvial sinkhole soil in the area of the
+    National park "Una" with special emphasis on the distribution of cadmium, nickel
+    and arsenic
+  abstract: "The paper presents the results of a comparison of brown rendzina and\
+    \ colluvial sinkhole at approximately the same altitudes and the same land use.\
+    \ The sites were located in the Kalati area within the National Park \u201EUna\u201C\
+    . More precisely, the places referred to the top of the sinkhole (brown rendzina\
+    \ - top) and the bottom of the sinkhole (colluvial soil - bottom). The main objective\
+    \ of the research, in addition to the physical and chemical parameters of soil\
+    \ quality, was to determine the distribution of the total content of cadmium (Cd),\
+    \ nickel (Ni) and arsenic (As). The total content of these elements werw observed\
+    \ in composite samples at two depths of 0 \u2013 10 and 0 \u2013 20 cm and horizons\
+    \ profile. Their total content was measured by atomic adsorption spectrometry\
+    \ \u2013 AAS. The results were statistically analyzed using Kruskal - Walisovog\
+    \ test at the significance level of p \u2264 0.05 using correlation coefficient\
+    \ \u03C7<sup>2</sup>. The results showed a single legality of the distribution\
+    \ of Cd, Ni and As in samples of soil profile, while the average soil samples\
+    \ showed unique legality of the distribution of observed elements."
+  keywords:
+    default:
+      keywords:
+        subject: arsenic
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-06-30'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6919834
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6919833
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Fatima-Muhamedagic:
+    individualname: "Fatima Muhamedagi\u0107"
+    role: creator
+  Ekrem-Pehlic:
+    individualname: "Ekrem Pehli\u0107"
+    role: creator
+  Muhamedagic-Fatima:
+    individualname: "Muhamedagi\u0107, Fatima"
+    role: ''
+    organization: University of Bihac, Biotehnical faculty, Luke Marjanovica bb, 77000
+      Bihac, Bosnia and Herzegovina
+    url: ''
+  Pehlic-Ekrem:
+    individualname: "Pehli\u0107, Ekrem"
+    role: ''
+    organization: University of Bihac, Faculty of Health Studies, Nositelja hrvatskog
+      trolista 4, 77000 Bihac, Bosnia and Herzegovina
+    url: ''
+content_info: {}

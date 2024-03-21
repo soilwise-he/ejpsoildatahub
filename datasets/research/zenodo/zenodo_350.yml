@@ -1,0 +1,72 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7979960
+  dataseturi: https://doi.org/10.5281/zenodo.7979960
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Integrated Measures for Soil and Water Management
+  abstract: The main obstacles to food security are the immense pressure from the
+    constantly growing population and the diminishing availability of land and water.
+    Intensive agricultural practises hasten the deterioration of soil health. Similarly
+    increased groundwater exploitation also caused a decline in groundwater level.
+    Accelerated soil erosion is a result of anthropogenic activities like slash-and-burn
+    agriculture, overgrazing, deforestation, and intensive and inefficient agricultural
+    practises. This increased rate of soil erosion decreases soil and crop productivity
+    over time by removing organic matter and plant nutrients from the fertile topsoil.
+    A higher canopy cover and mulching of crop residues prevent soil particles from
+    detaching from the soil surface and protect it from intense rainfall, which lowers
+    the rate of surface runoff and lessens the effects of rainfall erosivity and soil
+    erodibility. Moreover, it also conserves soil moisture and retains sediment and
+    organic materials. The threat that agriculture poses to groundwater is also a
+    serious problem, especially because groundwater is a hidden resource and its degradation
+    and restoration frequently occur gradually. However, it is now necessary to offer
+    workable and long-term solutions to keep the groundwater table high. There are
+    many different approaches being used to find a more long-lasting balance. A holistic
+    approach to managing soil and water resources is necessary for both the future
+    viability of agriculture and the preservation of the natural ecosystem. As a result,
+    the adoption of advanced irrigation technologies, no-till farming, conservation
+    tillage, direct seeded rice, precision land levelling, agroforestry, and crop
+    diversification are all essential for soil and water conservation.
+  keywords:
+    default:
+      keywords:
+        subject: Crops residue.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-03-15'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7979960
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7979959
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rajwinder-Kaur:
+    individualname: Rajwinder Kaur
+    role: creator
+  Kaur-Rajwinder:
+    individualname: Kaur, Rajwinder
+    role: ''
+    organization: Department of Soil and Water Conservation, Punjab, raj.gill25@yahoo.com
+    url: ''
+content_info: {}

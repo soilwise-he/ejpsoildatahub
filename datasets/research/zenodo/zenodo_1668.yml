@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10399000
+  dataseturi: https://doi.org/10.5281/zenodo.10399000
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Determinants of soil organic matter enhancing technologies disadoption in
+    the face of climate vulnerability.
+  abstract: "Soil degradation, caused by both natural factors and improper land management\
+    \ has been one of the major challenges for agricultural production and food security.\
+    \ Implementation of environment-friendly sustainable soil management technologies,\
+    \ such as soil organic matter (SOM) enhancing technologies (SOMET) is crucial\
+    \ for addressing these issues. However, when farmers discontinue these practices\
+    \ after initial adoption, the full potential benefit cannot be achieved. This\
+    \ study examines the dis-adoption and non-adoption of SOMET (i.e., organic fertilizer,\
+    \ manure and compost) and aims to identify the drivers and constraints of dis-adoption\
+    \ among rice farmers. To achieve these objectives, nationally representative datasets\
+    \ from three rounds of the Bangladesh Integrated Household Survey (BIHS-2013,\
+    \ 2016 and 2020) were utilized. The probit model was employed to analyze information\
+    \ from 1,368 rice-farm households in Bangladesh. About 41% of the sample farmers\
+    \ were dis-adopters, meaning they had abandoned SOMET after initially practicing\
+    \ it. Our findings suggest that increases in flood depth, cyclone and salinity\
+    \ vulnerability decrease the likelihood of SOMET dis-adoption (p\u22640.01). Conversely,\
+    \ when considering non-adopters as the comparison group, it implies that these\
+    \ climate hazards vulnerabilities increase the likelihood of SOMET non-adoption.\
+    \ In vulnerable areas to climate hazards, farmers are less likely to dis-adopt\
+    \ SOMET because they are more inclined to never adopt the practices in the first\
+    \ place. The likelihood of being SOMET dis-adopter is higher in storm-vulnerable\
+    \ regions (p\u22640.01), indicating that farmers are more likely to abandon SOMET\
+    \ when storm events occur more frequently. Additionally, as the soil organic matter\
+    \ level improves in farmers' fields, the likelihood of dis-adopting SOMET increases\
+    \ (p\u22640.05). Overall, SOMET dis-adoption is driven by the increased vulnerability\
+    \ to climate hazards, as well as increased resilience resulting from improved\
+    \ soil organic matter level in farmer's field. This highlights the complexity\
+    \ of SOMET adoption and the trade-offs that farmers consider when making decisions\
+    \ regarding climate adaptation strategies. Further research is required to understand\
+    \ the interaction between SOMET adoption and climate risk management strategies.\
+    \ This will inform farmers decision making and policy development to support SOMET\
+    \ adoption, ensure sustainable impact of their adoption and climate change mitigation."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10399000
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398999
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Chowdhury-Sharna:
+    individualname: Chowdhury Sharna
+    role: creator
+    organization: University of Southern Queensland, Toowoomba, Australia
+    url: ''
+  Shaima:
+    individualname: Shaima
+    role: creator
+    organization: University of Southern Queensland, Toowoomba, Australia
+    url: ''
+  Maraseni-Tek:
+    individualname: Maraseni, Tek
+    role: creator
+    organization: University of Southern Queensland, Toowoomba, Australia
+    url: ''
+  Radanielson-Ando:
+    individualname: Radanielson, Ando
+    role: creator
+    organization: International Rice Research Institute
+    url: ''
+content_info: {}

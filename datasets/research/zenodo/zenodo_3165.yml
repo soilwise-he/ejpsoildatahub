@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2629623
+  dataseturi: https://doi.org/10.5281/zenodo.2629623
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect of liming and organic and inorganic fertilization on soil carbon sequestered
+    in macro-and microaggregates in a 17-year old Pinus radiata silvopastoral system
+  abstract: 'Agroforestry systems have been recognized as a potential greenhouse gas
+    mitigation strategy under the Kyoto Protocol because of their ability to absorb
+    carbon dioxide from the atmosphere and store carbon mainly in the soil. Soil particle
+    size and land management practices are known to have a considerable influence
+    on carbon storage in soils. This study evaluated changes in soil chemical and
+    physical properties, and quantified and compared the amount of C stored in the
+    bulk soil and in three different soil fractions (250e2000, 53e250 and &lt;53 mm)
+    at each of four soil depths (0e25, 25e50, 50e75 and 75 e100 cm) in a silvopastoral
+    system located on an acidic forest soil under Pinus radiata D. Don. Areas of this
+    system were subjected ten years ago to one of nine fertilization treatments: three
+    different doses of
+
+    sewage sludge or no fertilization, all with or without the addition of lime, and
+    mineral fertilizer with no liming. Seventeen years after reforestation and seven
+    years after canopy closure, strong gradients with soil depth were found regarding
+    soil bulk density, pH and carbon storage. Intense soil management (high doses
+    of sewage sludge and liming) generally reduced soil carbon storage, mainly in
+    coarse aggregates, but this could be compensated by the increase in tree and pasture
+    development observed in soils subject to intermediate sewage sludge doses.'
+  keywords:
+    default:
+      keywords:
+        subject: Sand
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-10-13'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2629623
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2629622
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  M.R.-Mosquera-Losada*:
+    individualname: M.R. Mosquera-Losada*
+    role: creator
+    organization: ''
+    url: ''
+  A.-Rigueiro-Rodriguez:
+    individualname: "A. Rigueiro-Rodr\xEDguez"
+    role: creator
+    organization: ''
+    url: ''
+  N.-Ferreiro-Dominguez:
+    individualname: "N. Ferreiro-Dom\xEDnguez"
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

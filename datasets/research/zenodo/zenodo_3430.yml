@@ -1,0 +1,64 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1132493
+  dataseturi: https://doi.org/10.5281/zenodo.1132493
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Soil Stress State Under Tractive Tire And Compaction Model
+  abstract: "Soil compaction induced by a tractor towing trailer becomes a major problem\
+    \ associated to sugarcane productivity. Soil beneath the tractor\u2019s tire is\
+    \ not only under compressing stress but also shearing stress. Therefore, in order\
+    \ to help to understand such effects on soil, this research aimed to determine\
+    \ stress state in soil and predict compaction of soil under a tractive tire. The\
+    \ octahedral stress ratios under the tires were higher than one and much higher\
+    \ under higher draft forces. Moreover, the ratio was increasing with increase\
+    \ of number of tire\u2019s passage. Soil compaction model was developed using\
+    \ data acquired from triaxial tests. The model was then used to predict soil bulk\
+    \ density under tractive tire. The maximum error was about 4% at 15 cm depth under\
+    \ lower draft force and tended to increase with depth and draft force. At depth\
+    \ of 30 cm and under higher draft force, the maximum error was about 16%."
+  keywords:
+    default:
+      keywords:
+        subject: tractive tire.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2017-09-05'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1132493
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1132492
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Prathuang-Usaborisut:
+    individualname: Prathuang Usaborisut
+    role: creator
+    organization: ''
+    url: ''
+  Dithaporn-Thungsotanon:
+    individualname: Dithaporn Thungsotanon
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

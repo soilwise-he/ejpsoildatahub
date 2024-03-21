@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8014273
+  dataseturi: https://doi.org/10.5281/zenodo.8014273
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: The Impact of Pulverized Cow Bone on the Atterberg Limits of Lateritic Soil
+    from Uwheru Town, Delta State, Nigeria
+  abstract: <em>This study investigated the effect of pulverized cow bone (PCB) on
+    the Atterberg limits of lateritic soil samples in Southern Nigeria. The liquid
+    limit (LL), plastic limit (PL), and plasticity index (PI) of natural soil and
+    soil mixed with different proportions of PCB were determined in the laboratory.
+    The results showed that the liquid limit of the soil decreased with increasing
+    PCB content, while the plastic limit increased, except for the sample mixed with
+    6% PCB, which had a lower plastic limit than the sample mixed with 4% PCB. The
+    plasticity index of the soil also reduced with increasing PCB content. All the
+    soil samples, both natural and stabilized, met the recommended maximum liquid
+    limit for sub-base and base materials. The findings suggest that the addition
+    of PCB may improve the soil's shear strength and reduce its susceptibility to
+    plastic deformation. These results can be useful in the design and construction
+    of roads and other civil engineering structures using lateritic soils in Southern
+    Nigeria.</em>
+  keywords:
+    default:
+      keywords:
+        subject: Pulverized cow bone, lateritic soil Atterberg limits
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-06-07'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8014273
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8014272
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Etuke-J.O.-Atikpo-E.:
+    individualname: Etuke, J.O., Atikpo, E.,
+    role: creator
+  Edogun-B.O.:
+    individualname: Edogun, B.O.
+    role: creator
+  Etuke-J.O.:
+    individualname: Etuke, J.O.
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,70 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4269772
+  dataseturi: https://doi.org/10.5281/zenodo.4269772
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Quantifying vehicular heavy metal deposits on roadside soil and vegetation
+    along Akure-Ilesa express road, South-Western Nigeria
+  abstract: "Vehicular emission is one of the major sources of heavy metal deposition\
+    \ on roadside vegetation and soil. This is influence by the degree of traffic\
+    \ congestions on the road. The heavy metals can affect plants negatively with\
+    \ health hazards to humans and animals in the food chain. This study investigated\
+    \ the quantity of vehicular heavy metal deposits on vegetation and soil along\
+    \ Akure-Ilesa road. Plant and soil samples were collected at 10 km intervals along\
+    \ Akure-Ilesa road, digested using Aqua regia methods and metals; Cd, Pb, Cr,\
+    \ Zn and Cu contents determined with Atomic Absorption Spectrophotometer (AAS).\
+    \ Data were analysed with ANOVA and t-test and differences tested at p\u22640.05.\
+    \ The study revealed that; 0.021 \u2013 0.320, 0.110 \u2013 0.301, 0.092 \u2013\
+    \ 0.170, 0.055 \u2013 0.113 and 0.061 \u2013 1.280 mg/kg; and 0.068 \u2013 0.421,\
+    \ 0.110 \u2013 0.410, 0.100 \u2013 0.181, 0.008 \u2013 0.141, and 0.267 \u2013\
+    \ 0.411 mg/kg of Pb, Cr, Cd, Cu, and Zn were found in plants and soils respectively.\
+    \ It was concluded that vehicular emissions contributed to the heavy metal load\
+    \ of the roadside vegetation and soil."
+  keywords:
+    default:
+      keywords:
+        subject: Vehicular emission; Roadside; Heavy metal; Vegetation; Soil
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-07-30'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4269772
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4269771
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ekundayo-Taiwo-Olajumoke:
+    individualname: Ekundayo Taiwo Olajumoke
+    role: creator
+    organization: Department of Plant Science and Biotechnology, Faculty of Science,
+      Adekunle Ajasin University Akungba Akoko P.M.B. 001, Akungba Ondo State, Nigeria.
+    url: ''
+  Fatoba-Paul-Ojo:
+    individualname: Fatoba Paul Ojo
+    role: creator
+    organization: Department of Plant Biology, Faculty of Life Sciences, University
+      of Ilorin P.M.B. 1515, Ilorin, Kwara State, Nigeria.
+    url: ''
+content_info: {}

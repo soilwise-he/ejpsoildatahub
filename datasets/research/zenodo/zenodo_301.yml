@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10003080
+  dataseturi: https://doi.org/10.5281/zenodo.10003080
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Other
+identification:
+  title: The Global Soil Mycobiome consortium dataset website
+  abstract: "The Global Soil Mycobiome consortium dataset website\nURL: https://gsmc-fungi.github.io/\n\
+    \_\nThe archive corresponds to the git commit ID `7fa9ce73cb920847ea41d86887ef1ee0422e4dcc`\
+    \ (October 12, 2023) at https://github.com/GSMc-Fungi/GSMc-Fungi.github.io\n\_"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-12'
+    publication: '2023'
+  rights: mit
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10003080
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10003079
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mikryukov-Vladimir:
+    individualname: Mikryukov, Vladimir
+    role: creator
+    organization: University of Tartu
+    url: 0000-0003-2786-2690
+  Lees-Jane:
+    individualname: Lees, Jane
+    role: creator
+    organization: University of Tartu
+    url: ''
+content_info: {}

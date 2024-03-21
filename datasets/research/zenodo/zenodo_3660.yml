@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3299673
+  dataseturi: https://doi.org/10.5281/zenodo.3299673
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Influence of Plastic Waste Reinforcement on Compaction and Consolidation
+    Behavior of Silty Soil
+  abstract: In recent decades, the amount of solid waste production has been rising.
+    In the meantime, plastic waste is one of the major parts of urban solid waste,
+    so, recycling plastic waste from water bottles has become a serious challenge
+    in the whole world. The experimental program includes the study of the effect
+    of waste plastic fibers on maximum dry density (MDD), optimum moisture content
+    (OMC) with different sizes and contents. Also, one dimensional consolidation tests
+    were carried out to evaluate the benefit of utilizing randomly distributed waste
+    plastics fiber to improve the engineering behavior of a tested soils. Silty soil
+    specimens were prepared and tested at five different percentages of plastic waste
+    content (i.e. 0.25%, 0.50%, 0.75%, 1% and 1.25% by weight of the parent soil).
+    The size of plastic chips used, are 4 mm, 8 mm and 12 mm long and 4 mm in width.
+    The results show that with the addition of waste plastic fibers, the MDD and OMC
+    and also the compressibility of soil decrease significantly.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-01'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3299673
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3299672
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Maryam-Meftahi:
+    individualname: Maryam Meftahi
+    role: creator
+  Yashar-Hamidzadeh:
+    individualname: Yashar Hamidzadeh
+    role: creator
+  Meftahi-Maryam:
+    individualname: Meftahi, Maryam
+    role: ''
+    organization: ''
+    url: ''
+  Hamidzadeh-Yashar:
+    individualname: Hamidzadeh, Yashar
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

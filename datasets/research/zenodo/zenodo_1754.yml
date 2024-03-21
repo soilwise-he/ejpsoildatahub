@@ -1,0 +1,66 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROCHA_2015
+  dataseturi: https://doi.org/10.11646/zootaxa.3981.1.2
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'New species and records of cunaxid mites (Acari: Cunaxidae) from soil in
+    Southern Brazil'
+  abstract: 'Rocha, Matheus Dos Santos, Rodrigues, Everton Nei Lopes, Ferla, Noeli
+    Juarez (2015): New species and records of cunaxid mites (Acari: Cunaxidae) from
+    soil in Southern Brazil. Zootaxa 3981 (1), DOI: 10.11646/zootaxa.3981.1.2'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+      - Animalia
+      - Arthropoda
+      - Arachnida
+      - Prostigmata
+      - Cunaxidae
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'New species and records of cunaxid mites (Acari: Cunaxidae) from soil in
+      Southern Brazil'
+    url: http://dx.doi.org/10.11646/zootaxa.3981.1.2
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rocha-Matheus-Dos-Santos:
+    individualname: Rocha, Matheus Dos Santos
+    role: creator
+  Rodrigues-Everton-Nei-Lopes:
+    individualname: Rodrigues, Everton Nei Lopes
+    role: creator
+  Ferla-Noeli-Juarez:
+    individualname: Ferla, Noeli Juarez
+    role: creator
+  ROCHA-MATHEUS-DOS-SANTOS:
+    individualname: ROCHA, MATHEUS DOS SANTOS
+    role: creator
+  RODRIGUES-EVERTON-NEI-LOPES:
+    individualname: RODRIGUES, EVERTON NEI LOPES
+    role: creator
+  FERLA-NOELI-JUAREZ:
+    individualname: FERLA, NOELI JUAREZ
+    role: creator
+  Magnolia-Press:
+    individualname: Magnolia Press
+    role: creator
+content_info: {}

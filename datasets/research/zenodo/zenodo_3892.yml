@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2864382
+  dataseturi: https://doi.org/10.5281/zenodo.2864382
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Cellolytic Activity of Bacteria of the Bacillus Genus Isolated from the Soil
+    of Zailiskiy Alatau Slopes
+  abstract: "This study was conducted for the investigation of \nnumber of cellulolytic\
+    \ bacteria and their ability in decomposition. \nSeven samples surface soil were\
+    \ collected on cellulose Zailiskii \nAlatau slopes. Cellulolitic activity of new\
+    \ strains of Bacillus, isolated \nfrom soil is determined. Isolated cellulose\
+    \ degrading bacteria were \nscreened for determination of the highest cellulose\
+    \ activity by \nquantitative assay using Congo red, gravimetric assay and \ncolorimetric\
+    \ DNS method trough of the determination of the \nparameters of sugar reduction.\
+    \ Strains are assigned to: B.subtilis, \nB.licheniformis, B. cereus and, \u0412\
+    . megaterium. Bacillus strains \nconsisting of several different types of cellulases\
+    \ have broad substrate \nspecificity of cellulase complexes formed by them. Cellulolitic\
+    \ \nbacteria were recorded to have highest cellulase activity and selected \n\
+    for optimization of cellulase enzyme production."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-06-26'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2864382
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2864381
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  I.-Savitskaya:
+    individualname: I. Savitskaya
+    role: creator
+    organization: ''
+    url: ''
+  A.-Kistaubayeva:
+    individualname: A. Kistaubayeva
+    role: creator
+    organization: ''
+    url: ''
+  A.-Zhubanova:
+    individualname: A. Zhubanova
+    role: creator
+    organization: ''
+    url: ''
+  I.-Blavachinskaiya:
+    individualname: I. Blavachinskaiya
+    role: creator
+    organization: ''
+    url: ''
+  D.-Ibrayeva:
+    individualname: D. Ibrayeva
+    role: creator
+    organization: ''
+    url: ''
+  M.-Abdulzhanova:
+    individualname: M. Abdulzhanova
+    role: creator
+    organization: ''
+    url: ''
+  A.-Otarbay:
+    individualname: A. Otarbay
+    role: creator
+    organization: ''
+    url: ''
+  A.Isabekova:
+    individualname: A.Isabekova
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

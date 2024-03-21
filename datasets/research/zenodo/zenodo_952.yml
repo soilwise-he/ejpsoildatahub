@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROBBINS_1919
+  dataseturi: https://doi.org/10.1097/00010694-191906000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE OXIDATION OF VANILLIN TO VANILLIC ACID BY CERTAIN SOIL BACTERIA
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE OXIDATION OF VANILLIN TO VANILLIC ACID BY CERTAIN SOIL BACTERIA
+    url: http://dx.doi.org/10.1097/00010694-191906000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Robbins-William-J.:
+    individualname: Robbins, William J.
+    role: creator
+  Lathrop-E.-C.:
+    individualname: Lathrop, E. C.
+    role: creator
+  ROBBINS-WILLIAM-J.:
+    individualname: ROBBINS, WILLIAM J.
+    role: creator
+  LATHROP-E.-C.:
+    individualname: LATHROP, E. C.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

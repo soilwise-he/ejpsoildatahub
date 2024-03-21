@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: ROSSI_1921
+  dataseturi: https://doi.org/10.1097/00010694-192111000-00002
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: PRELIMINARY NOTE ON THE MICROBIOLOGY OF THE SOIL AND THE POSSIBLE EXISTENCE
+    THEREIN OF INVISIBLE GERMS
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: PRELIMINARY NOTE ON THE MICROBIOLOGY OF THE SOIL AND THE POSSIBLE EXISTENCE
+      THEREIN OF INVISIBLE GERMS
+    url: http://dx.doi.org/10.1097/00010694-192111000-00002
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rossi-Giacomo:
+    individualname: Rossi, Giacomo
+    role: creator
+  ROSSI-GIACOMO:
+    individualname: ROSSI, GIACOMO
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

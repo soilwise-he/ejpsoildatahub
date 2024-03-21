@@ -1,0 +1,62 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7083279
+  dataseturi: https://doi.org/10.5281/zenodo.7083279
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'Soil Solarization: As an effective method for nematode management'
+  abstract: The usage of chemical pesticides for the control of diseases and pests
+    including plant parasitic nematodes (PPNs) is increasing from last many decades
+    at an alarming rate. Its drawbacks include not only the huge cost and labour involved
+    but also its adverse effect on the crop, soil, water and human health. Chemical
+    methods are curative controls of pest but our approach must be preventive. The
+    aim should be to prevent the pests and diseases that too with a technique that
+    is suitable for a wide area, is cost-effective and ecologically sound. Soil solarization
+    is one of those cultural practices that aims towards safe and long-lasting manner,
+    and thus the production of crops.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-09-15'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7083279
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7083269
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Rohit-Kumar-Shweta-Vinod-Kumar:
+    individualname: Rohit Kumar, Shweta, Vinod Kumar
+    role: creator
+  SS-Mann:
+    individualname: SS Mann
+    role: creator
+  Rohit-Kumar-Shweta:
+    individualname: Rohit Kumar, Shweta
+    role: ''
+    organization: Department of Nematology, CCS Haryana Agricultural University, Hisar
+      (125004)
+    url: ''
+content_info: {}

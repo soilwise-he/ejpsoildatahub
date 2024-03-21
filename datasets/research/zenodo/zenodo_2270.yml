@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: PETERSON_1921
+  dataseturi: https://doi.org/10.1097/00010694-192104000-00006
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: SOME SOIL FUMIGATION EXPERIMENTS WITH PARADICHLOROBENZENE FOR THE CONTROL
+    OF THE PEACH-TREE BORER, SANNINOIDEA EXITIOSA SAY
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: SOME SOIL FUMIGATION EXPERIMENTS WITH PARADICHLOROBENZENE FOR THE CONTROL
+      OF THE PEACH-TREE BORER, SANNINOIDEA EXITIOSA SAY
+    url: http://dx.doi.org/10.1097/00010694-192104000-00006
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Peterson-Alvah:
+    individualname: Peterson, Alvah
+    role: creator
+  PETERSON-ALVAH:
+    individualname: PETERSON, ALVAH
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

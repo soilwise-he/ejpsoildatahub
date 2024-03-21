@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7696704
+  dataseturi: https://doi.org/10.5281/zenodo.7696704
+  datestamp: ''
+  hierarchylevel: bookchapter
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Responses of soil bacterial communities to invasive Australian Acacia species
+    over large spatial scales
+  abstract: The impacts of invasive plants on soil bacterial communities are less
+    well understood than are their impacts on the aboveground components of the communities
+    they invade. This is surprising given the important roles that belowground communities
+    play in ecosystem functioning. An example is South Africa's Cape fynbos, a global
+    biodiversity hotspot which is highly fragmented and threatened. We use next-generation
+    sequencing data to investigate how invasive Australian <em>Acacia</em> species
+    (wattles) impact broad-scale composition, and turnover of soil bacterial communities.
+    Our comparisons of bacterial communities across different fynbos habitats, in
+    both wattle-invaded and uninvaded (pristine) soils, and sampled across multiple
+    seasons, found invasion to significantly change the composition and turnover of
+    these communities. Differences in soil bacterial communities between invaded and
+    pristine soils were primarily driven by differences in soil pH and NH<sub>4</sub><sup>+</sup>
+    as well as seasonality. Finally, we found that the presence of invasive wattles
+    reduces the spatial structure of fynbos soil bacterial community composition by
+    weakening the pattern of distance decay of compositional similarity in pristine
+    soil communities. Consequently, restoration efforts of wattle-invaded and degraded
+    fynbos habitats should account for the important functional links between below-
+    and aboveground terrestrial ecosystems, especially altered bacterial communities.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-03-03'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7696704
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7696703
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keet-J-H:
+    individualname: Keet, J-H
+    role: creator
+    organization: Centre for Invasion Biology, Department of Botany and Zoology, Stellenbosch
+      University, Matieland 7602, South Africa
+    url: ''
+  Ellis-AG:
+    individualname: Ellis, AG
+    role: creator
+    organization: Centre for Invasion Biology, Department of Botany and Zoology, Stellenbosch
+      University, Matieland 7602, South Africa
+    url: ''
+  Hui-C:
+    individualname: Hui, C
+    role: creator
+    organization: Mathematical and Physical Biosciences, African Institute for Mathematical
+      Sciences, Cape Town 7945, South Africa
+    url: ''
+  Le-Roux-JJ:
+    individualname: Le Roux, JJ
+    role: creator
+    organization: School of Natural Sciences, Macquarie University, Sydney, NSW, 2109,
+      Australia
+    url: ''
+content_info: {}

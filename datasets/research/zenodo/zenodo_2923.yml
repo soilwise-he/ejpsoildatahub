@@ -1,0 +1,61 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5003918
+  dataseturi: https://doi.org/10.5281/zenodo.5003918
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Distribution pattern of weed seedbank in strip and bed planted sandy clay
+    loam soil after five years of cropping in Bangladesh
+  abstract: Reduced tillage increase perennial weeds
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-03-21'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5003918
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5003917
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mohammad-Mobarak-Hossain:
+    individualname: Mohammad Mobarak Hossain
+    role: creator
+  Mahfuza-Begum:
+    individualname: Mahfuza Begum
+    role: creator
+    organization: Bangladesh Agricultural University
+    url: ''
+  Moshiur-Rahman:
+    individualname: Moshiur Rahman
+    role: creator
+    organization: Bangladesh Agricultural University
+    url: ''
+  Hossain-Mohammad-Mobarak:
+    individualname: Hossain, Mohammad Mobarak
+    role: ''
+    organization: International Rice Research Institute
+    url: https://orcid.org/0000-0003-0640-3209
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8374792
+  dataseturi: https://doi.org/10.5281/zenodo.8374792
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Soil Classification and Crop Prediction Using Machine
+  abstract: Soil classification is a major problem and a<br> heated topic in many
+    countries. The world's population is<br> drastically increasing at an alarming
+    rate which in turn<br> makes the demand for food crops. Farmers are forced to<br>
+    block soil cultivation since their conventional methods are<br> insufficient to
+    fulfil escalating needs. To optimize<br> agricultural output, farmers must understand
+    the best soil<br> type for a certain crop, which has an impact on growing<br>
+    food demand. There areseveral methods for categorizing<br> soil in a scientific
+    way, but each has its own set of<br> disadvantages, such as time and effort. Computer-based
+    soil<br> classification approaches are essential since they will aid<br> farmers
+    in the field and will be quick. Advanced Machine<br> Learning technique-based
+    soil classification methodologies<br> can be used to classify soil and extract
+    various featuresfrom<br> it.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Classification, Crop Prediction, Machine Learning, Convolutional
+          Neural Network.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-09-25'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8374792
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8374791
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Pavan-Kumar.Innamuri:
+    individualname: Pavan Kumar.Innamuri
+    role: creator
+    organization: ''
+    url: ''
+  Kakumanu-Venkata-Kasi-Viswanath:
+    individualname: Kakumanu Venkata Kasi Viswanath
+    role: creator
+    organization: ''
+    url: ''
+  Katta-Harshavardhan-Reddy:
+    individualname: Katta Harshavardhan Reddy
+    role: creator
+    organization: ''
+    url: ''
+  Jangam-Aravind-Swamy:
+    individualname: Jangam Aravind Swamy
+    role: creator
+    organization: ''
+    url: ''
+  Sheelavathy-K.-V.:
+    individualname: Sheelavathy K., V.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

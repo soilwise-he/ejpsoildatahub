@@ -1,0 +1,211 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ochoa_Hueso_2017
+  dataseturi: https://doi.org/10.1111/1365-2745.12871
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil fungal abundance and plant functional traits drive fertile island formation
+    in global drylands
+  abstract: '&lt;p&gt;&lt;strong&gt;1. &lt;/strong&gt;Dryland vegetation is characterised
+    by discrete plant patches that accumulate and capture soil resources under their
+    canopies. These &ldquo;fertile islands&rdquo; are major drivers of dryland ecosystem
+    structure and functioning, yet we lack an integrated understanding of the factors
+    controlling their magnitude and variability at the global scale.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;strong&gt;2. &lt;/strong&gt;We conducted a standardized field survey
+    across two hundred and thirty-six drylands from five continents. At each site,
+    we measured the composition, diversity and cover of perennial plants. Fertile
+    island effects were estimated at each site by comparing composite soil samples
+    obtained under the canopy of the dominant plants and in open areas devoid of perennial
+    vegetation. For each sample, we measured fifteen soil variables (functions) associated
+    with carbon, nitrogen and phosphorus cycling and used the Relative Interaction
+    Index to quantify the magnitude of the fertile island effect for each function.
+    In eighty sites, we also measured fungal and bacterial abundance (quantitative
+    PCR) and diversity (Illumina MiSeq).&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;strong&gt;3. &lt;/strong&gt;The most fertile islands, i.e. those
+    where a higher number of functions were simultaneously enhanced, were found at
+    lower-elevation sites with greater soil pH values and sand content under semiarid
+    climates, particularly at locations where the presence of tall woody species with
+    a low specific leaf area increased fungal abundance beneath plant canopies, the
+    main direct biotic controller of the fertile island effect in the drylands studied.
+    Positive effects of fungal abundance were particularly associated with greater
+    nutrient contents and microbial activity (soil extracellular enzymes) under plant
+    canopies.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;strong&gt;4. &lt;/strong&gt;&lt;em&gt;Synthesis. &lt;/em&gt;Our results
+    show that the formation of fertile islands in global drylands largely depends
+    on: (i) local climatic, topographic and edaphic characteristics, (ii) the structure
+    and traits of local plant communities and (iii) soil microbial communities. Our
+    study also has broad implications for the management and restoration of dryland
+    ecosystems worldwide, where woody plants are commonly used as nurse plants to
+    enhance the establishment and survival of beneficiary species. Finally, our results
+    suggest that forecasted increases in aridity may enhance the formation of fertile
+    islands in drylands worldwide.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Aridity
+      - Drylands
+      - Fertile islands
+      - Fungal abundance
+      - Multiple threshold approach
+      - Plant functional traits
+      - Relative interaction index
+      - Soil properties
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil fungal abundance and plant functional traits drive fertile island formation
+      in global drylands
+    url: http://dx.doi.org/10.1111/1365-2745.12871
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Raul-Ochoa-Hueso:
+    individualname: "Ra\xFAl Ochoa\u2010Hueso"
+    role: creator
+  David-J.-Eldridge:
+    individualname: David J. Eldridge
+    role: creator
+  Manuel-Delgado-Baquerizo:
+    individualname: "Manuel Delgado\u2010Baquerizo"
+    role: creator
+  Santiago-Soliveres:
+    individualname: Santiago Soliveres
+    role: creator
+  Matthew-A.-Bowker:
+    individualname: Matthew A. Bowker
+    role: creator
+  Nicolas-Gross:
+    individualname: Nicolas Gross
+    role: creator
+  Yoann-Le-Bagousse-Pinguet:
+    individualname: "Yoann Le Bagousse\u2010Pinguet"
+    role: creator
+  et-al.:
+    individualname: et al.
+    role: creator
+  Ochoa-Hueso-Raul:
+    individualname: "Ochoa\u2010Hueso, Ra\xFAl"
+    role: creator
+  Eldridge-David-J.:
+    individualname: Eldridge, David J.
+    role: creator
+  Delgado-Baquerizo-Manuel:
+    individualname: "Delgado\u2010Baquerizo, Manuel"
+    role: creator
+  Soliveres-Santiago:
+    individualname: Soliveres, Santiago
+    role: creator
+  Bowker-Matthew-A.:
+    individualname: Bowker, Matthew A.
+    role: creator
+  Gross-Nicolas:
+    individualname: Gross, Nicolas
+    role: creator
+  Le-Bagousse-Pinguet-Yoann:
+    individualname: "Le Bagousse\u2010Pinguet, Yoann"
+    role: creator
+  Quero-Jose-L.:
+    individualname: "Quero, Jos\xE9 L."
+    role: creator
+  Garcia-Gomez-Miguel:
+    individualname: "Garc\xEDa\u2010G\xF3mez, Miguel"
+    role: creator
+  Valencia-Enrique:
+    individualname: Valencia, Enrique
+    role: creator
+  Arredondo-Tulio:
+    individualname: Arredondo, Tulio
+    role: creator
+  Beinticinco-Laura:
+    individualname: Beinticinco, Laura
+    role: creator
+  Bran-Donaldo:
+    individualname: Bran, Donaldo
+    role: creator
+  Cea-Alex:
+    individualname: Cea, Alex
+    role: creator
+  Coaguila-Daniel:
+    individualname: Coaguila, Daniel
+    role: creator
+  Dougill-Andrew-J.:
+    individualname: Dougill, Andrew J.
+    role: creator
+  Espinosa-Carlos-I.:
+    individualname: Espinosa, Carlos I.
+    role: creator
+  Gaitan-Juan:
+    individualname: "Gait\xE1n, Juan"
+    role: creator
+  Guuroh-Reginald-T.:
+    individualname: Guuroh, Reginald T.
+    role: creator
+  Guzman-Elizabeth:
+    individualname: Guzman, Elizabeth
+    role: creator
+  Gutierrez-Julio-R.:
+    individualname: "Guti\xE9rrez, Julio R."
+    role: creator
+  Hernandez-Rosa-M.:
+    individualname: "Hern\xE1ndez, Rosa M."
+    role: creator
+  Huber-Sannwald-Elisabeth:
+    individualname: "Huber\u2010Sannwald, Elisabeth"
+    role: creator
+  Jeffries-Thomas:
+    individualname: Jeffries, Thomas
+    role: creator
+  Linstadter-Anja:
+    individualname: "Linst\xE4dter, Anja"
+    role: creator
+  Mau-Rebecca-L.:
+    individualname: Mau, Rebecca L.
+    role: creator
+  Monerris-Jorge:
+    individualname: Monerris, Jorge
+    role: creator
+  Prina-Anibal:
+    individualname: "Prina, An\xEDbal"
+    role: creator
+  Pucheta-Eduardo:
+    individualname: Pucheta, Eduardo
+    role: creator
+  Stavi-Ilan:
+    individualname: Stavi, Ilan
+    role: creator
+  Thomas-Andrew-D.:
+    individualname: Thomas, Andrew D.
+    role: creator
+  Zaady-Eli:
+    individualname: Zaady, Eli
+    role: creator
+  Singh-Brajesh-K.:
+    individualname: Singh, Brajesh K.
+    role: creator
+  Maestre-Fernando-T.:
+    individualname: Maestre, Fernando T.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

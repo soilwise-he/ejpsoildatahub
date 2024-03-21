@@ -1,0 +1,115 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kyrylchuk_2023
+  dataseturi: https://doi.org/10.21498/2518-1017.19.3.2023.287639
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Productivity and grain quality of winter triticale varieties (Triticosecale
+    Wittmack el. Camus) under different soil and climatic growing conditions
+  abstract: "&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;. To evaluate the productivity\
+    \ and grain quality of winter triticale varieties grown under different soil and\
+    \ climatic conditions.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;.\
+    \ The research process involved laboratory, computational and statistical methods,\
+    \ and analysis and synthesis to draw conclusions.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;.\
+    \ HTC (IV&ndash;X) was found to vary significantly monthly, annually and in general\
+    \ between the research sites. It was found that the yield of winter triticale\
+    \ varieties in the Forest-Steppe and Polissia zones was 5.3 t/ha. The maximum\
+    \ yield in the Forest-Steppe zone was achieved by the variety &lsquo;MIP Feniks&rsquo;\
+    \ (5.9 t/ha), in the Polissia zone by the variety &lsquo;Pamiati Patseky&rsquo;\
+    \ (5.8 t/ha). It was found that the protein content of winter triticale varieties\
+    \ for the 2019&ndash;2020 research years in the Forest-Steppe zone was on average\
+    \ 12.6% and ranged from 12.2% (&lsquo;Liubomyr&rsquo;) to 13.3% (&lsquo;MIP Yatahan&rsquo;),\
+    \ which according to the classifier corresponded to grain of medium quality and\
+    \ can be used in the confectionery industry. The coefficient of variation (V,%)\
+    \ for this characteristic was 3.5%. In the Polissia zone, the protein content\
+    \ of the varieties averaged 13.6% over the years of research and ranged from 12.9%\
+    \ &ndash; medium content (&lsquo;MIP Feniks&rsquo;) to 14.3% &ndash; high content\
+    \ (&lsquo;MIP Yatahan&rsquo;). The intrazone variation was low and amounted to\
+    \ 4.0%. Correlation and regression analysis showed that an increase in the active\
+    \ temperature during the vegetation period up to 3203 \u043E\u0421 allows an increase\
+    \ in the productivity indicators and in the weight of 1000 grains from 5.6 to\
+    \ 6.1 t/ha and from 46.8 to 53.5 g, respectively; an increase in precipitation\
+    \ during the vegetation period up to 515.1 mm leads to a decrease in the weight\
+    \ of 1000 grains from 45.2 to 38.1 g; with an increase in the amount of active\
+    \ temperatures and precipitation during the vegetation period from 3167.65 to\
+    \ 3202.9 \u043E\u0421 and from 413.85 to 515.1 mm, respectively, it is possible\
+    \ to increase the protein content in grain from 12.4 to 13.8%; with an increase\
+    \ in the yield and weight of 1000 grains from 5.8 to 6.1 t/ha and from 51.8 to\
+    \ 53.8 g, the protein content of the grain can be reduced from 13.1 to 12.0%.&lt;/p&gt;\n\
+    \n&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;. Different responses of varieties\
+    \ to zonal growing conditions were observed. A positive influence of the rainfall\
+    \ factor during the growing season on the yield of winter triticale in Forest-Steppe\
+    \ and Polissia (r = 0.66 and 0.34 units) and on the increase of the protein content\
+    \ of grain grown in the Polissia zone (r = 0.56) was revealed.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - cereals
+      - nutritional value
+      - hydrothermal coefficient
+      - cultivation capacity
+      - protein content
+      - correlation and regression analysis
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Productivity and grain quality of winter triticale varieties (Triticosecale
+      Wittmack el. Camus) under different soil and climatic growing conditions
+    url: http://dx.doi.org/10.21498/2518-1017.19.3.2023.287639
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  A.-M.-Kyrylchuk:
+    individualname: A. M. Kyrylchuk
+    role: creator
+  S.-O.-Liashenko:
+    individualname: S. O. Liashenko
+    role: creator
+  I.-V.-Bezprozvana:
+    individualname: I. V. Bezprozvana
+    role: creator
+  C.-L.-Chukhleb:
+    individualname: C. L. Chukhleb
+    role: creator
+  N.-P.-Shcheina:
+    individualname: N. P. Shcheina
+    role: creator
+  V.-D.-Shkliar:
+    individualname: V. D. Shkliar
+    role: creator
+  Kyrylchuk-A.-M.:
+    individualname: Kyrylchuk, A. M.
+    role: creator
+  Liashenko-S.-O.:
+    individualname: Liashenko, S. O.
+    role: creator
+  Bezprozvana-I.-V.:
+    individualname: Bezprozvana, I. V.
+    role: creator
+  Chukhleb-C.-L.:
+    individualname: Chukhleb, C. L.
+    role: creator
+  Shcheina-N.-P.:
+    individualname: Shcheina, N. P.
+    role: creator
+  Shkliar-V.-D.:
+    individualname: Shkliar, V. D.
+    role: creator
+  Ukrainian-Institute-for-Plant-Variety-Examination:
+    individualname: Ukrainian Institute for Plant Variety Examination
+    role: creator
+content_info: {}

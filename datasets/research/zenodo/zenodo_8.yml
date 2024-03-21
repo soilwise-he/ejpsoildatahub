@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: LEWIN_1914
+  dataseturi: https://doi.org/10.1038/092632c0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Protozoa
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Protozoa
+    url: http://dx.doi.org/10.1038/092632c0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Lewin-K.-R.:
+    individualname: Lewin, K. R.
+    role: creator
+  Martin-C.-H.:
+    individualname: Martin, C. H.
+    role: creator
+  LEWIN-K.-R.:
+    individualname: LEWIN, K. R.
+    role: creator
+  MARTIN-C.-H.:
+    individualname: MARTIN, C. H.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

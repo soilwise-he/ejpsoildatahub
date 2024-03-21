@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Montagna_2022
+  dataseturi: https://doi.org/10.3897/aca.5.e95808
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Factors affecting soil invertebrate biodiversity in agroecosystems of the
+    Po Plain area (Italy)
+  abstract: "&lt;p&gt;Soil is a fundamental component of the biosphere, whose properties\
+    \ and quality are affected by human activities, such as agriculture. Soil health\
+    \ is fundamental for different ecosystem services and soil biota has a crucial\
+    \ role in maintaining it. Elucidating how different crops and agricultural practices\
+    \ affect soil invertebrates communities is of relevance. In the present study,\
+    \ a DNA metabarcoding approach was adopted to evaluate the effects of different\
+    \ biotic and abiotic factors, including agricultural practices, on the composition\
+    \ and diversity of soil invertebrate communities of different agro-ecosystems\
+    \ (Po Plain-Italy). At this aim, the DNA markers and the more effective primers\
+    \ in retrieving soil metazoan communities were established. Bulk soil samples\
+    \ from different agro-ecosystems (i.e., cornfield, alfalfa, paddy fields, vineyard,\
+    \ stable meadow, woodland) were collected and, processed for obtaining\_&lt;em&gt;18S\
+    \ rRNA&lt;/em&gt;\_and\_&lt;em&gt;coi&lt;/em&gt;\_sequences (raw reads analyzed\
+    \ using QIIME2 and R). Soil physical and chemical parameters were measured for\
+    \ each soil sample (e.g., pH, carbon-nitrogen ratio, texture, porosity) and metadata\
+    \ on farms management were retrieved.\_&lt;/p&gt;&lt;p&gt;The most efficient primer\
+    \ pairs in recovering soil metazoans were M620F/M1260R for 18S rRNA, and mlCOIintF/jgHCO2198R\
+    \ for\_&lt;em&gt;coi&lt;/em&gt;\_gene.\_Soil communities resulted dominated by\
+    \ Nematoda, Arthropoda, Annelida, Rotifera and Tardigrada. The most diverse invertebrate\
+    \ communities have been found in the soil of stable meadows and woodlands, while\
+    \ cornfields showed the lowest level of diversity. The diversity of soil invertebrate\
+    \ communities (Hill numbers) was positively correlated with the level of porosity\
+    \ and carbon-nitrogen ratio, while it was negatively correlated with the phosphate\
+    \ abundance. This pattern probably reflects the negative effect of excessive fertilization\
+    \ with phosphates on soil fauna, while the abundance of organic matter and microhabitats\
+    \ were found to enhance the presence of more complex communities. Other soil properties\
+    \ were correlated only with specific taxa (e.g., pH was negatively correlated\
+    \ with the diversity of Annelida and Rotifera).&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - DNA metabarcoding
+      - soil metazoan communities
+      - agricultural practices effect on biodiversity
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Factors affecting soil invertebrate biodiversity in agroecosystems of the
+      Po Plain area (Italy)
+    url: http://dx.doi.org/10.3897/aca.5.e95808
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Montagna-Matteo:
+    individualname: Montagna, Matteo
+    role: creator
+  Brunetti-Matteo:
+    individualname: Brunetti, Matteo
+    role: creator
+  Spada-Alberto:
+    individualname: Spada, Alberto
+    role: creator
+  Cussigh-Alex:
+    individualname: Cussigh, Alex
+    role: creator
+  Alali-Sumer:
+    individualname: Alali, Sumer
+    role: creator
+  Cremonesi-Paola:
+    individualname: Cremonesi, Paola
+    role: creator
+  Pizzi-Flavia:
+    individualname: Pizzi, Flavia
+    role: creator
+  Magoga-Giulia:
+    individualname: Magoga, Giulia
+    role: creator
+  Marino-Gallina-Pietro:
+    individualname: Marino Gallina, Pietro
+    role: creator
+content_info: {}

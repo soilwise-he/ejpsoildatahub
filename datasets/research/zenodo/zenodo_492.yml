@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Russell_1905
+  dataseturi: https://doi.org/10.1017/s0021859600000356
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Recent Work of the American Soil Bureau.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Recent Work of the American Soil Bureau.
+    url: http://dx.doi.org/10.1017/s0021859600000356
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Russell-Edward-J.:
+    individualname: Russell, Edward J.
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

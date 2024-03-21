@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Skinner_1906
+  dataseturi: https://doi.org/10.1021/ja01967a007
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: A METHOD FOR THE DETERMINATION OF BLACK ALKALI IN IRRIGATING WATERS AND SOIL
+    EXTRACTS.1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: A METHOD FOR THE DETERMINATION OF BLACK ALKALI IN IRRIGATING WATERS AND
+      SOIL EXTRACTS.1
+    url: http://dx.doi.org/10.1021/ja01967a007
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Skinner-W.-W.:
+    individualname: Skinner, W. W.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

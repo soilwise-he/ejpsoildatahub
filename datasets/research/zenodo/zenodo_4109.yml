@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1293819
+  dataseturi: https://doi.org/10.5281/zenodo.1293819
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparative Study Of Biochemical Parameters Of Trigonella Foenum-Graecum
+    Seedlings (Methi) Growing Hydroponically And In Soil By Using Sewage Water
+  abstract: Environmental pollution in present scenario has become a matter of great
+    concern. Emitted chemicals and solid wastes from different industries have increased
+    amount of contaminants in air, water and soil to hazardous level. The present
+    study was aimed to evaluate effect of polluted water sources on water and soil
+    properties. Our study results showed increase in pH of soil on addition of polluted
+    water. Electrical conductivity of soil was changed when treated with sewage water.
+    It can be concluded from present study that when polluted water reaches fresh
+    water and soil then it affects quality of soil adversely.
+  keywords:
+    default:
+      keywords:
+        subject: Sewage, Hydroponics, Phytofilteration, Hoagland media, Silica
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-06-20'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1293819
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1293818
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dave-Jyoti*1-Jaiswal-Payal2--Sharma-Pratibha2:
+    individualname: Dave Jyoti*1, Jaiswal Payal2 & Sharma Pratibha2
+    role: creator
+    organization: 1Department of BioSciencs,, SCM Institute of Professional Studies,
+      Indore 2Department of Biochemistry, Govt. Holkar Science College, Indore
+    url: ''
+content_info: {}

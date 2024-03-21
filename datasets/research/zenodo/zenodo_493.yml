@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.1007/s11104-022-05382-
+  dataseturi: https://doi.org/10.1007/s11104-022-05382-
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: On maintenance and metabolisms in soil microbial communities
+  abstract:
+  - '&lt;p&gt;Biochemistry is an essential yet undervalued aspect of soil ecology,
+    especially when analyzing soil C cycling. We assume, based on tradition, intuition
+    or hope, that the complexity of biochemistry is confined to the microscopic world,
+    and can be ignored when dealing with whole soil systems. This opinion paper draws
+    attention to patterns caused by basic biochemical processes that permeate the
+    world of ecosystem processes. From these patterns, we can estimate activities
+    of the biochemical reactions of the central C metabolic network and gain insights
+    into the ecophysiology of microbial biosynthesis, growth, and maintenance energy
+    requirements: important components of Carbon Use Efficiency (CUE).&lt;/p&gt;'
+  - 'This work was also funded by the following grants
+
+    USDA National Institute of Food and Agriculture Foundational Program [award #2017-67019-26396]
+
+    DOE Terrestrial Ecosystem Science Program [award #DE-SC0014413
+
+    EcoEnergeticS" DFG DI 2136/17-
+
+    Priority program 2322 "System Ecology of Soils" of the German Research Foundation
+    (DFG) [project DI 2136/17-1 "EcoEnergeticS"]
+
+    National Natural Science Foundation of China [award #42106046]'
+  keywords:
+    default:
+      keywords:
+      - Metabolic flux analysis
+      - Biochemical efficiency
+      - Carbon use efficiency
+      - Maintenance
+      - Exudation
+      - Turnover
+      - Embden-Meyerhof-Parnass glycolysis
+      - Entner-Doudoroff pathway
+      - Pentose phosphate pathway
+      - Marsh
+      - Forest
+      - Grassland
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Dijkstra-Paul:
+    individualname: Dijkstra, Paul
+    role: creator
+  Martinez-Ayla:
+    individualname: Martinez, Ayla
+    role: creator
+  Thomas-Scott-C.:
+    individualname: Thomas, Scott C.
+    role: creator
+  Seymour-Cale-O.:
+    individualname: Seymour, Cale O.
+    role: creator
+  Wu-Weichao:
+    individualname: Wu, Weichao
+    role: creator
+  Dippold-Michaela-A.:
+    individualname: Dippold, Michaela A.
+    role: creator
+  Megonigal-J.-Patrick:
+    individualname: Megonigal, J. Patrick
+    role: creator
+  Schwartz-Egbert:
+    individualname: Schwartz, Egbert
+    role: creator
+  Hungate-Bruce-A.:
+    individualname: Hungate, Bruce A.
+    role: creator
+content_info: {}

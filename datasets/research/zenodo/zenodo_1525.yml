@@ -1,0 +1,99 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8085770
+  dataseturi: https://doi.org/10.5281/zenodo.8085770
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Fusion of Vis-NIR and XRF spectra for estimation of key soil attributes
+  abstract: "Precision agriculture (PA) is an integrated solution to optimize the\
+    \ application of farming inputs site-specifically to increase crops efficiency,\
+    \ reduce resources consumption, and protect the environment. Recently, visible-near-\
+    \ infrared (Vis-NIR) and X-ray-fluorescence (XRF) have emerged as efficient and\
+    \ inexpensive proximal soil sensing (PSS) methods for assessment of soil attributes\
+    \ in support of PA applications. The goal of this study was to explore the potential\
+    \ of data fusion in accuracy improvement of predicting key soil attributes using\
+    \ Vis-NIR and XRF spectra. More specifically, local weighted regression (LWR)\
+    \ and partial least squares (PLS) regression methods were examined and compared\
+    \ in prediction of the following soil attributes: pH, organic carbon (OC), phosphorous\
+    \ (P), magnesium (Mg), calcium (Ca), and sodium (Na). Besides the individual-sensor\
+    \ models, we evaluated three data fusion approaches basedon spectra fusion (SF).\
+    \ The first method concatenates the full Vis-NIR and XRF spectra before PLS (SF1-PLS).\
+    \ In the second SF approach (SF2-PLS), the concatenation of the principal components\
+    \ (PCs) of the two spectra types \u2013 each resulted from a principal component\
+    \ analysis (PCA) \u2013 were used as input to PLS. The last proposed method, SF-CNN,\
+    \ uses a convolutional neural network (CNN) with input in form of a matrix whose\
+    \ columns are the PCs of the Vis-NIR and the PCs of the XRF spectra. To evaluate\
+    \ the proposed methods, a total 267 soil samples of nine arable fields were collected\
+    \ and scanned in laboratory settings using a Vis-NIR and an XRF spectrometer.\
+    \ For each soil attribute, the samples of six fields were used as the calibration\
+    \ set while the samples of the remaining three fields were used for validating\
+    \ the prediction models. The individual-sensor and SF models were evaluated in\
+    \ terms of ratio of performance to inter-quartile (RPIQ), root mean square error\
+    \ (RMSE), and Lin\u2019s concordance correlation coefficient (LCCC). The validation\
+    \ results showed that PLS generally outperforms LWR. Also, the prediction accuracy\
+    \ obtained from Vis-NIR spectra was better than that of XRF for all the attributes,\
+    \ except for Ca. The proposed SF schemes, especially the SF-CNN, outperformed\
+    \ the individual models in the prediction of all attributes, except P and Ca.\
+    \ The best improvement of the prediction results, compared to the individual-sensor\
+    \ models, was obtained for Mg (RPIQ = 1.60, RMSE = 6.88 mg/100 g, LCCC = 0.93),\
+    \ successively followed by pH (RPIQ = 2.52, RMSE = 0.36, LCCC = 0.68), and Na\
+    \ (RPIQ = 1.69, RMSE = 2.55 mg/100 g, LCCC = 0.65). Overall, the results of this\
+    \ study suggest the CNN-based fusion for the prediction of the studied key soil\
+    \ fertility attributes in order to enable making accurate decisions and control\
+    \ loop in PA applications using high-resolution data on spatiotemporal variability\
+    \ of soil."
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2020-12-11'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8085770
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8085769
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Javadi-Hamed-S.:
+    individualname: Javadi, Hamed S.
+    role: creator
+    organization: Precision Soil and Crop Engineering Group, Department of Environment,
+      Faculty of Bioscience Engineering, Ghent University
+    url: ''
+  Munnaf--Muhammad-A.:
+    individualname: Munnaf,  Muhammad A.
+    role: creator
+  Mouazen-Abdul-M.:
+    individualname: Mouazen, Abdul M.
+    role: creator
+    organization: Precision Soil and Crop Engineering Group, Department of Environment,
+      Faculty of Bioscience Engineering, Ghent University
+    url: ''
+  Munnaf-Muhammad-A.:
+    individualname: Munnaf, Muhammad A.
+    role: ''
+    organization: Precision Soil and Crop Engineering Group, Department of Environment,
+      Faculty of Bioscience Engineering, Ghent University
+    url: ''
+content_info: {}

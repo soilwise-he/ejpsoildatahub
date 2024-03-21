@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3045019
+  dataseturi: https://doi.org/10.5281/zenodo.3045019
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: 'Soil Taxonomy or World Reference Base: how to classify Antarctic soils?'
+  abstract: "Only 0.35% of Antarctica is ice-free. More than half of this territory\
+    \ \u2013 about 53% is located in the Transantarctic Mountains and, in particular,\
+    \ the Pensacola Mountains. About 20% \u2013 in the Antarctic Peninsula and the\
+    \ surrounding islands, 11%, and 7% can be found in the Mac-Robertson Land and\
+    \ by Queen Maud Land respectively. Temperature regimes, precipitation, plant coverage\
+    \ are very different in these regions. Nowadays, more than 30 countries are conducting\
+    \ research in Antarctica, but according to JG Bockheim (2015), only about 2,400\
+    \ soil profiles were diagnosed and classified so far. 75% of them are in the Transantarctic\
+    \ Mountains and 16% in the Antarctic Peninsula. Moreover, researchers in Antarctica\
+    \ use various soil classifications, hence it is difficult and sometimes impossible\
+    \ to compare and summarize the results of different studies"
+  keywords:
+    default:
+      keywords:
+        subject: Maritime Antarctica
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-05-14'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3045019
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3045018
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Tymur-Bedernichek:
+    individualname: Tymur Bedernichek
+    role: creator
+    organization: ''
+    url: ''
+  Tetyana-Partyka:
+    individualname: Tetyana Partyka
+    role: creator
+  Oleg-Orlov:
+    individualname: Oleg Orlov
+    role: creator
+  Natalia-Zaimenko:
+    individualname: Natalia Zaimenko
+    role: creator
+  Partyka-Tetyana:
+    individualname: Partyka, Tetyana
+    role: ''
+    organization: ''
+    url: ''
+  Orlov-Oleg:
+    individualname: Orlov, Oleg
+    role: ''
+    organization: ''
+    url: ''
+  Zaimenko-Natalia:
+    individualname: Zaimenko, Natalia
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

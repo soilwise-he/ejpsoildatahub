@@ -1,0 +1,89 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3865399
+  dataseturi: https://doi.org/10.5281/zenodo.3865399
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Relationships Between Microbial Parameters and Soil Properties in a Hydrophobic
+    Spolic Technosol
+  abstract: "Data on microbiology of water repellent (hydrophobic) soils in Bulgaria\
+    \ are scarce. This work aimed to find out relations between microbiological indicators,\
+    \ hydrophobicity level and other soil properties in a Spolic Technosol. Samples\
+    \ from 0-10 cm and 10-20 cm soil depth of a fly ash reclaimed soil covered with\
+    \ tuft vegetation and located near Obruchiste area were collected. Main microbiological\
+    \ (basal respiration - BR, microbial biomass carbon content -Cmic, amount of main\
+    \ microbial groups \u2013CFU), chemical (organic carbon, available N, P and K\
+    \ contents) and physical (hydrophobicity level, moisture, sand and clay contents)\
+    \ properties were determined. It was found that the Technosol was hydrophobic\
+    \ in most of the monitoring points. Half of the samples were severely or extremely\
+    \ hydrophobic (assessed by water-drop-penetration time) and the hydrophobicity\
+    \ level was higher in the subsurface layer. The Spolic Techosol under tuft vegetation\
+    \ was characterized with low numbers of heterotrophic bacteria, actinomycetes\
+    \ and oligotrophic microorganisms (1-40 x 102 CFU/g) at 0-20 cm depth. As a whole,\
+    \ low BR rate (0.51-5.43 mg CO2/g/ 24h) and low Cmic values (2.37-18.18 mg C/100g)\
+    \ were established for both layers. Weak relationships of microbial parameters\
+    \ with organic carbon, humic acid, fulvic acid and clay contents were noticed\
+    \ in this soil. Significant correlations of the amount of fungi and actinomycetes\
+    \ with available nutrient and moisture contents were found. In general, a trend\
+    \ of positive relationships of fungi, actinomycetes and cellulolytic microorganisms\
+    \ with soil hydrophobicity was established. The relative parts of fungi and actinomycetes\
+    \ increased in the hydrophobic samples comparing to non-hydrophobic ones. Microbial\
+    \ biomass carbon tended to increase with increasing the hydrophobicity level.\
+    \ Data pointed on close positive relationships of microbial parameters studied\
+    \ with the hydrophobicity in this Technosol. Our results add new information to\
+    \ the monitoring study of hydrophobic Technosols from Maritsa-Iztok coal-mining\
+    \ region (Bulgaria)."
+  keywords:
+    default:
+      keywords:
+        subject: soil hydrophobicity, Spolic Technosol, basal respiration, microbial
+          biomass, microbial amount
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2020-05-29'
+    publication: '2020'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3865399
+    type: WWW:LINK
+    title: Link
+  r1:
+    url: https://doi.org/10.5281/zenodo.3865398
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nedyalkova-Kostadinka:
+    individualname: Nedyalkova, Kostadinka
+    role: creator
+    organization: '"N. Poushkarov" Institute of Soil Science, Agrotechnologies and
+      Plant Protection'
+    url: ''
+  Petkova-Galina:
+    individualname: Petkova, Galina
+    role: creator
+    organization: '"N. Poushkarov" Institute of Soil Science, Agrotechnologies and
+      Plant Protection'
+    url: ''
+  Atanassova-Irena:
+    individualname: Atanassova, Irena
+    role: creator
+    organization: '"N. Poushkarov" Institute of Soil Science, Agrotechnologies and
+      Plant Protection'
+    url: ''
+content_info: {}

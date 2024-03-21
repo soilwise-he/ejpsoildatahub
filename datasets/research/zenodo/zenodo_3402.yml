@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: https://doi.org/10.35940/ijeat.B3079. 049420
+  dataseturi: https://doi.org/10.35940/ijeat.B3079. 049420
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Monitoring and Controlling of Soil Relative  Humidity using Labview
+  abstract: '&lt;p&gt;The content here gives about the technique which is incorporated
+    to monitor the moisture content in the soil and it enables agriculturalists feasibility
+    of humidity measurement. According to this moisture control sensor circuit, it
+    can observe the corresponding relative humidity and water the plants automatically
+    by observing the conditions using LabVIEW system and myDAQ. The sensed signal
+    from the sensor is interfaced to a LabVIEW loaded PC which acquires the signal
+    as a voltage. With the help of counter pin, a submersible pump turns ON and OFF
+    automatically to water the plants based on soils condition. Farmer can vary the
+    time limit. When the time limit exceeds, he can view the LEDs and buzzer is in
+    ON state. It is applicable in agriculture lands, land irrigation, simple sensors
+    for gardeners.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Buzzer
+      - DC pump motor
+      - LabVIEW
+      - Motor Driver
+      - myDAQ
+      - Soil Moisture Sensor.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution: {}
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Syambabu-Vadlamudi:
+    individualname: Syambabu Vadlamudi,
+    role: creator
+  B.Chinnarao:
+    individualname: B.Chinnarao
+    role: creator
+  N.Vanitha:
+    individualname: N.Vanitha
+    role: creator
+content_info: {}

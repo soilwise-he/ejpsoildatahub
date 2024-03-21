@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Syme_1909
+  dataseturi: https://doi.org/10.1021/ie50003a009
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Colorimetric Determination of Nitrates in Soil Solutions Containing Organic
+    Matter.
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Colorimetric Determination of Nitrates in Soil Solutions Containing
+      Organic Matter.
+    url: http://dx.doi.org/10.1021/ie50003a009
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Syme-W.-A.:
+    individualname: Syme, W. A.
+    role: creator
+  American-Chemical-Society-ACS:
+    individualname: American Chemical Society (ACS)
+    role: creator
+content_info: {}

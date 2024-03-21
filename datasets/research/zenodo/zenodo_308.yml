@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Patrick_1922
+  dataseturi: https://doi.org/10.2136/sssaj1922.0361599500b320010021x
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil Survey Problems of Eastern United States
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil Survey Problems of Eastern United States
+    url: http://dx.doi.org/10.2136/sssaj1922.0361599500b320010021x
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Patrick-Austin-L.:
+    individualname: Patrick, Austin L.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

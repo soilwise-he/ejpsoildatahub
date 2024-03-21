@@ -1,0 +1,69 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8432352
+  dataseturi: https://doi.org/10.5281/zenodo.8432352
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: SCHEME OF INSTALLATION OF A WATERING(TOS) DEVICE UNDER THE SOIL, THE TECHNOLOGICAL
+    PROCESS OF ITS OPERATION
+  abstract: The article provides information on the balance of existing land areas
+    in a number of developed countries, including Uzbekistan,on the implementation
+    of scientific research work on this subject, the techniques and technologies used,
+    a new device, its installation, application and positive results to be obtained,
+    as well as scientific research work on finding a solution to this problem.
+  keywords:
+    default:
+      keywords:
+        subject: humidifier, pipe, sandy soil, saline soil, gravitational-capillary,
+          sorption, condensation, hydrostatic pressure.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-10-11'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8432352
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8432351
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sh.J.Imamov:
+    individualname: Sh.J.Imamov
+    role: creator
+    organization: t.f.d., professor
+    url: ''
+  U.Y.Rajabov:
+    individualname: U.Y.Rajabov
+    role: creator
+    organization: is a postdoctoral fellow
+    url: ''
+  Y.J.Rajabov:
+    individualname: Y.J.Rajabov
+    role: creator
+    organization: t.f.f.d.(Phd)
+    url: ''
+  N.Y.Rajabova:
+    individualname: N.Y.Rajabova
+    role: creator
+    organization: is a student
+    url: ''
+content_info: {}

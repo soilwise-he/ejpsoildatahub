@@ -1,0 +1,140 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8091935
+  dataseturi: https://doi.org/10.5281/zenodo.8091935
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Data mining of urban soil spectral library for estimating organic carbon
+  abstract: "Accurate quantification of urban soil organic carbon (SOC) is essential\
+    \ for understanding anthropogenic changes and further guiding effective city managements.\
+    \ Visible and near infrared (vis\u2013NIR) spectroscopy can monitor the SOC content\
+    \ in a time- and cost-effective manner. However, processes and mechanisms dominating\
+    \ the relationships between SOC and spectral data in urban soils remain unknown.\
+    \ The main objective of this paper was to evaluate whether multiple stratification\
+    \ strategies (i.e., based on land-use/land-cover [LULC], pH, and spectral clustering)\
+    \ resulted in better predicted performance for SOC compared to the non-stratified\
+    \ (global) models. Results showed that regarding the non-stratified models, the\
+    \ convolutional neural network (CNN) model exhibited the best performance (validation\
+    \ R<sup>2 </sup>= 0.73), followed by Cubist (validation R<sup>2</sup> = 0.66)\
+    \ and memorybased learning (validation R<sup>2</sup> = 0.65). After LULC stratification,\
+    \ Cubist model achieved the best prediction (validation R<sup>2</sup> = 0.76),\
+    \ improving the value of ratio of performance to interquartile distance by 0.11\
+    \ compared to the global CNN model. Areas with high SOC values were mainly located\
+    \ in the city center. Stratification by LULC class is a promising strategy for\
+    \ addressing the impact of the soil-landscape diversity and complexity on vis\u2013\
+    NIR spectral estimation of SOC in urban soil spectral library."
+  keywords:
+    default:
+      keywords:
+        subject: Deep learning
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2022-08-19'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8091935
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8091934
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Yongsheng-Hong:
+    individualname: Yongsheng Hong
+    role: creator
+    organization: ''
+    url: ''
+  Yiyun-Chen:
+    individualname: Yiyun Chen
+    role: creator
+    organization: ''
+    url: ''
+  Songchao-Chen:
+    individualname: Songchao Chen
+    role: creator
+    organization: ''
+    url: ''
+  Ruili-Shen:
+    individualname: Ruili Shen
+    role: creator
+    organization: ''
+    url: ''
+  Bifeng-Hu:
+    individualname: Bifeng Hu
+    role: creator
+    organization: ''
+    url: ''
+  Jie-Peng:
+    individualname: Jie Peng
+    role: creator
+  Nan-Wang:
+    individualname: Nan Wang
+    role: creator
+  Long-Guo:
+    individualname: Long Guo
+    role: creator
+  Zhiqing-Zhuo:
+    individualname: Zhiqing Zhuo
+    role: creator
+    organization: ''
+    url: ''
+  Yuanyuan-Yang:
+    individualname: Yuanyuan Yang
+    role: creator
+    organization: ''
+    url: ''
+  Yaolin-Liu:
+    individualname: Yaolin Liu
+    role: creator
+    organization: ''
+    url: ''
+  Abdul-Mounem-Mouazen:
+    individualname: Abdul Mounem Mouazen
+    role: creator
+  Zhou-Shi:
+    individualname: Zhou Shi
+    role: creator
+  Peng-Jie:
+    individualname: Peng, Jie
+    role: ''
+    organization: ''
+    url: ''
+  Wang-Nan:
+    individualname: Wang, Nan
+    role: ''
+    organization: ''
+    url: ''
+  Guo-Long:
+    individualname: Guo, Long
+    role: ''
+    organization: ''
+    url: ''
+  Mouazen-Abdul-Mounem:
+    individualname: Mouazen, Abdul Mounem
+    role: ''
+    organization: ''
+    url: ''
+  Shi-Zhou:
+    individualname: Shi, Zhou
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

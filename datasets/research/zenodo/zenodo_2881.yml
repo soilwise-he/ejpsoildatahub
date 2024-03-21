@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3403777
+  dataseturi: https://doi.org/10.5281/zenodo.3403777
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: Understory Evolution Related to Organic Fertilization in a Silvopastoral
+    System Established under Pinus Radiata D. Don. In an Acidic Soil
+  abstract: Mixed pasture establishment is considered as a key point to increase livestock
+    production due to the higher quality it has compared with unmanaged shrubby species.
+    They also provide a set of ecosystem services such as carbon sequestration and
+    higher biodiversity. Moreover, herbaceous pasture establishment effectively contributes
+    to biomass production while replacing shrubs therefore reducing forest fire risk.
+    Two of the main factors promoting the establishment of the herbaceous pasture
+    are sowing and fertilisation. This study evaluates the understory composition
+    evolution of a silvopastoral system established with cocksfoot and clover in an
+    acidic forest soil under Pinus radiata D. Don with four treatments that consist
+    of no fertilization, fertilization with mineral fertilizers (500 kg of mineral
+    8:24:16) and fertilization with three doses of sewage sludge (160, 320 and 480
+    kg N ha-1), in Galicia (NW Spain). Botanical composition data were analysed through
+    species abundance diagrams in a time window of 20 years. Results showed a clear
+    evolution in understory composition from the initial situation. Organic fertilization
+    was found to ease sown-mixture persistence on time as well as avoiding shrub colonisation
+    with regard to mineral and no fertilization treatments. Nutritional and sun light
+    high-demanding species were mostly replaced in favour of autochthonous ones after
+    sewage sludge fertilization stopped and tree canopy intercepted light that reached
+    the understory.
+  keywords:
+    default:
+      keywords:
+        subject: pasture
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-09-04'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3403777
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3403776
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mosquera-Losada-M.R.:
+    individualname: Mosquera-Losada, M.R.
+    role: creator
+    organization: ''
+    url: ''
+  Rodriguez-Rigueiro-F.J.:
+    individualname: "Rodr\xEDguez-Rigueiro, F.J."
+    role: creator
+    organization: ''
+    url: ''
+  Santiago-Freijanes-J.J.:
+    individualname: Santiago-Freijanes, J.J.
+    role: creator
+    organization: ''
+    url: ''
+  Rigueiro-Rodriguez-A.:
+    individualname: "Rigueiro-Rodr\xEDguez, A."
+    role: creator
+    organization: ''
+    url: ''
+  Ferreiro-Dominguez-N.:
+    individualname: "Ferreiro-Dom\xEDnguez, N."
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

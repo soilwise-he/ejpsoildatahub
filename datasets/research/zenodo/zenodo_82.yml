@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gordon_1921
+  dataseturi: https://doi.org/10.1126/science.54.1406.581
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Adsorption by Soil Colloids
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Adsorption by Soil Colloids
+    url: http://dx.doi.org/10.1126/science.54.1406.581
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Gordon-N.-E.:
+    individualname: Gordon, N. E.
+    role: creator
+  Wiley-R.-C.:
+    individualname: Wiley, R. C.
+    role: creator
+  Starky-E.-B.:
+    individualname: Starky, E. B.
+    role: creator
+  Flenner-A.-L.:
+    individualname: Flenner, A. L.
+    role: creator
+  Lichtenwalner-D.-C.:
+    individualname: Lichtenwalner, D. C.
+    role: creator
+  Gordon-Neil-E.:
+    individualname: Gordon, Neil E.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

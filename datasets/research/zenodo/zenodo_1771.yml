@@ -1,0 +1,47 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: WOLKOFF_1918
+  dataseturi: https://doi.org/10.1097/00010694-191806000-00001
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE INFLUENCE OF AMMONIUM SULFATE ON THE GERMINATION AND THE GROWTH OF BARLEY
+    IN SAND AND SOIL CULTURES KEPT AT DIFFERENT MOISTURE CONTENTS AND AT VARIOUS OSMOTIC
+    CONCENTRATIONS OF THE SOIL SOLUTION
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE INFLUENCE OF AMMONIUM SULFATE ON THE GERMINATION AND THE GROWTH OF BARLEY
+      IN SAND AND SOIL CULTURES KEPT AT DIFFERENT MOISTURE CONTENTS AND AT VARIOUS
+      OSMOTIC CONCENTRATIONS OF THE SOIL SOLUTION
+    url: http://dx.doi.org/10.1097/00010694-191806000-00001
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wolkoff-M.-I.:
+    individualname: Wolkoff, M. I.
+    role: creator
+  WOLKOFF-M.-I.:
+    individualname: WOLKOFF, M. I.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

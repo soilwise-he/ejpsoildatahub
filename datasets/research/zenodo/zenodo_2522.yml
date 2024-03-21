@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30773
+  dataseturi: https://doi.org/10.5281/zenodo.30773
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effects Of Different Fire Severity Levels On Soil Chemical And Physical Properties
+    In Zagros Forests Of Western Iran
+  abstract: "The study focused on the effect of different intensities of fire on physical\
+    \ and chemical properties of soil in Zagros forests of western Iran. The dominant\
+    \ tree species in these forests is oak (Quercus persica). Three sites were selected;\
+    \ high severity burned site (HS), low severity burned site (LS) and control (not\
+    \ burned) site (C). Soil chemical properties such as: organic matter (OM), the\
+    \ total nitrogen (N), NO3-N, soluble potassium (K), soil phosphorus (P), pH, soil\
+    \ electrical conductivity (EC), cation exchangeable capacity (CEC), base cations\
+    \ (Ca, Mg, Na), CO2 and soil physical<br>\nproperties such as saturation percentage\
+    \ (SP), bulk density (BD), sand, clay and silt percentages were assessed in soil\
+    \ samples. To determine significance of differences among the three observed sites\
+    \ and most effective variables in the separation of sample plots, one-way analysis\
+    \ of variance and principal component analysis were used, respectively.<br>\n\
+    Mean pH, N, NO3- N, OM, SP, P, K, and CEC at HS site were lower than at the sites\
+    \ with other fire intensities but the EC value for HS site was higher in comparison\
+    \ with other sites observed. According to Duncan\u2019s test, mean BD<br>\nvalue\
+    \ for HS site was higher when compared with other sites but SP value was comparatively\
+    \ lowest. At LS site, mean sand content was lowest and the amount of silt was\
+    \ highest, in comparison with other sites. The results showed that observed fire\
+    \ severities had significant effects on physical and chemical properties of soil,\
+    \ yet fire low severity and control sites were very similar to each other in terms\
+    \ of investigated factors. Therefore, it can be concluded that lowseverity fire\
+    \ regime has no significant influence on soil properties. In a management strategy,\
+    \ controlled low-severity fire regime can be an alternative management tool in\
+    \ improving soil conditions."
+  keywords:
+    default:
+      keywords:
+        subject: PCA
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2014-12-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30773
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mehdi-Heydari:
+    individualname: Mehdi, Heydari
+    role: creator
+    organization: "University of Guilan, Faculty of Natural Resources, Department\
+      \ of Forestry, P.O. Box: 1144 Somehsara \u2013 Guilan Iran"
+    url: ''
+  Ali-Salehi:
+    individualname: Ali, Salehi
+    role: creator
+    organization: "University of Guilan, Faculty of Natural Resources, Department\
+      \ of Forestry, P.O. Box: 1144 Somehsara \u2013 Guilan Iran"
+    url: ''
+  Ali-Mahdavi:
+    individualname: Ali, Mahdavi
+    role: creator
+    organization: "University of Guilan, Faculty of Natural Resources, Department\
+      \ of Forestry, P.O. Box: 1144 Somehsara \u2013 Guilan Iran"
+    url: ''
+  Mostafa-Adibnejad:
+    individualname: Mostafa, Adibnejad
+    role: creator
+    organization: "University of Guilan, Faculty of Natural Resources, Department\
+      \ of Forestry, P.O. Box: 1144 Somehsara \u2013 Guilan Iran"
+    url: ''
+content_info: {}

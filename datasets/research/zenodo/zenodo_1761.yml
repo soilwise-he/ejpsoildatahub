@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10398205
+  dataseturi: https://doi.org/10.5281/zenodo.10398205
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Sustainable agricultural practices to improve soil quality and productivity
+    of soybean and upland rice
+  abstract: Combining the use of cover crops with multifunctional microorganisms provides
+    significant increments in the grain productivity of soybean and upland rice crops.
+    However, there are still few studies that aimed to evaluate the effect of this
+    combination on the productivity of agricultural systems. The objective of this
+    study was to determine the effect of the mix of cover crops and the coinoculation
+    of multifunctional rhizobacteria on the quality of the soil, on the yield components,
+    and on the grain yield of soybean and upland rice. The experimental design was
+    in random blocks with 24 treatments in a 6x2x2 factorial scheme. Treatments were
+    the combination of 6 (5 mix of cover crops and the control (fallow)), 2 (upland
+    rice and soybeans), 2 (coinoculated or not), with four replications. The use of
+    mix of cover crops provided an increase in Ca and Mn levels in the soil, increased
+    activity of soil quality indicator enzymes (phosphatase and arylsulfatase), higher
+    soybean yield, and higher number of upland rice panicles. The coinoculation with
+    multifunctional rhizobacteria led to an increase in phosphorus levels in the soil,
+    in the number of pods per plant, in the mass of 100 grains for soybean cultivation,
+    in the number of grains per panicle, and in the productivity of upland rice. Therefore,
+    a mix of cover crops, combined with the coinoculation with multifunctional rhizobacteria
+    are sustainable agricultural practices that can contribute to the improvement
+    of soil quality and the increase of the productivity of soybean and upland rice
+    crops.
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-10-16'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10398205
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10398204
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nascente-Adriano-Stephan:
+    individualname: Nascente, Adriano Stephan
+    role: creator
+    organization: "Brazilian Agricultural Research Coorporation. National Research\
+      \ Center of Rice and Beans, Santo Ant\xF4nio de Goi\xE1s, Brazil"
+    url: ''
+  Silva-Mariana-Aguiar:
+    individualname: Silva, Mariana Aguiar
+    role: creator
+    organization: "Universidade Federal de Goi\xE1s, Escola de Agronomia, Goi\xE2\
+      nia, Brazil"
+    url: ''
+content_info: {}

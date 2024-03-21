@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Epelde_Sierra_2020
+  dataseturi: https://doi.org/10.7818/ECOS.1881
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Variables affecting the diversity of soil organisms in green areas of the\
+    \ city of Donostia-San Sebasti\xE1n"
+  abstract: '&lt;p&gt;Urban green areas are suitable habitats for conserving soil
+    biodiversity. The biota of urban soil performs a set of functions and associated
+    ecosystem services of enormous importance. Unfortunately, the knowledge we currently
+    have about soil organisms in urban environments is still very limited. The aim
+    of this study was to identify those abiotic and biotic variables that have the
+    greatest influence on the soil biodiversity of urban green areas. To this aim,
+    thirty-eight urban green areas with different sizes, level of isolation (i.e.,
+    habitat fragmentation), soil physicochemical properties and type of vegetation
+    were sampled in the city of Donostia-San Sebasti&aacute;n (Spain) to measure the
+    diversity and composition of macrofauna, mesofauna and microorganisms (i.e., bacterial
+    communities). Variables related to the soil carbon content and habitat fragmentation
+    significantly explained the diversity and composition of soil organisms in the
+    studied urban green areas. Even so, the percentage of the variance explained by
+    these two variables was very low. Understanding the ecological processes in urban
+    environments will be helpful for the design and management of urban green areas
+    to promote conservation of the biodiversity of multiple taxonomic groups in urban
+    soil. &copy; 2020 Asociacion Espanola de Ecologia Terrestre. All rights reserved.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - Carbon
+      - Fragmentation
+      - Macrofauna
+      - Mesofauna
+      - Microorganisms
+      - Urban green spaces
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Variables affecting the diversity of soil organisms in green areas of the\
+      \ city of Donostia-San Sebasti\xE1n"
+    url: http://dx.doi.org/10.7818/ECOS.1881
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Epelde-Lur:
+    individualname: Epelde, Lur
+    role: creator
+  Salazar-Oihane:
+    individualname: Salazar, Oihane
+    role: creator
+  Martin-Iker:
+    individualname: "Mart\xEDn, Iker"
+    role: creator
+  Garbisu-Crespo-Carlos:
+    individualname: Garbisu Crespo, Carlos
+    role: creator
+  Epelde-Sierra-Lur:
+    individualname: Epelde Sierra, Lur
+    role: creator
+  Garbisu-Carlos:
+    individualname: Garbisu, Carlos
+    role: creator
+  Asociacion-Espanola-de-Ecologia-Terrestre-AEET:
+    individualname: Asociacion Espanola de Ecologia Terrestre (AEET)
+    role: creator
+content_info: {}

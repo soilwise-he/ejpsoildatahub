@@ -1,0 +1,104 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.8113028
+  dataseturi: https://doi.org/10.5281/zenodo.8113028
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Crop diversification effects on soil organic carbon and nitrogen 1 storage
+    and 2 stabilization is mediated by soil management practices in semiarid woody
+    crops
+  abstract: Research paper on soil organic carbon and nitrogen storage and stabilization
+    mechanisms under different crop diversification practices in semiarid rainfed
+    and irrigated woody crops
+  keywords:
+    default:
+      keywords:
+        subject: Inter-cropping; crop rotations; soil aggregates; soil organic carbon
+          and nitrogen pools; organic carbon mineralization; climate change mitigation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2023-07-04'
+    publication: '2023'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.8113028
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.8113027
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Maria-Almagro:
+    individualname: "Mar\xEDa Almagro"
+    role: creator
+  Paula-Re:
+    individualname: Paula Re
+    role: creator
+  Elvira-Diaz-Pereira:
+    individualname: "Elvira D\xEDaz-Pereira"
+    role: creator
+  Carolina-Boix-Fayos:
+    individualname: Carolina Boix-Fayos
+    role: creator
+  Virginia-Sanchez-Navarro:
+    individualname: "Virginia S\xE1nchez-Navarro"
+    role: creator
+  Raul-Zornoza:
+    individualname: "Ra\xFAl Zornoza"
+    role: creator
+  Maria-Martinez-Mena:
+    individualname: "Mar\xEDa Mart\xEDnez-Mena"
+    role: creator
+  Almagro-Maria:
+    individualname: "Almagro, Mar\xEDa"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Re-Paula:
+    individualname: Re, Paula
+    role: ''
+    organization: INTA
+    url: ''
+  Diaz-Pereira-Elvira:
+    individualname: "D\xEDaz-Pereira, Elvira"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Boix-Fayos-Carolina:
+    individualname: Boix-Fayos, Carolina
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+  Sanchez-Navarro-Virginia:
+    individualname: "S\xE1nchez-Navarro, Virginia"
+    role: ''
+    organization: UPTC
+    url: ''
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: ''
+    organization: UPTC
+    url: ''
+  Martinez-Mena-Maria:
+    individualname: "Mart\xEDnez-Mena, Mar\xEDa"
+    role: ''
+    organization: CEBAS-CSIC
+    url: ''
+content_info: {}

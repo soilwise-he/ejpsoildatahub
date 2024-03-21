@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cho_2024
+  dataseturi: https://doi.org/10.3897/natureconservation.55.113483
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Environmental characteristics, including soil and vegetation composition,
+    in relation to the occurrence patterns of an endangered lizard, Eremias argus,
+    in a fluvial island, South Korea
+  abstract: "&lt;p&gt;      &lt;i&gt;Eremias argus&lt;/i&gt;, known as the Mongolian\
+    \ racerunner, is a reptile that has been designated as a level II endangered species\
+    \ in South Korea since 2005 despite being listed as \"Least Concern\" by the International\
+    \ Union for Conservation of Nature. Particular vegetation and soil characteristics\
+    \ are critical components of the habitat of &lt;i&gt;E. argus&lt;/i&gt;, which\
+    \ is an ectotherm. However, research on the environmental characteristics of &lt;i&gt;E.\
+    \ argus&lt;/i&gt; living on a fluvial island is lacking. This study sought to\
+    \ characterize the soil environmental factors and vegetation composition of &lt;i&gt;E.\
+    \ argus&lt;/i&gt; habitats on Doriseom Island, South Korea by dividing the island\
+    \ into an area in which &lt;i&gt;E. argus&lt;/i&gt; occurred frequently (F zone)\
+    \ and an area in which &lt;i&gt;E. argus&lt;/i&gt; occurred rarely (R zone). Both\
+    \ soil hardness and cobble cover were significantly higher in the R zone (soil\
+    \ hardness: 1.6 \xB1 0.2 kg\u2027cm-2, mean \xB1 standard error; cobble cover:\
+    \ 40 \xB1 5%) than in the F zone (soil hardness: 0.9 \xB1 0.1 kg\u2027cm-2; cobble\
+    \ cover: 18 \xB1 3%). Plant litter cover did not differ significantly based on\
+    \ &lt;i&gt;E. argus&lt;/i&gt; occurrence. The vegetation composition within F\
+    \ and R zones appeared distinct, though &lt;i&gt;Coreopsis lanceolata&lt;/i&gt;\
+    \ dominated both zones. A sand dune sedge, &lt;i&gt;Carex pumila&lt;/i&gt;, thrived\
+    \ in F zone sites, where soil hardness was low, while the endemic &lt;i&gt;Aster\
+    \ danyangensis&lt;/i&gt;, which prefers cobble areas, was found largely in the\
+    \ R zone. In conclusion, &lt;i&gt;E. argus&lt;/i&gt; was most commonly found in\
+    \ areas with low soil hardness dominated by dune vegetation. Understanding endangered\
+    \ species' habitat requirements can provide important clues for establishing conservation\
+    \ plans and restoration measures.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords:
+      - Biota
+      - Animalia
+      - Chordata
+      - Vertebrata
+      - Gnathostomata
+      - Osteichthyes
+      - Sarcopterygii
+      - Tetrapoda
+      - Amniota
+      - Squamata
+      - Lacertoidea
+      - Lacertidae
+      - Eremias
+      - Eremias argus
+      - Cobble cover
+      - conservation
+      - Mongolian racerunner
+      - reptile
+      - soil hardness
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Environmental characteristics, including soil and vegetation composition,
+      in relation to the occurrence patterns of an endangered lizard, Eremias argus,
+      in a fluvial island, South Korea
+    url: http://dx.doi.org/10.3897/natureconservation.55.113483
+    type: www
+contact:
+  Pensoft-Publishers:
+    individualname: Pensoft Publishers
+    role: creator
+  Cho-Eunhee:
+    individualname: Cho, Eunhee
+    role: creator
+  Son-Deokjoo:
+    individualname: Son, Deokjoo
+    role: creator
+content_info: {}

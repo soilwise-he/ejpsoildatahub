@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1097283
+  dataseturi: https://doi.org/10.5281/zenodo.1097283
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Laboratory Testing Regime For Quantifying Soil Collapsibility
+  abstract: "Collapsible soils go through radical rearrangement of<br>\ntheir particles\
+    \ when triggered by water, stress or/and vibration,<br>\ncausing loss of volume.\
+    \ This loss of volume in soil as seen in<br>\nfoundation failures has caused millions\
+    \ of dollars\u2019 worth of damages<br>\nto public facilities and infrastructure\
+    \ and so has an adverse effect on<br>\nthe society and people. Despite these consequences\
+    \ and the several<br>\nstudies that are available, more research is still required\
+    \ in the study<br>\nof soil collapsibility. Discerning the pedogenesis (formation)\
+    \ of soils<br>\nand investigating the combined effects of the different geological\
+    \ soil<br>\nproperties is key to elucidating and quantifying soils collapsibility.<br>\n\
+    This study presents a novel laboratory testing regime that would be<br>\nundertaken\
+    \ on soil samples where the effects of soil type, compactive<br>\nvariables (moisture\
+    \ content, density, void ratio, degree of saturation)<br>\nand loading are analyzed.\
+    \ It is anticipated that results obtained would<br>\nbe useful in mapping the\
+    \ trend of the combined effect thus the basis<br>\nfor evaluating soil collapsibility\
+    \ or collapse potentials encountered in<br>\nconstruction with volume loss problems\
+    \ attributed to collapse."
+  keywords:
+    default:
+      keywords:
+        subject: Soil test.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2014-11-04'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1097283
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1097282
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Anne-C.-Okwedadi:
+    individualname: Anne C. Okwedadi
+    role: creator
+  Samson-Ng'ambi:
+    individualname: Samson Ng'ambi
+    role: creator
+  Ian-Jefferson:
+    individualname: Ian Jefferson
+    role: creator
+  Okwedadi-Anne-C.:
+    individualname: Okwedadi, Anne C.
+    role: ''
+    organization: ''
+    url: ''
+  Ng'ambi-Samson:
+    individualname: Ng'ambi, Samson
+    role: ''
+    organization: ''
+    url: ''
+  Jefferson-Ian:
+    individualname: Jefferson, Ian
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

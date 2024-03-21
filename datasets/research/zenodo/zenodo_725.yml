@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2553445
+  dataseturi: https://doi.org/10.5281/zenodo.2553445
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Book
+identification:
+  title: Handbook of plant and soil analysis for agricultural systems
+  abstract: 'This books compiles different protocols for analysis of plant and soil
+    for agricultural systems. We aim to provide a complete set of indicators to assess
+    crop productivity, crop quality, soil quality and soil fertility with feasible
+    and robust procedures and methods. The assessment of the sustainability of agroecosystems
+    needs the selection of suitable indicators and their measure. The present handbook
+    has compiled different indicators to assess crop growth, incidence of pests and
+    diseases, farm yield, crop quality and nutritional characteristics, soil physical
+    analyses, soil chemical analyses and soil biological analyses. The book is organized
+    in three parts: i) plant and crop analyses, ii) soil physicochemical analyses
+    and iii) soil biological analyses. In total we provide 90 procedures for plant
+    and soil analysis, including the importance and applications, the principle of
+    the method described, the reagents needed, the materials and equipment, the detailed
+    description of the procedure, the calculations required and some specific remarks.'
+  keywords:
+    default:
+      keywords:
+        subject: indicator
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-01-30'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2553445
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2553444
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jorge-Alvaro-Fuentes:
+    individualname: "Jorge \xC1lvaro-Fuentes"
+    role: creator
+  Denes-Loczy:
+    individualname: "D\xE9nes L\xF3czy"
+    role: creator
+  Soren-Thiele-Bruhn:
+    individualname: "S\xF6ren Thiele-Bruhn"
+    role: creator
+  Raul-Zornoza:
+    individualname: "Ra\xFAl Zornoza"
+    role: creator
+  Alvaro-Fuentes-Jorge:
+    individualname: "\xC1lvaro-Fuentes, Jorge"
+    role: ''
+    organization: "Consejo Superior de Investigaciones Cient\xEDficas - CSIC"
+    url: https://orcid.org/0000-0002-0192-7954
+  Loczy-Denes:
+    individualname: "L\xF3czy, D\xE9nes"
+    role: ''
+    organization: "University of P\xE9cs"
+    url: https://orcid.org/0000-0002-2542-6775
+  Thiele-Bruhn-Soren:
+    individualname: "Thiele-Bruhn, S\xF6ren"
+    role: ''
+    organization: "Trier Universit\xE4t"
+    url: https://orcid.org/0000-0003-2721-7333
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: ''
+    organization: "Universidad Polit\xE9cnica de Cartagena"
+    url: https://orcid.org/0000-0001-7291-5742
+content_info: {}

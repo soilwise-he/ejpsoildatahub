@@ -1,0 +1,63 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2574515
+  dataseturi: https://doi.org/10.5281/zenodo.2574515
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: EFFECT OF SOIL STRUCTURE INTERACTION ON SELF-SUPPORTING AND GUYED CHIMNEY
+  abstract: In the present study, 72m tall self-supporting and guyed chimneys are
+    analysed for earthquake and wind loads considering three different soil conditions
+    using SAP2000. Earthquake analysis is performed as per IS 1893-2016 and wind analysis
+    is done as per IS 875(Part 3)-2015. Three methods, i.e., Seismic coefficient method,
+    Response spectrum method &amp; time history method are used for the seismic analysis.
+    The response of chimney is derived in the form of displacement and base shear
+    for different soil conditions. From the study, it is concluded that underlying
+    soil plays important role on dynamic behaviour of tall self-supporting and guyed
+    chimneys.
+  keywords:
+    default:
+      keywords:
+        subject: Environment pollution, Self-supporting chimney, Guyed chimney, Soil
+          structure interaction, Lateral displacement.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2019-02-21'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2574515
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2574514
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Parth-Modi*1-V.-R.-Panchal2--H.-J.-Shah3:
+    individualname: Parth Modi*1, V. R. Panchal2 & H. J. Shah3
+    role: creator
+    organization: '*1Post Graduate student (Structural Engineering), M. S. Patel Department
+      of Civil Engineering, Chandubhai S. Patel Institute of Technology, Charotar
+      University of Science and Technology, Changa, Gujarat, India 2Professor and
+      Head, M. S. Patel Department of Civil Engineering, Chandubhai S. Patel Institute
+      of Technology,  Charotar University of Science and Technology, Changa, Gujarat,
+      India 3Assistant Professor, Government Engineering College, Bharuch, Gujarat,
+      India'
+    url: ''
+content_info: {}

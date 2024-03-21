@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.25674-so94iss1id181
+  dataseturi: https://doi.org/10.25674/so94iss1id181
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: 'BODENTIERhoch4: A new citizen science tool for the determination and monitoring
+    of soil organisms'
+  abstract: 'Neu, Anika, Allspach, Andreas, Baber, Kristin, Decker, Peter, Xylander,
+    Willi E. R. (2022): BODENTIERhoch4: A new citizen science tool for the determination
+    and monitoring of soil organisms. Soil Organisms 94 (1): 29-39, DOI: 10.25674/so94iss1id181,
+    URL: http://dx.doi.org/10.25674/so94iss1id181'
+  keywords:
+    default:
+      keywords:
+      - Biodiversity
+      - Taxonomy
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.25674/so94iss1id181
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Neu-Anika:
+    individualname: Neu, Anika
+    role: creator
+    organization: ''
+    url: ''
+  Allspach-Andreas:
+    individualname: Allspach, Andreas
+    role: creator
+    organization: ''
+    url: ''
+  Baber-Kristin:
+    individualname: Baber, Kristin
+    role: creator
+    organization: ''
+    url: ''
+  Decker-Peter:
+    individualname: Decker, Peter
+    role: creator
+    organization: ''
+    url: ''
+  Xylander-Willi-E.-R.:
+    individualname: Xylander, Willi E. R.
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

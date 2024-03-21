@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1058685
+  dataseturi: https://doi.org/10.5281/zenodo.1058685
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Prediction Of Phenolic Compound Migration Process Through Soil Media Using
+    Artificial Neural Network Approach
+  abstract: 'This study presents the application of artificial
+
+    neural network for modeling the phenolic compound
+
+    migration through vertical soil column. A three layered feed
+
+    forward neural network with back propagation training
+
+    algorithm was developed using forty eight experimental data
+
+    sets obtained from laboratory fixed bed vertical column tests.
+
+    The input parameters used in the model were the influent
+
+    concentration of phenol(mg/L) on the top end of the soil
+
+    column, depth of the soil column (cm), elapsed time after
+
+    phenol injection (hr), percentage of clay (%), percentage of
+
+    silt (%) in soils. The output of the ANN was the effluent
+
+    phenol concentration (mg/L) from the bottom end of the soil
+
+    columns. The ANN predicted results were compared with the
+
+    experimental results of the laboratory tests and the accuracy of
+
+    the ANN model was evaluated.'
+  keywords:
+    default:
+      keywords:
+        subject: Soil media
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2011-03-20'
+    publication: '2011'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1058685
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1058684
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Supriya-Pal:
+    individualname: Supriya Pal
+    role: creator
+    organization: ''
+    url: ''
+  Kalyan-Adhikari:
+    individualname: Kalyan Adhikari
+    role: creator
+  Somnath-Mukherjee:
+    individualname: Somnath Mukherjee
+    role: creator
+  Sudipta-Ghosh:
+    individualname: Sudipta Ghosh
+    role: creator
+  Adhikari-Kalyan:
+    individualname: Adhikari, Kalyan
+    role: ''
+    organization: ''
+    url: ''
+  Mukherjee-Somnath:
+    individualname: Mukherjee, Somnath
+    role: ''
+    organization: ''
+    url: ''
+  Ghosh-Sudipta:
+    individualname: Ghosh, Sudipta
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

@@ -1,0 +1,43 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: BURGESS_1918
+  dataseturi: https://doi.org/10.1097/00010694-191812000-00004
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: CAN WE PREDICT PROBABLE FERTILITY FROM SOIL BIOLOGICAL DATA?
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: CAN WE PREDICT PROBABLE FERTILITY FROM SOIL BIOLOGICAL DATA?
+    url: http://dx.doi.org/10.1097/00010694-191812000-00004
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Burgess-P.-S.:
+    individualname: Burgess, P. S.
+    role: creator
+  BURGESS-P.-S.:
+    individualname: BURGESS, P. S.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

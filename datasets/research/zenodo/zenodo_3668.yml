@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3268575
+  dataseturi: https://doi.org/10.5281/zenodo.3268575
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Utilization of Glass Cullet As an Admixture to Cement Stabilized Black Cotton
+    Soil
+  abstract: Expansive soils such as black cotton soil (BCS) are a serious challenge
+    in engineering construction owing to their heaving and shrinkage behaviour. Many
+    techniques are used around the world to improve their engineering properties among
+    which are soil modification and stabilization. This paper presents the efficacy
+    of glass cullet (GC) when used in a mixture with cement for stabilization of BCS.
+    Laboratory tests were conducted in accordance with the British Standards BS 1924-2:1990
+    on the BCS treated with 0, 2, 4, 6, and 8% ordinary Portland cement (OPC) as well
+    as 0, 5, 10, 15 and 20% GC. The soil is categorised as A-7-5(17) based on the
+    American Association of State Highway and Transportation Officials and CH agreeing
+    to the Cohesive Soil Classification Scheme. Unconfined compressive strength and
+    California Bearing Ratio tests were conducted using the British Standard Light
+    (BSL) and British Standard Heavy (BSH) compactive efforts. The curing periods
+    used were 7, 14, and 28 days. There was a significant improvement on the engineering
+    properties of the soil. There was a decrease in plasticity characteristics and
+    an increase in maximum dry density with increasing GC content for all cement proportions
+    used and also for GC alone. The maximum UCS values of 1152 kN/m2 and 1568 kN/m2
+    for BSL and BSH were respectively obtained after 7 days curing. These are, however,
+    much lower than the recommended value of 1720 kN/m2 for base course by the Nigerian
+    General Specification (1997). The maximum CBR values of 53.8% and 63% were obtained
+    for BSL and BSH compactive efforts corresponding to the blend containing 8% OPC
+    and 5% GC. More importantly, with an 8% OPC content, all samples containing GC
+    from 5% to 20% satisfied the sub-base requirements by the above specifications.
+    The Specification of 30% CBR criterion for sub-base was achieved. BCS treated
+    partially with OPC and GC within that range is therefore recommended for use as
+    sub-base and subgrade materials for road pavement construction.
+  keywords:
+    default:
+      keywords:
+        subject: http://matjournals.com/Engineering-Journals.html
+        subjectScheme: url
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2019-07-04'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3268575
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3268574
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  R.-B.-Shuaibu:
+    individualname: R. B. Shuaibu
+    role: creator
+    organization: ''
+    url: ''
+  A.-Y.-Abdulfatah:
+    individualname: A. Y. Abdulfatah
+    role: creator
+    organization: ''
+    url: ''
+  U.-H.-Rawayau:
+    individualname: U. H. Rawayau
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

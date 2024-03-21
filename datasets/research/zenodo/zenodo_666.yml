@@ -1,0 +1,81 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7451446
+  dataseturi: https://doi.org/10.5281/zenodo.7451446
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Effectiveness of Different Chemicals on Stabilization of Expansive Soil
+  abstract: Significant damage and distortions in the supporting structures are caused
+    due to the volume fluctuation resulting from the moisture change of the expansive
+    soil. To achieve the post-construction stability standards, sufficient performance
+    improvement of expansive soil is necessary. Chemical soil stabilization is one
+    of the preferred methods utilized across the world. The efficiency of several
+    chemical stabilizers (e.g., lime, fly ash, BaCl2, CaCl2, and MgCl2) in enhancing
+    the engineering properties of expansive soils are examined in this work considering
+    the Atterberg limit test and the unconfined compressive strength test. The liquid
+    limit of the expansive soil rises as the stabilizer content increase. However,
+    when CaCl2 levels increases, the liquid limit of the expansive soil decreases.
+    A maximum increment of the liquid limit of the soil sample is observed for 2%
+    lime addition. However, the liquid limit decreases when the lime or fly ash content
+    of the soil sample exceeds 5 to 6%. Soil plastic limit normally increases with
+    lime or fly ash addition (up to 5%) and reduces with salt content inclusion. Unconfined
+    compressive strength of the expansive soil increases with increase in stabilizer
+    contents. The expansive soil sample's unconfined compressive strength increases
+    as the stabilizer content increases.
+  keywords:
+    default:
+      keywords:
+        subject: Expansive soil, Stabilization, chemical stabilizer, salt stabilizer,
+          unconfined compressive strength, plasticity index.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-12-17'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7451446
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7451445
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Nusrat-Jahan:
+    individualname: Nusrat Jahan
+    role: creator
+  Tarikul-Islam:
+    individualname: Tarikul Islam
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+  Shafiqul-Islam:
+    individualname: Shafiqul Islam
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, Ahsanullah
+      University of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+  Jahan-Nusrat:
+    individualname: Jahan, Nusrat
+    role: ''
+    organization: Lecturer, Department of Civil Engineering, Ahsanullah University
+      of Science and Technology, Dhaka, Bangladesh.
+    url: ''
+content_info: {}

@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cuartero_2022
+  dataseturi: https://doi.org/10.3390/agronomy12020316
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Long-Term Compost Amendment Changes Interactions and Specialization in the
+    Soil Bacterial Community, Increasing the Presence of Beneficial N-Cycling Genes
+    in the Soil
+  abstract: '&lt;p&gt;Significant differences in the microbial community and diversity
+    in soil have been observed due to organic farming, but little research has been
+    performed for exploring microbial functionality and the co-occurrence of patterns
+    among microbial taxa. In this work, we study soil 16S rDNA amplicons from two
+    long-term organic farming systems (Org_C and Org_M) and a conventional system
+    (Conv) to decipher the differences in microbial interaction and network organization
+    and to predict functional genes (principally related to the N cycle). In general,
+    the network organizations were different in all cropping systems due to agricultural
+    management. Org_C showed the highest negative interactions and modularity and
+    the most altered bacterial niches and interactions, which led to an increase in
+    generalist species that stabilize the bacterial community and improve the response
+    of the soil to adverse conditions. These changes altered the predicted functionality
+    of the bacterial community; Org_C showed higher referred numbers of nitrogen fixation
+    genes, a decrease in the N&lt;sub&gt;2&lt;/sub&gt;O emission genes and could favor
+    the uptake of environmental CO&lt;sub&gt;2&lt;/sub&gt;. Thus, long-term compost
+    amendment application has significant benefits for the farmer and the environment,
+    since prolonged application can reduce the use of fertilizers and pesticides and
+    could create a more stable soil, which could resist the effects of climate change.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Long-Term Compost Amendment Changes Interactions and Specialization in the
+      Soil Bacterial Community, Increasing the Presence of Beneficial N-Cycling Genes
+      in the Soil
+    url: http://dx.doi.org/10.3390/agronomy12020316
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Cuartero-Jessica:
+    individualname: Cuartero, Jessica
+    role: creator
+  Ozbolat-Onurcan:
+    individualname: "\xD6zbolat, Onurcan"
+    role: creator
+  Sanchez-Navarro-Virginia:
+    individualname: "S\xE1nchez-Navarro, Virginia"
+    role: creator
+  Weiss-Julia:
+    individualname: Weiss, Julia
+    role: creator
+  Zornoza-Raul:
+    individualname: "Zornoza, Ra\xFAl"
+    role: creator
+  Pascual-Jose-Antonio:
+    individualname: "Pascual, Jos\xE9 Antonio"
+    role: creator
+  Vivo-Juana-Maria:
+    individualname: "Vivo, Juana-Mar\xEDa"
+    role: creator
+  Ros-Margarita:
+    individualname: Ros, Margarita
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

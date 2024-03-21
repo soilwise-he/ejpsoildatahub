@@ -1,0 +1,59 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Adamczyk_2023
+  dataseturi: https://doi.org/10.1111/nph.19450
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "A step forward in fungal biomass estimation \u2013 a new protocol for more\
+    \ precise measurements of soil ergosterol with liquid chromatography\u2010mass\
+    \ spectrometry and comparison of extraction methods"
+  abstract: "&lt;p&gt;Significant differences between ergosterol protocols and their\
+    \ yield call for harmonization of methodologies. We propose an extraction protocol\
+    \ with KOH in methanol with cyclohexane for liquid\u2013liquid extraction. The\
+    \ novel LC\u2013MS method proved to be superior to the HPLC-UV method for soil\
+    \ samples because of the higher quality of the peaks and the possibility of following\
+    \ peak purity. Moreover, the LC\u2013MS method has 10 times lower detection limit\
+    \ than that of HPLC-UV.&lt;/p&gt;"
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "A step forward in fungal biomass estimation \u2013 a new protocol for more\
+      \ precise measurements of soil ergosterol with liquid chromatography\u2010mass\
+      \ spectrometry and comparison of extraction methods"
+    url: http://dx.doi.org/10.1111/nph.19450
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Adamczyk-Sylwia:
+    individualname: Adamczyk, Sylwia
+    role: creator
+  Lehtonen-Aleksi:
+    individualname: Lehtonen, Aleksi
+    role: creator
+  Makipaa-Raisa:
+    individualname: "M\xE4kip\xE4\xE4, Raisa"
+    role: creator
+  Adamczyk-Bartosz:
+    individualname: Adamczyk, Bartosz
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+content_info: {}

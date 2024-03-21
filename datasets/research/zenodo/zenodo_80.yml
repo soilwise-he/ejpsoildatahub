@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hackett_1922
+  dataseturi: https://doi.org/10.1039/tf9221700268
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Discussion on \u201Csoil moisture\u201D"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Discussion on \u201Csoil moisture\u201D"
+    url: http://dx.doi.org/10.1039/tf9221700268
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hackett-F.-E.:
+    individualname: Hackett, F. E.
+    role: creator
+  Keen:
+    individualname: Keen,
+    role: creator
+  Wilsdon-B.-H.:
+    individualname: Wilsdon, B. H.
+    role: creator
+  Rawlins-F.-Ian-G.:
+    individualname: Rawlins, F. Ian G.
+    role: creator
+  Keen-Keen:
+    individualname: Keen, Keen
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

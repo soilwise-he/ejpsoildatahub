@@ -1,0 +1,85 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.3381468
+  dataseturi: https://doi.org/10.5281/zenodo.3381468
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Mulching effects on soil microbial, physicochemical properties and performance
+    of cowpea on coastal plain sand
+  abstract: 'The presence of residue mulches in farm has been known to effectively
+    save the soil surface, prevent soil erosion on slopes, helps reduce soil moisture
+    loss through evaporation, and insulates soil, protect roots from extreme temperatures,
+    improve soil biology, aeration, aggregation of soil particles and reduce drainage
+    over time, improve soil fertility as certain mulch types decompose, inhibits certain
+    plant diseases, reduces the likelihood of tree damage from "weed whackers" or
+    the dreaded "lawn mower blight", give planting beds a uniform and provide favorable
+    preservation of ecological stability. This experiment was conducted in the Teaching
+    and Research Farm of Akwa Ibom State University, Obio Akpa Campus to assess the
+    effect of sawdust, pulverized palm bunch and <em>Calopogonium mucunoides</em>
+    leaves<strong> </strong>mulches effects on soil microbial, physicochemical properties
+    and performance of white dwarf cowpea (<em>Vigna unguiculata</em>) on coastal
+    plain sand of Southern Nigeria. Results showed that soil mulched with <em>Calopogonium
+    mucunoides</em> leaves<em> </em>recorded the highest in the following parameters
+    measured: pH of 6.45, organic carbon (5.16%), nitrogen (2.26%), ECEC of 11.35
+    cmol, available phosphorus of 323 mg kg<sup>-1</sup>, base saturation (91.11%),
+    100% seed emergence and leaf area. The highest moisture content of 35% was obtained
+    in the sawdust mulched soil. The highest peas moisture content (5.63%), crude
+    fiber (3.91), lipid (4.71), total ash (4.82) and carbohydrates (61.88%) were obtained
+    in the soil mulched with<em> Calopogonium mucunoides </em>while highest bacterial
+    counts of 37x10<sup>5</sup> cfu g<sup>-1</sup> soil and the fungi counts (51x10<sup>3</sup>
+    cfu g<sup>-1</sup> soil). The studied soil contained more than 70% sand. The soil
+    is described as sandy loam which gives rise to Typic Paludult, characteristics
+    of soil derived from coastal plain sand.'
+  keywords:
+    default:
+      keywords:
+        subject: 'Keywords: Bean, Calopogonium mucunoides, and Paludult'
+  status: ''
+  language: ang
+  dates:
+    creation: ''
+    issued: '2019-08-29'
+    publication: '2019'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.3381468
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.3381467
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Etukudoh-N.-E.:
+    individualname: Etukudoh, N. E.,
+    role: creator
+    organization: Akwa Ibom State University, Department of Soil Science, Faculty
+      of Agriculture, Obio Akpa, Oruk Anam LGA, Akwa Ibom State, Nigeria.
+    url: ''
+  Gbarabe-Roland:
+    individualname: Gbarabe Roland
+    role: creator
+    organization: Department of Agric. Economic and Extension, North West University,
+      Mafikeng Campus South Africa.
+    url: ''
+  Payou-Tugwell-Ogboin:
+    individualname: Payou Tugwell Ogboin
+    role: creator
+    organization: Department of Agronomy (Crop Science), North West University, Mafikeng
+      Campus South Africa.
+    url: ''
+content_info: {}

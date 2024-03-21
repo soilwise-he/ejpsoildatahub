@@ -1,0 +1,71 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mirmazloumi_2020
+  dataseturi: https://doi.org/10.1080/01431161.2020.1847353
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: New empirical backscattering models for estimating bare soil surface parameters
+  abstract:
+  - '&lt;p&gt;Various models have been proposed to estimate the degree of backscatter
+    in Synthetic Aperture Radar (SAR) images. However, it is still necessary to calibrate
+    these models based on the characteristics of different study areas and to propose
+    new models to achieve the highest possible accuracy in estimating the backscattering
+    coefficient (&sigma;0) SAR. In this study, three empirical models, including Champion,
+    Sahebi and Zribi/Dechambre, were initially calibrated for two SAR datasets (i.e.
+    The Airborne Synthetic Aperture Radar (AIRSAR) and Canadian Space Agency radar
+    satellite (RADARSAT-1)) acquired over two bare soil study areas with various soil
+    characteristics. The Zribi/Dechambre model was then modified by revising the roughness
+    parameter to obtain higher accuracy in estimating &sigma;0 over a larger range
+    of incidence angles (&theta;). A new empirical model was also proposed by combining
+    the four parameters of Soil Moisture (SM), standard deviation of surface height
+    -root mean square- (rms), correlation length (l), and &theta;. To this end, the
+    most appropriate form of the regression model was investigated and used for each
+    of these parameters to obtain the highest correlation between the in-situ data
+    and &sigma;0 values. A comparison of the empirical models showed that the modified
+    Zribi/Dechambre had the highest accuracy in predicting &sigma;0 values with the
+    Root Mean Square Errors (RMSE) of 1.20 dB and 1.59 dB over Oklahoma and Quebec,
+    respectively. Furthermore, coefficients values of the new proposed model remained
+    stable in the two datasets unlike the other investigated models. In this study,
+    the effects of l on the accuracy of the new proposed model were also assessed.
+    It was concluded that l had a considerable impact on the accuracy of the proposed
+    model and including this parameter can improve the accuracy by up to 1 dB.&lt;/p&gt;'
+  - NO ACK.
+  keywords:
+    default:
+      keywords:
+      - NO KEYWORDS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: New empirical backscattering models for estimating bare soil surface parameters
+    url: http://dx.doi.org/10.1080/01431161.2020.1847353
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Mirmazloumi-S.-Mohammad:
+    individualname: Mirmazloumi, S. Mohammad
+    role: creator
+  Sahebi-Mahmod-Reza:
+    individualname: Sahebi, Mahmod Reza
+    role: creator
+  Amani-Meisam:
+    individualname: Amani, Meisam
+    role: creator
+  Informa-UK-Limited:
+    individualname: Informa UK Limited
+    role: creator
+content_info: {}

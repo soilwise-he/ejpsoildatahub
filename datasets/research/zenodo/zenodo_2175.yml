@@ -1,0 +1,106 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Alexandridis_2016
+  dataseturi: https://doi.org/10.3390/w8010032
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Spatial and Temporal Distribution of Soil Moisture at the Catchment Scale
+    Using Remotely-Sensed Energy Fluxes
+  abstract: '&lt;p&gt;Despite playing a critical role in the division of precipitation
+    between runoff and infiltration, soil moisture (SM) is difficult to estimate at
+    the catchment scale and at frequent time steps, as is required by many hydrological,
+    erosion and flood simulation models. In this work, an integrated methodology is
+    described to estimate SM at the root zone, based on the remotely-sensed evaporative
+    fraction (&Lambda;) and ancillary information on soil and meteorology. A time
+    series of Terra MODIS satellite images was used to estimate SM maps with an eight-day
+    time step at a 250-m spatial resolution for three diverse catchments in Europe.
+    The study of the resulting SM maps shows that their spatial variability follows
+    the pattern of land cover types and the main geomorphological features of the
+    catchment, and their temporal pattern follows the distribution of rain events,
+    with the exception of irrigated land. Field surveys provided &lt;em&gt;in situ&lt;/em&gt;
+    measurements to validate the SM maps&rsquo; accuracy, which proved to be variable
+    according to site and season. In addition, several factors were analyzed in order
+    to explain the variation in the accuracy, and it was shown that the land cover
+    type, the soil texture class, the temporal difference between the datasets&rsquo;
+    acquisition and the presence of rain events during the measurements played a significant
+    role, rather than the often referred to scale difference between &lt;em&gt;in
+    situ&lt;/em&gt; and satellite observations. Therefore, the proposed methodology
+    can be used operationally to estimate SM maps at the catchment scale, with a 250-m
+    spatial resolution and an eight-day time step.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords:
+      - soil water content
+      - river basin
+      - remote sensing
+      - thermal infrared
+      - MODIS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Spatial and Temporal Distribution of Soil Moisture at the Catchment Scale
+      Using Remotely-Sensed Energy Fluxes
+    url: http://dx.doi.org/10.3390/w8010032
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Thomas-Alexandridis:
+    individualname: Thomas Alexandridis
+    role: creator
+  Ines-Cherif:
+    individualname: Ines Cherif
+    role: creator
+  George-Bilas:
+    individualname: George Bilas
+    role: creator
+  Waldenio-G.-Almeida:
+    individualname: Waldenio G. Almeida
+    role: creator
+  Isnaeni-M.-Hartanto:
+    individualname: Isnaeni M. Hartanto
+    role: creator
+  Schalk-Jan-van-Andel:
+    individualname: Schalk Jan van Andel
+    role: creator
+  Antonio-Araujo:
+    individualname: Antonio Araujo
+    role: creator
+  Alexandridis-Thomas:
+    individualname: Alexandridis, Thomas
+    role: creator
+  Cherif-Ines:
+    individualname: Cherif, Ines
+    role: creator
+  Bilas-George:
+    individualname: Bilas, George
+    role: creator
+  Almeida-Waldenio:
+    individualname: Almeida, Waldenio
+    role: creator
+  Hartanto-Isnaeni:
+    individualname: Hartanto, Isnaeni
+    role: creator
+  van-Andel-Schalk:
+    individualname: van Andel, Schalk
+    role: creator
+  Araujo-Antonio:
+    individualname: Araujo, Antonio
+    role: creator
+  MDPI-AG:
+    individualname: MDPI AG
+    role: creator
+content_info: {}

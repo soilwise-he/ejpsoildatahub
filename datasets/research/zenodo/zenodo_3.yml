@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Keen_1922
+  dataseturi: https://doi.org/10.1039/tf9221700228
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Section II.\u2014Papers and discussion on \u201Csoil moisture\u201D. The\
+    \ system soil-soil moisture"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Section II.\u2014Papers and discussion on \u201Csoil moisture\u201D. The\
+      \ system soil-soil moisture"
+    url: http://dx.doi.org/10.1039/tf9221700228
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Keen-Bernard-A.:
+    individualname: Keen, Bernard A.
+    role: creator
+  Royal-Society-of-Chemistry-RSC:
+    individualname: Royal Society of Chemistry (RSC)
+    role: creator
+content_info: {}

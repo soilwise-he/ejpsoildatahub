@@ -1,0 +1,120 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.5763678
+  dataseturi: https://doi.org/10.5281/zenodo.5763678
+  datestamp: ''
+  hierarchylevel: preprint
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Complete genome sequence of Bacillus velezensis L194 strain isolated from
+    soil in Tunisia
+  abstract: The whole genome shotgun sequence of a soil-borne <em>Bacillus velenzensis</em>
+    strain L194 known as a biological control agent is presented in this study. The
+    genome sequence of this strain enhances current genomics resources of <em>Bacillus</em>
+    species and gives insights to genes required for their mechanisms of action.
+  keywords:
+    default:
+      keywords:
+        subject: Bacillus velenzensis , Biological Control, genome
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2021-12-07'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.5763678
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.5763677
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Imen-BEN-SLIMENE:
+    individualname: Imen BEN SLIMENE
+    role: creator
+  Manel-CHAOUACHI:
+    individualname: Manel CHAOUACHI
+    role: creator
+  Takwa-MARZOUK:
+    individualname: Takwa MARZOUK
+    role: creator
+  Bilel-KHIARI:
+    individualname: Bilel KHIARI
+    role: creator
+  Amani-BEN-ALAYA:
+    individualname: Amani BEN ALAYA
+    role: creator
+  Joe-WIN:
+    individualname: Joe WIN
+    role: creator
+  Sophien-KAMOUN:
+    individualname: Sophien KAMOUN
+    role: creator
+  Naceur-DJEBALI:
+    individualname: Naceur DJEBALI
+    role: creator
+  SLIMENE-Imen-BEN:
+    individualname: SLIMENE, Imen BEN
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: https://orcid.org/0000-0001-5266-6443
+  CHAOUACHI-Manel:
+    individualname: CHAOUACHI, Manel
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: https://orcid.org/0000-0001-7575-4817
+  MARZOUK-Takwa:
+    individualname: MARZOUK, Takwa
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: https://orcid.org/0000-0002-9545-0850
+  KHIARI-Bilel:
+    individualname: KHIARI, Bilel
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: https://orcid.org/0000-0002-6668-1043
+  ALAYA-Amani-BEN:
+    individualname: ALAYA, Amani BEN
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: ''
+  WIN-Joe:
+    individualname: WIN, Joe
+    role: ''
+    organization: The Sainsbury Laboratory, University of East Anglia, Norwich Research
+      Park, Norwich, United KingdomThe Sainsbury Laboratory, University of East Anglia,
+      Norwich Research Park, Norwich, United Kingdom
+    url: https://orcid.org/0000-0002-9851-2404
+  KAMOUN-Sophien:
+    individualname: KAMOUN, Sophien
+    role: ''
+    organization: The Sainsbury Laboratory, University of East Anglia, Norwich Research
+      Park, Norwich, United Kingdom
+    url: https://orcid.org/0000-0002-0290-0315
+  DJEBALI-Naceur:
+    individualname: DJEBALI, Naceur
+    role: ''
+    organization: Laboratory of Bioactive Substances, Centre of Biotechnology of Borj
+      Cedria
+    url: https://orcid.org/0000-0003-2684-372X
+content_info: {}

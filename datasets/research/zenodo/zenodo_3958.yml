@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1080022
+  dataseturi: https://doi.org/10.5281/zenodo.1080022
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Comparison Of Artificial Neural Network And Multivariate Regression Methods
+    In Prediction Of Soil Cation Exchange Capacity
+  abstract: 'Investigation of soil properties like Cation Exchange
+
+    Capacity (CEC) plays important roles in study of environmental
+
+    reaserches as the spatial and temporal variability of this property
+
+    have been led to development of indirect methods in estimation of
+
+    this soil characteristic. Pedotransfer functions (PTFs) provide an
+
+    alternative by estimating soil parameters from more readily available
+
+    soil data. 70 soil samples were collected from different horizons of
+
+    15 soil profiles located in the Ziaran region, Qazvin province, Iran.
+
+    Then, multivariate regression and neural network model (feedforward
+
+    back propagation network) were employed to develop a
+
+    pedotransfer function for predicting soil parameter using easily
+
+    measurable characteristics of clay and organic carbon. The
+
+    performance of the multivariate regression and neural network model
+
+    was evaluated using a test data set. In order to evaluate the models,
+
+    root mean square error (RMSE) was used. The value of RMSE and
+
+    R2 derived by ANN model for CEC were 0.47 and 0.94 respectively,
+
+    while these parameters for multivariate regression model were 0.65
+
+    and 0.88 respectively. Results showed that artificial neural network
+
+    with seven neurons in hidden layer had better performance in
+
+    predicting soil cation exchange capacity than multivariate regression.'
+  keywords:
+    default:
+      keywords:
+        subject: CEC.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2010-12-29'
+    publication: '2010'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1080022
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1080021
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ali-Keshavarzi:
+    individualname: Ali Keshavarzi
+    role: creator
+  Fereydoon-Sarmadian:
+    individualname: Fereydoon Sarmadian
+    role: creator
+    organization: ''
+    url: ''
+  Keshavarzi-Ali:
+    individualname: Keshavarzi, Ali
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

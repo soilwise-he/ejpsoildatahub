@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Schillaci_2021
+  dataseturi: https://doi.org/10.1186/s13021-021-00182-7
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: 'Validating the regional estimates of changes in soil organic carbon by using
+    the data from paired-sites: the case study of Mediterranean arable lands'
+  abstract: '&lt;p&gt;Background: Legacy data are unique occasions for estimating
+    soil organic carbon (SOC) concentration changes and spatial variability, but their
+    use showed limitations due to the sampling schemes adopted and improvements may
+    be needed in the analysis methodologies. When SOC changes is estimated with legacy
+    data, the use of soil samples collected in different plots (i.e., non-paired data)
+    may lead to biased results. In the present work, N = 302 georeferenced soil samples
+    were selected from a regional (Sicily, south of Italy) soil database. An operational
+    sampling approach was developed to spot SOC concentration changes from 1994 to
+    2017 in the same plots at the 0&ndash;30 cm soil depth and tested. Results: The
+    measurements were conducted after computing the minimum number of samples needed
+    to have a reliable estimate of SOC variation after 23 years. By applying an effect
+    size based methodology, 30 out of 302 sites were resampled in 2017 to achieve
+    a power of 80%, and an &alpha; = 0.05. A Wilcoxon test applied to the variation
+    of SOC from 1994 to 2017 suggested that there was not a statistical difference
+    in SOC concentration after 23 years (Z = &minus; 0.556; 2-tailed asymptotic significance
+    = 0.578). In particular, only 40% of resampled sites showed a higher SOC concentration
+    than in 2017. Conclusions: This finding contrasts with a previous SOC concentration
+    increase that was found in 2008 (75.8% increase when estimated as differences
+    of 2 models built with non-paired data), when compared to 1994 observed data (Z
+    = &minus; 9.119; 2-tailed asymptotic significance &lt; 0.001).&lt;br&gt;
+
+    This suggests that the use of legacy data to estimate SOC concentration dynamics
+    requires soil resampling in the same locations to overcome the stochastic model
+    errors. Further experiment is needed to identify the percentage of the sites to
+    resample in order to align two legacy datasets in the same area.&lt;/p&gt;'
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: 'Validating the regional estimates of changes in soil organic carbon by
+      using the data from paired-sites: the case study of Mediterranean arable lands'
+    url: http://dx.doi.org/10.1186/s13021-021-00182-7
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Schillaci-Calogero:
+    individualname: Schillaci, Calogero
+    role: creator
+  Saia-Sergio:
+    individualname: Saia, Sergio
+    role: creator
+  Lipani-Aldo:
+    individualname: Lipani, Aldo
+    role: creator
+  Perego-Alessia:
+    individualname: Perego, Alessia
+    role: creator
+  Zaccone-Claudio:
+    individualname: Zaccone, Claudio
+    role: creator
+  Acutis-Marco:
+    individualname: Acutis, Marco
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

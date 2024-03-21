@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Weir_1915
+  dataseturi: https://doi.org/10.1017/s0021859600002689
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: The Effect of removing the Soluble Humus from a Soil on its Productiveness
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: The Effect of removing the Soluble Humus from a Soil on its Productiveness
+    url: http://dx.doi.org/10.1017/s0021859600002689
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Weir-William:
+    individualname: Weir, William
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

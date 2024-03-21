@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Livingston_1910
+  dataseturi: https://doi.org/10.1086/330361
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Relation of Soil Moisture to Desert Vegetation
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Relation of Soil Moisture to Desert Vegetation
+    url: http://dx.doi.org/10.1086/330361
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Livingston-Burton-Edward:
+    individualname: Livingston, Burton Edward
+    role: creator
+  University-of-Chicago-Press:
+    individualname: University of Chicago Press
+    role: creator
+content_info: {}

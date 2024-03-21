@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.6568852
+  dataseturi: https://doi.org/10.5281/zenodo.6568852
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: PROPERTIES OF A CLAYEY SOIL OF WEST BENGAL. CHEMICAL, ELECTROCHEMICAL, VISCOUS,
+    X-RAY AND PETROGRAPHIC STUDIES
+  abstract: "The chemical, mineralogical, X-ray, electrochemical and viscous studies\
+    \ of the clay fraction of a hea\xADvy 'ahtel' soil from Hoogly, W.bengal are described.\
+    \ On the basis of these studies it is estimated that the clay contains 10, 50\
+    \ and 4o% of montmorillouite, iIlite and kaolinite respectively. The importance'\
+    \ of such studies to various soil types so far as their use, capabilities in agricultural,\
+    \ ceramic and engineering enterprises are concerned has been briefly discussed."
+  keywords:
+    default:
+      keywords:
+        subject: chemical
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '1951-12-31'
+    publication: '1951'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.6568852
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.6568851
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  B.-CHATTERJEE:
+    individualname: B. CHATTERJEE
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

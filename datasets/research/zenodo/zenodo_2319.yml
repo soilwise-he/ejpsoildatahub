@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.827508
+  dataseturi: https://doi.org/10.5281/zenodo.827508
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Effect Of Field Moisture Content On Penetration Index Value Of Dynamic Cone
+    Penetrometer In Alluvial Soil Subgrades
+  abstract: Dynamic Cone Penetrometer is an ideal instrument for testing subgrade
+    and embankment compaction and it in-situ California Bearing Ratio (CBR). The Dynamic
+    Cone Penetration Index (DCPI) value has valid correlation with CBR. The relation
+    has higher value of coefficient of determination, denoted as R<sup>2</sup>, for
+    non-cohesive soils dry soils. The fine grained alluvial soils having some Plasticity
+    Index (PI) value shows the lower R<sup>2</sup> value. The Various alluvial soil
+    samples having PI value from 0 to 10 were tested for finding the moisture correction
+    factor so that DCPI values can be correlated with In-situ CBR at different field
+    moisture conditions.<sup> </sup>
+  keywords:
+    default:
+      keywords:
+        subject: CBR, DCPI, PI, Field Moisture Content and Correction Factor.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-07-15'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.827508
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.827507
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Daljeet-Singh1-*-J.N.Jha2-K.S.Gill3:
+    individualname: Daljeet Singh1, *, J.N.Jha2, K.S.Gill3
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

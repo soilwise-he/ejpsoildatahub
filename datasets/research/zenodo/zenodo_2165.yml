@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1000291
+  dataseturi: https://doi.org/10.5281/zenodo.1000291
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: 'Zebrafish: An Animal Model For Testing Suitability Of Pseudomonas Species
+    For Bioremediation Of Pesticide Influenced Soil'
+  abstract: "Prolonged usage of chemicals in agriculture has devastated biodiversity\
+    \ to a large extent including microbial diversity and density.  Upon intense exposure\
+    \ certain microorganisms acclimatize to chemical influenced soil and exploit those\
+    \ chemicals as their sole source of carbon and/or nitrogen. Bioremediation studies\
+    \ over the past decades predominantly imply on isolation of Pseudomonas species\
+    \ with the property to consume chemical contaminants as their source of energy.\
+    \ Pseudomonas spp. have adapted themselves to extreme conditions by altering their\
+    \ metabolic pathway. Hence these can be to some extent denoted as bio-indicators\
+    \ of chemical contaminants. But suggesting Pseudomonas spp. for field study or\
+    \ for bioremediation threatens us in particular with the development of antibiotic\
+    \ resistance and instigating secondary infections, thus restricting their application.\
+    \ The present study involves in possibility of Pseudomonas species to be considered\
+    \ for bioremediation by testing their ability in causing mortality in zebrafish.\
+    \ Isolates for the comparative study include           P. aeruginosa (clinical\
+    \ isolate), P. aeruginosa (soil isolate with pesticide degradation property) and\
+    \     P. pseudoalcaligenes (soil isolate with pesticide\u2019s carrier molecule\
+    \ degradation property). Results obtained confer that antibiotic resistance and\
+    \ mortality caused by the clinical strain was significantly higher thus advocating\
+    \ an affirmative annotation for the field application of soil isolates."
+  keywords:
+    default:
+      keywords:
+        subject: Bioremediation, Zebrafish, pesticide, Pseudomonas spp.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2015-08-29'
+    publication: '2015'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1000291
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1000290
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ramalakshmi-M:
+    individualname: Ramalakshmi, M,
+    role: creator
+    organization: P.G. & Research Department of Zoology, The New College, Chennai
+      600014, Tamilnadu, India..
+    url: ''
+content_info: {}

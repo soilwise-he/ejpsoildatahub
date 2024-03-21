@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7257152
+  dataseturi: https://doi.org/10.5281/zenodo.7257152
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Prediction of Soil Compaction Parameters using Gene Expression Programming
+  abstract: The determination of soil compaction parameters, maximum dry density (MDD)
+    and optimum<br> moisture content (OMC), in the laboratory requires considerable
+    time and energy. Various efforts<br> have been made to counter the issue by developing
+    models to predict compaction parameters of<br> soil, but they are either applicable
+    to specific soil types or specific compaction energies. A machine<br> learning
+    technique, Gene Expression Programming (GEP), is used in this study to predict
+    the<br> compaction parameters of soil using the index properties of soils collected
+    from literature. In terms<br> of accuracy, the GEP models presented in this study
+    outperformed the previously developed<br> prediction models. The accuracy (R-squared)
+    for training and validation of MDD was found to be<br> 0.8945 and 0.9032, respectively,
+    and that for training and validation of OMC was 0.9165 and<br> 0.9251, respectively.
+  keywords:
+    default:
+      keywords:
+        subject: Soil Compaction, Maximum Dry Density, Optimum Moisture Content, Gene
+          Expression Programming, Prediction Models
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-02-23'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7257152
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7257151
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hasnain-Ayub:
+    individualname: Hasnain Ayub
+    role: creator
+  Turab-Jafri:
+    individualname: Turab Jafri
+    role: creator
+  Syed-TASEER-ABBAS-Jaffar:
+    individualname: Syed TASEER ABBAS Jaffar
+    role: creator
+  Ayub-Hasnain:
+    individualname: Ayub, Hasnain
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-8372-7672
+  Jafri-Turab:
+    individualname: Jafri, Turab
+    role: ''
+    organization: ''
+    url: https://orcid.org/0000-0002-5378-0763
+  Jaffar-Syed-TASEER-ABBAS:
+    individualname: Jaffar, Syed TASEER ABBAS
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}

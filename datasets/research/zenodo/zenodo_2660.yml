@@ -1,0 +1,45 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: HOWARD_1919
+  dataseturi: https://doi.org/10.1097/00010694-191910000-00003
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: THE RELATION OF CERTAIN ACIDIC TO BASIC CONSTITUENTS OF THE SOIL AFFECTED
+    BY AMMONIUM SULFATE AND NITRATE OF SODA1
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: THE RELATION OF CERTAIN ACIDIC TO BASIC CONSTITUENTS OF THE SOIL AFFECTED
+      BY AMMONIUM SULFATE AND NITRATE OF SODA1
+    url: http://dx.doi.org/10.1097/00010694-191910000-00003
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Howard-L.-P.:
+    individualname: Howard, L. P.
+    role: creator
+  HOWARD-L.-P.:
+    individualname: HOWARD, L. P.
+    role: creator
+  Ovid-Technologies-Wolters-Kluwer-Health:
+    individualname: Ovid Technologies (Wolters Kluwer Health)
+    role: creator
+content_info: {}

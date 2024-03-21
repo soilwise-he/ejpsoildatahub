@@ -1,0 +1,68 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1560524
+  dataseturi: https://doi.org/10.5281/zenodo.1560524
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Estimation of efficacy of use of new crops for stabilization of soil\u2013\
+    plant system under allelopathic post-action conditions"
+  abstract: "Effect of organic matter of new crops as green-manure on physiological\
+    \ and biochemical properties of soil-plant system under lilac (<em>Syringa vulgaris</em>\
+    \ L.) allelopathic post-action was studied. Lilac seedlings were grown for 17\
+    \ months under greenhouse conditions in pots with grey forest soil collected after\
+    \ long-term lilac cultivation. Green-manure as biomass of <em>Raphanus sativus\
+    \ </em>var. <em>oliefera </em>L., <em>Sinapis alba</em> L., <em>Sida hermaphrodita\
+    \ </em>Rusby.,<em> Rumex patientia</em> L. \xD7 <em>R. tianschanicus</em> A. Los.\
+    \ was applied at 5 % to soil weight. The soil without green-manure was used as\
+    \ control. Decrease in free phenolic substances concentration and simultaneous\
+    \ increase in oxidation-reduction potential, humus and free amino acids contents\
+    \ in soil during decay of the new crops biomass were observed. Application of\
+    \ the green-manure reduced soil phytotoxicity, which led to increase in the lilac\
+    \ seedlings growth. Decay products of organic residues of the new crops promoted\
+    \ accumulation of photosynthetic pigments \u2013 chlorophylls (chlorophyll <em>b</em>\
+    \ mainly) and carotenoids in leaves, which raised adaptability of the seedlings\
+    \ to lilac allelopathic post-action. Efficacy of use as the greenmanure of <em>Raphanus\
+    \ sativus</em> var. <em>oliefera </em>and <em>Sinapis alba</em> was higher as\
+    \ compared with <em>Rumex patientia \xD7 R. tianschanicus </em>and, especially,\
+    \ <em>Sida hermaphrodita</em>."
+  keywords:
+    default:
+      keywords:
+        subject: photosynthetic pigments
+  status: ''
+  language: rus
+  dates:
+    creation: ''
+    issued: '2014-09-01'
+    publication: '2014'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1560524
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1560523
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  N.A.-Pavliuchenko:
+    individualname: N.A. Pavliuchenko
+    role: creator
+    organization: M.M. Gryshko National Botanical Garden, National Academy of Sciences
+      of Ukraine, Ukraine, Kyiv
+    url: ''
+content_info: {}

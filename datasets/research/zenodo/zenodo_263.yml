@@ -1,0 +1,46 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: GEIKIE_1877
+  dataseturi: https://doi.org/10.1038/015397b0
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "\u201CThe Movement of the Soil-cap\u201D"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "\u201CThe Movement of the Soil-cap\u201D"
+    url: http://dx.doi.org/10.1038/015397b0
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Geikie-James:
+    individualname: Geikie, James
+    role: creator
+  GEIKIE-JAMES:
+    individualname: GEIKIE, JAMES
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+content_info: {}

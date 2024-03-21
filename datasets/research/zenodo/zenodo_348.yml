@@ -1,0 +1,60 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10641394
+  dataseturi: https://doi.org/10.5281/zenodo.10641394
+  datestamp: ''
+  hierarchylevel: conferencepaper
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: ASSESSMENT OF PESTICIDE RISK INDICATORS IN SOIL
+  abstract: ''
+  keywords:
+    default:
+      keywords:
+        subject: soil pollution, pesticide safety, assessment of pesticide, soil microflora,
+          pesticides, microorganisms, soil fertility
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2024-02-09'
+    publication: '2024'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10641394
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10641393
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Ahmedova-Saodat-Tashboltayevna:
+    individualname: Ahmedova Saodat Tashboltayevna
+    role: creator
+    organization: Termiz Branch of Tashkent Medical Academy Teacher of Microbiology,
+      Virology, Immunology
+    url: ''
+  Xolbekov-Baxtiyor-Baymanovich:
+    individualname: Xolbekov Baxtiyor Baymanovich
+    role: creator
+    organization: Termiz Branch of Tashkent Medical Academy Teacher of Histology
+    url: ''
+  Tojiddinov-Davronbek-Ulug'bek-o'g'li:
+    individualname: Tojiddinov Davronbek Ulug'bek o'g'li
+    role: creator
+    organization: Student of the Termiz Branch of the Tashkent Medical Academ
+    url: ''
+content_info: {}

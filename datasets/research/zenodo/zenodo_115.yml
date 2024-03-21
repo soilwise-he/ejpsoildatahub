@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wiley_1897
+  dataseturi: https://doi.org/10.1016/s0016-0032(97)90228-3
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Soil ferments important in agriculture
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Soil ferments important in agriculture
+    url: http://dx.doi.org/10.1016/s0016-0032(97)90228-3
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Wiley-Harvey-W.:
+    individualname: Wiley, Harvey W.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+content_info: {}

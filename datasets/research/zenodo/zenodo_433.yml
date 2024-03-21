@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Hopkins_1916
+  dataseturi: https://doi.org/10.1126/science.44.1140.649
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: "Methods of Criticism of \u201CSoil Bacteria and Phosphates\u201D"
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: "Methods of Criticism of \u201CSoil Bacteria and Phosphates\u201D"
+    url: http://dx.doi.org/10.1126/science.44.1140.649
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Hopkins-C.-G.:
+    individualname: Hopkins, C. G.
+    role: creator
+  Whiting-A.-L.:
+    individualname: Whiting, A. L.
+    role: creator
+  Hopkins-Cyril-G.:
+    individualname: Hopkins, Cyril G.
+    role: creator
+  Whiting-Albert-L.:
+    individualname: Whiting, Albert L.
+    role: creator
+  American-Association-for-the-Advancement-of-Science-AAAS:
+    individualname: American Association for the Advancement of Science (AAAS)
+    role: creator
+content_info: {}

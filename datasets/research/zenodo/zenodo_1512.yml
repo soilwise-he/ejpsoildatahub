@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.7192728
+  dataseturi: https://doi.org/10.5281/zenodo.7192728
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Modulus based Approach of Lateritic Subgrade Soil Strength Evaluation Using
+    Light Weight Deflectometer
+  abstract: Since density based approach of pavement evaluation have its own limitations,
+    quality control procedures of compacted pavement layers across the globe is slowly
+    shifting from density based to stiffness/strength based criteria. The stiffness
+    based measurements are easy to measure and more reliable than the density based
+    quality measurements. The light weight deflectometer (LWD), one of many cutting-edge
+    methods for determining how stiff compacted layers are, is employed in this study
+    as a quality control tool to evaluate the standard of compacted pavement layers.
+    LWD was created to assess the soil's compacted surface stiffness. LWD gives in
+    situ measurements of soil densification through deformation/deflection modulus.
+    In this study influence of moisture variations on the strength of subgrade layer
+    are studied with the help of LWD. For this purpose an earthen shoulder along the
+    road section inside the RIT College campus was excavated to the subgrade depth.
+    At the subgrade level, soil samples nearly of 15 grams were collected for finding
+    out the moisture content at that particular instant. LWD test was done from which
+    the resilient modulus of the surface under test can be estimated. LWD resilient
+    modulus is influenced by several soil parameters such as grain size distribution,
+    maximum dry density (MDD) and optimum moisture content (OMC).Variation of LWD
+    modulus with dry density studied at different test locations. A regression model
+    was developed between LWD modulus and the factors influencing LWD modulus such
+    as fineness modulus and moisture content for various combinations of lateritic
+    and silty soil blend.
+  keywords:
+    default:
+      keywords:
+        subject: Lateritic subgrade strength, resilient modulus, Light Weight Deflectometer
+          (LWD), Dry density, Moisture content, Silty soil, SPSS
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2022-10-13'
+    publication: '2022'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.7192728
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.7192727
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sreejith-V-U:
+    individualname: Sreejith V U
+    role: creator
+    organization: M.Tech Student, Department of Civil Engineering, RIT, Kottayam,
+      India.
+    url: ''
+  Dr.-Ajitha-T:
+    individualname: Dr. Ajitha T
+    role: creator
+    organization: Professor and Head of the Department of Civil Engineering, RIT,
+      Kottayam, India.
+    url: ''
+  Nadheera-Haneef-O:
+    individualname: Nadheera Haneef O
+    role: creator
+    organization: Assistant Professor, Department of Civil Engineering, RIT, Kottayam,
+      India.
+    url: ''
+content_info: {}

@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.30835
+  dataseturi: https://doi.org/10.5281/zenodo.30835
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: "Soil Acidification And Nutrient Sustainability Of Forest Ecosystems In The\
+    \ Northeastern German Lowlands \u2013 Results Of The National Forest Soil Inventory"
+  abstract: 'Between the first and second national forest soil inventory in the northeastern
+    German lowlands a significant soil acidification took place with regionally varying
+    intensity. It manifests itself in a reduced base saturation in the whole rooting
+    zone. This applies to the base cations magnesium and calcium. For potassium, however,
+    no significant changes were detected. The acidification dynamic is the strongest
+    in the southern part of Brandenburg. The specific immission situation<br>
+
+    in this region during the past four decades explains this. Particularly in southern
+    Brandenburg high dust depositions (fly ashes from brown coal-fired power stations)
+    buffered the acid components and enriched the soil with base cations<br>
+
+    in the 1970s and 1980s. Since the reduction of these atmospheric depositions,
+    the bases were obviously totally incorporated in the biomass or leached out with
+    seepage water. Currently, the majority of the forest sites in Mecklenburg-Vorpommern
+    and Brandenburg are poor in basic nutrient elements (Ca, Mg, K). Especially the
+    element magnesium is assumed to be lacking. This paper presents an assessment
+    of the long-term availability of the nutrients Ca, Mg und K on the basis of calculated
+    nutrient balances for various forest management scenarios (e.g. full-tree harvest).
+    The results show that the sustainable supply is critical especially for intensive
+    forest use on numerous sites.'
+  keywords:
+    default:
+      keywords:
+        subject: base saturation
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2012-09-01'
+    publication: '2012'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.30835
+    type: WWW:LINK
+    title: Link
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Riek-Winfried:
+    individualname: Riek, Winfried
+    role: creator
+    organization: "Hochschule f\xFCr nachhaltige Entwicklung (FH) und Landeskompetenzzentrum\
+      \ Forst Eberswalde, Alfred-M\xF6ller-Str. 1, 16225 Eberswalde, Germany"
+    url: ''
+  Russ-Alexander:
+    individualname: Russ, Alexander
+    role: creator
+    organization: "Hochschule f\xFCr nachhaltige Entwicklung (FH) und Landeskompetenzzentrum\
+      \ Forst Eberswalde, Alfred-M\xF6ller-Str. 1, 16225 Eberswalde, Germany"
+    url: ''
+  Jan-Martin:
+    individualname: Jan Martin
+    role: creator
+  Martin-Jan:
+    individualname: Martin, Jan
+    role: ''
+    organization: "Hochschule f\xFCr nachhaltige Entwicklung (FH) und Landeskompetenzzentrum\
+      \ Forst Eberswalde, Alfred-M\xF6ller-Str. 1, 16225 Eberswalde, Germany"
+    url: ''
+content_info: {}

@@ -1,0 +1,40 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Sen_Gupta_1921
+  dataseturi: https://doi.org/10.1017/s0021859600003762
+  datestamp: ''
+spatial:
+  datatype: ''
+  geomtype: ''
+identification:
+  title: Dephenolisation in soil
+  abstract: n/a
+  keywords:
+    default:
+      keywords: []
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  www:
+    name: Dephenolisation in soil
+    url: http://dx.doi.org/10.1017/s0021859600003762
+    type: www
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Sen-Gupta-Nagendra-Nath:
+    individualname: Sen-Gupta, Nagendra Nath
+    role: creator
+  Cambridge-University-Press-CUP:
+    individualname: Cambridge University Press (CUP)
+    role: creator
+content_info: {}

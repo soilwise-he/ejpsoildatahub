@@ -1,0 +1,52 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.439105
+  dataseturi: https://doi.org/10.5281/zenodo.439105
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Technical note
+identification:
+  title: Calibrating A Non-Invasive Cosmic Ray Soil Moisture For Snow Water Equivalent
+  abstract: This document discusses how to convert neutron counts from a Hydroinnova
+    cosmic ray sensor to snow water equivalent. It also provides a case study.
+  keywords:
+    default:
+      keywords:
+        subject: snow, water equivalent, cosmic ray, neutron, hydrology, COSMOS
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2017-03-29'
+    publication: '2017'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.439105
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.604730
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Darin-Desilets:
+    individualname: Darin Desilets
+    role: creator
+  Desilets-Darin:
+    individualname: Desilets, Darin
+    role: ''
+    organization: Hydroinnova LLC
+    url: ''
+content_info: {}

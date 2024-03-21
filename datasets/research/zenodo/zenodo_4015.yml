@@ -1,0 +1,65 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.2432521
+  dataseturi: https://doi.org/10.5281/zenodo.2432521
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: DEVELOPMENT EQUATION FOR DETERMINATION THE START TIME OF SEEPAGE UNDER HYDRAULIC
+    STRUCTURE RESTING ON SOIL CONTAINING A CAVITY
+  abstract: This study aims to introduce a formula for determination the start time
+    of seepage when single cavity presence at a specific location within the homogenous
+    soil under a hydraulic structure. The investigation aims to observe the effect
+    of cavity locations and size on the start time of seepage. The experimental work
+    has been done in three stages, the first stage includes 36 models of 75mm in diameter
+    cavity, while the second and the third stages includes eight models for each with
+    100mm and 34mm diameter of cavity respectively. The analysis of result shows that,
+    generally, the effect of cavity was positive in term of increasing the time of
+    starting the seepage. To generate the deterministic formula the SPSS statistical
+    software was used and the results of multiple regressions are checked by statistical
+    indices. By this process more realistic formula has been proposed with acceptable
+    reliability.
+  keywords:
+    default:
+      keywords:
+        subject: Start Time; Seepage; Cavity; Homogenous Soil; Deterministic Formulae.
+  status: ''
+  language: ''
+  dates:
+    creation: ''
+    issued: '2018-11-30'
+    publication: '2018'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.2432521
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.2432520
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Jaafar-S.-Maatooq:
+    individualname: Jaafar S. Maatooq
+    role: creator
+    organization: ''
+    url: ''
+  Dhurgham-M.-Abdulhasan:
+    individualname: Dhurgham M. Abdulhasan
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

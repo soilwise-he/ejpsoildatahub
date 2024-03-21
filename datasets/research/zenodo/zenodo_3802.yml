@@ -1,0 +1,58 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.4731406
+  dataseturi: https://doi.org/10.5281/zenodo.4731406
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Conference paper
+identification:
+  title: HYGIENIC SUBSTANTIATION OF WORKING CONDITIONS OF WORKERS DEVELOPING VEGETABLES
+    UNDER THE OPEN SOIL CONDITIONS
+  abstract: <strong>Resume:</strong> In this article, the purpose of the study is
+    a hygienic assessment of the working conditions of workers engaged in the cultivation
+    of vegetables in open ground. It has been established that when growing vegetables
+    workers can be affected by such production factors as high physical activity,
+    dust, noise, vibration, carbon monoxide, summer insolation, relatively low temperatures
+    in the autumn-winter period, vapors and gases of mineral fertilizers and pesticides.
+    . In this regard, sanitary inspection of the working conditions of vegetable growers
+    should be carried out taking into account the specific features of the cultivation
+    of vegetable crops.
+  keywords:
+    default:
+      keywords:
+        subject: 'Key words: hygiene requirements, working conditions, production
+          factors, manual labor.'
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2021-05-01'
+    publication: '2021'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.4731406
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.4731405
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  X.O.Kosimov-1:
+    individualname: X.O.Kosimov 1
+    role: creator
+    organization: ''
+    url: ''
+content_info: {}

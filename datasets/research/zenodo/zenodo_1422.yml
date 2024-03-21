@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.10652532
+  dataseturi: https://doi.org/10.5281/zenodo.10652532
+  datestamp: ''
+  hierarchylevel: journalarticle
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: ''
+identification:
+  title: Influence of selected grass mulches on soil physical properties under sprinkler
+    irrigation system
+  abstract: "Mulching is a vital agricultural practice that affects soil moisture\
+    \ retention, temperature regulation, and overall soil health. Three grass mulching\
+    \ materials (Gamba (Andropogon Gayanus), Jema (Chrysopogan Zizanioides) and Kachala\
+    \ (Typha Angustifolia)) at four mulching depths (0, 5, 10 and 15 cm) were examined\
+    \ to assess their effects on soil moisture content, temperature, bulk density\
+    \ and porosity. The study was conducted on onion plots irrigated with sprinkler\
+    \ system at a constant operating pressure (100 kPa). The study was carried out\
+    \ at the irrigation field laboratory of the Yelwa campus of Abubakar Tafawa Balewa\
+    \ University, Bauchi. Data were analysed using SPSS software version 23. The results\
+    \ indicated a significant combined impact of mulch type and depth on all studied\
+    \ parameters, except for bulk density. Results showed that Kachala grass, particularly\
+    \ at 15 cm depth, demonstrated superior moisture retention capabilities with 16.8%\
+    \ moisture content, leading to optimal soil moisture levels for plant growth.\
+    \ While the lowest soil moisture (8.81%) was conserved under the control (Un-mulched\
+    \ plot). Soil temperature recorded beneath the mulch was lowest (19.1oC) under\
+    \ 10 cm Kachala grass, while the highest (28.0\_oC) was recorded under 15 cm Gamba\
+    \ grass. Highest soil bulk density (1.78 g/cm3) was recorded under the control,\
+    \ while 15 cm depth of Kachala grass gave the lowest (1.5 g/cm3) value of bulk\
+    \ density. The highest value of soil porosity (46.8%) was observed under 15 cm\
+    \ Kachala grass and the lowest (34.2%) was observed under the control. In conclusion,\
+    \ grass mulching has a positive effect on soil physical properties under sprinkler\
+    \ irrigation system in the fadama areas of Bauchi, Nigeria."
+  keywords:
+    default:
+      keywords:
+        subject: Bauchi
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2023-09-30'
+    publication: '2023'
+  rights: cc-by-4.0
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.10652532
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.10652531
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Abubakar-Bidawa-Mahmood:
+    individualname: Abubakar Bidawa Mahmood
+    role: creator
+    organization: Department of Agricultural and Bioresource Engineering, Abubakar
+      Tafawa Balewa University Bauchi, Nigeria.
+    url: ''
+  Ahmed-Usman-Ibrahim-Sunusi-Amin-Abubakar:
+    individualname: Ahmed Usman Ibrahim, Sunusi Amin Abubakar
+    role: creator
+    organization: Department of Agricultural and Bioresource Engineering, Abubakar
+      Tafawa Balewa University Bauchi, Nigeria.
+    url: ''
+  Shuaibu-Muhammad-Musa:
+    individualname: Shuaibu Muhammad Musa
+    role: creator
+    organization: Department of Agricultural and Bioresource Engineering, Abubakar
+      Tafawa Balewa University Bauchi, Nigeria.
+    url: ''
+content_info: {}

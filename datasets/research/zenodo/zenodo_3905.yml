@@ -1,0 +1,101 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: doi.org-10.5281-zenodo.1061390
+  dataseturi: https://doi.org/10.5281/zenodo.1061390
+  datestamp: ''
+  hierarchylevel: text
+spatial:
+  datatype: ''
+  geomtype: ''
+  type: Journal article
+identification:
+  title: Utilization Of 3-N-Trimethylamino-1-Propanol By Rhodococcus Sp. Strain A4
+    Isolated From Natural Soil
+  abstract: "The aim of this study was to screen for\nmicroorganism that able to utilize\
+    \ 3-N-trimethylamino-1-propanol\n(homocholine) as a sole source of carbon and\
+    \ nitrogen. The aerobic\ndegradation of homocholine has been found by a gram-positive\n\
+    Rhodococcus sp. bacterium isolated from soil. The isolate was\nidentified as Rhodococcus\
+    \ sp. strain A4 based on the phenotypic\nfeatures, physiologic and biochemical\
+    \ characteristics, and\nphylogenetic analysis. The cells of the isolated strain\
+    \ grown on both\nbasal-TMAP and nutrient agar medium displayed elementary\nbranching\
+    \ mycelia fragmented into irregular rod and coccoid\nelements. Comparative 16S\
+    \ rDNA sequencing studies indicated that\nthe strain A4 falls into the Rhodococcus\
+    \ erythropolis subclade and\nforms a monophyletic group with the type-strains\
+    \ of R. opacus, and\nR. wratislaviensis. Metabolites analysis by capillary electrophoresis,\n\
+    fast atom bombardment-mass spectrometry, and gas\nchromatography- mass spectrometry,\
+    \ showed trimethylamine (TMA)\nas the major metabolite beside \u03B2-alanine betaine\
+    \ and\ntrimethylaminopropionaldehyde. Therefore, the possible degradation\npathway\
+    \ of trimethylamino propanol in the isolated strain is through\nconsequence oxidation\
+    \ of alcohol group (-OH) to aldehyde (-CHO)\nand acid (-COOH), and thereafter\
+    \ the cleavage of \u03B2-alanine betaine\nC-N bonds yielded trimethylamine and\
+    \ alkyl chain."
+  keywords:
+    default:
+      keywords:
+        subject: 16S rDNA gene sequence.
+  status: ''
+  language: eng
+  dates:
+    creation: ''
+    issued: '2009-03-23'
+    publication: '2009'
+  rights: ''
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+distribution:
+  contentUrl:
+    url: https://doi.org/10.5281/zenodo.1061390
+    type: WWW:LINK
+    title: Link
+  r0:
+    url: https://doi.org/10.5281/zenodo.1061389
+    type: WWW:LINK
+    title: IsVersionOf
+contact:
+  Zenodo:
+    individualname: Zenodo
+    role: creator
+  Isam-A.-Mohamed-Ahmed:
+    individualname: Isam A. Mohamed Ahmed
+    role: creator
+  Jiro-Arima:
+    individualname: Jiro Arima
+    role: creator
+  Tsuyoshi-Ichiyanagi:
+    individualname: Tsuyoshi Ichiyanagi
+    role: creator
+  Emi-Sakuno:
+    individualname: Emi Sakuno
+    role: creator
+  Nobuhiro-Mori:
+    individualname: Nobuhiro Mori
+    role: creator
+  Ahmed-Isam-A.-Mohamed:
+    individualname: Ahmed, Isam A. Mohamed
+    role: ''
+    organization: ''
+    url: ''
+  Arima-Jiro:
+    individualname: Arima, Jiro
+    role: ''
+    organization: ''
+    url: ''
+  Ichiyanagi-Tsuyoshi:
+    individualname: Ichiyanagi, Tsuyoshi
+    role: ''
+    organization: ''
+    url: ''
+  Sakuno-Emi:
+    individualname: Sakuno, Emi
+    role: ''
+    organization: ''
+    url: ''
+  Mori-Nobuhiro:
+    individualname: Mori, Nobuhiro
+    role: ''
+    organization: ''
+    url: ''
+content_info: {}
