@@ -1,0 +1,74 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Bjornson_2020
+  dataseturi: https://doi.org/10.21769/bioprotoc.3799
+  datestamp: ''
+identification:
+  title: Low-cost and High-throughput RNA-seq Library Preparation for Illumina Sequencing
+    from Plant Tissue
+  abstract: 'Understanding plant development and responses to the environment is key
+    for improving crop yields and ensuring food andfuel for the future. Many crop
+    species have evolved adaptations that make them more tolerant against abiotic
+    stresses, suchas drought, flooding and soil salinity. One of these adaptations
+    is the exodermis, a water- and air-proofed cell layer in theroot that protects
+    the root from drying and drowning. Although the importance of exodermis for crop
+    yield has been shown,the development of exodermis is not understood on molecular
+    level, likely due to its absence from the root model speciesArabidopsis. TOMATO
+    EXODERMIS aims to elucidate the genes involved in exodermal development and drought
+    responses in tomato. To achieve this, novel tools are combined in an efficient
+    way to study root development of a crop species in a short timeframe. These tools
+    include e.g. bioinformatic analyses of new cell type-specific datasets, rapid
+    hairy root cultures and genome editing. TOMATO EXODERMIS will lay a foundation
+    for an exodermis research program in European Research Area and generate potential
+    for agricultural applications.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/7670023e-133b-33f9-a6b1-69183adc908e
+  Bjornson-Marta:
+    individualname: Bjornson, Marta
+    role: creator
+  Kajala-Kaisa:
+    individualname: Kajala, Kaisa
+    role: creator
+  Zipfel-Cyril:
+    individualname: Zipfel, Cyril
+    role: creator
+  Ding-Pingtao:
+    individualname: Ding, Pingtao
+    role: creator
+  Bio-Protocol-LLC:
+    individualname: Bio-Protocol, LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Low-cost and High-throughput RNA-seq Library Preparation for Illumina Sequencing
+      from Plant Tissue
+    url: http://dx.doi.org/10.21769/bioprotoc.3799
+    type: www
+content_info: {}

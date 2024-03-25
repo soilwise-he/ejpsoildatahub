@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1007-978-981-19-2519-1_25
+  dataseturi: https://doi.org/10.1007/978-981-19-2519-1_25
+  datestamp: ''
+identification:
+  title: 'Ten Years of GLEAM: A Review of Scientific Advances and Applications'
+  abstract: 'Droughts cause agricultural loss, forest mortality and drinking water
+    scarcity. Their predicted increase in recurrence and intensity poses serious threats
+    to future global food security. Several historically unprecedented droughts have
+    already occurred over the last decade in Europe, Australia and the USA. The cost
+    of the ongoing Californian drought is estimated to be about US$3 billion. Still
+    today, the knowledge of how droughts start and evolve remains limited, and so
+    does the understanding of how climate change may affect them.Positive feedbacks
+    from land have been suggested as critical for the occurrence of recent droughts;
+    as rainfall deficits dry out soil and vegetation, the evaporation of land water
+    is reduced, then the local air becomes too dry to yield rainfall, which further
+    enhances drought conditions. Importantly, this is not just a ''local'' feedback,
+    as remote regions may rely on evaporated water transported by winds from the drought-affected
+    region. Following this rationale, droughts self-propagate and self-intensify.However,
+    a global capacity to observe these processes is lacking. Furthermore, climate
+    and forecast models are immature when it comes to representing the influences
+    of land on rainfall. Do climate models underestimate this land feedback? If so,
+    future drought aggravation will be greater than currently expected. At the moment,
+    this remains largely speculative, given the limited number of studies of these
+    processes.I propose to use novel in situ and satellite records of soil moisture,
+    evaporation and precipitation, in combination with new mechanistic models that
+    can map water vapour trajectories and explore multi-dimensional feedbacks. DRY-2-DRY
+    will not only advance our fundamental knowledge of the mechanisms triggering droughts,
+    it will also provide independent evidence of the extent to which managing land
+    cover can help ''dampen'' drought events, and enable progress towards more accurate
+    short-term and long-term drought forecasts.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/436e2f9f-964a-3708-a910-0aafdf6042b7
+  Jahromi-Mojtaba-Naghdyzadegan:
+    individualname: Jahromi, Mojtaba Naghdyzadegan
+    role: creator
+  Miralles-Diego:
+    individualname: Miralles, Diego
+    role: creator
+  Koppa-Akash:
+    individualname: Koppa, Akash
+    role: creator
+  Rains-Dominik:
+    individualname: Rains, Dominik
+    role: creator
+  Zand-Parsa-Shahrokh:
+    individualname: Zand-Parsa, Shahrokh
+    role: creator
+  Mosaffa-Hamidreza:
+    individualname: Mosaffa, Hamidreza
+    role: creator
+  Jamshidi-Sajad:
+    individualname: Jamshidi, Sajad
+    role: creator
+  Springer-Nature-Singapore:
+    individualname: Springer Nature Singapore
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Ten Years of GLEAM: A Review of Scientific Advances and Applications'
+    url: http://dx.doi.org/10.1007/978-981-19-2519-1_25
+    type: www
+  contentUrl:
+    url: 10.1007/978-981-19-2519-1_25
+    type: WWW:LINK
+    title: Link
+content_info: {}

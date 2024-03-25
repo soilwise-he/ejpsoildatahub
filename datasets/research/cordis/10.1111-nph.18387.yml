@@ -1,0 +1,42 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1111/nph.18387
+  dataseturi: https://doi.org/10.1111/nph.18387
+identification:
+  title: 'RootPainter: deep learning segmentation of biological images with corrective
+    annotation'
+  abstract: "Future food production relies on efficient water use. This research project\
+    \ will focus on optimizing the utilisation of deep stored water in novel emerging\
+    \ agronomic systems in both semi-arid and temperate systems that incorporate three\
+    \ emerging agronomic interventions that lead to increased systems resilience;\
+    \ (i) altered crop phenology (earlier sowing of slower maturing crops); (ii) dual-purpose\
+    \ crops (used for grazing and grain); and (iii) summer cover crops. The project\
+    \ will utilise novel approaches for continuous deep water sensing to unprecedented\
+    \ depths combined with aerial canopy temperature imaging and autonomous root phenotyping\
+    \ using Convolutional Neural Network (CNN). Novel automated data capture on dynamics\
+    \ of water availability and deep root growth under various farming practices and\
+    \ contrasting soils and environments will also provide a validated dataset for\
+    \ model simulation. As a result, the project will contribute to formulation of\
+    \ a better decision-support system for farmers and breeders that can assist overcoming\
+    \ one of mankind\u2019s greatest challenges. The overall project also aligns with\
+    \ the Sustainable Development Goals (SDGs), especially, Goal 2 (sustainable agriculture),\
+    \ Goal 6 (sustainable water management) and Goal 13 (urgent action for climate\
+    \ change) which EU has adopted and committed to implement. As such it is an excellent\
+    \ research and training opportunity for a Marie Sk\u0142odowska-Global Fellow.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/dbde7a81-b8e9-3fad-92c4-83149c6bf019

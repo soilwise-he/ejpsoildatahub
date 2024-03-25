@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Mu_oz_Tamayo_2022
+  dataseturi: https://doi.org/10.1016/j.anopes.2021.100003
+  datestamp: ''
+identification:
+  title: Predicting the dynamics of enteric methane emissions based on intake kinetic
+    patterns in dairy cows fed diets containing either wheat or corn
+  abstract: 'Although microorganisms dominate almost every ecological niche in our
+    planet, it has only been during the past 10-15 years that we have begun to gain
+    insights into the composition and function of microbial communities (microbiomes)
+    as a consequence of major advances in High Throughput DNA sequencing (HTS) technologies.
+    These approaches have allowed a comprehensive analysis of microbiomes for the
+    first time. Following initial curiosity-driven investigations of microbiomes using
+    HTS technologies, the field has evolved to harness the insights provided, leading
+    to the development of a new multi-billion euro industry focused on characterisation
+    and modulation of microbiomes. The vast majority of this investment has been in
+    the clinical space. In contrast, far less is known about microbiomes across complex
+    food chains, making it difficult to harness food-chain microbiome data for the
+    development of more sustainable food systems and to yield innovative products
+    and applications. This is despite the evident importance of microbes throughout
+    the food chain. MASTER will take a global approach to the development of concrete
+    microbiome products, foods/feeds, services  or processes with high commercial
+    potential, which will benefit society through improving the quantity, quality
+    and safety of food, across multiple food chains, to include marine, plant, soil,
+    rumen, meat, brewing, vegetable waste, and fermented foods. This will be achieved
+    through mining microbiome data relating to the food chain, developing big data
+    management tools to identify inter-relations between microbiomes across food chains,
+    and generating applications which promote sustainability, circularity and contribute
+    to waste management and climate change mitigation. We will harness microbiome
+    knowledge to significantly enhance the health and resilience of fish, plants,
+    soil, animals and humans, improve professional skills and competencies, and support
+    the creation of new jobs in the food sector and bioeconomy.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e8a35e1f-8347-3d78-b12f-5110f24b9d55
+  Mu+-oz-Tamayo-R.:
+    individualname: "Mu\u221A\xB1oz-Tamayo, R."
+    role: creator
+  Ruiz-B.:
+    individualname: Ruiz, B.
+    role: creator
+  Blavy-P.:
+    individualname: Blavy, P.
+    role: creator
+  Giger-Reverdin-S.:
+    individualname: Giger-Reverdin, S.
+    role: creator
+  Sauvant-D.:
+    individualname: Sauvant, D.
+    role: creator
+  Williams-S.R.O.:
+    individualname: Williams, S.R.O.
+    role: creator
+  Moate-P.J.:
+    individualname: Moate, P.J.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Predicting the dynamics of enteric methane emissions based on intake kinetic
+      patterns in dairy cows fed diets containing either wheat or corn
+    url: http://dx.doi.org/10.1016/j.anopes.2021.100003
+    type: www
+content_info: {}

@@ -1,0 +1,123 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lesecq_2020
+  dataseturi: https://doi.org/10.1109/eeae49144.2020.9278984
+  datestamp: ''
+identification:
+  title: 'SARMENTI: in-situ real-time soil nutrients and gaseous emission measurement'
+  abstract: "SARMENTI develops a multisensor, low power IoT secure node to provide\
+    \ decision support to farmers by monitoring in real-time and in situ soil nutrients\
+    \ and gaseous emission. From this data measured on a daily basis over crop lifecycles,\
+    \ the farmer will timely perform appropriate actions regarding fertilisation,\
+    \ with direct impact on crop growth, soil & water quality and farmer income.The\
+    \ SARMENTI system will embed electrochemical sensors to measure e.g. NOx, POx,\
+    \ NH4, K, urea, pH, moisture, temperature. They will stay ideally during the crop\
+    \ lifecycle in the soil with packaging issues to protect them from their environment.\
+    \ A hygroscopic membrane will attract water from the soil, avoiding integration\
+    \ of a power hungry active pump usually used to exact water from a soil sample.\
+    \ SARMENTI will also monitor N2O (may appear in the nitrate cycle) and CH4 (generated\
+    \ by decomposition of manure under anaerobic conditions) just above the ground.\
+    \ These gases are greenhouse ones with higher warming potential than CO2.SARMENTI\
+    \ is part of the IoT (e.g. LoRa, BLE connexion). Data integrity is guaranteed\
+    \ by developing a secure node via combination of attack detection and automatic\
+    \ countermeasures application.Partners bring SoA prototypes of electrochemical\
+    \ and gas sensors and communication submodules, know-how in security for IoT nodes,\
+    \ and expertise in Agriculture. SARMENTI will further improve the prototypes (power,\
+    \ usage duration, hygroscopic membrane, packaging, sensitivity, selectivity) and\
+    \ integrate them with advanced processing in a connected secured device. Cloud\
+    \ Decisions support will allow evaluate the overall solution, SARMENTI demonstrator\
+    \ being tested in real fields.SARMENTI directly addresses ICT-7 challenge; \u201C\
+    develop and validate new generation of cost-effective ESS ...\u201D, RIA aim;\
+    \ \u201Cdemonstrate ESS bringing intelligence ... integration of sensor systems,\
+    \ processors, computing and networking elements... and \u201Cverification, exploitation...\
+    \ clearly identified.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/9aa066e1-7a41-32b9-9a84-eb4eff6dba96
+  Lesecq-S.:
+    individualname: Lesecq, S.
+    role: creator
+  Gougis-M.:
+    individualname: Gougis, M.
+    role: creator
+  Gouze-E.:
+    individualname: Gouze, E.
+    role: creator
+  di-Matteo-A.:
+    individualname: di Matteo, A.
+    role: creator
+  Alessi-E.:
+    individualname: Alessi, E.
+    role: creator
+  Di-Palma-V.:
+    individualname: Di Palma, V.
+    role: creator
+  di-Salvo-S.:
+    individualname: di Salvo, S.
+    role: creator
+  OaEUR(tm)Riordan-A.:
+    individualname: "O\xE2\u20AC\u2122Riordan, A."
+    role: creator
+  Shao-H.:
+    individualname: Shao, H.
+    role: creator
+  Mouzakitis-G.:
+    individualname: Mouzakitis, G.
+    role: creator
+  Ponsardin-G.:
+    individualname: Ponsardin, G.
+    role: creator
+  Dudnik-G.:
+    individualname: Dudnik, G.
+    role: creator
+  Correvon-M.:
+    individualname: Correvon, M.
+    role: creator
+  Daly-K.:
+    individualname: Daly, K.
+    role: creator
+  Molleman-B.:
+    individualname: Molleman, B.
+    role: creator
+  Balan-T.-C.:
+    individualname: Balan, T. C.
+    role: creator
+  Dimitru-C.:
+    individualname: Dimitru, C.
+    role: creator
+  Mailat-G.:
+    individualname: Mailat, G.
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'SARMENTI: in-situ real-time soil nutrients and gaseous emission measurement'
+    url: http://dx.doi.org/10.1109/eeae49144.2020.9278984
+    type: www
+content_info: {}

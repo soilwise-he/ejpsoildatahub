@@ -1,0 +1,245 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Green_2020
+  dataseturi: https://doi.org/10.1109/aero47225.2020.9172731
+  datestamp: ''
+identification:
+  title: 'The Earth Surface Mineral Dust Source Investigation: An Earth Science Imaging
+    Spectroscopy Mission'
+  abstract: "Soil dust aerosols are mixtures of different minerals, whose relative\
+    \ abundances, particle size distribution (PSD), shape, surface topography and\
+    \ mixing state influence their effect upon climate. However, Earth System Models\
+    \ typically assume that dust aerosols have a globally uniform composition, neglecting\
+    \ the known regional variations in the mineralogy of the sources. The goal of\
+    \ FRAGMENT is to understand and constrain the global mineralogical composition\
+    \ of dust along with its effects upon climate. The representation of the global\
+    \ dust mineralogy is hindered by our limited knowledge of the global soil mineral\
+    \ content and our incomplete understanding of the emitted dust PSD in terms of\
+    \ its constituent minerals that results from the fragmentation of soil aggregates\
+    \ during wind erosion. The emitted PSD affects the duration of particle transport\
+    \ and thus each mineral\u2019s global distribution, along with its specific effect\
+    \ upon climate. Coincident observations of the emitted dust and soil PSD are scarce\
+    \ and do not characterize the mineralogy. In addition, the existing theoretical\
+    \ paradigms disagree fundamentally on multiple aspects. We will contribute new\
+    \ fundamental understanding of the size-resolved mineralogy of dust at emission\
+    \ and its relationship with the parent soil, based on an unprecedented ensemble\
+    \ of measurement campaigns that have been designed to thoroughly test our theoretical\
+    \ hypotheses. To improve knowledge of the global soil mineral content, we will\
+    \ evaluate and use available remote hyperspectral imaging, which is unprecedented\
+    \ in the context of dust modelling. Our new methods will anticipate the coming\
+    \ innovation of retrieving soil mineralogy through high-quality spaceborne hyperspectral\
+    \ measurements. Finally, we will generate integrated and quantitative knowledge\
+    \ of the role of dust mineralogy in dust-radiation, dust-chemistry and dust-cloud\
+    \ interactions based on modeling experiments constrained with our theoretical\
+    \ innovations and field measurements.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/5dfe7b25-84b1-36cf-a320-97dea47c9bbf
+  Green-Robert-O.:
+    individualname: Green, Robert O.
+    role: creator
+  Mahowald-Natalie:
+    individualname: Mahowald, Natalie
+    role: creator
+  Ung-Charlene:
+    individualname: Ung, Charlene
+    role: creator
+  Thompson-David-R.:
+    individualname: Thompson, David R.
+    role: creator
+  Bator-Lori:
+    individualname: Bator, Lori
+    role: creator
+  Bennet-Matthew:
+    individualname: Bennet, Matthew
+    role: creator
+  Bernas-Michael:
+    individualname: Bernas, Michael
+    role: creator
+  Blackway-Natalie:
+    individualname: Blackway, Natalie
+    role: creator
+  Bradley-Christine:
+    individualname: Bradley, Christine
+    role: creator
+  Cha-Jeff:
+    individualname: Cha, Jeff
+    role: creator
+  Clark-Pamela:
+    individualname: Clark, Pamela
+    role: creator
+  Clark-Roger:
+    individualname: Clark, Roger
+    role: creator
+  Cloud-Deborah:
+    individualname: Cloud, Deborah
+    role: creator
+  Diaz-Ernesto:
+    individualname: Diaz, Ernesto
+    role: creator
+  Ben-Dor-Eyal:
+    individualname: Ben Dor, Eyal
+    role: creator
+  Duren-Riley:
+    individualname: Duren, Riley
+    role: creator
+  Eastwood-Michael:
+    individualname: Eastwood, Michael
+    role: creator
+  Ehlmann-Bethany-L.:
+    individualname: Ehlmann, Bethany L.
+    role: creator
+  Fuentes-Lisa:
+    individualname: Fuentes, Lisa
+    role: creator
+  Ginoux-Paul:
+    individualname: Ginoux, Paul
+    role: creator
+  Gross-Johannes:
+    individualname: Gross, Johannes
+    role: creator
+  He-Yutao:
+    individualname: He, Yutao
+    role: creator
+  Kalashnikova-Olga:
+    individualname: Kalashnikova, Olga
+    role: creator
+  Kert-William:
+    individualname: Kert, William
+    role: creator
+  Keymeulen-Didier:
+    individualname: Keymeulen, Didier
+    role: creator
+  Klimesh-Matt:
+    individualname: Klimesh, Matt
+    role: creator
+  Ku-Daniel:
+    individualname: Ku, Daniel
+    role: creator
+  Kwong-Fu-Helenann:
+    individualname: Kwong-Fu, Helenann
+    role: creator
+  Liggett-Elliott:
+    individualname: Liggett, Elliott
+    role: creator
+  Li-Longlie:
+    individualname: Li, Longlie
+    role: creator
+  Lundeen-Sarah:
+    individualname: Lundeen, Sarah
+    role: creator
+  Makowski-Maciej-D.:
+    individualname: Makowski, Maciej D.
+    role: creator
+  Mazer-Alan:
+    individualname: Mazer, Alan
+    role: creator
+  Miller-Ron:
+    individualname: Miller, Ron
+    role: creator
+  Mouroulis-Pantazis:
+    individualname: Mouroulis, Pantazis
+    role: creator
+  Oaida-Bogdan:
+    individualname: Oaida, Bogdan
+    role: creator
+  Okin-Greg-S.:
+    individualname: Okin, Greg S.
+    role: creator
+  Ortega-Alberto:
+    individualname: Ortega, Alberto
+    role: creator
+  Oyake-Amalaye:
+    individualname: Oyake, Amalaye
+    role: creator
+  Nguyen-Hung:
+    individualname: Nguyen, Hung
+    role: creator
+  Pace-Theresa:
+    individualname: Pace, Theresa
+    role: creator
+  Painter-Thomas-H.:
+    individualname: Painter, Thomas H.
+    role: creator
+  Pempejian-Jack:
+    individualname: Pempejian, Jack
+    role: creator
+  Garcia-Pando-Carlos-Perez:
+    individualname: Garcia-Pando, Carlos Perez
+    role: creator
+  Pham-Thang:
+    individualname: Pham, Thang
+    role: creator
+  Phillips-Benjamin:
+    individualname: Phillips, Benjamin
+    role: creator
+  Pollock-Randy:
+    individualname: Pollock, Randy
+    role: creator
+  Purcell-Richard:
+    individualname: Purcell, Richard
+    role: creator
+  Realmuto-Vincent:
+    individualname: Realmuto, Vincent
+    role: creator
+  Schoolcraft-Josh:
+    individualname: Schoolcraft, Josh
+    role: creator
+  Sen-Amit:
+    individualname: Sen, Amit
+    role: creator
+  Shin-Simon:
+    individualname: Shin, Simon
+    role: creator
+  Shaw-Lucas:
+    individualname: Shaw, Lucas
+    role: creator
+  Soriano-Manny:
+    individualname: Soriano, Manny
+    role: creator
+  Swayze-Gregg:
+    individualname: Swayze, Gregg
+    role: creator
+  Thingvold-Erik:
+    individualname: Thingvold, Erik
+    role: creator
+  Vaid-Afsheen:
+    individualname: Vaid, Afsheen
+    role: creator
+  Zan-Jason:
+    individualname: Zan, Jason
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'The Earth Surface Mineral Dust Source Investigation: An Earth Science Imaging
+      Spectroscopy Mission'
+    url: http://dx.doi.org/10.1109/aero47225.2020.9172731
+    type: www
+content_info: {}

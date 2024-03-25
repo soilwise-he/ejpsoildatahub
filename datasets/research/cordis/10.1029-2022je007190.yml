@@ -1,0 +1,111 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1029-2022je007190
+  dataseturi: https://doi.org/10.1029/2022je007190
+  datestamp: ''
+identification:
+  title: "InSight Pressure Data Recalibration, and Its Application to the Study of\
+    \ Long\u2010Term Pressure Changes on Mars"
+  abstract: "Over the past decades, the robotic exploration of the planet Mars has\
+    \ produced a wealth of geological observations. They show that Mars has not always\
+    \ been the desert planet of today. It has seen eras conducive to rivers and lakes,\
+    \ ice ages, and even periods with a collapsed atmosphere. These different epochs\
+    \ are the reason why Mars remains the objective of space agencies, as they evoke\
+    \ the possibility of past habitability and spectacular climate changes.Yet, in\
+    \ spite of all the data, the climatic processes that have shaped Mars\u2019 surface\
+    \ through time remain largely unknown. What happened on Mars? Was the Red Planet\
+    \ suitable for life? What explains its evolution?The objective of this project\
+    \ is to develop numerical models to simulate the past environments of Mars.A completely\
+    \ new \u201CMars Evolution Model\u201D will be created by asynchronously coupling\
+    \ hydrology, glacial flows and ground ice models with a new generation 3D Global\
+    \ Climate Model (GCM). This GCM will be derived from the one that we have previously\
+    \ designed to simulate present day Mars. We will radically update it using new\
+    \ technologies to represent the details of the surface as well as all the processes\
+    \ that affected Mars when its environment evolved because of the oscillations\
+    \ of its orbit and obliquity, during changes in the atmospheric composition, or\
+    \ through events like meteoritic impacts or volcanic eruptions. Notably, we will\
+    \ highlight the last ten millions years that have been recorded in the polar layered\
+    \ deposits, whose formation will be simulated for the first time realistically.These\
+    \ new tools will address numerous enigmas found in Mars sciences. They will also\
+    \ offer a new platform to study specific processes such as the atmospheric escape\
+    \ through time or the chemical alteration of the soil. Furthermore, the project\
+    \ will test our capacity to model planetary environments and climate changes,\
+    \ as well as provide lessons on the evolution of terrestrial planets and the possibility\
+    \ of life elsewhere.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/d5b39e82-a865-3ed6-af7a-4c12f4df094d
+  Lange-L.:
+    individualname: Lange, L.
+    role: creator
+  Forget-F.:
+    individualname: Forget, F.
+    role: creator
+  Banfield-D.:
+    individualname: Banfield, D.
+    role: creator
+  Wolff-M.:
+    individualname: Wolff, M.
+    role: creator
+  Spiga-A.:
+    individualname: Spiga, A.
+    role: creator
+  Millour-E.:
+    individualname: Millour, E.
+    role: creator
+  Viudez-Moreiras-D.:
+    individualname: "Vi\xFAdez\u2010Moreiras, D."
+    role: creator
+  Bierjon-A.:
+    individualname: Bierjon, A.
+    role: creator
+  Piqueux-S.:
+    individualname: Piqueux, S.
+    role: creator
+  Newman-C.:
+    individualname: Newman, C.
+    role: creator
+  Pla-Garcia-J.:
+    individualname: "Pla\u2010Garc\xEDa, J."
+    role: creator
+  Banerdt-W.-B.:
+    individualname: Banerdt, W. B.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "InSight Pressure Data Recalibration, and Its Application to the Study of\
+      \ Long\u2010Term Pressure Changes on Mars"
+    url: http://dx.doi.org/10.1029/2022je007190
+    type: www
+  contentUrl:
+    url: 10.1029/2022je007190
+    type: WWW:LINK
+    title: Link
+content_info: {}

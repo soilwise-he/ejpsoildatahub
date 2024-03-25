@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Wutzler_2017
+  dataseturi: https://doi.org/10.1016/j.soilbio.2017.08.031
+  datestamp: ''
+identification:
+  title: Adaptation of microbial resource allocation affects modelled long term soil
+    organic matter and nutrient cycling
+  abstract: "Nutrient availability plays a pivotal role in the response of terrestrial\
+    \ ecosystems to increasing atmospheric CO2 and climate change. The global role\
+    \ of nutrients is only poorly understood quantitatively, limiting the predictive\
+    \ understanding of terrestrial biosphere - climate feedbacks. The first generation\
+    \ of global nutrient-carbon cycle models shows strongly diverging estimates of\
+    \ the nutrient effect, resulting from lacking integration of ecosystem observations\
+    \ and fundamental uncertainties in the representation of governing processes.\
+    \ The objective of QUINCY is to clarify the role of the interacting terrestrial\
+    \ nitrogen and phosphorus cycles and their effects on terrestrial C allocation\
+    \ and residence times as well as terrestrial water fluxes. QUINCY will create\
+    \ a novel, predictive framework founded on the principle of resource optimisation,\
+    \ shifting the paradigm of terrestrial biosphere modelling towards an active biological\
+    \ control of matter flows. QUINCY\u2019s main themes are (i) the effects of nutrient\
+    \ availability on plant photosynthesis and respiration, explicitly taking the\
+    \ energy requirement of nutrient acquisition into account, and (ii) the effects\
+    \ of vegetation-soil interactions, namely rhizosphere processes, on plant nutrient\
+    \ availability and soil C turnover. To corroborate these theoretical concepts,\
+    \ QUINCY will synthesise existing and ongoing ecosystem monitoring and manipulation\
+    \ studies. To specifically test emerging hypotheses on the effects of rhizosphere\
+    \ priming on soil C storage and plant nutrition - and to provide currently lacking\
+    \ data for soil-vegetation models - QUINCY will establish a tree mesocosm, elevated\
+    \ CO2 experiment. The novel model concepts will be consistently integrated to\
+    \ form a new general terrestrial biosphere model. For the first time, QUINCY will\
+    \ be able to address the multiway interactions of carbon, nitrogen, phosphorus\
+    \ and water cycles globally in a theoretically well-founded way commensurate with\
+    \ ecosystem observations.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/d3040978-bc4b-3e11-b07b-cc69f5e80872
+  Wutzler-Thomas:
+    individualname: Wutzler, Thomas
+    role: creator
+  Zaehle-Sonke:
+    individualname: "Zaehle, S\xF6nke"
+    role: creator
+  Schrumpf-Marion:
+    individualname: Schrumpf, Marion
+    role: creator
+  Ahrens-Bernhard:
+    individualname: Ahrens, Bernhard
+    role: creator
+  Reichstein-Markus:
+    individualname: Reichstein, Markus
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Adaptation of microbial resource allocation affects modelled long term soil
+      organic matter and nutrient cycling
+    url: http://dx.doi.org/10.1016/j.soilbio.2017.08.031
+    type: www
+content_info: {}

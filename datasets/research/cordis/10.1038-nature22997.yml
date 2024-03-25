@@ -1,0 +1,103 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1038-nature22997
+  dataseturi: https://doi.org/10.1038/nature22997
+  datestamp: ''
+identification:
+  title: Tundra uptake of atmospheric elemental mercury drives Arctic mercury pollution
+  abstract: "Mercury (Hg) is a pollutant of global concern for human and ecosystem\
+    \ health. This is particularly true in the Arctic where indigenous populations\
+    \ are excessively exposed to dietary Hg from fish and marine mammal consumption.\
+    \ The deposition of Hg from the atmosphere to Earth surfaces and its re-emission\
+    \ via biogeochemical reduction processes determine Hg concentrations in Earth\
+    \ surface reservoirs, such as soils, snow, and runoff into Arctic lakes and surface\
+    \ Ocean. In order to predict the impact of anthropogenic Hg emissions on net atmospheric\
+    \ Hg deposition and ultimately Hg concentrations in biota, it is important to\
+    \ understand these deposition and re-emission processes. The reduction of deposited\
+    \ Hg2+ to volatile gaseous Hg0 and the oxidation of gaseous Hg0 to reactive Hg2+,\
+    \ which is rapidly deposited from the atmosphere, control the global fate of Hg.\
+    \ Major knowledge gaps concerning the mechanisms of these redox processes exist.\
+    \ Different photochemical and non-photochemical Hg2+ reduction mechanisms were\
+    \ found to fractionate Hg stable isotopes in distinct, identifiable ways. Also,\
+    \ different atmospheric Hg0 and Hg2+ pools have been shown to have distinguishable\
+    \ Hg isotope signatures. Hg isotopes can thus provide new insights in the sources\
+    \ of Hg and redox transformation processes at the Earth-atmosphere interface,\
+    \ which are inaccessible by means of concentration and flux measurements alone.\
+    \ In the MEROXRE project proposed here we will combine the latest innovations\
+    \ in gaseous Hg measurements in porous media (soils, snow) with state-of-the-art\
+    \ Hg isotope techniques to investigate;(i)\tHg isotope fractionation of Hg2+ reduction\
+    \ and gaseous Hg0 oxidation in interstitial snow air and soil pores. (ii)\tHg\
+    \ isotope fractionation factors associated with net gaseous Hg0 re-emission fluxes\
+    \ from soil and snow(iii)\tthe importance of gaseous Hg0 oxidation and Hg2+ reduction\
+    \ and re-emission for the global Hg cycle by incorporating the results in a global\
+    \ Hg isotope model.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/32d7c4c5-2795-3be5-9860-8d345119823c
+  Obrist-Daniel:
+    individualname: Obrist, Daniel
+    role: creator
+  Agnan-Yannick:
+    individualname: Agnan, Yannick
+    role: creator
+  Jiskra-Martin:
+    individualname: Jiskra, Martin
+    role: creator
+  Olson-Christine-L.:
+    individualname: Olson, Christine L.
+    role: creator
+  Colegrove-Dominique-P.:
+    individualname: Colegrove, Dominique P.
+    role: creator
+  Hueber-Jacques:
+    individualname: Hueber, Jacques
+    role: creator
+  Moore-Christopher-W.:
+    individualname: Moore, Christopher W.
+    role: creator
+  Sonke-Jeroen-E.:
+    individualname: Sonke, Jeroen E.
+    role: creator
+  Helmig-Detlev:
+    individualname: Helmig, Detlev
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Tundra uptake of atmospheric elemental mercury drives Arctic mercury pollution
+    url: http://dx.doi.org/10.1038/nature22997
+    type: www
+  contentUrl:
+    url: 10.1038/nature22997
+    type: WWW:LINK
+    title: Link
+content_info: {}

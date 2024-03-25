@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5194-amt-14-2409-2021
+  dataseturi: https://doi.org/10.5194/amt-14-2409-2021
+identification:
+  title: "Suitability of fibre-optic distributed temperature sensing for revealing\
+    \ mixing processes and higher-order moments at the forest\u2013air interface"
+  abstract: "Surface meteorology impacts the abundance and quality of life on Earth\
+    \ through the transfer and mixing of light, heat, water, CO2, and other substances\
+    \ controlling the resources for humans, plants, and animals. However, current\
+    \ theories and models fail when airflows and turbulence are weak during calm nights\
+    \ leaving weather and climate forecasts uncertain. This \u2018dark side\u2019\
+    \ occupies substantial fractions of time and our landscape, its physics are largely\
+    \ unknown, and has eluded proper experimental investigation.DarkMix creates technological\
+    \ and theoretical innovations to observe and explain transport and mixing in the\
+    \ weak-wind boundary layer. Its ambitious goal is a radically new framework incorporating\
+    \ unexplored mechanisms such as submeso-scale motions, flow instationarities,\
+    \ and directional shear to effect a quantum leap in understanding the air-plant-soil\
+    \ exchange. DarkMix will build the ground-breaking first-ever fiber-optic distributed\
+    \ temperature sensing harp to fully resolve the 3-dimensional flow and air temperature\
+    \ fields and enable unprecedented computation of eddy covariance fluxes at scales\
+    \ of seconds over 4 orders of magnitude (deci- to hundreds of meters). Both key\
+    \ innovations bear significant risks of technical and fundamental nature, which\
+    \ are mitigated by pursuing alternatives. Measurements will inform cutting-edge\
+    \ large eddy simulations to test hypotheses. The interdisciplinary dimension takes\
+    \ DarkMix to a unique set of weak-wind sites including a valley-bottom grassland,\
+    \ a forest in complex terrain, and a city to investigate topographic effects,\
+    \ the forest carbon cycle, and the urban heat island.DarkMix will open a new window\
+    \ for surface meteorology and its links to air quality, biogeochemistry, and climate\
+    \ change by giving physically meaningful and societally relevant answers to profound\
+    \ questions such as the exchange of greenhouse gases, hazards from ground fog,\
+    \ urban pollution, and agricultural losses through extreme cold air.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/51f31402-7b64-3be2-ae6d-4b9b17b9b0e1
+distribution:
+  contentUrl:
+    url: 10.5194/amt-14-2409-2021
+    type: WWW:LINK
+    title: Link

@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1029-2020wr027282
+  dataseturi: https://doi.org/10.1029/2020wr027282
+  datestamp: ''
+identification:
+  title: 'The Stream Length Duration Curve: A Tool for Characterizing the Time Variability
+    of the Flowing Stream Length'
+  abstract: 'Despite the ubiquity of expansion and retraction dynamics of flowing
+    streams, the large majority of biogeochemical and hydrological studies conceive
+    river networks as static elements of the landscape, and a coherent framework to
+    quantify nature and extent of drainage network dynamics is lacking. The implications
+    of this phenomenon extend far beyond hydrology and involve key ecological and
+    biogeochemical function of riparian corridors. The proposed research project will
+    move beyond the traditional paradigm of static river networks by unravelling,
+    for the first time, physical causes and biogeochemical consequences of stream
+    dynamics. In particular, the project will undertake the following overarching
+    scientific questions; 1) what are the climatic and geomorphic controls on the
+    expansion/contraction of river networks? 2) what is the length of temporary streams
+    and what is their impact on catchment-scale biogeochemical processes and stream
+    water quality across scales? These challenging issues will be addressed by developing
+    a novel theoretical framework complemented by extensive field observations within
+    four representative sites along a climatic gradient in the EU. Field measurements
+    will include long-term weekly mapping of the active drainage network and daily
+    hydro-chemical data across scales. The experimental dataset will be used to develop
+    and inform a set of innovative modelling tools, including an analytical framework
+    for the description of spatially explicit hydrologic dynamics driven by stochastic
+    rainfall and a modular hydro-chemical model based on the concept of water age,
+    able to account for the variable connectivity among soil, groundwater and channels
+    as induced by stream network dynamics. The project will open new avenues to quantify
+    freshwater carbon emissions - crucially dependent on the extent of ephemeral streams
+    - and it will provide a robust basis to identify temporary rivers and maintain
+    their biogeochemical function in times of global change.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/3ba5ebe2-f4ef-33a3-847d-f279e46d8d7c
+  Botter-G.:
+    individualname: Botter, G.
+    role: creator
+  Durighetto-N.:
+    individualname: Durighetto, N.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'The Stream Length Duration Curve: A Tool for Characterizing the Time Variability
+      of the Flowing Stream Length'
+    url: http://dx.doi.org/10.1029/2020wr027282
+    type: www
+  contentUrl:
+    url: 10.1029/2020wr027282
+    type: WWW:LINK
+    title: Link
+content_info: {}

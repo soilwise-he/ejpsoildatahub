@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-rs13214486
+  dataseturi: https://doi.org/10.3390/rs13214486
+identification:
+  title: 'Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments
+    in Real-Time: A Review'
+  abstract: "A growing global population demands increasing food production, which\
+    \ requires increasing use of pesticides and fertilizers. About 130 million tons\
+    \ of herbicides per year are used in Europe alone that persist in the environment,\
+    \ destroy non-target plants and beneficial insects for the soil and produce health\
+    \ effects in animals and humans \u2013cancer, birth defects and endocrine disruption.\
+    \ Moreover, existing herbicides become more and more ineffective due to the evolution\
+    \ and spread of herbicide-resistant weeds. Substitution of herbicides by mechanical\
+    \ automatic systems is under study, but mechanical solutions contribute to deteriorate\
+    \ the soil properties, harm beneficial soil organisms and provide poor results\
+    \ for in-row weeding.WeLASER solution focuses on non-chemical weed management\
+    \ based on applying lethal doses of energy on the weed meristems using a high-power\
+    \ laser source. An AI-vision system discriminates crops from weeds and detects\
+    \ the position of the weed meristems to point the laser on them using a laser\
+    \ scanner. An autonomous vehicle carries these systems all over the field. A smart\
+    \ controller coordinates these systems and uses IoT and cloud computing techniques\
+    \ to manage agricultural knowledge. This technology will provide a clean solution\
+    \ to the weeding problem and will help to decrease significantly the chemicals\
+    \ on the environment. The required technologies for building this system and the\
+    \ number of actors needed to push it close to market demands the participation\
+    \ of ten experienced groups not easily found at the national level. Moreover,\
+    \ the cost of this high-technological equipment exceeds the funding levels of\
+    \ national organizations and claims the collaboration of large governmental institutions.\
+    \ Thus, with the EC help, WeLASER will put to work a large group of actors and\
+    \ stakeholders to advance in achieving the demanded productivity in agriculture\
+    \ while making the environment more sustainable and enhancing health to animals\
+    \ and humans.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/981dc5a5-5432-355e-b976-c1ad74557e4b
+distribution:
+  contentUrl:
+    url: 10.3390/rs13214486
+    type: WWW:LINK
+    title: Link

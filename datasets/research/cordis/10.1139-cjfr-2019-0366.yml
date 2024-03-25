@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Horemans_2021
+  dataseturi: https://doi.org/10.1139/cjfr-2019-0366
+  datestamp: ''
+identification:
+  title: How random are predictions of forest growth? The importance of weather variability
+  abstract: 'Understanding soil processes and their role in ecosystem functioning
+    is essential for effective protection, restoration and sustainable use of soils
+    and terrestrial ecosystems. Forest ecosystem models dynamically simulate fluxes
+    of carbon, water, nitrogen and other nutrients through a forest ecosystem. Only
+    models that account for all key interactions between climate, soil and plants
+    can become versatile and reliable tools to predict the effect of different management
+    strategies or future global changes on forests and soils. The effect of soil fauna
+    has been so far neglected in most of similar models. However, with our increasing
+    understanding of the crucial role of fauna on many processes, there is a general
+    consensus on the need to implement these effects into ecosystem models. The main
+    research question of this project is; Does a model that includes an active role
+    of soil fauna provide better prediction of soil processes than previous simpler
+    models?  ANAFORE is a stand-scale mechanistic forest model with a detailed soil
+    model. The specific objectives of this project are 1) to develop a new soil submodel
+    that will account for important effects of soil fauna on the simulated fluxes
+    of water, carbon, nitrogen and phosphorus; and integrate it into the ANAFORE model.
+    The modeled effects include fragmentation, bioturbation, aggregation, macropore
+    formation and foodweb effects on soil organic matter decomposition, 2) to optimize
+    and validate the new model using; i) historical experimental data obtained during
+    long-term research at Sokolov post-mining ecosystems LTER site, ii) additional
+    literature and original data collected during the project for modelling purposes;
+    3) to compare performance of the new ANAFORE soil submodel with the previous version
+    of ANAFORE and the Yasso model as an example of a simple model that predicts organic
+    matter decomposition only based on litter quality and abiotic factors.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/02ea1b5f-5aee-3d22-8a12-f661c18c4987
+  Horemans-Joanna:
+    individualname: Horemans, Joanna
+    role: creator
+  Vinduskova-Olga:
+    individualname: "Vindu\u0161kov\xE1, Olga"
+    role: creator
+  Deckmyn-Gaby:
+    individualname: Deckmyn, Gaby
+    role: creator
+  Canadian-Science-Publishing:
+    individualname: Canadian Science Publishing
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: How random are predictions of forest growth? The importance of weather variability
+    url: http://dx.doi.org/10.1139/cjfr-2019-0366
+    type: www
+content_info: {}

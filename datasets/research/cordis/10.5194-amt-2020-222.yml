@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gkikas_2020
+  dataseturi: https://doi.org/10.5194/amt-2020-222
+  datestamp: ''
+identification:
+  title: 'ModIs Dust AeroSol (MIDAS): A global fine resolution dust optical depth
+    dataset'
+  abstract: "Soil dust aerosols are mixtures of different minerals, whose relative\
+    \ abundances, particle size distribution (PSD), shape, surface topography and\
+    \ mixing state influence their effect upon climate. However, Earth System Models\
+    \ typically assume that dust aerosols have a globally uniform composition, neglecting\
+    \ the known regional variations in the mineralogy of the sources. The goal of\
+    \ FRAGMENT is to understand and constrain the global mineralogical composition\
+    \ of dust along with its effects upon climate. The representation of the global\
+    \ dust mineralogy is hindered by our limited knowledge of the global soil mineral\
+    \ content and our incomplete understanding of the emitted dust PSD in terms of\
+    \ its constituent minerals that results from the fragmentation of soil aggregates\
+    \ during wind erosion. The emitted PSD affects the duration of particle transport\
+    \ and thus each mineral\u2019s global distribution, along with its specific effect\
+    \ upon climate. Coincident observations of the emitted dust and soil PSD are scarce\
+    \ and do not characterize the mineralogy. In addition, the existing theoretical\
+    \ paradigms disagree fundamentally on multiple aspects. We will contribute new\
+    \ fundamental understanding of the size-resolved mineralogy of dust at emission\
+    \ and its relationship with the parent soil, based on an unprecedented ensemble\
+    \ of measurement campaigns that have been designed to thoroughly test our theoretical\
+    \ hypotheses. To improve knowledge of the global soil mineral content, we will\
+    \ evaluate and use available remote hyperspectral imaging, which is unprecedented\
+    \ in the context of dust modelling. Our new methods will anticipate the coming\
+    \ innovation of retrieving soil mineralogy through high-quality spaceborne hyperspectral\
+    \ measurements. Finally, we will generate integrated and quantitative knowledge\
+    \ of the role of dust mineralogy in dust-radiation, dust-chemistry and dust-cloud\
+    \ interactions based on modeling experiments constrained with our theoretical\
+    \ innovations and field measurements.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/5dfe7b25-84b1-36cf-a320-97dea47c9bbf
+  Gkikas-Antonis:
+    individualname: Gkikas, Antonis
+    role: creator
+  Proestakis-Emmanouil:
+    individualname: Proestakis, Emmanouil
+    role: creator
+  Amiridis-Vassilis:
+    individualname: Amiridis, Vassilis
+    role: creator
+  Kazadzis-Stelios:
+    individualname: Kazadzis, Stelios
+    role: creator
+  Di-Tomaso-Enza:
+    individualname: Di Tomaso, Enza
+    role: creator
+  Tsekeri-Alexandra:
+    individualname: Tsekeri, Alexandra
+    role: creator
+  Marinou-Eleni:
+    individualname: Marinou, Eleni
+    role: creator
+  Hatzianastassiou-Nikos:
+    individualname: Hatzianastassiou, Nikos
+    role: creator
+  Perez-Garcia-Pando-Carlos:
+    individualname: "P\xE9rez Garc\xEDa-Pando, Carlos"
+    role: creator
+  Copernicus-GmbH:
+    individualname: Copernicus GmbH
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'ModIs Dust AeroSol (MIDAS): A global fine resolution dust optical depth
+      dataset'
+    url: http://dx.doi.org/10.5194/amt-2020-222
+    type: www
+content_info: {}

@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Vernardos_2020
+  dataseturi: https://doi.org/10.1093/mnras/staa3201
+  datestamp: ''
+identification:
+  title: Quantifying the structure of strong gravitational lens potentials with uncertainty-aware
+    deep neural networks
+  abstract: 'Earth Observation (EO) is undergoing a radical transformation due to
+    the massive volume of observations acquired by remote sensing and in-situ sensor
+    networks. While satellites provide coarse-resolution, yet global-scale monitoring
+    of environmental processes, in-situ sensor networks acquire high-accuracy localized
+    measurements. Extracting information from spaceborne and ground based instruments
+    requires innovative solutions which will allow the autonomous integration of diverse
+    in nature and scale observations in order to provide high-quality geophysical
+    parameter estimation. CALCHAS will demonstrate cutting edge technologies targeting
+    three major factors towards the vision of fully automated multi-source EO data
+    understanding, namely (i) the fusion of observations from different sources and
+    modalities, (ii) the efficient aggregation of the sampling scales associated with
+    spaceborne and in-situ measurements, and (iii) the analysis of time-series of
+    dynamic observations. To that end, the paradigm-shifting signal processing and
+    learning framework of Deep Learning will be utilized and extended through powerful
+    mathematical tools and appropriate methodologies like supervised and generative
+    learning, dramatically extending the current scope of single source data analysis.
+    The developed framework will be employed for analyzing time-series of measurements
+    from active and passive microwave and multispectral spaceborne imaging instruments
+    (SMAP, SMOS and Sentinels), and in-situ sensor measurements, targeting the high-accuracy
+    spatial and temporal resolution enhancement for observations and soil moisture
+    estimation. The merits of the developed technology will be demonstrated in two
+    intelligent water management case studies, namely optimized irrigation management
+    and water pipeline leakage detection.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/424b5119-015d-3bff-aaf3-8f786bad7713
+  Vernardos-Georgios:
+    individualname: Vernardos, Georgios
+    role: creator
+  Tsagkatakis-Grigorios:
+    individualname: Tsagkatakis, Grigorios
+    role: creator
+  Pantazis-Yannis:
+    individualname: Pantazis, Yannis
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Quantifying the structure of strong gravitational lens potentials with uncertainty-aware
+      deep neural networks
+    url: http://dx.doi.org/10.1093/mnras/staa3201
+    type: www
+content_info: {}

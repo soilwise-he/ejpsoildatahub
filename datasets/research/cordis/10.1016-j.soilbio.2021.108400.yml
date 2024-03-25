@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Brangar__2021
+  dataseturi: https://doi.org/10.1016/j.soilbio.2021.108400
+  datestamp: ''
+identification:
+  title: "The mechanisms underpinning microbial resilience to drying and rewetting\
+    \ \u2013 A model analysis"
+  abstract: "Quoting T. Dobzhansky, \u201Cnothing in biology makes sense except in\
+    \ the light of evolution\u201D. This idea could shed new light on how soil microbes\
+    \ access, transform, store, and release their most important resources \u2013\
+    \ carbon and nutrients. We know that these microbial processes have global-scale\
+    \ impacts, including climate regulation and provision of nutrients to plants,\
+    \ but how microbes respond to changes in resources remains challenging to understand\
+    \ and quantify with models. In fact, current models cannot reliably reproduce\
+    \ carbon and nutrient storage and fluxes when soils are disturbed by land use\
+    \ changes or environmental fluctuations (especially of soil moisture). To address\
+    \ these urgent challenges and improve predictability of carbon and nutrient cycling,\
+    \ I propose a novel theory based on the premise that microbial use of soil resources\
+    \ is optimized by natural selection. This approach will provide a holistic explanation\
+    \ of microbial processes and yield models that are more reliable than traditional\
+    \ ones because they account for microbial adaptation. After testing this optimality\
+    \ hypothesis, I will answer the broader and globally relevant question \u2013\
+    \ are land use and climatic changes increasing retention or loss of soil carbon\
+    \ and nutrients?The project will achieve four objectives;1)\tDetermine the optimal\
+    \ strategies of resource use by soil microbes2)\tFill knowledge gaps on microbial\
+    \ processes by constructing new databases3)\tTest the optimality theory using\
+    \ the new databases 4)\tIntegrate the optimality theory into a land surface model\
+    \ to scale up results and assess impacts of land use and climatic (specifically\
+    \ hydrologic) changes on carbon and nutrient storage and fluxesThese theoretical\
+    \ advances will spur a new generation of soil models that translate the outcomes\
+    \ of natural selection into reliable predictions of land use and climate change\
+    \ effects on global ecosystems.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/2f28d607-ecb6-3e0f-b43e-d5a193669b33
+  Brangari-Albert-C.:
+    individualname: "Brangar\xED, Albert C."
+    role: creator
+  Manzoni-Stefano:
+    individualname: Manzoni, Stefano
+    role: creator
+  Rousk-Johannes:
+    individualname: Rousk, Johannes
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "The mechanisms underpinning microbial resilience to drying and rewetting\
+      \ \u2013 A model analysis"
+    url: http://dx.doi.org/10.1016/j.soilbio.2021.108400
+    type: www
+content_info: {}

@@ -1,0 +1,126 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1002-cli2.19
+  dataseturi: https://doi.org/10.1002/cli2.19
+  datestamp: ''
+identification:
+  title: An alert system for Seasonal Fire probability forecast for South American
+    Protected Areas
+  abstract: 'Roughly 30% of Nationally Determined Contributions (NDCs) under the Paris
+    Agreement (PA) include land-based mitigation measures, but there are still significant
+    uncertainties in their effectiveness to deliver negative emissions. Aside from
+    the expected shortfall of all current NDCs to deliver on the below 2 oC ambition,
+    this uncertainty adds to the risks to human wellbeing as a result of climate change.
+    Land-use based mitigation technologies (LMTs) can play a crucial role in the global
+    efforts to meet the PA goals and the Sustainable Development Goals (SDGs). Considering
+    the land-climate-development interface, LANDMARC aims to assess the impacts of
+    LMTs as net sinks for greenhouse gas (GHGs) by applying unique mixed-methods approach.
+    LANDMARC assesses the potential and feasibility of LMTs in the AFOLU sector by;
+    a) quantitatively assessing environmental, social-economic, co-benefits and trade-offs
+    identified through a suite of monitoring tools and model system (including land
+    use, climate and economic models) complemented by; b) qualitative assessments
+    guided by stakeholder engagement. This mixed-method approach allows us to provide
+    more detailed insights on the effectiveness and climate resilience of LMTs at
+    different spatial scales (e.g. scaling up from local/national level to the regional/global
+    level). These tools, services and approaches will contribute to land-based LMT
+    decision support in the private sector and by policy makers. LANDMARC is an interdisciplinary
+    consortium with expertise from ecology, engineering, climate sciences, global
+    carbon cycle, soil sciences, satellite earth observation sciences, agronomy, economics,
+    social sciences, and business. There is a balanced representation of partners
+    from academia, SMEs, and NGOs from the EU, Africa, Asia and the Americas, which
+    ensures a wide coverage of LMTs operating in different contexts (e.g. climates,
+    land-use practices, socio-economic etc.) and spatial scales.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/5aa930a4-3e58-3d04-9bb4-633fc1b3e53d
+  Anderson-Liana-O.:
+    individualname: Anderson, Liana O.
+    role: creator
+  Burton-Chantelle:
+    individualname: Burton, Chantelle
+    role: creator
+  dos-Reis-Joao-B.-C.:
+    individualname: "dos Reis, Jo\xE3o B. C."
+    role: creator
+  Pessoa-Ana-Carolina-M.:
+    individualname: "Pess\xF4a, Ana Carolina M."
+    role: creator
+  Bett-Philip:
+    individualname: Bett, Philip
+    role: creator
+  Carvalho-Nathalia-S.:
+    individualname: "Carvalho, Nath\xE1lia S."
+    role: creator
+  Junior-Celso-H.-L.-Silva:
+    individualname: Junior, Celso H. L. Silva
+    role: creator
+  Williams-Karina:
+    individualname: Williams, Karina
+    role: creator
+  Selaya-Galia:
+    individualname: Selaya, Galia
+    role: creator
+  Armenteras-Dolors:
+    individualname: Armenteras, Dolors
+    role: creator
+  Bilbao-Bibiana-A.:
+    individualname: Bilbao, Bibiana A.
+    role: creator
+  Xaud-Haron-A.-M.:
+    individualname: Xaud, Haron A. M.
+    role: creator
+  Rivera-Lombardi-Roberto:
+    individualname: "Rivera\u2010Lombardi, Roberto"
+    role: creator
+  Ferreira-Joice:
+    individualname: Ferreira, Joice
+    role: creator
+  Aragao-Luiz-E.-O.-C.:
+    individualname: "Arag\xE3o, Luiz E. O. C."
+    role: creator
+  Jones-Chris-D.:
+    individualname: Jones, Chris D.
+    role: creator
+  Wiltshire-Andrew-J.:
+    individualname: Wiltshire, Andrew J.
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: An alert system for Seasonal Fire probability forecast for South American
+      Protected Areas
+    url: http://dx.doi.org/10.1002/cli2.19
+    type: www
+  contentUrl:
+    url: 10.1002/cli2.19
+    type: WWW:LINK
+    title: Link
+content_info: {}

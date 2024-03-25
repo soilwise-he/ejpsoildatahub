@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5281-zenodo.4506403
+  dataseturi: https://doi.org/10.5281/zenodo.4506403
+identification:
+  title: Quantifying biogenic carbon dioxide fluxes in an urban area
+  abstract: 'Monitoring CO2 emissions of urban areas has become a necessity for sustainable
+    urban planning and climate change mitigation. The current urban inventories are
+    based on top-down approaches that use fuel and electricity consumption statistics
+    for determining CO2 emissions. Such approaches present consistency issues, neglect
+    the biogenic components of the urban carbon cycle (i.e. vegetation, soil) and
+    have restricted spatial and temporal resolution. The main goal of diFUME is to
+    provide a robust methodology for mapping and monitoring the actual urban CO2 flux
+    at optimum spatial and temporal scales, meaningful for urban design decisions.
+    diFUME will develop, apply and evaluate independent models, capable to estimate
+    all the different components of the urban carbon cycle (i.e. building emissions,
+    traffic emissions, human metabolism, photosynthetic uptake, plant respiration,
+    soil respiration). An innovative interdisciplinary methodology will be introduced,
+    combining two cutting-edge technology tools, the Eddy Covariance (EC) and the
+    latest advances in Earth Observation (EO). EC provides continuous in-situ measurements
+    of CO2 flux at the local scale. Previous EC applications in urban areas have provided
+    valuable insights on the holistic understanding of the urban CO2 flux according
+    to the source/sink distribution in the highly heterogeneous urban environment.
+    EO offers synoptic and continuous monitoring of large areas, capable of enhanced
+    representation of the urban cover, morphology and function. Combined use of EO
+    and EC can provide enhanced interpretation and modelling capabilities to achieve
+    fine scale mapping and monitoring of urban CO2 flux. diFUME methodology will be
+    developed and applied in the case study of Basel, exploiting the unique infrastructure
+    and long-term urban EC measurements. diFUME methodology can be transferable to
+    any city, providing an independent toolbox for consistent urban CO2 emission monitoring,
+    supporting sustainable urban planning strategies.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/8e9e13a0-316a-3dbb-a01e-266cec806f3c
+distribution:
+  contentUrl:
+    url: 10.5281/zenodo.4506403
+    type: WWW:LINK
+    title: Link

@@ -1,0 +1,90 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1029-2021jg006593
+  dataseturi: https://doi.org/10.1029/2021jg006593
+  datestamp: ''
+identification:
+  title: Identifying Data Needed to Reduce Parameter Uncertainty in a Coupled Microbial
+    Soil C and N Decomposition Model
+  abstract: "Soil organic matter is the largest land carbon (C) pool, vulnerable to\
+    \ land-use change and climate change. Soil C models are used to assess current\
+    \ organic C stocks and make predictions under future conditions. These models\
+    \ are typically developed to make predictions over centennial timescales. Given\
+    \ the \u20184 per mil\u2019 initiative, there is now a critical need for annual-to-decadal\
+    \ soil C stock predictions to evaluate land management decisions and hold participants\
+    \ accountable to stated goals. The project proposes a new soil model framework\
+    \ to make predictions at annual-to-decadal timescales by developing a Bayesian\
+    \ forecasting model from a deterministic soil carbon model with the capacity to\
+    \ ingest multiple data types, propagate uncertainty from data and parameters into\
+    \ predictions, and update predictions when new data become available. The main\
+    \ focus is probabilistic prediction of soil C changes under land use and climate\
+    \ change for the next two decades. Specifically, the project plans build a forecasting\
+    \ model version of the Millennial model, recently developed by the researcher\
+    \ with University colleagues. The Millennial model is an evolution of the commonly\
+    \ used soil C model Century \u2013 also incorporated in the global land surface\
+    \ model (ORCHIDEE) of the host institution (LSCE) - but in contrast to Century,\
+    \ Millennial includes soil pools that correspond directly to measurements. First,\
+    \ we will develop the Bayesian calibration of modeled temperature response against\
+    \ warming experiment data, using the Millennial model to integrate measurements\
+    \ from the multi-national, collaborative whole-soil warming experiments FORHOT\
+    \ and BBSFA. Then, we will develop the Bayesian calibration of the modeled land\
+    \ management response against field data with different amounts and quality of\
+    \ added litter. We will then incorporate this new model into ORCHIDEE to predict\
+    \ soil C storage for near term land-based mitigation objectives of the Paris Climate\
+    \ Agreement.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/8aa684ff-9714-31cf-a34b-b1472a880ce7
+  Saifuddin-Mustafa:
+    individualname: Saifuddin, Mustafa
+    role: creator
+  Abramoff-Rose-Z.:
+    individualname: Abramoff, Rose Z.
+    role: creator
+  Davidson-Eric-A.:
+    individualname: Davidson, Eric A.
+    role: creator
+  Dietze-Michael-C.:
+    individualname: Dietze, Michael C.
+    role: creator
+  Finzi-Adrien-C.:
+    individualname: Finzi, Adrien C.
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Identifying Data Needed to Reduce Parameter Uncertainty in a Coupled Microbial
+      Soil C and N Decomposition Model
+    url: http://dx.doi.org/10.1029/2021jg006593
+    type: www
+  contentUrl:
+    url: 10.1029/2021jg006593
+    type: WWW:LINK
+    title: Link
+content_info: {}

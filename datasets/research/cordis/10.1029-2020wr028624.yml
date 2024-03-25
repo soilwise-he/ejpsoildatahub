@@ -1,0 +1,91 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1029-2020wr028624
+  dataseturi: https://doi.org/10.1029/2020wr028624
+  datestamp: ''
+identification:
+  title: "Hydraulic and Physical Properties of Managed and Intact Peatlands: Application\
+    \ of the Van Genuchten\u2010Mualem Models to Peat Soils"
+  abstract: 'The WATERAGRI vision is to solve agricultural water management and soil
+    fertilisation challenges in a sustainable manner to secure affordable food production
+    in Europe for the 21st century. The WATERAGRI concept aims to introduce a new
+    framework for the use of affordable small water retention approaches for managing
+    excess and shortage of water as well as better recovery of nutrients from agricultural
+    catchments applying a multi-actor approach. The objectives are to(a) Co-develop
+    (multi-actor approach) the links between agricultural land and soil-sediment-water
+    management for improved management of water excess and shortage, maximizing crop
+    production and improving water quality and nutrient uptake by crops;(b) Undertake
+    both technical and sustainability assessments of proposed measures considering
+    tested and reviewed management options;(c) Develop a cloud-based simulation and
+    data assimilation system based on a physically-based terrestrial system model,
+    which is able to assimilate in situ and remotely sensed observations of hydrological
+    and plant variables and meteorological data in near-real time to analyse effects
+    of structures such as drains and dams for improved farm-scale water management
+    and retention;(d) Identify, develop and test affordable and easy-to-implement
+    long-term technical and operational farm solutions such as controlled drainage,
+    regulated deficit irrigation, subsurface irrigation, groundwater recharge, farm
+    constructed wetlands, soil management and nutrient recovery options;(e) Assess
+    the techniques for their potential regarding adaptation to climate change and
+    their impact on ecosystem services for different biogeographic regions using case
+    studies; and(f) Disseminate the implemented innovations to farmers, advisory services
+    and decision-makers as part of a multi-actor approach.The key performance indicators
+    are increased crop production, enhanced nutrient recovery from streams and a simulation
+    and data assimilation system.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/70c8dc9b-1f91-3eae-b768-9f9392bcee0c
+  Menberu-Meseret-Walle:
+    individualname: Menberu, Meseret Walle
+    role: creator
+  Marttila-Hannu:
+    individualname: Marttila, Hannu
+    role: creator
+  Ronkanen-Anna-Kaisa:
+    individualname: "Ronkanen, Anna\u2010Kaisa"
+    role: creator
+  Haghighi-Ali-Torabi:
+    individualname: Haghighi, Ali Torabi
+    role: creator
+  Klove-Bjorn:
+    individualname: "Kl\xF8ve, Bj\xF8rn"
+    role: creator
+  American-Geophysical-Union-AGU:
+    individualname: American Geophysical Union (AGU)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "Hydraulic and Physical Properties of Managed and Intact Peatlands: Application\
+      \ of the Van Genuchten\u2010Mualem Models to Peat Soils"
+    url: http://dx.doi.org/10.1029/2020wr028624
+    type: www
+  contentUrl:
+    url: 10.1029/2020wr028624
+    type: WWW:LINK
+    title: Link
+content_info: {}

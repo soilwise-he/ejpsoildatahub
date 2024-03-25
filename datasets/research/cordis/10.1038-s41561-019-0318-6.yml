@@ -1,0 +1,96 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1038-s41561-019-0318-6
+  dataseturi: https://doi.org/10.1038/s41561-019-0318-6
+  datestamp: ''
+identification:
+  title: Drought impacts on terrestrial primary production underestimated by satellite
+    monitoring
+  abstract: "The feedback between climate and the land carbon (C) cycle poses one\
+    \ of the largest uncertainties in climate change projections. FIBER targets the\
+    \ unresolved challenge for Dynamic Global Vegetation Models (DGVM) to simulate\
+    \ effects of soil fertility and nutrient deposition on biomass productivity (BP)\
+    \ and the land C balance. Accumulating evidence documents how plants adjust their\
+    \ growth strategies and C allocation under multiple limiting resources. Current\
+    \ DGVMs lag behind these new insights, produce widely diverging results for C\
+    \ cycling and nutrient limitation under future scenarios and fail to explain the\
+    \ observed land C sink. This work will provide a new global modelling approach\
+    \ to simulating flexible plant C allocation following optimality principles. A\
+    \ better understanding of the controls on BP is crucial for assessing climate\
+    \ change impacts on ecosystem services and to reduce uncertainty in C cycle and\
+    \ climate change projections.I will develop a new type of plant growth model to\
+    \ predict increased root growth and export of labile C to soil biota on infertile\
+    \ soils and under low N inputs, consistent with powerful data from forest inventories\
+    \ and ecosystem manipulation experiments. By accounting for trade-offs between\
+    \ different growth strategies and a C cost of nutrient uptake, I will simulate\
+    \ the plant C economy under optimality constraints \u2013 a powerful approach,\
+    \ supported by observations but not exploited for DGVMs. The project is conceived\
+    \ to combine the relevant expertise and exploit the pioneering science of leading\
+    \ European researchers with my integrating role and demonstrated model development\
+    \ skills. Collaboration with two secondment hosts will facilitate the mining of\
+    \ their large data resources and fusing data into model predictions using Bayesian\
+    \ statistical tools. This project will integrate new model components developed\
+    \ at my current host institute and will be a crucial step on the way to building\
+    \ the next generation of vegetation models.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/80882abe-6ba0-3cc9-853e-e1e899c1e406
+  Stocker-Benjamin-D.:
+    individualname: Stocker, Benjamin D.
+    role: creator
+  Zscheischler-Jakob:
+    individualname: Zscheischler, Jakob
+    role: creator
+  Keenan-Trevor-F.:
+    individualname: Keenan, Trevor F.
+    role: creator
+  Prentice-I.-Colin:
+    individualname: Prentice, I. Colin
+    role: creator
+  Seneviratne-Sonia-I.:
+    individualname: Seneviratne, Sonia I.
+    role: creator
+  Penuelas-Josep:
+    individualname: "Pe\xF1uelas, Josep"
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Drought impacts on terrestrial primary production underestimated by satellite
+      monitoring
+    url: http://dx.doi.org/10.1038/s41561-019-0318-6
+    type: www
+  contentUrl:
+    url: 10.1038/s41561-019-0318-6
+    type: WWW:LINK
+    title: Link
+content_info: {}

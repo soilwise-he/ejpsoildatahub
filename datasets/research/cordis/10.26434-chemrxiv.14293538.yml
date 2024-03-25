@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.26434-chemrxiv.14293538
+  dataseturi: https://doi.org/10.26434/chemrxiv.14293538
+identification:
+  title: Advanced Solid State Nano-electrochemical Sensors and System for Agri 4.0
+    Applications
+  abstract: "SARMENTI develops a multisensor, low power IoT secure node to provide\
+    \ decision support to farmers by monitoring in real-time and in situ soil nutrients\
+    \ and gaseous emission. From this data measured on a daily basis over crop lifecycles,\
+    \ the farmer will timely perform appropriate actions regarding fertilisation,\
+    \ with direct impact on crop growth, soil & water quality and farmer income.The\
+    \ SARMENTI system will embed electrochemical sensors to measure e.g. NOx, POx,\
+    \ NH4, K, urea, pH, moisture, temperature. They will stay ideally during the crop\
+    \ lifecycle in the soil with packaging issues to protect them from their environment.\
+    \ A hygroscopic membrane will attract water from the soil, avoiding integration\
+    \ of a power hungry active pump usually used to exact water from a soil sample.\
+    \ SARMENTI will also monitor N2O (may appear in the nitrate cycle) and CH4 (generated\
+    \ by decomposition of manure under anaerobic conditions) just above the ground.\
+    \ These gases are greenhouse ones with higher warming potential than CO2.SARMENTI\
+    \ is part of the IoT (e.g. LoRa, BLE connexion). Data integrity is guaranteed\
+    \ by developing a secure node via combination of attack detection and automatic\
+    \ countermeasures application.Partners bring SoA prototypes of electrochemical\
+    \ and gas sensors and communication submodules, know-how in security for IoT nodes,\
+    \ and expertise in Agriculture. SARMENTI will further improve the prototypes (power,\
+    \ usage duration, hygroscopic membrane, packaging, sensitivity, selectivity) and\
+    \ integrate them with advanced processing in a connected secured device. Cloud\
+    \ Decisions support will allow evaluate the overall solution, SARMENTI demonstrator\
+    \ being tested in real fields.SARMENTI directly addresses ICT-7 challenge; \u201C\
+    develop and validate new generation of cost-effective ESS ...\u201D, RIA aim;\
+    \ \u201Cdemonstrate ESS bringing intelligence ... integration of sensor systems,\
+    \ processors, computing and networking elements... and \u201Cverification, exploitation...\
+    \ clearly identified.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/9aa066e1-7a41-32b9-9a84-eb4eff6dba96
+distribution:
+  contentUrl:
+    url: 10.26434/chemrxiv.14293538
+    type: WWW:LINK
+    title: Link

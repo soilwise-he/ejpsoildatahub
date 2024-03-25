@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Godoy_2018
+  dataseturi: https://doi.org/10.1016/j.tree.2018.01.007
+  datestamp: ''
+identification:
+  title: Towards the Integration of Niche and Network Theories
+  abstract: 'Current rates of biodiversity loss threaten the delivery of a range ecosystem
+    services critical to human welfare. To maintain ecosystem multifunctionality there
+    is a broad consensus that biodiversity must be conserved or restored, but a key
+    aspect of this, which is still poorly recognized, is that ecosystem services can
+    only persist over space and time if ecological communities are stable (i.e. species
+    within communities do not go locally extinct). However, the mechanistic connections
+    between the maintenance of species diversity and the stability of multiple ecosystem
+    functions have yet to be established. Such ecological knowledge is basic to understanding
+    the social and economic benefits of management actions on biodiversity. BioFUNC
+    aims to investigate the effects of the mechanisms maintaining species diversity
+    (niche and fitness differences) on the stability of multiple ecosystem functions.
+    To accomplish this we aim to take a multidisciplinary approach by combining recent
+    advances in ecological theory with plant population models and observational and
+    field experiments, along with structural equation modelling and meta-analytical
+    techniques. Two lines of related research will be pursued; 1) an investigation
+    of the effects of species traits on species coexistence in spatially and temporally
+    variable environments, and 2) an investigation of the effects of species coexistence
+    mechanisms on the stability of ecosystem functioning in space and time. BioFUNC
+    is a collaborative project between IRNAS-CSIC (Spain, beneficiary) and IPS-University
+    of Bern (Switzerland, partner), which foresees three key results. First, developing
+    a toolbox for predicting when ecosystems services are transient or stable. Second,
+    disentangling direct and indirect effects of climate, soil and species traits
+    on biodiversity and ecosystem functioning. Third, predicting the sign and magnitude
+    of a change in multiple ecosystem functions due to the loss of diversity or changes
+    in species composition
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/cd20de5e-e8dc-3f53-8eb7-919666fde1f9
+  Godoy-Oscar:
+    individualname: Godoy, Oscar
+    role: creator
+  Bartomeus-Ignasi:
+    individualname: Bartomeus, Ignasi
+    role: creator
+  Rohr-Rudolf-P.:
+    individualname: Rohr, Rudolf P.
+    role: creator
+  Saavedra-Serguei:
+    individualname: Saavedra, Serguei
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Towards the Integration of Niche and Network Theories
+    url: http://dx.doi.org/10.1016/j.tree.2018.01.007
+    type: www
+content_info: {}

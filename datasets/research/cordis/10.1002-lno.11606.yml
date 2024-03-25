@@ -1,0 +1,98 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1002-lno.11606
+  dataseturi: https://doi.org/10.1002/lno.11606
+  datestamp: ''
+identification:
+  title: The relevance of environment vs. composition on dissolved organic matter
+    degradation in freshwaters
+  abstract: 'Organic carbon  is exported from terrestrial to freshwater ecosystems
+    where, not only is it being degraded and eventually lost as carbon dioxide, but
+    such degradation occurs faster than in soils or marine systems. Across freshwaters,
+    variations in organic matter degradation and reactivity have been related to compositional
+    changes in  organic matter. The flux from terrestrial to aquatic systems seems
+    to be increasing associated to anthropogenic perturbations. However, despite the
+    relevance of these fluxes for the global C cycle, Earth System Models (ESMs) are
+    just starting to consider them. In that sense, a particularly crucial region deserving
+    urgent attention is the Arctic, as permafrost soils hold a massive C stock that
+    is vulnerable to being mobilized towards freshwaters. Such transfer could turn
+    that vulnerable C stock from a sink into a carbon dioxide source. Therefore, determining
+    the reactivity of that organic matter flux and incorporating it in surface models
+    is key at the moment. The foundation of CHROME is the idea that the chemical diversity
+    of organic matter explains its reactivity and, as such, should be considered in
+    biogeochemical models. CHROME represents the first attempt to incorporate organic
+    matter chemical diversity to ESMs, and will do so by; i) developing and selecting
+    functional chemical diversity indices as indicators of Arctic organic matter reactivity
+    and ii) implementing that knowledge in a regional branch of an ESM. CHROME is
+    based on the good match between the previous experience of the applicant and the
+    excellence of the host institutions, leaders in the field of biogeochemical research
+    in Arctic ecosystems (USGS, Boulder) and in global modelling (LSCE-CNRS, France).
+    CHROME will constitute a key advance in C biogeochemical understanding and modelling,
+    which will position the fellow at the forefront of geosciences research.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/edc7f11d-6d83-3220-abe8-a98f16cf7f7b
+  Catalan-Nuria:
+    individualname: "Catal\xE1n, N\xFAria"
+    role: creator
+  Pastor-Ada:
+    individualname: Pastor, Ada
+    role: creator
+  Borrego-Carles-M.:
+    individualname: Borrego, Carles M.
+    role: creator
+  Casas-Ruiz-Joan-Pere:
+    individualname: "Casas\u2010Ruiz, Joan Pere"
+    role: creator
+  Hawkes-Jeffrey-A.:
+    individualname: Hawkes, Jeffrey A.
+    role: creator
+  Gutierrez-Carmen:
+    individualname: "Guti\xE9rrez, Carmen"
+    role: creator
+  von-Schiller-Daniel:
+    individualname: von Schiller, Daniel
+    role: creator
+  Marce-Rafael:
+    individualname: "Marc\xE9, Rafael"
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: The relevance of environment vs. composition on dissolved organic matter
+      degradation in freshwaters
+    url: http://dx.doi.org/10.1002/lno.11606
+    type: www
+  contentUrl:
+    url: 10.1002/lno.11606
+    type: WWW:LINK
+    title: Link
+content_info: {}

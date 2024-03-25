@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1002-essoar.10508179.1
+  dataseturi: https://doi.org/10.1002/essoar.10508179.1
+  datestamp: ''
+identification:
+  title: 'Neutrons fast and slow: Boron-based Large-scale Observation of Soil Moisture
+    (BLOSM)'
+  abstract: "Objectives; Provide currently unavailable geo-information on weather,\
+    \ water and climate for sub-Saharan Africa by enhancing satellite-based geo-data\
+    \ with innovative in situ sensors and developing related information services\
+    \ that answer needs of African stakeholders and the GEOSS community.Concept; A\
+    \ systematic feedback loop to reciprocally validate in situ measurements and satellite\
+    \ data in one integrated model. Over 500 in situ measurement stations using citizen\
+    \ science. State of the art advancement & Innovation potential; Building on and\
+    \ pushing further recent advances in sensor and communication technology to provide\
+    \ cheaper and more robust in situ measurements covering a wider area at a higher\
+    \ resolution in sub-Saharan Africa.Working with tech-hubs in Europe and Africa\
+    \ to feed creation and growth of European and African start-ups that develop sensors\
+    \ and geo-services, delivering complete value chains from sensor to customer-ready\
+    \ information delivery.Impact on call expectations;  -Integration of in situ components\
+    \ into models based on GEOSS and Copernicus data-OGC compliant science-grade geo-data\
+    \ (atmosphere, hydrosphere, biosphere) delivered to GEOSS, incl. near-real time\
+    \ statistically characterized soil moisture data from Africa that can be used\
+    \ operationally (not currently available) and radar derived soil moisture measurements\
+    \ also available under cloudy conditions, or vegetation overgrowth-at least 20\
+    \ new products for use in food, water, energy security, climate change and resilience\
+    \ to natural hazards validated and ready for large-scale implementation by consortium\
+    \ partners and external stakeholders-based on at least 10 innovative, cost efficient,\
+    \ robust, sensors, including fast neutron coun-ter, track\xACing of convective\
+    \ storms with consumer lightning sensors and accelerometer for tree-crown weighing-(Bio-degradable)\
+    \ sensors reduced to one tenth to one hundredth of their current price, extremely\
+    \ low-maintenance, use of Unmanned Aerial Vehicles.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e309f043-b720-3be5-b280-56a9cae00314
+  Van-De-Giesen-Nick:
+    individualname: Van De Giesen, Nick
+    role: creator
+  van-Amelrooij-Edward:
+    individualname: van Amelrooij, Edward
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Neutrons fast and slow: Boron-based Large-scale Observation of Soil Moisture
+      (BLOSM)'
+    url: http://dx.doi.org/10.1002/essoar.10508179.1
+    type: www
+  contentUrl:
+    url: 10.1002/essoar.10508179.1
+    type: WWW:LINK
+    title: Link
+content_info: {}

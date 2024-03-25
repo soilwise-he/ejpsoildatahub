@@ -1,0 +1,77 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1007-978-3-030-39815-6_25
+  dataseturi: https://doi.org/10.1007/978-3-030-39815-6_25
+  datestamp: ''
+identification:
+  title: 'Interpolation of Data Measured by Field Harvesters: Deployment, Comparison
+    and Verification'
+  abstract: 'SIEUSOIL will design, implement and test a shared China-EU Web Observatory
+    platform that will provide Open Linked Data to monitor status and threats of soil
+    and assist in decision making for sustainable support of agro-ecosystem functions,
+    in view of the projected climate change. The Observatory platform will through
+    customizable modules support the wise management of soil at field level and will
+    provide showcase of good practices on soil management both for EU and China. The
+    final target will be to support sustainable management of soil, increase land
+    productivity sustainably, reduce crop yield variability across time and space,
+    and support the policy formulation process. Innovative practices and tools will
+    be tested in SIEUSOIL and their impact will be assessed for improved soil fertility
+    and land suitability.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/eaad6e7f-03af-33ac-9f43-5ae8bfe167ce
+  Reznik-Tomas:
+    individualname: "\u0158ezn\xEDk, Tom\xE1\u0161"
+    role: creator
+  Herman-Lukas:
+    individualname: "Herman, Luk\xE1\u0161"
+    role: creator
+  Trojanova-Katerina:
+    individualname: "Trojanov\xE1, Kate\u0159ina"
+    role: creator
+  Pavelka-Tomas:
+    individualname: "Pavelka, Tom\xE1\u0161"
+    role: creator
+  Leitgeb-Simon:
+    individualname: "Leitgeb, \u0160imon"
+    role: creator
+  Springer-International-Publishing:
+    individualname: Springer International Publishing
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Interpolation of Data Measured by Field Harvesters: Deployment, Comparison
+      and Verification'
+    url: http://dx.doi.org/10.1007/978-3-030-39815-6_25
+    type: www
+  contentUrl:
+    url: 10.1007/978-3-030-39815-6_25
+    type: WWW:LINK
+    title: Link
+content_info: {}

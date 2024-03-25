@@ -1,0 +1,94 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Ouaadi_2020
+  dataseturi: https://doi.org/10.1016/j.rse.2020.112050
+  datestamp: ''
+identification:
+  title: Monitoring of wheat crops using the backscattering coefficient and the interferometric
+    coherence derived from Sentinel-1 in semi-arid areas
+  abstract: 'The Mediterranean and Sahel regions are among the most sensitive areas
+    to climate change as demonstrated in many studies (IPCC, 2013). Increased rainfall
+    variability and ET rates will compromise irrigation potential and expansion plans
+    and increased competition and conflict over limited water resources. There are
+    significant knowledge gaps and uncertainties about how much water will be available
+    for a complete growing season, how much should be used for scheduling irrigation
+    efficiently and extracted from these regions. More information regarding water
+    use is necessary to improve agricultural planning and to manage water more efficiently
+    at different scales; farm and catchment/irrigation district level. Over both regions,
+    the temperature increase will cause higher evaporation and transpiration rates,
+    decreasing soil moisture and increasing crop water requirements. The expected
+    impact in rainfed agriculture is a decrease in yield due to heat and water stress
+    and an increase in the likelihood of crop failure in rainfed crops for maize,
+    millet and sorghum (Parkes et al. 2018). Ongoing changes in the socio-economic
+    and environmental background of rainfed farmers combined with the expected population
+    growth make timely and reliable information on rainfed crop yield and its spatial
+    variability essential in decision-support for improving food security and livelihoods.
+    To this end, both understanding of the long term changes (inter-annual variability)
+    and short-term changes (intra-annual variability) are needed.Temperature and precipitation
+    changing patterns will also increase hazards linked to environmental conditions
+    such as droughts, floods or crop pests like locust swarms. ACCWA aims to develop
+    the remote sensing based monitoring tools for agriculture and water and management
+    that help risk guidance in a climate change context.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/501a2e70-76b6-347f-9fc0-a0b2cc6fa2a8
+  Ouaadi-Nadia:
+    individualname: Ouaadi, Nadia
+    role: creator
+  Jarlan-Lionel:
+    individualname: Jarlan, Lionel
+    role: creator
+  Ezzahar-Jamal:
+    individualname: Ezzahar, Jamal
+    role: creator
+  Zribi-Mehrez:
+    individualname: Zribi, Mehrez
+    role: creator
+  Khabba-SaOd:
+    individualname: "Khabba, Sa\u221A\xD8d"
+    role: creator
+  Bouras-Elhoussaine:
+    individualname: Bouras, Elhoussaine
+    role: creator
+  Bousbih-Safa:
+    individualname: Bousbih, Safa
+    role: creator
+  Frison-Pierre-Louis:
+    individualname: Frison, Pierre-Louis
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Monitoring of wheat crops using the backscattering coefficient and the interferometric
+      coherence derived from Sentinel-1 in semi-arid areas
+    url: http://dx.doi.org/10.1016/j.rse.2020.112050
+    type: www
+content_info: {}

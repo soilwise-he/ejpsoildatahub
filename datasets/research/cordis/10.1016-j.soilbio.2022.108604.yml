@@ -1,0 +1,87 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Guseva_2022
+  dataseturi: https://doi.org/10.1016/j.soilbio.2022.108604
+  datestamp: ''
+identification:
+  title: 'From diversity to complexity: Microbial networks in soils'
+  abstract: "Microbial turnover of soil organic matter (SOM) is key for the terrestrial\
+    \ carbon (C) cycle. Its underlying mechanisms, however, are not fully understood.\
+    \ The role of soil microbes for organic matter turnover has so far been studied\
+    \ mainly from the point of view of microbial physiology, stoichiometry or community\
+    \ composition. I propose to shed new light on it from the perspective of complex\
+    \ systems science.Microbial decomposition of organic matter requires the concerted\
+    \ action of functionally different microbes interacting with each other in a spatially\
+    \ structured environment. From complex systems theory, it is known that interactions\
+    \ among individuals at the microscale can lead to an \u2018emergent\u2019 system\
+    \ behavior, or \u2018self-organisation\u2019, at the macroscale, which adds a\
+    \ new quality to the system that cannot be derived from the traits of the interacting\
+    \ agents. Importantly, if microbial decomposer systems are self-organised, they\
+    \ may behave in a different way as currently assumed, especially under changing\
+    \ environmental conditions.The aim of this project is thus to investigate i) if\
+    \ microbial decomposition of organic matter is driven by emergent behaviour, and\
+    \ ii) what consequences this has for soil C and nitrogen cycling. Combining state-of-the-art\
+    \ methods from soil biogeochemistry, microbial ecology, and complex systems science\
+    \ I will\u2022 Investigate mechanisms of spatial self-organization of microbial\
+    \ decomposer communities by linking microscale observations from experimental\
+    \ microcosms to mathematical, individual-based modelling,  \u2022 Elucidate microbial\
+    \ interaction networks across the soil\u2019s microarchitecture by linking microbial\
+    \ community composition, process rates and chemical composition of spatially explicit\
+    \ soil micro-units at an unprecedented small and pertinent scale. \u2022 Explore\
+    \ fundamental patterns of self-organisation by applying the framework of complex\
+    \ systems science to high-resolution spatial and temporal data of soil microstructure\
+    \ and process rates.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/ef7e1350-1d26-37f5-abdb-f527e94a0485
+  Guseva-Ksenia:
+    individualname: Guseva, Ksenia
+    role: creator
+  Darcy-Sean:
+    individualname: Darcy, Sean
+    role: creator
+  Simon-Eva:
+    individualname: Simon, Eva
+    role: creator
+  Alteio-Lauren-V.:
+    individualname: Alteio, Lauren V.
+    role: creator
+  Montesinos-Navarro-Alicia:
+    individualname: Montesinos-Navarro, Alicia
+    role: creator
+  Kaiser-Christina:
+    individualname: Kaiser, Christina
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'From diversity to complexity: Microbial networks in soils'
+    url: http://dx.doi.org/10.1016/j.soilbio.2022.108604
+    type: www
+content_info: {}

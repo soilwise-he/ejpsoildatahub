@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-land10010063
+  dataseturi: https://doi.org/10.3390/land10010063
+identification:
+  title: Evaluation of a Micro-Electro Mechanical Systems Spectral Sensor for Soil
+    Properties Estimation
+  abstract: "DIONE proposes a close-to-market (TRL7) area-based direct payments monitoring\
+    \ toolbox that will address the forthcoming Modernised CAP regulation of using\
+    \ automated technologies to ensure more frequent, accurate and inexpensive compliance\
+    \ checks. In particular, DIONE will;(i) Capitalise on recent results of ESA\u2019\
+    s SEN4CAP project that showcased the capability of Sentinel  data to monitor the\
+    \ crop diversification rules. DIONE shall further integrate generated crop-type\
+    \ maps in a way directly exploitable by the paying agencies;(ii) Include in the\
+    \ analysis the so far neglected EFA types (fallow land of all sizes, buffer strips,\
+    \ hedges, trees), by making use of super-resolution technology that improves the\
+    \ 10-20m Sentinel resolution to an improved resolution range (5-10m). This is\
+    \ enabled through Machine-Learning (ML) based post-processing and data fusion\
+    \ of Copernicus DIAS-sourced data with targeted drone-obtained data. This aims\
+    \ to motivate the use of such EFAs over the \u2013of ambiguous environmental impact-\
+    \ use of productive areas (nitrogen-fixing crops and catch crops). (iii) Complement\
+    \ the use of EO data with a system of reliable, ground-based geo-tagged photos,\
+    \ captured by the farmers that exploits (a) advances that allow for improved positional\
+    \ accuracy, (ii) low-footprint encryption techniques for improved data security\
+    \ and reliability and (iii) image detecting manipulation techniques (image forensics).\
+    \ The system will allow for an improved LC/LU annotation and ensure the process\
+    \ is untampered.(iv) Implement a Green Compliance toolbox, integrated with the\
+    \ paying agencies\u2019 aforementioned tools. This will benefit from (a) low-cost\
+    \ spectral sensors measuring soil quality and assessing the status of land-degradation\
+    \ in the land parcels and (b) an ML-based inferencing system deployed on a larger\
+    \ scale (regional, national) to quantify the levels of some of the monitored parameters\
+    \ and consequently extract tangible environmental performance metrics for an entire\
+    \ region\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/874226b2-d4da-3fc5-8718-4825d71ba5c2
+distribution:
+  contentUrl:
+    url: 10.3390/land10010063
+    type: WWW:LINK
+    title: Link

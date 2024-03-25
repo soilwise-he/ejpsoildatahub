@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: van_Soesbergen_2022
+  dataseturi: https://doi.org/10.1109/tgrs.2022.3172883
+  datestamp: ''
+identification:
+  title: Dam Reservoir Extraction From Remote Sensing Imagery Using Tailored Metric
+    Learning Strategies
+  abstract: "Time is running out to achieve a more sustainable development.  Post\
+    \ COVID-19 economic stimuli need to deploy a green new deal (GND) that ReSETs\
+    \ economic systems to create secure and meaningful employment whilst protecting\
+    \ nature for people, for climate change and flood mitigation, temperature regulation,\
+    \ pollution prevention and soil and biodiversity conservation.  This green new\
+    \ deal needs to harness safe, renewable technologies and nature-based solutions.\
+    \  A business as usual (BAU) post-COVID stimulus would embed employment, economic\
+    \ and environmental precarity in what is now fundamentally an unsustainable and\
+    \ unequitable model.RESET aims to leverage developments in spatial modelling,\
+    \ artificial intelligence and interoperable environmental sensing to better understand\
+    \ pathways to RESET agricultural and urban development across Europe for sustainability.\
+    \ For agriculture we will examine BAU versus an alternative trajectory of regenerative\
+    \ agriculture and rewilding.  For cities we will examine BAU vs a more telecommuting\
+    \ focused trajectory of  lowered densities, re-greening, traffic reduction to\
+    \ reduce (air, water, noise) pollution and improve the quality of urban life.\
+    \  In all cases we will examine impacts on employment, environment and economy.We\
+    \ focus on farmland and urban land uses as understudied environments and as key\
+    \ for sustainable development. We will build upon the success of our previous\
+    \ work in developing spatial policy support systems and accompanying user-led\
+    \ design processes, to further develop and integrate advanced environmental sensor\
+    \ networks with a focus on per-person individualised employment, economic and\
+    \ environmental outcomes of investments. This will require environmental and social\
+    \ intelligence to an unprecedented degree bringing together environmental modelling,\
+    \ advanced sensor research, social science and stakeholders\u2019 engagement,\
+    \ and artificial intelligence to go way beyond conventional environmental impact\
+    \ assessment approaches.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/ba7ab280-7680-35bd-9d81-9b0f98e605c9
+  van-Soesbergen-Arnout:
+    individualname: van Soesbergen, Arnout
+    role: creator
+  Chu-Zedong:
+    individualname: Chu, Zedong
+    role: creator
+  Shi-Miaojing:
+    individualname: Shi, Miaojing
+    role: creator
+  Mulligan-Mark:
+    individualname: Mulligan, Mark
+    role: creator
+  Institute-of-Electrical:
+    individualname: Institute of Electrical
+    role: creator
+  Electronics-Engineers-IEEE:
+    individualname: Electronics Engineers (IEEE)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Dam Reservoir Extraction From Remote Sensing Imagery Using Tailored Metric
+      Learning Strategies
+    url: http://dx.doi.org/10.1109/tgrs.2022.3172883
+    type: www
+content_info: {}

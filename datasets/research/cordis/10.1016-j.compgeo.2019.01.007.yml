@@ -1,0 +1,84 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Cerfontaine_2019
+  dataseturi: https://doi.org/10.1016/j.compgeo.2019.01.007
+  datestamp: ''
+identification:
+  title: Effect of soil deformability on the failure mechanism of shallow plate or
+    screw anchors in sand
+  abstract: 'Classical anchoring solutions are inappropriate for the development of
+    new marine renewable energy devices (wind/waves/tides). They are too expensive
+    and not efficient. Organising devices in arrays is a solution where adjacent devices
+    share an anchor. It reduces the total number of anchors necessary and the overall
+    cost. In turn the loading applied to an anchor is a complex combination of horizontal
+    and uplift cyclic loads. Screw anchors are piles which are fitted with one or
+    several helices at their end. They are installed into the soil by applying a torque
+    and are assumed to have an excellent resistance against uplifting.The objective
+    of this work is to study the fundamental behaviour of screw anchors upon complex
+    loading in sand. A unique database of physical modelling tests (using cutting
+    edge centrifuge apparatus) representative of small arrays of devices will be developed.
+    In particular the tests will assess their uplift capacity after low level cyclic
+    loading (fatigue behaviour). Numerical simulations, validated against experimental
+    results, will provide additional information. Finally a new design methodology
+    taking into account multi-directional and fatigue loading will be derived. This
+    comprehensive topic has never been investigated before in sand.The University
+    of Dundee offers cutting edge centrifuge facilities and has an outstanding experience
+    in physical modelling. A designed experimental set-up is able to install screw
+    piles in flight and apply a multi-directional loading. I will build on my strong
+    background in numerical modelling to carry out the numerical part of the project.EU
+    targets the ambitious objective to derive 20% of its electricity production from
+    renewable sources by 2020. The energy revolution has just started and should generate
+    many jobs and investments in Europe. This project will clear technical and economical
+    hurdles associated with anchoring. It will improve competitiveness and leadership
+    of EU on the renewable energy market.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/62d0420f-53df-3cec-8b6a-f0a93f8a2cf9
+  Cerfontaine-Benjamin:
+    individualname: Cerfontaine, Benjamin
+    role: creator
+  Knappett-Jonathan-A.:
+    individualname: Knappett, Jonathan A.
+    role: creator
+  Brown-Michael-J.:
+    individualname: Brown, Michael J.
+    role: creator
+  Bradshaw-Aaron-S.:
+    individualname: Bradshaw, Aaron S.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Effect of soil deformability on the failure mechanism of shallow plate or
+      screw anchors in sand
+    url: http://dx.doi.org/10.1016/j.compgeo.2019.01.007
+    type: www
+content_info: {}

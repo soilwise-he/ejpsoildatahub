@@ -1,0 +1,78 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Tsapalov_2021
+  dataseturi: https://doi.org/10.1016/j.envc.2021.100204
+  datestamp: ''
+identification:
+  title: Studying temporal variations of indoor radon as a vital step towards rational
+    and harmonized international regulation
+  abstract: 'Radon is an important carcinogenic factor causing lung cancer. To reduce
+    this risk legislators limit the annual average indoor radon (AAIR) concentration
+    in buildings. However, the reliable assessment of AAIR is a problem, because indoor
+    radon has significant temporal (daily, weekly and seasonal) variations. Despite
+    the AAIR is tested in many countries for several decades, none of national regulations
+    (the measurement protocol in USA, ISO and IAEA recommendations), provide an assessment
+    of the AAIR uncertainty depending on the test duration. This allows neither optimizing
+    the test duration, nor correct comparing the AAIR with reference levels. Thus,
+    the main goal of the project is the assessment of the AAIR uncertainty based on
+    the results of measurements with different duration and the development of reliable
+    criteria for comparing the AAIR and reference levels. To accomplish this goal
+    we propose to make; (a) preliminary short-term measurements in at least 180 buildings
+    in Haifa to identify at least 12 experimental rooms with a high radon level, (b)
+    complete annual radon monitoring in these rooms, also measuring the concentration
+    of soil radon and its flow under single building. Based on the original algorithm
+    to process monitoring data, the radon temporal variation coefficient values (depending
+    on the measurement duration) will be obtained and verified. This coefficient is
+    the main source of AAIR uncertainty. In addition, the degree of influence of environmental
+    factors on indoor radon behavior (correction factor) will be determined. Using
+    the correction factor can significantly reduce the AAIR uncertainty. The results
+    of this study will help to; (a) apply in practice the principle of AAIR control
+    firstly proposed by us, (b) revise the international standard (ISO), (c) develop
+    a strategy to identify buildings with high radon, (d) assess the exposure doses
+    from radon and create a map of radon hazard zones in Haifa (IL), (e) develop the
+    career of the researcher.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/a74a440a-3b35-3b92-a8d8-0c0110664713
+  Tsapalov-Andrey:
+    individualname: Tsapalov, Andrey
+    role: creator
+  Kovler-Konstantin:
+    individualname: Kovler, Konstantin
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Studying temporal variations of indoor radon as a vital step towards rational
+      and harmonized international regulation
+    url: http://dx.doi.org/10.1016/j.envc.2021.100204
+    type: www
+content_info: {}

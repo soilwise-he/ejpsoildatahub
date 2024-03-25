@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1007-s10123-021-00215-8
+  dataseturi: https://doi.org/10.1007/s10123-021-00215-8
+  datestamp: ''
+identification:
+  title: Novel methods of microbiome analysis in the food industry
+  abstract: 'Although microorganisms dominate almost every ecological niche in our
+    planet, it has only been during the past 10-15 years that we have begun to gain
+    insights into the composition and function of microbial communities (microbiomes)
+    as a consequence of major advances in High Throughput DNA sequencing (HTS) technologies.
+    These approaches have allowed a comprehensive analysis of microbiomes for the
+    first time. Following initial curiosity-driven investigations of microbiomes using
+    HTS technologies, the field has evolved to harness the insights provided, leading
+    to the development of a new multi-billion euro industry focused on characterisation
+    and modulation of microbiomes. The vast majority of this investment has been in
+    the clinical space. In contrast, far less is known about microbiomes across complex
+    food chains, making it difficult to harness food-chain microbiome data for the
+    development of more sustainable food systems and to yield innovative products
+    and applications. This is despite the evident importance of microbes throughout
+    the food chain. MASTER will take a global approach to the development of concrete
+    microbiome products, foods/feeds, services  or processes with high commercial
+    potential, which will benefit society through improving the quantity, quality
+    and safety of food, across multiple food chains, to include marine, plant, soil,
+    rumen, meat, brewing, vegetable waste, and fermented foods. This will be achieved
+    through mining microbiome data relating to the food chain, developing big data
+    management tools to identify inter-relations between microbiomes across food chains,
+    and generating applications which promote sustainability, circularity and contribute
+    to waste management and climate change mitigation. We will harness microbiome
+    knowledge to significantly enhance the health and resilience of fish, plants,
+    soil, animals and humans, improve professional skills and competencies, and support
+    the creation of new jobs in the food sector and bioeconomy.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e8a35e1f-8347-3d78-b12f-5110f24b9d55
+  Sabater-Carlos:
+    individualname: Sabater, Carlos
+    role: creator
+  Cobo-Diaz-Jose-F.:
+    individualname: "Cobo-D\xEDaz, Jos\xE9 F."
+    role: creator
+  Alvarez-Ordonez-Avelino:
+    individualname: "\xC1lvarez-Ord\xF3\xF1ez, Avelino"
+    role: creator
+  Ruas-Madiedo-Patricia:
+    individualname: Ruas-Madiedo, Patricia
+    role: creator
+  Ruiz-Lorena:
+    individualname: Ruiz, Lorena
+    role: creator
+  Margolles-Abelardo:
+    individualname: Margolles, Abelardo
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Novel methods of microbiome analysis in the food industry
+    url: http://dx.doi.org/10.1007/s10123-021-00215-8
+    type: www
+  contentUrl:
+    url: 10.1007/s10123-021-00215-8
+    type: WWW:LINK
+    title: Link
+content_info: {}

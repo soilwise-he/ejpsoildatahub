@@ -1,0 +1,56 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-rs12142299
+  dataseturi: https://doi.org/10.3390/rs12142299
+identification:
+  title: Feasibility of Using the Two-Source Energy Balance Model (TSEB) with Sentinel-2
+    and Sentinel-3 Images to Analyze the Spatio-Temporal Variability of Vine Water
+    Status in a Vineyard
+  abstract: 'The Mediterranean and Sahel regions are among the most sensitive areas
+    to climate change as demonstrated in many studies (IPCC, 2013). Increased rainfall
+    variability and ET rates will compromise irrigation potential and expansion plans
+    and increased competition and conflict over limited water resources. There are
+    significant knowledge gaps and uncertainties about how much water will be available
+    for a complete growing season, how much should be used for scheduling irrigation
+    efficiently and extracted from these regions. More information regarding water
+    use is necessary to improve agricultural planning and to manage water more efficiently
+    at different scales; farm and catchment/irrigation district level. Over both regions,
+    the temperature increase will cause higher evaporation and transpiration rates,
+    decreasing soil moisture and increasing crop water requirements. The expected
+    impact in rainfed agriculture is a decrease in yield due to heat and water stress
+    and an increase in the likelihood of crop failure in rainfed crops for maize,
+    millet and sorghum (Parkes et al. 2018). Ongoing changes in the socio-economic
+    and environmental background of rainfed farmers combined with the expected population
+    growth make timely and reliable information on rainfed crop yield and its spatial
+    variability essential in decision-support for improving food security and livelihoods.
+    To this end, both understanding of the long term changes (inter-annual variability)
+    and short-term changes (intra-annual variability) are needed.Temperature and precipitation
+    changing patterns will also increase hazards linked to environmental conditions
+    such as droughts, floods or crop pests like locust swarms. ACCWA aims to develop
+    the remote sensing based monitoring tools for agriculture and water and management
+    that help risk guidance in a climate change context.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/501a2e70-76b6-347f-9fc0-a0b2cc6fa2a8
+distribution:
+  contentUrl:
+    url: 10.3390/rs12142299
+    type: WWW:LINK
+    title: Link

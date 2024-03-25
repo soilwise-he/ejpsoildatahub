@@ -1,0 +1,95 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1002-ece3.8676
+  dataseturi: https://doi.org/10.1002/ece3.8676
+  datestamp: ''
+identification:
+  title: "Effects of operational taxonomic unit inference methods on soil microeukaryote\
+    \ community analysis using long\u2010read metabarcoding"
+  abstract: "Virtually all terrestrial plants depend on symbiotic interactions with\
+    \ fungi. Arbuscular mycorrhizal (AM) fungi evolved over 450 million years ago,\
+    \ are obligate biotrophs and cannot complete their lifecycle without obtaining\
+    \ carbon from host roots. Mediating nutrient uptake and sequestering carbon in\
+    \ soil this symbiosis lie at the core of all terrestrial ecosystems. Plants on\
+    \ the other hand are facultative mycotrophs but under natural conditions all host\
+    \ roots are colonized as a result of multiple beneficial effects of AM fungi.\
+    \ In the symbiosis, both plants and fungi are promiscuous, forming interactions\
+    \ across individuals and species. In the absence of host-symbiont specificity\
+    \ and given their inability to discriminate among partners prior to interaction,\
+    \ evolutionary theory predicts that \u201Cfree riders\u201D would evolve and spread.\
+    \ Yet AM fungi remain evolutionary and ecologically successful. I propose that\
+    \ this is thanks to their unique genomic organization, a temporally dynamic heterokaryosis.Unlike\
+    \ other eukaryotes, AM fungi have no single nucleate stage in their life cycle,\
+    \ instead they reproduce asexually by forming large multinucleate spores. Genetic\
+    \ variation is high and nuclei can migrate and mix within extensive mycelial networks.\
+    \ My group has recently established a single nucleus genomics method to study\
+    \ genetic variation among nuclei within AM fungi. With this method I can resolve\
+    \ the extent of heterokaryosis in AM fungi and its temporal dynamics. I will study\
+    \ the emergence of \u201Cfree riders\u201D upon intra organismal segregation of\
+    \ genetically distinct nuclei during AM fungal adaptation to host. Further I will\
+    \ study how hyphal fusion and nuclear mixing counteract segregation to stabilize\
+    \ the symbiosis. The research program has great potential for novel discoveries\
+    \ of fundamental importance to evolutionary and environmental biology and will\
+    \ also contribute to agricultural practice and management of terrestrial ecosystems.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/0b15fcf9-bdee-335e-bb7f-6d3cd1f589de
+  Eshghi-Sahraei-Shadi:
+    individualname: Eshghi Sahraei, Shadi
+    role: creator
+  Furneaux-Brendan:
+    individualname: Furneaux, Brendan
+    role: creator
+  Kluting-Kerri:
+    individualname: Kluting, Kerri
+    role: creator
+  Zakieh-Mustafa:
+    individualname: Zakieh, Mustafa
+    role: creator
+  Rydin-Hakan:
+    individualname: "Rydin, H\xE5kan"
+    role: creator
+  Hytteborn-Hakan:
+    individualname: "Hytteborn, H\xE5kan"
+    role: creator
+  Rosling-Anna:
+    individualname: Rosling, Anna
+    role: creator
+  Wiley:
+    individualname: Wiley
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "Effects of operational taxonomic unit inference methods on soil microeukaryote\
+      \ community analysis using long\u2010read metabarcoding"
+    url: http://dx.doi.org/10.1002/ece3.8676
+    type: www
+  contentUrl:
+    url: 10.1002/ece3.8676
+    type: WWW:LINK
+    title: Link
+content_info: {}

@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-su14052732
+  dataseturi: https://doi.org/10.3390/su14052732
+identification:
+  title: Progress in Developing Scale-Able Approaches to Field-Scale Water Accounting
+    Based on Remote Sensing
+  abstract: "Shortages of freshwater will be one of the most pressing problems in\
+    \ feeding the world this century. To optimize use of available water it is important\
+    \ to distribute it wisely over the various competing interests, in particular\
+    \ agriculture, which is responsible for 70% of all freshwater use. Irrigation\
+    \ is currently often unsustainable, while groundwater reserves are becoming depleted\
+    \ and many places in the world are suffering water shortages. Action is therefore\
+    \ required now to use space and in-situ monitoring systems, to create a better\
+    \ sense of water availability and optimise use across the planet. WaterSENSE will\
+    \ provide water-availability and mapping services for any place in the world at\
+    \ different time and space resolutions, based on integrated Copernicus data, hydrological\
+    \ models and local data. The results of these services will be open access so\
+    \ as to further develop value-adding services. WaterSENSE itself will deliver\
+    \ the essential value-added service of monitoring compliance of local water use\
+    \ against water rights and regulations (\u2018water auditing\u2019). The first\
+    \ application will be in the multi-climate Murray-Darling Basin in Australia,\
+    \ followed by validation in South Africa and the Netherlands. Consortium partners\
+    \ already provide water-availability and water-auditing services in the latter\
+    \ two countries. Novel research in the project will develop scalable information\
+    \ services, based on advanced big-data processing algorithms, to determine variables\
+    \ such as evapotranspiration, irrigation water use, rainfall and soil moisture,\
+    \ as well as machine learning to allow automatic data processing and reduce uncertainty\
+    \ in the hydrological variables determined. DIAS services for data provision,\
+    \ as well as cloud hosting and processing of computational services, will be developed\
+    \ and implemented. Existing successful partnership models will be refined to ensure\
+    \ service providers in the water value chain achieve healthy business development.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/1f217913-c235-376f-a3bb-fd2b3bf8d31d
+distribution:
+  contentUrl:
+    url: 10.3390/su14052732
+    type: WWW:LINK
+    title: Link

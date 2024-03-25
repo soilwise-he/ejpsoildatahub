@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1175-JAS-D-17-0050.1
+  dataseturi: https://doi.org/10.1175/JAS-D-17-0050.1
+identification:
+  title: Coherent structures in large-eddy simulations of a non-precipitating stratocumulus-topped
+    boundary layer
+  abstract: "A large part of our knowledge on climate change is provided by the usage\
+    \ of coupled atmospheric-ocean Global Climate Models (GCMs), which produce numerical\
+    \ simulations of the Earth\u2019s climate system for both the present and the\
+    \ future. However, state-of-the-art GCMs show considerable systematic errors;\
+    \ they are limited by low spatial resolutions and by the problematic representation\
+    \ of many physical processes. In particular, one of the largest sources of uncertainty\
+    \ is associated with the coupling between the atmospheric circulation and the\
+    \ water cycle.COGNAC is conceived as a fundamental theoretical project framed\
+    \ in this context. It aims at readdressing the representation of moist convection,\
+    \ clouds and precipitation and their interaction with the surface and the soil\
+    \ in GCMs. A recently developed theoretical framework capable of treating in a\
+    \ unified way the soil, the Planetary Boundary Layer (PBL), clouds, and both shallow\
+    \ and deep convection will be used. Such model - the Probabilistic Plume Model,\
+    \ PPM - is capable to represent the whole atmospheric column (from the PBL to\
+    \ the tropopause) with results comparable to Large Eddies Simulations and with\
+    \ a minor numerical cost. COGNAC aims at improving and refining the PPM and integrating\
+    \ it into two models, the LMDz GCM and the EC-Earth GCM, in the form a new unified\
+    \ parameterization. First evaluation will be carried out on Single Column Models,\
+    \ and hence extended to the full 3D case. Once operational, these new GCM configurations\
+    \ will provide a powerful tool to study complex interactions among surface, PBL\
+    \ and moist convection, as the ones occurring in the Sahel, the Amazon Rainforest\
+    \ or the Mediterranean region. These advancements will have notable potential\
+    \ for improving the representation, the forecast and the evaluation of the future\
+    \ changes of large-impact hydro-meteorological events.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e5be259a-58cc-379b-84b4-2960017c29b9
+distribution:
+  contentUrl:
+    url: 10.1175/JAS-D-17-0050.1
+    type: WWW:LINK
+    title: Link

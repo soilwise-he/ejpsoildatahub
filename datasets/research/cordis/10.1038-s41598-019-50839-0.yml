@@ -1,0 +1,93 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1038-s41598-019-50839-0
+  dataseturi: https://doi.org/10.1038/s41598-019-50839-0
+  datestamp: ''
+identification:
+  title: Understanding the phyllosphere microbiome assemblage in grape species (Vitaceae)
+    with amplicon sequence data structures
+  abstract: "A diverse, complex, and poorly characterised community of microorganisms\
+    \ lies at the heart of the wine \u2013 an industry worth over \u20AC220 billion\
+    \ globally. These microorganisms play key roles at all stages of the viniculture\
+    \ and vinification processes, from helping plants access nutrients from the soil,\
+    \ driving their health through protection against pathogens, to fermentation processes\
+    \ that transform the must into wine with its complex array of aromas and flavours.\
+    \ Given this importance, an improved understanding of the microbial community\
+    \ and its interplay will have significant effects on the industry. In recent years,\
+    \ 'Next Generation' DNA sequencing has revolutionised many areas of biology, including\
+    \ microbiology, through conferring the ability to characterise microbes on the\
+    \ deep community scale, through both \u2019shotgun\u2019 and \u2019deep amplicon\u2019\
+    \ sequencing approaches. To exploit this power for the benefit of the wine industry,\
+    \ we propose MICROWINE, a 15 ESR Marie Curie Actions European Training Network.\
+    \ The network is constructed as a close collaboration between industry and academic\
+    \ partners, around the theme of the microbial community\u2019s role in the wine\
+    \ production process. Through combining microbial metagenomic sequencing with\
+    \ powerful computation analyses, with metadata generated using techniques such\
+    \ as metabolomics and geochemistry, we will study the action of microbes from\
+    \ the plant protection and nutrition, through to wine fermentation process, using\
+    \ samples collected from both Europe and beyond. We will further train the ESRs\
+    \ across a wide range of relevant disciplines, and maximise information transfer\
+    \ through multiple host and academic-industry cosupervision and secondments. In\
+    \ this way, we anticipate contributing to the strength and scientific progress\
+    \ of the wine industry through training of a cohort of leading, interdisciplinary\
+    \ and tightly interconnected scientists at the forefront of modern microbiological,\
+    \ genomic, computational and related techniques.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e857855a-a84f-3f7b-879b-a24cb00ace18
+  Singh-Prashant:
+    individualname: Singh, Prashant
+    role: creator
+  Santoni-Sylvain:
+    individualname: Santoni, Sylvain
+    role: creator
+  Weber-Audrey:
+    individualname: Weber, Audrey
+    role: creator
+  This-Patrice:
+    individualname: This, Patrice
+    role: creator
+  PA(c)ros-Jean-Pierre:
+    individualname: "P\xC3\xA9ros, Jean-Pierre"
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Understanding the phyllosphere microbiome assemblage in grape species (Vitaceae)
+      with amplicon sequence data structures
+    url: http://dx.doi.org/10.1038/s41598-019-50839-0
+    type: www
+  contentUrl:
+    url: 10.1038/s41598-019-50839-0
+    type: WWW:LINK
+    title: Link
+content_info: {}

@@ -1,0 +1,107 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Querol_2019
+  dataseturi: https://doi.org/10.1016/j.envint.2019.05.061
+  datestamp: ''
+identification:
+  title: Monitoring the impact of desert dust outbreaks for air quality for health
+    studies
+  abstract: "Soil dust aerosols are mixtures of different minerals, whose relative\
+    \ abundances, particle size distribution (PSD), shape, surface topography and\
+    \ mixing state influence their effect upon climate. However, Earth System Models\
+    \ typically assume that dust aerosols have a globally uniform composition, neglecting\
+    \ the known regional variations in the mineralogy of the sources. The goal of\
+    \ FRAGMENT is to understand and constrain the global mineralogical composition\
+    \ of dust along with its effects upon climate. The representation of the global\
+    \ dust mineralogy is hindered by our limited knowledge of the global soil mineral\
+    \ content and our incomplete understanding of the emitted dust PSD in terms of\
+    \ its constituent minerals that results from the fragmentation of soil aggregates\
+    \ during wind erosion. The emitted PSD affects the duration of particle transport\
+    \ and thus each mineral\u2019s global distribution, along with its specific effect\
+    \ upon climate. Coincident observations of the emitted dust and soil PSD are scarce\
+    \ and do not characterize the mineralogy. In addition, the existing theoretical\
+    \ paradigms disagree fundamentally on multiple aspects. We will contribute new\
+    \ fundamental understanding of the size-resolved mineralogy of dust at emission\
+    \ and its relationship with the parent soil, based on an unprecedented ensemble\
+    \ of measurement campaigns that have been designed to thoroughly test our theoretical\
+    \ hypotheses. To improve knowledge of the global soil mineral content, we will\
+    \ evaluate and use available remote hyperspectral imaging, which is unprecedented\
+    \ in the context of dust modelling. Our new methods will anticipate the coming\
+    \ innovation of retrieving soil mineralogy through high-quality spaceborne hyperspectral\
+    \ measurements. Finally, we will generate integrated and quantitative knowledge\
+    \ of the role of dust mineralogy in dust-radiation, dust-chemistry and dust-cloud\
+    \ interactions based on modeling experiments constrained with our theoretical\
+    \ innovations and field measurements.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/5dfe7b25-84b1-36cf-a320-97dea47c9bbf
+  Querol-X.:
+    individualname: Querol, X.
+    role: creator
+  Tobias-A.:
+    individualname: "Tob\xEDas, A."
+    role: creator
+  Perez-N.:
+    individualname: "P\xE9rez, N."
+    role: creator
+  Karanasiou-A.:
+    individualname: Karanasiou, A.
+    role: creator
+  Amato-F.:
+    individualname: Amato, F.
+    role: creator
+  Stafoggia-M.:
+    individualname: Stafoggia, M.
+    role: creator
+  Perez-Garcia-Pando-C.:
+    individualname: "P\xE9rez Garc\xEDa-Pando, C."
+    role: creator
+  Ginoux-P.:
+    individualname: Ginoux, P.
+    role: creator
+  Forastiere-F.:
+    individualname: Forastiere, F.
+    role: creator
+  Gumy-S.:
+    individualname: Gumy, S.
+    role: creator
+  Mudu-P.:
+    individualname: Mudu, P.
+    role: creator
+  Alastuey-A.:
+    individualname: Alastuey, A.
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Monitoring the impact of desert dust outbreaks for air quality for health
+      studies
+    url: http://dx.doi.org/10.1016/j.envint.2019.05.061
+    type: www
+content_info: {}

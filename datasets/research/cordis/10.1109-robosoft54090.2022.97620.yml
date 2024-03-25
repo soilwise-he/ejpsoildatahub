@@ -1,0 +1,82 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Fiorello_2022
+  dataseturi: https://doi.org/10.1109/robosoft54090.2022.9762092
+  datestamp: ''
+identification:
+  title: 3D micromolding of seed-like probes for self-burying soft robots
+  abstract: 'I-Seed aims at developing a new generation of self-deployable and biodegradable
+    soft miniaturized robots, inspired by the morphology and dispersion abilities
+    of plant seeds, to perform a low-cost, environmentally responsible, in-situ detection
+    of key environmental parameters in air and topsoil. Seeds dispersal strategies
+    are driven by the spontaneous, often reversible, anisotropic deformation of their
+    tissues upon swelling or drying of cell walls, and do not require any control
+    or internal energy supply.Following a bioinspired design, these skills will be
+    implemented into seed-like robots by using multi-functional biodegradable materials
+    and natural morphological features, which endow them with the ability to fly and
+    disperse via natural vector-mediated diffusion in air, or to respond to humidity
+    variations to move on terrain surface and self-penetrate in topsoil. Sensing will
+    be based on diffusion, absorption, and structural changes of parts of the robots
+    made from sensor materials with a chemical transduction mechanism and fluorescence-based
+    optical readout. Recordings of temperature, humidity, CO2 and mercury (Hg2+) will
+    be executed at air-soil interface. Deployment of the I-Seed robots and reading
+    of the acquired measurements will be performed using drones. Seed-drone communication
+    will rely on optical signaling and fluorescence based on Light Detection and Ranging
+    technology (fLiDAR), and using photonic tags to impart different type of sensors
+    and robots a unique response. Algorithms will be developed such that drones can
+    map the robots in air and on the ground.By merging bioinspired soft robotics,
+    material science, nanocomposite technologies, and environmental science, I-Seed
+    will address the specific challenge by building a radically new dynamic scenario
+    for analyzing and monitoring air and topsoil environments and their interface,
+    extending environmental sensor networks and filling existing gaps of data analysis
+    systems.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/9e07b9a3-d666-39ee-ab30-7758df7ff56b
+  Fiorello-Isabella:
+    individualname: Fiorello, Isabella
+    role: creator
+  Margheri-Laura:
+    individualname: Margheri, Laura
+    role: creator
+  Filippeschi-Carlo:
+    individualname: Filippeschi, Carlo
+    role: creator
+  Mazzolai-Barbara:
+    individualname: Mazzolai, Barbara
+    role: creator
+  IEEE:
+    individualname: IEEE
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 3D micromolding of seed-like probes for self-burying soft robots
+    url: http://dx.doi.org/10.1109/robosoft54090.2022.9762092
+    type: www
+content_info: {}

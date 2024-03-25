@@ -1,0 +1,55 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-rs13091769
+  dataseturi: https://doi.org/10.3390/rs13091769
+identification:
+  title: A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
+    Multi-Temporal Sentinel Data
+  abstract: "ENVISION aims to fulfil the need for continuous and systematic monitoring\
+    \ of agricultural land, shifting the focus from fragmented monitoring limited\
+    \ to specific fields and dates to territory-wide and all-year-round monitoring.\
+    \ It will make use of heterogeneous types of available data (EO-based, in situ,\
+    \ open data, and historical on-field check data) and state-of-the-art technologies\
+    \ and methodologies (automatic pixel/texture/object oriented change detection\
+    \ and classification methods, machine learning, data fusion, multi-source and\
+    \ multi-temporal data management) for providing a fully-automated and scalable\
+    \ toolbox of services, built in close interaction with its future customers. ENVISION\
+    \ will fully exploit the wealth of data made available through GEOSS and Copernicus\
+    \ and its synergetic use with other data to develop data products such as; Cultivated\
+    \ crop type maps; Soil Organic Carbon; Vegetation status; Crop growth (distinction\
+    \ of organic \u2013 conventional farming); Grassland mowing/ploughing; Soil erosion.The\
+    \ ENVISION toolbox will be comprised of; a monitoring service of sustainable agricultural\
+    \ practices, tools that PAs & CBs can provide to farmers for adhering to environmentally\
+    \ friendly agricultural practices, an Add-on Development Tool.The project will\
+    \ be tested and validated in a pre-operational environment by potential future\
+    \ customers of its products and services. ENVISION will have three categories\
+    \ of business cases (Monitoring of; multiple environmental and climate requirements\
+    \ of CAP, soil condition, organic farming requirements) and will also be tested\
+    \ by a group of Lighthouse Customers.A market analysis, business model experimentation\
+    \ techniques and appropriate decision-making tools will determine the commercially\
+    \ viable business models for the services and products of ENVISION, and define\
+    \ alternative business models, understand their implications and identify those\
+    \ that will create the greatest value.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/256fb1fe-327a-3528-9216-1ae3cc5cee12
+distribution:
+  contentUrl:
+    url: 10.3390/rs13091769
+    type: WWW:LINK
+    title: Link

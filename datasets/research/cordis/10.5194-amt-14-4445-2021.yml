@@ -1,0 +1,49 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5194-amt-14-4445-2021
+  dataseturi: https://doi.org/10.5194/amt-14-4445-2021
+identification:
+  title: An automated system for trace gas flux measurements from plant foliage and
+    other plant compartments
+  abstract: "The role of plants in the global methane (CH4) cycle remains poorly understood.\
+    \ Plants can emit CH4 from aerobic methane production (AMP), microbial methanogenesis\
+    \ within plants (MMP), and the export soil methane (SM) via plant tissues. These\
+    \ plants-associated CH4 emissions may be quantitatively significant (15-65% of\
+    \ all natural CH4 emissions) but remain poorly constrained. So far, field studies\
+    \ have only quantified the sum of all these plant-atmosphere CH4 fluxes, limiting\
+    \ the degree to which each process can be mathematically described and incorporated\
+    \ into CH4 budgets and models. I am an experienced stable isotope biogeochemist.\
+    \ The MSCA fellowship will allow me to work a world leading group focused on the\
+    \ measurement and modeling of plant-atmosphere trace gas fluxes. Together, we\
+    \ will (a) develop a method to separately quantify AMP, MMP, and SM emissions\
+    \ from plants based on the CH4 isotope values (\u03B413C, \u03B42H, and \u0394\
+    14C) and methanol co-emissions (MeOH;CH4), and (b) apply this method to  methane\
+    \ emissions from boreal forest trees at the SMEAR II research site in Southern\
+    \ Finland.Reaching these goals will require (1) adapting stem and shoot enclosure\
+    \ chambers to collect CH4 for offline analysis; (2) identifying characteristic\
+    \ CH4 isotope and MeOH;CH4 values of AMP, MMP, and SM; (3) measuring isotope and\
+    \ MeOH;CH4 values of plant CH4 emissions at SMEAR II, and (4) developing a Bayesian\
+    \ petitioning model for plant CH4 emissions.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/3db275dd-c06f-3f71-880a-c439a7e1c8d6
+distribution:
+  contentUrl:
+    url: 10.5194/amt-14-4445-2021
+    type: WWW:LINK
+    title: Link

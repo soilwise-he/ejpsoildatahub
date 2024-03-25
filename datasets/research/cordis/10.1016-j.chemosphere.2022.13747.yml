@@ -1,0 +1,92 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Angeles_de_Paz_2023
+  dataseturi: https://doi.org/10.1016/j.chemosphere.2022.137472
+  datestamp: ''
+identification:
+  title: Assembled mixed co-cultures for emerging pollutant removal using native microorganisms
+    from sewage sludge
+  abstract: 'With an increasing world population growth, prediction of climate change
+    on the sustainability and resilience of farming ecosystems is key. Since the nitrogen
+    cycle''s role within the farming ecosystem is of utmost importance, and an environmental
+    disturbance leads to farming production loss, understanding the cycle''s resilience
+    is crucial. The main actors within this cycle are microorganisms, yet these are
+    ignored when predicting ecological effects to climate change (black box models).
+    Microorganisms do not exist as isolated entities, but are mixed in high numbers,
+    maintaining a diverse number of social interactions created through adaptation
+    and evolution. Microbial-Light will illuminate black box models via the acquisition
+    of a multi-parametric database. Physicochemical disturbances will be applied to
+    a large combinatorial number of mixed microbial populations of well studied nitrifiers.
+    Microbial growth monitoring at microtiter scale will include strain tracking (FISH-flow
+    cytometry), while function (i.e. nitrification) will be determined at a larger
+    scale. The ample data collected will enable elucidation of functional landscapes
+    for each synthetic community under combining environmental stresses. Additionally,
+    the role of microbial interactions (BSocial tool) across disturbance gradients
+    will be sought. Microbial-Light, will engage in modelling individual growth from
+    synthetic mixed population growth, thereby validating the models with previous
+    experimental evidence. Moreover, the optimal social nitrifying community will
+    be coated on tomato seeds, and plant growth efficiency will be compared with uncoated
+    seeds. Parallel to the acquisition multi-parametric database, evaluation of the
+    nitrification potential of poor and rich soils will be tested coupled with microbial
+    diversity (Illumina sequencing). The analysis of synthetic and natural communities,
+    will allow for a more comprehensive ecological model on nitrification.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/374441d0-fadc-3e5f-9025-7dc54a556cd3
+  Angeles-de-Paz-Gabriela:
+    individualname: Angeles-de Paz, Gabriela
+    role: creator
+  Ledezma-Villanueva-Alejandro:
+    individualname: Ledezma-Villanueva, Alejandro
+    role: creator
+  Robledo-Mahon-Tatiana:
+    individualname: "Robledo-Mah\xF3n, Tatiana"
+    role: creator
+  Pozo-Clementina:
+    individualname: Pozo, Clementina
+    role: creator
+  Calvo-Concepcion:
+    individualname: "Calvo, Concepci\xF3n"
+    role: creator
+  Aranda-Elisabet:
+    individualname: Aranda, Elisabet
+    role: creator
+  Purswani-Jessica:
+    individualname: Purswani, Jessica
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Assembled mixed co-cultures for emerging pollutant removal using native
+      microorganisms from sewage sludge
+    url: http://dx.doi.org/10.1016/j.chemosphere.2022.137472
+    type: www
+content_info: {}

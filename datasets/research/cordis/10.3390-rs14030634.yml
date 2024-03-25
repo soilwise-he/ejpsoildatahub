@@ -1,0 +1,54 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.3390-rs14030634
+  dataseturi: https://doi.org/10.3390/rs14030634
+identification:
+  title: 4D U-Nets for Multi-Temporal Remote Sensing Data Classification
+  abstract: 'Earth Observation (EO) is undergoing a radical transformation due to
+    the massive volume of observations acquired by remote sensing and in-situ sensor
+    networks. While satellites provide coarse-resolution, yet global-scale monitoring
+    of environmental processes, in-situ sensor networks acquire high-accuracy localized
+    measurements. Extracting information from spaceborne and ground based instruments
+    requires innovative solutions which will allow the autonomous integration of diverse
+    in nature and scale observations in order to provide high-quality geophysical
+    parameter estimation. CALCHAS will demonstrate cutting edge technologies targeting
+    three major factors towards the vision of fully automated multi-source EO data
+    understanding, namely (i) the fusion of observations from different sources and
+    modalities, (ii) the efficient aggregation of the sampling scales associated with
+    spaceborne and in-situ measurements, and (iii) the analysis of time-series of
+    dynamic observations. To that end, the paradigm-shifting signal processing and
+    learning framework of Deep Learning will be utilized and extended through powerful
+    mathematical tools and appropriate methodologies like supervised and generative
+    learning, dramatically extending the current scope of single source data analysis.
+    The developed framework will be employed for analyzing time-series of measurements
+    from active and passive microwave and multispectral spaceborne imaging instruments
+    (SMAP, SMOS and Sentinels), and in-situ sensor measurements, targeting the high-accuracy
+    spatial and temporal resolution enhancement for observations and soil moisture
+    estimation. The merits of the developed technology will be demonstrated in two
+    intelligent water management case studies, namely optimized irrigation management
+    and water pipeline leakage detection.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/424b5119-015d-3bff-aaf3-8f786bad7713
+distribution:
+  contentUrl:
+    url: 10.3390/rs14030634
+    type: WWW:LINK
+    title: Link

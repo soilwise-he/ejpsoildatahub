@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1063-5.0005161
+  dataseturi: https://doi.org/10.1063/5.0005161
+  datestamp: ''
+identification:
+  title: "The compensation effect (Meyer\xE2\u20AC\u201CNeldel rule) on [AlO4/h+]\
+    \ and [TiO4/M+] paramagnetic centers in irradiated sedimentary quartz"
+  abstract: 'The practice of tuning different climate proxies prevents the observation
+    of regional response times of terrestrial archives to global changes. Thus, it
+    is imperative to develop correlation protocols based on absolute chronologies.
+    Loess-palaeosol deposits are continental archives of Quaternary paleoclimates
+    and loess is generally considered an ideal material for the application of luminescence
+    dating. The agreement obtained for 10-20 ka ages using different techniques has
+    given us confidence in using the state of the art measurement protocols for young
+    deposits, as confirmed by comparison with independent age control. INTERTRAP proposes
+    detailed investigations of loess samples from three continents collected in close
+    proximity to the transition to the recent soil, with the purpose of obtaining
+    a temporal quantification of the ending of the Late Tardiglacial and the beginning
+    of the Holocene. However, a series of recent luminescence investigations carried
+    out on quartz of different grain sizes extracted from Romanian and Serbian loess
+    yielded severe age discrepancies for ages >~40 ka. While the cause of this observation
+    is hitherto not fully explained, our ongoing studies on Chinese loess prove that
+    it is a general effect, potentially affecting deposits worldwide, and raising
+    doubts on previous chronologies. Methodological studies within INTERTRAP will
+    develop an integrated approach using optically stimulated luminescence, thermoluminescence
+    and electron spin resonance investigations. This part of the study aims at unravelling
+    the mechanism responsible for the observed discrepancies and developing innovative
+    trapped charge dating measurement protocols based on quartz that will yield reliable
+    ages for and beyond the last interglacial glacial cycle.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/da5e2eb9-1c8f-3ca0-a4e3-26ea96b29fc0
+  Benzid-Khalif:
+    individualname: Benzid, Khalif
+    role: creator
+  Timar-Gabor-Alida:
+    individualname: Timar Gabor, Alida
+    role: creator
+  AIP-Publishing:
+    individualname: AIP Publishing
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "The compensation effect (Meyer\xE2\u20AC\u201CNeldel rule) on [AlO4/h+]\
+      \ and [TiO4/M+] paramagnetic centers in irradiated sedimentary quartz"
+    url: http://dx.doi.org/10.1063/5.0005161
+    type: www
+  contentUrl:
+    url: 10.1063/5.0005161
+    type: WWW:LINK
+    title: Link
+content_info: {}

@@ -1,0 +1,88 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Gros_2021
+  dataseturi: https://doi.org/10.1016/j.envpol.2021.117927
+  datestamp: ''
+identification:
+  title: 'Groundwater antibiotic pollution and its relationship with dissolved organic
+    matter: Identification and environmental implications'
+  abstract: 'Organic carbon  is exported from terrestrial to freshwater ecosystems
+    where, not only is it being degraded and eventually lost as carbon dioxide, but
+    such degradation occurs faster than in soils or marine systems. Across freshwaters,
+    variations in organic matter degradation and reactivity have been related to compositional
+    changes in  organic matter. The flux from terrestrial to aquatic systems seems
+    to be increasing associated to anthropogenic perturbations. However, despite the
+    relevance of these fluxes for the global C cycle, Earth System Models (ESMs) are
+    just starting to consider them. In that sense, a particularly crucial region deserving
+    urgent attention is the Arctic, as permafrost soils hold a massive C stock that
+    is vulnerable to being mobilized towards freshwaters. Such transfer could turn
+    that vulnerable C stock from a sink into a carbon dioxide source. Therefore, determining
+    the reactivity of that organic matter flux and incorporating it in surface models
+    is key at the moment. The foundation of CHROME is the idea that the chemical diversity
+    of organic matter explains its reactivity and, as such, should be considered in
+    biogeochemical models. CHROME represents the first attempt to incorporate organic
+    matter chemical diversity to ESMs, and will do so by; i) developing and selecting
+    functional chemical diversity indices as indicators of Arctic organic matter reactivity
+    and ii) implementing that knowledge in a regional branch of an ESM. CHROME is
+    based on the good match between the previous experience of the applicant and the
+    excellence of the host institutions, leaders in the field of biogeochemical research
+    in Arctic ecosystems (USGS, Boulder) and in global modelling (LSCE-CNRS, France).
+    CHROME will constitute a key advance in C biogeochemical understanding and modelling,
+    which will position the fellow at the forefront of geosciences research.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/edc7f11d-6d83-3220-abe8-a98f16cf7f7b
+  Gros-Meritxell:
+    individualname: Gros, Meritxell
+    role: creator
+  Catalan-Nuria:
+    individualname: "Catal\xE1n, N\xFAria"
+    role: creator
+  Mas-Pla-Josep:
+    individualname: Mas-Pla, Josep
+    role: creator
+  Celic-Mira:
+    individualname: "\u010Celi\u0107, Mira"
+    role: creator
+  Petrovic-Mira:
+    individualname: "Petrovi\u0107, Mira"
+    role: creator
+  Farre-Maria-Jose:
+    individualname: "Farr\xE9, Maria Jos\xE9"
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Groundwater antibiotic pollution and its relationship with dissolved organic
+      matter: Identification and environmental implications'
+    url: http://dx.doi.org/10.1016/j.envpol.2021.117927
+    type: www
+content_info: {}

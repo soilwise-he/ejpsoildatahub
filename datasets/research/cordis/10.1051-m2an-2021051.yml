@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1051-m2an-2021051
+  dataseturi: https://doi.org/10.1051/m2an/2021051
+  datestamp: ''
+identification:
+  title: A hybrid high-order method for creeping flows of non-Newtonian fluids
+  abstract: 'Understanding subsurface geological processes is crucial for the prevention
+    of environmental damage and the development of renewable alternatives for energy
+    generation. The key for the successful assessment of subsurface activities is
+    the ability to perform accurate numerical simulations able to predict the effects
+    of soil exploitation. Envisioned research activities will focus on the design
+    and analysis of advanced nonconforming polyhedral discretisation methods for simulating
+    fault mechanics and fracture propagation in poroelastic media. The main goal is
+    to provide an efficient mathematical and numerical framework to evaluate and prevent
+    risks related to several human geological activities. In this project, we aim
+    at developing and analysing new nonconforming polyhedral finite element methods
+    able to tame the mathematical and numerical challenges that have to be accounted
+    for in geomechanical modelling; the geometric complexity arising from the presence
+    of various layers and fractures, the strong coupling between the flow and the
+    mechanics, and the possible rough variations of the physical parameters. In this
+    context, for inner interface and moving discontinuities problems, such as fault
+    slip and fracture growth, the versatility of polyhedral finite element methods
+    allows to successfully tame the geometric complexity as well as facilitate mesh
+    adaptivity and provide a greater robustness with respect to mesh distortions.
+    The research will target the investigation of the models describing fault mechanics
+    and the interaction between propagating fractures and fluid flow. The computational
+    performance of the proposed discretisation schemes will be assessed on a complete
+    panel of realistic test cases.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/3e2e7abc-f68e-3e30-95e4-afe60f8760ab
+  Botti-Michele:
+    individualname: Botti, Michele
+    role: creator
+  Castanon-Quiroz-Daniel:
+    individualname: Castanon Quiroz, Daniel
+    role: creator
+  Di-Pietro-Daniele-A.:
+    individualname: Di Pietro, Daniele A.
+    role: creator
+  Harnist-Andre:
+    individualname: "Harnist, Andr\xE9"
+    role: creator
+  EDP-Sciences:
+    individualname: EDP Sciences
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: A hybrid high-order method for creeping flows of non-Newtonian fluids
+    url: http://dx.doi.org/10.1051/m2an/2021051
+    type: www
+  contentUrl:
+    url: 10.1051/m2an/2021051
+    type: WWW:LINK
+    title: Link
+content_info: {}

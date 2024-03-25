@@ -1,0 +1,86 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1038-s41396-022-01193-z
+  dataseturi: https://doi.org/10.1038/s41396-022-01193-z
+  datestamp: ''
+identification:
+  title: Ectomycorrhizal fungi mediate belowground carbon transfer between pines and
+    oaks
+  abstract: "Trees are unique in that responses at the organism level, being upscaled\
+    \ to forest canopies, bear large effects on the cycling and distribution of water\
+    \ and carbon in regional and global scales. Hence, tree carbon allocation dynamics\
+    \ are central not only to tree eco-physiology but also to global biogeochemistry.\
+    \ While tree aboveground carbon fluxes have been extensively studied, belowground\
+    \ fluxes, such as root respiration, growth and exudation have been mostly overlooked\
+    \ due to poor access to the root system. This project is set to address this knowledge\
+    \ disparity by answering key questions concerning belowground carbon flow.In one\
+    \ line of research, we will study the trees' \u201Cin-house\u201D management of\
+    \ carbon flow, inspired by our recently achieved first comprehensive tree carbon\
+    \ balance calculation, which indicates that carbon reserves serve as a buffer\
+    \ that accommodates large fluctuations in carbon supply and demand. This will\
+    \ be complemented by an exploration of the inter-tree carbon supply network of\
+    \ mycorrhizal fungi routes, an investigation prompted by our discovery that mature\
+    \ trees in a mixed forest transfer unprecedented amounts of carbon among each\
+    \ other via fungal networks. Computational models will be applied to identify\
+    \ the evolutionary requirements for the development of belowground carbon transfer\
+    \ in a mycorrhizal network.We will dive into the highly complex soil system not\
+    \ in an artificial medium system \u2013 but in a mixed forest site, complemented\
+    \ by greenhouse experiments simulating forest tree communities. To trace below-ground\
+    \ carbon transport, we will apply our novel methodology of continuous, in vivo,\
+    \ combined measurement of 13CO2 carbon allocation and flux rate.This novel \u2018\
+    rhizosphere expedition\u2019 will decipher the key belowground carbon transport\
+    \ processes, shedding light on the extent to which trees and fungi regulate them\
+    \ and facilitating predictions of carbon storage in changing climate and forests.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/2ff5f4bc-2af6-3b2e-803c-441a85faa9d0
+  Cahanovitc-Rotem:
+    individualname: Cahanovitc, Rotem
+    role: creator
+  Livne-Luzon-Stav:
+    individualname: Livne-Luzon, Stav
+    role: creator
+  Angel-Roey:
+    individualname: Angel, Roey
+    role: creator
+  Klein-Tamir:
+    individualname: Klein, Tamir
+    role: creator
+  Oxford-University-Press-OUP:
+    individualname: Oxford University Press (OUP)
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Ectomycorrhizal fungi mediate belowground carbon transfer between pines
+      and oaks
+    url: http://dx.doi.org/10.1038/s41396-022-01193-z
+    type: www
+  contentUrl:
+    url: 10.1038/s41396-022-01193-z
+    type: WWW:LINK
+    title: Link
+content_info: {}

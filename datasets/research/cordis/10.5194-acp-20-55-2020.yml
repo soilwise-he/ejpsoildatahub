@@ -1,0 +1,57 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.5194-acp-20-55-2020
+  dataseturi: https://doi.org/10.5194/acp-20-55-2020
+identification:
+  title: Retrieving the global distribution of the threshold of wind erosion from
+    satellite data and implementing it into the Geophysical Fluid Dynamics Laboratory
+    land&amp;#8211;atmosphere model (GFDL AM4.0/LM4.0)
+  abstract: "Soil dust aerosols are mixtures of different minerals, whose relative\
+    \ abundances, particle size distribution (PSD), shape, surface topography and\
+    \ mixing state influence their effect upon climate. However, Earth System Models\
+    \ typically assume that dust aerosols have a globally uniform composition, neglecting\
+    \ the known regional variations in the mineralogy of the sources. The goal of\
+    \ FRAGMENT is to understand and constrain the global mineralogical composition\
+    \ of dust along with its effects upon climate. The representation of the global\
+    \ dust mineralogy is hindered by our limited knowledge of the global soil mineral\
+    \ content and our incomplete understanding of the emitted dust PSD in terms of\
+    \ its constituent minerals that results from the fragmentation of soil aggregates\
+    \ during wind erosion. The emitted PSD affects the duration of particle transport\
+    \ and thus each mineral\u2019s global distribution, along with its specific effect\
+    \ upon climate. Coincident observations of the emitted dust and soil PSD are scarce\
+    \ and do not characterize the mineralogy. In addition, the existing theoretical\
+    \ paradigms disagree fundamentally on multiple aspects. We will contribute new\
+    \ fundamental understanding of the size-resolved mineralogy of dust at emission\
+    \ and its relationship with the parent soil, based on an unprecedented ensemble\
+    \ of measurement campaigns that have been designed to thoroughly test our theoretical\
+    \ hypotheses. To improve knowledge of the global soil mineral content, we will\
+    \ evaluate and use available remote hyperspectral imaging, which is unprecedented\
+    \ in the context of dust modelling. Our new methods will anticipate the coming\
+    \ innovation of retrieving soil mineralogy through high-quality spaceborne hyperspectral\
+    \ measurements. Finally, we will generate integrated and quantitative knowledge\
+    \ of the role of dust mineralogy in dust-radiation, dust-chemistry and dust-cloud\
+    \ interactions based on modeling experiments constrained with our theoretical\
+    \ innovations and field measurements.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - null
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: null
+  maintenancefrequency: null
+  dates: {}
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/5dfe7b25-84b1-36cf-a320-97dea47c9bbf
+distribution:
+  contentUrl:
+    url: 10.5194/acp-20-55-2020
+    type: WWW:LINK
+    title: Link

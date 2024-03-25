@@ -1,0 +1,132 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Lindberg_2018
+  dataseturi: https://doi.org/10.1016/j.envsoft.2017.09.020
+  datestamp: ''
+identification:
+  title: 'Urban Multi-scale Environmental Predictor (UMEP): An integrated tool for
+    city-based climate services'
+  abstract: 'The main goal of the proposed project URBANFLUXES (URBan ANthrpogenic
+    heat FLUX from Earth observation Satellites) is to investigate the potential of
+    Earth Observation (EO) to retrieve anthropogenic heat fluxes. The main research
+    question addresses whether EO is able to provide reliable estimates of anthropogenic
+    heat flux spatiotemporal distribution, at local and city scales. URBANFLUXES will
+    investigate the potential of EO to retrieve the anthropogenic heat flux, as a
+    key component in the urban energy budget and by developing a method capable of
+    deriving it from space. The objective is to develop a method that could be used
+    operationally in the near future, when observations with adequate temporal resolution
+    become available. URBANFLUXES EO-based approach will be easily transferable to
+    any urban area and capable of providing anthropogenic heat flux benchmark data
+    for different applications, including climate models to assess the implication
+    of the anthropogenic heat on the Earth system; building energy models to characterize
+    buildings-to-atmosphere/soil/water heat exchange pathways; and decision support
+    systems for urban sustainable planning and mapping of emissions related to energy
+    consumption. URBANFLUXES is therefore expected to prepare the ground for further
+    innovative exploitation of European space data in scientific activities (Earth
+    system modelling and climate change studies in cities) and future and emerging
+    applications (sustainable urban planning) by exploiting the improved data quality,
+    coverage and revisit times of the Copernicus Sentinels data. The Copernicus observations
+    have the potential to reveal novel scientific insights, related to monitoring
+    the anthropogenic heat flux in cities, at both local and regional scales, generating
+    new EO opportunities. The URBANFLUXES products will therefore support both sustainable
+    planning strategies to improve the quality of life in cities and Earth system
+    models to provide more robust climate simulations.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/325d77e8-27c3-355c-923b-c3f61bb3a9a8
+  Lindberg-Fredrik:
+    individualname: Lindberg, Fredrik
+    role: creator
+  Grimmond-C.S.B.:
+    individualname: Grimmond, C.S.B.
+    role: creator
+  Gabey-Andrew:
+    individualname: Gabey, Andrew
+    role: creator
+  Huang-Bei:
+    individualname: Huang, Bei
+    role: creator
+  Kent-Christoph-W.:
+    individualname: Kent, Christoph W.
+    role: creator
+  Sun-Ting:
+    individualname: Sun, Ting
+    role: creator
+  Theeuwes-Natalie-E.:
+    individualname: Theeuwes, Natalie E.
+    role: creator
+  Jarvi-Leena:
+    individualname: "J\xE4rvi, Leena"
+    role: creator
+  Ward-Helen-C.:
+    individualname: Ward, Helen C.
+    role: creator
+  Capel-Timms-I.:
+    individualname: Capel-Timms, I.
+    role: creator
+  Chang-Yuanyong:
+    individualname: Chang, Yuanyong
+    role: creator
+  Jonsson-Per:
+    individualname: Jonsson, Per
+    role: creator
+  Krave-Niklas:
+    individualname: Krave, Niklas
+    role: creator
+  Liu-Dongwei:
+    individualname: Liu, Dongwei
+    role: creator
+  Meyer-D.:
+    individualname: Meyer, D.
+    role: creator
+  Olofson-K.-Frans-G.:
+    individualname: Olofson, K. Frans G.
+    role: creator
+  Tan-Jianguo:
+    individualname: Tan, Jianguo
+    role: creator
+  Wastberg-Dag:
+    individualname: "W\xE4stberg, Dag"
+    role: creator
+  Xue-Lingbo:
+    individualname: Xue, Lingbo
+    role: creator
+  Zhang-Zhe:
+    individualname: Zhang, Zhe
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Urban Multi-scale Environmental Predictor (UMEP): An integrated tool for
+      city-based climate services'
+    url: http://dx.doi.org/10.1016/j.envsoft.2017.09.020
+    type: www
+content_info: {}

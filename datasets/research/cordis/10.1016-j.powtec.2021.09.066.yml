@@ -1,0 +1,80 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Liu_2022
+  dataseturi: https://doi.org/10.1016/j.powtec.2021.09.066
+  datestamp: ''
+identification:
+  title: Infiltration and resuspension of dilute particle suspensions in micro cavity
+    flow
+  abstract: 'River pollution has become a serious environmental problem in the Europe
+    and worldwide as it dramatically affects the freshwater quality and human health.
+    A major source of chemical and physical pollution in rivers is small particles
+    known as fine-grained sediment (FGS). Intensified agricultural practices and the
+    associated increase in soil erosion in Europe has caused a shape increase in the
+    supply of FGS to water streams. Consequently, the water quality in many rivers
+    in Europe have deteriorated and are failing to meet minimum water quality standards.
+    Hence, there is a urgent need to address the river pollution problem through a
+    thorough understanding on how much supplied FGS infiltrates into the river bed
+    and how much is resuspended and migrated at different hydrodynamic conditions,
+    i.e. the dynamics of FGS. MULTIPIR takes an inter-disciplinary approach to tackle
+    this challenge heads-on by combining the extraordinary experience of the researcher
+    in erosion, sand production, hydraulics and computational fluid dynamics (CFD)
+    with the expertise of the supervisor in coupled discrete element methods with
+    CFD (DEM-CFD) and solid-liquid flows. A combined experimental and numerical investigation
+    on the migration of FGS in the river will be performed, from which multiscale
+    models will be developed to predict the infiltration and re-suspension of FGS
+    at the microscopic level and the transport of FGS at different hydraulic conditions
+    at the macroscopic scale. Using the developed model, a river pollution control
+    map will be developed to guide the river managements. It is for the first time
+    that advanced engineering approaches, e.g. DEM-CFD and advanced imaging techniques,
+    are employed to address the challenging environmental problem and to develop a
+    science-based river pollution control strategy that can benefit European citizens
+    and beyond.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/3f464487-1b5f-3be9-84cf-edb70158543f
+  Liu-Wenwei:
+    individualname: Liu, Wenwei
+    role: creator
+  Zheng-Chao:
+    individualname: Zheng, Chao
+    role: creator
+  Wu-Chuan-Yu:
+    individualname: Wu, Chuan-Yu
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Infiltration and resuspension of dilute particle suspensions in micro cavity
+      flow
+    url: http://dx.doi.org/10.1016/j.powtec.2021.09.066
+    type: www
+content_info: {}

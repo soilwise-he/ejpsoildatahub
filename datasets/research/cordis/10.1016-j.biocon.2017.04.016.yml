@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Aavik_2017
+  dataseturi: https://doi.org/10.1016/j.biocon.2017.04.016
+  datestamp: ''
+identification:
+  title: "Genetic consequences of landscape change for rare endemic plants \u2013\
+    \ A case study of Rhinanthus osiliensis"
+  abstract: 'Diffuse losses of nitrogen and phosphorus from agricultural areas contribute
+    significantly to eutrophication of waterways, lakes, estuaries and coastal zones
+    and water pollution is a growing and serious problem across much of the world.
+    The role of wetlands in improving surface water quality is well known. The capacity
+    of wetlands to improve water quality is dependent on a large number of parameters
+    that have been widely studied, such as vegetation cover or type, water retention
+    time, climatic variables, and also their size and spatial arrangement in the watershed.
+    However, the question where wetlands should be located in agricultural catchments
+    to achieve the most effective nutrient removal at the catchment level has not
+    been clearly resolved. This project aims to determine the optimal sizing and location
+    for wetlands in agricultural catchments to reduce nutrient (nitrogen and phosphorus)
+    loads in catchments. The study consist of two parts performed on study areas with
+    different landscape and climatic conditions. Firstly, potentially suitable wetland
+    restoration/creation sites are identified by using high quality data and geospatial
+    analysis techniques. Secondly, evaluation of the effectiveness of wetland nitrogen
+    and phosphorus removal from surface waters at various potential locations indicated
+    by the geospatial analyses under different hydrological regimes and land use scenarios
+    will be done by using modelling with CLUES (Catchment Land Use for Environmental
+    Sustainability model) and SWAT (Soil and Water and Assessment Tool). Important
+    role in the study is also on using and integrating different datasets and modelling
+    approaches.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/9ed00465-50da-35e7-b4d3-2d812160b5af
+  Aavik-Tsipe:
+    individualname: Aavik, Tsipe
+    role: creator
+  Talve-Tiina:
+    individualname: Talve, Tiina
+    role: creator
+  Thetloff-Marge:
+    individualname: Thetloff, Marge
+    role: creator
+  Uuemaa-Evelyn:
+    individualname: Uuemaa, Evelyn
+    role: creator
+  Oja-Tatjana:
+    individualname: Oja, Tatjana
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "Genetic consequences of landscape change for rare endemic plants \u2013\
+      \ A case study of Rhinanthus osiliensis"
+    url: http://dx.doi.org/10.1016/j.biocon.2017.04.016
+    type: www
+content_info: {}

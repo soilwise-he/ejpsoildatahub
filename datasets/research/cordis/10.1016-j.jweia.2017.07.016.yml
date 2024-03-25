@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Kent_2017
+  dataseturi: https://doi.org/10.1016/j.jweia.2017.07.016
+  datestamp: ''
+identification:
+  title: 'Aerodynamic roughness parameters in cities: Inclusion of vegetation'
+  abstract: 'The main goal of the proposed project URBANFLUXES (URBan ANthrpogenic
+    heat FLUX from Earth observation Satellites) is to investigate the potential of
+    Earth Observation (EO) to retrieve anthropogenic heat fluxes. The main research
+    question addresses whether EO is able to provide reliable estimates of anthropogenic
+    heat flux spatiotemporal distribution, at local and city scales. URBANFLUXES will
+    investigate the potential of EO to retrieve the anthropogenic heat flux, as a
+    key component in the urban energy budget and by developing a method capable of
+    deriving it from space. The objective is to develop a method that could be used
+    operationally in the near future, when observations with adequate temporal resolution
+    become available. URBANFLUXES EO-based approach will be easily transferable to
+    any urban area and capable of providing anthropogenic heat flux benchmark data
+    for different applications, including climate models to assess the implication
+    of the anthropogenic heat on the Earth system; building energy models to characterize
+    buildings-to-atmosphere/soil/water heat exchange pathways; and decision support
+    systems for urban sustainable planning and mapping of emissions related to energy
+    consumption. URBANFLUXES is therefore expected to prepare the ground for further
+    innovative exploitation of European space data in scientific activities (Earth
+    system modelling and climate change studies in cities) and future and emerging
+    applications (sustainable urban planning) by exploiting the improved data quality,
+    coverage and revisit times of the Copernicus Sentinels data. The Copernicus observations
+    have the potential to reveal novel scientific insights, related to monitoring
+    the anthropogenic heat flux in cities, at both local and regional scales, generating
+    new EO opportunities. The URBANFLUXES products will therefore support both sustainable
+    planning strategies to improve the quality of life in cities and Earth system
+    models to provide more robust climate simulations.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/325d77e8-27c3-355c-923b-c3f61bb3a9a8
+  Kent-Christoph-W.:
+    individualname: Kent, Christoph W.
+    role: creator
+  Grimmond-Sue:
+    individualname: Grimmond, Sue
+    role: creator
+  Gatey-David:
+    individualname: Gatey, David
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: 'Aerodynamic roughness parameters in cities: Inclusion of vegetation'
+    url: http://dx.doi.org/10.1016/j.jweia.2017.07.016
+    type: www
+content_info: {}

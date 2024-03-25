@@ -1,0 +1,110 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1007-s00382-016-3308-z
+  dataseturi: https://doi.org/10.1007/s00382-016-3308-z
+  datestamp: ''
+identification:
+  title: Assessing mid-latitude dynamics in extreme event attribution systems
+  abstract: "A large part of our knowledge on climate change is provided by the usage\
+    \ of coupled atmospheric-ocean Global Climate Models (GCMs), which produce numerical\
+    \ simulations of the Earth\u2019s climate system for both the present and the\
+    \ future. However, state-of-the-art GCMs show considerable systematic errors;\
+    \ they are limited by low spatial resolutions and by the problematic representation\
+    \ of many physical processes. In particular, one of the largest sources of uncertainty\
+    \ is associated with the coupling between the atmospheric circulation and the\
+    \ water cycle.COGNAC is conceived as a fundamental theoretical project framed\
+    \ in this context. It aims at readdressing the representation of moist convection,\
+    \ clouds and precipitation and their interaction with the surface and the soil\
+    \ in GCMs. A recently developed theoretical framework capable of treating in a\
+    \ unified way the soil, the Planetary Boundary Layer (PBL), clouds, and both shallow\
+    \ and deep convection will be used. Such model - the Probabilistic Plume Model,\
+    \ PPM - is capable to represent the whole atmospheric column (from the PBL to\
+    \ the tropopause) with results comparable to Large Eddies Simulations and with\
+    \ a minor numerical cost. COGNAC aims at improving and refining the PPM and integrating\
+    \ it into two models, the LMDz GCM and the EC-Earth GCM, in the form a new unified\
+    \ parameterization. First evaluation will be carried out on Single Column Models,\
+    \ and hence extended to the full 3D case. Once operational, these new GCM configurations\
+    \ will provide a powerful tool to study complex interactions among surface, PBL\
+    \ and moist convection, as the ones occurring in the Sahel, the Amazon Rainforest\
+    \ or the Mediterranean region. These advancements will have notable potential\
+    \ for improving the representation, the forecast and the evaluation of the future\
+    \ changes of large-impact hydro-meteorological events.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/e5be259a-58cc-379b-84b4-2960017c29b9
+  Mitchell-Daniel:
+    individualname: Mitchell, Daniel
+    role: creator
+  Davini-Paolo:
+    individualname: Davini, Paolo
+    role: creator
+  Harvey-Ben:
+    individualname: Harvey, Ben
+    role: creator
+  Massey-Neil:
+    individualname: Massey, Neil
+    role: creator
+  Haustein-Karsten:
+    individualname: Haustein, Karsten
+    role: creator
+  Woollings-Tim:
+    individualname: Woollings, Tim
+    role: creator
+  Jones-Richard:
+    individualname: Jones, Richard
+    role: creator
+  Otto-Fredi:
+    individualname: Otto, Fredi
+    role: creator
+  Guillod-Benoit:
+    individualname: Guillod, Benoit
+    role: creator
+  Sparrow-Sarah:
+    individualname: Sparrow, Sarah
+    role: creator
+  Wallom-David:
+    individualname: Wallom, David
+    role: creator
+  Allen-Myles:
+    individualname: Allen, Myles
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Assessing mid-latitude dynamics in extreme event attribution systems
+    url: http://dx.doi.org/10.1007/s00382-016-3308-z
+    type: www
+  contentUrl:
+    url: 10.1007/s00382-016-3308-z
+    type: WWW:LINK
+    title: Link
+content_info: {}

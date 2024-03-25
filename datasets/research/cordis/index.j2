@@ -1,0 +1,37 @@
+mcf:
+    version: 1.0
+
+metadata:
+{% if 'doi' in md %}
+    identifier: {{ md['doi'].split('doi.org/').pop() }} 
+    dataseturi: https://doi.org/{{ md['doi'] }}
+{% endif %}
+
+identification:
+    title: "{{ md['pubtitle'] }}"
+    abstract: >
+        {{ md['abstract'] | replace(':',';') }}
+    topiccategory:
+        - geoscientificInformation
+    extents:
+        spatial:
+            - {{ md['Extent (geographic)'] }}
+        temporal:
+            - begin: "{{ md['Reference period - Start'] }}"
+            - end: "{{ md['Reference period - End'] }}"
+    accessconstraints: "{{ md['Access constraints'] }}"
+    rights: "{{ md['Usage constraints'] }}"
+    status: {{ md['Status'] }}
+    maintenancefrequency: {{ md['Maintenenance frequency'] }}
+
+contact:
+    Funder: 
+        organization: "Cordis"
+        url: {{ md['project'] }}
+
+{% if md['results'] %}
+distribution:
+    results:
+        url: {{ md['results'] }}
+{% endif %}
+

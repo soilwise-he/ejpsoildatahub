@@ -1,0 +1,102 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: 10.1007-s00122-021-03815-0
+  dataseturi: https://doi.org/10.1007/s00122-021-03815-0
+  datestamp: ''
+identification:
+  title: "Genomic prediction models trained with historical records enable populating\
+    \ the German ex situ genebank bio-digital resource center of barley (Hordeum\_\
+    sp.) with information on resistances to soilborne barley mosaic viruses"
+  abstract: 'AGENT aims to transform genebanks (GB) from living archives into bio-digital
+    resources centres, equipped to meet the needs of a changing world. Fifteen GB
+    and four genebank genomic centers will create a network to work exemplarily on
+    barley and wheat for (i) establishing a European (global) crop genomic diversity
+    atlas, (ii) activating currently inaccessible legacy phenotypic data, (iii) implementing
+    a novel concept of concerted accumulation of phenologic and agronomic data for
+    individual GenRes collections to establish training population datasets for the
+    genome-wide prediction of untested GenRes accessions. Phenotyping will take into
+    account diverse environmental conditions (climate, soil, geography, pathogens)
+    provided by the diversity of eco-geographic locations of the participating GB
+    and their partners. These activities will be supported by a bioinformatics network
+    that will implement FAIR data principles, standards, protocols, and data formats  enabling
+    data storage, access, use, and re-use, extending the existing EURISCO GenRes portal
+    for new data types. AGENT will use existing solutions established by ongoing European
+    projects and international initiatives, but also develop new tools for novel functionality
+    of data access, visualisation, and use, which will be connected and implemented
+    via plugin or web-services, allowing their incorporation in EURISCO and other
+    data portals, and their easy application to other crop GenRes, based on data already
+    available at EURISCO or provided by AGENT partner GB. A coordinated testing network
+    is another unique layer of AGENT, directly involving stakeholders (e.g. farmer
+    cooperatives, breeding companies, NGOs) in monitoring, mentoring, capacity building
+    and training in the development of workflows and tools. Thus, AGENT project results
+    will be directly disseminated to GB, researchers, breeders, policy makers and
+    the general public and raise awareness of the general as well as the specific
+    societal importance of GenRes.
+
+    '
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/6514c1de-baa1-3919-90ba-59f8ca15a304
+  Gonzalez-Maria-Y.:
+    individualname: Gonzalez, Maria Y.
+    role: creator
+  Zhao-Yusheng:
+    individualname: Zhao, Yusheng
+    role: creator
+  Jiang-Yong:
+    individualname: Jiang, Yong
+    role: creator
+  Stein-Nils:
+    individualname: Stein, Nils
+    role: creator
+  Habekuss-Antje:
+    individualname: Habekuss, Antje
+    role: creator
+  Reif-Jochen-C.:
+    individualname: Reif, Jochen C.
+    role: creator
+  Schulthess-Albert-W.:
+    individualname: Schulthess, Albert W.
+    role: creator
+  Springer-Science:
+    individualname: Springer Science
+    role: creator
+  Business-Media-LLC:
+    individualname: Business Media LLC
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: "Genomic prediction models trained with historical records enable populating\
+      \ the German ex situ genebank bio-digital resource center of barley (Hordeum\_\
+      sp.) with information on resistances to soilborne barley mosaic viruses"
+    url: http://dx.doi.org/10.1007/s00122-021-03815-0
+    type: www
+  contentUrl:
+    url: 10.1007/s00122-021-03815-0
+    type: WWW:LINK
+    title: Link
+content_info: {}

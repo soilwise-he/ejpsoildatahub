@@ -1,0 +1,79 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: Fuentes_2021
+  dataseturi: https://doi.org/10.1016/j.envsoft.2021.105095
+  datestamp: ''
+identification:
+  title: Volume and uncertainty estimates of on-farm reservoirs using surface reflectance
+    and LiDAR data
+  abstract: "Shortages of freshwater will be one of the most pressing problems in\
+    \ feeding the world this century. To optimize use of available water it is important\
+    \ to distribute it wisely over the various competing interests, in particular\
+    \ agriculture, which is responsible for 70% of all freshwater use. Irrigation\
+    \ is currently often unsustainable, while groundwater reserves are becoming depleted\
+    \ and many places in the world are suffering water shortages. Action is therefore\
+    \ required now to use space and in-situ monitoring systems, to create a better\
+    \ sense of water availability and optimise use across the planet. WaterSENSE will\
+    \ provide water-availability and mapping services for any place in the world at\
+    \ different time and space resolutions, based on integrated Copernicus data, hydrological\
+    \ models and local data. The results of these services will be open access so\
+    \ as to further develop value-adding services. WaterSENSE itself will deliver\
+    \ the essential value-added service of monitoring compliance of local water use\
+    \ against water rights and regulations (\u2018water auditing\u2019). The first\
+    \ application will be in the multi-climate Murray-Darling Basin in Australia,\
+    \ followed by validation in South Africa and the Netherlands. Consortium partners\
+    \ already provide water-availability and water-auditing services in the latter\
+    \ two countries. Novel research in the project will develop scalable information\
+    \ services, based on advanced big-data processing algorithms, to determine variables\
+    \ such as evapotranspiration, irrigation water use, rainfall and soil moisture,\
+    \ as well as machine learning to allow automatic data processing and reduce uncertainty\
+    \ in the hydrological variables determined. DIAS services for data provision,\
+    \ as well as cloud hosting and processing of computational services, will be developed\
+    \ and implemented. Existing successful partnership models will be refined to ensure\
+    \ service providers in the water value chain achieve healthy business development.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/1f217913-c235-376f-a3bb-fd2b3bf8d31d
+  Fuentes-Ignacio:
+    individualname: Fuentes, Ignacio
+    role: creator
+  Scalzo-Richard:
+    individualname: Scalzo, Richard
+    role: creator
+  Vervoort-R.-Willem:
+    individualname: Vervoort, R. Willem
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Volume and uncertainty estimates of on-farm reservoirs using surface reflectance
+      and LiDAR data
+    url: http://dx.doi.org/10.1016/j.envsoft.2021.105095
+    type: www
+content_info: {}

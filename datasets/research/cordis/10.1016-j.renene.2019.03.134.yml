@@ -1,0 +1,83 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: De_Felice_2019
+  dataseturi: https://doi.org/10.1016/j.renene.2019.03.134
+  datestamp: ''
+identification:
+  title: Scoping the potential usefulness of seasonal climate forecasts for solar
+    power management
+  abstract: "The modelling community achieved steady progress in dynamical climate\
+    \ prediction using Earth System models and the last decade has seen an accelerated\
+    \ development for the land surface component. This has led to predictions that\
+    \ are now considered useful for some societal applications over \u201Chot-spot\u201D\
+    \ land areas such as the Euro-Mediterranean. However, forecasts performance over\
+    \ land is still substantially weaker compared with ocean, due to the lack of observations,\
+    \ which has hampered the development of well-constrained land processes models.\
+    \ While benefiting from daily verification, the models used for the prediction\
+    \ of the short time-scales (from weather to seasons) include only that part of\
+    \ the surface variability for which observations are available and that can be\
+    \ modeled/initialized to positively contribute to the forecasts (verification-based\
+    \ approach). As a consequence, they unavoidably lack some processes such as those\
+    \ related to ecosystems and their variability. On the other hand, longer time-scales\
+    \ (interannual to centennial) models used for climate variability/change research\
+    \ contain comprehensive vegetation and soil schemes intended to represent as many\
+    \ processes as possible, even those that are still poorly constrained or understood.\
+    \ Through the synergy between process-based and verification-based approaches\
+    \ the ambitious objective of this project is to obtain a practicable seamless\
+    \ development across scales of the land modelling applied to Earth System predictions.\
+    \ The main goal will be to obtain verifiable land processes models to enhance\
+    \ the performance of the predictions across scales and to demonstrate unprecedented\
+    \ useful applications for the energy sector. A fundamental contribution to fill\
+    \ in the gap between short- and long-term Earth System predictions will come from\
+    \ the emerging availability of reliable land surface observations from remotely\
+    \ sensed satellite campaigns that will provide novel observational constraints\
+    \ to land processes models.\n"
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox: []
+      crs: '4326'
+    temporal:
+    - begin: ''
+    - end: ''
+  accessconstraints: ''
+  rights: ''
+  status: ''
+  maintenancefrequency: null
+  keywords:
+    default:
+      keywords: []
+  language: ''
+  dates:
+    creation: ''
+contact:
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/7e32e025-fe14-3547-a7a5-d3b7552fca7b
+  De-Felice-Matteo:
+    individualname: De Felice, Matteo
+    role: creator
+  Soares-Marta-Bruno:
+    individualname: Soares, Marta Bruno
+    role: creator
+  Alessandri-Andrea:
+    individualname: Alessandri, Andrea
+    role: creator
+  Troccoli-Alberto:
+    individualname: Troccoli, Alberto
+    role: creator
+  Elsevier-BV:
+    individualname: Elsevier BV
+    role: creator
+spatial:
+  datatype: ''
+  geomtype: ''
+distribution:
+  www:
+    name: Scoping the potential usefulness of seasonal climate forecasts for solar
+      power management
+    url: http://dx.doi.org/10.1016/j.renene.2019.03.134
+    type: www
+content_info: {}
