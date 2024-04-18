@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2f32fbe1-30fd-4472-8b97-e02267c34ca6
+  hierarchylevel: service
+  datestamp: '2023-07-19'
+  language: eng
+identification:
+  title: WMS Service of datasets from the 'ZALF Focus Area - Paulinenaue'
+  abstract: null
+  dates:
+    issued: '2023-05-12'
+    creation: '2023-05-12'
+    revision: '2023-05-12'
+    publication: '2023-05-12'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 12.627491
+      - 52.629545
+      - 12.807154
+      - 52.738458
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2f32fbe1-30fd-4472-8b97-e02267c34ca6
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Axel Behrendt
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: abehrendt@zalf.de
+    positionname: Group Leader
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe 19"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 0870a304-a748-4ae9-b564-d70c19c6dbf7
+  hierarchylevel: service
+  datestamp: '2023-12-11'
+  language: eng
+identification:
+  title: "Web Map Service of the dataset 'RhizoWheat \u2013 Agronomic data, crop rotation\
+    \ experiment \u201CV145\u201D'"
+  abstract: null
+  dates:
+    issued: '2023-06-05'
+    creation: '2023-06-05'
+    revision: '2023-06-05'
+    publication: '2023-06-23'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.29
+      - 52.27
+      - 12.16
+      - 54.98
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0870a304-a748-4ae9-b564-d70c19c6dbf7
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Nora Honsdorf
+    organization: Kiel University
+    email: honsdorf@pflanzenbau.uni-kiel.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

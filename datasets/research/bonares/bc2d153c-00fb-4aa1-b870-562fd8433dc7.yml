@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bc2d153c-00fb-4aa1-b870-562fd8433dc7
+  hierarchylevel: service
+  datestamp: '2021-03-02'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Dataset of winter wheat yields in Germany between
+    1958 and 2015 from N-fertilization experiments - TRIAL_SITES'
+  abstract: null
+  dates:
+    issued: '2020-01-28'
+    creation: '2020-01-28'
+    revision: '2020-01-28'
+    publication: '2019-12-31'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.54
+      - 47.63
+      - 14.39
+      - 54.86
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=bc2d153c-00fb-4aa1-b870-562fd8433dc7
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Eric B\xF6necke"
+    organization: Leibniz University Hanover
+    email: boenecke@igzev.de, boenecke@gem.uni-hannover.de
+    positionname: Scientist
+    phone: +49 511 762-19269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 56b8df43-79fb-4bf9-8162-f28329916780
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2020-11-24'
+  language: ger
+identification:
+  title: Raw data P-XANES measurements
+  abstract: null
+  dates:
+    issued: '2017-10-06'
+    creation: '2017-02-01'
+    revision: '2020-11-05'
+    publication: '2018-01-05'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 12.09
+      - 54.06
+      - 12.11
+      - 54.08
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/BonaRes-PDY6-HHGS
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Peter Leinweber
+    organization: University of Rostock
+    email: peter.leinweber@uni-rostock.de
+    positionname: Prof
+    phone: +49381498 3132
+    address: Heinrich-Buff-Ring 26
+    city: Rostock
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '18059'
+    country: Germany
+    url: www.ordiamur.de
+    fax: +49 (0) 641-99 37429

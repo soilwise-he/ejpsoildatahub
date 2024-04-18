@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e512d7a4-fe58-4d6e-8b2b-31c607174a7f
+  hierarchylevel: dataset
+  datestamp: '2020-09-11'
+  language: eng
+identification:
+  title: 'ARD Biomarkers: qPCR data'
+  abstract: null
+  dates:
+    issued: '2020-07-13'
+    creation: '2020-07-13'
+    revision: '2020-07-13'
+    publication: '2020-08-03'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.93
+      - 51.85
+      - 10.75
+      - 54.38
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e512d7a4-fe58-4d6e-8b2b-31c607174a7f
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Annmarie-Deetja Rohr
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: rohr@baum.uni-hannover.de
+    positionname: Researcher
+    phone: 0049 511 762 4017
+    address: Eberswalder Strasse 84
+    city: Hannover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: 0049 511 762 3608

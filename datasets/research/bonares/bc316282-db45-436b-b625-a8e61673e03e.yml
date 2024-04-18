@@ -1,0 +1,55 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bc316282-db45-436b-b625-a8e61673e03e
+  hierarchylevel: dataset
+  datestamp: '2024-02-22'
+  language: eng
+identification:
+  title: Meteorological data, soil temperature and soil water content for Wendhausen
+    Conventional from 2016 to 2017
+  abstract: null
+  dates:
+    issued: '2018-09-18'
+    creation: '2018-09-18'
+    revision: '2018-09-18'
+    publication: '2020-01-01'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  extents:
+    spatial:
+    - bbox:
+      - 9.13
+      - 51.5
+      - 11.18
+      - 53.16
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=bc316282-db45-436b-b625-a8e61673e03e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Christian Markwitz
+    organization: "University of G\xF6ttingen, Bioclimatology"
+    email: christian.markwitz@forst.uni-goettingen.de
+    positionname: PhD Student
+    phone: 05513920597
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

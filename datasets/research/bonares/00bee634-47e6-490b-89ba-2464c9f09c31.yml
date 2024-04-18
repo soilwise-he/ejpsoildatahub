@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 00bee634-47e6-490b-89ba-2464c9f09c31
+  hierarchylevel: dataset
+  datestamp: '2024-03-07'
+  language: eng
+identification:
+  title: Long-term field trial on tillage and fertilization in crop rotation - Westerfeld
+  abstract: null
+  dates:
+    issued: '2021-11-11'
+    creation: '2021-11-11'
+    revision: '2021-11-11'
+    publication: '2022-02-21'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.701
+      - 51.817
+      - 11.705
+      - 51.821
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=00bee634-47e6-490b-89ba-2464c9f09c31
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Joerg Geistlinger
+    organization: Institute of Bioanalytical Sciences, Anhalt University of Applied
+      Sciences
+    email: joerg.geistlinger@hs-anhalt.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

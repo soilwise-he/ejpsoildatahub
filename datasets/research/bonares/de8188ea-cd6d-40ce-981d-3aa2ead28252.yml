@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: de8188ea-cd6d-40ce-981d-3aa2ead28252
+  hierarchylevel: dataset
+  datestamp: '2021-11-29'
+  language: eng
+identification:
+  title: Earthworm data 2018 in agroforestry and monoculture - Bonares-SIGNAL-Projekt
+  abstract: null
+  dates:
+    issued: '2021-05-17'
+    creation: '2021-05-17'
+    revision: '2021-05-17'
+    publication: '2021-11-23'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=de8188ea-cd6d-40ce-981d-3aa2ead28252
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Martin Potthoff
+    organization: Center of Biodiversity and sustainable Land use, University of Goettingen
+    email: mpottho@gwdg.de
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 86cafaf4-7509-48e1-adfd-b4eb0da1a10e
+  hierarchylevel: dataset
+  datestamp: '2023-04-26'
+  language: eng
+identification:
+  title: Monitoring of tree growth, water relations and element budget of a mature
+    beech (Fagus sylvatica L.) forest ecosystem in Brandenburg, Germany - Soil solution
+  abstract: null
+  dates:
+    issued: '2022-04-26'
+    creation: '2022-04-26'
+    revision: '2022-04-26'
+    publication: '2022-05-05'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 12.988249
+      - 53.145833
+      - 12.989957
+      - 53.15349
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=86cafaf4-7509-48e1-adfd-b4eb0da1a10e
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Hubert Jochheim
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: hubert.jochheim@zalf.de
+    positionname: Research associate
+    phone: +49-(0)228-73-2871
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Brandenburg
+    postalcode: '38116'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

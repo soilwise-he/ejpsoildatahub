@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 68749995-c4bf-4f80-94e5-43c2291c99be
+  hierarchylevel: service
+  datestamp: '2024-02-12'
+  language: eng
+identification:
+  title: '|'
+  abstract: null
+  dates:
+    issued: '2017-09-18'
+    creation: '2017-09-18'
+    revision: '2017-09-18'
+    publication: '2017-09-18'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.11
+      - 52.51
+      - 14.13
+      - 52.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: license
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5187f8c5-38ef-4b07-bc26-a5e257a8ef59
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: "Cenk D\xF6nmez"
+    organization: '|'
+    email: '|'
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

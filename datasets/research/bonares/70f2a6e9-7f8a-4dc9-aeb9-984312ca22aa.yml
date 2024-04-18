@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 70f2a6e9-7f8a-4dc9-aeb9-984312ca22aa
+  hierarchylevel: service
+  datestamp: '2022-07-08'
+  language: eng
+identification:
+  title: WMS of the dataset 'Grain legume production data for soybean, lupins and
+    faba bean, the effect of cultivars and irrigation and impacts on the following
+    winter wheat'
+  abstract: null
+  dates:
+    issued: '2022-04-29'
+    creation: '2022-04-29'
+    revision: '2022-04-29'
+    publication: '2022-06-14'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-08-03'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.124984
+      - 52.515896
+      - 14.135045
+      - 52.523392
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=70f2a6e9-7f8a-4dc9-aeb9-984312ca22aa
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kathleen Karges
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Germany
+    email: kathleen.karges@zalf.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: +49 (0) 641-99 37429

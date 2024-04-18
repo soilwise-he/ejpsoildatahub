@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ed5457a4-d61e-4b2b-b1c0-c4abae62fdc7
+  hierarchylevel: service
+  datestamp: '2023-01-20'
+  language: eng
+identification:
+  title: AGIS Map Service of the dataset 'Agricultural Yields and Cultivated Areas
+    Germany, States and Counties since 1999'
+  abstract: null
+  dates:
+    issued: '2022-11-28'
+    creation: '2022-11-28'
+    revision: '2022-11-28'
+    publication: '2023-01-19'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ed5457a4-d61e-4b2b-b1c0-c4abae62fdc7
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nikolai Svoboda
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: Nikolai.Svoboda@zalf.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

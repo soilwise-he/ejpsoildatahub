@@ -1,0 +1,56 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8a3f0bf4-7842-4b43-b0df-92db705d3a49
+  hierarchylevel: dataset
+  datestamp: '2024-02-29'
+  language: eng
+identification:
+  title: KOPOS- Sustainability and transformation criteria set for sustainability
+    initiatives in the agri-food sector
+  abstract: null
+  dates:
+    issued: '2024-01-16'
+    creation: '2024-01-16'
+    revision: '2024-01-16'
+    publication: '2024-01-16'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+      8a3f0bf4-7842-4b43-b0df-92db705d3a49
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Sebastian Rogga
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: sebastian.rogga@zalf.de
+    positionname: Assistance Breeder
+    phone: 0049 4253 931114
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: www.dsv-saaten.de
+    fax: 0049 4253 931120

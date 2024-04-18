@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bd399d31-c4df-41f6-992e-864ade92938e
+  hierarchylevel: dataset
+  datestamp: '2023-05-11'
+  language: eng
+identification:
+  title: Long-term crop yields, cultivation areas and total arable land in Germany
+    at NUTS 3 level
+  abstract: null
+  dates:
+    issued: '2022-06-24'
+    creation: '2022-06-24'
+    revision: '2022-06-24'
+    publication: '2022-07-04'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.866316
+      - 47.270127
+      - 15.041832
+      - 55.058384
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=bd399d31-c4df-41f6-992e-864ade92938e
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Michael Sommer
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: sommer@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

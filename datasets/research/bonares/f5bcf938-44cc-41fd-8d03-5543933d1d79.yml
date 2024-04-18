@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f5bcf938-44cc-41fd-8d03-5543933d1d79
+  hierarchylevel: service
+  datestamp: '2023-10-23'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Permafrost degradation in Interior Alaska
+    - Study site data'
+  abstract: null
+  dates:
+    issued: '2023-09-29'
+    creation: '2023-09-29'
+    revision: '2023-09-29'
+    publication: '2023-09-29'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 64.86525848863174
+      - 64.85906122824926
+      - 64.86537376981309
+      - 64.86733867870815
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f8f7645d-0a61-4d58-9e9c-81c9d1b33a0d
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=72fa91e5-ec77-43ac-89f6-9800008900bf
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Patrick Liebmann
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: liebmann@ifbk.uni-hannover.de
+    positionname: research associate
+    phone: 0355693689
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

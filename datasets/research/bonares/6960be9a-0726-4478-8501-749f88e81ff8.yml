@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6960be9a-0726-4478-8501-749f88e81ff8
+  hierarchylevel: dataset
+  datestamp: '2020-01-17'
+  language: eng
+identification:
+  title: 'BonaRes SIGNAL, Site: Reiffenhausen, biomass production 2016/2017'
+  abstract: null
+  dates:
+    issued: '2019-03-26'
+    creation: '2017-10-19'
+    revision: '2019-03-26'
+    publication: '2019-03-27'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 9.98
+      - 51.4
+      - 10.0
+      - 51.41
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=6960be9a-0726-4478-8501-749f88e81ff8
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8a0a521f-2188-48b3-b199-7b7447e2211c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Marcus Schmidt
+    organization: University of Goettingen, PTS
+    email: mschmidh@gwdg.de
+    positionname: Professor
+    phone: 0049-551-3933513
+    address: Eberswalder Strasse                                    84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

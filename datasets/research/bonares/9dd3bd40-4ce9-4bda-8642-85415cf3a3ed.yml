@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9dd3bd40-4ce9-4bda-8642-85415cf3a3ed
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2020-07-29'
+  language: eng
+identification:
+  title: Normalized FT-IR spectra of crystalline and amorphous Fe- Al-hydroxides during
+    P adsorption
+  abstract: null
+  dates:
+    issued: '2020-03-06'
+    creation: '2020-03-06'
+    revision: '2020-03-06'
+    publication: '2022-03-05'
+    submitted: '2019-02-15'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9dd3bd40-4ce9-4bda-8642-85415cf3a3ed
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Stella Gypser
+    organization: "Brandenburgische Technische Universit\xE4t Cottbus-Senftenberg"
+    email: stella.gypser@b-tu.de
+    positionname: Researcher
+    phone: 00 49 (0) 355 693318
+    address: Konrad-Wachsmann-Allee 6
+    city: Cottbus
+    administrativearea: Brandenburg
+    postalcode: '03046'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 39482 5550

@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f9cec03d-7fb6-4a99-bbd5-b9913ef92c50
+  hierarchylevel: dataset
+  datestamp: '2023-02-08'
+  language: eng
+identification:
+  title: "Pich\xE9 evaporation at agroforestry site in Forst, 2019 and 2020"
+  abstract: null
+  dates:
+    issued: '2021-07-26'
+    creation: '2021-07-26'
+    revision: '2021-08-03'
+    publication: '2023-02-08'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.81
+      - 51.36
+      - 15.59
+      - 52.53
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f9cec03d-7fb6-4a99-bbd5-b9913ef92c50
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Majaura, Marie
+    organization: "Brandenburgische Technische Universit\xE4t Cottbus-Senftenberg"
+    email: majaura@b-tu.de
+    positionname: research associate
+    phone: 0355693689
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18051'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: 493 814 983 122

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3a7c6d9c-852e-4391-9e7a-fc5b89e9818e
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Phosphorus Concentrations in a North-Eastern
+    German Lowland Watershed on three Spatial Scales'
+  abstract: null
+  dates:
+    issued: '2019-03-12'
+    creation: '2017-10-19'
+    revision: '2019-03-21'
+    publication: '2021-11-01'
+    submitted: '2019-04-16'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.08
+      - 52.96
+      - 11.04
+      - 54.83
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=40cea0e4-7015-4dc5-a2ef-96fec9bbf4c1
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Stefan Koch
+    organization: University of Rostock
+    email: stefan.koch4@uni-rostock.de
+    positionname: PhD Student
+    phone: +49 (0) 551-39 20597
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

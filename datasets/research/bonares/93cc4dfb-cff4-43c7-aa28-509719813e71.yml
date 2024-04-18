@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 93cc4dfb-cff4-43c7-aa28-509719813e71
+  hierarchylevel: dataset
+  datestamp: '2019-05-10'
+  language: eng
+identification:
+  title: Long-Term Fertilization Trial Dikopshof List of Sowing Dates
+  abstract: null
+  dates:
+    issued: '2018-04-11'
+    creation: '2018-03-12'
+    revision: '2018-04-11'
+    publication: '2018-05-31'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 6.95
+      - 50.8
+      - 6.96
+      - 50.81
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: restricted
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=Table%20%27List%20of%20Sowing%20Dates%27%20of%20dataset%20https://doi.org/10.20387/bonares-Y8A0-2Z3F
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0374373d-7928-4422-b012-264eae21e75e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Andreas Tewes
+    organization: University of Bonn
+    email: atewes@uni-bonn.de
+    positionname: Research Assistant
+    phone: +49-(0)228-73-2871
+    address: Katzenburgweg 5
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

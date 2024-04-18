@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b547b60d-be89-46a3-a06d-fa28563a1235
+  hierarchylevel: dataset
+  datestamp: '2021-06-10'
+  language: eng
+identification:
+  title: Terrestrial and Aquatic Kraatz and Rittgarten Kettle Hole Experiments (Sediment
+    cores)
+  abstract: null
+  dates:
+    issued: '2021-05-25'
+    creation: '2021-05-25'
+    revision: '2021-05-25'
+    publication: '2021-05-28'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.65
+      - 53.37
+      - 13.72
+      - 53.4
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b547b60d-be89-46a3-a06d-fa28563a1235
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carsten Hoffmann
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: hoffmann@zalf.de
+    positionname: Research Assistant
+    phone: +49 (0) 6155 8421 13
+    address: Eberswalder Str. 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Deutschland
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

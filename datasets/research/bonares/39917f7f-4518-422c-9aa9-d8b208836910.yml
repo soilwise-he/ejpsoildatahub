@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 39917f7f-4518-422c-9aa9-d8b208836910
+  hierarchylevel: service
+  datestamp: '2023-12-07'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'CATCHY long-term experiment plot boundaries'
+  abstract: null
+  dates:
+    issued: '2023-10-25'
+    creation: '2023-10-25'
+    revision: '2023-10-25'
+    publication: '2023-10-25'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a9284de3-57ab-408e-94d8-150988450e49
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Robin K\xFCmmerer"
+    organization: University of Applied Sciences Weihenstephan-Triesdorf
+    email: Robin.kuemmerer@hswt.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

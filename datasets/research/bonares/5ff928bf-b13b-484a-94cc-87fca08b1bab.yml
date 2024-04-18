@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5ff928bf-b13b-484a-94cc-87fca08b1bab
+  hierarchylevel: service
+  datestamp: '2021-03-16'
+  language: eng
+identification:
+  title: "WMS Service of the dataset \u201CORDIAmur Survey Altes Land Farm Data.\u201D"
+  abstract: null
+  dates:
+    issued: '2018-07-12'
+    creation: '2017-04-01'
+    revision: '2018-07-12'
+    publication: '2019-04-01'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=870f0acf-53ae-4a4d-b5bd-a7063175663a
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Iris Brenneke
+    organization: "Zentrum f\xFCr Betriebswirtschaft im Gartenbau e.V."
+    email: brenneke@zbg.uni-hannover.de
+    positionname: PhD Student
+    phone: +49 551 20597
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

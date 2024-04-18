@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f70de5dd-4e63-4c41-b324-bf5b6e73f714
+  hierarchylevel: service
+  datestamp: '2024-03-20'
+  language: eng
+identification:
+  title: "Web Map Service of the dataset 'RhizoWheat \u2013 Enzyme kinetics'"
+  abstract: null
+  dates:
+    issued: '2023-06-08'
+    creation: '2023-06-08'
+    revision: '2023-06-08'
+    publication: '2023-06-08'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.974836
+      - 54.310986
+      - 9.977786
+      - 54.312593
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e7e90dbd-b324-4a0b-94a0-2d5115716997
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Mehdi Rashtbari
+    organization: Kiel University
+    email: mehdi.rashtbari@phytomed.uni-kiel.de
+    positionname: senior scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

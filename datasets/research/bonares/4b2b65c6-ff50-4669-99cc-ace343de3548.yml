@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4b2b65c6-ff50-4669-99cc-ace343de3548
+  hierarchylevel: dataset
+  datestamp: '2023-10-17'
+  language: eng
+identification:
+  title: Scaling with ranked subsampling (SRS) algorithm for the normalization of
+    species count data.
+  abstract: null
+  dates:
+    issued: '2020-07-01'
+    creation: '2020-07-01'
+    revision: '2020-07-01'
+    publication: '2023-01-07'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=4b2b65c6-ff50-4669-99cc-ace343de3548
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lukas Beule
+    organization: University of Goettingen
+    email: lukas.beule@agr.uni-goettingen.de
+    positionname: research associate
+    phone: 0355693689
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

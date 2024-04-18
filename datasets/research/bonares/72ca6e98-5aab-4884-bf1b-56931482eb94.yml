@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 72ca6e98-5aab-4884-bf1b-56931482eb94
+  hierarchylevel: dataset
+  datestamp: '2020-12-02'
+  language: ger
+identification:
+  title: INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence
+  abstract: null
+  dates:
+    issued: '2017-12-05'
+    creation: '2017-09-19'
+    revision: '2017-12-05'
+    publication: '2019-12-05'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 6.19
+      - 51.07
+      - 6.48
+      - 51.3
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: intellectualPropertyRights
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=72ca6e98-5aab-4884-bf1b-56931482eb94
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1c76b8d1-7349-4649-8d73-c528b6c4b55c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Brueggemann, Nicolas
+    organization: "IBG-3, Forschungszentrum J\xFClich GmbH"
+    email: n.brueggemann@fz-juelich.de
+    positionname: Agricultural Landscape Data Centre
+    phone: +49 33432 82 171
+    address: Eberswalder Strasse 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 4082

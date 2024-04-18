@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 869bffc1-c0c0-408e-adc9-2d1d863b1415
+  hierarchylevel: dataset
+  datestamp: '2020-09-11'
+  language: eng
+identification:
+  title: ARD Biomarkers
+  abstract: null
+  dates:
+    issued: '2020-07-09'
+    creation: '2020-07-09'
+    revision: '2020-07-09'
+    publication: '2020-08-03'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.93
+      - 51.85
+      - 10.75
+      - 54.38
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=869bffc1-c0c0-408e-adc9-2d1d863b1415
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Annmarie-Deetja Rohr
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: rohr@baum.uni-hannover.de
+    positionname: Staff member (Molecular Plant Nutrition)
+    phone: 0049 511 762 4017
+    address: "Correnstra\xDFe 3"
+    city: Hannover
+    administrativearea: Saxony-Anhalt
+    postalcode: '30419'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

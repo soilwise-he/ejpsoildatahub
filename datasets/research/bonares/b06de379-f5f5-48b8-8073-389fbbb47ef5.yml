@@ -1,0 +1,60 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b06de379-f5f5-48b8-8073-389fbbb47ef5
+  hierarchylevel: dataset
+  datestamp: '2023-11-09'
+  language: eng
+identification:
+  title: Phenotypic traits, drought responses, and growth parameters of 38 temperate
+    maize varieties under well-watered and drought-stressed conditions in a greenhouse
+    experiment
+  abstract: null
+  dates:
+    issued: '2023-11-02'
+    creation: '2023-11-02'
+    revision: '2023-11-02'
+    publication: '2025-11-02'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b06de379-f5f5-48b8-8073-389fbbb47ef5
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Shu-Yin Tung
+    organization: Institute for Agroecology and Organic Farming, Bavarian State Research
+      Center for Agriculture, Freising, Germany
+    email: shu-yin.tung@lfl.bayern.de
+    positionname: 0000-0001-8892-6518
+    phone: +49 331 977 1939
+    address: Von-Seckendorff-Platz 4
+    city: Halle (Saale)
+    administrativearea: Saxony-Anhalt
+    postalcode: D-016120
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 88cc82e4-97ca-4193-b387-dc5753c77144
+  hierarchylevel: service
+  datestamp: '2022-03-18'
+  language: eng
+identification:
+  title: "WMS of 'Positive intercropping effects on biomass production are species-specific\
+    \ and involve rhizosphere enzyme activities: Evidence from a \uFB01eld study'"
+  abstract: null
+  dates:
+    issued: '2021-08-13'
+    creation: '2021-08-13'
+    revision: '2021-08-13'
+    publication: '2022-03-04'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 10.38
+      - 53.21
+      - 10.38
+      - 53.21
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=88cc82e4-97ca-4193-b387-dc5753c77144
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Amit Kumar
+    organization: "Leuphana University of L\xFCneburg"
+    email: kumar@leuphana.de
+    positionname: Post-doc researcher
+    phone: +49 381 498 3184
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '21335'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

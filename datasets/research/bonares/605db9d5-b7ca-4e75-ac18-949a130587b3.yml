@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 605db9d5-b7ca-4e75-ac18-949a130587b3
+  hierarchylevel: dataset
+  datestamp: '2023-04-14'
+  language: eng
+identification:
+  title: Soil CO2 and CH4 fluxes in cropland agroforestry and monoculture systems
+  abstract: null
+  dates:
+    issued: '2023-02-27'
+    creation: '2023-02-27'
+    revision: '2023-02-27'
+    publication: '2023-02-27'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 6.53
+      - 49.03
+      - 13.49
+      - 53.49
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=605db9d5-b7ca-4e75-ac18-949a130587b3
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=214c8cc0-d95d-47e6-82f3-b4b04382ef98
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Guodong Shao
+    organization: Soil Science of Tropical and Subtropical Ecosystems, Faculty of
+      Forest Sciences and Forest Ecology, University of Goettingen
+    email: mareike.liess@ufz.de
+    positionname: Researcher
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

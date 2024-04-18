@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 10a41f58-0853-433d-b337-39717c01185b
+  hierarchylevel: service
+  datestamp: '2022-06-13'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Determination of spider mite abundance in soil
+    of field-grown cucumbers and in plants under predatory mite pressure in invasive
+    infestations using HRM real-time PCR assay'
+  abstract: null
+  dates:
+    issued: '2022-05-12'
+    creation: '2022-05-12'
+    revision: '2022-05-12'
+    publication: '2022-06-09'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.380029
+      - 51.837715
+      - 13.816471
+      - 52.107337
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c7818e71-2f69-424c-b9bc-de160aaf127c
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anne-Katrin Kersten
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: anne-katrin.kersten@zalf.de
+    positionname: Prof
+    phone: +49 (0) 6155 8421 13
+    address: Heinrich-Buff-Ring 26
+    city: Rostock
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '18059'
+    country: Germany
+    url: www.ordiamur.de
+    fax: +49 (0) 641-99 37429

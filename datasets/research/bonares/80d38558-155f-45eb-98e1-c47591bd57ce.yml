@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 80d38558-155f-45eb-98e1-c47591bd57ce
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Long term effect of liming and P fertilizer application
+    on yield and P uptake of spring wheat determined in 2015'
+  abstract: null
+  dates:
+    issued: '2019-04-09'
+    creation: '2017-10-19'
+    revision: '2017-10-19'
+    publication: '2021-04-16'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 11.69
+      - 48.4
+      - 11.72
+      - 48.41
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=80d38558-155f-45eb-98e1-c47591bd57ce
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dr. Sabine von Tucher
+    organization: "Technische Universit\xE4t M\xFCnchen"
+    email: tucher@wzw.tum.de
+    positionname: Research associate
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

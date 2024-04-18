@@ -1,0 +1,61 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 362f4871-038f-4ee7-b965-51db824b9f6a
+  hierarchylevel: dataset
+  datestamp: '2023-08-25'
+  language: eng
+identification:
+  title: 'BIBS Data set: Urban grassland aphid diversity in Berlin, Germany - aphid
+    survey 2017'
+  abstract: null
+  dates:
+    issued: '2023-08-18'
+    creation: '2023-08-18'
+    revision: '2023-08-18'
+    publication: '2023-08-18'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.18328
+      - 52.40597
+      - 13.61681
+      - 52.58678
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=99ab5951-18a6-48ca-b7fa-8c650338c04b
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Jonathan M. Jeschke
+    organization: "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB),\
+      \ Berlin, Germany; Freie Universit\xE4t Berlin, Institute of Biology, Berlin,\
+      \ Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB),\
+      \ Berlin, Germany"
+    email: jonathan.jeschke@fu-berlin.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

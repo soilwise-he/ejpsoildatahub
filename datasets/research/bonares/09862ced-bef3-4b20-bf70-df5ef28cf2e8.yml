@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 09862ced-bef3-4b20-bf70-df5ef28cf2e8
+  hierarchylevel: dataset
+  datestamp: '2020-10-07'
+  language: eng
+identification:
+  title: Shoot dry mass of Rosa corymbifera 'Laxa'
+  abstract: null
+  dates:
+    issued: '2020-07-02'
+    creation: '2020-07-02'
+    revision: '2020-07-02'
+    publication: '2020-07-09'
+    submitted: '2019-02-15'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.16
+      - 51.25
+      - 12.55
+      - 54.2
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=09862ced-bef3-4b20-bf70-df5ef28cf2e8
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bunlong Yim
+    organization: "Julius-K\xFChn Institut"
+    email: bunlong.yim@julius-kuehn.de
+    positionname: PostDoc
+    phone: '05117623671'
+    address: "Herrenh\xE4user Strasse 2"
+    city: Braunschweig
+    administrativearea: Lower Saxony
+    postalcode: '38104'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 39482 5550

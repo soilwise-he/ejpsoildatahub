@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a82cdbab-be16-43c6-bd65-caf8d2bd19df
+  hierarchylevel: dataset
+  datestamp: '2023-06-27'
+  language: eng
+identification:
+  title: 13C enrichment in the microbial biomass C of soil samples taken from cover
+    crop root channels and bulk soil under a maize stand at BBCH35, 16 weeks after
+    pulse labeling the cover crops with 13CO2
+  abstract: null
+  dates:
+    issued: '2023-06-07'
+    creation: '2023-06-07'
+    revision: '2023-06-07'
+    publication: '2023-06-27'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.995111
+      - 54.311173
+      - 9.996946
+      - 54.312613
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a82cdbab-be16-43c6-bd65-caf8d2bd19df
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Jonas Franke
+    organization: Kiel University
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Bavaria
+    postalcode: '38116'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

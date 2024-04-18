@@ -1,0 +1,53 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 67c80fc1-31e6-4e67-9011-92cd0d12afa6
+  hierarchylevel: dataset
+  datestamp: '2023-12-07'
+  language: eng
+identification:
+  title: CATCHY long-term experiment plot boundaries
+  abstract: null
+  dates:
+    issued: '2023-10-25'
+    creation: '2023-10-25'
+    revision: '2023-10-25'
+    publication: '2023-10-25'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=67c80fc1-31e6-4e67-9011-92cd0d12afa6
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Robin K\xFCmmerer"
+    organization: University of Applied Sciences Weihenstephan-Triesdorf
+    email: Robin.kuemmerer@hswt.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: afbb221d-98ef-4c3d-9f34-107528bcbf42
+  hierarchylevel: service
+  datestamp: '2023-08-07'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Investigation of transcriptomic changes and
+    their effects on wheat yield decline during successive wheat cropping'
+  abstract: null
+  dates:
+    issued: '2023-06-27'
+    creation: '2023-06-27'
+    revision: '2023-06-27'
+    publication: '2023-06-27'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.03
+      - 51.23
+      - 11.3
+      - 54.61
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=afbb221d-98ef-4c3d-9f34-107528bcbf42
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Prof. Dr. Daguang Cai
+    organization: Institute of Molecular Phytopathology and Biotechnology, Christian-Albrechts-University
+      of Kiel
+    email: dcai@phytomed.uni-kiel.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

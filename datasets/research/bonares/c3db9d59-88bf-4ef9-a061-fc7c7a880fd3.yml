@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: c3db9d59-88bf-4ef9-a061-fc7c7a880fd3
+  hierarchylevel: service
+  datestamp: '2024-02-05'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Crop/plant data I4S Marquardt experiment
+    2017-2021'
+  abstract: null
+  dates:
+    issued: '2023-08-22'
+    creation: '2023-08-22'
+    revision: '2023-08-22'
+    publication: '2023-08-22'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.956
+      - 52.4664
+      - 12.9573
+      - 52.4675
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=4fd878bb-90d8-41dd-965d-dcd72f495561
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Pablo Rosso
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: pablo.rosso@zalf.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

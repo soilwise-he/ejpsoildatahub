@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 32955aaf-f66a-4389-823b-ed006495da31
+  hierarchylevel: dataset
+  datestamp: '2023-03-30'
+  language: eng
+identification:
+  title: Meteorological Data Fendt Site
+  abstract: null
+  dates:
+    issued: '2020-09-22'
+    creation: '2020-09-22'
+    revision: '2020-09-22'
+    publication: '2022-09-22'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=32955aaf-f66a-4389-823b-ed006495da31
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Ralf Kiese
+    organization: KIT IMK-IFU
+    email: ralf.kiese@kit.edu
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

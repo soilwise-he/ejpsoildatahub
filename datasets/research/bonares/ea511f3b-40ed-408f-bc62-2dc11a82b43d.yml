@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ea511f3b-40ed-408f-bc62-2dc11a82b43d
+  hierarchylevel: service
+  datestamp: '2024-01-22'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Taper dataset for planted Black locust (Robinia
+    pseudoacacia, L.) in Greek post-mining areas'
+  abstract: null
+  dates:
+    issued: '2024-01-15'
+    creation: '2024-01-15'
+    revision: '2024-01-15'
+    publication: '2024-01-15'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 21.62
+      - 40.39
+      - 21.89
+      - 40.61
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ea511f3b-40ed-408f-bc62-2dc11a82b43d
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Gavriil Spyroglou
+    organization: Forest Research Institute (Greece)
+    email: spyroglou@fri.gr
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 520f1867-5721-4083-9cc5-da541d3501e0
+  hierarchylevel: dataset
+  datestamp: '2023-08-30'
+  language: eng
+identification:
+  title: "Chemical and physical soil properties at Hohenschulen field site in the\
+    \ first trial year of Rhizo4Bio \u2013 RootWayS project."
+  abstract: null
+  dates:
+    issued: '2023-07-11'
+    creation: '2023-07-11'
+    revision: '2023-07-11'
+    publication: '2023-07-31'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.38
+      - 53.86
+      - 10.66
+      - 54.85
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mgmd:id=520f1867-5721-4083-9cc5-da541d3501e0
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "P\xC4TZOLD Stefan"
+    organization: "Institute for plant nutrition and soil science, Christian-Albrechts-Universit\xE4\
+      t zu Kiel"
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: Senior Researcher
+    phone: '+49228732775'
+    address: Nussallee 13
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

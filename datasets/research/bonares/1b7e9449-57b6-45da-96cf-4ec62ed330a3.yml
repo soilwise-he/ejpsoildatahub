@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 1b7e9449-57b6-45da-96cf-4ec62ed330a3
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2019-04-29'
+  language: eng
+identification:
+  title: BonaRes foresight interviews 2017 - quantitative answers
+  abstract: null
+  dates:
+    issued: '2018-05-25'
+    creation: '2017-10-19'
+    revision: '2017-10-19'
+    publication: '2018-05-25'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/bonares-HW0R-NX6M
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ebd43194-21ea-4884-81e4-c38e9dd13c34
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anja-K. Techen
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: anja.techen@zalf.de
+    positionname: Scientist
+    phone: +49 (0)33432 82-189
+    address: Eberswalder Strasse 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

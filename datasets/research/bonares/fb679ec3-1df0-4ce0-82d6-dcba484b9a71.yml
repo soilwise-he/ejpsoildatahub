@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fb679ec3-1df0-4ce0-82d6-dcba484b9a71
+  hierarchylevel: dataset
+  datestamp: '2022-06-29'
+  language: eng
+identification:
+  title: 'Who is the culprit: Is pest infestation responsible for crop yield losses
+    close to semi-natural habitats? (data collection)'
+  abstract: null
+  dates:
+    issued: '2021-08-04'
+    creation: '2021-08-04'
+    revision: '2021-08-04'
+    publication: '2022-03-24'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb679ec3-1df0-4ce0-82d6-dcba484b9a71
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1c76b8d1-7349-4649-8d73-c528b6c4b55c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Larissa Raatz
+    organization: University of Potsdam, Institute of Biochemistry and Biology, Biodiversity
+      Research / Systematic Botany
+    email: larissa.raatz@uni-potsdam.de
+    positionname: Agricultural Landscape Data Centre
+    phone: +49 331 977 1939
+    address: Maulbeerallee 1
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 4082

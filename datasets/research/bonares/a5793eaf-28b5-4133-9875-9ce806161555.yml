@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a5793eaf-28b5-4133-9875-9ce806161555
+  hierarchylevel: dataset
+  datestamp: '2022-04-08'
+  language: eng
+identification:
+  title: 'Lysimeter data Rostock: P adsorption isotherms (Data collection)'
+  abstract: null
+  dates:
+    issued: '2020-03-31'
+    creation: '2020-03-31'
+    revision: '2020-03-31'
+    publication: '2022-03-31'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a5793eaf-28b5-4133-9875-9ce806161555
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: University of Rostock
+    email: karen.baumann@uni-rostock.de
+    positionname: post-doc
+    phone: +49 381 498 3184
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18051'
+    country: Germany
+    url: https://www.igps.uni-hannover.de/2176.html?&no_cache=1&L=1&tx_tkinstpersonen_pi1[alias]=Boenecke
+    fax: +49 381 498 3122

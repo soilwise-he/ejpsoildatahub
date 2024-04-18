@@ -1,0 +1,63 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7b5a4282-733c-4789-abc6-87d1e77ccd80
+  hierarchylevel: dataset
+  datestamp: '2023-09-28'
+  language: eng
+identification:
+  title: Microbial Growth Kinetics- Soil and Plant Microbiome
+  abstract: null
+  dates:
+    issued: '2023-06-08'
+    creation: '2023-06-08'
+    revision: '2023-06-08'
+    publication: '2023-06-08'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.62
+      - 51.34
+      - 10.99
+      - 54.66
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=32e5d503-9bb5-471a-a769-2a7df48718a4
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Mehdi Rashtbari
+    organization: Kiel University
+    email: mehdi.rashtbari@phytomed.uni-kiel.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

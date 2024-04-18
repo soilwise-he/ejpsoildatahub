@@ -1,0 +1,53 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f00b06a7-687c-433e-99d2-1164e377241b
+  hierarchylevel: dataset
+  datestamp: '2023-09-18'
+  language: eng
+identification:
+  title: Time series soil-shoot-roots of two contrasting wheat root systems
+  abstract: null
+  dates:
+    issued: '2023-06-12'
+    creation: '2023-06-12'
+    revision: '2023-06-12'
+    publication: '2023-06-12'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.95
+      - 50.42
+      - 8.11
+      - 52.03
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f00b06a7-687c-433e-99d2-1164e377241b
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Samuel LE GALL
+    organization: Forschungszentrum Juelich
+    email: s.le.gall@fz-juelich.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 0007bad6-848d-4763-9813-d5ed21cde6ee
+  hierarchylevel: dataset
+  datestamp: '2024-03-19'
+  language: eng
+identification:
+  title: Interactive effects of microplastics with other environmental drivers in
+    a plant-soil system
+  abstract: null
+  dates:
+    issued: '2024-02-27'
+    creation: '2024-02-27'
+    revision: '2024-02-27'
+    publication: '2026-03-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0007bad6-848d-4763-9813-d5ed21cde6ee
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Kurt Heil
+    organization: "Freie Universit\xE4t Berlin - Institut f\xFCr Biologie"
+    email: hongyuc92@zedat.fu-berlin.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

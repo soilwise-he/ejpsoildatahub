@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ab6ae21d-9b36-43a8-ad5d-14fc30ea3391
+  hierarchylevel: service
+  datestamp: '2023-08-10'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Influence of plant stage and cropping history
+    on soil and root-associated prokaryotic community structure and composition in
+    wheat'
+  abstract: null
+  dates:
+    issued: '2023-07-17'
+    creation: '2023-07-17'
+    revision: '2023-07-17'
+    publication: '2025-07-09'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.28
+      - 51.26
+      - 11.06
+      - 54.73
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b05d5d83-e03a-4eea-a705-853abcc7473d
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Dr. Stefan P\xE4tzold"
+    organization: "Julius K\xFChn-Institut"
+    email: andrea.braun-kiewnick@julius-kuehn.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

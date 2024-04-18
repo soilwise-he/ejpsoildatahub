@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7a69b7b5-3b4f-4507-a050-3a25bc79f36f
+  hierarchylevel: dataset
+  datestamp: '2024-04-15'
+  language: eng
+identification:
+  title: "How does the root architecture of wheat influence the microbial community\
+    \ and activity in soil?  - Mean \u03B2-Glucosidase activity on soil surface (Soil\
+    \ zymography)"
+  abstract: null
+  dates:
+    issued: '2023-06-01'
+    creation: '2023-06-01'
+    revision: '2023-06-01'
+    publication: '2023-06-01'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7a69b7b5-3b4f-4507-a050-3a25bc79f36f
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8f23ee30-8f84-481a-9a47-9eb6c65af3c4
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Christian Poll
+    organization: University of Hohenheim
+    email: christian.poll@uni-hohenheim.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

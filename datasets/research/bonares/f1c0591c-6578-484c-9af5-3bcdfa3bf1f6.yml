@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f1c0591c-6578-484c-9af5-3bcdfa3bf1f6
+  hierarchylevel: dataset
+  datestamp: '2023-01-26'
+  language: eng
+identification:
+  title: Tree-Distance and Tree-Species Effects on Soil Biota in a Temperate Agroforestry
+    System
+  abstract: null
+  dates:
+    issued: '2023-01-04'
+    creation: '2023-01-04'
+    revision: '2023-01-04'
+    publication: '2023-01-04'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.627
+      - 51.78
+      - 14.644
+      - 51.792
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f1c0591c-6578-484c-9af5-3bcdfa3bf1f6
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lukas Beule
+    organization: "Julius K\xFChn Institute (JKI)\u2013Federal Research Centre for\
+      \ Cultivated Plants, Institute for Ecological Chemistry, Plant Analysis and\
+      \ Stored Product Protection, Berlin, Germany"
+    email: lukas.beule@julius-kuehn.de
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

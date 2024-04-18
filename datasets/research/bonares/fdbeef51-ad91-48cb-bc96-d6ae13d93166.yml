@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fdbeef51-ad91-48cb-bc96-d6ae13d93166
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2022-09-26'
+  language: eng
+identification:
+  title: Legacies of human land use impacts in central European forests
+  abstract: null
+  dates:
+    issued: '2021-06-01'
+    creation: '2021-06-01'
+    revision: '2021-06-01'
+    publication: '2021-06-01'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fdbeef51-ad91-48cb-bc96-d6ae13d93166
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Monika Wulf
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: mwulf@zalf.de
+    positionname: WG leader
+    phone: +33432-82246
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: "M\xFCncheberg"
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

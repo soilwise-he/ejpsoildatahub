@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 663576ab-7434-49fd-8c24-7f7adb427845
+  hierarchylevel: dataset
+  datestamp: '2023-10-12'
+  language: eng
+identification:
+  title: TEST Database of soil
+  abstract: null
+  dates:
+    issued: '2023-08-01'
+    creation: '2023-08-01'
+    revision: '2023-08-01'
+    publication: '2023-08-08'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 32.531244
+      - 32.277517
+      - 36.221184
+      - 35.820618
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=663576ab-7434-49fd-8c24-7f7adb427845
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dietmar Barkusky
+    organization: XYZ University
+    email: wahib.sahwan@zalf.de
+    positionname: senior scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

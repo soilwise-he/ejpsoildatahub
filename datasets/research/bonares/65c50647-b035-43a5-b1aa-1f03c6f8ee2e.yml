@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 65c50647-b035-43a5-b1aa-1f03c6f8ee2e
+  hierarchylevel: dataset
+  datestamp: '2023-07-17'
+  language: eng
+identification:
+  title: Soil pressure, deformation, and changes in soil physical parameters caused
+    by beet harvester wheeling
+  abstract: null
+  dates:
+    issued: '2020-05-13'
+    creation: '2020-05-13'
+    revision: '2020-05-28'
+    publication: '2022-05-13'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.9
+      - 51.98
+      - 9.96
+      - 52.01
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=65c50647-b035-43a5-b1aa-1f03c6f8ee2e
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Thomas, Celina
+    organization: "Th\xFCnen Institute of Agricultural Technology"
+    email: celina.thomas@thuenen.de
+    positionname: Research associate
+    phone: +49-(0)228-73-2871
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Brandenburg
+    postalcode: '38116'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

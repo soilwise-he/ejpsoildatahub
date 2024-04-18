@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 94e63417-46ad-4fa5-89f0-99452c165c57
+  hierarchylevel: dataset
+  datestamp: '2023-11-08'
+  language: eng
+identification:
+  title: A soil structure atlas. Computed tomography of arable soils to assess soil
+    structure.  - How can the farmer optimise the soil structure to withstand extreme
+    weather conditions?
+  abstract: null
+  dates:
+    issued: '2023-09-06'
+    creation: '2023-09-06'
+    revision: '2023-09-06'
+    publication: '2023-09-06'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - -0.63139
+      - 42.553726
+      - 18.139556
+      - 53.152333
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=94e63417-46ad-4fa5-89f0-99452c165c57
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Monika Joschko
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: mjoschko@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

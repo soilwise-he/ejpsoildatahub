@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: eff5ea7d-aba2-43ed-87ea-35e23be18d21
+  hierarchylevel: service
+  datestamp: '2022-03-29'
+  language: eng
+identification:
+  title: WMS of the dataset 'Open Tension-disk Infiltrometer Meta-database (OTIM)'
+  abstract: null
+  dates:
+    issued: '2022-01-25'
+    creation: '2022-01-25'
+    revision: '2022-01-25'
+    publication: '2022-03-29'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - -135.3
+      - -43.65
+      - 176.8
+      - 60.5
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=eff5ea7d-aba2-43ed-87ea-35e23be18d21
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Guillaume Blanchy
+    organization: 'Organisation: Flanders Research Institute for Agriculture, Fisheries
+      and Food (ILVO), Melle, Belgium'
+    email: guillaume.blanchy@ilvo.vlaanderen.be
+    positionname: Post-doc researcher
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

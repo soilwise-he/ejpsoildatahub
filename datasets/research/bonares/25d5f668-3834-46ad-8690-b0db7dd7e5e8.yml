@@ -1,0 +1,53 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 25d5f668-3834-46ad-8690-b0db7dd7e5e8
+  hierarchylevel: dataset
+  datestamp: '2024-03-12'
+  language: eng
+identification:
+  title: Permafrost degradation in Interior Alaska - Study site data
+  abstract: null
+  dates:
+    issued: '2023-09-29'
+    creation: '2023-09-29'
+    revision: '2023-09-29'
+    publication: '2023-09-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 64.86525848863174
+      - 64.85906122824926
+      - 64.86537376981309
+      - 64.86733867870815
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ebccd65d-b193-413e-a245-190f97382gmd:fc8
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Patrick Liebmann
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: liebmann@ifbk.uni-hannover.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

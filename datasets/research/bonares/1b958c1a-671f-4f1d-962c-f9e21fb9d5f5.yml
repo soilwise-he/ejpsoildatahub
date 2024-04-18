@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 1b958c1a-671f-4f1d-962c-f9e21fb9d5f5
+  hierarchylevel: dataset
+  datestamp: '2023-07-19'
+  language: eng
+identification:
+  title: "Soil mineral nitrogen content is increased by soil mesofauna and nematodes\
+    \ \u2013 a meta-analysis"
+  abstract: null
+  dates:
+    issued: '2023-06-25'
+    creation: '2023-06-25'
+    revision: '2023-06-25'
+    publication: '2023-06-25'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 0.0
+      - 0.0
+      - 0.0
+      - 0.0
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1b958c1a-671f-4f1d-962c-f9e21fb9d5f5
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Birgit Lang
+    organization: "Senckenberg Museum of Natural History G\xF6rlitz"
+    email: lang.biologie@gmail.com
+    positionname: Group Leader
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe 19"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

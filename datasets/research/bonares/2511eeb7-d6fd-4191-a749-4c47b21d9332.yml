@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2511eeb7-d6fd-4191-a749-4c47b21d9332
+  hierarchylevel: dataset
+  datestamp: '2022-12-02'
+  language: eng
+identification:
+  title: Regional climate change observational data FOR 1695 (Part 9 of data collection,
+    table PLOT)
+  abstract: null
+  dates:
+    issued: '2021-11-05'
+    creation: '2021-11-05'
+    revision: '2022-04-04'
+    publication: '2021-11-05'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  extents:
+    spatial:
+    - bbox:
+      - 8.70161
+      - 48.527497
+      - 9.776097
+      - 48.930271
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=cf524471-adb9-4b00-95db-5212d18cabaf
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Tobias Karl David Weber
+    organization: University of Hohenheim
+    email: tobias.weber@uni-hohenheim.de
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Bavaria
+    postalcode: '38116'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

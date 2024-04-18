@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f317e6ce-1d26-474f-bb84-432b4a99df41
+  hierarchylevel: dataset
+  datestamp: '2022-09-15'
+  language: eng
+identification:
+  title: 'Technology: Child table of the data collection LTE Seehausen'
+  abstract: null
+  dates:
+    issued: '2020-01-14'
+    creation: '2021-01-14'
+    revision: '2021-01-14'
+    publication: '2021-01-14'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 11.84
+      - 53.71
+      - 12.5
+      - 54.22
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f317e6ce-1d26-474f-bb84-432b4a99df41
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9cb76dad-54bb-4916-9d4f-0bce8fec23a0
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Kurt-J\xFCrgen H\xFClsbergen"
+    organization: TU Munich
+    email: kurt.juergen.huelsbergen@tum.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 33432 82 168
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

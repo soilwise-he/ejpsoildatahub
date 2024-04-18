@@ -1,0 +1,60 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 090f32da-b607-4be8-ab01-37553962104d
+  hierarchylevel: dataset
+  datestamp: '2023-11-23'
+  language: eng
+identification:
+  title: Fusarium abundance and diversity and Alternaria abundance on grasses and
+    wheat ears after the infection with Fusarium graminearum, Fusarium culmorum and
+    Fusarium sporotrichioides with and without irrigation       - Abundance of Fusaria
+    and Alternaria
+  abstract: null
+  dates:
+    issued: '2023-07-20'
+    creation: '2023-07-20'
+    revision: '2023-07-20'
+    publication: '2023-07-20'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.118015
+      - 52.511595
+      - 14.137477
+      - 52.525851
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=090f32da-b607-4be8-ab01-37553962104d
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Marina Gerling
+    organization: ZALF
+    email: marina.gerling@web.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Eberswalder Str. 84
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

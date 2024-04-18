@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3f4edc8b-18ae-4da1-9ac3-7d6a8b6ca9be
+  hierarchylevel: service
+  datestamp: '2023-09-25'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'A soil structure atlas. Computed tomography of
+    arable soils to assess soil structure.  - How can the farmer optimise the soil
+    structure to withstand extreme weather conditions ?'
+  abstract: null
+  dates:
+    issued: '2023-09-06'
+    creation: '2023-09-06'
+    revision: '2023-09-06'
+    publication: '2023-09-06'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - -0.63139
+      - 42.553726
+      - 18.139556
+      - 53.152333
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=94e63417-46ad-4fa5-89f0-99452c165c57
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Monika Joschko
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: mjoschko@zalf.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

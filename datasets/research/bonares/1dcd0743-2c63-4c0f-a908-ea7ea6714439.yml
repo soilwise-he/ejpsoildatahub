@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 1dcd0743-2c63-4c0f-a908-ea7ea6714439
+  hierarchylevel: service
+  datestamp: '2022-02-15'
+  language: eng
+identification:
+  title: "WMS Service of the dataset 'Field experiment L\xFCbtheener Heide'"
+  abstract: null
+  dates:
+    issued: '2020-04-16'
+    creation: '2020-04-16'
+    revision: '2020-04-16'
+    publication: '2022-04-16'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 9.56
+      - 51.92
+      - 12.08
+      - 53.96
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1dcd0743-2c63-4c0f-a908-ea7ea6714439
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anika Zacher
+    organization: University of Rostock
+    email: anika.zacher@uni-rostock.de
+    positionname: Post-doc researcher
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

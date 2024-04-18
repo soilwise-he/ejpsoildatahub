@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e3f55773-88bb-4e57-a4ff-4c24c00bf5cd
+  hierarchylevel: dataset
+  datestamp: '2024-03-01'
+  language: eng
+identification:
+  title: Vegetation data from field boundaries on outer field borders and around habitat
+    islands on the field
+  abstract: null
+  dates:
+    issued: '2024-02-15'
+    creation: '2024-02-15'
+    revision: '2024-02-15'
+    publication: '2024-02-15'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.496
+      - 53.205
+      - 14.282
+      - 53.437
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e3f55773-88bb-4e57-a4ff-4c24c00bf5cd
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Ines Heyer
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: ines.heyer@zalf.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

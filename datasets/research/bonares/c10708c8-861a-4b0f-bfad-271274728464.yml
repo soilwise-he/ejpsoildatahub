@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: c10708c8-861a-4b0f-bfad-271274728464
+  hierarchylevel: dataset
+  datestamp: '2024-03-14'
+  language: eng
+identification:
+  title: Root traits and biophysicochemical rhizosheath soil properties of 38 maize
+    varieties under drought and well-watered conditions
+  abstract: null
+  dates:
+    issued: '2023-11-07'
+    creation: '2023-11-07'
+    revision: '2023-11-07'
+    publication: '2024-03-14'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c10708c8-861a-4b0f-bfad-271274728464
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Franziska Steiner
+    organization: Technical University of Munich, Freising, Germany
+    email: f.steiner@tum.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

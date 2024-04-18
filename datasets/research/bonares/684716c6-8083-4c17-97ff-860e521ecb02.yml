@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 684716c6-8083-4c17-97ff-860e521ecb02
+  hierarchylevel: dataset
+  datestamp: '2021-08-12'
+  language: eng
+identification:
+  title: 'BonaRes-SIGNAL: Research site shapes'
+  abstract: null
+  dates:
+    issued: '2018-12-10'
+    creation: '2018-12-10'
+    revision: '2018-12-10'
+    publication: '2020-12-10'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 6.06
+      - 49.4
+      - 13.73
+      - 54.83
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=684716c6-8083-4c17-97ff-860e521ecb02
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Marcus Schmidt
+    organization: "Georg-August-Universit\xE4t G\xF6ttingen, Soil Science of Tropical\
+      \ and Subtropical Ecosystems"
+    email: mschmidh@gwdg.de
+    positionname: post-doc
+    phone: +49 381 498 3184
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18051'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 381 498 3122

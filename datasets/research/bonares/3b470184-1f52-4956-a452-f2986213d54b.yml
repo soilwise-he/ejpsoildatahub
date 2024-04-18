@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3b470184-1f52-4956-a452-f2986213d54b
+  hierarchylevel: dataset
+  datestamp: '2020-10-06'
+  language: eng
+identification:
+  title: Mycorrhiza colonization of M26 apple roots bio test 2016 with Heidgraben
+    soil
+  abstract: null
+  dates:
+    issued: '2019-01-10'
+    creation: '2017-10-19'
+    revision: '2020-07-16'
+    publication: '2020-09-01'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 8.98
+      - 53.08
+      - 10.5
+      - 54.38
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3b470184-1f52-4956-a452-f2986213d54b
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carolin Popp
+    organization: Leibniz University Hannover
+    email: popp@ipp.uni-hannover.de
+    positionname: Group Leader
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe 19"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

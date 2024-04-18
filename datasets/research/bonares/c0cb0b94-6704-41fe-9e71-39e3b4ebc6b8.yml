@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: c0cb0b94-6704-41fe-9e71-39e3b4ebc6b8
+  hierarchylevel: service
+  datestamp: '2024-01-18'
+  language: eng
+identification:
+  title: WMS  Map Service of the dataset 'Field traffic GPS records, campaign silage
+    maize 2015/2016, Project SOILAssist'
+  abstract: null
+  dates:
+    issued: '2022-11-03'
+    creation: '2022-11-03'
+    revision: '2022-11-03'
+    publication: '2024-11-01'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.87
+      - 51.96
+      - 9.96
+      - 53.03
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c0cb0b94-6704-41fe-9e71-39e3b4ebc6b8
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Kathleen Karges
+    organization: "Th\xFCnen Institut of Agriculture"
+    email: marco.lorenz@thuenen.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

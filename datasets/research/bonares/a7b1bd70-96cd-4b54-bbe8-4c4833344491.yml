@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a7b1bd70-96cd-4b54-bbe8-4c4833344491
+  hierarchylevel: service
+  datestamp: '2022-06-10'
+  language: eng
+identification:
+  title: WMS of the dataset 'Logger based water table measurements in selected kettle
+    holes in the Uckermark (NE Germany, Brandenburg)'
+  abstract: null
+  dates:
+    issued: '2022-03-17'
+    creation: '2022-03-17'
+    revision: '2022-03-17'
+    publication: '2022-04-26'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.55127
+      - 53.30614
+      - 13.76539
+      - 53.39755
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a7b1bd70-96cd-4b54-bbe8-4c4833344491
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Prof. Gunnar Lischeid
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: lischeid@zalf.de
+    positionname: Researcher
+    phone: +49 (0) 6155 8421 13
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: Braunschweig
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '38104'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

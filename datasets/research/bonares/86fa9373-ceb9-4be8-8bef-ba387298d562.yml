@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 86fa9373-ceb9-4be8-8bef-ba387298d562
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: Pollinator guilds respond contrastingly at different scales to landscape
+    parameters of land-use intensity (Part 1 of data collection, table data_coordinates)
+  abstract: null
+  dates:
+    issued: '2022-02-25'
+    creation: '2022-02-25'
+    revision: '2022-02-25'
+    publication: '2022-03-02'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=86fa9373-ceb9-4be8-8bef-ba387298d562
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kolja Bergholz
+    organization: University of Potsdam, Plant Ecology & Nature Conservation
+    email: bergholz@uni-potsdam.de
+    positionname: Professor
+    phone: +49 2461/61-8643
+    address: 'Institute of Bio- and Geosciences IBG-3: Agrosphere'
+    city: "J\xFClich"
+    administrativearea: North Rhine-Westphalia
+    postalcode: '52428'
+    country: Germany
+    url: https://www.fz-juelich.de/ibg/ibg-3/DE/Home/home_node.html
+    fax: +49 33432 82 186

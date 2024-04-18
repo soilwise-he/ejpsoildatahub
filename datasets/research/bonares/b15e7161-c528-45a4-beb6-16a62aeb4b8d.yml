@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b15e7161-c528-45a4-beb6-16a62aeb4b8d
+  hierarchylevel: service
+  datestamp: '2022-05-11'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'BonaRes Soil3 Drilling locations for core sampling
+    to 1m depth'
+  abstract: null
+  dates:
+    issued: '2019-07-17'
+    creation: '2019-07-17'
+    revision: '2019-07-17'
+    publication: '2019-07-17'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.96
+      - 49.83
+      - 9.48
+      - 51.08
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ae8c21a6-d1b6-4a19-a200-9ac7f51ad7a5
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sara L. Bauke
+    organization: University of Bonn - INRES Soil Science and Soil Ecology
+    email: sarabauke@uni-bonn.de
+    positionname: Prof
+    phone: +49 228 732965
+    address: Nussallee 13
+    city: Bonn
+    administrativearea: North-Rhine Westphalia
+    postalcode: '53115'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 (0) 641-99 37429

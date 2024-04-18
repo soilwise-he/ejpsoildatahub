@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fbb88979-71d4-416d-ab2c-daf0ce44a6ec
+  hierarchylevel: service
+  datestamp: '2021-03-02'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'The effect of tillage and cover crops'
+  abstract: null
+  dates:
+    issued: '2020-10-07'
+    creation: '2020-09-07'
+    revision: '2020-10-07'
+    publication: '2020-12-08'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.02
+      - 50.21
+      - 10.66
+      - 52.42
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=\t\
+      fbb88979-71d4-416d-ab2c-daf0ce44a6ec"
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Meike Grosse
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: meike.grosse@zalf.de
+    positionname: Scientist
+    phone: 033432 824086
+    address: Nussallee 13
+    city: "M\xFCncheberg"
+    administrativearea: North-Rhine Westphalia
+    postalcode: '15374'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 (0) 641-99 37429

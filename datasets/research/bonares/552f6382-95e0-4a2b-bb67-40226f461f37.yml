@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 552f6382-95e0-4a2b-bb67-40226f461f37
+  hierarchylevel: service
+  datestamp: '2024-04-17'
+  language: eng
+identification:
+  title: 'Map Service of the dataset ''LTE Bad Lauchstaedt: Extended Static Fertilization
+    Experiment V120a'''
+  abstract: null
+  dates:
+    issued: '2022-07-01'
+    creation: '2022-07-01'
+    revision: '2022-07-01'
+    publication: '2022-09-14'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.19
+      - 49.97
+      - 14.28
+      - 52.65
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://www.ufz.de/index.php?en=39226
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Ines Merbach
+    organization: "Helmholtz Centre for Environmental Research (UFZ), Research Station\
+      \ Bad Lauchst\xE4dt"
+    email: ines.merbach@ufz.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

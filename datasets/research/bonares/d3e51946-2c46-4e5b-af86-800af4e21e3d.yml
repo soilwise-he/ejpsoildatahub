@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: d3e51946-2c46-4e5b-af86-800af4e21e3d
+  hierarchylevel: dataset
+  datestamp: '2023-04-18'
+  language: eng
+identification:
+  title: "Sugar beet time series experiment (V465) for collecting holistic data for\
+    \ modeling (1972, Bad Lauchst\xE4dt, Germany)"
+  abstract: null
+  dates:
+    issued: '2022-12-20'
+    creation: '2022-12-20'
+    revision: '2022-12-20'
+    publication: '2022-12-20'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.875425
+      - 51.393015
+      - 11.875425
+      - 51.393015
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=d36ad69a-42ed-42b8-be24-5492802fa876
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Wilfried Mirschel
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF e.V.)
+    email: wmirschel@gmx.de
+    positionname: Researcher
+    phone: 00 49 (0) 355 69 3318
+    address: Konrad-Wachsmann-Allee 6
+    city: Cottbus
+    administrativearea: Brandenburg
+    postalcode: '03046'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 381 498 3122

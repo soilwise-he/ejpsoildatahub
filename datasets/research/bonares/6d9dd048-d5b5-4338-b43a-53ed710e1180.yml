@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6d9dd048-d5b5-4338-b43a-53ed710e1180
+  hierarchylevel: dataset
+  datestamp: '2024-03-12'
+  language: eng
+identification:
+  title: Permafrost degradation in Interior Alaska - Density fractions
+  abstract: null
+  dates:
+    issued: '2023-09-29'
+    creation: '2023-09-29'
+    revision: '2023-09-29'
+    publication: '2023-09-29'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 64.86525848863174
+      - 64.85906122824926
+      - 64.86537376981309
+      - 64.86733867870815
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ebccd65d-b193-413e-a245-190f97382gmd:fc8
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Patrick Liebmann
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: liebmann@ifbk.uni-hannover.de
+    positionname: senior scientist
+    phone: +49-(0)228-73-2871
+    address: Katzenburgweg 5
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

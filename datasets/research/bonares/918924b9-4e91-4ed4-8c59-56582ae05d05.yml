@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 918924b9-4e91-4ed4-8c59-56582ae05d05
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2023-08-30'
+  language: eng
+identification:
+  title: 'I4S: mobile gamma spectrometry'
+  abstract: null
+  dates:
+    issued: '2020-02-09'
+    creation: '2020-02-09'
+    revision: '2020-02-09'
+    publication: '2022-02-09'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=918924b9-4e91-4ed4-8c59-56582ae05d05
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "P\xC4TZOLD Stefan"
+    organization: University of Bonn, INRES-Soil Science and Soil Ecology
+    email: s.paetzold@uni-bonn.de
+    positionname: Senior Researcher
+    phone: '+49228732775'
+    address: Nussallee 13
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

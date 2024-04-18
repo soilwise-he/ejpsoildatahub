@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8362c52b-e84b-4147-9a02-911c3814fd42
+  hierarchylevel: dataset
+  datestamp: '2023-01-19'
+  language: eng
+identification:
+  title: Agricultural Yields and Cultivated Areas Germany, States and Counties since
+    1999
+  abstract: null
+  dates:
+    issued: '2022-11-28'
+    creation: '2022-11-28'
+    revision: '2022-11-28'
+    publication: '2023-01-19'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8362c52b-e84b-4147-9a02-911c3814fd42
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nikolai Svoboda
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: Nikolai.Svoboda@zalf.de
+    positionname: research associate
+    phone: +49 (0) 6155 8421 13
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18051'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: 493 814 983 122

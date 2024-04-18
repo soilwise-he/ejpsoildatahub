@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ce864da5-edab-4b32-948d-35752301db67
+  hierarchylevel: service
+  datestamp: '2022-02-23'
+  language: eng
+identification:
+  title: WMS of 'A catalog of meta-data about agricultural long-term field experiments
+    in Europe (EJP SOIL 7.3) (Data collection, parent table)'
+  abstract: null
+  dates:
+    issued: '2022-01-26'
+    creation: '2022-01-26'
+    revision: '2022-01-26'
+    publication: '2022-01-31'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - -7
+      - 37
+      - 36
+      - 64
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ce864da5-edab-4b32-948d-35752301db67
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Tommy D\u2019Hose"
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food,
+      Belgium
+    email: tommy.dhose@ilvo.vlaanderen.be
+    positionname: Post-doc researcher
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

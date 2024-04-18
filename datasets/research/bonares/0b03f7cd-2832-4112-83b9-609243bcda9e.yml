@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 0b03f7cd-2832-4112-83b9-609243bcda9e
+  hierarchylevel: service
+  datestamp: '2021-03-16'
+  language: eng
+identification:
+  title: WMS Service of the dataset "Meteorological data, soil temperature and soil
+    water content for Mariensee Agroforestry from 2016 to 2017"
+  abstract: null
+  dates:
+    issued: '2018-09-17'
+    creation: '2018-09-17'
+    revision: '2018-09-17'
+    publication: '2020-01-01'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.05
+      - 51.61
+      - 10.81
+      - 53.13
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=
+      e00786ab-85af-4740-b87b-4af2fe4f1e0f
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Christian Markwitz
+    organization: "University of G\xF6ttingen, Bioclimatology"
+    email: christian.markwitz@forst.uni-goettingen.de
+    positionname: PhD Student
+    phone: +49 551 20597
+    address: "B\xFCsgenweg 2"
+    city: Hannover
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

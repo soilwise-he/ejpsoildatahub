@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7b2e7063-c804-42d7-976d-d9fce6a88c15
+  hierarchylevel: dataset
+  datestamp: '2023-11-09'
+  language: eng
+identification:
+  title: Above- and belowground phenotyping of 48 central European maize (Zea mays
+    L.) genotypes
+  abstract: null
+  dates:
+    issued: '2023-11-07'
+    creation: '2023-11-07'
+    revision: '2023-11-07'
+    publication: '2023-11-07'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7b2e7063-c804-42d7-976d-d9fce6a88c15
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Tina K\xF6hler"
+    organization: University of Bayreuth
+    email: tina.koehler@usys.ethz.ch
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Von-Seckendorff-Platz 4
+    city: Halle (Saale)
+    administrativearea: Saxony-Anhalt
+    postalcode: D-016120
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

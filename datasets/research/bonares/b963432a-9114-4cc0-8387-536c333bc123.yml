@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b963432a-9114-4cc0-8387-536c333bc123
+  hierarchylevel: dataset
+  datestamp: '2022-09-27'
+  language: eng
+identification:
+  title: 'Lysimeter data Rostock: Redox potential, pH and element concentrations of
+    pore water in 2020'
+  abstract: null
+  dates:
+    issued: '2022-04-08'
+    creation: '2022-04-08'
+    revision: '2022-04-08'
+    publication: '2022-08-22'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b963432a-9114-4cc0-8387-536c333bc123
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: University of Rostock
+    email: karen.baumann@uni-rostock.de
+    positionname: PhD Student
+    phone: +49 551 20597
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5318877e-906b-4400-9f32-dd6827f28ebf
+  hierarchylevel: dataset
+  datestamp: '2021-04-27'
+  language: eng
+identification:
+  title: "Arbuscular Mycorrhizal Fungal (AMF) Community During Crop Rotation, L\xFC\
+    neburg, Germany - Metadata"
+  abstract: null
+  dates:
+    issued: '2021-01-15'
+    creation: '2021-01-15'
+    revision: '2021-01-15'
+    publication: '2021-01-20'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.22
+      - 51.63
+      - 12.5
+      - 54.44
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5318877e-906b-4400-9f32-dd6827f28ebf
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Gavriil Spyroglou
+    organization: "Freie Universit\xE4t Berlin"
+    email: royjulien@zedat.fu-berlin.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

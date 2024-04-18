@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e836455d-e0ce-4d7f-8b6e-b9db88d09169
+  hierarchylevel: dataset
+  datestamp: '2023-12-12'
+  language: eng
+identification:
+  title: Phenology - description
+  abstract: null
+  dates:
+    issued: '2020-01-28'
+    creation: '2020-01-28'
+    revision: '2020-01-28'
+    publication: '2019-12-31'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7385584e-1a75-49a7-8769-44e0044119b4
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Eric B\xF6necke"
+    organization: Leibniz University Hannover
+    email: boenecke@gem.uni-hannover.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

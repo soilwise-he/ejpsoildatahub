@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 142faafb-4e71-4b1e-b550-ca6864f5234b
+  hierarchylevel: dataset
+  datestamp: '2023-03-15'
+  language: eng
+identification:
+  title: pH-dependency of P adsorption kinetics on goethite
+  abstract: null
+  dates:
+    issued: '2021-02-15'
+    creation: '2021-02-15'
+    revision: '2021-02-15'
+    publication: '2023-02-15'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=142faafb-4e71-4b1e-b550-ca6864f5234b
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Stella Gypser
+    organization: "Brandenburgische Technische Universit\xE4t Cottbus-Senftenberg"
+    email: stella.gypser@b-tu.de
+    positionname: Researcher
+    phone: 00 49 (0) 355 693318
+    address: Konrad-Wachsmann-Allee 6
+    city: Cottbus
+    administrativearea: Brandenburg
+    postalcode: '03046'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

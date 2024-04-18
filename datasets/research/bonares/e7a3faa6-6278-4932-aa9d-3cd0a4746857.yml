@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e7a3faa6-6278-4932-aa9d-3cd0a4746857
+  hierarchylevel: service
+  datestamp: '2024-01-31'
+  language: eng
+identification:
+  title: WMS Map Service of the dataset 'Impact of catch crop on P mobilization and
+    growth of subsequent crop in field experiment'
+  abstract: null
+  dates:
+    issued: '2021-09-01'
+    creation: '2019-12-02'
+    revision: '2021-11-09'
+    publication: '2023-03-13'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.32
+      - 53.39
+      - 13.16
+      - 54.58
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e7a3faa6-6278-4932-aa9d-3cd0a4746857
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nora Vitow
+    organization: University of Rostock
+    email: nora.vitow@uni-rostock.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

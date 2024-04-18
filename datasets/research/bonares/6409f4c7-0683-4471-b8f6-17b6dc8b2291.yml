@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6409f4c7-0683-4471-b8f6-17b6dc8b2291
+  hierarchylevel: dataset
+  datestamp: '2023-12-01'
+  language: eng
+identification:
+  title: "On-the-go gamma spectra for the site \u201CAhrweiler\u201D from the publication\
+    \ P\xE4tzold et al. 2020, Soil Systems 4, 31"
+  abstract: null
+  dates:
+    issued: '2020-02-25'
+    creation: '2020-02-25'
+    revision: '2020-02-25'
+    publication: '2020-02-25'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=6409f4c7-0683-4471-b8f6-17b6dc8b2291
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Stefan P\xE4tzold"
+    organization: University of Bonn, Institute of Crop Science and Resource Conservation
+      (INRES) - Soil Science and Soil Ecology, Bonn (Germany)
+    email: s.paetzold@uni-bonn.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

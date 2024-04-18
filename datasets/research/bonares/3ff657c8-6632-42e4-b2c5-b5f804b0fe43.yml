@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3ff657c8-6632-42e4-b2c5-b5f804b0fe43
+  hierarchylevel: service
+  datestamp: '2022-09-19'
+  language: eng
+identification:
+  title: 'Map Service of the dataset ''Lysimeter data Rostock: Dry mass and counts
+    of stems, leaves and ears, and internode lengths of spring barley in 2020'''
+  abstract: null
+  dates:
+    issued: '2022-04-08'
+    creation: '2022-04-08'
+    revision: '2022-04-08'
+    publication: '2022-08-22'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3ff657c8-6632-42e4-b2c5-b5f804b0fe43
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c3aa559f-55e8-442c-ba00-4b5f315a353c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: University of Rostock
+    email: karen.baumann@uni-rostock.de
+    positionname: Department of Agronomy
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

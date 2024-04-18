@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6b94532e-8096-42c8-90f3-bc55a84d9b7a
+  hierarchylevel: dataset
+  datestamp: '2022-10-21'
+  language: eng
+identification:
+  title: Plant and arthropod data along gradients in kettle holes (Part 3 of data
+    collection, table SPIDER_DATA_LONG)
+  abstract: null
+  dates:
+    issued: '2022-10-18'
+    creation: '2022-10-18'
+    revision: '2022-10-18'
+    publication: '2022-10-18'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.459477
+      - 53.290627
+      - 13.877137
+      - 53.43036
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=6b94532e-8096-42c8-90f3-bc55a84d9b7a
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kolja Bergholz
+    organization: University Potsdam
+    email: bergholz@uni-potsdam.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

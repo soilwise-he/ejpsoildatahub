@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 16f35d72-251c-4402-9069-5761fd14d1b9
+  hierarchylevel: dataset
+  datestamp: '2022-02-07'
+  language: eng
+identification:
+  title: "Media clipping \u201AM\xFCckenatlas\u2018 2014-2017"
+  abstract: null
+  dates:
+    issued: '2022-01-12'
+    creation: '2022-01-12'
+    revision: '2022-01-12'
+    publication: '2022-01-17'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 14.11
+      - 52.51
+      - 14.13
+      - 52.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=16f35d72-251c-4402-9069-5761fd14d1b9
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Doreen Werner
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: doreen.werner@zalf.de
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

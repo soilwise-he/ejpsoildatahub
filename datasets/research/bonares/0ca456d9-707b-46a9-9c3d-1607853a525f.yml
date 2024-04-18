@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 0ca456d9-707b-46a9-9c3d-1607853a525f
+  hierarchylevel: service
+  datestamp: '2021-11-26'
+  language: eng
+identification:
+  title: WMS Service of the dataset "BonaRes SIGNAL, sites, measuring points"
+  abstract: null
+  dates:
+    issued: '2019-03-28'
+    creation: '2017-10-19'
+    revision: '2019-03-28'
+    publication: '2019-03-28'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=0ca456d9-707b-46a9-9c3d-1607853a525f
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Marcus Schmidt
+    organization: University of Goettingen, PTS
+    email: mschmidh@gwdg.de
+    positionname: Research Assistant
+    phone: 0049-551-3933513
+    address: Eberswalder Str. 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

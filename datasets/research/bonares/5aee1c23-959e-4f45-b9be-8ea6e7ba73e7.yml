@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5aee1c23-959e-4f45-b9be-8ea6e7ba73e7
+  hierarchylevel: dataset
+  datestamp: '2023-10-09'
+  language: eng
+identification:
+  title: 'Reference soil samples (pH, soil texture, SOC, TC, TN, P, K, Mg) from the
+    project "pH-BB: Precision liming in Brandenburg" - data set 2 (farm 2)'
+  abstract: null
+  dates:
+    issued: '2023-08-29'
+    creation: '2023-08-29'
+    revision: '2023-08-29'
+    publication: '2025-04-11'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 11.86
+      - 50.68
+      - 15.24
+      - 53.91
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5aee1c23-959e-4f45-b9be-8ea6e7ba73e7
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Eric B\xF6necke"
+    organization: Leibniz Institute for Vegetables and Ornamental Crops
+    email: boenecke@igzev.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Max-Eyth-Allee 100
+    city: Halle
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

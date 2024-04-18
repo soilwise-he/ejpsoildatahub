@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 00682004-c6b9-4c1d-8b40-3afff8bbec69
+  hierarchylevel: dataset
+  datestamp: '2020-02-14'
+  language: eng
+identification:
+  title: SUSALPS temperature and volumetric soil water content Esterberg Subplot 3
+    in Esterberg intensiv
+  abstract: null
+  dates:
+    issued: '2018-12-05'
+    creation: '2018-12-05'
+    revision: '2018-12-05'
+    publication: '2019-03-01'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.15775
+      - 47.51634
+      - 11.15775
+      - 47.51634
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: intellectualPropertyRights
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=00682004-c6b9-4c1d-8b40-3afff8bbec69
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Kiese, Ralf
+    organization: Karlsruhe Institute of Technology (KIT)
+    email: ralf.kiese@kit.edu
+    positionname: Group Leader
+    phone: +49 8821 183 153
+    address: Emil-Ramann-Str. 2
+    city: Garmisch-Partenkirchen
+    administrativearea: Brandenburg
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 381 498 3122

@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 201491fe-6662-4a00-acb4-90faf60ada24
+  hierarchylevel: service
+  datestamp: '2024-02-14'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'CClimatic compound events in Bavarian counties
+    between 1981 and 2021 during the development phases of maize and winter wheat'
+  abstract: null
+  dates:
+    issued: '2024-01-29'
+    creation: '2024-01-29'
+    revision: '2024-01-29'
+    publication: '2024-01-29'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.97
+      - 47.27
+      - 13.84
+      - 50.57
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0227186b-ffc6-40f4-b8a7-846b658aa6a0
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Prof. Michael Bonkowski
+    organization: Bayreuth Center of Ecology and Environmental Research (BayCEER),
+      University of Bayreuth
+    email: Jakob.Bogenreuther@uni-bayreuth.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

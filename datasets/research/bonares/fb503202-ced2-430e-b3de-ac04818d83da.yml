@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fb503202-ced2-430e-b3de-ac04818d83da
+  hierarchylevel: dataset
+  datestamp: '2020-12-01'
+  language: eng
+identification:
+  title: Long-term field experiment V140 Muencheberg from 1963 to 2009 - Seed stock
+  abstract: null
+  dates:
+    issued: '2018-05-17'
+    creation: '2018-05-17'
+    revision: '2018-05-17'
+    publication: '3000-01-01'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.107
+      - 52.513
+      - 14.126
+      - 52.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://ltfe-map.bonares.de/
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dietmar Barkusky
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: dbarkusky@zalf.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

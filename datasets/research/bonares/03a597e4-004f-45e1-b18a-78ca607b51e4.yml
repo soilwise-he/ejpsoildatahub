@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 03a597e4-004f-45e1-b18a-78ca607b51e4
+  hierarchylevel: dataset
+  datestamp: '2021-04-13'
+  language: eng
+identification:
+  title: ARD Splitroot
+  abstract: null
+  dates:
+    issued: '2021-02-19'
+    creation: '2021-02-19'
+    revision: '2021-02-19'
+    publication: '2021-03-04'
+    submitted: '2019-02-15'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.79
+      - 52.92
+      - 10.64
+      - 54.77
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=03a597e4-004f-45e1-b18a-78ca607b51e4
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Annmarie-Deetja Rohr
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: rohr@baum.uni-hannover.de
+    positionname: Scientific staff
+    phone: 0049 511 762 4017
+    address: Hermann-Rodewald-Str. 9
+    city: Hannover
+    administrativearea: Schleswig-Holstein
+    postalcode: '30419'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: 0049 511 762 3608

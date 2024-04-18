@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 733796ed-d2b2-4559-8793-62dfbee84002
+  hierarchylevel: dataset
+  datestamp: '2022-03-04'
+  language: eng
+identification:
+  title: 'Pt. 1/2 of: Barley shoot biomass responds strongly to N:P stoichiometry
+    and intraspecific competition, whereas roots only alter their foraging (Data collection)'
+  abstract: null
+  dates:
+    issued: '2021-01-25'
+    creation: '2021-01-25'
+    revision: '2021-01-25'
+    publication: '2022-03-04'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=733796ed-d2b2-4559-8793-62dfbee84002
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Amit Kumar
+    organization: "Leuphana University of L\xFCneburg"
+    email: kumar@leuphana.de
+    positionname: research associate
+    phone: 0355693689
+    address: Eberswalder Strasse 84
+    city: Garmisch-Partenkirchen
+    administrativearea: Brandenburg
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

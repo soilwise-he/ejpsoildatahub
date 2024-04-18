@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4474c367-c723-4d6a-8aaf-45a86e7c3c2f
+  hierarchylevel: service
+  datestamp: '2023-12-13'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Climate data Graswang site 2011 to 2018'
+  abstract: null
+  dates:
+    issued: '2020-12-08'
+    creation: '2020-12-08'
+    revision: '2020-12-08'
+    publication: '2023-11-23'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.031
+      - 47.56
+      - 11.035
+      - 47.57
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9b92cf69-e92a-43b6-a42f-c1cbfd807c59
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Ralf Kiese
+    organization: "Karlsruher Institut f\xFCr Technologie"
+    email: ralf.kiese@kit.edu
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

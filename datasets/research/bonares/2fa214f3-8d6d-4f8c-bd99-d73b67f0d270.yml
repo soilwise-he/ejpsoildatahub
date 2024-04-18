@@ -1,0 +1,55 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2fa214f3-8d6d-4f8c-bd99-d73b67f0d270
+  hierarchylevel: dataset
+  datestamp: '2024-02-26'
+  language: eng
+identification:
+  title: "Potential hydrolytic enzyme activitiy (\u03B2-glucosidase) of topsoils in\
+    \ alley cropping systems at different distances of trees"
+  abstract: null
+  dates:
+    issued: '2020-12-01'
+    creation: '2020-12-01'
+    revision: '2020-12-01'
+    publication: '2022-12-01'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 7.93
+      - 50.64
+      - 15.06
+      - 53.47
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2fa214f3-8d6d-4f8c-bd99-d73b67f0d270
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Christine Wachendorf
+    organization: University of Kassel
+    email: c.wachendorf@uni-kassel.de
+    positionname: Assistance Breeder
+    phone: 49-5542981504
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

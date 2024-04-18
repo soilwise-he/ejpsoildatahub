@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 938db966-7ae7-4bd2-84e5-3cc49b7baedd
+  hierarchylevel: dataset
+  datestamp: '2023-05-10'
+  language: eng
+identification:
+  title: Soil microbial stoichiometry and enzyme activities along an agricultural
+    post-mining chronosequence
+  abstract: null
+  dates:
+    issued: '2021-05-28'
+    creation: '2021-05-28'
+    revision: '2021-05-28'
+    publication: '2021-05-28'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.92
+      - 49.87
+      - 8.58
+      - 52.18
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Prof. Michael Bonkowski
+    organization: University of Cologne
+    email: m.bonkowski@uni-koeln.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: Eberswalder Strasse 84
+    city: Rostock
+    administrativearea: Brandenburg
+    postalcode: '18059'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 186

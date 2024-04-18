@@ -2,7 +2,7 @@ mcf:
   version: 1.0
 metadata:
   identifier: 10.1002/fsn3.1675
-  dateuri: https://doi.org/10.1002/fsn3.1675
+  dataseturi: https://doi.org/10.1002/fsn3.1675
 identification:
   title: 'Valorization of the green waste parts from sweet potato ( Impoea batatas
     L.): Nutritional, phytochemical composition, and bioactivity evaluation'
@@ -43,4 +43,6 @@ identification:
   status: null
   maintenancefrequency: null
 contact:
-  Funder: null
+  Funder:
+    organization: REA
+    url: http://data.europa.eu/s66/resource/projects/a0bfb38b-0239-3ea8-b5f7-7a613015cdab

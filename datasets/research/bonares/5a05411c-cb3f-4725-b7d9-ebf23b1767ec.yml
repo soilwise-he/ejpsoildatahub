@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5a05411c-cb3f-4725-b7d9-ebf23b1767ec
+  hierarchylevel: dataset
+  datestamp: '2022-06-29'
+  language: eng
+identification:
+  title: 'Who is the culprit: Is pest infestation responsible for crop yield losses
+    close to semi-natural habitats?'
+  abstract: null
+  dates:
+    issued: '2021-08-04'
+    creation: '2021-08-04'
+    revision: '2021-08-04'
+    publication: '2022-03-16'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5a05411c-cb3f-4725-b7d9-ebf23b1767ec
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Larissa Raatz
+    organization: University of Potsdam, Institute of Biochemistry and Biology, Biodiversity
+      Research / Systematic Botany
+    email: larissa.raatz@uni-potsdam.de
+    positionname: Department of Agronomy
+    phone: +49 331 977 1939
+    address: Maulbeerallee 1
+    city: Potsdam
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '14469'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

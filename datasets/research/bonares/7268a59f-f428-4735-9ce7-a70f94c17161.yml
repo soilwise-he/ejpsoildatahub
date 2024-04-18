@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7268a59f-f428-4735-9ce7-a70f94c17161
+  hierarchylevel: dataset
+  datestamp: '2023-04-26'
+  language: eng
+identification:
+  title: Monitoring of tree growth, water relations and element budget of a mature
+    beech (Fagus sylvatica L.) forest ecosystem in Brandenburg, Germany - Dendrometry
+    manual
+  abstract: null
+  dates:
+    issued: '2022-04-26'
+    creation: '2022-04-26'
+    revision: '2022-04-26'
+    publication: '2022-05-05'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 12.988249
+      - 53.145833
+      - 12.98995
+      - 53.15349
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7268a59f-f428-4735-9ce7-a70f94c17161
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Hubert Jochheim
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: hubert.jochheim@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

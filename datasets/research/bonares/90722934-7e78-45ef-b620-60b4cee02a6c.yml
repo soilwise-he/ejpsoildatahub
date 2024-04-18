@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 90722934-7e78-45ef-b620-60b4cee02a6c
+  hierarchylevel: dataset
+  datestamp: '2019-12-18'
+  language: eng
+identification:
+  title: Catch crop rooting behaviour 1st crop rotation cycle
+  abstract: null
+  dates:
+    issued: '2019-01-16'
+    creation: '2018-12-03'
+    revision: '2019-01-15'
+    publication: '2019-06-01'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.023
+      - 52.7625
+      - 9.026
+      - 52.764
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=90722934-7e78-45ef-b620-60b4cee02a6c
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Heuermann, Diana
+    organization: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
+      Gatersleben
+    email: heuermannd@ipk-gatersleben.de
+    positionname: Staff member (Molecular Plant Nutrition)
+    phone: 0049 39482 5514
+    address: "Correnstra\xDFe 3"
+    city: Stadt Seeland
+    administrativearea: Saxony-Anhalt
+    postalcode: '06466'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 39482 5550

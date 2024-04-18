@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a317ea8b-87ad-42be-b46d-0d2f857d7d1f
+  hierarchylevel: dataset
+  datestamp: '2023-09-27'
+  language: eng
+identification:
+  title: "Soil and rhizosphere properties related to carbon allocation processe at\
+    \ Hohenschulen field site in the first trial year of Rhizo4Bio \u2013 RootWayS\
+    \ project. - Acid phosphatase affinity to the substrate in soil samples  at maize\
+    \ BBCH33"
+  abstract: null
+  dates:
+    issued: '2023-07-11'
+    creation: '2023-07-11'
+    revision: '2023-07-11'
+    publication: '2023-07-11'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.995111
+      - 54.311173
+      - 9.996946
+      - 54.312613
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=4c4a81a6-3f14-484e-a6a9-5698bfba6gmd:aa9
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dr. Heinz-Josef Koch
+    organization: "Institute for plant nutrition and soil science, Christian-Albrechts-Universit\xE4\
+      t zu Kiel"
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 18a9c2ec-e49d-4fcc-b16a-7bf61d54e26a
+  hierarchylevel: dataset
+  datestamp: '2020-01-17'
+  language: eng
+identification:
+  title: 'BonaRes SIGNAL, Site: Mariensee and Reiffenhausen, plant nutrient availability
+    (N,P,K,Ca,Mg), Nutrient response efficiency (N,P,K,Ca,Mg), Nutrient uptake (N,P,K,Ca,Mg),
+    Nutrient uptake and use efficiency (N,P,K,Ca,Mg)'
+  abstract: null
+  dates:
+    issued: '2018-10-19'
+    creation: '2018-05-02'
+    revision: '2018-10-19'
+    publication: '2018-11-12'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/BonaRes-S84Z-CHBT
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: "Leonie G\xF6bel"
+    organization: University of Goettingen, PTS
+    email: lgoebel@gwdg.de
+    positionname: Researcher
+    phone: 00 49 (0) 355 69 3318
+    address: Konrad-Wachsmann-Allee 6
+    city: Cottbus
+    administrativearea: Brandenburg
+    postalcode: '03046'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 381 498 3122

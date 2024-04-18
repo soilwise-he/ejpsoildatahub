@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8dbfffb7-80eb-4d36-9f83-5d080248ff8c
+  hierarchylevel: dataset
+  datestamp: '2022-11-07'
+  language: eng
+identification:
+  title: 'Data collection LTE Seehausen - Table: Plot'
+  abstract: null
+  dates:
+    issued: '2020-01-14'
+    creation: '2021-01-14'
+    revision: '2021-01-14'
+    publication: '2021-01-14'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 10.75
+      - 48.61
+      - 15.56
+      - 52.8
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8dbfffb7-80eb-4d36-9f83-5d080248ff8c
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Kurt-J\xFCrgen H\xFClsbergen"
+    organization: TU Munich
+    email: kurt.juergen.huelsbergen@tum.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: 00 49 (0) 531 5962111
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Lower Saxony
+    postalcode: '85354'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

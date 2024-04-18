@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 116d7828-7f69-4896-8d7a-09585f70d493
+  hierarchylevel: dataset
+  datestamp: '2023-11-14'
+  language: eng
+identification:
+  title: Fusarium abundance and diversity and Alternaria abundance on weeds and wheat
+    ears in transitions zones between kettle hole edge and field and field edge and
+    field.       - Abundance of Fusaria and Alternaria on weed plants
+  abstract: null
+  dates:
+    issued: '2023-07-20'
+    creation: '2023-07-20'
+    revision: '2023-07-20'
+    publication: '2023-07-20'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.459477
+      - 53.290627
+      - 13.877137
+      - 53.43036
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=616f4686-078a-4d60-9fd5-3629389010a1
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Marina Gerling
+    organization: ZALF
+    email: marina.gerling@web.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Von-Seckendorff-Platz 4
+    city: Halle (Saale)
+    administrativearea: Saxony-Anhalt
+    postalcode: D-016120
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 16c668bb-b58d-46d3-b2d8-bca6bf84d8b1
+  hierarchylevel: service
+  datestamp: '2023-02-02'
+  language: eng
+identification:
+  title: 'Web Map Service of the dataset ''Database for meta-analysis: Reducing tillage
+    intensity benefits the soil micro- and mesofauna in a global meta-analysis.'''
+  abstract: null
+  dates:
+    issued: '2022-11-08'
+    creation: '2022-11-08'
+    revision: '2022-11-08'
+    publication: '2022-11-18'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 11
+      - 52
+      - 11
+      - 54
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=16c668bb-b58d-46d3-b2d8-bca6bf84d8b1
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9cb76dad-54bb-4916-9d4f-0bce8fec23a0
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bibiana Betancur Corredor
+    organization: "Senckenberg Museum f\xFCr Naturkunde G\xF6rlitz"
+    email: bibiana.betancurcorredor@senckenberg.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 33432 82 168
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

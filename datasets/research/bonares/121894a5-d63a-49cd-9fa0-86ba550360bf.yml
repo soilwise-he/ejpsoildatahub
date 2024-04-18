@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 121894a5-d63a-49cd-9fa0-86ba550360bf
+  hierarchylevel: service
+  datestamp: '2021-03-16'
+  language: eng
+identification:
+  title: WMS Service of the dataset  "Grassland yield and quality, leaf litter input,
+    and wood yield in a short rotation coppice agroforestry systemin Lower Saxony,
+    Germany, in 2015, 2016, and 2017"
+  abstract: null
+  dates:
+    issued: '2017-10-19'
+    creation: '2017-10-19'
+    revision: '2018-01-22'
+    publication: '2017-10-19'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.55
+      - 52.09
+      - 10.27
+      - 53.36
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=1c276ada-742c-4390-9a07-8d278d0afdeb
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Maren Langhof
+    organization: "Julius K\xFChn-Institut"
+    email: maren.langhof@julius-kuehn.de
+    positionname: PhD Student
+    phone: 05513920597
+    address: Bundesallee 58
+    city: Braunschweig
+    administrativearea: Lower Saxony
+    postalcode: '38116'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

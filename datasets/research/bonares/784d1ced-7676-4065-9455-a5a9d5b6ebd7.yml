@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 784d1ced-7676-4065-9455-a5a9d5b6ebd7
+  hierarchylevel: dataset
+  datestamp: '2023-09-08'
+  language: eng
+identification:
+  title: 'Reference soil samples (pH, soil texture, SOC, TC, TN, P, K, Mg) from the
+    project "pH-BB: Precision liming in Brandenburg" - data set 1 (farm 1) - Farm
+    information'
+  abstract: null
+  dates:
+    issued: '2023-08-29'
+    creation: '2023-08-29'
+    revision: '2023-08-29'
+    publication: '2023-08-29'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 53.0964
+      - 13.8096
+      - 13.9428
+      - 53.1756
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=784d1ced-7676-4065-9455-a5a9d5b6ebd7
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Eric B\xF6necke"
+    organization: Leibniz Institute for Vegetables and Ornamental Crops
+    email: boenecke@igzev.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

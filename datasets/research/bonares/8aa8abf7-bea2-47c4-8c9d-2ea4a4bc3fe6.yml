@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8aa8abf7-bea2-47c4-8c9d-2ea4a4bc3fe6
+  hierarchylevel: dataset
+  datestamp: '2023-10-16'
+  language: eng
+identification:
+  title: Thyrow D1 irrigation trial
+  abstract: null
+  dates:
+    issued: '2023-10-06'
+    creation: '2023-10-06'
+    revision: '2023-10-06'
+    publication: '2023-10-06'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 52.252847
+      - 52.252847
+      - 52.253043
+      - 52.253316
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8aa8abf7-bea2-47c4-8c9d-2ea4a4bc3fe6
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anne E. Berns
+    organization: "Forschungszentrum J\xFClich GmbH"
+    email: a.berns@fz-juelich.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Eberswalder Str. 84
+    city: Muencheberg
+    administrativearea: Saxony-Anhalt
+    postalcode: '15374'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

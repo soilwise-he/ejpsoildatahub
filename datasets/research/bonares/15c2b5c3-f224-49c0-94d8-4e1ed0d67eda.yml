@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 15c2b5c3-f224-49c0-94d8-4e1ed0d67eda
+  hierarchylevel: dataset
+  datestamp: '2022-12-14'
+  language: eng
+identification:
+  title: Base neutralizing capacity from agricultural fields in the quaternary landscape
+    of North-East Germany
+  abstract: null
+  dates:
+    issued: '2020-06-24'
+    creation: '2020-06-24'
+    revision: '2020-06-24'
+    publication: '2022-06-24'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.89
+      - 51.92
+      - 14.89
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=15c2b5c3-f224-49c0-94d8-4e1ed0d67eda
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7d97115b-ad9b-4c1b-94e0-41ddc7e67996
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sebastian Vogel
+    organization: Leibniz Institute for Agricultural Engineering and Bioeconomy (ATB
+    email: svogel@atb-potsdam.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

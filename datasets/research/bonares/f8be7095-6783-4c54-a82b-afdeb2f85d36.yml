@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f8be7095-6783-4c54-a82b-afdeb2f85d36
+  hierarchylevel: dataset
+  datestamp: '2023-09-29'
+  language: eng
+identification:
+  title: Nutrients of shoot material in plants, grown in soils from three long-term
+    field experiments (Data collection)
+  abstract: null
+  dates:
+    issued: '2021-08-03'
+    creation: '2021-08-03'
+    revision: '2021-08-03'
+    publication: '2022-01-20'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.538149
+      - 47.501929
+      - 13.237647
+      - 52.259773
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f8be7095-6783-4c54-a82b-afdeb2f85d36
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Saskia, Helen Windisch
+    organization: University of Hohenheim
+    email: Saskia.Windisch@uni-hohenheim.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

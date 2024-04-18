@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: efbf1fcd-cd45-4d8e-9787-f85072c317f1
+  hierarchylevel: service
+  datestamp: '2023-03-30'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Meteorological Data Fendt Site'
+  abstract: null
+  dates:
+    issued: '2020-09-22'
+    creation: '2020-09-22'
+    revision: '2020-09-22'
+    publication: '2022-09-22'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.7
+      - 47.38
+      - 12.48
+      - 48.42
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=efbf1fcd-cd45-4d8e-9787-f85072c317f1
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9c3c372c-27f4-4a52-ae45-ce4d4bf54a18
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Ralf Kiese
+    organization: KIT IMK-IFU
+    email: ralf.kiese@kit.edu
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 24589d8e-0481-48f5-ae1d-422caa2ee8b0
+  hierarchylevel: dataset
+  datestamp: '2023-12-14'
+  language: eng
+identification:
+  title: Maximum Yield
+  abstract: null
+  dates:
+    issued: '2020-01-28'
+    creation: '2020-01-28'
+    revision: '2020-01-28'
+    publication: '2019-12-31'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3b68f374-df74-4191-bf08-b49c79b19d29
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Eric B\xF6necke"
+    organization: Leibniz University Hannover
+    email: boenecke@gem.uni-hannover.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 511 76219269
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Niedersachsen
+    postalcode: D-35392
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

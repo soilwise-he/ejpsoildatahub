@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8d34ddab-2bc9-4288-869b-a4afdd68f0dd
+  hierarchylevel: dataset
+  datestamp: '2019-06-21'
+  language: eng
+identification:
+  title: Catch crop nutrient uptake 1st crop rotation cycle
+  abstract: null
+  dates:
+    issued: '2019-01-16'
+    creation: '2017-10-19'
+    revision: '2018-08-10'
+    publication: '2019-10-01'
+    submitted: '2019-02-15'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.023
+      - 52.7625
+      - 9.026
+      - 52.764
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=8d34ddab-2bc9-4288-869b-a4afdd68f0dd
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Heuermann, Diana
+    organization: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
+      Gatersleben
+    email: heuermannd@ipk-gatersleben.de
+    positionname: Staff member (Molecular Plant Nutrition)
+    phone: +49-(0)228-73-2871
+    address: "Correnstra\xDFe 3"
+    city: Stadt Seeland
+    administrativearea: Saxony-Anhalt
+    postalcode: '06466'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: 0049 39482 5550

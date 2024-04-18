@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 49dcdc25-81c1-42cb-b554-25623146fcdd
+  hierarchylevel: dataset
+  datestamp: '2022-07-08'
+  language: eng
+identification:
+  title: Grain legume production data for soybean, lupins and faba bean, the effect
+    of cultivars and irrigation and impacts on the following winter wheat (Part 4
+    of data collection, table V421_CROP_BIOMASS_NITROGEN_AKTUELL)
+  abstract: null
+  dates:
+    issued: '2022-04-29'
+    creation: '2022-04-29'
+    revision: '2022-04-29'
+    publication: '2022-06-14'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.124984
+      - 52.515896
+      - 14.135045
+      - 52.523392
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2c1778af-1856-46d2-8a82-809fcfe654c2
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kathleen Karges
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF), Germany
+    email: kathleen.karges@zalf.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

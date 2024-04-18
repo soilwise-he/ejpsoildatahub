@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a3752ecb-c5ea-4f1a-96ff-01a24180d3cb
+  hierarchylevel: dataset
+  datestamp: '2024-01-15'
+  language: eng
+identification:
+  title: Validation and field application of a low-cost device to measure CO2 and
+    ET fluxes
+  abstract: null
+  dates:
+    issued: '2023-03-30'
+    creation: '2023-03-30'
+    revision: '2024-01-15'
+    publication: '2023-03-30'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - -1.003361
+      - 9.404417
+      - 14.15
+      - 52.447
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a3752ecb-c5ea-4f1a-96ff-01a24180d3cb
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Reena Macagga
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: reena.macagga@zalf.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

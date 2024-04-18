@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 124eb2b9-10dd-455b-80d6-fb5856d50603
+  hierarchylevel: dataset
+  datestamp: '2020-12-11'
+  language: eng
+identification:
+  title: Fungi isolation of Bittenfelder plants grown in Heidgraben soil from the
+    field experiment in 2016
+  abstract: null
+  dates:
+    issued: '2019-01-10'
+    creation: '2017-10-19'
+    revision: '2020-07-17'
+    publication: '2021-07-31'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=124eb2b9-10dd-455b-80d6-fb5856d50603
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carolin Popp
+    organization: Leibniz University Hannover
+    email: popp@ipp.uni-hannover.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 (0) 641-99 37429

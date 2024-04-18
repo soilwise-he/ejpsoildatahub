@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 15611ad4-619e-486f-87d4-0c1eea91775a
+  hierarchylevel: dataset
+  datestamp: '2024-03-01'
+  language: eng
+identification:
+  title: Low-cost ground-based NDVI sensor device for manual and automated crop monitoring
+    - Field application Benin
+  abstract: null
+  dates:
+    issued: '2024-02-15'
+    creation: '2024-02-15'
+    revision: '2024-02-15'
+    publication: '2024-02-15'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=15611ad4-619e-486f-87d4-0c1eea91775a
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Reena Macagga
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: reena.macagga@zalf.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

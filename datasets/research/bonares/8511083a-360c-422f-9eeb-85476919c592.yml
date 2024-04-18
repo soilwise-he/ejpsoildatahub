@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8511083a-360c-422f-9eeb-85476919c592
+  hierarchylevel: dataset
+  datestamp: '2023-12-06'
+  language: eng
+identification:
+  title: Soil hydraulic data from laboratory rainfall simulation experiments to induce
+    subsurface lateral subsurface flow in 2D soil monoliths
+  abstract: null
+  dates:
+    issued: '2023-11-23'
+    creation: '2023-11-23'
+    revision: '2023-11-23'
+    publication: '2023-11-23'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.783827
+      - 53.379389
+      - 13.786385
+      - 53.38007
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8511083a-360c-422f-9eeb-85476919c592
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Annelie Ehrhardt
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: annelie.ehrhardt@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

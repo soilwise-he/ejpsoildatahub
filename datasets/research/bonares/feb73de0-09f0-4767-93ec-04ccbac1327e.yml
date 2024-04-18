@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: feb73de0-09f0-4767-93ec-04ccbac1327e
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Base neutralizing capacity from agricultural
+    fields in the quaternary landscape of North-East Germany'
+  abstract: null
+  dates:
+    issued: '2020-06-24'
+    creation: '2020-06-24'
+    revision: '2020-06-24'
+    publication: '2022-06-24'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.89
+      - 51.92
+      - 14.89
+      - 54.73
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=feb73de0-09f0-4767-93ec-04ccbac1327e
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sebastian Vogel
+    organization: Leibniz Institute for Agricultural Engineering and Bioeconomy (ATB
+    email: svogel@atb-potsdam.de
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

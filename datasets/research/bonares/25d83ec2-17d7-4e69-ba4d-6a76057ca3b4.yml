@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 25d83ec2-17d7-4e69-ba4d-6a76057ca3b4
+  hierarchylevel: dataset
+  datestamp: '2020-12-11'
+  language: eng
+identification:
+  title: Mycorrhiza colonization of "Bittenfelder" plants before planting in Ellerhoop
+    2017
+  abstract: null
+  dates:
+    issued: '2019-01-10'
+    creation: '2017-10-19'
+    revision: '2020-07-17'
+    publication: '2020-09-01'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=25d83ec2-17d7-4e69-ba4d-6a76057ca3b4
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carolin Popp
+    organization: Leibniz University Hannover
+    email: popp@ipp.uni-hannover.de
+    positionname: researcher
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspxhttp://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

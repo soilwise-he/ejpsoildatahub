@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2e755407-6fab-4b3f-832d-fa76ea535ab0
+  hierarchylevel: service
+  datestamp: '2021-03-12'
+  language: eng
+identification:
+  title: 'WMS Service of the dataset ''V140 Kiel: Geographical reference and description
+    of trial plots'''
+  abstract: null
+  dates:
+    issued: '2020-03-06'
+    creation: '2020-03-06'
+    revision: '2019-11-14'
+    publication: '2022-03-06'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.14
+      - 53.11
+      - 10.77
+      - 54.96
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2e755407-6fab-4b3f-832d-fa76ea535ab0
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Steffen Rothardt
+    organization: CAU Kiel
+    email: rothardt@pflanzenbau.uni-kiel.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 531 596 2699

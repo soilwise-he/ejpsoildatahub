@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 618ba33a-5bd2-4612-bc59-6b53c0a4a749
+  hierarchylevel: dataset
+  datestamp: '2019-11-14'
+  language: eng
+identification:
+  title: Long term effect of liming and P fertilizer application on yield and P uptake
+    of spring wheat determined in 2015
+  abstract: null
+  dates:
+    issued: '2019-04-09'
+    creation: '2017-10-19'
+    revision: '2017-10-19'
+    publication: '2021-04-16'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.69
+      - 48.4
+      - 11.72
+      - 48.41
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=618ba33a-5bd2-4612-bc59-6b53c0a4a749
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dr. Sabine von Tucher
+    organization: "Technische Universit\xE4t M\xFCnchen"
+    email: tucher@wzw.tum.de
+    positionname: Research associate
+    phone: '+493814983132'
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Niedersachsen
+    postalcode: '85354'
+    country: Germany
+    url: http://www.thuenen.de
+    fax: +49 531 596 2699

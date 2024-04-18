@@ -1,0 +1,11 @@
+mcf:
+  version: 1.0
+metadata:
+  identifier: null
+identification:
+  title: Bonares
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup 
+    type: OGC:CSW

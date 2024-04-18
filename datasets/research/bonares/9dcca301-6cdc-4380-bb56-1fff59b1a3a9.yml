@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9dcca301-6cdc-4380-bb56-1fff59b1a3a9
+  hierarchylevel: service
+  datestamp: '2023-10-09'
+  language: eng
+identification:
+  title: 'WMS Service of the dataset ''Wind erosion after steppe conversion in Kazakhstan:
+    Data from mobile wind tunnel experiments'''
+  abstract: null
+  dates:
+    issued: '2023-09-22'
+    creation: '2023-09-22'
+    revision: '2023-09-22'
+    publication: '2023-09-22'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 75.35
+      - 53.5
+      - 75.5
+      - 53.55
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9dcca301-6cdc-4380-bb56-1fff59b1a3a9
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Moritz Koza
+    organization: Martin Luther University Halle-Wittenberg
+    email: moritz.koza@geo.uni-halle.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Von-Seckendorff-Platz 4
+    city: Halle (Saale)
+    administrativearea: Saxony-Anhalt
+    postalcode: D-016120
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

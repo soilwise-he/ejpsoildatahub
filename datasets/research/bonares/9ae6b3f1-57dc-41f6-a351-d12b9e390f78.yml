@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9ae6b3f1-57dc-41f6-a351-d12b9e390f78
+  hierarchylevel: service
+  datestamp: '2023-01-26'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Tree-Distance and Tree-Species Effects on
+    Soil Biota in a Temperate Agroforestry System'
+  abstract: null
+  dates:
+    issued: '2023-01-04'
+    creation: '2023-01-04'
+    revision: '2023-01-04'
+    publication: '2023-01-04'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 14.627
+      - 51.78
+      - 14.644
+      - 51.792
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9ae6b3f1-57dc-41f6-a351-d12b9e390f78
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lukas Beule
+    organization: "Julius K\xFChn Institute (JKI)\u2013Federal Research Centre for\
+      \ Cultivated Plants, Institute for Ecological Chemistry, Plant Analysis and\
+      \ Stored Product Protection, Berlin, Germany"
+    email: lukas.beule@julius-kuehn.de
+    positionname: Scientist
+    phone: 0049-551-3933513
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

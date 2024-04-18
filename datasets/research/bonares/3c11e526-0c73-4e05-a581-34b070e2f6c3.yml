@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3c11e526-0c73-4e05-a581-34b070e2f6c3
+  hierarchylevel: dataset
+  datestamp: '2023-03-31'
+  language: eng
+identification:
+  title: '2023 survey of agricultural science community needs: data use, data competency,
+    support.'
+  abstract: null
+  dates:
+    issued: '2023-03-23'
+    creation: '2023-03-23'
+    revision: '2023-03-23'
+    publication: '2023-03-23'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3c11e526-0c73-4e05-a581-34b070e2f6c3
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nikolai Svoboda
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: svoboda@zalf.de
+    positionname: Researcher
+    phone: +49 (0) 6155 8421 13
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: Braunschweig
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '38104'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 54ecbb64-7cc4-46d2-957d-d37e957daf98
+  hierarchylevel: dataset
+  datestamp: '2020-05-15'
+  language: eng
+identification:
+  title: Soil phosphorus contents in a loamy soil based on the distribution of flux
+    fields
+  abstract: null
+  dates:
+    issued: '2020-02-20'
+    creation: '2020-02-20'
+    revision: '2020-02-20'
+    publication: '2021-01-01'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.52
+      - 52.25
+      - 14.08
+      - 54.83
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=54ecbb64-7cc4-46d2-957d-d37e957daf98
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Stefan Koch
+    organization: "Universit\xE4t Rostock"
+    email: stefan.koch4@uni-rostock.de
+    positionname: Researcher
+    phone: '+493814983193'
+    address: Konrad-Wachsmann-Allee 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18057'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: 0049 511 762 3608

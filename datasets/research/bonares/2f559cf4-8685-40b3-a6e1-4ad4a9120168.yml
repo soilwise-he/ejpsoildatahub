@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2f559cf4-8685-40b3-a6e1-4ad4a9120168
+  hierarchylevel: dataset
+  datestamp: '2023-03-28'
+  language: eng
+identification:
+  title: 'Lysimeter data Rostock: Redox potential, pH and element concentrations of
+    pore water in 2021'
+  abstract: null
+  dates:
+    issued: '2022-04-28'
+    creation: '2022-04-28'
+    revision: '2022-04-28'
+    publication: '2022-04-28'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2f559cf4-8685-40b3-a6e1-4ad4a9120168
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: 'University of Rostock; present organization: University of Vechta'
+    email: 'karen.baumann@uni-rostock.de; present Email: karen.baumann@uni-vechta.de'
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

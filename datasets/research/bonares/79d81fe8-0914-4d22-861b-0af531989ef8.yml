@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 79d81fe8-0914-4d22-861b-0af531989ef8
+  hierarchylevel: dataset
+  datestamp: '2019-07-26'
+  language: eng
+identification:
+  title: Giessen long-term field experiment 'biological nitrogen fixation' - soil
+    coarse fraction
+  abstract: null
+  dates:
+    issued: '2017-10-19'
+    creation: '2017-10-19'
+    revision: '2017-12-06'
+    publication: '2019-10-17'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 8.66
+      - 50.56
+      - 8.72
+      - 50.61
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=79d81fe8-0914-4d22-861b-0af531989ef8
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8a0a521f-2188-48b3-b199-7b7447e2211c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Eleanor Hobley
+    organization: Technical University Munich
+    email: nellie.hobley@wzw.tum.de
+    positionname: Scientist
+    phone: +49 33432 82 382
+    address: Emil-Ramann-Str. 2
+    city: Freising
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: www.soil-science.com
+    fax: +49 33432 82 186

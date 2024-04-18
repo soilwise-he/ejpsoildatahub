@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 58d1aa0b-864a-4cf7-98dc-5915ba659aa8
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2019-04-29'
+  language: eng
+identification:
+  title: BonaRes foresight interviews 2017 - qualitative answers
+  abstract: null
+  dates:
+    issued: '2018-05-25'
+    creation: '2017-10-19'
+    revision: '2017-10-19'
+    publication: '2018-05-25'
+    submitted: '2019-02-15'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/bonares-3wwy-evt4
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anja-K. Techen
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: anja.techen@zalf.de
+    positionname: Scientist
+    phone: +49 (0)33432 82-189
+    address: Eberswalder Strasse 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 39482 5550

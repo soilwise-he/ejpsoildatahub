@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4b7b858b-13e7-4cd0-a405-be9a315c6bd4
+  hierarchylevel: service
+  datestamp: '2023-10-16'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Thyrow D1 irrigation trial - Mineral nutrient
+    contents'
+  abstract: null
+  dates:
+    issued: '2023-07-27'
+    creation: '2023-07-27'
+    revision: '2023-07-27'
+    publication: '2023-07-27'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 52.25313
+      - 52.252847
+      - 52.253043
+      - 52.253316
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5e9d23c5-ac45-4190-a49f-803c545f282c
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Anne E. Berns
+    organization: "Forschungszentrum J\xFClich GmbH"
+    email: a.berns@fz-juelich.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Eberswalder Str. 84
+    city: Muencheberg
+    administrativearea: Saxony-Anhalt
+    postalcode: '15374'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

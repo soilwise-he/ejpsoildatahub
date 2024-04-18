@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9875f0db-27c1-4681-8469-13f6a2f4fec0
+  hierarchylevel: dataset
+  datestamp: '2023-03-10'
+  language: eng
+identification:
+  title: Impact of biopores on P mobilization on arable land
+  abstract: null
+  dates:
+    issued: '2019-10-30'
+    creation: '2018-05-10'
+    revision: '2019-10-21'
+    publication: '2021-01-07'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.02
+      - 47.4
+      - 13.79
+      - 54.81
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9875f0db-27c1-4681-8469-13f6a2f4fec0
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nora Vitow
+    organization: University of Rostock
+    email: nora.vitow@uni-rostock.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: Liesel-Beckmann Str. 2
+    city: Rostock
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '18059'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

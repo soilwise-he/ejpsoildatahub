@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 10a50e27-d7e1-49fe-82d3-58a4b56f33ab
+  hierarchylevel: service
+  datestamp: '2022-09-15'
+  language: eng
+identification:
+  title: 'Map Service of the dataset ''Lysimeter data Rostock: amount of water, pH
+    and element concentrations of freely drained pore water (2020)'''
+  abstract: null
+  dates:
+    issued: '2022-04-08'
+    creation: '2022-04-08'
+    revision: '2022-04-08'
+    publication: '2022-04-19'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e3d870f9-2aad-470d-bafb-b587cb5e9c58
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: University of Rostock
+    email: karen.baumann@uni-rostock.de
+    positionname: Post-doc researcher
+    phone: 0049-551-3933513
+    address: Eberswalder Strasse 84
+    city: "L\xFCneburg"
+    administrativearea: Brandenburg
+    postalcode: '21335'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

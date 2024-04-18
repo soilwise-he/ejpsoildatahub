@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 540f1b97-ef14-4f0f-93f6-c2d94f31c94b
+  hierarchylevel: dataset
+  datestamp: '2023-07-27'
+  language: eng
+identification:
+  title: Soil pressure, deformation, and changes in soil physical parameters caused
+    by silage maize harvest chain in 2017
+  abstract: null
+  dates:
+    issued: '2023-07-19'
+    creation: '2023-07-19'
+    revision: '2023-07-19'
+    publication: '2023-07-19'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.51
+      - 51.37
+      - 11.97
+      - 53.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=540f1b97-ef14-4f0f-93f6-c2d94f31c94b
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lorenz, Marco
+    organization: "Th\xFCnen Institut of Agriculture"
+    email: marco.lorenz@thuenen.de
+    positionname: senior scientist
+    phone: +49-(0)228-73-2871
+    address: Katzenburgweg 5
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

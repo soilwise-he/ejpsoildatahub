@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 87f8fdd8-c6c9-4aa1-92ef-9f3aa5bd46a1
+  hierarchylevel: dataset
+  datestamp: '2021-04-13'
+  language: eng
+identification:
+  title: Gross rates of N mineralization and nitrification
+  abstract: null
+  dates:
+    issued: '2021-02-18'
+    creation: '2021-02-18'
+    revision: '2021-02-18'
+    publication: '2023-02-18'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.86
+      - 47.35
+      - 11.99
+      - 49.21
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=87f8fdd8-c6c9-4aa1-92ef-9f3aa5bd46a1
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Ralf Kiese
+    organization: KIT IMK-IFU
+    email: ralf.kiese@kit.edu
+    positionname: Group Leader
+    phone: +49 511 762 3668
+    address: Kreuzeckbahnstr. 19
+    city: Garmisch-Partenkirchen
+    administrativearea: Lower Saxony
+    postalcode: '82467'
+    country: Germany
+    url: www.ordiamur.de
+    fax: +49 511 762 3608

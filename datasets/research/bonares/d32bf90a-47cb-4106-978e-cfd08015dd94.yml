@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: d32bf90a-47cb-4106-978e-cfd08015dd94
+  hierarchylevel: dataset
+  datestamp: '2024-02-26'
+  language: eng
+identification:
+  title: Project Area - DAKIS
+  abstract: null
+  dates:
+    issued: '2024-02-05'
+    creation: '2024-02-05'
+    revision: '2024-02-05'
+    publication: '2024-02-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.124355
+      - 52.934822
+      - 13.129255
+      - 52.938352
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=d32bf90a-47cb-4106-978e-cfd08015dd94
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Ralf Bloch
+    organization: Eberswalde University for Sustainable Development
+    email: ralf.bloch@hnee.de
+    positionname: Assistance Breeder
+    phone: 49-5542981504
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

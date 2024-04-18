@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6d8feea3-fded-4e34-8116-433cfc499520
+  hierarchylevel: service
+  datestamp: '2021-04-22'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Apple Replant Disease Greenhouse Bio-Test Plant
+    Growth'
+  abstract: null
+  dates:
+    issued: '2020-01-07'
+    creation: '2020-01-07'
+    revision: '2020-01-07'
+    publication: '2020-02-01'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.95
+      - 47.42
+      - 11.87
+      - 54.92
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+      d5a54fad-8856-4726-9919-685a8f0c5c58
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ebd43194-21ea-4884-81e4-c38e9dd13c34
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Annmarie-Deetja Rohr
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: rohr@baum.uni-hannover.de
+    positionname: Scientist
+    phone: 0049 511 762 4017
+    address: Eberswalder Strasse 84
+    city: Hannover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: 0049 511 762 3608

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 12f2acf5-8eba-4a7e-b337-58c6a90661b7
+  hierarchylevel: service
+  datestamp: '2021-10-12'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Bee diversity in island-like habitats (kettle
+    holes) to assess connectivity in agricultural landscapes - Part 3 of data collection'
+  abstract: null
+  dates:
+    issued: '2021-05-20'
+    creation: '2021-05-20'
+    revision: '2021-05-20'
+    publication: '2021-09-19'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.528872
+      - 53.303302
+      - 13.758482
+      - 53.408547
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=12f2acf5-8eba-4a7e-b337-58c6a90661b7
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sissi Donna Lozada Gobilard
+    organization: University of Potsdam
+    email: sissi.lozada@gmail.com
+    positionname: PhD
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: dff283ae-c662-4c4d-b904-6ced2e027325
+  hierarchylevel: dataset
+  datestamp: '2023-04-18'
+  language: eng
+identification:
+  title: "Sugar beet time series experiment (V465) for collecting holistic data for\
+    \ modeling (1972, Bad Lauchst\xE4dt, Germany)"
+  abstract: null
+  dates:
+    issued: '2022-12-20'
+    creation: '2022-12-20'
+    revision: '2022-12-20'
+    publication: '2022-12-20'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.875425
+      - 51.393015
+      - 11.875425
+      - 51.393015
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=d36ad69a-42ed-42b8-be24-5492802fa876
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Wilfried Mirschel
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF e.V.)
+    email: wmirschel@gmx.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

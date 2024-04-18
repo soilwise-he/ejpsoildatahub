@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e6a6deab-d634-4b1c-a84d-0090c485341f
+  hierarchylevel: dataset
+  datestamp: '2023-02-28'
+  language: eng
+identification:
+  title: 3D soil parameter space of the agricultural landscape [Germany, Version 1]
+    (Part 3 of data collection, table MSPD_part2)
+  abstract: null
+  dates:
+    issued: '2022-07-18'
+    creation: '2022-07-18'
+    revision: '2022-07-18'
+    publication: '2022-08-09'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 40.31
+      - 26.841
+      - 46.725
+      - 35.514
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=175f7d25-ca2e-4166-b569-03789a3658c6
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9c3c372c-27f4-4a52-ae45-ce4d4bf54a18
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Mareike Lie\xDF"
+    organization: Helmholtz Centre for Environmental Research - UFZ
+    email: mareike.liess@ufz.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 5117623671
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Lower Saxony
+    postalcode: '85354'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

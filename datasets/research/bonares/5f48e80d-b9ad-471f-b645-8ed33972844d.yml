@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5f48e80d-b9ad-471f-b645-8ed33972844d
+  hierarchylevel: dataset
+  datestamp: '2021-01-21'
+  language: eng
+identification:
+  title: "Grinderwald / R\xFCdershausen / Eberg\xF6tzen - Batch sorption and desorption\
+    \ experiments"
+  abstract: null
+  dates:
+    issued: '2020-11-09'
+    creation: '2020-11-09'
+    revision: '2020-11-09'
+    publication: '2020-11-13'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.5
+      - 49.81
+      - 11.46
+      - 53.25
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5f48e80d-b9ad-471f-b645-8ed33972844d
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9c3c372c-27f4-4a52-ae45-ce4d4bf54a18
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Patrick Liebmann
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: liebmann@ifbk.uni-hannover.de
+    positionname: Group Leader
+    phone: +49 5117623671
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hannover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

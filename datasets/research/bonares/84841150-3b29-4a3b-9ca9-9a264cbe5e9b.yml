@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 84841150-3b29-4a3b-9ca9-9a264cbe5e9b
+  hierarchylevel: service
+  datestamp: '2019-03-04'
+  language: eng
+identification:
+  title: AGIS Map Service of dataset "Ownership OSM Zalf."
+  abstract: null
+  dates:
+    issued: '2017-08-01'
+    creation: '2017-08-01'
+    revision: '2017-08-24'
+    publication: '2017-08-22'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-08-03'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.89
+      - 52.29
+      - 14.33
+      - 52.7
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: license
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b547b60d-be89-46a3-a06d-fa28563a1235
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dietmar Barkusky
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: dbarkusky@zalf.de
+    positionname: Research Assistant
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: +49 33432 82 186

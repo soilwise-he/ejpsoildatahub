@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 1c76b8d1-7349-4649-8d73-c528b6c4b55c
+  hierarchylevel: dataset
+  datestamp: '2020-12-01'
+  language: ger
+identification:
+  title: Long-term field experiment V140 Muencheberg - Plot information
+  abstract: null
+  dates:
+    issued: '2017-10-27'
+    creation: '2017-10-27'
+    revision: '2017-10-27'
+    publication: '3000-01-01'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.11
+      - 52.51
+      - 14.13
+      - 52.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: restricted
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://ltfe-map.bonares.de/
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1c76b8d1-7349-4649-8d73-c528b6c4b55c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: BonaRes Data Centre
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: bonares-datenzentrum@zalf.de
+    positionname: Agricultural Landscape Data Centre
+    phone: +49 33432 82 171
+    address: Eberswalder Strasse 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 4082

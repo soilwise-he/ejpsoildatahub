@@ -1,0 +1,61 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b6422832-b87a-4fda-b6c9-33779d017ff5
+  hierarchylevel: service
+  datestamp: '2024-01-23'
+  language: eng
+identification:
+  title: 'Web Map Service of the dataset ''Soil gross N2O emission and uptake under
+    two contrasting agroforestry systems: riparian tree buffer vs. alley-cropping
+    tree row'''
+  abstract: null
+  dates:
+    issued: '2024-01-05'
+    creation: '2024-01-05'
+    revision: '2024-01-05'
+    publication: '2024-01-05'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.42
+      - 50.13
+      - 12.68
+      - 52.37
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=6dfa9233-6395-4751-8a36-ba39a4b3652d
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Jie Luo
+    organization: Soil Science of Tropical and Subtropical Ecosystems, Faculty of
+      Forest Sciences and Forest Ecology, University of Goettingen, Buesgenweg 2,
+      37077 Goettingen, Germany
+    email: jluo@ibcas.ac.cn
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

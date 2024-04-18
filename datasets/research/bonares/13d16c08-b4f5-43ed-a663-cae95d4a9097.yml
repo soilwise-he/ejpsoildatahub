@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 13d16c08-b4f5-43ed-a663-cae95d4a9097
+  hierarchylevel: dataset
+  datestamp: '2020-10-07'
+  language: eng
+identification:
+  title: Amplicon sequencing data of 16S, ITS and cox2 at site S
+  abstract: null
+  dates:
+    issued: '2020-07-02'
+    creation: '2020-07-02'
+    revision: '2020-07-02'
+    publication: '2020-07-09'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.16
+      - 51.25
+      - 12.55
+      - 54.2
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=13d16c08-b4f5-43ed-a663-cae95d4a9097
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f6e046f9-ae10-4814-8df6-ab7865eb1246
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bunlong Yim
+    organization: "Julius-K\xFChn Institut"
+    email: bunlong.yim@julius-kuehn.de
+    positionname: PostDoc
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Braunschweig
+    administrativearea: Brandenburg
+    postalcode: '38104'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

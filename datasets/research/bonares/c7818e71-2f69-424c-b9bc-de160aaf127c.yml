@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: c7818e71-2f69-424c-b9bc-de160aaf127c
+  hierarchylevel: dataset
+  datestamp: '2022-06-13'
+  language: eng
+identification:
+  title: Determination of spider mite abundance in soil of field-grown cucumbers and
+    in plants under predatory mite pressure in invasive infestations using HRM real-time
+    PCR assay (Part 1 of data collection, table KERSTEN_ET_AL_DATA_FIG4)
+  abstract: null
+  dates:
+    issued: '2022-05-12'
+    creation: '2022-05-12'
+    revision: '2022-05-12'
+    publication: '2022-06-09'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.380029
+      - 51.837715
+      - 13.816471
+      - 52.107337
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c7818e71-2f69-424c-b9bc-de160aaf127c
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anne-Katrin Kersten
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: anne-katrin.kersten@zalf.de
+    positionname: Department of Agronomy
+    phone: +49 331 977 1939
+    address: Maulbeerallee 1
+    city: Potsdam
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '14469'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

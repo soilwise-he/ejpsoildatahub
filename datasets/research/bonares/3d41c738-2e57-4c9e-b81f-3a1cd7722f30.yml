@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3d41c738-2e57-4c9e-b81f-3a1cd7722f30
+  hierarchylevel: dataset
+  datestamp: '2022-02-18'
+  language: eng
+identification:
+  title: 'BIBS-dataset: Biodiversity maintains soil multifunctionality and soil organic
+    carbon in novel urban ecosystems'
+  abstract: null
+  dates:
+    issued: '2022-01-27'
+    creation: '2022-01-27'
+    revision: '2022-01-27'
+    publication: '2022-02-16'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.04
+      - 52.3
+      - 13.65
+      - 52.71
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3d41c738-2e57-4c9e-b81f-3a1cd7722f30
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Conrad Schittko
+    organization: "Leibniz-Institut f\xFCr Gew\xE4sser\xF6kologie und Binnenfischerei"
+    email: Conrad.Schittko@igb-berlin.de
+    positionname: Research associate
+    phone: +49-(0)228-73-2871
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Brandenburg
+    postalcode: '38116'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

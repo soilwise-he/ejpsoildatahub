@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e9e5c4f6-cd43-4b91-9504-33e4850b2e37
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: "WMS Service of the dataset 'Field experiment FV 4 Braunschweig \u2013 harvest\
+    \ of winter barley 2014'"
+  abstract: null
+  dates:
+    issued: '2019-11-14'
+    creation: '2019-11-14'
+    revision: '2020-03-31'
+    publication: '2020-09-17'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.08
+      - 51.14
+      - 11.62
+      - 53.35
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e9e5c4f6-cd43-4b91-9504-33e4850b2e37
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9c3c372c-27f4-4a52-ae45-ce4d4bf54a18
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Panten, Kerstin
+    organization: "Julius K\xFChn-Institut, Institut f\xFCr Pflanzenbau und Bodenkunde"
+    email: kerstin.panten@julius-kuehn.de
+    positionname: Research Scientist
+    phone: 00 49 (0) 531 5962111
+    address: Bundesallee 69
+    city: Braunschweig
+    administrativearea: Lower Saxony
+    postalcode: '38116'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 28e0bb46-5212-48e9-ba63-00c8b4cffb94
+  hierarchylevel: service
+  datestamp: '2023-01-20'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Long-term crop yields, cultivation areas and
+    total arable land in Germany at NUTS 3 level'
+  abstract: null
+  dates:
+    issued: '2022-06-24'
+    creation: '2022-06-24'
+    revision: '2022-06-24'
+    publication: '2022-07-04'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.866316
+      - 47.270127
+      - 15.041832
+      - 55.058384
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=28e0bb46-5212-48e9-ba63-00c8b4cffb94
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Michael Sommer
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: sommer@zalf.de
+    positionname: Research associate
+    phone: +49-381 3132
+    address: Justus-von-Liebig-Weg 6
+    city: "L\xFCneburg"
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18059'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 381 498 3122

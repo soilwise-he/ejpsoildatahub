@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 666fc714-410e-4e04-ba7c-d33a4e3ef2c2
+  hierarchylevel: dataset
+  datestamp: '2023-09-12'
+  language: eng
+identification:
+  title: Soil data from I4S Marquardt experiment 2017-2021
+  abstract: null
+  dates:
+    issued: '2023-08-22'
+    creation: '2023-08-22'
+    revision: '2023-08-22'
+    publication: '2023-08-22'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.956
+      - 52.4664
+      - 12.9573
+      - 52.4675
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=666fc714-410e-4e04-ba7c-d33a4e3ef2c2
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Pablo Rosso
+    organization: ZALF
+    email: pablo.rosso@zalf.de
+    positionname: Research Assistant
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

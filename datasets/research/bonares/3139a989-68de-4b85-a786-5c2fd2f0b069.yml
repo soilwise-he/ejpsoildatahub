@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3139a989-68de-4b85-a786-5c2fd2f0b069
+  hierarchylevel: dataset
+  datestamp: '2021-04-13'
+  language: eng
+identification:
+  title: 13C labeling experiment catch crops
+  abstract: null
+  dates:
+    issued: '2020-07-03'
+    creation: '2020-07-03'
+    revision: '2020-07-03'
+    publication: '2020-09-03'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.02
+      - 52.76
+      - 9.02
+      - 52.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3139a989-68de-4b85-a786-5c2fd2f0b069
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Norman Gentsch
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: gentsch@ifbk.uni-hannover.de
+    positionname: Researcher
+    phone: +49 8821 183 153
+    address: Emil-Ramann-Str. 2
+    city: Hannover
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: www.soil-science.com
+    fax: +49 381 498 3122

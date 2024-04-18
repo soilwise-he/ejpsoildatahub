@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 77767bc2-90cf-46e3-8629-906d06297aea
+  hierarchylevel: dataset
+  datestamp: '2023-08-29'
+  language: eng
+identification:
+  title: Dynamics of greenhouse gas emissions and nutrient status in the period after
+    harvest
+  abstract: null
+  dates:
+    issued: '2020-01-28'
+    creation: '2020-01-28'
+    revision: '2020-01-28'
+    publication: '2022-01-28'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=77767bc2-90cf-46e3-8629-906d06297aea
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Nicolas Br\xFCggemann"
+    organization: "Forschungszentrum J\xFClich GmbH"
+    email: n.brueggemann@fz-juelich.de
+    positionname: Professor
+    phone: +49 2461/61-8643
+    address: 'Institute of Bio- and Geosciences IBG-3: Agrosphere'
+    city: "J\xFClich"
+    administrativearea: North Rhine-Westphalia
+    postalcode: '52428'
+    country: Germany
+    url: https://www.fz-juelich.de/ibg/ibg-3/DE/Home/home_node.html
+    fax: +49 33432 82 186

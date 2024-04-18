@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 88b52473-2499-4cf6-84e4-bebb8f3c4264
+  hierarchylevel: dataset
+  datestamp: '2023-12-11'
+  language: eng
+identification:
+  title: "Crop rotation experiment \u201CV145\u201D at Kiel University\xB4s experiment\
+    \ station - Multispectral data"
+  abstract: null
+  dates:
+    issued: '2023-11-30'
+    creation: '2023-11-30'
+    revision: '2023-11-30'
+    publication: '2025-11-30'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.988807
+      - 54.315041
+      - 9.991565
+      - 54.317419
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2606626e-3a0a-440d-8dc0-b0ea66623gmd:9eb
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nora Honsdorf
+    organization: Kiel University
+    email: honsdorf@pflanzenbau.uni-kiel.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

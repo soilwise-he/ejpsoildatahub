@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e2619fbc-87ab-4ea9-a952-54f855170558
+  hierarchylevel: dataset
+  datestamp: '2023-09-01'
+  language: eng
+identification:
+  title: Soil organic carbon content at Maize BBCH33
+  abstract: null
+  dates:
+    issued: '2023-06-08'
+    creation: '2023-06-08'
+    revision: '2023-06-08'
+    publication: '2023-06-08'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.09
+      - 53.31
+      - 11.26
+      - 54.72
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e2619fbc-87ab-4ea9-a952-54f855170558
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Zimmermann, Iris
+    organization: "Institute for plant nutrition and soil science, Christian-Albrechts-Universit\xE4\
+      t zu Kiel"
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: Research Assistant
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

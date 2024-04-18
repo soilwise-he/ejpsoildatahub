@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6d2481a6-8e4f-4076-b9ad-ea80ed490832
+  hierarchylevel: service
+  datestamp: '2023-01-11'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Acquisition of soil scientific measurement data
+    as a basis for a later comparison between organic and conventional land management.'
+  abstract: null
+  dates:
+    issued: '2022-11-15'
+    creation: '2022-11-15'
+    revision: '2022-11-15'
+    publication: '2022-12-06'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.636998
+      - 51.451015
+      - 7.650368
+      - 51.457413
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=6d2481a6-8e4f-4076-b9ad-ea80ed490832
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0374373d-7928-4422-b012-264eae21e75e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sybille Kurz
+    organization: "Rheinische Friedrich-Wilhelms-Universit\xE4t Bonn"
+    email: sybille_kurz@t-online.de
+    positionname: Group Leader
+    phone: +49 8821 183 153
+    address: Nussallee 13
+    city: Garmisch-Partenkirchen
+    administrativearea: North-Rhine Westphalia
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 511 762 3608

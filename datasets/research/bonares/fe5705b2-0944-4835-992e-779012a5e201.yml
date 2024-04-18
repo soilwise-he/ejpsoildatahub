@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fe5705b2-0944-4835-992e-779012a5e201
+  hierarchylevel: dataset
+  datestamp: '2023-09-27'
+  language: eng
+identification:
+  title: Influence of crop rotational position on soil structure under and rooting
+    of winter wheat
+  abstract: null
+  dates:
+    issued: '2023-06-16'
+    creation: '2023-06-16'
+    revision: '2023-06-16'
+    publication: '2023-06-16'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.05
+      - 50.46
+      - 11.57
+      - 52.61
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dr. Heinz-Josef Koch
+    organization: "Institut f\xFCr Zuckerr\xFCbenforschung, Pflanzenbau, An-Institut\
+      \ Universit\xE4t G\xF6ttingen"
+    email: koch@ifz-goettingen.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

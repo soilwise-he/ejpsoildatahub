@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4ec4bbca-7096-4659-803b-dad26fcb8ecf
+  hierarchylevel: service
+  datestamp: '2023-03-08'
+  language: eng
+identification:
+  title: WMS of the dataset 'Hydro-Geo database management system'
+  abstract: null
+  dates:
+    issued: '2022-03-07'
+    creation: '2022-03-07'
+    revision: '2022-03-07'
+    publication: '2022-03-31'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 33.94
+      - 6.87
+      - 44.32
+      - 13.12
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=\t\
+      4ec4bbca-7096-4659-803b-dad26fcb8ecf"
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Abraham Tula
+    organization: ZALF
+    email: abraham.tula@zalf.de
+    positionname: Scientist
+    phone: +49 3343282 4086
+    address: Eberswalder Str. 84
+    city: '14469'
+    administrativearea: Brandenburg
+    postalcode: Potsdam
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

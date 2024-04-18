@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4ece5f43-57b8-4c69-be1a-9aa58365c5a4
+  hierarchylevel: dataset
+  datestamp: '2023-09-14'
+  language: eng
+identification:
+  title: Tree species composition of a landscape in north-eastern Germany in 1780,
+    1890 and 2010 - Schmettau tree composition
+  abstract: null
+  dates:
+    issued: '2023-09-01'
+    creation: '2023-09-01'
+    revision: '2023-09-01'
+    publication: '2023-09-01'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.121263
+      - 52.816628
+      - 14.375374
+      - 53.610697
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=4ece5f43-57b8-4c69-be1a-9aa58365c5a4
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Monika Wulf
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: wulf@zalf.de
+    positionname: Research Assistant
+    phone: 017682141670
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Stuttgart
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: '70599'
+    country: Deutschland
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 97dda154-93d3-4685-beff-9124e7346d68
+  hierarchylevel: dataset
+  datestamp: '2024-03-20'
+  language: eng
+identification:
+  title: Abundance of different microorganism groups in soil and roots in a field
+    trial on starter fertilization and application of plant growth-promoting microorganisms
+  abstract: null
+  dates:
+    issued: '2024-03-04'
+    creation: '2024-03-04'
+    revision: '2024-03-04'
+    publication: '2024-03-04'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.763083
+      - 53.732389
+      - 12.082694
+      - 54.060599
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=97dda154-93d3-4685-beff-9124e7346d68
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lena Geist
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: Lena.Geist@zalf.de
+    positionname: senior scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

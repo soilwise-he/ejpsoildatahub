@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3e5ac979-3675-4652-818e-67b6f42f2c67
+  hierarchylevel: dataset
+  datestamp: '2024-02-26'
+  language: eng
+identification:
+  title: Phytopathogens and nifH genes for SIGNAL synthesis
+  abstract: null
+  dates:
+    issued: '2020-12-21'
+    creation: '2020-12-21'
+    revision: '2020-12-21'
+    publication: '2022-12-21'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3e5ac979-3675-4652-818e-67b6f42f2c67
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lukas Beule
+    organization: University of Goettingen
+    email: lukas.beule@agr.uni-goettingen.de
+    positionname: Assistance Breeder
+    phone: 0049 4253 931114
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

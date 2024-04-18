@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: dcc61b52-3767-4d29-bcf0-26c5cec0afd0
+  hierarchylevel: dataset
+  datestamp: '2023-01-09'
+  language: eng
+identification:
+  title: Acquisition of soil scientific measurement data as a basis for a later comparison
+    between organic and conventional land management
+  abstract: null
+  dates:
+    issued: '2022-11-15'
+    creation: '2022-11-15'
+    revision: '2022-11-15'
+    publication: '2022-11-25'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.56
+      - 51.39
+      - 7.74
+      - 51.53
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=dcc61b52-3767-4d29-bcf0-26c5cec0afd0
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Sybille Kurz
+    organization: "Rheinische Friedrich-Wilhelms-Universit\xE4t Bonn"
+    email: sybille_kurz@t-online.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: Eberswalder Strasse 84
+    city: Rostock
+    administrativearea: Brandenburg
+    postalcode: '18059'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 186

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5cc34bf0-657a-49c7-8198-57ad9ad8341f
+  hierarchylevel: dataset
+  datestamp: '2019-07-26'
+  language: eng
+identification:
+  title: Giessen long-term field experiment 'biological nitrogen fixation' - treatment
+    plots
+  abstract: null
+  dates:
+    issued: '2017-10-19'
+    creation: '2017-10-19'
+    revision: '2018-07-03'
+    publication: '2019-10-19'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.55
+      - 50.46
+      - 8.89
+      - 50.75
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=5cc34bf0-657a-49c7-8198-57ad9ad8341f
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0374373d-7928-4422-b012-264eae21e75e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bernd Honermeier
+    organization: Justus von Liebig University, Giessen
+    email: Bernd.Honermeier@agrar.uni-giessen.de
+    positionname: Professor
+    phone: +49 5117623671
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hannover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 511 762 3608

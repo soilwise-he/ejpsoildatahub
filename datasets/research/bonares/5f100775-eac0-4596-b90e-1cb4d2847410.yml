@@ -1,0 +1,47 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5f100775-eac0-4596-b90e-1cb4d2847410
+  hierarchylevel: dataset
+  datestamp: '2024-04-15'
+  language: eng
+identification:
+  title: "How does the root architecture of wheat influence the microbial community\
+    \ and activity in soil?  - \u03B2-Glucosidase gradient from the root center towards\
+    \ the surrounding soil."
+  abstract: null
+  dates:
+    issued: '2023-06-01'
+    creation: '2023-06-01'
+    revision: '2023-06-01'
+    publication: '2023-06-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5f100775-eac0-4596-b90e-1cb4d2847410
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Christian Poll
+    organization: University of Hohenheim
+    email: christian.poll@uni-hohenheim.de

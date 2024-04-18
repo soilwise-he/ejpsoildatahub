@@ -1,0 +1,55 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2a68dcc2-8606-494a-a13d-3e1d0af2f7eb
+  hierarchylevel: dataset
+  datestamp: '2024-02-22'
+  language: eng
+identification:
+  title: Meteorological data, soil temperature and soil water content for Dornburg
+    Agroforestry from 2016 to 2017
+  abstract: null
+  dates:
+    issued: '2018-09-17'
+    creation: '2018-09-17'
+    revision: '2018-09-17'
+    publication: '2019-01-01'
+  topiccategory:
+  - climatologyMeteorologyAtmosphere
+  extents:
+    spatial:
+    - bbox:
+      - 10.79
+      - 49.98
+      - 12.6
+      - 51.71
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=2a68dcc2-8606-494a-a13d-3e1d0af2f7eb
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Christian Markwitz
+    organization: "University of G\xF6ttingen, Bioclimatology"
+    email: christian.markwitz@forst.uni-goettingen.de
+    positionname: PhD Student
+    phone: +49 551 20597
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

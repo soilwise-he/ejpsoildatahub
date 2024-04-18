@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 85da12cd-741f-4f55-afd0-ece89f4f6db9
+  hierarchylevel: service
+  datestamp: '2023-10-11'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Soil values from the                            agricultural
+    soil valuation for Brandenburg'
+  abstract: null
+  dates:
+    issued: '2020-09-03'
+    creation: '2020-07-20'
+    revision: '2020-09-03'
+    publication: '2020-09-17'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.26
+      - 51.35
+      - 14.76
+      - 53.55
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=85da12cd-741f-4f55-afd0-ece89f4f6db9
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Tillman                    Schmitz
+    organization: "Leibniz-Institut                    f\xFCr Agrarentwicklung in\
+      \ Transformations\xF6konomien (IAMO)"
+    email: tillman.schmitz.1@geo.hu-berlin.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Max-Eyth-Allee 100
+    city: Halle
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

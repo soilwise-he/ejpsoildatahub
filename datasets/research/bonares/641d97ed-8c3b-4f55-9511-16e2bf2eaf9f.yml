@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 641d97ed-8c3b-4f55-9511-16e2bf2eaf9f
+  hierarchylevel: dataset
+  datestamp: '2023-11-23'
+  language: eng
+identification:
+  title: Production of wheat and barley under reduced input in organic farming
+  abstract: null
+  dates:
+    issued: '2023-11-07'
+    creation: '2023-11-07'
+    revision: '2023-11-07'
+    publication: '2025-02-23'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 6.28
+      - 47.74
+      - 12.9
+      - 51.99
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=641d97ed-8c3b-4f55-9511-16e2bf2eaf9f
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Santiago Quiroga
+    organization: Justus-Liebig University Giessen
+    email: Santiago.Quiroga@umwelt.uni-giessen.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Eberswalder Str. 84
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

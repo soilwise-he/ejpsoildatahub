@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 1770c71c-b36f-404d-b336-8b96476cfec6
+  hierarchylevel: dataset
+  datestamp: '2023-04-17'
+  language: eng
+identification:
+  title: 'Lysimeter data Rostock: characteristics of maize plants grown with and without
+    underfoot fertilization in 2021'
+  abstract: null
+  dates:
+    issued: '2022-04-28'
+    creation: '2022-04-28'
+    revision: '2022-04-28'
+    publication: '2022-04-28'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.22
+      - 53.99
+      - 12.28
+      - 54.02
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1770c71c-b36f-404d-b336-8b96476cfec6
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8da97a96-6f5c-4780-8641-53e810393408
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Baumann, Karen
+    organization: 'University of Rostock; present organization: University of Vechta'
+    email: 'karen.baumann@uni-rostock.de; present email: karen.baumann@uni-vechta.de'
+    positionname: Scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

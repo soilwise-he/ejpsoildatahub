@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 217290dd-a23f-4734-96d5-71b878a2fca8
+  hierarchylevel: dataset
+  datestamp: '2020-02-03'
+  language: eng
+identification:
+  title: Locations of the BonaRes project SUSALPS
+  abstract: null
+  dates:
+    issued: '2020-01-20'
+    creation: '2020-01-20'
+    revision: '2020-01-20'
+    publication: '2020-01-22'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.86
+      - 47.35
+      - 11.99
+      - 49.21
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=217290dd-a23f-4734-96d5-71b878a2fca8
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8a0a521f-2188-48b3-b199-7b7447e2211c
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Svoboda
+    organization: Leibniz Centre for Agricultural Landscape Research ZALF
+    email: svoboda@zalf.de
+    positionname: Data Scientist
+    phone: +49 33432 82 382
+    address: Eberswalder Strasse                                    84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Svoboda_N.aspx
+    fax: +49 33432 82 186

@@ -1,0 +1,56 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 67140bd9-2b2c-4ad8-812b-912548a4eac0
+  hierarchylevel: dataset
+  datestamp: '2024-02-29'
+  language: eng
+identification:
+  title: Cover crops improve soil structure and change OC distribution in aggregate
+    fractions - CATCHY aggregate stability 2020
+  abstract: null
+  dates:
+    issued: '2024-01-16'
+    creation: '2024-01-16'
+    revision: '2024-01-16'
+    publication: '2024-01-16'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=67140bd9-2b2c-4ad8-812b-912548a4egmd:ac0
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Norman Gentsch
+    organization: Leibniz University Hannover, Institute of Earth System Sciences,
+      Section Soil Science
+    email: gentsch@ifbk.uni-hannover.de
+    positionname: Assistance Breeder
+    phone: 0049 4253 931114
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: www.dsv-saaten.de
+    fax: 0049 4253 931120

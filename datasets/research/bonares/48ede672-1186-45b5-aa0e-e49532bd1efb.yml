@@ -1,0 +1,69 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 48ede672-1186-45b5-aa0e-e49532bd1efb
+  hierarchylevel: dataset
+  datestamp: '2023-07-31'
+  language: eng
+identification:
+  title: "Maize and cover crop biomass development, soil mineral N and water contents\
+    \ at Hohenschulen field site in the first and second trial year of Rhizo4Bio \u2013\
+    \ RootWayS project. - Fresh matter development of cover crops during the second\
+    \ trial (2021/2022)"
+  abstract: null
+  dates:
+    issued: '2023-07-12'
+    creation: '2023-07-12'
+    revision: '2023-07-12'
+    publication: '2023-07-31'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.995111
+      - 54.311173
+      - 9.996946
+      - 54.312613
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3d56b0bd-65b0-4afe-808b-f591cd340gmd:f04
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Prof. Dr. Daguang Cai
+    organization: "Institute for plant nutrition and soil science, Christian-Albrechts-Universit\xE4\
+      t zu Kiel"
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

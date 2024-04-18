@@ -1,0 +1,61 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 05a32236-0e4e-4d5e-a087-086418f659fc
+  hierarchylevel: dataset
+  datestamp: '2023-08-24'
+  language: eng
+identification:
+  title: 'BIBS Dataset: Plant functional traits of six grassland species along an
+    urbanization gradient in Berlin, Germany - seed traits'
+  abstract: null
+  dates:
+    issued: '2023-08-18'
+    creation: '2023-08-18'
+    revision: '2023-08-18'
+    publication: '2023-08-18'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.18328
+      - 52.40597
+      - 13.61681
+      - 52.58678
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=53d4f211-9826-40f4-9d0d-8947d92887ce
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Jonathan M. Jeschke
+    organization: "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB),\
+      \ Berlin, Germany; Freie Universit\xE4t Berlin, Institute of Biology, Berlin,\
+      \ Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB),\
+      \ Berlin, Germany"
+    email: jonathan.jeschke@fu-berlin.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

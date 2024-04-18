@@ -1,0 +1,56 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4814a13a-92ad-469e-8051-88b8c57328e7
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2024-02-19'
+  language: ger
+identification:
+  title: Plant availability of recycled P -fertilizers - pot experiment
+  abstract: null
+  dates:
+    issued: '2017-08-03'
+    creation: '2017-08-03'
+    revision: '2017-10-05'
+    publication: '2019-08-03'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.42
+      - 52.17
+      - 10.67
+      - 52.33
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=4814a13a-92ad-469e-8051-88b8c57328e7
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Panten, Kerstin
+    organization: "Julius K\xFChn-Institut, Institut f\xFCr Pflanzenbau und Bodenkunde"
+    email: kerstin.panten@julius-kuehn.de
+    positionname: Research Scientist
+    phone: 00 49 (0) 531 5962111
+    address: Bundesallee 69
+    city: Braunschweig
+    administrativearea: Niedersachsen
+    postalcode: '38116'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 53d4f211-9826-40f4-9d0d-8947d92887ce
+  hierarchylevel: dataset
+  datestamp: '2023-08-24'
+  language: eng
+identification:
+  title: 'BIBS Dataset: Plant functional traits of six grassland species along an
+    urbanization gradient in Berlin, Germany'
+  abstract: null
+  dates:
+    issued: '2023-08-18'
+    creation: '2023-08-18'
+    revision: '2023-08-18'
+    publication: '2023-08-18'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.18328
+      - 52.40597
+      - 13.61681
+      - 52.58678
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=53d4f211-9826-40f4-9d0d-8947d92887ce
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Jonathan M. Jeschke
+    organization: "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB),\
+      \ Berlin, Germany; Freie Universit\xE4t Berlin, Institute of Biology, Berlin,\
+      \ Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB),\
+      \ Berlin, Germany"
+    email: jonathan.jeschke@fu-berlin.de
+    positionname: Professor
+    phone: +49 2461/61-8643
+    address: 'Institute of Bio- and Geosciences IBG-3: Agrosphere'
+    city: "J\xFClich"
+    administrativearea: North Rhine-Westphalia
+    postalcode: '52428'
+    country: Germany
+    url: https://www.fz-juelich.de/ibg/ibg-3/DE/Home/home_node.html
+    fax: +49 33432 82 186

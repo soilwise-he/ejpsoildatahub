@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2e1eeba3-97f8-43c1-8d20-ba4870a236f4
+  hierarchylevel: dataset
+  datestamp: '2024-03-20'
+  language: eng
+identification:
+  title: Effect of N fertilizers on yield, N-uptake, and N-utilization in wheat, barley,
+    potatoes, and maize. - Plant sampling
+  abstract: null
+  dates:
+    issued: '2021-06-01'
+    creation: '2021-06-01'
+    revision: '2021-06-01'
+    publication: '2023-12-18'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.56
+      - 48.25
+      - 11.95
+      - 48.54
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7e526e38-4bf1-492b-b903-d8dbcfd36gmd:b6d
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8f23ee30-8f84-481a-9a47-9eb6c65af3c4
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Kurt Heil
+    organization: Technical University Munich, Chair Plant Nutrition
+    email: kheil@tum.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

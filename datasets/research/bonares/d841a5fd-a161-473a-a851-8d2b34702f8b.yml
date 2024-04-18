@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: d841a5fd-a161-473a-a851-8d2b34702f8b
+  hierarchylevel: dataset
+  datestamp: '2023-11-21'
+  language: eng
+identification:
+  title: Growth parameters, nutrient status and colonization density of beneficial
+    microbes in winter rye grown organically and conventionally - Plant traits
+  abstract: null
+  dates:
+    issued: '2023-10-18'
+    creation: '2023-10-18'
+    revision: '2023-10-18'
+    publication: '2023-10-18'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 52.259349
+      - 52.259072
+      - 52.259183
+      - 52.259468
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=d841a5fd-a161-473a-a851-8d2b34702f8b
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bernd Honermeier
+    organization: "IGZ Gro\xDFbeeren"
+    email: behr@igzev.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Niedersachsen
+    postalcode: D-35392
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

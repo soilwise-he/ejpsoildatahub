@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bfd7a9b9-c317-4a50-ad0e-881e9d241e31
+  hierarchylevel: dataset
+  datestamp: '2024-03-11'
+  language: eng
+identification:
+  title: Dataset of Nitrogen Fixation Related Traits of Cowpeas in Low Phosphorus
+    Soils of Cameroon.
+  abstract: null
+  dates:
+    issued: '2022-07-05'
+    creation: '2022-03-16'
+    revision: '2022-07-05'
+    publication: '2022-07-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.99
+      - 3.68
+      - 12.03
+      - 4.38
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=bfd7a9b9-c317-4a50-ad0e-881e9d241e31
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Atemkeng Maureen Fonji
+    organization: ZALF
+    email: atemkeng@zalf.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

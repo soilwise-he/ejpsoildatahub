@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e647d1ac-9c10-4d35-b497-bcb8d5294535
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: Similar strong impact of N fertilizer form and terrain position on N2O emission
+    from eroded croplands (Part 3 of data colletcion, table Nmin_data)
+  abstract: null
+  dates:
+    issued: '2022-03-03'
+    creation: '2022-03-03'
+    revision: '2022-03-03'
+    publication: '2022-03-23'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.784371
+      - 53.378845
+      - 13.787632
+      - 53.380432
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e647d1ac-9c10-4d35-b497-bcb8d5294535
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Shrijana Vaidya
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: Shrijana.Vaidya@zalf.de
+    positionname: Professor
+    phone: +49 2461/61-8643
+    address: 'Institute of Bio- and Geosciences IBG-3: Agrosphere'
+    city: "J\xFClich"
+    administrativearea: North Rhine-Westphalia
+    postalcode: '52428'
+    country: Germany
+    url: https://www.fz-juelich.de/ibg/ibg-3/DE/Home/home_node.html
+    fax: +49 33432 82 186

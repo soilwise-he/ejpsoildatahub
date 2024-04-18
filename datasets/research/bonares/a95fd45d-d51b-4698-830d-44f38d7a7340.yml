@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a95fd45d-d51b-4698-830d-44f38d7a7340
+  hierarchylevel: dataset
+  datestamp: '2024-02-19'
+  language: eng
+identification:
+  title: Reduction of wind speed and wind erosion risk at the SIGNAL agroforestry
+    site
+  abstract: null
+  dates:
+    issued: '2021-01-19'
+    creation: '2021-01-19'
+    revision: '2021-01-19'
+    publication: '2023-01-19'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a95fd45d-d51b-4698-830d-44f38d7a7340
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Justus van Ramshorst
+    organization: "University of G\xF6ttingen"
+    email: justus.vanramshorst@uni-goettingen.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

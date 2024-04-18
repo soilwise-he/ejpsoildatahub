@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: cd3e56e0-639e-45f3-98e6-cf242bfc38c6
+  hierarchylevel: dataset
+  datestamp: '2022-06-29'
+  language: eng
+identification:
+  title: 'Who is the culprit: Is pest infestation responsible for crop yield losses
+    close to semi-natural habitats?'
+  abstract: null
+  dates:
+    issued: '2021-08-04'
+    creation: '2021-08-04'
+    revision: '2021-08-04'
+    publication: '2022-03-16'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=cd3e56e0-639e-45f3-98e6-cf242bfc38c6
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Larissa Raatz
+    organization: University of Potsdam, Institute of Biochemistry and Biology, Biodiversity
+      Research / Systematic Botany
+    email: larissa.raatz@uni-potsdam.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Maulbeerallee 1
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a121feba-bcf7-4f35-ab18-e963ebc0b7c2
+  hierarchylevel: dataset
+  datestamp: '2020-09-01'
+  language: eng
+identification:
+  title: Raw data of C and N measurements of agricultural soils in Rostock and Freising
+    in 2015 and links to the relevant metagenomic sequencing data in the NCBI Sequence
+    Read Archive
+  abstract: null
+  dates:
+    issued: '2020-02-10'
+    creation: '2017-05-05'
+    revision: '2020-06-30'
+    publication: '2021-01-01'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.692481
+      - 48.403717
+      - 11.692481
+      - 48.403717
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a121feba-bcf7-4f35-ab18-e963ebc0b7c2
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=2b828209-fc1f-494b-aec8-5a8ed5236801
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Akane Chiba
+    organization: "Helmholtz Zentrum M\xFCnchen"
+    email: akane.chiba@helmholtz-muenchen.de
+    positionname: PhD student
+    phone: '+4989318749600'
+    address: Eberswalder Strasse 84
+    city: Neuherberg
+    administrativearea: Brandenburg
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

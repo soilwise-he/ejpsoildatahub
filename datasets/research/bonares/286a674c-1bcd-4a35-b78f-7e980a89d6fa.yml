@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 286a674c-1bcd-4a35-b78f-7e980a89d6fa
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: Microclimatic data along a gradient from kettle holes to agricultural fields
+    in the AgroScapeLabs Quillow 2019
+  abstract: null
+  dates:
+    issued: '2021-11-10'
+    creation: '2021-11-10'
+    revision: '2022-04-19'
+    publication: '2022-04-28'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.459477
+      - 53.290627
+      - 13.877137
+      - 53.43036
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=286a674c-1bcd-4a35-b78f-7e980a89d6fa
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "M\xFCller, Marina"
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: mmueller@zalf.de
+    positionname: senior scientist
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

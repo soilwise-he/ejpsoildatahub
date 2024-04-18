@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 84ba3b80-a2ff-449b-8547-264854de8129
+  hierarchylevel: dataset
+  datestamp: '2023-11-22'
+  language: eng
+identification:
+  title: 'Wind erosion after steppe conversion in Kazakhstan: Data from mobile wind
+    tunnel experiments - Aeolian sediments'
+  abstract: null
+  dates:
+    issued: '2023-09-22'
+    creation: '2023-09-22'
+    revision: '2023-09-22'
+    publication: '2023-09-22'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 75.35
+      - 53.5
+      - 75.5
+      - 53.55
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a282bf60-d7ca-4c36-875b-7b48ff6fcce1
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Moritz Koza
+    organization: Martin Luther University Halle-Wittenberg
+    email: moritz.koza@geo.uni-halle.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Eberswalder Str. 84
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

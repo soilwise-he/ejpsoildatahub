@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 3492d50d-ab76-4c71-9c14-0217abba67c5
+  hierarchylevel: dataset
+  datestamp: '2023-04-03'
+  language: eng
+identification:
+  title: Sulfur-enriched bone char enhances P uptake by maize in a perennial pot experiment
+  abstract: null
+  dates:
+    issued: '2022-05-24'
+    creation: '2022-05-24'
+    revision: '2022-05-24'
+    publication: '2022-05-24'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3492d50d-ab76-4c71-9c14-0217abba67c5
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: kerstin Panten
+    organization: "Julius K\xFChn-Institut"
+    email: kerstin.panten@julius-kuehn.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: Eberswalder Strasse 84
+    city: Rostock
+    administrativearea: Brandenburg
+    postalcode: '18059'
+    country: Germany
+    url: https://www.bonares.de/research-data
+    fax: +49 33432 82 186

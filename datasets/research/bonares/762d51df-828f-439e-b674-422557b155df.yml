@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 762d51df-828f-439e-b674-422557b155df
+  hierarchylevel: dataset
+  datestamp: '2019-02-12'
+  language: eng
+identification:
+  title: CN_15N_data_splitroot
+  abstract: null
+  dates:
+    issued: '2017-12-07'
+    creation: '2017-12-07'
+    revision: '2018-09-10'
+    publication: '2018-09-26'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/BonaRes-516D-WN9X
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Doris Vetterlein
+    organization: "Helmholtz Centre for Environmental Research \u2013 UFZ"
+    email: doris.vetterlein@ufz.de
+    positionname: Group Leader
+    phone: +49-(0)228-73-2871
+    address: Katzenburgweg 5
+    city: Bonn
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '53115'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 381 498 3122

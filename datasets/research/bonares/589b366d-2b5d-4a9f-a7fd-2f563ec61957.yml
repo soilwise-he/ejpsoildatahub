@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 589b366d-2b5d-4a9f-a7fd-2f563ec61957
+  hierarchylevel: dataset
+  datestamp: '2021-03-23'
+  language: eng
+identification:
+  title: 'V140 Kiel: Greenhouse gas emissions and supporting temperatures 2015-2018'
+  abstract: null
+  dates:
+    issued: '2019-11-14'
+    creation: '2019-11-14'
+    revision: '2019-11-14'
+    publication: '2021-03-22'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=589b366d-2b5d-4a9f-a7fd-2f563ec61957
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7d97115b-ad9b-4c1b-94e0-41ddc7e67996
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Steffen Rothardt
+    organization: CAU Kiel
+    email: rothardt@pflanzenbau.uni-kiel.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
+    fax: +49 (0) 641-99 37429

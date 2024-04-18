@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b40967d8-ba95-4072-aa9c-764870e25e7c
+  hierarchylevel: dataset
+  datestamp: '2022-05-17'
+  language: eng
+identification:
+  title: Giessen long-term field experiment 'biological nitrogen fixation' - plant-available
+    potassium
+  abstract: null
+  dates:
+    issued: '2020-05-05'
+    creation: '2017-10-19'
+    revision: '2020-05-05'
+    publication: '2020-05-05'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.64
+      - 50.55
+      - 8.73
+      - 50.62
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+      b40967d8-ba95-4072-aa9c-764870e25e7c
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=18fcbcf5-6ac8-4c5f-9a53-7bf5c294badb
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Martina Gocke
+    organization: University of Bonn
+    email: mgocke@uni-bonn.de
+    positionname: Scientific coordinator
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

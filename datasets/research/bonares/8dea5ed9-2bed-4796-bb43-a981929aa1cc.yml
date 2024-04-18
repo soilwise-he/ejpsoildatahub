@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8dea5ed9-2bed-4796-bb43-a981929aa1cc
+  hierarchylevel: service
+  datestamp: '2021-03-02'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Primary and secondary metabolites in roots of
+    Rosa corymbifera 'Laxa''
+  abstract: null
+  dates:
+    issued: '2020-07-02'
+    creation: '2020-07-02'
+    revision: '2020-07-02'
+    publication: '2020-07-17'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-08-03'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.16
+      - 51.25
+      - 12.55
+      - 54.2
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8dea5ed9-2bed-4796-bb43-a981929aa1cc
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bunlong Yim
+    organization: "Julius-K\xFChn Institut"
+    email: bunlong.yim@julius-kuehn.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: Braunschweig
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '38104'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

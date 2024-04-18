@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f1cea263-7827-4ee9-9334-3d57430b162a
+  hierarchylevel: dataset
+  datestamp: '2020-09-04'
+  language: eng
+identification:
+  title: Litter manipulation experiment Grinderwald - Density fractionation data from
+    soil core samples
+  abstract: null
+  dates:
+    issued: '2020-05-29'
+    creation: '2020-05-29'
+    revision: '2020-05-29'
+    publication: '2020-05-29'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.35
+      - 51.9
+      - 10.45
+      - 53.58
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f1cea263-7827-4ee9-9334-3d57430b162a
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=f6d89fad-97dc-402d-8312-6239b49806c5
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Patrick Liebmann
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: liebmann@ifbk.uni-hannover.de
+    positionname: PostDoc
+    phone: '05117623671'
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hannover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

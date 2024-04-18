@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: d49218ae-a95a-403f-b5b8-e927df26260b
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Overview phosphorus fertilization experiments
+    in Germany and Austria'
+  abstract: null
+  dates:
+    issued: '2019-03-14'
+    creation: '2019-03-14'
+    revision: '2019-04-16'
+    publication: '2019-05-22'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.866944
+      - 46.371944
+      - 17.160556
+      - 55.059167
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=e2dab882-e58a-427b-9ae2-2f9bce210728
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Steinfurth, Kristin
+    organization: University of Rostock
+    email: kristin.steinfurth@uni-rostock.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: Braunschweig
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '38104'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

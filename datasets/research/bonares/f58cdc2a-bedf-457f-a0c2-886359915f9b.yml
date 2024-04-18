@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: f58cdc2a-bedf-457f-a0c2-886359915f9b
+  hierarchylevel: dataset
+  datestamp: '2023-03-06'
+  language: eng
+identification:
+  title: Test dataset for Xenia - DO NOT PUBLISH
+  abstract: null
+  dates:
+    issued: '2021-11-10'
+    creation: '2021-11-10'
+    revision: '2021-11-10'
+    publication: '2021-11-16'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.70161
+      - 48.527497
+      - 9.776097
+      - 48.930271
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=1cdb3065-b3f2-4c7f-968a-c33dfd0ea7cd
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Tobias Karl David Weber
+    organization: University of Hohenheim
+    email: tobias.weber@uni-hohenheim.de
+    positionname: Staff member (Molecular Plant Nutrition)
+    phone: 0049 511 762 4017
+    address: "Correnstra\xDFe 3"
+    city: Hannover
+    administrativearea: Saxony-Anhalt
+    postalcode: '30419'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

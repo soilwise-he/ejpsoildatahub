@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: eed3d0a8-50f8-4ebd-ae09-f44708ea1695
+  hierarchylevel: dataset
+  datestamp: '2023-03-22'
+  language: eng
+identification:
+  title: Agricultural management events at the SUSALPS sites Fendt, Graswang, Rottenbuch
+    and Esterberg 2012-2018
+  abstract: null
+  dates:
+    issued: '2019-02-01'
+    creation: '2019-03-01'
+    revision: '2019-03-01'
+    publication: '2022-09-22'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.93
+      - 47.47
+      - 11.21
+      - 47.85
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: license
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=eed3d0a8-50f8-4ebd-ae09-f44708ea1695
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kiese, Ralf
+    organization: KIT IMK-IFU
+    email: ralf.kiese@kit.edu
+    positionname: Group leader
+    phone: +49 8821 183 153
+    address: "Kreuzeckbahnstra\xDFe 19"
+    city: Garmisch-Partenkirchen
+    administrativearea: Bavaria
+    postalcode: '82467'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e86e6d88-c85e-4538-a785-c9fdb6518660
+  hierarchylevel: dataset
+  datestamp: '2021-01-27'
+  language: eng
+identification:
+  title: Nutrient contents of bulksoils from three long-term-field-experiments
+  abstract: null
+  dates:
+    issued: '2018-01-05'
+    creation: '2015-01-12'
+    revision: '2018-01-05'
+    publication: '2018-01-05'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 7.48
+      - 47.67
+      - 13.81
+      - 55.04
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: intellectualPropertyRights
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e86e6d88-c85e-4538-a785-c9fdb6518660
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bernd Honermeier
+    organization: "Leibniz Institute of Vegetable and Ornamental Crops Gro\xDFbeeren"
+    email: sandmann@igzev.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

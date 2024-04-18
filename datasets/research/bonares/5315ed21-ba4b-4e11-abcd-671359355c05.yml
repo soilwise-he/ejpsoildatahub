@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5315ed21-ba4b-4e11-abcd-671359355c05
+  hierarchylevel: service
+  datestamp: '2022-03-25'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Similar strong impact of N fertilizer form and
+    terrain position on N2O emission from eroded croplands'
+  abstract: null
+  dates:
+    issued: '2022-03-03'
+    creation: '2022-03-03'
+    revision: '2022-03-03'
+    publication: '2022-03-23'
+    submitted: '2017-05-22'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=31e8fc8a-fbc5-465c-bf6d-35bdbf92459f
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Shrijana Vaidya
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: Shrijana.Vaidya@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 6155 8421 13
+    address: Nussallee 13
+    city: "M\xFCncheberg"
+    administrativearea: North-Rhine Westphalia
+    postalcode: '15374'
+    country: Germany
+    url: https://www.boden.uni-bonn.de/allgemeine-bodenkunde-und-bodenoekologie
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a7fb0140-59a7-41ce-98c8-9814af2b756a
+  hierarchylevel: service
+  datestamp: '2022-01-14'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'DiControl Soil GPS Data Set (Data collection)'
+  abstract: null
+  dates:
+    issued: '2021-08-06'
+    creation: '2016-12-19'
+    revision: '2021-08-06'
+    publication: '2021-09-15'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - society
+  extents:
+    spatial:
+    - bbox:
+      - 7.538149
+      - 47.501929
+      - 13.237647
+      - 52.259773
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a7fb0140-59a7-41ce-98c8-9814af2b756a
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Saskia, Helen Windisch
+    organization: University of Hohenheim
+    email: Saskia.Windisch@uni-hohenheim.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 341 235 482402
+    address: "Fruwirthstra\xDFe 20, Institutsgeb\xE4ude"
+    city: Leipzig
+    administrativearea: "Baden-W\xFCrttemberg"
+    postalcode: 04318
+    country: Deutschland
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

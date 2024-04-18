@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bcd3c211-ce99-42ab-889a-0143e32cb7fb
+  hierarchylevel: dataset
+  datestamp: '2022-11-02'
+  language: eng
+identification:
+  title: Yields of Cowpea Recombinant Inbred Lines grown on highly acidic soil.
+  abstract: null
+  dates:
+    issued: '2022-08-12'
+    creation: '2012-03-05'
+    revision: '2022-10-28'
+    publication: '2022-10-28'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-08-03'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.11
+      - 2.8
+      - 11.15
+      - 2.83
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=bcd3c211-ce99-42ab-889a-0143e32cb7fb
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Atemkeng Maureen Fonji
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: atemkeng@zalf.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Brandenburg
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: +49 (0) 641-99 37429

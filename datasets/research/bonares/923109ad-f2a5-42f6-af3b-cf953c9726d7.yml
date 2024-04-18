@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 923109ad-f2a5-42f6-af3b-cf953c9726d7
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: "Wheat-ears from North-Eastern Germany (Magdeburg, M\xFCncheberg, Uckermark)\
+    \ with plant height and Fusarium and Alternaria abundances (qPCR) and culture-dependent\
+    \ Fusarium species determination (Part 1 of data collection, table REGIONAL_FUSARIUM_ALTERNARIA)"
+  abstract: null
+  dates:
+    issued: '2022-10-06'
+    creation: '2022-10-06'
+    revision: '2022-10-06'
+    publication: '2022-10-06'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.4746
+      - 52.2086
+      - 14.1231
+      - 53.3546
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9b72a046-d3e8-4cf9-b318-3cb7a247e0f2
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Annika Hoffmann
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF e.V.)
+    email: annika.hoffmann@zalf.de
+    positionname: Professor
+    phone: +49 2461/61-8643
+    address: 'Institute of Bio- and Geosciences IBG-3: Agrosphere'
+    city: "J\xFClich"
+    administrativearea: North Rhine-Westphalia
+    postalcode: '52428'
+    country: Germany
+    url: https://www.fz-juelich.de/ibg/ibg-3/DE/Home/home_node.html
+    fax: +49 33432 82 186

@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 5187f8c5-38ef-4b07-bc26-a5e257a8ef59
+  hierarchylevel: service
+  datestamp: '2024-04-10'
+  language: eng
+identification:
+  title: '|'
+  abstract: null
+  dates:
+    issued: '2017-09-18'
+    creation: '2017-09-18'
+    revision: '2017-09-18'
+    publication: '2017-09-18'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.11
+      - 52.51
+      - 14.13
+      - 52.52
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: license
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=5187f8c5-38ef-4b07-bc26-a5e257a8ef59
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Dietmar Barkusky
+    organization: '|'
+    email: '|'
+    positionname: senior scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

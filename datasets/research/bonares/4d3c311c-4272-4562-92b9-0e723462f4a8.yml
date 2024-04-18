@@ -1,0 +1,64 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4d3c311c-4272-4562-92b9-0e723462f4a8
+  hierarchylevel: dataset
+  datestamp: '2023-08-29'
+  language: eng
+identification:
+  title: Earthworm Biodiversity Data Lietzen I - Earthworm abundance
+  abstract: null
+  dates:
+    issued: '2023-06-22'
+    creation: '2023-06-22'
+    revision: '2023-06-22'
+    publication: '2023-06-22'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 14.353316
+      - 52.489491
+      - 14.360448
+      - 52.496141
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=179dfc81-d445-4984-b683-aa88f42efca5
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Monika Joschko
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: majoschko@gmx.de
+    positionname: Research Assistant
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

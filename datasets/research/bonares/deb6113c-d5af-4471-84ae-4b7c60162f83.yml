@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: deb6113c-d5af-4471-84ae-4b7c60162f83
+  hierarchylevel: dataset
+  datestamp: '2022-09-28'
+  language: eng
+identification:
+  title: Litter mass loss of maize leaves, 16S rRNA and ITS copies and links to the
+    16S rRNA amplicon sequencing data in the NCBI Sequence Read Archive after a 6-week
+    incubation study using soil and litter from the LTFE Scheyern
+  abstract: null
+  dates:
+    issued: '2021-02-12'
+    creation: '2021-02-12'
+    revision: '2021-02-12'
+    publication: '2022-07-21'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.44
+      - 48.49
+      - 11.44
+      - 48.49
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+      deb6113c-d5af-4471-84ae-4b7c60162f83
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=9b296f99-f6a0-423c-9716-6a04fd2e502f
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Stefanie Schulz
+    organization: "Helmholtz Zentrum M\xFCnchen"
+    email: stefanie.schulz@helmholtz-muenchen.de
+    positionname: Scientist
+    phone: +49 8821 183 153
+    address: Emil-Ramann-Str. 2
+    city: Freising
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: www.soil-science.com
+    fax: +49 381 498 3122

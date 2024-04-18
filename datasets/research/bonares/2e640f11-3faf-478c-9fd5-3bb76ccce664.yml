@@ -1,0 +1,55 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 2e640f11-3faf-478c-9fd5-3bb76ccce664
+  hierarchylevel: dataset
+  datestamp: '2024-02-22'
+  language: eng
+identification:
+  title: 'BonaRes SIGNAL, Site: Dornburg, plant nitrogen (N) availability, N response
+    efficiency and plant N uptake'
+  abstract: null
+  dates:
+    issued: '2017-09-19'
+    creation: '2017-09-19'
+    revision: '2017-09-19'
+    publication: '2019-09-19'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 10.73
+      - 50.81
+      - 11.2
+      - 51.17
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=2e640f11-3faf-478c-9fd5-3bb76ccce664
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Marcus Schmidt
+    organization: "University of G\xF6ttingen, PTS"
+    email: mschmidh@gwdg.de
+    positionname: PhD Student
+    phone: +49 551 20597
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/206042.html
+    fax: 0049 4253 931120

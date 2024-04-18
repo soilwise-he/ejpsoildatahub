@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 0b564ee9-7fd6-43f0-862c-62ba7be24654
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2019-11-14'
+  language: eng
+identification:
+  title: P release / P mobilization from bone char in a pot experiment
+  abstract: null
+  dates:
+    issued: '2021-04-16'
+    creation: '2019-04-16'
+    revision: '2019-04-16'
+    publication: '2020-04-16'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0b564ee9-7fd6-43f0-862c-62ba7be24654
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=e1562f46-4a0d-4d8a-ac13-44cb47366e36
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Christel Baum
+    organization: University of Rostock
+    email: christel.baum@uni-rostock.de
+    positionname: researcher
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Rostock
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

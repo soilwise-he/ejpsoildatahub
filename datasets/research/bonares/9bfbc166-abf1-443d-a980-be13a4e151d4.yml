@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9bfbc166-abf1-443d-a980-be13a4e151d4
+  hierarchylevel: dataset
+  datestamp: '2023-02-07'
+  language: eng
+identification:
+  title: A catalog of meta-data about agricultural long-term field experiments in
+    Europe (EJP SOIL 7.3) (Data collection, parent table)
+  abstract: null
+  dates:
+    issued: '2022-01-26'
+    creation: '2022-01-26'
+    revision: '2022-01-26'
+    publication: '2022-01-31'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - -7
+      - 37
+      - 36
+      - 64
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9bfbc166-abf1-443d-a980-be13a4e151d4
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "Tommy D\u2019Hose"
+    organization: Flanders Research Institute for Agriculture, Fisheries and Food,
+      Belgium
+    email: tommy.dhose@ilvo.vlaanderen.be
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 33432 82 168
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Brandenburg
+    postalcode: '85354'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

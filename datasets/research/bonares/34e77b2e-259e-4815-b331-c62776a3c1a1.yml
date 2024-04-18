@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 34e77b2e-259e-4815-b331-c62776a3c1a1
+  hierarchylevel: service
+  datestamp: '2024-02-15'
+  language: eng
+identification:
+  title: Web  Map Service of the dataset 'Soil fungal community across a 52-year chronosequence
+    of soil recultivation after open-mining in Inden, Germany'
+  abstract: null
+  dates:
+    issued: '2023-01-24'
+    creation: '2023-01-24'
+    revision: '2023-01-24'
+    publication: '2023-01-24'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.9
+      - 50.55
+      - 7.12
+      - 51.32
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=34e77b2e-259e-4815-b331-c62776a3c1a1
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Julien Roy
+    organization: "Freie Universit\xE4t Berlin"
+    email: royjulien@zedat.fu-berlin.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 10836160-b1d1-496a-842b-3434d85436dd
+  hierarchylevel: dataset
+  datestamp: '2019-02-12'
+  language: eng
+identification:
+  title: Root_diameter_classes_day_of_harvest_t33
+  abstract: null
+  dates:
+    issued: '2017-12-07'
+    creation: '2017-12-07'
+    revision: '2018-09-10'
+    publication: '2018-09-26'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=https://doi.org/10.20387/BonaRes-443R-3P33
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Doris Vetterlein
+    organization: "Helmholtz Centre for Environmental Research \u2013 UFZ"
+    email: doris.vetterlein@ufz.de
+    positionname: post-doc
+    phone: +49 381 498 3184
+    address: Justus-von-Liebig-Weg 6
+    city: Rostock
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: '18051'
+    country: Germany
+    url: https://www.igps.uni-hannover.de/2176.html?&no_cache=1&L=1&tx_tkinstpersonen_pi1[alias]=Boenecke
+    fax: +49 381 498 3122

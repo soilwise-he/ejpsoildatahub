@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 86fda7a5-22b3-4ad5-a81d-70eed4433a87
+  hierarchylevel: dataset
+  datestamp: '2023-10-02'
+  language: eng
+identification:
+  title: Highly Hydrophobic Microplastics affect Winter Wheat Root Growth and Plant
+    Available Soil Nutrients - Root Water Uptake is hindered in Soil mixed with Low-density
+    Polyethylene (LDPE) Microplastics
+  abstract: null
+  dates:
+    issued: '2023-09-29'
+    creation: '2023-09-29'
+    revision: '2023-09-29'
+    publication: '2025-06-05'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=86fda7a5-22b3-4ad5-a81d-70eed4433a87
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_3006_2020_1_20_I4S_Mahns.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Katharina J. Neubert
+    organization: "Research Center Juelich, Institute of Bio- and Geosciences \u2013\
+      \ Agrosphere (IBG-3), 52425 Juelich, Germany"
+    email: k.neubert@fz-juelich.de
+    positionname: Research Assistant
+    phone: +49 331 977 1939
+    address: Von-Seckendorff-Platz 4
+    city: Halle (Saale)
+    administrativearea: Saxony-Anhalt
+    postalcode: D-016120
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

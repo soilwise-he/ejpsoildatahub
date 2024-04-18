@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 9203c511-59e2-4302-8fca-e3c323eb57d9
+  hierarchylevel: dataset
+  datestamp: '2024-01-29'
+  language: eng
+identification:
+  title: Model Output Scenario Analysis 2023
+  abstract: null
+  dates:
+    issued: '2023-07-25'
+    creation: '2023-07-25'
+    revision: '2023-07-25'
+    publication: '2023-07-25'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9203c511-59e2-4302-8fca-e3c323eb57d9
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Steffen Rothardt
+    organization: CAU Kiel
+    email: rothardt@pflanzenbau.uni-kiel.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

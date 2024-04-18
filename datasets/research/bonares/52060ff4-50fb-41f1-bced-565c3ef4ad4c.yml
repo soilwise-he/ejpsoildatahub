@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 52060ff4-50fb-41f1-bced-565c3ef4ad4c
+  hierarchylevel: service
+  datestamp: '2023-09-08'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Tree species composition of a landscape in
+    north-eastern Germany in 1780, 1890 and 2010'
+  abstract: null
+  dates:
+    issued: '2023-09-01'
+    creation: '2023-09-01'
+    revision: '2023-09-01'
+    publication: '2023-09-01'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.121263
+      - 52.816628
+      - 14.375374
+      - 53.610697
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=52060ff4-50fb-41f1-bced-565c3ef4ad4c
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Monika Wulf
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: wulf@zalf.de
+    positionname: Research Assistant
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

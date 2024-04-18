@@ -1,0 +1,46 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 4cf3c473-96a6-4660-b973-30c0f03c7cd2
+  hierarchylevel: dataset
+  datestamp: '2024-04-15'
+  language: eng
+identification:
+  title: Soil fungal community across a 52-year chronosequence of soil recultivation
+    after open-mining in Inden, Germany
+  abstract: null
+  dates:
+    issued: '2023-01-24'
+    creation: '2023-01-24'
+    revision: '2023-01-24'
+    publication: '2023-01-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 6.16
+      - 50.16
+      - 7.61
+      - 51.32
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=4cf3c473-96a6-4660-b973-30c0f03c7cd2
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Julien Roy
+    organization: "Freie Universit\xE4t Berlin"
+    email: royjulien@zedat.fu-berlin.de

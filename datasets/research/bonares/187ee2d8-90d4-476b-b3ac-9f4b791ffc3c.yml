@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 187ee2d8-90d4-476b-b3ac-9f4b791ffc3c
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: Logger based water table measurements in selected kettle holes in the Uckermark
+    (NE Germany, Brandenburg) (Part 1 of data collection, table Kettle_holes_Uckermark_watertable)
+  abstract: null
+  dates:
+    issued: '2022-03-17'
+    creation: '2022-03-17'
+    revision: '2022-03-17'
+    publication: '2022-04-26'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 13.55127
+      - 53.30614
+      - 13.76539
+      - 53.39755
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=187ee2d8-90d4-476b-b3ac-9f4b791ffc3c
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Prof. Gunnar Lischeid
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: lischeid@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

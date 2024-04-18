@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: fa466766-3faa-4279-9aac-e6d014d2b37f
+  hierarchylevel: dataset
+  datestamp: '2023-07-07'
+  language: eng
+identification:
+  title: Cropland agroforestry 2019-2020
+  abstract: null
+  dates:
+    issued: '2023-06-07'
+    creation: '2023-06-07'
+    revision: '2023-06-07'
+    publication: '2025-05-09'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.6
+      - 52.3
+      - 10.6
+      - 52.3
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fa466766-3faa-4279-9aac-e6d014d2b37f
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Maren Langhof
+    organization: "Julius K\xFChn-Institut"
+    email: maren.langhof@julius-kuehn.de
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Bavaria
+    postalcode: '38116'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

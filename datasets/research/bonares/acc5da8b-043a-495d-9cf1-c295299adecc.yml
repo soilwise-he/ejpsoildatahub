@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: acc5da8b-043a-495d-9cf1-c295299adecc
+  hierarchylevel: dataset
+  datestamp: '2024-03-14'
+  language: eng
+identification:
+  title: Biophysicochemical rhizosheath soil properties of 38 maize varieties under
+    drought and well-watered conditions
+  abstract: null
+  dates:
+    issued: '2024-02-08'
+    creation: '2024-02-08'
+    revision: '2024-02-08'
+    publication: '2024-02-08'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=acc5da8b-043a-495d-9cf1-c295299adecc
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Franziska Steiner
+    organization: Technical University of Munich, Freising, Germany
+    email: f.steiner@tum.de
+    positionname: senior scientist
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

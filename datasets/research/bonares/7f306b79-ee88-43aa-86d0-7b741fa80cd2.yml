@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7f306b79-ee88-43aa-86d0-7b741fa80cd2
+  hierarchylevel: dataset
+  datestamp: '2023-04-06'
+  language: eng
+identification:
+  title: The unexpected long period of elevated CH4 emissions from an inundated fen
+    meadow ended only with the occurrence of cattail (Typha latifolia) (Part 2 of
+    data collection, table ANNUAL_VALUES)
+  abstract: null
+  dates:
+    issued: '2022-10-20'
+    creation: '2022-10-20'
+    revision: '2022-10-20'
+    publication: '2022-10-20'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 12.88953
+      - 53.87601
+      - 12.88953
+      - 54.87601
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0c3ce0e2-0299-4998-bc55-ed2002c29ea3
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Danica Antonijevic
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: Danica.antonijevic@zalf.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: Liesel-Beckmann Str. 2
+    city: Rostock
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '18059'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

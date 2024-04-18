@@ -1,0 +1,59 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8f17a2f3-0cce-410e-9e4d-d063f1895e58
+  hierarchylevel: service
+  datestamp: '2024-02-05'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'Data on soil respiration in a beech forest
+    and a pine forest' - Pine Sites
+  abstract: null
+  dates:
+    issued: '2023-11-28'
+    creation: '2023-11-28'
+    revision: '2023-11-28'
+    publication: '2023-11-28'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.64
+      - 52.98
+      - 13.64
+      - 52.98
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=
+      8f17a2f3-0cce-410e-9e4d-d063f1895e58
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Hubert Jochheim
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: Hubert.jochheim@zalf.de
+    positionname: PhD student - SIGNALTP1.2
+    phone: 00 49 (0) 531 5962111
+    address: "B\xFCsgenweg 2"
+    city: "G\xF6ttingen"
+    administrativearea: Niedersachsen
+    postalcode: '37077'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: 0049 4253 931120

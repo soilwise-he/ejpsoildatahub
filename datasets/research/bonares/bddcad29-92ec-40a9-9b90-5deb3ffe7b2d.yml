@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: bddcad29-92ec-40a9-9b90-5deb3ffe7b2d
+  hierarchylevel: dataset
+  datestamp: '2023-08-16'
+  language: eng
+identification:
+  title: Coverage of dominant plant taxa, water surface area and hydrogeomorphological
+    information for kettle holes surveyed in 2016, 2018 and 2020.
+  abstract: null
+  dates:
+    issued: '2021-03-05'
+    creation: '2021-03-05'
+    revision: '2021-05-03'
+    publication: '2021-05-03'
+    submitted: '2020-12-21'
+    valid: '2017-08-03'
+    accepted: '2021-07-26'
+    notSearchableSince: '2021-04-29'
+    collected: '2020-07-15'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.469254
+      - 53.292105
+      - 13.856277
+      - 53.430918
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=bddcad29-92ec-40a9-9b90-5deb3ffe7b2d
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=59d2a225-6b4b-478f-aa8e-1e9230bfd074
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: "P\xE4tzig, Marlene"
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: marlene.paetzig@zalf.de
+    positionname: Professor
+    phone: +49 33432 82-470
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandeburg
+    postalcode: '15374'
+    country: Germany
+    url: https://orcid.org/
+    fax: +49 33432 82 186

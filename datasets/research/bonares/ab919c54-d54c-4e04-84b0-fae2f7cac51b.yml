@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ab919c54-d54c-4e04-84b0-fae2f7cac51b
+  hierarchylevel: dataset
+  datestamp: '2020-12-08'
+  language: eng
+identification:
+  title: BonaRes-SIGNAL biomass production starting in 2016
+  abstract: null
+  dates:
+    issued: '2020-04-08'
+    creation: '2020-04-08'
+    revision: '2020-04-08'
+    publication: '2020-07-15'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ab919c54-d54c-4e04-84b0-fae2f7cac51b
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=18fcbcf5-6ac8-4c5f-9a53-7bf5c294badb
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Marcus Schmidt
+    organization: "Georg-August-Universit\xE4t G\xF6ttingen"
+    email: mschmidh@gwdg.de
+    positionname: Scientific coordinator
+    phone: +49 33432 82 168
+    address: Eberswalder Strasse 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

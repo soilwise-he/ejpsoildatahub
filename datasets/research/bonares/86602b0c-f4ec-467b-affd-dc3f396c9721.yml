@@ -1,0 +1,57 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 86602b0c-f4ec-467b-affd-dc3f396c9721
+  hierarchylevel: service
+  datestamp: '2023-11-28'
+  language: eng
+identification:
+  title: Web Map Service of the dataset 'TEST Database of soil'
+  abstract: null
+  dates:
+    issued: '2023-08-01'
+    creation: '2023-08-01'
+    revision: '2023-08-01'
+    publication: '2023-08-08'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 32.531244
+      - 32.277517
+      - 36.221184
+      - 35.820618
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=663576ab-7434-49fd-8c24-7f7adb427845
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Larissa Raatz
+    organization: XYZ University
+    email: wahib.sahwan@zalf.de
+    positionname: Scientist
+    phone: +49 331 977 1939
+    address: Maulbeerallee 1
+    city: Potsdam
+    administrativearea: Brandenburg
+    postalcode: '14469'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b3734a61-39d9-4f88-8b86-d4afb46f1566
+  hierarchylevel: dataset
+  datestamp: '2022-03-10'
+  language: eng
+identification:
+  title: International long-term experiment (LTE) 'Organic and Mineral Nitrogen Fertilization
+    Experiment' (IOSDV) - Table 'DUENGEMITTEL'
+  abstract: null
+  dates:
+    issued: '2021-01-14'
+    creation: '2021-01-14'
+    revision: '2021-01-14'
+    publication: '2021-01-14'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.86
+      - 50.76
+      - 8.88
+      - 50.77
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b3734a61-39d9-4f88-8b86-d4afb46f1566
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://metadata.bonares.de/smartEditor/rest/upload/ID_7049_2020_05_13_SRS_function_v1_0_R.zip
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bernd Honermeier
+    organization: Justus Liebig University Giessen
+    email: Bernd.Honermeier@agrar.uni-giessen.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Mecklenburg-Vorpommern
+    postalcode: D-35392
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

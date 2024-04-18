@@ -1,0 +1,67 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 67bd63db-9606-4bdf-afc7-f9936cc73b5e
+  hierarchylevel: dataset
+  datestamp: '2023-07-22'
+  language: eng
+identification:
+  title: 13C enrichment in cover crop root channels and bulk soil after pulse labeling
+    the cover crops with 13CO2
+  abstract: null
+  dates:
+    issued: '2023-06-05'
+    creation: '2023-06-05'
+    revision: '2023-06-05'
+    publication: '2023-06-05'
+    submitted: '2018-04-24'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2019-04-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.995111
+      - 54.311173
+      - 9.996946
+      - 54.312613
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=67bd63db-9606-4bdf-afc7-f9936cc73b5e
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Zimmermann, Iris
+    organization: "Institute for plant nutrition and soil science, Christian-Albrechts-Universit\xE4\
+      t zu Kiel"
+    email: i.zimmermann@soils.uni-kiel.de
+    positionname: senior scientist
+    phone: +49-(0)228-73-2871
+    address: Katzenburgweg 5
+    city: Bonn
+    administrativearea: Brandenburg
+    postalcode: '53115'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

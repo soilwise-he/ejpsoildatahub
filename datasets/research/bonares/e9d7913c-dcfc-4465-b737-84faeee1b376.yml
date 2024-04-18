@@ -1,0 +1,58 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e9d7913c-dcfc-4465-b737-84faeee1b376
+  hierarchylevel: dataset
+  datestamp: '2023-12-05'
+  language: eng
+identification:
+  title: Agroclimatic indicators data of Long-Term Field Experiments in Germany -
+    2041_2060 CLIMATE
+  abstract: null
+  dates:
+    issued: '2023-10-17'
+    creation: '2023-10-17'
+    revision: '2023-10-17'
+    publication: '2023-10-17'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=839cb2ce-c908-49d3-a7c5-47af1eedegmd:e25
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Cenk Donmez
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: cenk.doenmez@zalf.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: Eberswalder Str. 84
+    city: Hanover
+    administrativearea: Brandenburg
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

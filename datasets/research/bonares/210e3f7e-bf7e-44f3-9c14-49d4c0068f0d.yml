@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 210e3f7e-bf7e-44f3-9c14-49d4c0068f0d
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2020-07-29'
+  language: eng
+identification:
+  title: P desorption kinetics from Fe- and Al-hydroxides
+  abstract: null
+  dates:
+    issued: '2020-03-06'
+    creation: '2020-03-06'
+    revision: '2020-03-06'
+    publication: '2022-03-05'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - environment
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=210e3f7e-bf7e-44f3-9c14-49d4c0068f0d
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=727e3dbb-8bac-41b8-9fa6-b0d3c8225e09
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Stella Gypser
+    organization: "Brandenburgische Technische Universit\xE4t Cottbus-Senftenberg"
+    email: stella.gypser@b-tu.de
+    positionname: Researcher
+    phone: 00 49 (0) 355 693318
+    address: Konrad-Wachsmann-Allee 6
+    city: Cottbus
+    administrativearea: Brandenburg
+    postalcode: '03046'
+    country: Germany
+    url: https://www.igps.uni-hannover.de/2176.html?&no_cache=1&L=1&tx_tkinstpersonen_pi1[alias]=Boenecke
+    fax: 0049 511 762 3608

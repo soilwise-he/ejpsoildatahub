@@ -1,0 +1,68 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: e662d3de-e5e1-4d8d-b4bf-8597bce04ee3
+  hierarchylevel: dataset
+  datestamp: '2022-06-30'
+  language: eng
+identification:
+  title: Microbial population sizes and soil properties in topsoil and subsoil of
+    two alley-cropping agroforestry systems in Germany
+  abstract: null
+  dates:
+    issued: '2022-06-02'
+    creation: '2022-06-02'
+    revision: '2022-06-02'
+    publication: '2022-06-30'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.42
+      - 50.32
+      - 14.66
+      - 52.29
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=cb87c6e6-905d-4918-917e-89b84bba362f
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7d97115b-ad9b-4c1b-94e0-41ddc7e67996
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Lukas Beule
+    organization: "Julius K\xFChn Institute (JKI) \u2013 Federal Research Centre for\
+      \ Cultivated Plants, Institute for Ecological Chemistry, Plant Analysis and\
+      \ Stored Product Protection, Berlin, Germany"
+    email: lukas.beule@julius-kuehn.de
+    positionname: Research Assistant
+    phone: +49 (0) 641-99 37431
+    address: Eberswalder Str. 84
+    city: Muencheberg
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Deutschland
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 (0) 641-99 37429

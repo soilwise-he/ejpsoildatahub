@@ -1,0 +1,53 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b812a3e5-307b-46dc-a0c2-26a6594ce3ec
+  hierarchylevel: dataset
+  datestamp: '2024-03-05'
+  language: eng
+identification:
+  title: ZALF Focus Area - Site Research Station Dedelow
+  abstract: null
+  dates:
+    issued: '2024-02-05'
+    creation: '2024-02-05'
+    revision: '2024-02-05'
+    publication: '2024-02-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.782881
+      - 53.365998
+      - 13.806252
+      - 53.380984
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b812a3e5-307b-46dc-a0c2-26a6594ce3ec
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Gernot Verch
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: verch@zalf.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen

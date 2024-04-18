@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: b682ad5f-b4ad-4924-8026-97b48ea9babf
+  hierarchylevel: dataset
+  datestamp: '2020-10-06'
+  language: eng
+identification:
+  title: Mycorrhiza Colonization in a field experiment in Ellerhoop planted 2015
+  abstract: null
+  dates:
+    issued: '2019-01-10'
+    creation: '2017-10-19'
+    revision: '2020-07-17'
+    publication: '2020-09-01'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 9.18
+      - 53.11
+      - 10.33
+      - 54.33
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=b682ad5f-b4ad-4924-8026-97b48ea9babf
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=9c3c372c-27f4-4a52-ae45-ce4d4bf54a18
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carolin Popp
+    organization: Leibniz University Hannover
+    email: popp@ipp.uni-hannover.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 5117623671
+    address: Liesel-Beckmann Str. 2
+    city: Freising
+    administrativearea: Lower Saxony
+    postalcode: '85354'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: +49 33432 82 186

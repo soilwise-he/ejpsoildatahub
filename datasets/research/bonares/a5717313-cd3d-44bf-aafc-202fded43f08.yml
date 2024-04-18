@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: a5717313-cd3d-44bf-aafc-202fded43f08
+  hierarchylevel: dataset
+  datestamp: '2020-10-06'
+  language: eng
+identification:
+  title: Mycorrhiza colonization of M26 apple roots bio test 2017 with Ruthe soil
+  abstract: null
+  dates:
+    issued: '2019-01-10'
+    creation: '2017-10-19'
+    revision: '2020-07-16'
+    publication: '2020-09-01'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - biota
+  extents:
+    spatial:
+    - bbox:
+      - 9.0
+      - 51.77
+      - 10.54
+      - 52.9
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a5717313-cd3d-44bf-aafc-202fded43f08
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3fb4c6a2-3ce1-4078-8648-7c52e4640c5d
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Carolin Popp
+    organization: Leibniz University Hannover
+    email: popp@ipp.uni-hannover.de
+    positionname: Department of Agronomy
+    phone: +49 (0) 641-99 37431
+    address: Heinrich-Buff-Ring 26
+    city: Giessen
+    administrativearea: Lower Saxony
+    postalcode: D-35392
+    country: Germany
+    url: www.ordiamur.de
+    fax: +49 (0) 641-99 37429

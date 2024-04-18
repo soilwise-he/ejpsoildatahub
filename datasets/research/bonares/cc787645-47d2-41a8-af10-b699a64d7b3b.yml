@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: cc787645-47d2-41a8-af10-b699a64d7b3b
+  hierarchylevel: dataset
+  datestamp: '2022-09-22'
+  language: eng
+identification:
+  title: German public's preferences for soil-based ecosystem services (discrete choice
+    experiment)
+  abstract: null
+  dates:
+    issued: '2021-09-15'
+    creation: '2021-09-15'
+    revision: '2021-09-15'
+    publication: '2022-01-01'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - society
+  extents:
+    spatial:
+    - bbox:
+      - 5.81
+      - 47.26
+      - 15.77
+      - 54.76
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=cc787645-47d2-41a8-af10-b699a64d7b3b
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Bartosz Bartkowski
+    organization: Helmholtz Centre for Environmental Research - UFZ
+    email: bartosz.bartkowski@ufz.de
+    positionname: "Lehrstuhl f\xFCr \xD6kologischen Landbau und Pflanzenbausysteme"
+    phone: +49 341 235 482402
+    address: "Permoserstra\xDFe 15"
+    city: Leipzig
+    administrativearea: Lower Saxony
+    postalcode: 04318
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

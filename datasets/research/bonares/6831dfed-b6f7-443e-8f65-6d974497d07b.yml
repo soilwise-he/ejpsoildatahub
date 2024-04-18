@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 6831dfed-b6f7-443e-8f65-6d974497d07b
+  hierarchylevel: nonGeographicDataset
+  datestamp: '2019-08-05'
+  language: eng
+identification:
+  title: Semantic mapping of the BonaRes metadata schema to INSPIRE and DataCite
+  abstract: null
+  dates:
+    issued: '2019-01-31'
+    creation: '2017-10-19'
+    revision: '2019-01-31'
+    publication: '2019-01-31'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - geoscientificInformation
+  extents:
+    spatial:
+    - bbox:
+      - 13.8
+      - 52.59
+      - 13.97
+      - 52.75
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=6831dfed-b6f7-443e-8f65-6d974497d07b
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0374373d-7928-4422-b012-264eae21e75e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Xenia Specka
+    organization: Leibniz-Centre for Agricultural Landscape Research (ZALF) e.V.
+    email: specka@zalf.de
+    positionname: Researcher
+    phone: +49 33432 82 217
+    address: Eberswalder Str. 84
+    city: "M\xFCncheberg"
+    administrativearea: Brandenburg
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: +49 33432 82 186

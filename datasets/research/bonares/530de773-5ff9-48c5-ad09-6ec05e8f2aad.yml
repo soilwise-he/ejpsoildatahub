@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 530de773-5ff9-48c5-ad09-6ec05e8f2aad
+  hierarchylevel: dataset
+  datestamp: '2022-10-21'
+  language: eng
+identification:
+  title: Plant and arthropod data along gradients in kettle holes (Part 2 of data
+    collection, table CARA_DATA_LONG)
+  abstract: null
+  dates:
+    issued: '2022-10-18'
+    creation: '2022-10-18'
+    revision: '2022-10-18'
+    publication: '2022-10-18'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 13.459477
+      - 53.290627
+      - 13.877137
+      - 53.43036
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=530de773-5ff9-48c5-ad09-6ec05e8f2aad
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=fb503202-ced2-430e-b3de-ac04818d83da
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Kolja Bergholz
+    organization: University Potsdam
+    email: bergholz@uni-potsdam.de
+    positionname: Research associate
+    phone: +49 8821 183 153
+    address: Bundesallee 47
+    city: Braunschweig
+    administrativearea: Bavaria
+    postalcode: '38116'
+    country: Germany
+    url: https://www.imk-ifu.kit.edu/staff_Ralf_Kiese.php
+    fax: 0049 511 762 3608

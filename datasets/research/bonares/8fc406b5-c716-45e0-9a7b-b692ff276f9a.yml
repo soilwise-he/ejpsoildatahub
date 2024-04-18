@@ -1,0 +1,54 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 8fc406b5-c716-45e0-9a7b-b692ff276f9a
+  hierarchylevel: service
+  datestamp: '2024-02-29'
+  language: eng
+identification:
+  title: Web Map Service Berlin-Brandenburg
+  abstract: null
+  dates:
+    issued: '2024-01-24'
+    creation: '2024-01-24'
+    revision: '2024-01-24'
+    publication: '2024-01-24'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 11.265732
+      - 51.35902
+      - 14.765644
+      - 53.558702
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8fc406b5-c716-45e0-9a7b-b692ff276f9a
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Workgroup Research Data Management
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: dataservice@zalf.de
+    positionname: Assistance Breeder
+    phone: 0049 4253 931114
+    address: Steimker Weg 7
+    city: Asendorf
+    administrativearea: Lower Saxony
+    postalcode: '27330'
+    country: Germany
+    url: www.dsv-saaten.de
+    fax: 0049 4253 931120

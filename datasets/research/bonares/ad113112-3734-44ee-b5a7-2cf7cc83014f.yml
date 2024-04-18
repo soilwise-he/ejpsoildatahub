@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: ad113112-3734-44ee-b5a7-2cf7cc83014f
+  hierarchylevel: dataset
+  datestamp: '2021-01-22'
+  language: eng
+identification:
+  title: The effect of tillage and cover crops
+  abstract: null
+  dates:
+    issued: '2020-10-07'
+    creation: '2020-09-07'
+    revision: '2020-10-07'
+    publication: '2020-12-08'
+    submitted: '2019-05-23'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2018-09-17'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.42
+      - 51.39
+      - 9.47
+      - 51.42
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=ad113112-3734-44ee-b5a7-2cf7cc83014f
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=214c8cc0-d95d-47e6-82f3-b4b04382ef98
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Meike Grosse
+    organization: Leibniz Centre for Agricultural Landscape Research (ZALF)
+    email: meike.grosse@zalf.de
+    positionname: Scientist
+    phone: 033432 824086
+    address: "Correnstra\xDFe 3"
+    city: "M\xFCncheberg"
+    administrativearea: Saxony-Anhalt
+    postalcode: '15374'
+    country: Germany
+    url: http://www.zalf.de/en/ueber_uns/mitarbeiter/Pages/barkusky_d.aspx
+    fax: 0049 39482 5550

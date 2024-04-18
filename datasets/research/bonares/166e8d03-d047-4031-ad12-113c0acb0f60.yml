@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 166e8d03-d047-4031-ad12-113c0acb0f60
+  hierarchylevel: service
+  datestamp: '2021-03-03'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Impact of biopores on P mobilization on arable
+    land'
+  abstract: null
+  dates:
+    issued: '2019-10-30'
+    creation: '2018-05-10'
+    revision: '2019-10-21'
+    publication: '2021-01-07'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2017-08-03'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-03-02'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 10.02
+      - 47.4
+      - 13.79
+      - 54.81
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=166e8d03-d047-4031-ad12-113c0acb0f60
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=461e563d-bce8-417d-9e68-dea182722263
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Nora Vitow
+    organization: University of Rostock
+    email: nora.vitow@uni-rostock.de
+    positionname: Researcher
+    phone: 0381/498 3134
+    address: "Justus von Liebig Weg 6, Arbeitsgeb\xE4ude Raum 3"
+    city: Rostock
+    administrativearea: Mecklenburg-Western Pomerania
+    postalcode: '18059'
+    country: Germany
+    url: http://www.zalf.de/de/ueber_uns/mitarbeiter/Seiten/DIR/Barkusky_D.aspx
+    fax: 0049 511 762 3608

@@ -1,0 +1,60 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 33aa2643-5018-4e31-8b88-c2eb0a7a56f8
+  hierarchylevel: dataset
+  datestamp: '2023-12-13'
+  language: eng
+identification:
+  title: Germany-wide time series of interpolated phenological observations for main
+    crop types between 1993 and 2021
+  abstract: null
+  dates:
+    issued: '2022-09-30'
+    creation: '2022-09-30'
+    revision: '2022-09-30'
+    publication: '2022-09-30'
+    submitted: '2017-08-03'
+    valid: '2017-08-03'
+    accepted: '2017-09-18'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 5.866754
+      - 47.26945
+      - 15.027203
+      - 55.058945
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=33aa2643-5018-4e31-8b88-c2eb0a7a56f8
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: "M\xF6ller, Markus"
+    organization: "Julius K\xFChn Institute (JKI) \u2013 Federal Research Centre for\
+      \ Cultivated Plants, Institute for Crop and Soil Science, Bundesallee 58, D-38116\
+      \ Braunschweig, Germany"
+    email: markus.moeller@julius-kuehn.de
+    positionname: Scientist
+    phone: +49 (0) 511 76219269
+    address: "Herrenh\xE4user Strasse 2"
+    city: Hanover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: https://www.uni-goettingen.de/en/599986.html
+    fax: +49 (0) 641-99 37429

@@ -1,0 +1,65 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 91e6c3f0-e9ce-4024-8c4c-2ea67f30f139
+  hierarchylevel: dataset
+  datestamp: '2020-12-03'
+  language: eng
+identification:
+  title: Impact of P release from bone char on plant traits in a field experiment
+  abstract: null
+  dates:
+    issued: '2019-08-15'
+    creation: '2019-04-16'
+    revision: '2019-10-30'
+    publication: '2020-01-01'
+    submitted: '2019-08-07'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2017-01-05'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 9.56
+      - 51.92
+      - 12.08
+      - 53.96
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=91e6c3f0-e9ce-4024-8c4c-2ea67f30f139
+    type: null
+    name: null
+    description: null
+    function: download
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=422ec5fe-4719-4039-8fb5-bdf3e0f2b3af
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: Anika Zacher
+    organization: University of Rostock
+    email: anika.zacher@uni-rostock.de
+    positionname: Scientist
+    phone: '+493814983132'
+    address: Bundesallee 68
+    city: Rostock
+    administrativearea: Niedersachsen
+    postalcode: '18059'
+    country: Germany
+    url: http://www.thuenen.de
+    fax: +49 531 596 2699

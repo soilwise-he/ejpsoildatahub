@@ -1,0 +1,66 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 84c741d1-d594-4b84-b90d-e417ce5c0f51
+  hierarchylevel: service
+  datestamp: '2021-03-16'
+  language: eng
+identification:
+  title: WMS Service of the dataset 'Labeling and geographical location of reference
+    sites in ORDIAmur'
+  abstract: null
+  dates:
+    issued: '2018-11-21'
+    creation: '2017-10-19'
+    revision: '2018-11-21'
+    publication: '2018-11-21'
+    submitted: '2018-07-03'
+    valid: '2017-08-03'
+    accepted: '2019-03-15'
+    notSearchableSince: '2021-04-29'
+    collected: '2015-03-01'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.92
+      - 52.01
+      - 10.85
+      - 54.0
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=84c741d1-d594-4b84-b90d-e417ce5c0f51
+    type: null
+    name: null
+    description: null
+    function: information
+  link-1:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=0374373d-7928-4422-b012-264eae21e75e
+    type: null
+    name: null
+    description: null
+    function: download
+contact:
+  pointOfContact:
+    name: ORDIAmur
+    organization: "Leibniz Universit\xE4t Hannover"
+    email: info@ordiamur.de
+    positionname: Project Coordination
+    phone: +49 511 762 3668
+    address: "Herrenh\xE4user Str. 2"
+    city: Hannover
+    administrativearea: Lower Saxony
+    postalcode: '30419'
+    country: Germany
+    url: www.ordiamur.de
+    fax: +49 511 762 3608

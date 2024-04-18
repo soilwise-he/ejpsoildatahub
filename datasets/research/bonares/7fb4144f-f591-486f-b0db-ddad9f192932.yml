@@ -1,0 +1,55 @@
+mcf:
+  version: '1.0'
+metadata:
+  identifier: 7fb4144f-f591-486f-b0db-ddad9f192932
+  hierarchylevel: dataset
+  datestamp: '2024-03-20'
+  language: eng
+identification:
+  title: Abundance of different microorganism groups in soil and roots in a field
+    trial on starter fertilization and application of plant growth-promoting microorganisms
+    - Abundance of various microorganism groups in roots
+  abstract: null
+  dates:
+    issued: '2024-03-04'
+    creation: '2024-03-04'
+    revision: '2024-03-04'
+    publication: '2024-03-04'
+  topiccategory:
+  - farming
+  extents:
+    spatial:
+    - bbox:
+      - 8.763083
+      - 53.732389
+      - 12.082694
+      - 54.060599
+    temporal:
+    - begin: null
+      end: null
+  accessconstraints: copyright
+  status: null
+distribution:
+  csw:
+    name: csw
+    url: https://maps.bonares.de/soapServices/CSWStartup
+    type: OGC:CSW
+  link-0:
+    url: https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=7fb4144f-f591-486f-b0db-ddad9f192932
+    type: null
+    name: null
+    description: null
+    function: information
+contact:
+  pointOfContact:
+    name: Lena Geist
+    organization: Leibniz Centre for Agricultural Landscape Research
+    email: Lena.Geist@zalf.de
+    positionname: Scientific staff
+    phone: '+494318804398'
+    address: Hermann-Rodewald-Str. 9
+    city: Kiel
+    administrativearea: Schleswig-Holstein
+    postalcode: '24118'
+    country: Germany
+    url: http://www.pflanzenbau.uni-kiel.de/de/mitarbeiter/wiss.-mitarbeiter/rothardt-steffen
