@@ -8,6 +8,7 @@ identification:
         crs: 4326
   keywords:
     source:
-      keywords: EJPSoil
+      keywords: 
+        - EJPSoil
       vocabulary:
         name: voc-source
