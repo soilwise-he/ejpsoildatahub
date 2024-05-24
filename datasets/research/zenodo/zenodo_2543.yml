@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6072392
   dataseturi: https://doi.org/10.5281/zenodo.6072392
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Wine, soil, heavy metals, ICP-MS, HR-CS-AAS, wine-growing area
+        -  Wine, soil, heavy metals, ICP-MS, HR-CS-AAS, wine-growing area
   status: ''
   language: ang
   dates:

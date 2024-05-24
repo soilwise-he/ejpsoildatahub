@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7861110
   dataseturi: https://doi.org/10.5281/zenodo.7861110
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -60,7 +60,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil loss, Soil Fertility , GIS and Remote Sensing, RUSLE, Sebeya
+        -  Soil loss, Soil Fertility , GIS and Remote Sensing, RUSLE, Sebeya
           Catchement
   status: ''
   language: ''

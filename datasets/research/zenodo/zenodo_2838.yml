@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10444996
   dataseturi: https://doi.org/10.5281/zenodo.10444996
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Sustainable Farming
+        -  Sustainable Farming
   status: ''
   language: eng
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8260698
   dataseturi: https://doi.org/10.5281/zenodo.8260698
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -37,7 +37,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil and Crop Management, Water Use Efficiency, Impact, Rain Fed,
+        -  Soil and Crop Management, Water Use Efficiency, Impact, Rain Fed,
           Technologies, West Asia, Africa
   status: ''
   language: eng

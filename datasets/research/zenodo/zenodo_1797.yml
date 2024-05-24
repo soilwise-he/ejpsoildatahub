@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7218193
   dataseturi: https://doi.org/10.5281/zenodo.7218193
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Wetland Soil
+        -  Wetland Soil
   status: ''
   language: ''
   dates:

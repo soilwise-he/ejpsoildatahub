@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7056901
   dataseturi: https://doi.org/10.5281/zenodo.7056901
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: NMDC Dantewada, X-ray diffraction, soil clay mineral, physicochemical
+        -  NMDC Dantewada, X-ray diffraction, soil clay mineral, physicochemical
           properties.
   status: ''
   language: eng

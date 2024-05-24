@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8116942
   dataseturi: https://doi.org/10.5281/zenodo.8116942
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Black Cotton Soil, Crushed Waste Glass, Strength of Soil, Modified
+        -  Black Cotton Soil, Crushed Waste Glass, Strength of Soil, Modified
           Procter Test, BC Soil MDD,OMC,WFS, WGP,BC Soil Stabilization
   status: ''
   language: ''

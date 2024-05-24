@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7227587
   dataseturi: https://doi.org/10.5281/zenodo.7227587
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -18,7 +18,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: seedling, soil, garden, fruit, graft, tree
+        -  seedling, soil, garden, fruit, graft, tree
   status: ''
   language: uzb
   dates:

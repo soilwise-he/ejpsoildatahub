@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10077319
   dataseturi: https://doi.org/10.5281/zenodo.10077319
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: SAP2000, Design, Prefabricated Structure, and Dynamic Analysis
+        -  SAP2000, Design, Prefabricated Structure, and Dynamic Analysis
   status: ''
   language: eng
   dates:

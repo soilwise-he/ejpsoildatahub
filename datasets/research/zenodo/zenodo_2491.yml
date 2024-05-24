@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5559282
   dataseturi: https://doi.org/10.5281/zenodo.5559282
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Research; Soil fertility management; Plant nutrition; Cashew; Nigeria
+        -  Research; Soil fertility management; Plant nutrition; Cashew; Nigeria
   status: ''
   language: eng
   dates:

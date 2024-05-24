@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6371284
   dataseturi: https://doi.org/10.5281/zenodo.6371284
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: phytoremediation, Corn (Zea mays), heavy metals
+        -  phytoremediation, Corn (Zea mays), heavy metals
   status: ''
   language: eng
   dates:

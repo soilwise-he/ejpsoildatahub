@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6822222
   dataseturi: https://doi.org/10.5281/zenodo.6822222
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Nitrogen Fixation
+        -  Nitrogen Fixation
   status: ''
   language: ''
   dates:

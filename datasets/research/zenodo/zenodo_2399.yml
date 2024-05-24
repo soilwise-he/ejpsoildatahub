@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7489186
   dataseturi: https://doi.org/10.5281/zenodo.7489186
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Resilient modulus, XGBoost, machine learning, pavement
+        -  Resilient modulus, XGBoost, machine learning, pavement
   status: ''
   language: eng
   dates:

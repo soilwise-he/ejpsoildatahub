@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7969587
   dataseturi: https://doi.org/10.5281/zenodo.7969587
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: economic region, soil, agro ecological, flora, fauna, agriculture,
+        -  economic region, soil, agro ecological, flora, fauna, agriculture,
           fertility
   status: ''
   language: ''

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10677142
   dataseturi: https://doi.org/10.5281/zenodo.10677142
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -16,7 +16,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: structure, int, float, double, while, do While in C++ programming
+        -  structure, int, float, double, while, do While in C++ programming
           language
   status: ''
   language: eng

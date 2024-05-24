@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6669422
   dataseturi: https://doi.org/10.5281/zenodo.6669422
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -18,7 +18,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: cotton, seeds, soil, moisture, soil moisture, soil temperature, planting
+        -  cotton, seeds, soil, moisture, soil moisture, soil temperature, planting
           systems, row spacing, double sowing, temperature change, air exchange.
   status: ''
   language: eng

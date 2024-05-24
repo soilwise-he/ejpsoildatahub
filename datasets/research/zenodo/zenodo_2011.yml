@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6163395
   dataseturi: https://doi.org/10.5281/zenodo.6163395
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Uranium
+        -  Uranium
   status: ''
   language: eng
   dates:

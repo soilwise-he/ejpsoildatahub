@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5827168
   dataseturi: https://doi.org/10.5281/zenodo.5827168
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: decomposition of dithiocarbamate
+        -  decomposition of dithiocarbamate
   status: ''
   language: eng
   dates:

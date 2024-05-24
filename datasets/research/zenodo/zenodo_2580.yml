@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7195825
   dataseturi: https://doi.org/10.5281/zenodo.7195825
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: comb former, body, soil, dump, corps wing, agrotechnical and energetic
+        -  comb former, body, soil, dump, corps wing, agrotechnical and energetic
           indicators of the device.
   status: ''
   language: uzb

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7728375
   dataseturi: https://doi.org/10.5281/zenodo.7728375
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.paperpublications.org/upload/book/TREES%20SPECIES%20DIVERSITY-13032023-1.pdf
+        -  https://www.paperpublications.org/upload/book/TREES%20SPECIES%20DIVERSITY-13032023-1.pdf
         subjectScheme: url
   status: ''
   language: eng

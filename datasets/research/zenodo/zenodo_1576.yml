@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8103712
   dataseturi: https://doi.org/10.5281/zenodo.8103712
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil salinity
+        -  soil salinity
   status: ''
   language: ''
   dates:

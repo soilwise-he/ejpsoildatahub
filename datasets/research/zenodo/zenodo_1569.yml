@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5860697
   dataseturi: https://doi.org/10.5281/zenodo.5860697
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -21,7 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Chemicals, soil, pesticides, environment, nitrogen, chickpeas, protein,
+        -  Chemicals, soil, pesticides, environment, nitrogen, chickpeas, protein,
           biological nitrogen, root system, root bacteria, nitrogen fixing bacteria,
           bean phase, planting time, flowering phase.
   status: ''

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5918852
   dataseturi: https://doi.org/10.5281/zenodo.5918852
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil microbial enzymes, Pollution, Generator fumes
+        -  Soil microbial enzymes, Pollution, Generator fumes
   status: ''
   language: ''
   dates:

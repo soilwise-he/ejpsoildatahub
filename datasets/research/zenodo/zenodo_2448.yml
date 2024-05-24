@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8351555
   dataseturi: https://doi.org/10.5281/zenodo.8351555
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: irrigation from under the soil, sandy soil, saline soil, gravitational-capillary,
+        -  irrigation from under the soil, sandy soil, saline soil, gravitational-capillary,
           sorbic, condensation, hydrostatic pressure.
   status: ''
   language: eng

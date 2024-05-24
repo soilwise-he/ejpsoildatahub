@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8166727
   dataseturi: https://doi.org/10.5281/zenodo.8166727
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil properties; Soil Fertility; Nutrient status; Calcium; Magnesium
+        -  Soil properties; Soil Fertility; Nutrient status; Calcium; Magnesium
           Industrial Area.
   status: ''
   language: eng

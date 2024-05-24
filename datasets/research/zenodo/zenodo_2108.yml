@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5642767
   dataseturi: https://doi.org/10.5281/zenodo.5642767
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Phylogenetic Analysis
+        -  Phylogenetic Analysis
   status: ''
   language: eng
   dates:

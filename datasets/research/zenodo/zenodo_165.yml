@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7405954
   dataseturi: https://doi.org/10.5281/zenodo.7405954
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Hydrogel, soil organic carbon, polymers, absorbents.
+        -  Hydrogel, soil organic carbon, polymers, absorbents.
   status: ''
   language: rus
   dates:

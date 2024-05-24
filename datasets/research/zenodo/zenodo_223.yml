@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7297672
   dataseturi: https://doi.org/10.5281/zenodo.7297672
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -21,7 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Disease Control
+        -  Disease Control
   status: ''
   language: ''
   dates:

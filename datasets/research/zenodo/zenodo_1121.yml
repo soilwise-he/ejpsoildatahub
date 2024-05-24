@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6630123
   dataseturi: https://doi.org/10.5281/zenodo.6630123
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -21,7 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Rice Husk Ash, Soil Stabilization, concertation (10, 20 and 30%)
+        -  Rice Husk Ash, Soil Stabilization, concertation (10, 20 and 30%)
   status: ''
   language: eng
   dates:

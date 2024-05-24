@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8130711
   dataseturi: https://doi.org/10.5281/zenodo.8130711
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Water conservation; traditional practices; rainwater harvesting;
+        -  Water conservation; traditional practices; rainwater harvesting;
           soil conservation; modern practices; artificial recharge.
   status: ''
   language: ''

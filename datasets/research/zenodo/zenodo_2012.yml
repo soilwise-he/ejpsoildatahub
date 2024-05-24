@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7600063
   dataseturi: https://doi.org/10.5281/zenodo.7600063
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -17,7 +17,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Namoi radar
+        -  Namoi radar
   status: ''
   language: ''
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10684012
   dataseturi: https://doi.org/10.5281/zenodo.10684012
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Agriculture and Research
+        -  Agriculture and Research
   status: ''
   language: eng
   dates:

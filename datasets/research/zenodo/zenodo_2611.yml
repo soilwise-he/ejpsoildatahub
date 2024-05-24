@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7721799
   dataseturi: https://doi.org/10.5281/zenodo.7721799
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -50,7 +50,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.paperpublications.org/upload/book/Contamination%20Profile%20of%20Hydrocarbons-11032023-3.pdf
+        -  https://www.paperpublications.org/upload/book/Contamination%20Profile%20of%20Hydrocarbons-11032023-3.pdf
         subjectScheme: url
   status: ''
   language: eng

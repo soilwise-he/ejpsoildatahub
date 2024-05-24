@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7491455
   dataseturi: https://doi.org/10.5281/zenodo.7491455
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -18,7 +18,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil, toxic salts, environmental condition, soil fertility, dustAral
+        -  soil, toxic salts, environmental condition, soil fertility, dustAral
           Sea, saline soil, halophyte, sodium, chloride, plant
   status: ''
   language: eng

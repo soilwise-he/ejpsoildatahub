@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6378998
   dataseturi: https://doi.org/10.5281/zenodo.6378998
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -49,7 +49,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: hedges
+        -  hedges
   status: ''
   language: ''
   dates:

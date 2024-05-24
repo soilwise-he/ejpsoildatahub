@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6427061
   dataseturi: https://doi.org/10.5281/zenodo.6427061
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Alcohol Soluble Soil Organic Matter
+        -  Alcohol Soluble Soil Organic Matter
   status: ''
   language: eng
   dates:

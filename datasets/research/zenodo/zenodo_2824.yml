@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5837583
   dataseturi: https://doi.org/10.5281/zenodo.5837583
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: "PSC poles, Full-scale field test, Design wind load, Soil\u2013structure-interaction,\
+        -  "PSC poles, Full-scale field test, Design wind load, Soil\u2013structure-interaction,\
           \ foundation soil analysis"
   status: ''
   language: eng

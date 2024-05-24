@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8200483
   dataseturi: https://doi.org/10.5281/zenodo.8200483
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -24,7 +24,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Resources Management
+        -  Resources Management
   status: ''
   language: eng
   dates:

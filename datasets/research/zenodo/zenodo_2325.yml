@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6473209
   dataseturi: https://doi.org/10.5281/zenodo.6473209
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: EM-bokashi, lahar soil, organic, pot, radish
+        -  EM-bokashi, lahar soil, organic, pot, radish
   status: ''
   language: eng
   dates:

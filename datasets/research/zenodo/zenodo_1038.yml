@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10389365
   dataseturi: https://doi.org/10.5281/zenodo.10389365
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -24,7 +24,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil investigation, Bore holes, Soil profile, Bore log report.
+        -  Soil investigation, Bore holes, Soil profile, Bore log report.
   status: ''
   language: eng
   dates:

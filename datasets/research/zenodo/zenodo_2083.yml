@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7317344
   dataseturi: https://doi.org/10.5281/zenodo.7317344
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -37,7 +37,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: spectral density of traction
+        -  spectral density of traction
   status: ''
   language: ukr
   dates:

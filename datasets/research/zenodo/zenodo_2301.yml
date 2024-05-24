@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8425054
   dataseturi: https://doi.org/10.5281/zenodo.8425054
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Electrical Conductivity (EC) Macro Nutrients Micro Nutrients Nutrient
+        -  Electrical Conductivity (EC) Macro Nutrients Micro Nutrients Nutrient
           Index (NI) Soil Organic Matter (SOM) Water Holding Capacity (WHC)
   status: ''
   language: ''

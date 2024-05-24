@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5545992
   dataseturi: https://doi.org/10.5281/zenodo.5545992
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Common agricultural policy; Environmental policy; Nutrient losses;
+        -  Common agricultural policy; Environmental policy; Nutrient losses;
           Soil organisms; Agricultural practices; Sustainability; European Union
   status: ''
   language: ''

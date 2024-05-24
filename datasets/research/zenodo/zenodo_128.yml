@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8181269
   dataseturi: https://doi.org/10.5281/zenodo.8181269
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil, method, purification, contaminated, heavy metals.
+        -  soil, method, purification, contaminated, heavy metals.
   status: ''
   language: ''
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7464562
   dataseturi: https://doi.org/10.5281/zenodo.7464562
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -27,7 +27,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Climate change and biodiversity conservation
+        -  Climate change and biodiversity conservation
   status: ''
   language: eng
   dates:

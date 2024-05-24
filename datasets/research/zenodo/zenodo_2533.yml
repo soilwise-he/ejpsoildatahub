@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7027628
   dataseturi: https://doi.org/10.5281/zenodo.7027628
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: disk, structure, solid, furrow, soil, cutting, horizontal, lapy,
+        -  disk, structure, solid, furrow, soil, cutting, horizontal, lapy,
           row.
   status: ''
   language: uzb

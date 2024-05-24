@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10725471
   dataseturi: https://doi.org/10.5281/zenodo.10725471
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -43,7 +43,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Industries-Bidadi
+        -  Industries-Bidadi
   status: ''
   language: ''
   dates:

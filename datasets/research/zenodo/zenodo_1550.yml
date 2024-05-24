@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8085898
   dataseturi: https://doi.org/10.5281/zenodo.8085898
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil profile; soil salinization; spatio-temporal variation; electromagnetic
+        -  soil profile; soil salinization; spatio-temporal variation; electromagnetic
           induction; three-dimension visualization
   status: ''
   language: ''

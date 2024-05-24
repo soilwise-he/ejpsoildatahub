@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6164716
   dataseturi: https://doi.org/10.5281/zenodo.6164716
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Sulphamic acid
+        -  Sulphamic acid
   status: ''
   language: eng
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10390063
   dataseturi: https://doi.org/10.5281/zenodo.10390063
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: BSF, food waste, nutrition, organic, soil
+        -  BSF, food waste, nutrition, organic, soil
   status: ''
   language: eng
   dates:

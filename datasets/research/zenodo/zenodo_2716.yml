@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8216523
   dataseturi: https://doi.org/10.5281/zenodo.8216523
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Structure visual, Aggregate stability, Bulk density, Microbial organic
+        -  Structure visual, Aggregate stability, Bulk density, Microbial organic
           carbone, Particular organic carbon, No tillage
   status: ''
   language: eng

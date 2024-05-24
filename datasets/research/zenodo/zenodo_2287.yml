@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10156495
   dataseturi: https://doi.org/10.5281/zenodo.10156495
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -37,7 +37,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Content of C, N, P, K, Alluvial Soil
+        -  Content of C, N, P, K, Alluvial Soil
   status: ''
   language: eng
   dates:

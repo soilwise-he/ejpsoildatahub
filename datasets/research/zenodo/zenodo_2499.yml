@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6111230
   dataseturi: https://doi.org/10.5281/zenodo.6111230
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Trenchless technology, drill pipe, bending radius, material handling,
+        -  Trenchless technology, drill pipe, bending radius, material handling,
           soil.
   status: ''
   language: ''

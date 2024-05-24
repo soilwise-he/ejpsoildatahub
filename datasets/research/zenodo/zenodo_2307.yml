@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7395929
   dataseturi: https://doi.org/10.5281/zenodo.7395929
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil, land degradation, anthropogenic factors
+        -  soil, land degradation, anthropogenic factors
   status: ''
   language: ''
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5843333
   dataseturi: https://doi.org/10.5281/zenodo.5843333
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: envisages
+        -  envisages
   status: ''
   language: eng
   dates:

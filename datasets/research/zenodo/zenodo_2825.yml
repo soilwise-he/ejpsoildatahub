@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6770506
   dataseturi: https://doi.org/10.5281/zenodo.6770506
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil, Gamma ray spectroscopy, Activity Concentration, Radiological
+        -  Soil, Gamma ray spectroscopy, Activity Concentration, Radiological
           hazard parameters, statistical analysis.
   status: ''
   language: ''

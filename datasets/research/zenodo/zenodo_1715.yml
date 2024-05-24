@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7270112
   dataseturi: https://doi.org/10.5281/zenodo.7270112
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -99,7 +99,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Relative water content, biomass, membrane stability index, leaf area
+        -  Relative water content, biomass, membrane stability index, leaf area
           index, antioxidant enzymes, stress.
   status: ''
   language: eng

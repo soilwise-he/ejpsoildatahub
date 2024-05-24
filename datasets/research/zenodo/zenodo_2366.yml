@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10419377
   dataseturi: https://doi.org/10.5281/zenodo.10419377
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Irrigated barren meadow soils, mineral and organic fertilizers, phosphogypsum,
+        -  Irrigated barren meadow soils, mineral and organic fertilizers, phosphogypsum,
           ammonium and nitrate nitrogen.
   status: ''
   language: eng

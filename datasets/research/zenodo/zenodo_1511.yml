@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5560298
   dataseturi: https://doi.org/10.5281/zenodo.5560298
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -46,7 +46,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Fungi; Gluconic acid; Temperature; pH; Substrate concentration and
+        -  Fungi; Gluconic acid; Temperature; pH; Substrate concentration and
           fermentation time
   status: ''
   language: eng

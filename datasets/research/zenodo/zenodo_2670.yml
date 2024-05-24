@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8048316
   dataseturi: https://doi.org/10.5281/zenodo.8048316
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: ': Antibiotics, Soil Bacteria, Antibiotic resistance, Bacillus cereus,
+        -  ': Antibiotics, Soil Bacteria, Antibiotic resistance, Bacillus cereus,
           environmental bacteria'
   status: ''
   language: ''

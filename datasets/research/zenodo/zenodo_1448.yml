@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8002494
   dataseturi: https://doi.org/10.5281/zenodo.8002494
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: 'Keywords: Densely populated areas, efficient land use, irrigated
+        -  'Keywords: Densely populated areas, efficient land use, irrigated
           land, correlated criteria, dense arzic layer, drainage, sandy layer.'
   status: ''
   language: ''

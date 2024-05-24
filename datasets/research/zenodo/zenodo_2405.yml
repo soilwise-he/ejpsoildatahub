@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8432352
   dataseturi: https://doi.org/10.5281/zenodo.8432352
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: humidifier, pipe, sandy soil, saline soil, gravitational-capillary,
+        -  humidifier, pipe, sandy soil, saline soil, gravitational-capillary,
           sorption, condensation, hydrostatic pressure.
   status: ''
   language: eng

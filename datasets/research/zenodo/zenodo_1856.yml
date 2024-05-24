@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6275229
   dataseturi: https://doi.org/10.5281/zenodo.6275229
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Potassium Dihydrogen Phosphate
+        -  Potassium Dihydrogen Phosphate
   status: ''
   language: eng
   dates:

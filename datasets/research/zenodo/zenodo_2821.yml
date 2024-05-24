@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7385229
   dataseturi: https://doi.org/10.5281/zenodo.7385229
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil erosion, vegetation index, vegetation cover, remote sensing.
+        -  soil erosion, vegetation index, vegetation cover, remote sensing.
   status: ''
   language: ''
   dates:

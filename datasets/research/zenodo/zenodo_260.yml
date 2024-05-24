@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7035909
   dataseturi: https://doi.org/10.5281/zenodo.7035909
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Solanum lycopersicum; tillage system; plastic cover, live cover,
+        -  Solanum lycopersicum; tillage system; plastic cover, live cover,
           straw.
   status: ''
   language: eng

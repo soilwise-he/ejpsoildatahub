@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5718127
   dataseturi: https://doi.org/10.5281/zenodo.5718127
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: different forms of N,N-mineralization
+        -  different forms of N,N-mineralization
   status: ''
   language: eng
   dates:

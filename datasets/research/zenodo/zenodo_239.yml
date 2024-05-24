@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7742015
   dataseturi: https://doi.org/10.5281/zenodo.7742015
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil Health, Indicators, Scotland
+        -  Soil Health, Indicators, Scotland
   status: ''
   language: eng
   dates:

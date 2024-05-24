@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5763169
   dataseturi: https://doi.org/10.5281/zenodo.5763169
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Physiochemical; Microorganisms; Biodegradation; Bacterial
+        -  Physiochemical; Microorganisms; Biodegradation; Bacterial
   status: ''
   language: eng
   dates:

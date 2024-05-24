@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7611844
   dataseturi: https://doi.org/10.5281/zenodo.7611844
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Diversity, Nepenthes spp, Soil Microbes, Lore Lindu National Park
+        -  Diversity, Nepenthes spp, Soil Microbes, Lore Lindu National Park
   status: ''
   language: eng
   dates:

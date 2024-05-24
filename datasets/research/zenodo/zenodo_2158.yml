@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6413526
   dataseturi: https://doi.org/10.5281/zenodo.6413526
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Phosphorus in soil
+        -  Phosphorus in soil
   status: ''
   language: eng
   dates:

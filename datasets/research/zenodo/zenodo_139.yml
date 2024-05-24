@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5829947
   dataseturi: https://doi.org/10.5281/zenodo.5829947
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: compression index
+        -  compression index
   status: ''
   language: eng
   dates:

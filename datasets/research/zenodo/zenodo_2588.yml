@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10401818
   dataseturi: https://doi.org/10.5281/zenodo.10401818
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -21,7 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: bacteria, winter wheat, tillage
+        -  bacteria, winter wheat, tillage
   status: ''
   language:
   - eng

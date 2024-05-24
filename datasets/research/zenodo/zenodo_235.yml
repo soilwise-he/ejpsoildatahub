@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5816811
   dataseturi: https://doi.org/10.5281/zenodo.5816811
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Purulia soil
+        -  Purulia soil
   status: ''
   language: eng
   dates:

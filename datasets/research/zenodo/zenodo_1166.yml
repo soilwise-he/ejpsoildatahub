@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7219515
   dataseturi: https://doi.org/10.5281/zenodo.7219515
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Water Management
+        -  Water Management
   status: ''
   language: ''
   dates:

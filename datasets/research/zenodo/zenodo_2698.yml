@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8418103
   dataseturi: https://doi.org/10.5281/zenodo.8418103
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Amaranth, growth, development, geographical distribution, agrotechnics,
+        -  Amaranth, growth, development, geographical distribution, agrotechnics,
           row spacing, planting.
   status: ''
   language: uzb

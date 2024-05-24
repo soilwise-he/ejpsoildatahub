@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8238488
   dataseturi: https://doi.org/10.5281/zenodo.8238488
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Wheel-Soil, Sensors, Shear stress
+        -  Wheel-Soil, Sensors, Shear stress
   status: ''
   language: eng
   dates:

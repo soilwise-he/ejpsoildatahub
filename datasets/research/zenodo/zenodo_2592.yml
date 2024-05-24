@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7007341
   dataseturi: https://doi.org/10.5281/zenodo.7007341
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: 'Keywords: mung bean grain, mung bean stalk, macro - and microelements,
+        -  'Keywords: mung bean grain, mung bean stalk, macro - and microelements,
           soil, toxins, neuron-activation analysis.'
   status: ''
   language: ''

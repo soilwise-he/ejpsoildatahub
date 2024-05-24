@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6585002
   dataseturi: https://doi.org/10.5281/zenodo.6585002
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil-Structure Interaction, Dynamic load.
+        -  Soil-Structure Interaction, Dynamic load.
   status: ''
   language: eng
   dates:

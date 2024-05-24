@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10352139
   dataseturi: https://doi.org/10.5281/zenodo.10352139
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: corn, siderates, manure, linen cloth.
+        -  corn, siderates, manure, linen cloth.
   status: ''
   language: ''
   dates:

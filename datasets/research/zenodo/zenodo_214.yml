@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6444844
   dataseturi: https://doi.org/10.5281/zenodo.6444844
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: humus
+        -  humus
   status: ''
   language: eng
   dates:

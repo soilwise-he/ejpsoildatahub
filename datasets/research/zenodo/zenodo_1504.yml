@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5524407
   dataseturi: https://doi.org/10.5281/zenodo.5524407
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Plastic bottle fibre, compression index, coefficient of volume change,
+        -  Plastic bottle fibre, compression index, coefficient of volume change,
           coefficient of consolidation
   status: ''
   language: eng

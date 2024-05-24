@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7122286
   dataseturi: https://doi.org/10.5281/zenodo.7122286
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil Management
+        -  Soil Management
   status: ''
   language: ''
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8351618
   dataseturi: https://doi.org/10.5281/zenodo.8351618
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -45,7 +45,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.paperpublications.org/upload/book/Carcinogenicity%20and%20Distribution-16092023-6.pdf
+        -  https://www.paperpublications.org/upload/book/Carcinogenicity%20and%20Distribution-16092023-6.pdf
         subjectScheme: url
   status: ''
   language: eng

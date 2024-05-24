@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7409854
   dataseturi: https://doi.org/10.5281/zenodo.7409854
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -53,7 +53,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: mineral, organic fertilization, soil physical traits
+        -  mineral, organic fertilization, soil physical traits
   status: ''
   language: eng
   dates:

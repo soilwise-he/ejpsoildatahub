@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8220428
   dataseturi: https://doi.org/10.5281/zenodo.8220428
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.paperpublications.org/upload/book/OIL%20EXPLOITATION%20AND%20HEAVY%20METALS-07082023-3.pdf
+        -  https://www.paperpublications.org/upload/book/OIL%20EXPLOITATION%20AND%20HEAVY%20METALS-07082023-3.pdf
         subjectScheme: url
   status: ''
   language: eng

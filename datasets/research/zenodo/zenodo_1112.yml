@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8089699
   dataseturi: https://doi.org/10.5281/zenodo.8089699
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -41,7 +41,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Uncertainty
+        -  Uncertainty
   status: ''
   language: ''
   dates:

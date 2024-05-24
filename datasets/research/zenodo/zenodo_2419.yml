@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8411930
   dataseturi: https://doi.org/10.5281/zenodo.8411930
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -43,7 +43,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Elemental Oxides; Rocks; Soil; XRD; XRF
+        -  Elemental Oxides; Rocks; Soil; XRD; XRF
   status: ''
   language: eng
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7360749
   dataseturi: https://doi.org/10.5281/zenodo.7360749
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: 'Index Terms: Soil improvement, Crushed coconut shell, Human Hair
+        -  'Index Terms: Soil improvement, Crushed coconut shell, Human Hair
           Fiber, Unconfined Compression.'
   status: ''
   language: eng

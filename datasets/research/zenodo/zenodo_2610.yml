@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5515157
   dataseturi: https://doi.org/10.5281/zenodo.5515157
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Organo-mineral compost, non-traditional agro-ore, manure, licorice
+        -  Organo-mineral compost, non-traditional agro-ore, manure, licorice
           waste, sorghum, soil fertility.
   status: ''
   language: ''

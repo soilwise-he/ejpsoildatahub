@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8211037
   dataseturi: https://doi.org/10.5281/zenodo.8211037
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Phytoremediation Diesel Polluted Zea Mays TPH Soil
+        -  Phytoremediation Diesel Polluted Zea Mays TPH Soil
   status: ''
   language: ''
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8380596
   dataseturi: https://doi.org/10.5281/zenodo.8380596
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil permeability test, Geosynthetic Clay Liner, Ultrasonic IoT
+        -  Soil permeability test, Geosynthetic Clay Liner, Ultrasonic IoT
   status: ''
   language: spa
   dates:

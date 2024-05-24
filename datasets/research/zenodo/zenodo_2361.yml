@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7341172
   dataseturi: https://doi.org/10.5281/zenodo.7341172
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil sample, HPGe detecting system, Activity concentration, Radiological
+        -  Soil sample, HPGe detecting system, Activity concentration, Radiological
           hazards parameters.
   status: ''
   language: eng

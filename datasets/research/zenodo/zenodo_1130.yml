@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7825277
   dataseturi: https://doi.org/10.5281/zenodo.7825277
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Machine Learning, Crop Yield, Cultivation, Forecasting, Plantation,
+        -  Machine Learning, Crop Yield, Cultivation, Forecasting, Plantation,
           Data Mining, Agriculture.
   status: ''
   language: ''

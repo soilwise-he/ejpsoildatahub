@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5741333
   dataseturi: https://doi.org/10.5281/zenodo.5741333
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -41,7 +41,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: remediation ratio
+        -  remediation ratio
   status: ''
   language: eng
   dates:

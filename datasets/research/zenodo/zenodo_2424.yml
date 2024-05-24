@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8354134
   dataseturi: https://doi.org/10.5281/zenodo.8354134
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -18,7 +18,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil, climate, air intake, yield, water, evaporation, mulberry leaf,
+        -  soil, climate, air intake, yield, water, evaporation, mulberry leaf,
           yield, nutrient, intensive, scheme, cocoon, bundles, twig
   status: ''
   language: ''

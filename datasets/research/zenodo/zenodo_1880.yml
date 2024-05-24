@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7919764
   dataseturi: https://doi.org/10.5281/zenodo.7919764
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Ulat Grayak; Fall Armyworm; Spodptera frugiperda; Biological Control
+        -  Ulat Grayak; Fall Armyworm; Spodptera frugiperda; Biological Control
           Agent; Bacillus Bacteria
   status: ''
   language: eng

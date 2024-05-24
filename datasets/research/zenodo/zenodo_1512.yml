@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7192728
   dataseturi: https://doi.org/10.5281/zenodo.7192728
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -36,7 +36,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Lateritic subgrade strength, resilient modulus, Light Weight Deflectometer
+        -  Lateritic subgrade strength, resilient modulus, Light Weight Deflectometer
           (LWD), Dry density, Moisture content, Silty soil, SPSS
   status: ''
   language: eng

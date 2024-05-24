@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8394944
   dataseturi: https://doi.org/10.5281/zenodo.8394944
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -24,7 +24,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Phosphate Solubilising Microorganisms (PSMs), Phosphate Solubilization
+        -  Phosphate Solubilising Microorganisms (PSMs), Phosphate Solubilization
           Index, Pikovskayas Media.
   status: ''
   language: ''

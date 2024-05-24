@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7440216
   dataseturi: https://doi.org/10.5281/zenodo.7440216
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -21,7 +21,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil cultivation, irrigation erosion, soil particles, winter wheat,
+        -  soil cultivation, irrigation erosion, soil particles, winter wheat,
           planting thickness, mineral fertilizers, vegetation height.
   status: ''
   language: uzb

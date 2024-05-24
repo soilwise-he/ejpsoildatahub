@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6999459
   dataseturi: https://doi.org/10.5281/zenodo.6999459
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Green Manures
+        -  Green Manures
   status: ''
   language: ''
   dates:

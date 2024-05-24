@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7262666
   dataseturi: https://doi.org/10.5281/zenodo.7262666
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Farm yard manure, Goat manure, Compost manure, XRD, paddy yield
+        -  Farm yard manure, Goat manure, Compost manure, XRD, paddy yield
   status: ''
   language: ''
   dates:

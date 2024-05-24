@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7690995
   dataseturi: https://doi.org/10.5281/zenodo.7690995
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.researchpublish.com/papers/accumulation-of-aluminium-and-zinc-in-chinese-convolvulus-planted-in-sida-soil-enriched-with-mixed-compost-and-bottom-ash
+        -  https://www.researchpublish.com/papers/accumulation-of-aluminium-and-zinc-in-chinese-convolvulus-planted-in-sida-soil-enriched-with-mixed-compost-and-bottom-ash
         subjectScheme: url
   status: ''
   language: eng

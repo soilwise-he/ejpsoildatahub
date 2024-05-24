@@ -8,7 +8,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: export module
+        -  export module
   title: Export module of the EJP SOIL CarboSeq WP2 database
   abstract: This export module in the form of a Jupyter Notebook with Voila widgets,
     helps users to select and extract specific information from the EJP SOIL CarboSeq

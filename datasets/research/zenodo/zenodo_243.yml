@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5812233
   dataseturi: https://doi.org/10.5281/zenodo.5812233
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -44,7 +44,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: NIGHTTIME WARMING, BIOCHAR, SILICATE, RICE, SOIL ENZYME ACTIVITY
+        -  NIGHTTIME WARMING, BIOCHAR, SILICATE, RICE, SOIL ENZYME ACTIVITY
   status: ''
   language: ''
   dates:

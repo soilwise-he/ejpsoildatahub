@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8082199
   dataseturi: https://doi.org/10.5281/zenodo.8082199
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: resources,soul, subgrade soil, materials,etc.
+        -  resources,soul, subgrade soil, materials,etc.
   status: ''
   language: eng
   dates:

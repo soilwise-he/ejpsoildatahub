@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7780737
   dataseturi: https://doi.org/10.5281/zenodo.7780737
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Prediction
+        -  Prediction
   status: ''
   language: ''
   dates:

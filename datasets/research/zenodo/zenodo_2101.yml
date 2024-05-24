@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7219469
   dataseturi: https://doi.org/10.5281/zenodo.7219469
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -75,7 +75,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Chlorophyll; Fly ash; Germination; Seedling vigour; Rice
+        -  Chlorophyll; Fly ash; Germination; Seedling vigour; Rice
   status: ''
   language: eng
   dates:

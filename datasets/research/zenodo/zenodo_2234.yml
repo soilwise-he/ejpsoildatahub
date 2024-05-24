@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5595102
   dataseturi: https://doi.org/10.5281/zenodo.5595102
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: available Zn
+        -  available Zn
   status: ''
   language: eng
   dates:

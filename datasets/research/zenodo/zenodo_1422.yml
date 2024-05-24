@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10652532
   dataseturi: https://doi.org/10.5281/zenodo.10652532
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -37,7 +37,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Bauchi
+        -  Bauchi
   status: ''
   language: eng
   dates:

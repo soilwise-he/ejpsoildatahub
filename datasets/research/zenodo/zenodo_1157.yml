@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8224344
   dataseturi: https://doi.org/10.5281/zenodo.8224344
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil pH, Chemical amendment, Soil texture, pH conditioning
+        -  Soil pH, Chemical amendment, Soil texture, pH conditioning
   status: ''
   language: eng
   dates:

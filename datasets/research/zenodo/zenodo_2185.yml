@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7680045
   dataseturi: https://doi.org/10.5281/zenodo.7680045
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -43,7 +43,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Cow Dung Ash (CDA); Calcium Hydroxide; Pozzolanic activity; Stabilization;
+        -  Cow Dung Ash (CDA); Calcium Hydroxide; Pozzolanic activity; Stabilization;
           CBR
   status: ''
   language: eng

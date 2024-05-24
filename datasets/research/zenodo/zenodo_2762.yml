@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10392290
   dataseturi: https://doi.org/10.5281/zenodo.10392290
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Winter wheat, rice, variety, selection, circumstances, stressors,
+        -  Winter wheat, rice, variety, selection, circumstances, stressors,
           grain, harvest, growth stages, density, and growing season
   status: ''
   language: eng

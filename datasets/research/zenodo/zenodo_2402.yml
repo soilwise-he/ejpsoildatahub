@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7771651
   dataseturi: https://doi.org/10.5281/zenodo.7771651
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Water Quality Qaimabad Hyderabad Sindh
+        -  Water Quality Qaimabad Hyderabad Sindh
   status: ''
   language: ''
   dates:

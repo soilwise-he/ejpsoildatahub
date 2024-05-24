@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7178525
   dataseturi: https://doi.org/10.5281/zenodo.7178525
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: alluvial soils, salinity, corn, fertility, soil fertility, fodder,
+        -  alluvial soils, salinity, corn, fertility, soil fertility, fodder,
           food, medicine, microbiology, chemical industry, national economy, local
           and foreign scientists, ecological, in the conditions of Khorezm region.
   status: ''

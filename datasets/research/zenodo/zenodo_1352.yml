@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10443457
   dataseturi: https://doi.org/10.5281/zenodo.10443457
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Combined analysis, correlation, grain yield, significant effect and
+        -  Combined analysis, correlation, grain yield, significant effect and
           Zea mays L.
   status: ''
   language: ''

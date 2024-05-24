@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10158475
   dataseturi: https://doi.org/10.5281/zenodo.10158475
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -56,7 +56,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil, Geo-Textile, Quarry Dust, water,etc.
+        -  Soil, Geo-Textile, Quarry Dust, water,etc.
   status: ''
   language: eng
   dates:

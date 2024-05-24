@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7920208
   dataseturi: https://doi.org/10.5281/zenodo.7920208
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Antibacterial activity; Soil; Bacteria isolated; Nitrogen source;
+        -  Antibacterial activity; Soil; Bacteria isolated; Nitrogen source;
           Inhibit
   status: ''
   language: eng

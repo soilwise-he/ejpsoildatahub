@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5802644
   dataseturi: https://doi.org/10.5281/zenodo.5802644
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Clayey soil, stabilization, fatigue life, coir fiber
+        -  Clayey soil, stabilization, fatigue life, coir fiber
   status: ''
   language: eng
   dates:

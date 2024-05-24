@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8053155
   dataseturi: https://doi.org/10.5281/zenodo.8053155
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: 'KEYWORDS: environmental crisis, evolutionary process, dialectical
+        -  'KEYWORDS: environmental crisis, evolutionary process, dialectical
           unit, environmental ignorance, anthropogen factor, natural ecosystem, biosenoses,
           ecosystem agrobiocenoses, minerals, chemical means.'
   status: ''

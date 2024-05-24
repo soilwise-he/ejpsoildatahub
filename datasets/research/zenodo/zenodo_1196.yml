@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5595360
   dataseturi: https://doi.org/10.5281/zenodo.5595360
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -62,7 +62,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: "an\xE1lisis de la ecuaci\xF3n"
+        -  "an\xE1lisis de la ecuaci\xF3n"
   status: ''
   language: eng
   dates:

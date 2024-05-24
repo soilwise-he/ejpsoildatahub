@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8318961
   dataseturi: https://doi.org/10.5281/zenodo.8318961
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -27,7 +27,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Liquid Limit, Plastic Limit, Standard Proctor, Saline Water.
+        -  Liquid Limit, Plastic Limit, Standard Proctor, Saline Water.
   status: ''
   language: ''
   dates:

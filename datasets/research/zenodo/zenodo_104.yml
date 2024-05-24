@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8362647
   dataseturi: https://doi.org/10.5281/zenodo.8362647
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -18,7 +18,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: microorganism, microflora, bacteria, microbes, the structure of the
+        -  microorganism, microflora, bacteria, microbes, the structure of the
           soil, aerobes, biological nitrogen, anaerobes, saprophytes, symbiosis, mycorrhiza,
           ammonification, nitrification.
   status: ''

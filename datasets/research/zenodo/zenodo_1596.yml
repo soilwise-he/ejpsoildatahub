@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7678191
   dataseturi: https://doi.org/10.5281/zenodo.7678191
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: bean, light industry, raw materials, Agro-technology, grade, ascachitosis,
+        -  bean, light industry, raw materials, Agro-technology, grade, ascachitosis,
           vitamin, lalmi.
   status: ''
   language: ''

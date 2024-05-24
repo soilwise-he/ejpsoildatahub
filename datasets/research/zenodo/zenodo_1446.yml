@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6003832
   dataseturi: https://doi.org/10.5281/zenodo.6003832
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -36,7 +36,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Triaxial test, stress-strain controlled triaxial test, recent development
+        -  Triaxial test, stress-strain controlled triaxial test, recent development
   status: ''
   language: eng
   dates:

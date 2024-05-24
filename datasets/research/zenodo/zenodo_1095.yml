@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8308106
   dataseturi: https://doi.org/10.5281/zenodo.8308106
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Perennial, Sustainable agriculture, synthetic fertilizer, agriculture
+        -  Perennial, Sustainable agriculture, synthetic fertilizer, agriculture
           management
   status: ''
   language: ang

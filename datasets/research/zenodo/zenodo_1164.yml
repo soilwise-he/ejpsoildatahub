@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8086166
   dataseturi: https://doi.org/10.5281/zenodo.8086166
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -48,7 +48,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Volume computation
+        -  Volume computation
   status: ''
   language: eng
   dates:

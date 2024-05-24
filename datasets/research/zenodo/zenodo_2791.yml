@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6545486
   dataseturi: https://doi.org/10.5281/zenodo.6545486
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -44,7 +44,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.noveltyjournals.com/upload/paper/The%20Potential%20of%20Soil%20Properties-13052022-1.pdf
+        -  https://www.noveltyjournals.com/upload/paper/The%20Potential%20of%20Soil%20Properties-13052022-1.pdf
         subjectScheme: url
   status: ''
   language: eng

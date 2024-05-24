@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8359947
   dataseturi: https://doi.org/10.5281/zenodo.8359947
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: fusarium oxysporum, pseudomonas chlororaphis, pseudomonas extremaustralis,
+        -  fusarium oxysporum, pseudomonas chlororaphis, pseudomonas extremaustralis,
           pseudomonas kilonensis, pseudomonas putida, capsicum annum group, solanum
           lycopersicum, capsicum annum group
   status: ''

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10701483
   dataseturi: https://doi.org/10.5281/zenodo.10701483
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Solid Waste Dump Yard
+        -  Solid Waste Dump Yard
   status: ''
   language: ''
   dates:

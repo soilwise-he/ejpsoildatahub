@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10403001
   dataseturi: https://doi.org/10.5281/zenodo.10403001
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: triticale, barley, variety, seed, protein, vitamin, variety test,
+        -  triticale, barley, variety, seed, protein, vitamin, variety test,
           planting time, development phases, stem, ear, grain, yield
   status: ''
   language: ''

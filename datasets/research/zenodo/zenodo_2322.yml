@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6984988
   dataseturi: https://doi.org/10.5281/zenodo.6984988
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -26,7 +26,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil Series Characteristics Soil Resource Inventory Nutrients Status
+        -  Soil Series Characteristics Soil Resource Inventory Nutrients Status
   status: ''
   language: ''
   dates:

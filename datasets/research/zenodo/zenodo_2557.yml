@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5893028
   dataseturi: https://doi.org/10.5281/zenodo.5893028
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -41,7 +41,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Landfill liner
+        -  Landfill liner
   status: ''
   language: eng
   dates:

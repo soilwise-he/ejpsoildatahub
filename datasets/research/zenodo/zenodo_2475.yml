@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8421936
   dataseturi: https://doi.org/10.5281/zenodo.8421936
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Sahelian cropping system
+        -  Sahelian cropping system
   status: ''
   language: eng
   dates:

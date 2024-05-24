@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7580740
   dataseturi: https://doi.org/10.5281/zenodo.7580740
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Consideration and assumptions, Factor of safety, stability analysis,
+        -  Consideration and assumptions, Factor of safety, stability analysis,
           Slop of Finite Height, Taylor's stability, Method of slices for steady seepage,
           Numerical method.
   status: ''

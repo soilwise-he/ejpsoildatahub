@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7731939
   dataseturi: https://doi.org/10.5281/zenodo.7731939
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -50,7 +50,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Laterite soil, Quarry Dust, Cement, Sharp Sand, Stabilization, Sub-base
+        -  Laterite soil, Quarry Dust, Cement, Sharp Sand, Stabilization, Sub-base
   status: ''
   language: ''
   dates:

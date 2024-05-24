@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8233702
   dataseturi: https://doi.org/10.5281/zenodo.8233702
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: drilling , induction coupled plasma , atomic emission spectrometry,
+        -  drilling , induction coupled plasma , atomic emission spectrometry,
           IR spectrometry, titration, precipitation , density , pycnometry method
           , compression method , deformation modulus , chemical , toxicological and
           physics features .

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7371612
   dataseturi: https://doi.org/10.5281/zenodo.7371612
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: superammophos-K fertilizer, ammoniated superphosphate, agriculture
+        -  superammophos-K fertilizer, ammoniated superphosphate, agriculture
           of Uzbekistan, nitrogen-phosphorus fertilizers, nutrients, enzymes, mobile
           phosphorus, magnesium phosphate, mono- and dicalcium phosphate, Background
           + superammophos-K, Background + ammophos, monoammonium phosphate, ammonium

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8249922
   dataseturi: https://doi.org/10.5281/zenodo.8249922
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -16,7 +16,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Jabaka, Geo-accumulation Index (Igeo), Pollution Load Index (PLI),
+        -  Jabaka, Geo-accumulation Index (Igeo), Pollution Load Index (PLI),
           Geo-chemical distribution, Zamfara State.
   status: ''
   language: eng

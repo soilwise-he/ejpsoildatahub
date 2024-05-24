@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6823476
   dataseturi: https://doi.org/10.5281/zenodo.6823476
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Biochar, Pesticides, soil toxicity, remediation, contaminated food
+        -  Biochar, Pesticides, soil toxicity, remediation, contaminated food
           grains
   status: ''
   language: eng

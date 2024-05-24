@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5533074
   dataseturi: https://doi.org/10.5281/zenodo.5533074
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -36,7 +36,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Agrochemicals; Microbial density; Crop yield; Deltamethrine
+        -  Agrochemicals; Microbial density; Crop yield; Deltamethrine
   status: ''
   language: eng
   dates:

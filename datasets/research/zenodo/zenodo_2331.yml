@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7008090
   dataseturi: https://doi.org/10.5281/zenodo.7008090
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -17,7 +17,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Biofertilizers; biotechnology; inoculants; soil microbiota
+        -  Biofertilizers; biotechnology; inoculants; soil microbiota
   status: ''
   language: eng
   dates:

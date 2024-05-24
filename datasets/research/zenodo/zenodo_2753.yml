@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8025709
   dataseturi: https://doi.org/10.5281/zenodo.8025709
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: waterequivalent ratio
+        -  waterequivalent ratio
   status: ''
   language: eng
   dates:

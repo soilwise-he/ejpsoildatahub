@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7878897
   dataseturi: https://doi.org/10.5281/zenodo.7878897
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil acidity, zonal patterns, Histosols, soil waters, frozen mound
+        -  Soil acidity, zonal patterns, Histosols, soil waters, frozen mound
           and polygonal bogs, Western Siberia Lowland
   status: ''
   language: eng

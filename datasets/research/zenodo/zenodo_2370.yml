@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7611879
   dataseturi: https://doi.org/10.5281/zenodo.7611879
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Water catchment, reforestation/afforestation, tree seedlings, growth
+        -  Water catchment, reforestation/afforestation, tree seedlings, growth
           parameters, transpiration, evapotranspiration and water-use efficiency
   status: ''
   language: eng

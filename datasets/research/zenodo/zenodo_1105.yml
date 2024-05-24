@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7954107
   dataseturi: https://doi.org/10.5281/zenodo.7954107
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -16,7 +16,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: cotton, experiment, cropping systems, irrigation, short-row
+        -  cotton, experiment, cropping systems, irrigation, short-row
   status: ''
   language: ''
   dates:

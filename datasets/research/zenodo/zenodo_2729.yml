@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7247155
   dataseturi: https://doi.org/10.5281/zenodo.7247155
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Yields
+        -  Yields
   status: ''
   language: ''
   dates:

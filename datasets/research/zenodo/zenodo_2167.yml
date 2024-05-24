@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6858194
   dataseturi: https://doi.org/10.5281/zenodo.6858194
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Mango seed
+        -  Mango seed
   status: ''
   language: eng
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8341929
   dataseturi: https://doi.org/10.5281/zenodo.8341929
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -24,7 +24,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Atterberg limit
+        -  Atterberg limit
   status: ''
   language: ''
   dates:

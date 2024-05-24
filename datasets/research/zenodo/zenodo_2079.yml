@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5805648
   dataseturi: https://doi.org/10.5281/zenodo.5805648
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -56,7 +56,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soli analysis
+        -  soli analysis
   status: ''
   language: eng
   dates:

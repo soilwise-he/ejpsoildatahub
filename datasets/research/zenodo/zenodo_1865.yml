@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6544073
   dataseturi: https://doi.org/10.5281/zenodo.6544073
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Roraima
+        -  Roraima
   status: ''
   language: por
   dates:

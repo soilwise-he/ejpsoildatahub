@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10681442
   dataseturi: https://doi.org/10.5281/zenodo.10681442
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Morocco
+        -  Morocco
   status: ''
   language: ''
   dates:

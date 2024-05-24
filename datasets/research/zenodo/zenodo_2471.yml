@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8136178
   dataseturi: https://doi.org/10.5281/zenodo.8136178
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: "SOCS; Semi-deciduous tropical forests; Plinthosols; Ferralsols;\
+        -  "SOCS; Semi-deciduous tropical forests; Plinthosols; Ferralsols;\
           \ Fluvisols; C\xF4te d'Ivoire"
   status: ''
   language: eng

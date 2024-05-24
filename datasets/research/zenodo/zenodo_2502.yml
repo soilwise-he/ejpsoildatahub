@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7303561
   dataseturi: https://doi.org/10.5281/zenodo.7303561
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -17,7 +17,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Lindane; Bioremediation; Anaerobes; Aerobes; Zero-valent Iron
+        -  Lindane; Bioremediation; Anaerobes; Aerobes; Zero-valent Iron
   status: ''
   language: eng
   dates:

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7430045
   dataseturi: https://doi.org/10.5281/zenodo.7430045
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Triticum durum Desf., hydrogen peroxide, peroxidase, catalase, drought
+        -  Triticum durum Desf., hydrogen peroxide, peroxidase, catalase, drought
           stress
   status: ''
   language: eng

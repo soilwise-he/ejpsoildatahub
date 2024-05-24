@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7426384
   dataseturi: https://doi.org/10.5281/zenodo.7426384
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Impact, Mulch, Ricemill, Sawdust, Soil Properties.
+        -  Impact, Mulch, Ricemill, Sawdust, Soil Properties.
   status: ''
   language: eng
   dates:

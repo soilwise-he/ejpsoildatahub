@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6844374
   dataseturi: https://doi.org/10.5281/zenodo.6844374
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -40,7 +40,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: http://www.gphjournal.org/index.php/bs/
+        -  http://www.gphjournal.org/index.php/bs/
         subjectScheme: url
   status: ''
   language: ang

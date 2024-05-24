@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7067234
   dataseturi: https://doi.org/10.5281/zenodo.7067234
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil fertility, Soil Health Card, GIS, Meghalaya
+        -  Soil fertility, Soil Health Card, GIS, Meghalaya
   status: ''
   language: eng
   dates:

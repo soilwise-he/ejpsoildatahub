@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7467736
   dataseturi: https://doi.org/10.5281/zenodo.7467736
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -44,7 +44,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Aluminum Waste Cans Recycling Environmental Benefits Lagos State
+        -  Aluminum Waste Cans Recycling Environmental Benefits Lagos State
   status: ''
   language: ''
   dates:

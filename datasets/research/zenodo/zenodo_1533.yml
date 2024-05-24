@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7756184
   dataseturi: https://doi.org/10.5281/zenodo.7756184
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -25,7 +25,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil; Reflectivity; Anaerobic organisms; Wind deposit soil
+        -  Soil; Reflectivity; Anaerobic organisms; Wind deposit soil
   status: ''
   language: eng
   dates:

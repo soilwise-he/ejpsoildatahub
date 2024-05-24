@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6443573
   dataseturi: https://doi.org/10.5281/zenodo.6443573
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Humic acids
+        -  Humic acids
   status: ''
   language: eng
   dates:

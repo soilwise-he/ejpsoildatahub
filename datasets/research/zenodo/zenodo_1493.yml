@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8134514
   dataseturi: https://doi.org/10.5281/zenodo.8134514
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Microorganisms, Biodegradation, Monocil, Optimization, HPLC.
+        -  Microorganisms, Biodegradation, Monocil, Optimization, HPLC.
   status: ''
   language: ''
   dates:

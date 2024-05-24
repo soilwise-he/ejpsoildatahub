@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8348066
   dataseturi: https://doi.org/10.5281/zenodo.8348066
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.noveltyjournals.com/upload/paper/BACTERIAL%20DENSITY%20IN%20CASSAVA%20EFFLUENT-15092023-4.pdf
+        -  https://www.noveltyjournals.com/upload/paper/BACTERIAL%20DENSITY%20IN%20CASSAVA%20EFFLUENT-15092023-4.pdf
         subjectScheme: url
   status: ''
   language: eng

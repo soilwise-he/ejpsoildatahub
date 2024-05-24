@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8089772
   dataseturi: https://doi.org/10.5281/zenodo.8089772
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Model comparison
+        -  Model comparison
   status: ''
   language: ''
   dates:

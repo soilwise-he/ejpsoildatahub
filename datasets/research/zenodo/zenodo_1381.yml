@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7523917
   dataseturi: https://doi.org/10.5281/zenodo.7523917
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -47,7 +47,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Rural Settlement, Soil Types, Settlement Distribution,
+        -  Rural Settlement, Soil Types, Settlement Distribution,
   status: ''
   language: ''
   dates:

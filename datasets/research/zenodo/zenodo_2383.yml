@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8301658
   dataseturi: https://doi.org/10.5281/zenodo.8301658
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -28,7 +28,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Solid-waste-site soil (SWSS), natural soil (NS), shear strength,
+        -  Solid-waste-site soil (SWSS), natural soil (NS), shear strength,
           bearing capacity
   status: ''
   language: ''

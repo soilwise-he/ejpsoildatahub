@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5807479
   dataseturi: https://doi.org/10.5281/zenodo.5807479
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: soil samples
+        -  soil samples
   status: ''
   language: eng
   dates:

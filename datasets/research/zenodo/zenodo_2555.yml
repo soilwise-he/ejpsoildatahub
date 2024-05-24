@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8215773
   dataseturi: https://doi.org/10.5281/zenodo.8215773
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -31,7 +31,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: engineering
+        -  engineering
   status: ''
   language: eng
   dates:

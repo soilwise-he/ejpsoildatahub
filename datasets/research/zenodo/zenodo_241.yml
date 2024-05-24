@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8116736
   dataseturi: https://doi.org/10.5281/zenodo.8116736
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -29,7 +29,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: California Bearing Ratio, LL, PL, PI, Soil Strength Parameters, Regression
+        -  California Bearing Ratio, LL, PL, PI, Soil Strength Parameters, Regression
           analysis
   status: ''
   language: ''

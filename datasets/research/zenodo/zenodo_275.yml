@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8157837
   dataseturi: https://doi.org/10.5281/zenodo.8157837
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Biochar, soil acidity, heavy metals, mechanism, soil properties,
+        -  Biochar, soil acidity, heavy metals, mechanism, soil properties,
           crop performance
   status: ''
   language: eng

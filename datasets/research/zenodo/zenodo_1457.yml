@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7123274
   dataseturi: https://doi.org/10.5281/zenodo.7123274
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -22,7 +22,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil Nitrogen
+        -  Soil Nitrogen
   status: ''
   language: ''
   dates:

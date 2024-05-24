@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10034447
   dataseturi: https://doi.org/10.5281/zenodo.10034447
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -20,7 +20,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: cotton leaf; irrigated fields; saline soils; mathematical model;
+        -  cotton leaf; irrigated fields; saline soils; mathematical model;
           nutrients; salts; water; plant; root; soil moisture; soil-reclamation conditions
   status: ''
   language: ''

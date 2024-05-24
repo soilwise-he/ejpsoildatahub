@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8229520
   dataseturi: https://doi.org/10.5281/zenodo.8229520
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Geotechnical properties, plasticity, liquid limit, flooding, foundation
+        -  Geotechnical properties, plasticity, liquid limit, flooding, foundation
           design.
   status: ''
   language: ''

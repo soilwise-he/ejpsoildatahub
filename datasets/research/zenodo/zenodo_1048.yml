@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7997634
   dataseturi: https://doi.org/10.5281/zenodo.7997634
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: https://www.researchpublish.com/papers/comparative-assessment-of-soil-quality-in-neemuch-district-of-madhya-pradesh
+        -  https://www.researchpublish.com/papers/comparative-assessment-of-soil-quality-in-neemuch-district-of-madhya-pradesh
         subjectScheme: url
   status: ''
   language: eng

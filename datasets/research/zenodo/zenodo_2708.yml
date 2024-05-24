@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7186291
   dataseturi: https://doi.org/10.5281/zenodo.7186291
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Fertility Status; Evaluation; Agro-climatic zone; Kahra block
+        -  Fertility Status; Evaluation; Agro-climatic zone; Kahra block
   status: ''
   language: eng
   dates:

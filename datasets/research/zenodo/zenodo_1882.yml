@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7681869
   dataseturi: https://doi.org/10.5281/zenodo.7681869
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: IoT; Thing-speak; NodeMCU; DHT 11; Soil Moisture sensor; Temperature
+        -  IoT; Thing-speak; NodeMCU; DHT 11; Soil Moisture sensor; Temperature
           and Humidity sensor
   status: ''
   language: eng

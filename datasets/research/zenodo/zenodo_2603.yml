@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8240798
   dataseturi: https://doi.org/10.5281/zenodo.8240798
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -42,7 +42,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Bio-organic Fertilizer, Carotenoids, polyphenols, synthetic fertilizer,
+        -  Bio-organic Fertilizer, Carotenoids, polyphenols, synthetic fertilizer,
           organic farming.
   status: ''
   language: eng

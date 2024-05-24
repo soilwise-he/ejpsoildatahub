@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7426376
   dataseturi: https://doi.org/10.5281/zenodo.7426376
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Organic carbon, organic matter, carbon loss on ignition, microbial
+        -  Organic carbon, organic matter, carbon loss on ignition, microbial
           biomass carbon
   status: ''
   language: eng

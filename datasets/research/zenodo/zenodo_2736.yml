@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7142848
   dataseturi: https://doi.org/10.5281/zenodo.7142848
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -37,7 +37,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Rate of seepage flow through the dam,Analysis of bearing capacity
+        -  Rate of seepage flow through the dam,Analysis of bearing capacity
           of soil using Terzaghi principle,Experimental and finite element analysis
           of seepage,SEEP/W of the Geo Studio application in finite element method.
   status: ''

@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7146371
   dataseturi: https://doi.org/10.5281/zenodo.7146371
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -23,7 +23,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Organic Nitrogen
+        -  Organic Nitrogen
   status: ''
   language: ''
   dates:

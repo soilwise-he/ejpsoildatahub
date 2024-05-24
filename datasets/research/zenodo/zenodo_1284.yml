@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5805680
   dataseturi: https://doi.org/10.5281/zenodo.5805680
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -32,7 +32,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: leaching stress
+        -  leaching stress
   status: ''
   language: eng
   dates:

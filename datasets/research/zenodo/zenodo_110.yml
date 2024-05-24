@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8354471
   dataseturi: https://doi.org/10.5281/zenodo.8354471
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Agriculture, Arduino UNO, Internet Of Things[IOT], Macronutrient,
+        -  Agriculture, Arduino UNO, Internet Of Things[IOT], Macronutrient,
           Micronutrient, Nitrogen Phosphorus Potassium [NPK], Soil Health, Soil HealthReport
           Card.
   status: ''

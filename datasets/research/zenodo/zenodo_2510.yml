@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7340617
   dataseturi: https://doi.org/10.5281/zenodo.7340617
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: light gray pasture, cotton and related crops, cotton, mosh, soybeans,
+        -  light gray pasture, cotton and related crops, cotton, mosh, soybeans,
           growth and development, cotton, cereals.
   status: ''
   language: ''

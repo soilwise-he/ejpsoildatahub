@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6501480
   dataseturi: https://doi.org/10.5281/zenodo.6501480
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: In situ, carabao mango, soil analysis, potassium
+        -  In situ, carabao mango, soil analysis, potassium
   status: ''
   language: eng
   dates:

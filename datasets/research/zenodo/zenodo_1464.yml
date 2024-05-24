@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7263552
   dataseturi: https://doi.org/10.5281/zenodo.7263552
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: root system
+        -  root system
   status: ''
   language: ukr
   dates:

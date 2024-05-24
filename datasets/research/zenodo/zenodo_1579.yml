@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8260415
   dataseturi: https://doi.org/10.5281/zenodo.8260415
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -43,7 +43,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Plant Nutrition Balance, Soil Fertility, Integrated Management, Economic
+        -  Plant Nutrition Balance, Soil Fertility, Integrated Management, Economic
           Returns, Investments
   status: ''
   language: eng

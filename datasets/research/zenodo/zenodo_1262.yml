@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7876515
   dataseturi: https://doi.org/10.5281/zenodo.7876515
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -19,7 +19,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: independent observation, soil section, genetic layers, experiment,
+        -  independent observation, soil section, genetic layers, experiment,
           humus, accumulator, reconnaissance
   status: ''
   language: ''

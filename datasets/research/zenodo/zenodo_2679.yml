@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8015031
   dataseturi: https://doi.org/10.5281/zenodo.8015031
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -34,7 +34,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil moisture, LST, Landsat-8, NDVI, GIS
+        -  Soil moisture, LST, Landsat-8, NDVI, GIS
   status: ''
   language: ''
   dates:

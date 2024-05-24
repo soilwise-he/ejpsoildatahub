@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10049824
   dataseturi: https://doi.org/10.5281/zenodo.10049824
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -39,7 +39,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Organic and Green Manure
+        -  Organic and Green Manure
   status: ''
   language: eng
   dates:

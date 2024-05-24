@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.10463101
   dataseturi: https://doi.org/10.5281/zenodo.10463101
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -16,7 +16,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil fertility,Forage legumes, Germination, Pasture Establishment
+        -  Soil fertility,Forage legumes, Germination, Pasture Establishment
   status: ''
   language: ''
   dates:

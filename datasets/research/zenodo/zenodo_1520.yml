@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6379481
   dataseturi: https://doi.org/10.5281/zenodo.6379481
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: nitrogen fertilization; yield response; design of experiment (DoE);
+        -  nitrogen fertilization; yield response; design of experiment (DoE);
           NUE
   status: ''
   language: eng

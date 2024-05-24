@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6817372
   dataseturi: https://doi.org/10.5281/zenodo.6817372
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -30,7 +30,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Ag-Zyme; Liquid Organic Fertilizer; Soybean; Macro Element; Uptake
+        -  Ag-Zyme; Liquid Organic Fertilizer; Soybean; Macro Element; Uptake
   status: ''
   language: eng
   dates:

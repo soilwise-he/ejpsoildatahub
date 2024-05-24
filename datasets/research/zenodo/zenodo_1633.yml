@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.7537136
   dataseturi: https://doi.org/10.5281/zenodo.7537136
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -35,7 +35,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: cementitious materials
+        -  cementitious materials
   status: ''
   language: eng
   dates:

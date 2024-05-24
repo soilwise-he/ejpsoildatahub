@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5637767
   dataseturi: https://doi.org/10.5281/zenodo.5637767
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: RAC
+        -  RAC
   status: ''
   language: eng
   dates:

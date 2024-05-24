@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.5813348
   dataseturi: https://doi.org/10.5281/zenodo.5813348
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -33,7 +33,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Pannonian region
+        -  Pannonian region
   status: ''
   language: ''
   dates:

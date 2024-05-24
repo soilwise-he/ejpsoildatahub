@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.6726300
   dataseturi: https://doi.org/10.5281/zenodo.6726300
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -38,7 +38,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Soil-machine-implement parameters
+        -  Soil-machine-implement parameters
   status: ''
   language: ''
   dates:

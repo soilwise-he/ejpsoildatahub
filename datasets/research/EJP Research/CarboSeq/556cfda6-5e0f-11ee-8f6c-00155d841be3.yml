@@ -32,7 +32,11 @@ identification:
   keywords:
     default:
       keywords:
-        subject: EJPSOIL, LTEs, agricultural (meta)data, SOC, organic carbon
+        - EJPSOIL, 
+        - LTEs
+        - agricultural (meta)data
+        - SOC
+        - organic carbon
 content_info: {}
 contact:
   Ruysschaert-Greet:

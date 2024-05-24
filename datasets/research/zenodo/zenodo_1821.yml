@@ -4,7 +4,7 @@ metadata:
   identifier: doi.org-10.5281-zenodo.8173979
   dataseturi: https://doi.org/10.5281/zenodo.8173979
   datestamp: ''
-  hierarchylevel: journalarticle
+  hierarchylevel: text
 spatial:
   datatype: ''
   geomtype: ''
@@ -44,7 +44,7 @@ identification:
   keywords:
     default:
       keywords:
-        subject: Arsenic, Fungi, Consortium, PGPR, Bioremediation
+        -  Arsenic, Fungi, Consortium, PGPR, Bioremediation
   status: ''
   language: ''
   dates:
