@@ -2,29 +2,34 @@
 default:
   interruptible: false
 stages:
-  - metadata
+  - metadata-export
+  - metadata-push
 
 # metadata
-metadata:
-  image: harbor.containers.wurnet.nl/isric/pygeodatacrawler:1.1.4
-  stage: metadata
+metadata-export:
+  image: harbor.containers.wurnet.nl/proxy-cache/pvgenuchten/geodatacrawler:1.5.4
+  stage: metadata-export
+  script:
+    # covert yml to iso (only changed?)
+    - export pgdc_webdav_url=https://soilwise-he.containers.wurnet.nl/cat/collections/metadata:main/items
+    - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
+    - export pgdc_canonical_url=https://github.com/soilwise-he/soilinfohub/tree/main/datasets/
+    - crawl-metadata --dir=$CI_PROJECT_DIR/datasets --mode=export --dir-out=$CI_PROJECT_DIR/tmp
+
+metadata-push:
+  image: harbor.containers.wurnet.nl/proxy-cache/geopython/pycsw
+  stage: metadata-push
   script:
     - export PYCSW_DB=postgresql://$POSTGRES_ROLE:$POSTGRES_PW@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST
     - echo "deploy postgresql://$POSTGRES_ROLE:*****@$POSTGRES_HOST:$POSTGRES_PORT/$POSTGRES_DB_TEST"
     # init database if it does not exist
     #- pip install sqlalchemy
     #- pycsw-admin.py setup-db -c ./pycsw.cfg
-    # covert yml to iso (only changed?)
-    - export pgdc_webdav_url=https://soilwise-he.containers.wurnet.nl/cat/collections/metadata:main/items
-    - export pgdc_schema_path=/pyGeoDataCrawler/geodatacrawler/schemas
-    - export pgdc_canonical_url=https://github.com/soilwise-he/soilinfohub/tree/main/datasets/
-    - cd /pyGeoDataCrawler
-    - poetry run crawl-metadata --dir=$CI_PROJECT_DIR/datasets --mode=export --dir-out=/tmp
     # upload iso to pycsw (remove first, only changed?)
     - pycsw-admin.py delete-records --config=$CI_PROJECT_DIR/pycsw.cfg -y
-    - pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=/tmp
+    - pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=$CI_PROJECT_DIR/tmp
     # load also other xml files
-    - pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=$CI_PROJECT_DIR/datasets -r
+    #- pycsw-admin.py load-records --config=$CI_PROJECT_DIR/pycsw.cfg  --path=$CI_PROJECT_DIR/datasets -r
   when: on_success
   only:
     - main
